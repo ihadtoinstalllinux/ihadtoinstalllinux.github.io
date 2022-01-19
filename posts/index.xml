@@ -6,7 +6,18 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jan 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стабильный релиз Wine 7.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</link>
+      <pubDate>Wed, 19 Jan 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</guid>
+      <description>После года разработки и 30 экспериментальных версий представлен стабильный релиз открытой реализации Win32 API - Wine 7.0, который вобрал в себя более 9100 изменений. Из ключевых достижений новой версии отмечается перевод большинства модулей Wine в формате PE, поддержка тем оформления, расширение стека для джойстиков и устройств ввода с интерфейсом HID, реализация архитектуры WoW64 для запуска 32-разрядных программ в 64-разрядном окружении.
+#Wine
+https://www.opennet.ru/opennews/art.shtml?num=56539</description>
+    </item>
+    
     <item>
       <title>Обновление Java SE, MySQL, VirtualBox и других продуктов Oracle с устранением уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/post20220119-120102/</link>

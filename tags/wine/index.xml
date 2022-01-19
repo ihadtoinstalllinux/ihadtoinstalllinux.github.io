@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wine on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wine/</link>
+    <description>Recent content in Wine on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стабильный релиз Wine 7.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</link>
+      <pubDate>Wed, 19 Jan 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</guid>
+      <description>После года разработки и 30 экспериментальных версий представлен стабильный релиз открытой реализации Win32 API - Wine 7.0, который вобрал в себя более 9100 изменений. Из ключевых достижений новой версии отмечается перевод большинства модулей Wine в формате PE, поддержка тем оформления, расширение стека для джойстиков и устройств ввода с интерфейсом HID, реализация архитектуры WoW64 для запуска 32-разрядных программ в 64-разрядном окружении.
+#Wine
+https://www.opennet.ru/opennews/art.shtml?num=56539</description>
+    </item>
+    
+  </channel>
+</rss>
