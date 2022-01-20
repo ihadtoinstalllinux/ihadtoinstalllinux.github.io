@@ -6,7 +6,16 @@
     <description>Recent content in CentOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания SUSE развивает собственную замену CentOS 8, совместимую с RHEL 8.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-193503/</link>
+      <pubDate>Thu, 20 Jan 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-193503/</guid>
+      <description>Появились дополнительные подробности о проекте SUSE Liberty Linux, который утром был анонсирован компанией SUSE без технических деталей. Оказалось, что в рамках проекта подготовлена новая редакция дистрибутива Red Hat Enterprise Linux 8.5, собранная с использованием платформы Open Build Service и пригодная для использования вместо классического CentOS 8, поддержка которого была прекращена в конце 2021 года. Предполагается, что пользователи CentOS 8 и RHEL 8 смогут перевести свои системы на дистрибутив SUSE Liberty Linux, предоставляющий полную бинарную совместимость с RHEL и пакетами из репозитория EPEL.</description>
+    </item>
+    
     <item>
       <title>Инициатива SUSE Liberty Linux для унификации поддержки SUSE, openSUSE, RHEL и CentOS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/post20220120-143502/</link>
