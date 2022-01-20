@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 11:56:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>image 20220120-115606</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-115606/</link>
+      <pubDate>Thu, 20 Jan 2022 11:56:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-115606/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обновление Chrome 97.0.4692.99 с устранением критической уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-115530/</link>
+      <pubDate>Thu, 20 Jan 2022 11:55:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-115530/</guid>
+      <description>Компания Google сформировала обновления Chrome 97.0.4692.99 и 96.0.4664.174 (Extended Stable), в которых исправлено 26 уязвимостей, в том числе критическая уязвимость (CVE-2022-0289), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость связана с обращением к уже освобождённой памяти (use-after-free) в реализации режима Safe Browsing.
+https://www.opennet.ru/opennews/art.shtml?num=56544</description>
+    </item>
+    
     <item>
       <title>Выпуск AlphaPlot, программы для построения научных графиков</title>
       <link>https://ihadtoinstalllinux.github.io/posts/post20220120-113502/</link>

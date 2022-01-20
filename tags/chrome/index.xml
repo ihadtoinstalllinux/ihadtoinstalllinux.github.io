@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chrome on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chrome/</link>
+    <description>Recent content in Chrome on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 11:55:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Chrome 97.0.4692.99 с устранением критической уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-115530/</link>
+      <pubDate>Thu, 20 Jan 2022 11:55:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-115530/</guid>
+      <description>Компания Google сформировала обновления Chrome 97.0.4692.99 и 96.0.4664.174 (Extended Stable), в которых исправлено 26 уязвимостей, в том числе критическая уязвимость (CVE-2022-0289), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость связана с обращением к уже освобождённой памяти (use-after-free) в реализации режима Safe Browsing.
+https://www.opennet.ru/opennews/art.shtml?num=56544</description>
+    </item>
+    
+  </channel>
+</rss>
