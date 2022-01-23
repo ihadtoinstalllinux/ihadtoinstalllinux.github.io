@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wayland on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wayland/</link>
+    <description>Recent content in Wayland on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пользовательского окружения Sway 1.7, использующего Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-sway-1-7-ispolzuyuschego-wayland-20220123-113503/</link>
+      <pubDate>Sun, 23 Jan 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-sway-1-7-ispolzuyuschego-wayland-20220123-113503/</guid>
+      <description>Опубликован релиз композитного менеджера Sway 1.7, построенного с использованием протокола Wayland и полностью совместимого с мозаичным оконным менеджером i3 и панелью i3bar. Код проекта написан на языке Си и распространяется под лицензией MIT. Проект нацелен на использование в Linux и FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=56562</description>
+    </item>
+    
+  </channel>
+</rss>
