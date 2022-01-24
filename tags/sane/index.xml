@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SANE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sane/</link>
+    <description>Recent content in SANE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sane/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск SANE 1.1 с поддержкой новых моделей сканеров </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/</link>
+      <pubDate>Mon, 24 Jan 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/</guid>
+      <description>Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56567</description>
+    </item>
+    
+  </channel>
+</rss>

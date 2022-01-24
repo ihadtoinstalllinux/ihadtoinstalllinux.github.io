@@ -5,13 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>iHADtoinstalllinux</title>
-
-<meta name="description" content="">
+<title>Выпуск SANE 1.1 с поддержкой новых моделей сканеров  | iHADtoinstalllinux</title>
+<meta name="keywords" content="SANE" />
+<meta name="description" content="Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56567">
 <meta name="author" content="ihadtoinstalllinux">
-<link rel="canonical" href="https://ihadtoinstalllinux.github.io/" />
+<link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
 <link rel="preload" href="apple-touch-icon.png" as="image">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://ihadtoinstalllinux.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://ihadtoinstalllinux.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://ihadtoinstalllinux.github.io/favicon-32x32.png">
@@ -20,8 +23,6 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <meta name="generator" content="Hugo 0.92.0" />
-<link rel="alternate" type="application/rss+xml" href="https://ihadtoinstalllinux.github.io/index.xml">
-<link rel="alternate" type="application/json" href="https://ihadtoinstalllinux.github.io/index.json">
 <noscript>
     <style>
         #theme-toggle,
@@ -58,31 +59,76 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="iHADtoinstalllinux" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://ihadtoinstalllinux.github.io/" />
+</noscript><meta property="og:title" content="Выпуск SANE 1.1 с поддержкой новых моделей сканеров " />
+<meta property="og:description" content="Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56567" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-01-24T17:35:03&#43;05:00" />
+<meta property="article:modified_time" content="2022-01-24T17:35:03&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="iHADtoinstalllinux"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Выпуск SANE 1.1 с поддержкой новых моделей сканеров "/>
+<meta name="twitter:description" content="Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56567"/>
+
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "iHADtoinstalllinux",
-  "url": "https://ihadtoinstalllinux.github.io/",
-  "description": "",
-  "thumbnailUrl": "https://ihadtoinstalllinux.github.io/favicon.ico",
-  "sameAs": [
-      "https://vk.com/ihadtoinstalllinux", "https://t.me/ihadtoinstalllinux", "index.xml"
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://ihadtoinstalllinux.github.io/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Выпуск SANE 1.1 с поддержкой новых моделей сканеров ",
+      "item": "https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/"
+    }
   ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Выпуск SANE 1.1 с поддержкой новых моделей сканеров ",
+  "name": "Выпуск SANE 1.1 с поддержкой новых моделей сканеров ",
+  "description": "Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.\nhttps://www.opennet.ru/opennews/art.shtml?num=56567",
+  "keywords": [
+    "SANE"
+  ],
+  "articleBody": "Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.\nhttps://www.opennet.ru/opennews/art.shtml?num=56567\n",
+  "wordCount" : "33",
+  "inLanguage": "en",
+  "datePublished": "2022-01-24T17:35:03+05:00",
+  "dateModified": "2022-01-24T17:35:03+05:00",
+  "author":{
+    "@type": "Person",
+    "name": "ihadtoinstalllinux"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ihadtoinstalllinux.github.io/posts/vypusk-sane-1-1-s-podderzhkoy-novyh-modeley-skanerov-20220124-173503/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "iHADtoinstalllinux",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ihadtoinstalllinux.github.io/favicon.ico"
+    }
+  }
 }
 </script>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -147,82 +193,38 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main">
 
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-67.userapi.com/guWYT8x7oiDdje1NGsLSK-DzN_6lx7W1C4OnyA/jNWREysYHX0.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>jNWREysYHX0.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-22 10:35:28 +0500 +05'>January 22, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to jNWREysYHX0.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220122-103528/"></a>
-</article>
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
+    <h1 class="post-title">
+      Выпуск SANE 1.1 с поддержкой новых моделей сканеров 
+    </h1>
+    <div class="post-meta"><span title='2022-01-24 17:35:03 +0500 +05'>January 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-55.userapi.com/2QWAoXDQqkq1nftwDxWyQLxf9rwZEg1dnXgDAA/S47ktyKZ5tk.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>S47ktyKZ5tk.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-22 07:35:46 +0500 +05'>January 22, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to S47ktyKZ5tk.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220122-073546/"></a>
-</article>
+</div>
+  </header> 
+  <div class="post-content"><p>Подготовлен релиз пакета sane-backends 1.1.1, в который входит набор драйверов, утилита командной строки scanimage, демон для организации сканирования по сети saned и библиотеки с реализацией SANE-API. Код проекта распространяется под лицензией GPLv2.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=56567">https://www.opennet.ru/opennews/art.shtml?num=56567</a></p>
 
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-80.userapi.com/IqUnz0hsYqmaVpq5TP1wg2moptI7FVRxcFv3Ag/21amSG_A6hk.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>21amSG_A6hk.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-21 23:35:57 +0500 +05'>January 21, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to 21amSG_A6hk.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220121-233557/"></a>
-</article>
 
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-15.userapi.com/VlS9U7CEVvVB9dwwj2EwHBaz1xj_X7TtM0Dd0A/qn7R6kh1_lU.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>qn7R6kh1_lU.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-21 22:35:47 +0500 +05'>January 21, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to qn7R6kh1_lU.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220121-223547/"></a>
-</article>
+  </div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Операционная система НТЦ ИТ РОСА совместима с персональными компьютерами RASKAT
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Научно-технический центр информационных технологий РОСА и компания 3Logic Group завершили комплексное тестирование линейки операционных систем и средств виртуализации НТЦ ИТ РОСА с персональными компьютерами и графическими станциями Raskat. По результатам испытаний подтверждена полная совместимость компьютерной техники под торговой маркой Raskat с операционными системами РОСА «КОБАЛЬТ», ROSA Enterprise Desktop, ROSA Enterprise Linux Desktop, ROSA Enterprise Linux Server […]
-https://www.rosalinux.ru/operaczionnaya-sistema-ntcz-it-rosa-sovmestima-s-personalnymi-kompyuterami-raskat/</p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-21 21:36:04 +0500 +05'>January 21, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Операционная система НТЦ ИТ РОСА совместима с персональными компьютерами RASKAT" href="https://ihadtoinstalllinux.github.io/posts/operacionnaya-sistema-ntc-it-rosa-sovmestima-s-personalnymi-kompyuterami-raskat-20220121-213604/"></a>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/sane/">SANE</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://ihadtoinstalllinux.github.io/posts/img-20220124-163811/">
+    <span class="title">Next Page »</span>
+    <br>
+    <span>sGsXTPbmT88.jpg</span>
+  </a>
+</nav>
+
+  </footer>
 </article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="https://ihadtoinstalllinux.github.io/page/5/">« Prev Page</a>
-    <a class="next" href="https://ihadtoinstalllinux.github.io/page/7/">Next Page »</a>
-  </nav>
-</footer>
     </main>
     
 <footer class="footer">
