@@ -6,7 +6,26 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 22:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 23:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UqrlGBRSvyc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220125-233521/</link>
+      <pubDate>Tue, 25 Jan 2022 23:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220125-233521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В Polkit добавлена поддержка JavaScript-движка Duktape</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</link>
+      <pubDate>Tue, 25 Jan 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</guid>
+      <description>В инструментарий Polkit, используемый в дистрибутивах для обработки авторизации и определения правил доступа к операциям, требующим повышенных прав доступа (например, монтирования USB-накопителя), добавлен бэкенд, позволяющий использовать встраиваемый JavaScript-движок Duktape вместо ранее применяемого движка Mozilla Gecko (по умолчанию как и раньше осуществляется сборка с движком Mozilla). Язык JavaScript в Polkit используется для определения правил доступа, которые взаимодействуют с привилегированным фоновым процессом polkitd при помощи объекта &amp;ldquo;polkit&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=56578</description>
+    </item>
+    
     <item>
       <title>g4Z8rcpR_VU.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220125-223526/</link>
