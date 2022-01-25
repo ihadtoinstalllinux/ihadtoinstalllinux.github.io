@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vulkan on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vulkan/</link>
+    <description>Recent content in Vulkan on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 21:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован графический стандарт Vulkan 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-3-20220125-213502/</link>
+      <pubDate>Tue, 25 Jan 2022 21:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-3-20220125-213502/</guid>
+      <description>После двух лет работы консорциум Khronos, занимающийся разработкой графических стандартов, опубликовал спецификацию Vulkan 1.3, определяющую API для доступа к графическим и вычислительным возможностям GPU. Новая спецификация вобрала в себя накопившиеся за два года исправления и расширения. Отмечается, что требования спецификации Vulkan 1.3 рассчитаны на графическое оборудование класса OpenGL ES 3.1, что позволит обеспечить поддержку нового графического API во всех GPU, поддерживающих Vulkan 1.2. Инструментарий Vulkan SDK планируют опубликовать в середине февраля.</description>
+    </item>
+    
+  </channel>
+</rss>
