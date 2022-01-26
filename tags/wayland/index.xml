@@ -6,7 +6,16 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ночных сборках Firefox по умолчанию включена поддержка Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-po-umolchaniyu-vklyuchena-podderzhka-wayland-20220126-163503/</link>
+      <pubDate>Wed, 26 Jan 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-po-umolchaniyu-vklyuchena-podderzhka-wayland-20220126-163503/</guid>
+      <description>В ночных сборках Firefox, на основе которых будет сформирован релиз Firefox 98, намеченный на 8 марта, по умолчанию активирована поддержка протокола Wayland для пользовательских окружений, обеспечивающих его поддержку. Проверить использование Wayland в Firefox можно на странице &amp;ldquo;about:support&amp;rdquo;. Из остающихся нерешёнными проблем отмечается зависание при перемещении мышью вкладок, нарушение выравнивания подменю, проблемы с установкой переменной окружения WM_CLASS, смещение меню закладок и контекстного меню за границу экрана, аварийные завершения при выполнении операции wl_array_copy или при слишком длинном выпадающем меню.</description>
+    </item>
+    
     <item>
       <title>Выпуск пользовательского окружения Sway 1.7, использующего Wayland </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-sway-1-7-ispolzuyuschego-wayland-20220123-113503/</link>
