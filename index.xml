@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jan 2022 11:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мультимедийная библиотека SDL переходит на использование Wayland по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/multimediynaya-biblioteka-sdl-perehodit-na-ispolzovanie-wayland-po-umolchaniyu-20220127-123502/</link>
+      <pubDate>Thu, 27 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/multimediynaya-biblioteka-sdl-perehodit-na-ispolzovanie-wayland-po-umolchaniyu-20220127-123502/</guid>
+      <description>В кодовую базу библиотеки SDL (Simple DirectMedia Layer) принято изменение по умолчанию активирующее работу на базе протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. Ранее в Wayland-окружениях с компонентом XWayland по умолчанию активировался вывод с использованием X11, а для применения Wayland нужно было запускать приложение со специальной настройкой. Изменение войдёт в состав выпуска SDL 2.0.22, намеченного на март. Отмечается, что для полноценной работы приложений на базе SDL в Wayland требуется наличие библиотеки libdecor для декорирования окон на стороне клиента.</description>
+    </item>
+    
     <item>
       <title>GY5NLqH38WI.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220127-113527/</link>
