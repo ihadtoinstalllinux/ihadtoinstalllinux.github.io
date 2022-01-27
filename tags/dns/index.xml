@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dns/</link>
+    <description>Recent content in DNS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DNS-сервера BIND 9.18.0 с поддержкой DNS-over-TLS и DNS-over-HTTPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-18-0-s-podderzhkoy-dns-over-tls-i-dns-over-https-20220127-153503/</link>
+      <pubDate>Thu, 27 Jan 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-18-0-s-podderzhkoy-dns-over-tls-i-dns-over-https-20220127-153503/</guid>
+      <description>После двух лет разработки консорциум ISC представил первый стабильный релиз новой значительной ветки DNS-сервера BIND 9.18. Поддержка ветки 9.18 будет осуществляться в течение трёх лет до 2 квартала 2025 года в рамках расширенного цикла сопровождения. Обновления для прошлой LTS-ветки 9.11 продолжат выпускаться до декабря 2021 года. Поддержка ветки 9.11 прекратится в марте, а ветки 9.16 в середине 2023 года. Для развития функциональности следующей стабильной версии BIND сформирована экспериментальная ветка BIND 9.</description>
+    </item>
+    
+  </channel>
+</rss>
