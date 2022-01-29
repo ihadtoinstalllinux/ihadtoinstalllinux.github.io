@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wine on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/tags/wine/</link>
-    <description>Recent content in Wine on iHADtoinstalllinux</description>
+    <title>staging on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/staging/</link>
+    <description>Recent content in staging on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jan 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/staging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Wine 7.1 и Wine staging 7.1 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-1-i-wine-staging-7-1-20220129-123502/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-1-i-wine-staging-7-1-20220129-123502/</guid>
       <description>Состоялся экспериментальный выпуск открытой реализации Win32 API - Wine 7.1. С момента выпуска 7.0 было закрыто 42 отчёта об ошибках и внесено 408 изменений. Напомним, что начиная с ветки 2.x проект Wine перешёл на схему нумерации версий, в которой каждый стабильный релиз приводит к увеличению первой цифры в номере версии (6.0.0, 7.0.0), а обновления к стабильным релизам выпускаются с изменением третьей цифры (7.0.1, 7.0.2, 7.0.3). Экспериментальные версии, развиваемые в процессе подготовки следующего значительного релиза, выпускаются с изменением второй цифры (7.</description>
-    </item>
-    
-    <item>
-      <title>Стабильный релиз Wine 7.0 </title>
-      <link>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</link>
-      <pubDate>Wed, 19 Jan 2022 17:35:02 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/post20220119-050102/</guid>
-      <description>После года разработки и 30 экспериментальных версий представлен стабильный релиз открытой реализации Win32 API - Wine 7.0, который вобрал в себя более 9100 изменений. Из ключевых достижений новой версии отмечается перевод большинства модулей Wine в формате PE, поддержка тем оформления, расширение стека для джойстиков и устройств ввода с интерфейсом HID, реализация архитектуры WoW64 для запуска 32-разрядных программ в 64-разрядном окружении.
-#Wine
-https://www.opennet.ru/opennews/art.shtml?num=56539</description>
     </item>
     
   </channel>
