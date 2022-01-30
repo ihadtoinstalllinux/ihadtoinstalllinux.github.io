@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nitrux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nitrux/</link>
+    <description>Recent content in Nitrux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nitrux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Nitrux 2.0 с рабочим столом NX Desktop </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-0-s-rabochim-stolom-nx-desktop-20220130-133502/</link>
+      <pubDate>Sun, 30 Jan 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-0-s-rabochim-stolom-nx-desktop-20220130-133502/</guid>
+      <description>Опубликован выпуск дистрибутива Nitrux 2.0.0, построенного на пакетной базе Debian, технологиях KDE и системе инициализации OpenRC. Дистрибутив развивает собственный рабочий стол NX Desktop, который представляет собой надстройку над пользовательским окружением KDE Plasma, а также фреймворк построения интерфейсов пользователя MauiKit, на основе которого развивается набор типовых пользовательских приложений, которые можно использовать как на настольных системах, так и на мобильных устройствах. Для установки дополнительных приложений продвигается система самодостаточных пакетов AppImages. Размер загрузочного образа составляет 2.</description>
+    </item>
+    
+  </channel>
+</rss>
