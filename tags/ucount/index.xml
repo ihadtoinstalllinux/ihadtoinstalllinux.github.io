@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ucount on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ucount/</link>
+    <description>Recent content in ucount on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jan 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ucount/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в механизме ucount ядра Linux, позволяющая повысить свои привилегии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-mehanizme-ucount-yadra-linux-pozvolyayuschaya-povysit-svoi-privilegii-20220131-143502/</link>
+      <pubDate>Mon, 31 Jan 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-mehanizme-ucount-yadra-linux-pozvolyayuschaya-povysit-svoi-privilegii-20220131-143502/</guid>
+      <description>В ядре Linux в коде обработки ограничений rlimit в разных пространствах имён идентификаторов пользователей (user namespaces) выявлена уязвимость (CVE-2022-24122), позволяющая повысить свои привилегии в системе. Проблема проявляется начиная с ядра Linux 5.14 и будет устранена в обновлениях 5.16.5 и 5.15.19. Стабильные ветки Debian, Ubuntu, SUSE/openSUSE и RHEL проблема не затрагивает, но проявляется в свежих ядрах Fedora и Arch Linux.
+https://www.opennet.ru/opennews/art.shtml?num=56610</description>
+    </item>
+    
+  </channel>
+</rss>
