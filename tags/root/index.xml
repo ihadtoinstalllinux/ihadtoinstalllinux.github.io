@@ -6,7 +6,17 @@
     <description>Recent content in root on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённая root-уязвимость в Samba</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-root-uyazvimost-v-samba-20220131-223502/</link>
+      <pubDate>Mon, 31 Jan 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-root-uyazvimost-v-samba-20220131-223502/</guid>
+      <description>Опубликованы корректирующие выпуски пакета 4.15.5, 4.14.12 и 4.13.17 с устранением 3 уязвимостей. Наиболее опасная уязвимость (CVE-2021-44142) позволяет удалённому атакующему выполнить произвольный код с правами root на системе с уязвимой версией Samba. Проблеме присвоен уровень опасности 9.9 из 10.
+https://www.opennet.ru/opennews/art.shtml?num=56615</description>
+    </item>
+    
     <item>
       <title>Критическая уязвимость в PolKit, позволяющая получить root-доступ в большинстве дистрибутивов Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-polkit-pozvolyayuschaya-poluchit-root-dostup-v-bolshinstve-dist-20220126-143503/</link>
