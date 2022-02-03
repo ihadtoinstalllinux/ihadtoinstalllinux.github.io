@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Началась публикация 64-разрядных сборок дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</link>
+      <pubDate>Thu, 03 Feb 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</guid>
+      <description>Разработчики проекта Raspberry Pi сообщили о начале формирования 64-разрядных сборок дистрибутива Raspberry Pi OS (Raspbian), основанного на пакетной базе Debian 11 и оптимизированного для плат Raspberry Pi. До сих пор дистрибутив предоставлял только унифицированные для всех плат 32-разрядные сборки. Отныне для плат с процессорами на базе архитектуры ARMv8-A, таких как Raspberry Pi Zero 2 (SoC BCM2710 с CPU Cortex-A53), Raspberry Pi 3 (SoC BCM2710 с CPU Cortex-A53) и Raspberry Pi 4	(SoC BCM2711 с CPU Cortex-A72), начали формироваться отдельные 64-разрядные сборки.</description>
+    </item>
+    
     <item>
       <title>В NPM включена обязательная двухфакторная аутентификация для 100 самых популярных пакетов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-npm-vklyuchena-obyazatelnaya-dvuhfaktornaya-autentifikaciya-dlya-100-samyh-populyarnyh-p-20220203-173502/</link>
