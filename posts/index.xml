@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 13:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пользователи NoScript столкнулись с нарушением работы в браузерах на базе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</link>
+      <pubDate>Fri, 04 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</guid>
+      <description>Сформирован выпуск браузерного дополнения NoScript 11.2.18, предназначенного для блокирования опасного и нежелательного JavaScript-кода, а также различных видов атак (XSS, DNS Rebinding, CSRF, Clickjacking). В новой версии устранена проблема, вызванная изменением в обработке URL file:// в движке Chromium. Проблема приводила к невозможности открытия многих сайтов (Gmail, Facebook и т.п.) после обновления дополнения до версии 11.2.16 в новых выпусках браузеров, использующих движок Chromium (Chrome, Brave, Vivaldi).
+https://www.opennet.ru/opennews/art.shtml?num=56636</description>
+    </item>
+    
     <item>
       <title>QOA93uOjq_Q.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220204-133602/</link>

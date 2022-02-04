@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NoScript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/noscript/</link>
+    <description>Recent content in NoScript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/noscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пользователи NoScript столкнулись с нарушением работы в браузерах на базе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</link>
+      <pubDate>Fri, 04 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</guid>
+      <description>Сформирован выпуск браузерного дополнения NoScript 11.2.18, предназначенного для блокирования опасного и нежелательного JavaScript-кода, а также различных видов атак (XSS, DNS Rebinding, CSRF, Clickjacking). В новой версии устранена проблема, вызванная изменением в обработке URL file:// в движке Chromium. Проблема приводила к невозможности открытия многих сайтов (Gmail, Facebook и т.п.) после обновления дополнения до версии 11.2.16 в новых выпусках браузеров, использующих движок Chromium (Chrome, Brave, Vivaldi).
+https://www.opennet.ru/opennews/art.shtml?num=56636</description>
+    </item>
+    
+  </channel>
+</rss>
