@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Feb 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Яндекс опубликовал skbtrace, утилиту для трассировки сетевых операций в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yandeks-opublikoval-skbtrace-utilitu-dlya-trassirovki-setevyh-operaciy-v-linux-20220206-153503/</link>
+      <pubDate>Sun, 06 Feb 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yandeks-opublikoval-skbtrace-utilitu-dlya-trassirovki-setevyh-operaciy-v-linux-20220206-153503/</guid>
+      <description>Компания Яндекс опубликовала исходные тексты утилиты skbtrace, предоставляющей средства для отслеживания работы сетевого стека и трассировки выполнения сетевых операций в Linux. Утилита реализована в форме надстройки над системой динамической отладки BPFtrace. Код написан на языке Go и распространяется под лицензией MIT. Поддерживается работа с ядрами Linux 4.14+ и с инструментарием BPFTrace 0.9.2+.
+https://www.opennet.ru/opennews/art.shtml?num=56648</description>
+    </item>
+    
     <item>
       <title>Релиз Linux-дистрибутива Zenwalk 15</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-linux-distributiva-zenwalk-15-20220206-143502/</link>
