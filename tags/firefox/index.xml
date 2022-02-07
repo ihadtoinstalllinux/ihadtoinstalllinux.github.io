@@ -6,7 +6,17 @@
     <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Feb 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wayland использует менее 10% Linux-пользователей Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/wayland-ispolzuet-menee-10-linux-polzovateley-firefox-20220207-163502/</link>
+      <pubDate>Mon, 07 Feb 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/wayland-ispolzuet-menee-10-linux-polzovateley-firefox-20220207-163502/</guid>
+      <description>В соответствии со статистикой сервиса [[https://telemetry.mozilla.org/ Firefox Telemetry], обрабатывающего данные, поступающих в результате отправки телеметрии и обращения пользователей к серверам проекта, доля Linux-пользователей Firefox, работающих в окружениях на базе протокола Wayland, не превышает 10%. 90% пользователей Firеfox в Linux продолжают использовать протокол X11. Чистое окружение Wayland используется примерно у 5-7% пользователей Linux, а XWayland у примерно 2%. В выходные дни число пользователей с Walyand увеличивается.
+https://www.opennet.ru/opennews/art.shtml?num=56655</description>
+    </item>
+    
     <item>
       <title>Обновление Firefox 96.0.3 с устранением проблемы со отправкой лишней телеметрии</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-96-0-3-s-ustraneniem-problemy-so-otpravkoy-lishney-telemetrii-20220128-003503/</link>
