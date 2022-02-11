@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Feb 2022 13:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённая уязвимость в ядре Linux, проявляющаяся при использовании протокола TIPC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-yadre-linux-proyavlyayuschayasya-pri-ispolzovanii-protokola-tipc-20220211-143503/</link>
+      <pubDate>Fri, 11 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-yadre-linux-proyavlyayuschayasya-pri-ispolzovanii-protokola-tipc-20220211-143503/</guid>
+      <description>В модуле ядра Linux, обеспечивающем работу сетевого протокола TIPC (Transparent Inter-process Communication), выявлена уязвимость (CVE-2022-0435), потенциально позволяющая выполнить свой код на уровне ядра через отправку специально оформленного сетевого пакета. Проблема затрагивает только системы с загруженным модулем ядра tipc.ko и настроенным стеком TIPC, который обычно используется в кластерах и по умолчанию не активирован в неспециализированных дистрибутивах Linux.
+https://www.opennet.ru/opennews/art.shtml?num=56678</description>
+    </item>
+    
     <item>
       <title>io0rHZ6R9Bc.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220211-133531/</link>
