@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>epub on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/epub/</link>
+    <description>Recent content in epub on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/epub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз uChmViewer, программы для просмотра файлов chm и epub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-uchmviewer-programmy-dlya-prosmotra-faylov-chm-i-epub-20220213-013503/</link>
+      <pubDate>Sun, 13 Feb 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-uchmviewer-programmy-dlya-prosmotra-faylov-chm-i-epub-20220213-013503/</guid>
+      <description>Доступен выпуск uChmViewer 8.2, форка KchmViewer, программы для просмотра файлов в форматах chm (MS HTML help) и epub. Релиз добавляет поддержку KDE Framework 5 вместо KDE4 и начальную поддержку Qt6 вместо Qt4. Ответвление отличается включением некоторых улучшений, которые не попали и скорее всего не попадут в основной состав KchmViewer. Код написан на С++ и поставляется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=56688</description>
+    </item>
+    
+  </channel>
+</rss>
