@@ -6,7 +6,16 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jan 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пятая редакция патчей для ядра Linux с поддержкой языка Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pyataya-redakciya-patchey-dlya-yadra-linux-s-podderzhkoy-yazyka-rust-20220213-143503/</link>
+      <pubDate>Sun, 13 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pyataya-redakciya-patchey-dlya-yadra-linux-s-podderzhkoy-yazyka-rust-20220213-143503/</guid>
+      <description>Мигель Охеда (Miguel Ojeda), автор проекта Rust-for-Linux, предложил для рассмотрения разработчиками ядра Linux пятый вариант компонентов для разработки драйверов устройств на языке Rust. Поддержка Rust рассматривается как экспериментальная, но уже включена в ветку linux-next и достаточно развита для начала работы по созданию слоёв абстракции над подсистемами ядра, а также для написания драйверов и модулей. Разработка финансируется компанией Google и организацией ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует продвижению HTTPS и развитию технологий для повышения защищённости интернета.</description>
+    </item>
+    
     <item>
       <title>Обновление варианта GNU Coreutils, переписанного на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-varianta-gnu-coreutils-perepisannogo-na-yazyke-rust-20220131-123502/</link>
