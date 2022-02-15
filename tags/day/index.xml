@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>day on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/day/</link>
+    <description>Recent content in day on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Feb 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Chrome 98.0.4758.102 с устранением 0-day уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-chrome-98-0-4758-102-s-ustraneniem-0-day-uyazvimostey-20220215-133502/</link>
+      <pubDate>Tue, 15 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-chrome-98-0-4758-102-s-ustraneniem-0-day-uyazvimostey-20220215-133502/</guid>
+      <description>Компания Google сформировала обновление Chrome 98.0.4758.102, в котором исправлены 11 уязвимостей, в том числе одна опасная проблема, уже применяемая злоумышленниками в эксплоитах (0-day). Детали пока не раскрываются, известно лишь, что уязвимость (CVE-2022-0609) вызвана обращением к области памяти после её освобождения (use-after-free) в коде, связанном с API Web Animations.
+https://www.opennet.ru/opennews/art.shtml?num=56701</description>
+    </item>
+    
+  </channel>
+</rss>
