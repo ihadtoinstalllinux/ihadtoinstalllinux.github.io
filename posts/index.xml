@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Feb 2022 13:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Вариант LibreOffice, скомпилированный в WebAssembly и работающий в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/variant-libreoffice-skompilirovannyy-v-webassembly-i-rabotayuschiy-v-web-brauzere-20220216-143503/</link>
+      <pubDate>Wed, 16 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/variant-libreoffice-skompilirovannyy-v-webassembly-i-rabotayuschiy-v-web-brauzere-20220216-143503/</guid>
+      <description>Торстен Бехренц (Thorsten Behrens), один из лидеров команды развития графической подсистемы LibreOffice, опубликовал демонстрационную версию варианта офисного пакета LibreOffice, скомпилированного в промежуточный код WebAssembly и способного запускаться в web-браузере (на систему пользователя загружается около 300 МБ данных). Для преобразования в WebAssembly задействован компилятор Emscripten, а для организации вывода VCL-бэкенд (Visual Class Library) на базе модифицированного фреймворка Qt5. Специфичные для поддержки WebAssembly исправления развиваются в основном репозитории LibreOffice.
+https://www.opennet.ru/opennews/art.shtml?num=56707</description>
+    </item>
+    
     <item>
       <title>eFLnf4mGkNk.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220216-133556/</link>
