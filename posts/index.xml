@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Feb 2022 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Feb 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub внедрил систему машинного обучения для поиска уязвимостей в коде</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-vnedril-sistemu-mashinnogo-obucheniya-dlya-poiska-uyazvimostey-v-kode-20220218-123502/</link>
+      <pubDate>Fri, 18 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-vnedril-sistemu-mashinnogo-obucheniya-dlya-poiska-uyazvimostey-v-kode-20220218-123502/</guid>
+      <description>GitHub объявил о добавлении в сервис Code scanning экспериментальной системы машинного обучения для выявления распространённых типов язвимостей в коде. На этапе тестирования новая функциональность пока доступна только для репозиториев с кодом на языках JavaScript и TypeScript. Отмечается, что применение системы машинного обучения позволило заметно расширить спектр выявляемых проблем, при анализе которых система теперь не ограничивается проверкой типовых шаблонов и не привязывается к известным фреймворкам. Из выявляемых новой системой проблем упоминаются ошибки, приводящие к межсайтовому скриптингу (XSS), искажению файловых путей (например, через указание &amp;ldquo;/.</description>
+    </item>
+    
     <item>
       <title>XN9gpfLgfPI.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220218-113537/</link>
