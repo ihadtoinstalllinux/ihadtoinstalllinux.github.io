@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UpdraftPlus on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/updraftplus/</link>
+    <description>Recent content in UpdraftPlus on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/updraftplus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Утечка БД в WordPress-дополнении UpdraftPlus, насчитывающем 3 млн установок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-bd-v-wordpress-dopolnenii-updraftplus-naschityvayuschem-3-mln-ustanovok-20220219-113503/</link>
+      <pubDate>Sat, 19 Feb 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-bd-v-wordpress-dopolnenii-updraftplus-naschityvayuschem-3-mln-ustanovok-20220219-113503/</guid>
+      <description>В WordPress-дополнении UpdraftPlus, имеющем более 3 млн активных установок, выявлена опасная уязвимость (CVE-2022-0633), позволяющая стороннему пользователю загрузить копию базы данных сайта, в которой кроме контента содержатся параметры всех пользователей и хэши паролей. Проблема устранена в выпусках 1.22.3 и 2.22.3, которое рекомендуется как можно скорее установить всем пользователям UpdraftPlus.
+https://www.opennet.ru/opennews/art.shtml?num=56726</description>
+    </item>
+    
+  </channel>
+</rss>

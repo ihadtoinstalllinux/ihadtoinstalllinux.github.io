@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 10:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Утечка БД в WordPress-дополнении UpdraftPlus, насчитывающем 3 млн установок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-bd-v-wordpress-dopolnenii-updraftplus-naschityvayuschem-3-mln-ustanovok-20220219-113503/</link>
+      <pubDate>Sat, 19 Feb 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-bd-v-wordpress-dopolnenii-updraftplus-naschityvayuschem-3-mln-ustanovok-20220219-113503/</guid>
+      <description>В WordPress-дополнении UpdraftPlus, имеющем более 3 млн активных установок, выявлена опасная уязвимость (CVE-2022-0633), позволяющая стороннему пользователю загрузить копию базы данных сайта, в которой кроме контента содержатся параметры всех пользователей и хэши паролей. Проблема устранена в выпусках 1.22.3 и 2.22.3, которое рекомендуется как можно скорее установить всем пользователям UpdraftPlus.
+https://www.opennet.ru/opennews/art.shtml?num=56726</description>
+    </item>
+    
     <item>
       <title>euB2WAf3Iks.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220219-103553/</link>
