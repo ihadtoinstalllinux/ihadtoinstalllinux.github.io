@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jail on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/jail/</link>
+    <description>Recent content in Jail on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/jail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Bastille 0.9.20220216, системы управления контейнерами на основе FreeBSD Jail</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bastille-0-9-20220216-sistemy-upravleniya-konteynerami-na-osnove-freebsd-jail-20220219-103503/</link>
+      <pubDate>Sat, 19 Feb 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bastille-0-9-20220216-sistemy-upravleniya-konteynerami-na-osnove-freebsd-jail-20220219-103503/</guid>
+      <description>Опубликован выпуск Bastille 0.9.20220216, системы для автоматизации развёртывания и управления приложениями, запускаемыми в контейнерах, изолированных при помощи механизма FreeBSD Jail. Код написан на Shell, не требует для работы внешних зависимостей и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=56725</description>
+    </item>
+    
+  </channel>
+</rss>
