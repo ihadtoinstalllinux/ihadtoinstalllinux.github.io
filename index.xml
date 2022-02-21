@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного фильтра nftables 1.0.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-2-20220222-013502/</link>
+      <pubDate>Tue, 22 Feb 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-2-20220222-013502/</guid>
+      <description>Опубликован выпуск пакетного фильтра nftables 1.0.2, унифицирующего интерфейсы фильтрации пакетов для IPv4, IPv6, ARP и сетевых мостов (нацелен на замену iptables, ip6table, arptables и ebtables). Необходимые для работы выпуска nftables 1.0.2 изменения включены в состав ядра Linux 5.17-rc.
+https://www.opennet.ru/opennews/art.shtml?num=56739</description>
+    </item>
+    
     <item>
       <title>Выпуск игры Freeciv 3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igry-freeciv-3-0-20220222-003503/</link>

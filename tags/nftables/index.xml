@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nftables on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nftables/</link>
+    <description>Recent content in nftables on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nftables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного фильтра nftables 1.0.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-2-20220222-013502/</link>
+      <pubDate>Tue, 22 Feb 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-2-20220222-013502/</guid>
+      <description>Опубликован выпуск пакетного фильтра nftables 1.0.2, унифицирующего интерфейсы фильтрации пакетов для IPv4, IPv6, ARP и сетевых мостов (нацелен на замену iptables, ip6table, arptables и ebtables). Необходимые для работы выпуска nftables 1.0.2 изменения включены в состав ядра Linux 5.17-rc.
+https://www.opennet.ru/opennews/art.shtml?num=56739</description>
+    </item>
+    
+  </channel>
+</rss>
