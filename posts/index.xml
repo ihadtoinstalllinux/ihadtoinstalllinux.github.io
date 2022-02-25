@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Feb 2022 19:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 20:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux 5.18 планируют разрешить использование стандарта языка Си C11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-5-18-planiruyut-razreshit-ispolzovanie-standarta-yazyka-si-c11-20220225-203502/</link>
+      <pubDate>Fri, 25 Feb 2022 20:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-5-18-planiruyut-razreshit-ispolzovanie-standarta-yazyka-si-c11-20220225-203502/</guid>
+      <description>В процессе обсуждения набора патчей с исправлением связанных с уязвимостями класса Spectre проблем в коде для работы со связанными списками, стало ясно, что проблему удалось бы решить более изящно, если бы в ядро допускался код на языке Си, соответствующий более новой версии стандарта. В настоящее время добавляемый ядро код должен соответствовать спецификации ANSI C (С89), сформированной ещё в 1989 году.
+https://www.opennet.ru/opennews/art.shtml?num=56760</description>
+    </item>
+    
     <item>
       <title>tDt2MjItoWg.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220225-193518/</link>
