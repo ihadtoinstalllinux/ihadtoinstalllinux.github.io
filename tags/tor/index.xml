@@ -6,7 +6,16 @@
     <description>Recent content in Tor on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 16:37:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый бета-выпуск Arti, реализации Tor на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-beta-vypusk-arti-realizacii-tor-na-yazyke-rust-20220302-143502/</link>
+      <pubDate>Wed, 02 Mar 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-beta-vypusk-arti-realizacii-tor-na-yazyke-rust-20220302-143502/</guid>
+      <description>Разработчики анонимной сети Tor представили первый бета-выпуск (0.1.0) проекта Arti, развивающего Tor-клиент, написанный на языке Rust. Проект имеет статус экспериментальной разработки, отстаёт от функциональности от основного клиента Tor на языке Си и пока не готов полноценно заменить его. В сентябре планируется сформировать выпуск 1.0 со стабилизацией API, CLI и настроек, который будет пригоден для начального использования обычными пользователями. В более отдалённом будущем, когда код на Rust достигнет уровня, способного полностью заменить вариант на Си, разработчики намерены придать Arti статус основной реализации Tor и прекратить сопровождение реализации на Си.</description>
+    </item>
+    
     <item>
       <title>Предпринята попытка обжаловать блокировку Tor в России</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predprinyata-popytka-obzhalovat-blokirovku-tor-v-rossii-20220124-163711/</link>
