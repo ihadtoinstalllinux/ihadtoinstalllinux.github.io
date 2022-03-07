@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LWQt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lwqt/</link>
+    <description>Recent content in LWQt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lwqt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск LWQt, варианта оболочки LXQt на базе Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-lwqt-varianta-obolochki-lxqt-na-baze-wayland-20220307-133503/</link>
+      <pubDate>Mon, 07 Mar 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-lwqt-varianta-obolochki-lxqt-na-baze-wayland-20220307-133503/</guid>
+      <description>Представлен первый выпуск LWQt, варианта пользовательской оболочки LXQt 1.0, переведённого на использование протокола Wayland вместо X11. Как и LXQt проект LWQt преподносится как легковесное, модульное и быстрое пользовательское окружение, придерживающееся методов классической организации рабочего стола. Код проекта написан на языке С++ с использованием фреймворка Qt и распространяется под лицензией.
+https://www.opennet.ru/opennews/art.shtml?num=56816</description>
+    </item>
+    
+  </channel>
+</rss>
