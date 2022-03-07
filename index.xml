@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Mar 2022 19:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2022 22:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>55M7PjQMWRY.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220307-223530/</link>
+      <pubDate>Mon, 07 Mar 2022 22:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220307-223530/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в ядре Linux, позволяющая исказить файлы, доступные только для чтения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-yadre-linux-pozvolyayuschaya-iskazit-fayly-dostupnye-tolko-dlya-chteniya-20220307-223503/</link>
+      <pubDate>Mon, 07 Mar 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-yadre-linux-pozvolyayuschaya-iskazit-fayly-dostupnye-tolko-dlya-chteniya-20220307-223503/</guid>
+      <description>В ядре Linux выявлена уязвимость (CVE-2022-0847), позволяющая перезаписать содержимое страничного кэша для любых файлов, в том числе находящихся в режиме только для чтения, открытых с флагом O_RDONLY или размещённых в файловых системах, примонтированных в режиме только для чтения. С практической стороны, уязвимость может применяться для подстановки кода в произвольные процессы или искажения данных в открываемых файлах. Например, можно изменить содержимое файла authorized_keys для процесса sshd. Для тестирования доступен прототип эксплоита.</description>
+    </item>
+    
     <item>
       <title>U_lFqequYDQ.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220307-193524/</link>
