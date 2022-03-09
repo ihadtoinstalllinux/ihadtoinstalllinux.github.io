@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spectre on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/spectre/</link>
+    <description>Recent content in Spectre on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/spectre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BHI - новая уязвимость класса Spectre в процессорах Intel и ARM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bhi-novaya-uyazvimost-klassa-spectre-v-processorah-intel-i-arm-20220309-143502/</link>
+      <pubDate>Wed, 09 Mar 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bhi-novaya-uyazvimost-klassa-spectre-v-processorah-intel-i-arm-20220309-143502/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета выявила новую уязвимость в микроархитектурных структурах процессоров Intel и ARM, представляющую собой расширенный вариант уязвимости Spectre-v2, позволяющий обойти добавленные в процессоры механизмы защиты eIBRS и CSV2. Уязвимость присвоено несколько названий: BHI (Branch History Injection, CVE-2022-0001), BHB (Branch History Buffer, CVE-2022-0002) и Spectre-BHB (CVE-2022-23960), которые описывают разное проявление одной проблемы (BHI - атака, затрагивающая разные уровни привилегий, например, процесс пользователя и ядро, BHB - атака на одном уровне привилегий, например, eBPF JIT и ядро).</description>
+    </item>
+    
+  </channel>
+</rss>
