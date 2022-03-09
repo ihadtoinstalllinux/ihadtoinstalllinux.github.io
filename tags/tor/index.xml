@@ -6,7 +6,17 @@
     <description>Recent content in Tor on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Mar 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Mar 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Tor Browser 11.0.7 и дистрибутива Tails 4.28</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-11-0-7-i-distributiva-tails-4-28-20220309-123502/</link>
+      <pubDate>Wed, 09 Mar 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-11-0-7-i-distributiva-tails-4-28-20220309-123502/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 4.28 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для обеспечения анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1.1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=56826</description>
+    </item>
+    
     <item>
       <title>Первый бета-выпуск Arti, реализации Tor на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/pervyy-beta-vypusk-arti-realizacii-tor-na-yazyke-rust-20220302-143502/</link>
