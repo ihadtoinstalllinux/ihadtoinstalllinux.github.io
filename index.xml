@@ -6,7 +6,26 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 07:36:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 10:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DC_OlrQtEZc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220318-103545/</link>
+      <pubDate>Fri, 18 Mar 2022 10:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220318-103545/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В NPM-пакете node-ipc выявлено вредоносное изменение, удаляющее файлы на системах в России и Белоруссии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-npm-pakete-node-ipc-vyyavleno-vredonosnoe-izmenenie-udalyayuschee-fayly-na-sistemah-v-ro-20220318-103502/</link>
+      <pubDate>Fri, 18 Mar 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-npm-pakete-node-ipc-vyyavleno-vredonosnoe-izmenenie-udalyayuschee-fayly-na-sistemah-v-ro-20220318-103502/</guid>
+      <description>В NPM-пакете node-ipc выявлено вредоносное изменение (CVE-2022-23812), с вероятностью 25% заменяющее на символ &amp;ldquo;❤️&amp;rdquo; содержимое всех файлов, к которым имеется доступ на запись. Вредоносный код активируется только при запуске на системах с IP-дресами из России или Белоруссии. Пакет node-ipc насчитыет около миллиона загрузок в неделю и используется в качестве зависимости у 354 пакетов, включая vue-cli. Все проекты, которые имеют в зависимостях node-ipc, также подвержены проблеме.
+https://www.opennet.ru/opennews/art.shtml?num=56870</description>
+    </item>
+    
     <item>
       <title>nQZGim-EPWc.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220318-073607/</link>
