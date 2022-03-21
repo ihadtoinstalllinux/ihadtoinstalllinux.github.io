@@ -6,7 +6,17 @@
     <description>Recent content in Samba on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jan 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/samba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/samba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Samba 4.16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-samba-4-16-0-20220322-023502/</link>
+      <pubDate>Tue, 22 Mar 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-samba-4-16-0-20220322-023502/</guid>
+      <description>Представлен релиз Samba 4.16.0, продолживший развитие ветки Samba 4 с полноценной реализацией контроллера домена и сервиса Active Directory, совместимого с реализацией Windows 2000 и способного обслуживать все поддерживаемые Microsoft версии Windows-клиентов, в том числе Windows 10. Samba 4 является многофункциональным серверным продуктом, предоставляющим также реализацию файлового сервера, сервиса печати и сервера идентификации (winbind).
+https://www.opennet.ru/opennews/art.shtml?num=56888</description>
+    </item>
+    
     <item>
       <title>Удалённая root-уязвимость в Samba</title>
       <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-root-uyazvimost-v-samba-20220131-223502/</link>
