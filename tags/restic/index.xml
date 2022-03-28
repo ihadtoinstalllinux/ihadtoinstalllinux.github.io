@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>restic on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/restic/</link>
+    <description>Recent content in restic on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/restic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система резервного копирования restic 0.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-restic-0-13-20220328-183502/</link>
+      <pubDate>Mon, 28 Mar 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-restic-0-13-20220328-183502/</guid>
+      <description>После года разработки представлен выпуск системы резервного копирования restic 0.13, предоставляющей инструментарий для сохранения резервных копий в версионированном репозитории, который может размещаться на внешних серверах и в облачных хранилищах. Данные хранятся в зашифрованном виде. Возможно определение гибких правил для включения и исключения файлов и каталогов при создании резервной копии. Поддерживается работа в Linux, macOS, Windows, FreeBSD и OpenBSD. Код проекта написан на языке Go и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=56924</description>
+    </item>
+    
+  </channel>
+</rss>
