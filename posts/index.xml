@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 11:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы инициализации sysvinit 3.02</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-02-20220329-123502/</link>
+      <pubDate>Tue, 29 Mar 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-02-20220329-123502/</guid>
+      <description>Представлен релиз классической системы инициализации sysvinit 3.02, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.
+https://www.opennet.ru/opennews/art.shtml?num=56929</description>
+    </item>
+    
     <item>
       <title>2afRPpQpMHM.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220329-113536/</link>
