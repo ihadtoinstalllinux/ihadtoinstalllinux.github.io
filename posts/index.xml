@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 10:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 11:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>qgdJDm86X9g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220401-113543/</link>
+      <pubDate>Fri, 01 Apr 2022 11:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220401-113543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitLab, позволяющая захватить аккаунты, авторизированные через OAuth, LDAP и SAML</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zahvatit-akkaunty-avtorizirovannye-cherez-oauth-ldap-20220401-113503/</link>
+      <pubDate>Fri, 01 Apr 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zahvatit-akkaunty-avtorizirovannye-cherez-oauth-ldap-20220401-113503/</guid>
+      <description>В корректирующих обновлениях платформы для организации совместной разработки GitLab 14.7.7, 14.8.5 и 14.9.2 устранена критическая уязвимость (CVE-2022-1162), связанная с установкой предопределённых (hardcoded) паролей для учётных записей, зарегистрированных с использованием провайдера OmniAuth (OAuth, LDAP и SAML). Уязвимость потенциально позволяет атакующему получить доступ к учётной записи. Всем пользователям рекомендуется срочно установить обновление. Детали проблему пока не раскрываются. Для пользователей, чьи учётные записи были подвержены проблеме, инициирован сброс установленных паролей. Проблема выявлена сотрудниками GitLab и проведённое расследование не выявило следов компрометации пользователей.</description>
+    </item>
+    
     <item>
       <title>l1R78oJdPHg.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220401-103602/</link>
