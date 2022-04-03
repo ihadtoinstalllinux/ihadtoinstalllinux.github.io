@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 11:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ye3Z3OHSbGg.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220403-133544/</link>
+      <pubDate>Sun, 03 Apr 2022 13:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220403-133544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Для FreeBSD развивается механизм изоляции, похожий на plegde и unveil</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</link>
+      <pubDate>Sun, 03 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</guid>
+      <description>Для FreeBSD предложена реализация механизма изоляции приложений, напоминающего развиваемые проектом OpenBSD системные вызовы plegde и unveil. Изоляция в plegde осуществляется через запрет обращения к неиспользуемым в приложении системным вызовам, а в unveil через выборочное открытие доступа только для отдельных файловых путей, с которыми может работать приложение. Для приложения формируется подобие белого списка системных вызовов и файловых путей, а все остальные вызовы и пути запрещаются.
+https://www.opennet.ru/opennews/art.shtml?num=56958</description>
+    </item>
+    
     <item>
       <title>Fvl7idhmrzI.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220403-113554/</link>
