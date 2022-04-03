@@ -6,7 +6,17 @@
     <description>Recent content in web on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны web-браузеры qutebrowser 2.5 и Min 1.24</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-web-brauzery-qutebrowser-2-5-i-min-1-24-20220403-113502/</link>
+      <pubDate>Sun, 03 Apr 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-web-brauzery-qutebrowser-2-5-i-min-1-24-20220403-113502/</guid>
+      <description>Опубликован релиз web-браузера qutebrowser 2.5, предоставляющего минимальный графический интерфейс, не отвлекающий от просмотра содержимого, и систему навигации в стиле текстового редактора Vim, построенную целиком на клавиатурных комбинациях. Код написан на языке Python с использованием PyQt5 и QtWebEngine. Исходные тексты распространяются под лицензией GPLv3. Применение Python не сказывается на производительности, так как отрисовка и разбор контента осуществляется силами движка Blink и библиотеки Qt.
+https://www.opennet.ru/opennews/art.shtml?num=56957</description>
+    </item>
+    
     <item>
       <title>Развиваемый проектом SerenityOS web-браузер успешно прошёл тесты Acid3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/razvivaemyy-proektom-serenityos-web-brauzer-uspeshno-proshel-testy-acid3-20220331-173503/</link>

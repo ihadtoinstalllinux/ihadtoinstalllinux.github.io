@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Min on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/min/</link>
+    <description>Recent content in Min on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Apr 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/min/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны web-браузеры qutebrowser 2.5 и Min 1.24</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-web-brauzery-qutebrowser-2-5-i-min-1-24-20220403-113502/</link>
+      <pubDate>Sun, 03 Apr 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-web-brauzery-qutebrowser-2-5-i-min-1-24-20220403-113502/</guid>
+      <description>Опубликован релиз web-браузера qutebrowser 2.5, предоставляющего минимальный графический интерфейс, не отвлекающий от просмотра содержимого, и систему навигации в стиле текстового редактора Vim, построенную целиком на клавиатурных комбинациях. Код написан на языке Python с использованием PyQt5 и QtWebEngine. Исходные тексты распространяются под лицензией GPLv3. Применение Python не сказывается на производительности, так как отрисовка и разбор контента осуществляется силами движка Blink и библиотеки Qt.
+https://www.opennet.ru/opennews/art.shtml?num=56957</description>
+    </item>
+    
+  </channel>
+</rss>
