@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В дополнении для блокирования рекламы в Twitch выявлен вредоносный код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-dopolnenii-dlya-blokirovaniya-reklamy-v-twitch-vyyavlen-vredonosnyy-kod-20220404-183503/</link>
+      <pubDate>Mon, 04 Apr 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-dopolnenii-dlya-blokirovaniya-reklamy-v-twitch-vyyavlen-vredonosnyy-kod-20220404-183503/</guid>
+      <description>В выпущенной на днях новой версии браузерного дополнения &amp;ldquo;Video Ad-Block, for Twitch&amp;rdquo;, предназначенного для блокировки рекламы при просмотре видео в Twitch, выявлено вредоносное изменение, выполняющее добавление или замену реферального идентификатора при обращении к сайту amazon.co.uk через перенаправление запросов на сторонний сайт links.amazonapps.workers.dev, не связанный с компанией Amazon. Дополнение насчитывает более 600 тысяч установок и распространяется для Chrome и Firefox. Вредоносное изменение было добавлено в версии 5.3.4. В настоящее время Google и Mozilla уже удалили дополнение из своих каталогов.</description>
+    </item>
+    
     <item>
       <title>Дистрибутив Gentoo начал публикацию еженедельных Live-сборок</title>
       <link>https://ihadtoinstalllinux.github.io/posts/distributiv-gentoo-nachal-publikaciyu-ezhenedelnyh-live-sborok-20220404-173503/</link>
