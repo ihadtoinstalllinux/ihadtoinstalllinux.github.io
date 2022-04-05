@@ -6,7 +6,17 @@
     <description>Recent content in GitHub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Feb 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub реализовал возможность упреждающей блокировки утечек токенов к API</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</link>
+      <pubDate>Tue, 05 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</guid>
+      <description>GitHub объявил об усилении защиты от попадания в репозитории конфиденциальных данных, по недосмотру оставленных разработчиками в коде. Например, случается, что в репозиторий попадают файлы конфигурации с паролями к СУБД, токены или ключи доступа к API.
+https://www.opennet.ru/opennews/art.shtml?num=56968</description>
+    </item>
+    
     <item>
       <title>GitHub внедрил систему машинного обучения для поиска уязвимостей в коде</title>
       <link>https://ihadtoinstalllinux.github.io/posts/github-vnedril-sistemu-mashinnogo-obucheniya-dlya-poiska-uyazvimostey-v-kode-20220218-123502/</link>
