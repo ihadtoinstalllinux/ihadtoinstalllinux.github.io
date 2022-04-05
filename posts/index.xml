@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 23:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 37 намерены оставить только поддержку UEFI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-namereny-ostavit-tolko-podderzhku-uefi-20220406-013502/</link>
+      <pubDate>Wed, 06 Apr 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-namereny-ostavit-tolko-podderzhku-uefi-20220406-013502/</guid>
+      <description>Для реализации в Fedora Linux 37 намечен перевод поддержки UEFI в разряд обязательных требований для установки дистрибутива на платформе x86_64. Возможность загрузки ранее установленных окружений на системах с традиционным BIOS какое-то время останется, но поддержка новых установок не в режиме UEFI будет прекращена. В Fedora 39 или более позднем выпуске поддержку BIOS рассчитывают удалить полностью. Заявка на принятие изменения в Fedora 37 опубликована Беном Коттоном (Ben Cotton), занимающим в компании Red Hat должность Fedora Program Manager.</description>
+    </item>
+    
     <item>
       <title>cPu9lYJ3Bbc.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220405-233603/</link>
