@@ -6,7 +6,16 @@
     <description>Recent content in GNU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы инициализации GNU Shepherd 0.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-gnu-shepherd-0-9-20220407-113503/</link>
+      <pubDate>Thu, 07 Apr 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-gnu-shepherd-0-9-20220407-113503/</guid>
+      <description>Спустя два года с момента формирования прошлого значительного выпуска опубликован сервисный менеджер GNU Shepherd 0.9 (бывший dmd), который развивается разработчиками дистрибутива GNU Guix System в качестве альтернативы системе инициализации SysV-init, поддерживающей зависимости. Управляющий демон и утилиты Shepherd написаны на языке Guile (одна из реализаций языка Scheme), который также используется для определения настроек и параметров запуска сервисов. Shepherd уже применяется в дистрибутиве GuixSD GNU/Linux и нацелен также на использование в GNU/Hurd, но может работать в любой POSIX-совместимой ОС, для которой доступен язык Guile.</description>
+    </item>
+    
     <item>
       <title>Выпуск текстового редактора GNU Emacs 28.1 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-28-1-20220406-123502/</link>
