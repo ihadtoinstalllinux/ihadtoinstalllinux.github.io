@@ -6,7 +6,17 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Rust 1.60</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-60-20220407-233503/</link>
+      <pubDate>Thu, 07 Apr 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-60-20220407-233503/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.60, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=56984</description>
+    </item>
+    
     <item>
       <title>Выпуск Arti 0.2.0, официальной реализации Tor на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-0-2-0-oficialnoy-realizacii-tor-na-yazyke-rust-20220405-013503/</link>
