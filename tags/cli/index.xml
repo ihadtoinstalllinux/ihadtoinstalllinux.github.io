@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cli on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cli/</link>
+    <description>Recent content in cli on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Apr 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен набор утилит для управления SSD-накопителями - nvme-cli 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-utilit-dlya-upravleniya-ssd-nakopitelyami-nvme-cli-2-0-20220411-123502/</link>
+      <pubDate>Mon, 11 Apr 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-utilit-dlya-upravleniya-ssd-nakopitelyami-nvme-cli-2-0-20220411-123502/</guid>
+      <description>Опубликован значительный выпуск набора утилит nvme-cli 2.0, предоставляющего интерфейс командной строки для управления SSD-накопителями с интерфейсом NVM-Express (NVMe) в Linux. При помощи nvme-cli можно оценить состояние накопителя, посмотреть лог ошибок, вывести статистику по операциям, управлять пространствами имён, отправлять низкоуровневые команды контроллеру, активировать расширенные возможности и т.п. Код написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56996</description>
+    </item>
+    
+  </channel>
+</rss>
