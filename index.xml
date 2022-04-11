@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 13:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск синтезатора речи RHVoice 1.8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sintezatora-rechi-rhvoice-1-8-0-20220411-143503/</link>
+      <pubDate>Mon, 11 Apr 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sintezatora-rechi-rhvoice-1-8-0-20220411-143503/</guid>
+      <description>Состоялся выпуск открытой системы синтеза речи RHVoice 1.8.0, изначально развивавшейся для обеспечения качественной поддержки русского языка, но затем адаптированной и для других языков, включая английский, португальский, украинский, киргизский, татарский и грузинский. Код написан на С++ и распространяется под лицензией LGPL 2.1. Поддерживается работа в GNU/Linux, Windows и Android. Программа совместима с типовыми TTS-интерфейсами (text-to-speech) для преобразования текста в речь: SAPI5 (Windows), Speech Dispatcher (GNU/Linux) и Android Text-To-Speech API, но также может использоваться в экранном ридере NVDA.</description>
+    </item>
+    
     <item>
       <title>ml6YaPPs7So.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220411-133523/</link>
