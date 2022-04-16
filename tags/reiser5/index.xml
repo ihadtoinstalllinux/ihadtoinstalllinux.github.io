@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reiser5 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/reiser5/</link>
+    <description>Recent content in Reiser5 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/reiser5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликованы результаты тестов производительности файловой системы Reiser5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-rezultaty-testov-proizvoditelnosti-faylovoy-sistemy-reiser5-20220416-153503/</link>
+      <pubDate>Sat, 16 Apr 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-rezultaty-testov-proizvoditelnosti-faylovoy-sistemy-reiser5-20220416-153503/</guid>
+      <description>Опубликованы результаты тестов производительности проекта Reiser5, развивающего существенно переработанный вариант файловой системы Reiser4 с поддержкой логических томов, обладающих &amp;ldquo;параллельным масштабированием&amp;rdquo;, которое, в отличие от традиционных RAID, подразумевает активное участие файловой системы в распределении данных между устройствами-компонентами логического тома. С точки зрения администратора существенное отличие от RAID состоит в том, что компоненты логического тома с параллельным масштабированием являются отформатированными блочными устройствами.
+https://www.opennet.ru/opennews/art.shtml?num=57026</description>
+    </item>
+    
+  </channel>
+</rss>
