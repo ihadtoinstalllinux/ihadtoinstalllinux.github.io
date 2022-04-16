@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 23:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В языке программирования Zig обеспечена поддержка самораскрутки (bootstraping)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yazyke-programmirovaniya-zig-obespechena-podderzhka-samoraskrutki-bootstraping-20220417-003502/</link>
+      <pubDate>Sun, 17 Apr 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yazyke-programmirovaniya-zig-obespechena-podderzhka-samoraskrutki-bootstraping-20220417-003502/</guid>
+      <description>В язык программирования Zig приняты изменения, позволяющие компилятору Zig stage2, написанному на Zig, собирать самого себя (stage3), что делает данный язык самодостаточным (self-hosting). Предполагается, что данный компилятор будет предлагаться по умолчанию в грядущем релизе 0.10.0. Stage2 всё ещё является неполноценным, так как отсутствует поддержка проверок во время выполнения, присутствуют различия в семантике языка и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=57031</description>
+    </item>
+    
     <item>
       <title>VqOlHXoUGrY.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220416-233544/</link>
