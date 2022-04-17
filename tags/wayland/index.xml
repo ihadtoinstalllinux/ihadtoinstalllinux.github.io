@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Mar 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в swhkd, менеджере горячих клавиш для Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-swhkd-menedzhere-goryachih-klavish-dlya-wayland-20220417-233502/</link>
+      <pubDate>Sun, 17 Apr 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-swhkd-menedzhere-goryachih-klavish-dlya-wayland-20220417-233502/</guid>
+      <description>В swhkd (Simple Wayland HotKey Daemon) выявлена серия уязвимостей, вызванных некорректной работой с временными файлами, параметрами командной строки и unix-сокетами. Программа написана на языке Rust и выполняет обработку нажатия горячих клавиш в окружениях на базе протокола Wayland (совместимый на уровне файлов конфигурации аналог процесса sxhkd, применяемого в окружениях на базе X11).
+https://www.opennet.ru/opennews/art.shtml?num=57032</description>
+    </item>
+    
     <item>
       <title>Первый выпуск LWQt, варианта оболочки LXQt на базе Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-lwqt-varianta-obolochki-lxqt-na-baze-wayland-20220307-133503/</link>
