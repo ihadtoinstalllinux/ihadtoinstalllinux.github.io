@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Celestial on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/celestial/</link>
+    <description>Recent content in Celestial on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/celestial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Celestial развивает сборку Ubuntu с Flatpak вместо Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</link>
+      <pubDate>Mon, 18 Apr 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</guid>
+      <description>Представлен бета-выпуск дистрибутива CelOS (Celestial OS), представляющего собой пересборку Ubuntu 22.04, в которой инструментарий управления пакетами Snap заменён на Flatpak. Вместо установки дополнительных приложений из каталога Snap Store предложена интеграция с каталогом Flathub. Размер установочного образа 3.7 ГБ. Наработки проекта распространяются под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57035</description>
+    </item>
+    
+  </channel>
+</rss>
