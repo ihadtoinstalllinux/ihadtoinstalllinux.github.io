@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики SDL отменили переход на Wayland по умолчанию в выпуске 2.0.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</link>
+      <pubDate>Mon, 18 Apr 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</guid>
+      <description>В кодовой базе библиотеки SDL (Simple DirectMedia Layer) отменено ранее принятое изменение, по умолчанию активирующее работу на базе протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. Таким образом, в выпуске 2.0.22 как и раньше в Wayland-окружениях с компонентом XWayland по умолчанию будет применяться вывод с использованием протокола X11.
+https://www.opennet.ru/opennews/art.shtml?num=57038</description>
+    </item>
+    
     <item>
       <title>Уязвимости в swhkd, менеджере горячих клавиш для Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-swhkd-menedzhere-goryachih-klavish-dlya-wayland-20220417-233502/</link>
