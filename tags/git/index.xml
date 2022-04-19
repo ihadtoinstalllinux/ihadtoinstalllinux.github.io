@@ -6,7 +6,17 @@
     <description>Recent content in Git on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы управления исходными текстами Git 2.36</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-36-20220419-133502/</link>
+      <pubDate>Tue, 19 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-36-20220419-133502/</guid>
+      <description>После трёх месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.36. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=57040</description>
+    </item>
+    
     <item>
       <title>Выпуск Git 2.35.2 с устранением уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-git-2-35-2-s-ustraneniem-uyazvimostey-20220413-023503/</link>
