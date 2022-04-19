@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Ubuntu предложен PPA для улучшения поддержки Wayland в Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-ubuntu-predlozhen-ppa-dlya-uluchsheniya-podderzhki-wayland-v-qt-20220419-233503/</link>
+      <pubDate>Tue, 19 Apr 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-ubuntu-predlozhen-ppa-dlya-uluchsheniya-podderzhki-wayland-v-qt-20220419-233503/</guid>
+      <description>Для дистрибутива Ubuntu 22.04, выпуск которого ожидается 21 апреля, подготовлен PPA-репозиторий с модулем qtwayland в который из ветки Qt 5.15.3, сопровождаемой проектом KDE, перенесены исправления, связанные с улучшением поддержки протокола Wayland. В том числе в пакет включены изменения, необходимые для корректной работы qtwayland на системах с проприетарными драйверами NVIDIA.
+https://www.opennet.ru/opennews/art.shtml?num=57045</description>
+    </item>
+    
     <item>
       <title>Разработчики SDL отменили переход на Wayland по умолчанию в выпуске 2.0.22</title>
       <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</link>
