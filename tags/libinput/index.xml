@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libinput on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libinput/</link>
+    <description>Recent content in libinput on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libinput/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в libinput, приводящая к выполнению кода при подключении вредоносного устройства</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libinput-privodyaschaya-k-vypolneniyu-koda-pri-podklyuchenii-vredonosnogo-ust-20220420-163502/</link>
+      <pubDate>Wed, 20 Apr 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libinput-privodyaschaya-k-vypolneniyu-koda-pri-podklyuchenii-vredonosnogo-ust-20220420-163502/</guid>
+      <description>В библиотеке libinput 1.20.1, предоставляющей унифицированный стек ввода, позволяющий использовать одни и те же средства обработки событий от устройств ввода в окружениях на базе Wayland и X.Org, устранена уязвимость (CVE-2022-1215), позволяющая организовать выполнение своего кода при подключении к системе специально модифицированного/эмулируемого устройства ввода. Проблема проявляется в окружениях на базе X.Org и Wayland, и может быть эксплуатирована как при локальном подключении устройств, так и при манипуляциях с устройствами с интерфейсом Bluetooth. В случае выполнения X-сервера с правами root уязвимость позволяет добиться выполнения кода с повышенными привилегиями.</description>
+    </item>
+    
+  </channel>
+</rss>
