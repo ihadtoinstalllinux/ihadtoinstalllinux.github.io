@@ -6,7 +6,17 @@
     <description>Recent content in SDL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sdl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sdl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск мультимедийной библиотеки SDL 2.0.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynoy-biblioteki-sdl-2-0-22-20220426-013502/</link>
+      <pubDate>Tue, 26 Apr 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynoy-biblioteki-sdl-2-0-22-20220426-013502/</guid>
+      <description>Состоялся релиз библиотеки SDL 2.0.22 (Simple DirectMedia Layer), нацеленной на упрощение написания игр и мультимедийных приложений. Библиотека SDL предоставляет такие средства как аппаратно-ускоренный вывод 2D- и 3D-графики, обработка ввода, воспроизведение звука, вывод 3D через OpenGL/OpenGL ES/Vulkan и множество иных сопутствующих операций. Библиотека написана на языке Си и распространяется под лицензией Zlib. Для использования возможностей SDL в проектах на различных языках программирования предоставляются биндинги.
+https://www.opennet.ru/opennews/art.shtml?num=57083</description>
+    </item>
+    
     <item>
       <title>Разработчики SDL отменили переход на Wayland по умолчанию в выпуске 2.0.22</title>
       <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</link>
