@@ -6,7 +6,17 @@
     <description>Recent content in Fedora on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Технический комитет отклонил план по прекращению поддержки BIOS в Fedora </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-komitet-otklonil-plan-po-prekrascheniyu-podderzhki-bios-v-fedora-20220427-213503/</link>
+      <pubDate>Wed, 27 Apr 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-komitet-otklonil-plan-po-prekrascheniyu-podderzhki-bios-v-fedora-20220427-213503/</guid>
+      <description>На заседании комитета FESCo (Fedora Engineering Steering Committee), отвечающего за техническую часть разработки дистрибутива Fedora Linux, отклонено предложенное для релизации в Fedora Linux 37 изменение, переводящее поддержку UEFI в разряд обязательных требований для установки дистрибутива на платформе x86_64. Вопрос о прекращении поддержки BIOS отложен и вероятно разработчики вернуться к нему при подготовке выпуска Fedora Linux 38.
+https://www.opennet.ru/opennews/art.shtml?num=57096</description>
+    </item>
+    
     <item>
       <title>В Fedora планируют заменить пакетный менеджер DNF на Microdnf</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-planiruyut-zamenit-paketnyy-menedzher-dnf-na-microdnf-20220416-023503/</link>
