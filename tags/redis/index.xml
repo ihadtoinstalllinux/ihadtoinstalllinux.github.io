@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redis/</link>
+    <description>Recent content in Redis on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск СУБД Redis 7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-0-20220428-123503/</link>
+      <pubDate>Thu, 28 Apr 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-0-20220428-123503/</guid>
+      <description>Опубликован релиз СУБД Redis 7.0, относящейся к классу NoSQL-систем. Redis предоставляет функции для хранения данных в формате ключ/значение, расширенные поддержкой структурированных форматов данных, таких как списки, хэши и множества, а также возможностью выполнения на стороне сервера скриптов-обработчиков на языке Lua. Код проекта поставляется под лицензией BSD. Дополнительные модули, в которых предлагаются расширенные возможности для корпоративных пользователей, такие как RediSearch, RedisGraph, RedisJSON, RedisML, RedisBloom, с прошлого года поставляются под проприетарной лицензией RSAL.</description>
+    </item>
+    
+  </channel>
+</rss>
