@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ve/</link>
+    <description>Recent content in VE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Proxmox VE 7.2, дистрибутива для организации работы виртуальных серверов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-7-2-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20220505-023502/</link>
+      <pubDate>Thu, 05 May 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-7-2-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20220505-023502/</guid>
+      <description>Опубликован релиз Proxmox Virtual Environment 7.2, специализированного Linux-дистрибутива на базе Debian GNU/Linux, нацеленного на развертывание и обслуживание виртуальных серверов с использованием LXC и KVM, и способного выступить в роли замены таких продуктов, как VMware vSphere, Microsoft Hyper-V и Citrix Hypervisor. Размер установочного iso-образа 994 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=57134</description>
+    </item>
+    
+  </channel>
+</rss>
