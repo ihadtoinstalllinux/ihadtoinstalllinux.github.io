@@ -6,7 +6,16 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Wine-wayland 7.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-wayland-7-7-20220506-003503/</link>
+      <pubDate>Fri, 06 May 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-wayland-7-7-20220506-003503/</guid>
+      <description>Опубликован выпуск проекта Wine-wayland 7.7, развивающего набор патчей и драйвер winewayland.drv, позволяющие использовать Wine в окружениях на базе протокола Wayland, без применения XWayland и компонентов X11. Предоставляется возможность запуска игр и приложений, использующих графический API Vulkan и Direct3D 9/11/12. Поддержка Direct3D реализована при помощи прослойки DXVK, транслирующей вызовы в API Vulkan. Набор также включает патчи и &amp;ldquo;fsync&amp;rdquo; для увеличения производительности многопоточных игр и код для поддержки технологии AMD FSR (FidelityFX Super Resolution), позволяющей снизить потери качества картинки при масштабировании на экранах с высоким разрешением.</description>
+    </item>
+    
     <item>
       <title>Для Ubuntu предложен PPA для улучшения поддержки Wayland в Qt</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dlya-ubuntu-predlozhen-ppa-dlya-uluchsheniya-podderzhki-wayland-v-qt-20220419-233503/</link>
