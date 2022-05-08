@@ -6,7 +6,16 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 May 2022 11:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Шестая версия патчей для ядра Linux с поддержкой языка Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/shestaya-versiya-patchey-dlya-yadra-linux-s-podderzhkoy-yazyka-rust-20220508-143503/</link>
+      <pubDate>Sun, 08 May 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/shestaya-versiya-patchey-dlya-yadra-linux-s-podderzhkoy-yazyka-rust-20220508-143503/</guid>
+      <description>Мигель Охеда (Miguel Ojeda), автор проекта Rust-for-Linux, предложил для рассмотрения разработчиками ядра Linux выпуск v6 компонентов для разработки драйверов устройств на языке Rust. Это седьмая редакция патчей с учётом первого варианта, опубликованного без номера версии. Поддержка Rust рассматривается как экспериментальная, но уже включена в ветку linux-next и достаточно развита для начала работы по созданию слоёв абстракции над подсистемами ядра, а также для написания драйверов и модулей. Разработка финансируется компанией Google и организацией ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует продвижению HTTPS и развитию технологий для повышения защищённости интернета.</description>
+    </item>
+    
     <item>
       <title>7WLLqUDMH7pb3Y69L8VzcMB6L-uDOHsMFTOFb3qrUzJyZ3A43DaqIy4aGQZQps_sZFlOHYFnwUYyQ3pDYNSNbYDy.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220508-113547/</link>
