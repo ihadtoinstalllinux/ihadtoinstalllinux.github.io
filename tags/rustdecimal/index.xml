@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rustdecimal on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rustdecimal/</link>
+    <description>Recent content in rustdecimal on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rustdecimal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Rust-репозитории crates.io выявлен вредоносный пакет rustdecimal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rust-repozitorii-crates-io-vyyavlen-vredonosnyy-paket-rustdecimal-20220511-113502/</link>
+      <pubDate>Wed, 11 May 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rust-repozitorii-crates-io-vyyavlen-vredonosnyy-paket-rustdecimal-20220511-113502/</guid>
+      <description>Разработчики языка Rust предупредили о выявлении в репозитории crates.io пакета rustdecimal, содержащего вредоносный код. Пакет был основан на легитимном пакете rust_decimal и пользовался для распространения сходством в имени (тайпсквоттинг) с расчётом на то, что пользователь не обратит внимание на отсутствие символа подчёркивания, осуществляя поиск или выбирая модуль из списка.
+https://www.opennet.ru/opennews/art.shtml?num=57169</description>
+    </item>
+    
+  </channel>
+</rss>
