@@ -6,7 +6,17 @@
     <description>Recent content in RHEL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива EuroLinux 8.6, совместимого с RHEL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-8-6-sovmestimogo-s-rhel-20220512-103503/</link>
+      <pubDate>Thu, 12 May 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-8-6-sovmestimogo-s-rhel-20220512-103503/</guid>
+      <description>Состоялся релиз дистрибутива EuroLinux 8.6, подготовленного путём пересборки исходных текстов пакетов дистрибутива Red Hat Enterprise Linux 8.6 и полностью бинарно совместимого с ним. Для загрузки подготовлены установочные образы, размером 11 ГБ (appstream) и 1.6 ГБ. Дистрибутив в том числе может использоваться для замены ветки CentOS 8, сопровождение которой прекращено в конце 2021 года.
+https://www.opennet.ru/opennews/art.shtml?num=57176</description>
+    </item>
+    
     <item>
       <title>Предварительный выпуск AlmaLinux 9, основанный на ветке RHEL 9</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-almalinux-9-osnovannyy-na-vetke-rhel-9-20220420-113503/</link>
