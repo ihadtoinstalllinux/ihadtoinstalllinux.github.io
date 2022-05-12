@@ -6,7 +6,17 @@
     <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 8.6, продолжающий развитие CentOS 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-6-prodolzhayuschiy-razvitie-centos-8-20220512-223503/</link>
+      <pubDate>Thu, 12 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-6-prodolzhayuschiy-razvitie-centos-8-20220512-223503/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 8.6, синхронизированный c дистрибутивом Red Hat Enterprise Linux 8.6 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64 и ppc64le в форме загрузочного (830 МБ), минимального (1.6 ГБ) и полного образа (11 ГБ). Позднее дополнительно обещают сформировать Live-сборки, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=57179</description>
+    </item>
+    
     <item>
       <title>Предварительный выпуск AlmaLinux 9, основанный на ветке RHEL 9</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-almalinux-9-osnovannyy-na-vetke-rhel-9-20220420-113503/</link>
