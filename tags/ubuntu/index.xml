@@ -6,7 +6,16 @@
     <description>Recent content in Ubuntu on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Apr 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован multipass 1.9, инструментарий для развёртывания Ubuntu в виртуальных машинах </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-multipass-1-9-instrumentariy-dlya-razvertyvaniya-ubuntu-v-virtualnyh-mashinah-20220513-143503/</link>
+      <pubDate>Fri, 13 May 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-multipass-1-9-instrumentariy-dlya-razvertyvaniya-ubuntu-v-virtualnyh-mashinah-20220513-143503/</guid>
+      <description>Компания Canonical опубликовала выпуск инструментария multipass 1.9, предназначенного для упрощения установки различных версий Ubuntu в виртуальных машинах, запускаемых в системах виртуализации Linux, Windows и macOS. Multipass позволяет разработчику одной командой без дополнительных настроек запустить нужную версию Ubuntu в виртуальной машине, например, для экспериментов или проверки работы своего приложения. Для запуска виртуальной машины в Linux используется KVM, в Windows - Hyper-V, а в macOS - HyperKit. Также возможно использование для выполнения виртуальных машин VirtualBox.</description>
+    </item>
+    
     <item>
       <title>Компания Canonical представила Steam Snap для упрощения доступа к играм в Ubuntu</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-predstavila-steam-snap-dlya-uproscheniya-dostupa-k-igram-v-ubuntu-20220430-103502/</link>
