@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2022 11:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 13:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dUFOLxEb8SjPZfV5BJjaT0PBg4ms4GVdQ9CsjXCguux5LpySPnXSIU5PwtsurB1-fErI6-C8IEG1mCl5EVGTdCDU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220513-133602/</link>
+      <pubDate>Fri, 13 May 2022 13:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220513-133602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Атака на немецкие компании через NPM-пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-nemeckie-kompanii-cherez-npm-pakety-20220513-133503/</link>
+      <pubDate>Fri, 13 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-nemeckie-kompanii-cherez-npm-pakety-20220513-133503/</guid>
+      <description>Раскрыта новая порция вредоносных NPM-пакетов, созданных для целевых атак на немецкие компании Bertelsmann, Bosch, Stihl и DB Schenker. Для атаки использован метод смешивания зависимостей, манипулирующий пересечением имён зависимостей в публичных и внутренних репозиториях. В имеющихся в публичном доступе приложениях атакующие находят следы обращения ко внутренним NPM-пакетам, загружаемым из корпоративных репозиториев, поле чего размещают пакеты с теми же именами и более новыми номерами версий в публичном репозитории NPM. Если при сборке внутренние библиотеки явно не привязаны в настройках к своему репозиторию, пакетный менеджер npm считает более приоритетным публичный репозиторий и загружает подготовленный атакующим пакет.</description>
+    </item>
+    
     <item>
       <title>fKGEAr_pm3T2PD75BlKyHqjMvx31PrdPuICDoD-F_WHxrOtywzVGoyxACn4oZUOsKPgblL_YGWHObcyYyyj3DieE.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220513-113524/</link>
