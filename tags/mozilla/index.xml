@@ -6,7 +6,16 @@
     <description>Recent content in Mozilla on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Firefox 101.0.1. Усиление требований Mozilla к удостоверяющим центрам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-usilenie-trebovaniy-mozilla-k-udostoveryayuschim-centram-20220517-003505/</link>
+      <pubDate>Tue, 17 May 2022 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-usilenie-trebovaniy-mozilla-k-udostoveryayuschim-centram-20220517-003505/</guid>
+      <description>Доступен корректирующий выпуск Firefox 101.0.1, примечательный усилением sandbox-изоляции на платформе Windows. В новой версии включена по умолчанию блокировка доступа к API Win32k (компоненты Win32 GUI, работающие на уровне ядра) из изолированных процессов обработки контента. Изменение внесено накануне соревнования Pwn2Own 2022, которое состоится 18-20 мая. Участники Pwn2Own продемонстрируют рабочие техники эксплуатации ранее неизвестных уязвимостей и в случае успеха получат внушительные вознаграждения. Например, размер премии за обход sandbox-изоляции в Firefox на платформе Windows составляет 100 тысяч долларов.</description>
+    </item>
+    
     <item>
       <title>Обновление голосовых данных Mozilla Common Voice 9.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-9-0-20220429-003502/</link>
