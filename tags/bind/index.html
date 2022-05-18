@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Обновление DNS-сервера BIND c устранением уязвимости в реализации DNS-over-HTTPS 
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Опубликованы корректирующие обновления стабильных веток DNS-сервера BIND 9.16.28 и 9.18.3, а также новый выпуск экспериментальной ветки 9.19.1. В версиях 9.18.3 и 9.19.1 устранена уязвимость (CVE-2022-1183) в реализации механизма DNS-over-HTTPS, поддерживаемого начиная с ветки 9.18. Уязвимость приводит к аварийному завершению процесса named в случае, если TLS-соединение к обработчику на базе протокола HTTP будет досрочно оборвано. Проблема затрагивает только серверы, обслуживающие запросы DNS over HTTPS (DoH). Серверы, принимающие запросы по DNS over TLS (DoT) и не использующие DoH, проблеме не подвержены....</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-19 01:35:03 +0500 +05'>May 19, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Обновление DNS-сервера BIND c устранением уязвимости в реализации DNS-over-HTTPS " href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-c-ustraneniem-uyazvimosti-v-realizacii-dns-over-https-20220519-013503/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Обновление DNS-сервера BIND 9.11.37, 9.16.27 и 9.18.1 c устранением 4 уязвимостей
     </h2>
   </header>
