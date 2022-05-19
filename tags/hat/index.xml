@@ -6,7 +6,16 @@
     <description>Recent content in Hat on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hat Enterprise Linux 9 доступен для загрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-enterprise-linux-9-dostupen-dlya-zagruzki-20220519-153503/</link>
+      <pubDate>Thu, 19 May 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-enterprise-linux-9-dostupen-dlya-zagruzki-20220519-153503/</guid>
+      <description>Компания Red Hat объявила о готовности для загрузки установочных образов и репозиториев дистрибутива Red Hat Enterprise Linux 9. О выходе новой ветки было официально объявлено неделю назад, но сборки опубликованы с небольшим запозданием. Исходные тексты rpm-пакетов Red Hat Enterprise Linux 9 размещены в Git-репозитории CentOS. Готовые установочные образы доступны только для зарегистрированных пользователей Red Hat Customer Portal, но для оценки функциональности также можно использовать iso-образы проекта CentOS Stream 9, который использован в качестве основы для построения RHEL 9.</description>
+    </item>
+    
     <item>
       <title>Релиз дистрибутива Red Hat Enterprise Linux 8.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-6-20220512-013503/</link>
