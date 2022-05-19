@@ -6,7 +6,17 @@
     <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2022 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 17:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox началось тестирование третьей версии манифеста Chrome </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-nachalos-testirovanie-tretey-versii-manifesta-chrome-20220519-173505/</link>
+      <pubDate>Thu, 19 May 2022 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-nachalos-testirovanie-tretey-versii-manifesta-chrome-20220519-173505/</guid>
+      <description>Компания Mozilla объявила о начале тестирования реализации в Firefox третьей версии манифеста Chrome, определяющей возможности и ресурсы, доступные для дополнений, написанных с использованием API WebExtensions. Для тестирования третьей версии манифеста в бета-версии Firefox 101 на странице about:config следует установить параметр &amp;ldquo;extensions.manifestV3.enabled&amp;rdquo; в значение true, а параметр &amp;ldquo;xpinstall.signatures.required&amp;rdquo; в значение false. Для установки дополнений можно использовать интерфейс about:debugging. Включение третьей версии манифеста по умолчанию запланировано на конец года.
+https://www.opennet.ru/opennews/art.shtml?num=57217</description>
+    </item>
+    
     <item>
       <title>Обновление Firefox 101.0.1. Усиление требований Mozilla к удостоверяющим центрам</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-usilenie-trebovaniy-mozilla-k-udostoveryayuschim-centram-20220517-003505/</link>

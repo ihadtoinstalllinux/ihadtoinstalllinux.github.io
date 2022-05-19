@@ -6,7 +6,17 @@
     <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 17:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox началось тестирование третьей версии манифеста Chrome </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-nachalos-testirovanie-tretey-versii-manifesta-chrome-20220519-173505/</link>
+      <pubDate>Thu, 19 May 2022 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-nachalos-testirovanie-tretey-versii-manifesta-chrome-20220519-173505/</guid>
+      <description>Компания Mozilla объявила о начале тестирования реализации в Firefox третьей версии манифеста Chrome, определяющей возможности и ресурсы, доступные для дополнений, написанных с использованием API WebExtensions. Для тестирования третьей версии манифеста в бета-версии Firefox 101 на странице about:config следует установить параметр &amp;ldquo;extensions.manifestV3.enabled&amp;rdquo; в значение true, а параметр &amp;ldquo;xpinstall.signatures.required&amp;rdquo; в значение false. Для установки дополнений можно использовать интерфейс about:debugging. Включение третьей версии манифеста по умолчанию запланировано на конец года.
+https://www.opennet.ru/opennews/art.shtml?num=57217</description>
+    </item>
+    
     <item>
       <title>Выпуск Chrome OS 101</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-101-20220510-023505/</link>
