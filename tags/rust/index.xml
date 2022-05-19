@@ -6,7 +6,17 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Rust 1.61</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-61-20220520-013503/</link>
+      <pubDate>Fri, 20 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-61-20220520-013503/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.61, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=57219</description>
+    </item>
+    
     <item>
       <title>В Rust-репозитории crates.io выявлен вредоносный пакет rustdecimal</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-rust-repozitorii-crates-io-vyyavlen-vredonosnyy-paket-rustdecimal-20220511-113502/</link>
