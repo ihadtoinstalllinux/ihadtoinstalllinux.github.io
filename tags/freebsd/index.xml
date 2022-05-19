@@ -6,7 +6,17 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован MyBee 13.1.0, дистрибутив FreeBSD для организации работы виртуальных машин</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-mybee-13-1-0-distributiv-freebsd-dlya-organizacii-raboty-virtualnyh-mashin-20220519-113503/</link>
+      <pubDate>Thu, 19 May 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-mybee-13-1-0-distributiv-freebsd-dlya-organizacii-raboty-virtualnyh-mashin-20220519-113503/</guid>
+      <description>Состоялся выпуск свободного дистрибутива MyBee 13.1.0, построенного на базе технологий FreeBSD 13.1 и предоставляющего API для работы с виртуальными машинами (через гипервизор bhyve) и контейнерами (на базе FreeBSD jail). Дистрибутив рассчитан на установку на выделенный физический сервер. Размер установочного образа - 1.7ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=57213</description>
+    </item>
+    
     <item>
       <title>Релиз FreeBSD 13.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-1-20220517-143503/</link>
