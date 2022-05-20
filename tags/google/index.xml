@@ -6,7 +6,17 @@
     <description>Recent content in Google on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google открыл наработки, связанные с защищённым сетевым протоколом PSP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-narabotki-svyazannye-s-zaschischennym-setevym-protokolom-psp-20220520-143502/</link>
+      <pubDate>Fri, 20 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-narabotki-svyazannye-s-zaschischennym-setevym-protokolom-psp-20220520-143502/</guid>
+      <description>Компания Google объявила об открытии спецификаций и эталонной реализации протокола PSP (PSP Security Protocol), применяемого для шифрования трафика между датацентрами. Протокол использует похожую на IPsec ESP (Encapsulating Security Payloads) архитектуру инкапсуляции трафика поверх IP, обеспечивая шифрование, криптографический контроль целостности и аутентификацию источника. Код реализации PSP написан на языке Си и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57220</description>
+    </item>
+    
     <item>
       <title>Google учредил команду для помощи открытым проектам в усилении безопасности</title>
       <link>https://ihadtoinstalllinux.github.io/posts/google-uchredil-komandu-dlya-pomoschi-otkrytym-proektam-v-usilenii-bezopasnosti-20220513-153503/</link>
