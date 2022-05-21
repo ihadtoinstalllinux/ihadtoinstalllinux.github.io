@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PipeWire on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pipewire/</link>
+    <description>Recent content in PipeWire on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 May 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pipewire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 22.10 перейдёт на обработку звука при помощи PipeWire вместо PulseAudio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-22-10-pereydet-na-obrabotku-zvuka-pri-pomoschi-pipewire-vmesto-pulseaudio-20220521-183502/</link>
+      <pubDate>Sat, 21 May 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-22-10-pereydet-na-obrabotku-zvuka-pri-pomoschi-pipewire-vmesto-pulseaudio-20220521-183502/</guid>
+      <description>В репозитории, в котором ведётся разработка выпуска Ubuntu 22.10, произведён переход на использование по умолчанию мультимедийного сервера PipeWire для обработки звука. Пакеты, связанные с PulseAudio удалены из наборов desktop и desktop-minimal, а для обеспечения совместимости вместо библиотек для взаимодействия с PulseAudio добавлена работающая поверх PipeWire прослойка pipewire-pulse, которая позволяет сохранить работу всех существующих клиентов PulseAudio.
+https://www.opennet.ru/opennews/art.shtml?num=57229</description>
+    </item>
+    
+  </channel>
+</rss>
