@@ -6,7 +6,17 @@
     <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В каталоге Python-пакетов PyPI выявлена вредоносная библиотека pymafka</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kataloge-python-paketov-pypi-vyyavlena-vredonosnaya-biblioteka-pymafka-20220522-113502/</link>
+      <pubDate>Sun, 22 May 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kataloge-python-paketov-pypi-vyyavlena-vredonosnaya-biblioteka-pymafka-20220522-113502/</guid>
+      <description>В каталоге PyPI (Python Package Index) выявлена библиотека pymafka, содержащая вредоносный код. Библиотека распространялась с именем, похожим на популярный пакет pykafka с расчётом на то, что невнимательные пользователи перепутают подставной пакет с основным проектом (тайпсквоттинг). Вредоносный пакет был размещён 17 мая и до блокировки был загружен 325 раз.
+https://www.opennet.ru/opennews/art.shtml?num=57232</description>
+    </item>
+    
     <item>
       <title>Выпуск PikaScript 1.8, варианта языка Python для микроконтроллеров</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pikascript-1-8-varianta-yazyka-python-dlya-mikrokontrollerov-20220518-133503/</link>
