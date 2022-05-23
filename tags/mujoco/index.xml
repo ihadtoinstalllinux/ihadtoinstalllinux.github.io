@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MuJoCo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mujoco/</link>
+    <description>Recent content in MuJoCo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 May 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mujoco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepMind открыл код симулятора физических процессов MuJoCo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/deepmind-otkryl-kod-simulyatora-fizicheskih-processov-mujoco-20220524-023502/</link>
+      <pubDate>Tue, 24 May 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/deepmind-otkryl-kod-simulyatora-fizicheskih-processov-mujoco-20220524-023502/</guid>
+      <description>Компания DeepMind открыла исходные тексты движка для симуляции физических процессов MuJoCo (Multi-Joint dynamics with Contact) и перевела проект на открытую модель разработки, подразумевающую возможность участия в разработке представителей сообщества. Проект рассматривается как платформа для проведения исследований и совместной работы над новыми технологиями, связанными с симуляцией роботов и сложных механизмов. Код опубликован под лицензией Apache 2.0. Поддерживаются платформы Linux, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=57237</description>
+    </item>
+    
+  </channel>
+</rss>
