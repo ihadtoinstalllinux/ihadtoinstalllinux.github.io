@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз ядра Linux 5.18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-5-18-20220523-143503/</link>
+      <pubDate>Mon, 23 May 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-5-18-20220523-143503/</guid>
+      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 5.18. Среди наиболее заметных изменений: проведена большая чистка устаревшей функциональности, объявлена устаревшей ФС Reiserfs, реализованы события трассировки пользовательских процессов, добавлена поддержка механизма блокирования работы эксплоитов Intel IBT, включён режим выявления переполнения буферов при использовании функции memcpy(), добавлен механизм отслеживания вызовов функций fprobe, повышена производительность планировщика задач на CPU AMD Zen, в состав включён драйвер для управления функциональностью CPU Intel (SDS), интегрирована часть патчей для реструктуризации заголовочных файлов, одобрено применение стандарта C11.</description>
+    </item>
+    
     <item>
       <title>Uf3RbwkGaMDZD3b7_1euBTiItx-ct6KzrbQQUscf_m1qPSQwtNTqVCLMVzIOQsI7HmzFVby2YFZWHm1vU-Hgr5Ko.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220523-133550/</link>
