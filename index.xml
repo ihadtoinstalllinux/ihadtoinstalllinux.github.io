@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 May 2022 11:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз минималистичного дистрибутива Alpine Linux 3.16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-16-20220524-123503/</link>
+      <pubDate>Tue, 24 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-16-20220524-123503/</guid>
+      <description>Доступен релиз Alpine Linux 3.16, минималистичного дистрибутива, построенного на базе системной библиотеки Musl и набора утилит BusyBox. Дистрибутив отличается повышенными требованиями к обеспечению безопасности и собран с защитой SSP (Stack Smashing Protection). В качестве системы инициализации используется OpenRC, для управления пакетами применяется собственный пакетный менеджер apk. Alpine применяется для формирования официальных образов контейнеров Docker. Загрузочные iso-образы (x86_64, x86, armhf, aarch64, armv7, ppc64le, s390x) подготовлены в пяти вариантах: стандартном (155 МБ), с ядром без патчей (168 МБ), расширенном (750 МБ) и для виртуальных машин (49 МБ).</description>
+    </item>
+    
     <item>
       <title>0SRIHxFLsYNUFuKRsJdzzSqIToTElJrJyS9fPV5OrUSoCY96EW1IHgMN7gzIUUcPk2WWO1IkBvDRN7yLMTainxLX.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220524-113549/</link>
