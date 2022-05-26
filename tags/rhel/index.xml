@@ -6,7 +6,16 @@
     <description>Recent content in RHEL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 9.0, основанный на ветке RHEL 9 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-9-0-osnovannyy-na-vetke-rhel-9-20220526-223503/</link>
+      <pubDate>Thu, 26 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-9-0-osnovannyy-na-vetke-rhel-9-20220526-223503/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 9.0, синхронизированный c дистрибутивом Red Hat Enterprise Linux 9 и содержащий все предложенные данной ветке изменения. Проект AlmaLinux стал первым общедоступным дистрибутивом, основанным на пакетной базе RHEL, выпустившим стабильные сборки на основе RHEL 9. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (800 МБ), минимального (1.5 ГБ) и полного образа (8 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE и Xfce, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива EuroLinux 8.6, совместимого с RHEL </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-8-6-sovmestimogo-s-rhel-20220512-103503/</link>
