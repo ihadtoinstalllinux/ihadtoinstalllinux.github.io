@@ -6,7 +6,17 @@
     <description>Recent content in C on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новые версии анонимной сети I2P 1.8.0 и C&#43;&#43;-клиента i2pd 2.42 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-anonimnoy-seti-i2p-1-8-0-i-c-klienta-i2pd-2-42-20220526-133503/</link>
+      <pubDate>Thu, 26 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-anonimnoy-seti-i2p-1-8-0-i-c-klienta-i2pd-2-42-20220526-133503/</guid>
+      <description>Состоялся релиз анонимной сети I2P 1.8.0 и C++-клиента i2pd 2.42.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=57253</description>
+    </item>
+    
     <item>
       <title>Обновление DNS-сервера BIND c устранением уязвимости в реализации DNS-over-HTTPS </title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-c-ustraneniem-uyazvimosti-v-realizacii-dns-over-https-20220519-013503/</link>
