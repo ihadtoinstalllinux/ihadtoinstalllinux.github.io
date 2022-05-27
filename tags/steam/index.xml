@@ -6,7 +6,16 @@
     <description>Recent content in Steam on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Steam OS 3.2, используемого на игровой консоли Steam Deck </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-2-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220527-113503/</link>
+      <pubDate>Fri, 27 May 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-2-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220527-113503/</guid>
+      <description>Компания Valve представила обновление операционной системы Steam OS 3.2, поставляемой в игровой консоли Steam Deck. Steam OS 3 основана на Arch Linux, использует для ускорения запуска игр композитный сервер Gamescope на базе протокола Wayland, поставляется с доступной только на чтение корневой ФС, применяет атомарный механизм установки обновлений, поддерживает пакеты Flatpak, использует мультимедийный сервер PipeWire и предоставляет два режима работы интерфейса (оболочка Steam и рабочий стол KDE Plasma). Обновления доступны только для Steam Deck, но энтузиастами развивается неофициальная сборка holoiso, адаптированная для установки на обычные компьютеры (в будущем сборки для ПК обещает подготовить и компания Valve).</description>
+    </item>
+    
     <item>
       <title>Энтузиасты подготовили сборку Steam OS 3, пригодную для установки на обычные ПК</title>
       <link>https://ihadtoinstalllinux.github.io/posts/entuziasty-podgotovili-sborku-steam-os-3-prigodnuyu-dlya-ustanovki-na-obychnye-pk-20220504-133502/</link>
