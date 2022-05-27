@@ -6,7 +6,16 @@
     <description>Recent content in Server on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 20:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft добавил поддержку WSL2 (Windows Subsystem for Linux) в Windows Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</link>
+      <pubDate>Fri, 27 May 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</guid>
+      <description>Компания Microsoft реализовала поддержку подсистемы WSL2 (Windows Subsystem for Linux) в Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций, но теперь Microsoft перенёс данную подсистему и в серверные редакции Windows. Компоненты для поддержки WSL2 в Windows Server пока доступны для тестирования в форме экспериментального обновления KB5014021 (OS Build 20348.740). В июньском сводном обновлении поддержку Linux-окружений на базе WSL2 планируют интегрировать в основной состав Windows Server 2022 и предложить всем пользователям.</description>
+    </item>
+    
     <item>
       <title>Выпуск PowerDNS Authoritative Server 4.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-6-20220128-203503/</link>
