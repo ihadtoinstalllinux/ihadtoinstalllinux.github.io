@@ -6,7 +6,16 @@
     <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики Ubuntu приступили к решению проблем с медленным запуском snap-пакета Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-ubuntu-pristupili-k-resheniyu-problem-s-medlennym-zapuskom-snap-paketa-firef-20220527-173503/</link>
+      <pubDate>Fri, 27 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-ubuntu-pristupili-k-resheniyu-problem-s-medlennym-zapuskom-snap-paketa-firef-20220527-173503/</guid>
+      <description>Компания Canonical приступила к решению проблем с производительностью snap-пакета с Firefox, который был предложен по умолчанию в Ubuntu 22.04 вместо обычного deb-пакета. Основное недовольство пользователей связано с очень медленным запуском Firefox. Например, на ноутбуке Dell XPS 13 первый запуск Firefox после установки занимает 7.6 секунд, на ноутбуке Thinkpad X240 - 15 секунд, а на плате Raspberry Pi 400 - 38 секунд. Повторные запуски выполняются уже за 0.86, 1.39 и 8.11 секунд соответственно.</description>
+    </item>
+    
     <item>
       <title>Обновление Firefox 100.0.2 с устранением критических уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-100-0-2-s-ustraneniem-kriticheskih-uyazvimostey-20220520-223502/</link>
