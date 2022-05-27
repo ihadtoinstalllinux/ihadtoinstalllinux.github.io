@@ -6,7 +6,17 @@
     <description>Recent content in GitHub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub раскрыл данные о взломе инфраструктуры NPM и выявлении открытых паролей в логах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-raskryl-dannye-o-vzlome-infrastruktury-npm-i-vyyavlenii-otkrytyh-paroley-v-logah-20220527-213503/</link>
+      <pubDate>Fri, 27 May 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-raskryl-dannye-o-vzlome-infrastruktury-npm-i-vyyavlenii-otkrytyh-paroley-v-logah-20220527-213503/</guid>
+      <description>Компания GitHub опубликовала результаты разбора атаки, в результате которой 12 апреля злоумышленники получили доступ к облачным окружениям в сервисе Amazon AWS, используемым в инфраструктуре проекта NPM. Анализ инцидента показал, что атакующие получили доступ к резервным копиям хоста skimdb.npmjs.com и в том числе к резервной копии БД с учётными данными примерно 100 тысяч пользователей NPM по состоянию на 2015 год, включающим хэши паролей, имена и email.
+https://www.opennet.ru/opennews/art.shtml?num=57263</description>
+    </item>
+    
     <item>
       <title>GitHub переходит на использование обязательной двухфакторной аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/github-perehodit-na-ispolzovanie-obyazatelnoy-dvuhfaktornoy-autentifikacii-20220505-133502/</link>
