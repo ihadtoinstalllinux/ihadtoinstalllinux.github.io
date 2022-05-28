@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Focal on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/focal/</link>
+    <description>Recent content in Focal on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 May 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/focal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск LXLE Focal, дистрибутива для устаревших систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-lxle-focal-distributiva-dlya-ustarevshih-sistem-20220528-143502/</link>
+      <pubDate>Sat, 28 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-lxle-focal-distributiva-dlya-ustarevshih-sistem-20220528-143502/</guid>
+      <description>После более двух лет с момента прошлого обновления подготовлен выпуск дистрибутива LXLE Focal, развивающегося для использования на устаревших системах. Дистрибутив LXLE основан на наработках Ubuntu MinimalCD и пытается предоставить легковесное решение, сочетающее поддержку устаревшего оборудования с современным пользовательским окружением. Необходимость в создании отдельного ответвления обусловлена желанием включения в состав дополнительных драйверов для старых систем и переработкой пользовательского окружения. Размер загрузочного образа 1.8 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=57267</description>
+    </item>
+    
+  </channel>
+</rss>
