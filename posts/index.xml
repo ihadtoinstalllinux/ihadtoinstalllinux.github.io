@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 May 2022 23:36:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск звукового сервера PulseAudio 16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zvukovogo-servera-pulseaudio-16-0-20220530-013503/</link>
+      <pubDate>Mon, 30 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zvukovogo-servera-pulseaudio-16-0-20220530-013503/</guid>
+      <description>Представлен релиз звукового сервера PulseAudio 16.0, который выступает в роли посредника между приложениями и различными низкоуровневыми звуковыми подсистемами, абстрагируя работу с оборудованием. PulseAudio позволяет управлять громкостью и смешиванием звука на уровне отдельных приложений, организовывать поступление, смешивание и вывод звука при наличии нескольких входных и выходных каналов или звуковых карт, позволяет на лету менять формат звукового потока и использовать плагины, дает возможность прозрачно перенаправлять звуковой поток на другую машину. Код PulseAudio распространяется в рамках лицензии LGPL 2.</description>
+    </item>
+    
     <item>
       <title>RsyvA5zCC4-OR_qGI-wGgZ5xMuZbCZmXPmvsdRVgdM3qRaKmwANRhdJg42BsbnQ9da_-HGcouhDBHMVJ6oSX8fXY.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220529-233607/</link>
