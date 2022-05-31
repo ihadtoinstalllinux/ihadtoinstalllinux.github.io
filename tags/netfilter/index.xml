@@ -6,7 +6,17 @@
     <description>Recent content in Netfilter on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netfilter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netfilter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в подсистеме ядра Linux Netfilter</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-yadra-linux-netfilter-20220531-233502/</link>
+      <pubDate>Tue, 31 May 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-yadra-linux-netfilter-20220531-233502/</guid>
+      <description>В ядре Linux выявлена уязвимость (CVE не назначен), позволяющая локальному пользователю получить права root в системе. Заявлено о подготовке эксплоита, демонстрирующего получение root-привилегий в Ubuntu 22.04. Для включения в ядро предложен патч с устранением проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=57281</description>
+    </item>
+    
     <item>
       <title>Уязвимость в подсистеме netfilter, позволяющая выполнить код на уровне ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-netfilter-pozvolyayuschaya-vypolnit-kod-na-urovne-yadra-linux-20220222-153502/</link>
