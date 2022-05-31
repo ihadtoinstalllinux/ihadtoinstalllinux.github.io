@@ -6,7 +6,16 @@
     <description>Recent content in GNOME on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Ubuntu 22.10 на смену GEdit придёт новый текстовый редактор GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-22-10-na-smenu-gedit-pridet-novyy-tekstovyy-redaktor-gnome-20220531-123503/</link>
+      <pubDate>Tue, 31 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-22-10-na-smenu-gedit-pridet-novyy-tekstovyy-redaktor-gnome-20220531-123503/</guid>
+      <description>В репозитории, в котором ведётся разработка выпуска Ubuntu 22.10, изменён предлагаемый по умолчанию текстовый редактор. Вместо GEdit пользователям предложен новый текстовый редактор &amp;ldquo;GNOME Text Editor&amp;rdquo;, реализованный с использованием GTK 4 и библиотеки libadwaita, которая предлагает готовые виджеты и объекты для построения приложений, соответствующие новым рекомендациям GNOME HIG (Human Interface Guidelines) и способные адаптивно подстраиваться под экраны любого размера. Ранее предлагаемый редактор GEdit останется доступен для установки из репозитория universe (для ознакомления также может быть использован пакет в формате flatpak).</description>
+    </item>
+    
     <item>
       <title>Стратегия проекта GNOME в 2022 году</title>
       <link>https://ihadtoinstalllinux.github.io/posts/strategiya-proekta-gnome-v-2022-godu-20220510-113502/</link>
