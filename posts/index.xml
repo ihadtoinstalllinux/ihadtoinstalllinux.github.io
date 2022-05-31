@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 13:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Dragonfly развивает более быструю замену Redis и Memcached </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-dragonfly-razvivaet-bolee-bystruyu-zamenu-redis-i-memcached-20220531-153502/</link>
+      <pubDate>Tue, 31 May 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-dragonfly-razvivaet-bolee-bystruyu-zamenu-redis-i-memcached-20220531-153502/</guid>
+      <description>Доступен первый выпуск системы кэширования данных в оперативной памяти Dragonfly, обеспечивающей поддержку протоколов Memcached и Redis, но позволяющей выполнять запросы с гораздо более высокой производительностью и с меньшим потреблением памяти. Система манипулирует данными в формате ключ/значение и может применяться как легковесное решение для ускорения работы высоконагруженных сайтов, кэширующие медленные запросы к СУБД и промежуточные данные в оперативной памяти. Код Dragonfly написан на языках C/С++ и распространяется под лицензией BSL (Business Source License).</description>
+    </item>
+    
     <item>
       <title>NWN9Rg4K3LwukIV3vgSKG1t_GTFUA4Co8yZNm1Q0im92X80awaVUIWRFJDnKBxaWmLzGF-0s4l_PUHyMbdwH4pIc.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220531-133601/</link>
