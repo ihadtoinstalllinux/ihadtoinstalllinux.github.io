@@ -6,7 +6,17 @@
     <description>Recent content in Mesa on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mesa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mesa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox включена по умолчанию поддержка аппаратного ускорения видео для Linux-систем с Mesa</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-vklyuchena-po-umolchaniyu-podderzhka-apparatnogo-uskoreniya-video-dlya-linux-sis-20220603-143502/</link>
+      <pubDate>Fri, 03 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-vklyuchena-po-umolchaniyu-podderzhka-apparatnogo-uskoreniya-video-dlya-linux-sis-20220603-143502/</guid>
+      <description>В ночных сборках Firefox, на основе которых 26 июля будет сформирован релиз Firefox 103, включено по умолчанию аппаратное ускорение декодирования видео при помощи VA-API (Video Acceleration API) и FFmpegDataDecoder. Поддержка включена для Linux-систем c GPU Intel, в которых имеются драйверы Mesa как минимум версии 21.0. Поддержка доступна как для Wayland, так и для X11.
+https://www.opennet.ru/opennews/art.shtml?num=57297</description>
+    </item>
+    
     <item>
       <title>Релиз Mesa 22.1, свободной реализации OpenGL и Vulkan </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-1-svobodnoy-realizacii-opengl-i-vulkan-20220519-133502/</link>
