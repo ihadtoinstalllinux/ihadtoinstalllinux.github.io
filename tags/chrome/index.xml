@@ -6,7 +6,17 @@
     <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Chrome развивают режим автоматического блокирования спама в уведомлениях</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-chrome-razvivayut-rezhim-avtomaticheskogo-blokirovaniya-spama-v-uvedomleniyah-20220603-133503/</link>
+      <pubDate>Fri, 03 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-chrome-razvivayut-rezhim-avtomaticheskogo-blokirovaniya-spama-v-uvedomleniyah-20220603-133503/</guid>
+      <description>Для включения в кодовую базу Chromium предложен режим автоматического блокирования спама в push-уведомлениях. Отмечается, что спам через push-уведомления входит в число жалоб, наиболее часто отправляемых в службу поддержки Google. Предложенный механизм защиты позволит решить проблему со спамом в уведомлениях и будет применяться на усмотрение пользователя. Для управления активацией нового режима реализован параметр &amp;ldquo;chrome://flags#disruptive-notification-permission-revocation&amp;rdquo;, который по умолчанию отключён.
+https://www.opennet.ru/opennews/art.shtml?num=57296</description>
+    </item>
+    
     <item>
       <title>Выпуск Chrome OS 102, который отнесён к категории LTS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-102-kotoryy-otnesen-k-kategorii-lts-20220528-133503/</link>
