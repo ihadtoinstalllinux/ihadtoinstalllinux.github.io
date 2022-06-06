@@ -6,7 +6,17 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 11:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ещё одна уязвимость в подсистеме ядра Linux Netfilter</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/esche-odna-uyazvimost-v-podsisteme-yadra-linux-netfilter-20220606-123502/</link>
+      <pubDate>Mon, 06 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/esche-odna-uyazvimost-v-podsisteme-yadra-linux-netfilter-20220606-123502/</guid>
+      <description>В подсистеме ядра Netfilter выявлена уязвимость (CVE-2022-1972), похожая на проблему раскрытую в конце мая. Новая уязвимость также позволяет локальному пользователю получить права root в системе через манипуляции с правилами в nftables и требует для проведения атаки доступа к nftables, который можно получить в отдельном пространстве имён (network namespace или user namespace) при наличии прав CLONE_NEWUSER, CLONE_NEWNS или CLONE_NEWNET (например, при возможности запуска изолированного контейнера).
+https://www.opennet.ru/opennews/art.shtml?num=57305</description>
+    </item>
+    
     <item>
       <title>KOhLjldQFrNy0qorcfa-HRglESSpuKXH5TDv-0xV3XGi0oxcWJe_IkDm_QZUUIvOn9aPsx_wPvOEtWoDBd57YHU5.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220606-113520/</link>
