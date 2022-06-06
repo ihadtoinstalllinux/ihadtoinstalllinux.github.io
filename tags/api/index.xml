@@ -6,7 +6,16 @@
     <description>Recent content in API on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>На базе Nouveau развивается новый драйвер для графического API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</link>
+      <pubDate>Mon, 06 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</guid>
+      <description>Разработчики из компаний Red Hat и Collabora приступили к созданию открытого Vulkan-драйвера nvk для графичкеских карт NVIDIA, который дополнит уже имеющиеся в Mesa драйверы anv (Intel), radv (AMD), tu (Qualcomm) и v3dv (Broadcom VideoCore VI). Разработка драйвера ведётся на базе проекта Nouveau с задействованнием некоторых подсистем, ранее применяемых в OpenGL-драйвере Nouveau. Параллельно в Nouveau началась работа по выносу в отдельную библиотеку универсальной функциональности, которая может использоваться в других драйверах, например, в библиотеку вынесены компоненты для генерации кода, которые могут применяться для совместного использования компилятора шейдеров в драйверах для OpenGL и Vulkan.</description>
+    </item>
+    
     <item>
       <title>Доступен Pgfe 2, клиентский C&#43;&#43; API к PostgreSQL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</link>
