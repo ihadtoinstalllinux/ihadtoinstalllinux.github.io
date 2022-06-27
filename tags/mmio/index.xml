@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MMIO on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mmio/</link>
+    <description>Recent content in MMIO on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mmio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в механизме MMIO процессоров Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mehanizme-mmio-processorov-intel-20220619-173502/</link>
+      <pubDate>Sun, 19 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mehanizme-mmio-processorov-intel-20220619-173502/</guid>
+      <description>Компания Intel раскрыла информацию о новом классе утечек данных через микроархитектурные структуры процессоров, позволяющих через манипуляцию с механизмом MMIO (Memory Mapped Input Output) определить информацию, обрабатываемую на других ядрах CPU. Например, уязвимости позволяют извлекать данные из других процессов, анклавов Intel SGX или виртуальных машин. Уязвимости специфичны только для CPU компании Intel, процессоры других производителей уязвимости не затрагивают.
+https://www.opennet.ru/opennews/art.shtml?num=57378</description>
+    </item>
+    
+  </channel>
+</rss>

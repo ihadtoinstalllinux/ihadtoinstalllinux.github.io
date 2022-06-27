@@ -6,7 +6,26 @@
     <description>Recent content in web on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redbean 2.0 - платформа для web-приложений, упакованных в универсальный исполняемый ZIP-архив</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</guid>
+      <description>Представлен выпуск проекта Redbean 2.0, предлагающего web-сервер, позволяющий поставлять web-приложения в форме универсального исполняемого файла, который может быть выполнен в Linux, Windows, MacOS, FreeBSD, NetBSD и OpenBSD. Все связанные с web-приложением и сервером ресурсы компонуются в один исполняемый файл, который при этом совместим с форматом архивов ZIP и позволяет использовать утилиту zip для добавления дополнительных файлов. Возможность запуска одного файла в разных ОС и его распознание как ZIP-архива достигается благодаря манипуляциям с заголовками исполняемых файлов и связыванием с многоплатформенной стандартной Си-библиотекой Cosmopolitan.</description>
+    </item>
+    
+    <item>
+      <title>Проект browser-linux развивает дистрибутив Linux для запуска в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</link>
+      <pubDate>Tue, 14 Jun 2022 09:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</guid>
+      <description>Предложен дистрибутив browser-linux, предназначенный для запуска консольного Linux-окружения в web-браузере. Проект можно использоваться для быстрого знакомства с Linux без необходимости запуска виртуальных машин или загрузки с внешнего носителя. Урезанное Linux-окружение формируется при помощи инструментария Buildroot.
+https://www.opennet.ru/opennews/art.shtml?num=57348</description>
+    </item>
+    
     <item>
       <title>Доступен  Apache OpenMeetings 6.3, сервер для проведения web-конференций</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-apache-openmeetings-6-3-server-dlya-provedeniya-web-konferenciy-20220520-233503/</link>

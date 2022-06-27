@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LXC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lxc/</link>
+    <description>Recent content in LXC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lxc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы управления контейнерами LXC 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxc-5-0-20220618-023503/</link>
+      <pubDate>Sat, 18 Jun 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxc-5-0-20220618-023503/</guid>
+      <description>Компания Canonical опубликовала релиз инструментария для организации работы изолированных контейнеров LXC 5.0, предоставляющий runtime, подходящий как для запуска контейнеров с полным системным окружением, близких к виртуальным машинам, так и для выполнение непривилегированных контейнеров отдельных приложений (OCI). LXC относится к низкоуровневым инструментариям, работающим на уровне отдельных контейнеров. Для централизованного управления контейнерами, развёрнутыми в кластере из нескольких серверов, на базе LXC развивается система LXD. Ветка LXC 5.0 отнесена к выпускам с длительной поддержкой, обновления для которых формируются в течение 5 лет.</description>
+    </item>
+    
+  </channel>
+</rss>

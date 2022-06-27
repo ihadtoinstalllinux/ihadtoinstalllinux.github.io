@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ALBS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/albs/</link>
+    <description>Recent content in ALBS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/albs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект AlmaLinux представил новую сборочную систему ALBS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</link>
+      <pubDate>Tue, 21 Jun 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</guid>
+      <description>Разработчики дистрибутива AlmaLinux, развивающего похожий на CentOS бесплатный клон Red Hat Enterprise Linux, представили новую сборочную систему ALBS (AlmaLinux Build System), которая уже использована при формировании выпусков AlmaLinux 8.6 и 9.0, подготовленных для архитектур x86_64, Aarch64, PowerPC ppc64le и s390x. Кроме сборки дистрибутива ALBS также используется для генерации и публикации корректирующих обновлений (errata), и заверения пакетов цифровой подписью. Код сборочной системы написан на языке Python и.
+https://www.opennet.ru/opennews/art.shtml?num=57384</description>
+    </item>
+    
+  </channel>
+</rss>

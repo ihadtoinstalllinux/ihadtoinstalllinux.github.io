@@ -6,7 +6,2276 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2022 19:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 13:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YOXpLvb4s7g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220627-133601/</link>
+      <pubDate>Mon, 27 Jun 2022 13:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220627-133601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wifibox 0.10 - окружение для использования WiFi-драйверов Linux во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</link>
+      <pubDate>Mon, 27 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</guid>
+      <description>Доступен выпуск проекта Wifibox 0.10, нацеленного на решение проблемы с использованием во FreeBSD беспроводных адаптеров, для которых отсутствуют необходимые драйверы. Работа проблемных для FreeBSD адаптеров обеспечивается через запуск гостевой системы с Linux, в которой загружаются родные для Linux драйверы беспроводных устройств.
+https://www.opennet.ru/opennews/art.shtml?num=57414</description>
+    </item>
+    
+    <item>
+      <title>9QiOg34A7KU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220627-113602/</link>
+      <pubDate>Mon, 27 Jun 2022 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220627-113602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UKYz9_iLg48.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220627-103541/</link>
+      <pubDate>Mon, 27 Jun 2022 10:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220627-103541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fTyJoI4j3ts.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220627-073539/</link>
+      <pubDate>Mon, 27 Jun 2022 07:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220627-073539/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Применение асинхронной буферизированной записи на базе io_uring до 80 раз снизило задержки в XFS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/primenenie-asinhronnoy-buferizirovannoy-zapisi-na-baze-io-uring-do-80-raz-snizilo-zaderzhk-20220627-013503/</link>
+      <pubDate>Mon, 27 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/primenenie-asinhronnoy-buferizirovannoy-zapisi-na-baze-io-uring-do-80-raz-snizilo-zaderzhk-20220627-013503/</guid>
+      <description>Опубликована серия патчей для включения в ядро Linux 5.20, добавляющая поддержку асинхронной буферизированной записи в файловую систему XFS при помощи механизма io_uring. Предварительные тесты производительности, проведённые при помощи инструментария fio (1 поток, размер блока 4кб, 600 секунд, последовательная запись), показывают увеличение числа операция ввода/вывода в секунду (IOPS) от 77k до 209k, скорости передачи данных от 314MB/s до 854MB/s и падения задержек от 9600ns до 120ns (80 раз).
+https://www.opennet.ru/opennews/art.shtml?num=57412</description>
+    </item>
+    
+    <item>
+      <title>В containerd приняты изменения, позволяющие запускать Linux-контейнеры во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</link>
+      <pubDate>Mon, 27 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</guid>
+      <description>В проект containerd принят набор изменений, интегрирующий поддержку runtime runj и открывающий возможность использования во FreeBSD OCI-совместимых образов контейнеров на базе Linux, например образов Docker. В комментариях к изменениям приведён пример успешного запуска во FreeBSD образа с Alpine Linux.
+https://www.opennet.ru/opennews/art.shtml?num=57411</description>
+    </item>
+    
+    <item>
+      <title>TJBno4plxnI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-233557/</link>
+      <pubDate>Sun, 26 Jun 2022 23:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-233557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bWP-sXNmX94.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-223601/</link>
+      <pubDate>Sun, 26 Jun 2022 22:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-223601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7spxTq2Yk5M.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-193548/</link>
+      <pubDate>Sun, 26 Jun 2022 19:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-193548/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8hXgE5rB9Cc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-163517/</link>
+      <pubDate>Sun, 26 Jun 2022 16:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-163517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1b_OW-k9hNc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-133514/</link>
+      <pubDate>Sun, 26 Jun 2022 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-133514/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск видеоредактора Shotcut 22.06</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-shotcut-22-06-20220626-123502/</link>
+      <pubDate>Sun, 26 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-shotcut-22-06-20220626-123502/</guid>
+      <description>Опубликован релиз видеоредактора Shotcut 22.06, который развивается автором проекта MLT и использует данный фреймворк для организации редактирования видео. Поддержка форматов видео и звука реализована через FFmpeg. Возможно использование плагинов с реализацией видео и аудио эффектов, совместимых с Frei0r и LADSPA. Из особенностей Shotcut можно отметить возможность многотрекового редактирования с компоновкой видео из фрагментов в различных исходных форматах, без необходимости их предварительного импортирования или перекодирования. Имеются встроенные средства для создания скринкастов, обработки изображения с web-камеры и приёма потокового видео.</description>
+    </item>
+    
+    <item>
+      <title>tSIlns898-g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-113530/</link>
+      <pubDate>Sun, 26 Jun 2022 11:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-113530/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PtzSn_UrNZM.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-103553/</link>
+      <pubDate>Sun, 26 Jun 2022 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-103553/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Новая версия почтового сервера Exim 4.96</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-pochtovogo-servera-exim-4-96-20220626-103503/</link>
+      <pubDate>Sun, 26 Jun 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-pochtovogo-servera-exim-4-96-20220626-103503/</guid>
+      <description>Состоялся релиз почтового сервера Exim 4.96, в который внесены накопившиеся исправления и добавлены новые возможности. В соответствии с майским автоматизированным опросом около 800 тысяч почтовых серверов, доля Exim составляет 59.59% (год назад 59.15%), Postfix используется на 33.64% (33.76%) почтовых серверов, Sendmail - 3.55% (3.55%), MailEnable - 1.93% (2.02%), MDaemon - 0.45% (0.56%), Microsoft Exchange - 0.23% (0.30%).
+https://www.opennet.ru/opennews/art.shtml?num=57409</description>
+    </item>
+    
+    <item>
+      <title>88eoicO1QUc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220626-073546/</link>
+      <pubDate>Sun, 26 Jun 2022 07:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220626-073546/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск СУБД SQLite 3.39</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-sqlite-3-39-20220626-013502/</link>
+      <pubDate>Sun, 26 Jun 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-sqlite-3-39-20220626-013502/</guid>
+      <description>Опубликован релиз SQLite 3.39, легковесной СУБД, оформленной в виде подключаемой библиотеки. Код SQLite распространяется как общественное достояние (public domain), т.е. может использоваться без ограничений и безвозмездно в любых целях. Финансовую поддержку разработчиков SQLite осуществляет специально созданный консорциум, в который входят такие компании, как Adobe, Oracle, Mozilla, Bentley и Bloomberg.
+https://www.opennet.ru/opennews/art.shtml?num=57408</description>
+    </item>
+    
+    <item>
+      <title>NSaotRhirmg.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-233531/</link>
+      <pubDate>Sat, 25 Jun 2022 23:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-233531/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jFAi-7SgIHk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-223547/</link>
+      <pubDate>Sat, 25 Jun 2022 22:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-223547/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2g7TqcJT-4.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-193526/</link>
+      <pubDate>Sat, 25 Jun 2022 19:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-193526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redbean 2.0 - платформа для web-приложений, упакованных в универсальный исполняемый ZIP-архив</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</guid>
+      <description>Представлен выпуск проекта Redbean 2.0, предлагающего web-сервер, позволяющий поставлять web-приложения в форме универсального исполняемого файла, который может быть выполнен в Linux, Windows, MacOS, FreeBSD, NetBSD и OpenBSD. Все связанные с web-приложением и сервером ресурсы компонуются в один исполняемый файл, который при этом совместим с форматом архивов ZIP и позволяет использовать утилиту zip для добавления дополнительных файлов. Возможность запуска одного файла в разных ОС и его распознание как ZIP-архива достигается благодаря манипуляциям с заголовками исполняемых файлов и связыванием с многоплатформенной стандартной Си-библиотекой Cosmopolitan.</description>
+    </item>
+    
+    <item>
+      <title>D5xpu-PAYyQ.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-163556/</link>
+      <pubDate>Sat, 25 Jun 2022 16:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-163556/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cbJdXfrwF5U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-133558/</link>
+      <pubDate>Sat, 25 Jun 2022 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-133558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив EndeavourOS 22.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-endeavouros-22-6-20220625-133502/</link>
+      <pubDate>Sat, 25 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-endeavouros-22-6-20220625-133502/</guid>
+      <description>Доступен выпуск проекта EndeavourOS 22.6 &amp;ldquo;Atlantis&amp;rdquo;, пришедшего на смену дистрибутиву Antergos, развитие которого было прекращено в мае 2019 года из-за нехватки у оставшихся мэйнтейнеров свободного времени для поддержания проекта на должном уровне. Размер установочного образа 1.8 ГБ (x86_64, отдельно развивается сборка для ARM).
+https://www.opennet.ru/opennews/art.shtml?num=57406</description>
+    </item>
+    
+    <item>
+      <title>Выпуск видеоредактора Pitivi 2022.06</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-pitivi-2022-06-20220625-123502/</link>
+      <pubDate>Sat, 25 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-pitivi-2022-06-20220625-123502/</guid>
+      <description>После года разработки доступен релиз свободной системы нелинейного видеомонтажа Pitivi 2022.06, предоставляющей такие возможности, как поддержку неограниченного числа слоёв, сохранение полной истории операций с возможностью отката, отображение эскизов на шкале времени, поддержку типовых операций обработки видео и звука. Редактор написан на языке Python с использованием библиотеки GTK+ (PyGTK), GES (GStreamer Editing Services) и может работать со всеми форматами звука и видео, поддерживаемыми в GStreamer, включая формат MXF (Material eXchange Format). Код распространяется под лицензией LGPL.</description>
+    </item>
+    
+    <item>
+      <title>6uF7eNAh4yU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-113526/</link>
+      <pubDate>Sat, 25 Jun 2022 11:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-113526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск p2p-мессенджера Communist 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-p2p-messendzhera-communist-1-4-20220625-113503/</link>
+      <pubDate>Sat, 25 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-p2p-messendzhera-communist-1-4-20220625-113503/</guid>
+      <description>Опубликована версия 1.4 P2P-мессенджера Communist. Исходный код написан на языке программирования С++ и распространяется (GitHub, GitFlic) под лицензией GPLv3. Графический интерфейс построен на библиотеке GTK 4. Поддерживается работа в операционных системах Linux и Windows. Готовые пакеты подготовлены для Arch Linux (AUR) и дистрибутивов на базе десятой платформы Альт Линукс.
+https://www.opennet.ru/opennews/art.shtml?num=57404</description>
+    </item>
+    
+    <item>
+      <title>obdjyW_3l-c.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-103513/</link>
+      <pubDate>Sat, 25 Jun 2022 10:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-103513/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Подтверждена совместимость ОС Astra Linux и платформы «Пирамида 2.0»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podtverzhdena-sovmestimost-os-astra-linux-i-platformy-piramida-2-0-20220625-093709/</link>
+      <pubDate>Sat, 25 Jun 2022 09:37:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podtverzhdena-sovmestimost-os-astra-linux-i-platformy-piramida-2-0-20220625-093709/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/podtverzhdena/</description>
+    </item>
+    
+    <item>
+      <title>8nzcwHyq7oM.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220625-073527/</link>
+      <pubDate>Sat, 25 Jun 2022 07:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220625-073527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R8f91hwR_2U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-233531/</link>
+      <pubDate>Fri, 24 Jun 2022 23:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-233531/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IfjysgbZVTU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-223520/</link>
+      <pubDate>Fri, 24 Jun 2022 22:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-223520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Менеджер паролей «Пассворк» полностью совместим с ОС Astra Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/menedzher-paroley-passvork-polnostyu-sovmestim-s-os-astra-linux-20220624-213625/</link>
+      <pubDate>Fri, 24 Jun 2022 21:36:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/menedzher-paroley-passvork-polnostyu-sovmestim-s-os-astra-linux-20220624-213625/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/menedzher-parolej-passvork-polnostyu-sovmestim-s-os-astra-linux/</description>
+    </item>
+    
+    <item>
+      <title>НТЦ ИТ РОСА выступит на OS DAY 2022</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-vystupit-na-os-day-2022-20220624-213530/</link>
+      <pubDate>Fri, 24 Jun 2022 21:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-vystupit-na-os-day-2022-20220624-213530/</guid>
+      <description>Доклад НТЦ ИТ РОСА посвящен процессам и инструментам разработки безопасных операционных систем. Главная тема IX международной научно-практической конференции OS DAY 2022, которая пройдет в Москве 23-24 июня – технологическое обеспечение безопасности операционных систем. Во второй день конференции Юрий Туманов, к.т.н., специалист НТЦ ИТ РОСА по тестированию и анализу уязвимостей ПО, расскажет о подходах, процессах и […]
+https://www.rosalinux.ru/ntcz-it-rosa-vystupit-na-os-day-2022/</description>
+    </item>
+    
+    <item>
+      <title>bGdfKBQ1xK0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-193512/</link>
+      <pubDate>Fri, 24 Jun 2022 19:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-193512/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oT6iY-eB1Tk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-163606/</link>
+      <pubDate>Fri, 24 Jun 2022 16:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-163606/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sJlVTKDTmXw.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-133512/</link>
+      <pubDate>Fri, 24 Jun 2022 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-133512/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива KaOS 2022.06</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-kaos-2022-06-20220624-123503/</link>
+      <pubDate>Fri, 24 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-kaos-2022-06-20220624-123503/</guid>
+      <description>Представлен выпуск KaOS 2022.06, дистрибутива с непрерывной моделью обновления, нацеленного на предоставление рабочего стола на основе свежих выпусков KDE и приложений, использующих Qt. Из специфичных для дистрибутива особенностей оформления можно отметить размещение вертикальной панели в правой стороне экрана. Дистрибутив развивается с оглядкой на Arch Linux, но поддерживает собственный независимый репозиторий, насчитывающий более 1500 пакетов, а также предлагает ряд собственных графических утилит. В качестве файловой системы по умолчанию применяется XFS. Сборки публикуются для систем x86_64 (2.</description>
+    </item>
+    
+    <item>
+      <title>mhGObI-5ESs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-113519/</link>
+      <pubDate>Fri, 24 Jun 2022 11:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-113519/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google начал распространение прошивки на базе ОС Fuchsia для устройств Nest Hub Max</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nachal-rasprostranenie-proshivki-na-baze-os-fuchsia-dlya-ustroystv-nest-hub-max-20220624-113503/</link>
+      <pubDate>Fri, 24 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nachal-rasprostranenie-proshivki-na-baze-os-fuchsia-dlya-ustroystv-nest-hub-max-20220624-113503/</guid>
+      <description>Компания Google приступила к распространению новой прошивки, основанной на ОС Fuchsia, для умных фоторамок Nest Hub Max, выпускаемых с 2019 года. На первом этапе прошивка на базе Fuchsia начнёт доставляться участникам программы Google Preview Program, и если в ходе пробного внедрения не возникнет непредвиденных проблем, прошивка будет применена и на устройствах остальных пользователей Nest Hub Max.
+https://www.opennet.ru/opennews/art.shtml?num=57402</description>
+    </item>
+    
+    <item>
+      <title>g-IyCxguZV0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-103545/</link>
+      <pubDate>Fri, 24 Jun 2022 10:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-103545/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oQuRXrWgb_g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220624-073557/</link>
+      <pubDate>Fri, 24 Jun 2022 07:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220624-073557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Результат опроса предпочтений разработчиков от Stack Overflow</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rezultat-oprosa-predpochteniy-razrabotchikov-ot-stack-overflow-20220624-003503/</link>
+      <pubDate>Fri, 24 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rezultat-oprosa-predpochteniy-razrabotchikov-ot-stack-overflow-20220624-003503/</guid>
+      <description>Дискуссионная площадка Stack Overflow опубликовала результаты ежегодного опроса, в котором приняло участие около 70 тысяч разработчиков ПО.
+https://www.opennet.ru/opennews/art.shtml?num=57400</description>
+    </item>
+    
+    <item>
+      <title>VNOkuXs5h3o.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-233526/</link>
+      <pubDate>Thu, 23 Jun 2022 23:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-233526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Утилита, превращающая обычные браузеры на основе Firefox  в Developer Edition</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utilita-prevraschayuschaya-obychnye-brauzery-na-osnove-firefox-v-developer-edition-20220623-233503/</link>
+      <pubDate>Thu, 23 Jun 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utilita-prevraschayuschaya-obychnye-brauzery-na-osnove-firefox-v-developer-edition-20220623-233503/</guid>
+      <description>В виду несогласия с политикой Mozilla и дистрибутивов не распространять сборки Firefox, имеющие незаблокированные возможности установки неподписанных дополнений и использования API WebExtensions Experiments, был разработан инструмент, поеобразующий обычные сборки Firefox в вариант &amp;ldquo;Developer Edition&amp;rdquo;, допускающий использование дополнений без цифровой подписи.
+https://www.opennet.ru/opennews/art.shtml?num=57398</description>
+    </item>
+    
+    <item>
+      <title>a-wcWKX_KZw.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-223528/</link>
+      <pubDate>Thu, 23 Jun 2022 22:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-223528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iM-sCaXnO1E.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-193600/</link>
+      <pubDate>Thu, 23 Jun 2022 19:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-193600/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7H6HboGwq7I.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-163536/</link>
+      <pubDate>Thu, 23 Jun 2022 16:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-163536/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bJBbcvT6FrY.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-133516/</link>
+      <pubDate>Thu, 23 Jun 2022 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-133516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKk9Q71o9ck.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-113522/</link>
+      <pubDate>Thu, 23 Jun 2022 11:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-113522/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rwOIZNQ5Pok.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-103543/</link>
+      <pubDate>Thu, 23 Jun 2022 10:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-103543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPu90tjdnhc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220623-073517/</link>
+      <pubDate>Thu, 23 Jun 2022 07:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220623-073517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Компания AMD открыла реализацию технологии FidelityFX Super Resolution 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-realizaciyu-tehnologii-fidelityfx-super-resolution-2-0-20220623-033502/</link>
+      <pubDate>Thu, 23 Jun 2022 03:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-realizaciyu-tehnologii-fidelityfx-super-resolution-2-0-20220623-033502/</guid>
+      <description>Компания AMD объявила о публикации исходных текстов реализации технологии суперсэмплинга FSR 2.0 (FidelityFX Super Resolution), использующей алгоритмы пространственного масштабирования и реконструкции деталей для снижения потери качества изображения при увеличении масштаба и преобразования в более высокое разрешение. Код написан на языке С++ и распространяется под лицензией MIT. Помимо базового API для языка C++ проектом обеспечена поддержка графических API DirectX 12 и Vulkan, а также шейдерных языков HLSL и GLSL. Предоставляется набор примеров и подробная документация.</description>
+    </item>
+    
+    <item>
+      <title>Проект Wine выпустил Vkd3d 1.4 с реализацией Direct3D 12 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-wine-vypustil-vkd3d-1-4-s-realizaciey-direct3d-12-20220623-023502/</link>
+      <pubDate>Thu, 23 Jun 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-wine-vypustil-vkd3d-1-4-s-realizaciey-direct3d-12-20220623-023502/</guid>
+      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.4 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
+https://www.opennet.ru/opennews/art.shtml?num=57395</description>
+    </item>
+    
+    <item>
+      <title>Релиз Chrome 103</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-103-20220623-013502/</link>
+      <pubDate>Thu, 23 Jun 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-103-20220623-013502/</guid>
+      <description>Компания Google представила релиз web-браузера Chrome 103. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>cqKiuDCZUOE.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-233521/</link>
+      <pubDate>Wed, 22 Jun 2022 23:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-233521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wmJPes995-Q.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-223511/</link>
+      <pubDate>Wed, 22 Jun 2022 22:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-223511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Конкурсы, олимпиады и фестивали для школьников и студентов включают задания по ОС «Альт»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konkursy-olimpiady-i-festivali-dlya-shkolnikov-i-studentov-vklyuchayut-zadaniya-po-os-alt-20220622-213529/</link>
+      <pubDate>Wed, 22 Jun 2022 21:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konkursy-olimpiady-i-festivali-dlya-shkolnikov-i-studentov-vklyuchayut-zadaniya-po-os-alt-20220622-213529/</guid>
+      <description>С каждым днем все больше школ, колледжей и вузов начинают строить учебный процесс с использованием российского ПО. Эту тенденцию подхватили всероссийские и региональные мероприятия для школьников и студентов — конкурсы, олимпиады и фестивали. В подготовке и проведении практически каждого такого мероприятия участвует «Базальт СПО».
+https://www.basealt.ru/about/news/archive/view/konkursy-olimpiady-i-festivali-dlja-shkolnikov-i-studentov-vkljuchajut-zadanija-po-os-alt</description>
+    </item>
+    
+    <item>
+      <title>ErvJax8gsOM.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-193551/</link>
+      <pubDate>Wed, 22 Jun 2022 19:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-193551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H8HmHTwSV8g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-163609/</link>
+      <pubDate>Wed, 22 Jun 2022 16:36:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-163609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub ввёл в строй систему машинного обучения Copilot, генерирующую код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-vvel-v-stroy-sistemu-mashinnogo-obucheniya-copilot-generiruyuschuyu-kod-20220622-143502/</link>
+      <pubDate>Wed, 22 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-vvel-v-stroy-sistemu-mashinnogo-obucheniya-copilot-generiruyuschuyu-kod-20220622-143502/</guid>
+      <description>GitHub объявил о завершении тестирования интеллектуального помощника GitHub Copilot, способного генерировать типовые конструкции при написании кода. Система разработана совместно с проектом OpenAI и использует платформу машинного обучения OpenAI Codex, натренированную на большом массиве исходных текстов, размещённых в публичных репозиториях GitHub. Сервис бесплатен для сопровождающих популярных открытых проектов и студентов. Для остальных категорий пользователей доступ к GitHub Copilot платный ($10 в месяц или $100 в год), но предоставляется бесплатный ознакомительный доступ к течение 60 дней.</description>
+    </item>
+    
+    <item>
+      <title>J-_Wgf-IMJk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-133530/</link>
+      <pubDate>Wed, 22 Jun 2022 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-133530/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Создатель GeckoLinux представил новый дистрибутив SpiralLinux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdatel-geckolinux-predstavil-novyy-distributiv-spirallinux-20220622-133502/</link>
+      <pubDate>Wed, 22 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdatel-geckolinux-predstavil-novyy-distributiv-spirallinux-20220622-133502/</guid>
+      <description>Создатель дистрибутива GeckoLinux, основанного на пакетной базе openSUSE и уделяющего большое внимание оптимизации рабочего стола и мелочам, таким как качественная отрисовка шрифтов, представил новый дистрибутив - SpiralLinux, построенный с использованием пакетов Debian GNU/Linux. Дистрибутив предлагает 7 готовых к использованию Live-сборок, поставляемых с рабочими столами Cinnamon, Xfce, GNOME, KDE Plasma, Mate, Budgie и LXQt, настройки которых оптимизированы для повышения удобства работы.
+https://www.opennet.ru/opennews/art.shtml?num=57388</description>
+    </item>
+    
+    <item>
+      <title>Линус Торвальдс не исключил возможность интеграции поддержки Rust в ядро Linux 5.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-ne-isklyuchil-vozmozhnost-integracii-podderzhki-rust-v-yadro-linux-5-20-20220622-123502/</link>
+      <pubDate>Wed, 22 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-ne-isklyuchil-vozmozhnost-integracii-podderzhki-rust-v-yadro-linux-5-20-20220622-123502/</guid>
+      <description>На проходящей в эти дни конференции Open-Source Summit 2022 в секции ответов на вопросы Линус Торвальдс упомянул о возможности скорой интеграции в ядро Linux компонентов для разработки драйверов устройств на языке Rust. Не исключается, что патчи с поддержкой Rust будут приняты в ближайшем окне приёма изменений, формирующем состав ядра 5.20, намеченного на конец сентября.
+https://www.opennet.ru/opennews/art.shtml?num=57391</description>
+    </item>
+    
+    <item>
+      <title>-HASVl6fL1k.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-113542/</link>
+      <pubDate>Wed, 22 Jun 2022 11:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-113542/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Назначен новый лидер проекта Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-lider-proekta-qt-20220622-113502/</link>
+      <pubDate>Wed, 22 Jun 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-lider-proekta-qt-20220622-113502/</guid>
+      <description>Фолькер Хилсхаймер (Volker Hilsheimer) выбран на пост главного сопровождающего (Chief Maintainer) проекта Qt, на котором он сменит Ларса Кнолла (Lars Knoll), занимавшего этот пост последние 11 лет и в прошлом месяце объявившего об уходе из компании Qt Company.
+https://www.opennet.ru/opennews/art.shtml?num=57390</description>
+    </item>
+    
+    <item>
+      <title>Oj2jkGVCYMc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-103525/</link>
+      <pubDate>Wed, 22 Jun 2022 10:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-103525/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В июньском обновлении Windows Server 2022 появилась поддержка WSL2 (Windows Subsystem for Linux)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</link>
+      <pubDate>Wed, 22 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</guid>
+      <description>Компания Microsoft объявила об интеграции поддержки Linux-окружений на базе подсистемы WSL2 (Windows Subsystem for Linux) в состав на днях выпущенного июньского сводного обновления Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций.
+https://www.opennet.ru/opennews/art.shtml?num=57389</description>
+    </item>
+    
+    <item>
+      <title>qD-sh8470L0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220622-073521/</link>
+      <pubDate>Wed, 22 Jun 2022 07:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220622-073521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз nginx 1.23.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-23-0-20220622-003503/</link>
+      <pubDate>Wed, 22 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-23-0-20220622-003503/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.23.0, в рамках которой будет продолжено развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.22.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.23.x будет сформирована стабильная ветка 1.24.
+https://www.opennet.ru/opennews/art.shtml?num=57385</description>
+    </item>
+    
+    <item>
+      <title>f7iDqJQweTg.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-233534/</link>
+      <pubDate>Tue, 21 Jun 2022 23:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-233534/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BjuHCTIMN60.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-223525/</link>
+      <pubDate>Tue, 21 Jun 2022 22:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-223525/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Юрий Соснин: «С февраля мы испытываем на себе лавинообразный рост запросов на миграцию»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yuriy-sosnin-s-fevralya-my-ispytyvaem-na-sebe-lavinoobraznyy-rost-zaprosov-na-migraciyu-20220621-213542/</link>
+      <pubDate>Tue, 21 Jun 2022 21:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yuriy-sosnin-s-fevralya-my-ispytyvaem-na-sebe-lavinoobraznyy-rost-zaprosov-na-migraciyu-20220621-213542/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/yurij-sosnin-astra-s-fevralya-myi-ispyityivaem-na-sebe-lavinoobraznyij-rost-zaprosov-na-migracziyu/</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» и «Актив» усилили безопасность информационных систем организаций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-i-aktiv-usilili-bezopasnost-informacionnyh-sistem-organizaciy-20220621-213521/</link>
+      <pubDate>Tue, 21 Jun 2022 21:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-i-aktiv-usilili-bezopasnost-informacionnyh-sistem-organizaciy-20220621-213521/</guid>
+      <description>Специалисты «Базальт СПО» и «Актив» успешно завершили испытания на совместимость с ОС «Альт» USB-токенов, смарт-карт и считывателя Рутокен, а также ПО Рутокен Плагин.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-i-aktiv-usilili-bezopasnost-informacionnykh-sistem-organizacii</description>
+    </item>
+    
+    <item>
+      <title>iLpw6lSzrp8.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-193547/</link>
+      <pubDate>Tue, 21 Jun 2022 19:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-193547/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Проект AlmaLinux представил новую сборочную систему ALBS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</link>
+      <pubDate>Tue, 21 Jun 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</guid>
+      <description>Разработчики дистрибутива AlmaLinux, развивающего похожий на CentOS бесплатный клон Red Hat Enterprise Linux, представили новую сборочную систему ALBS (AlmaLinux Build System), которая уже использована при формировании выпусков AlmaLinux 8.6 и 9.0, подготовленных для архитектур x86_64, Aarch64, PowerPC ppc64le и s390x. Кроме сборки дистрибутива ALBS также используется для генерации и публикации корректирующих обновлений (errata), и заверения пакетов цифровой подписью. Код сборочной системы написан на языке Python и.
+https://www.opennet.ru/opennews/art.shtml?num=57384</description>
+    </item>
+    
+    <item>
+      <title>XZyWLZdUqjI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-163607/</link>
+      <pubDate>Tue, 21 Jun 2022 16:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-163607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f3TFTnoEK8A.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-133523/</link>
+      <pubDate>Tue, 21 Jun 2022 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-133523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook представил механизм TMO, позволяющий экономить 20-32% памяти на серверах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</link>
+      <pubDate>Tue, 21 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</guid>
+      <description>Инженеры из компании Facebook (запрещена в РФ) опубликовали отчёт о внедрении в прошлом году технологии TMO (Transparent Memory Offloading), позволяющей значительно экономить оперативную память на серверах за счёт вытеснения не требуемых для выполнения работы вторичных данных на более дешёвые накопители, такие как NVMe SSD-диски. По оценке Facebook, применение TMO позволяет экономить от 20 до 32% ОЗУ на каждом сервере. Решение рассчитано на применение в инфраструктурах, в которых приложения запускаются в изолированных контейнерах.</description>
+    </item>
+    
+    <item>
+      <title>S59LS-A9CH4.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-113516/</link>
+      <pubDate>Tue, 21 Jun 2022 11:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-113516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iw5GpMZChTc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-103557/</link>
+      <pubDate>Tue, 21 Jun 2022 10:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-103557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ПМЭФ-2022. Генеральный директор ГК «Астра» Илья Сивцев — о перспективах международного ИТ-сотрудничества</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pmef-2022-generalnyy-direktor-gk-astra-ilya-sivcev-o-perspektivah-mezhdunarodnogo-it-sotru-20220621-093732/</link>
+      <pubDate>Tue, 21 Jun 2022 09:37:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pmef-2022-generalnyy-direktor-gk-astra-ilya-sivcev-o-perspektivah-mezhdunarodnogo-it-sotru-20220621-093732/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/sivsev-pvef/</description>
+    </item>
+    
+    <item>
+      <title>QwXXflBWfJk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220621-073537/</link>
+      <pubDate>Tue, 21 Jun 2022 07:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220621-073537/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструментарий для определения дополнений, установленных в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-opredeleniya-dopolneniy-ustanovlennyh-v-chrome-20220621-013503/</link>
+      <pubDate>Tue, 21 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-opredeleniya-dopolneniy-ustanovlennyh-v-chrome-20220621-013503/</guid>
+      <description>Опубликован инструментарий с реализацией метода определения дополнений, установленных в браузере Chrome. Полученный список дополнений может использоваться для увеличения точности пассивной идентификации конкретного экземпляра браузера, в сочетании с другими косвенными признаками, такими как разрешение экрана, особенностей WebGL, списки установленных плагинов и шрифтов. Предложенная реализация проверяет установку более 1000 дополнений. Для проверки своей системы предложена online-демонстрация.
+https://www.opennet.ru/opennews/art.shtml?num=57379</description>
+    </item>
+    
+    <item>
+      <title>PGIZpgot4J0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-233543/</link>
+      <pubDate>Mon, 20 Jun 2022 23:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-233543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MkjB_Iat6Is.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-223606/</link>
+      <pubDate>Mon, 20 Jun 2022 22:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-223606/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ГК «АСТРА» запустила подготовку специалистов по TERMIDESK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gk-astra-zapustila-podgotovku-specialistov-po-termidesk-20220620-213704/</link>
+      <pubDate>Mon, 20 Jun 2022 21:37:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gk-astra-zapustila-podgotovku-specialistov-po-termidesk-20220620-213704/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/gk-astra-zapustila-podgotovku/</description>
+    </item>
+    
+    <item>
+      <title>Каникулы — отличное время для учебы: преподаватели колледжей осваивают операционные системы «Альт»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kanikuly-otlichnoe-vremya-dlya-ucheby-prepodavateli-kolledzhey-osvaivayut-operacionnye-sis-20220620-213610/</link>
+      <pubDate>Mon, 20 Jun 2022 21:36:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kanikuly-otlichnoe-vremya-dlya-ucheby-prepodavateli-kolledzhey-osvaivayut-operacionnye-sis-20220620-213610/</guid>
+      <description>Новый учебный год многие колледжи встретят с новой цифровой средой, построенной на операционных системах «Альт». Поэтому педагоги уже сегодня начинают осваивать саму ОС и сопутствующие прикладные программы, которые пригодятся в учебном процессе.
+https://www.basealt.ru/about/news/archive/view/kanikuly-otlichnoe-vremja-dlja-ucheby-prepodavateli-kolledzhei-osvaivajut-operacionnye-sistemy-alt</description>
+    </item>
+    
+    <item>
+      <title>x0L9PUeXc_4.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-193509/</link>
+      <pubDate>Mon, 20 Jun 2022 19:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-193509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f19hv5Uy4jE.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-163537/</link>
+      <pubDate>Mon, 20 Jun 2022 16:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-163537/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hI_rrY3E6PI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-133554/</link>
+      <pubDate>Mon, 20 Jun 2022 13:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-133554/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Доступна система обмена сообщениями Mattermost 7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-obmena-soobscheniyami-mattermost-7-0-20220620-123503/</link>
+      <pubDate>Mon, 20 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-obmena-soobscheniyami-mattermost-7-0-20220620-123503/</guid>
+      <description>Опубликован выпуск системы обмена сообщениями Mattermost 7.0, ориентированной на обеспечение коммуникации разработчиков и сотрудников предприятий. Код серверной части проекта написан на языке Go и распространяется под лицензией MIT. Web-интерфейс и мобильные приложения написаны на JavaScript с использованием React, десктоп-клиент для Linux, Windows и macOS построен на платформе Electron. В качестве СУБД могут применяться MySQL и PostgreSQL.
+https://www.opennet.ru/opennews/art.shtml?num=57380</description>
+    </item>
+    
+    <item>
+      <title>_Ys4rzxX0TI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-113550/</link>
+      <pubDate>Mon, 20 Jun 2022 11:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-113550/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DngCmPIS5Po.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-103547/</link>
+      <pubDate>Mon, 20 Jun 2022 10:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-103547/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4Sia_AmhjlE.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220620-073526/</link>
+      <pubDate>Mon, 20 Jun 2022 07:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220620-073526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fsm0yUsFQ20.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-233548/</link>
+      <pubDate>Sun, 19 Jun 2022 23:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-233548/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PZHEK_4s23U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-223522/</link>
+      <pubDate>Sun, 19 Jun 2022 22:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-223522/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LhGyxc9gHxs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-193525/</link>
+      <pubDate>Sun, 19 Jun 2022 19:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-193525/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в механизме MMIO процессоров Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mehanizme-mmio-processorov-intel-20220619-173502/</link>
+      <pubDate>Sun, 19 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mehanizme-mmio-processorov-intel-20220619-173502/</guid>
+      <description>Компания Intel раскрыла информацию о новом классе утечек данных через микроархитектурные структуры процессоров, позволяющих через манипуляцию с механизмом MMIO (Memory Mapped Input Output) определить информацию, обрабатываемую на других ядрах CPU. Например, уязвимости позволяют извлекать данные из других процессов, анклавов Intel SGX или виртуальных машин. Уязвимости специфичны только для CPU компании Intel, процессоры других производителей уязвимости не затрагивают.
+https://www.opennet.ru/opennews/art.shtml?num=57378</description>
+    </item>
+    
+    <item>
+      <title>qzKQQuN9uM8.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-163553/</link>
+      <pubDate>Sun, 19 Jun 2022 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-163553/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sH0aqLGxLn0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-133525/</link>
+      <pubDate>Sun, 19 Jun 2022 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-133525/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c-vYpqTCjso.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-113544/</link>
+      <pubDate>Sun, 19 Jun 2022 11:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-113544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Manjaro Linux 21.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-manjaro-linux-21-3-20220619-113502/</link>
+      <pubDate>Sun, 19 Jun 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-manjaro-linux-21-3-20220619-113502/</guid>
+      <description>Состоялся релиз дистрибутива Manjaro Linux 21.3, построенного на основе Arch Linux и ориентированного на начинающих пользователей. Дистрибутив примечателен наличием упрощённого и дружественного пользователю процесса установки, поддержкой автоматического определения оборудования и установки необходимых для его работы драйверов. Manjaro поставляется в виде live-сборок с графическими окружениями KDE (3.5 ГБ), GNOME (3.3 ГБ) и Xfce (3.2 ГБ). При участии сообщества дополнительно развиваются сборки с Budgie, Cinnamon, Deepin, LXDE, LXQt, MATE и i3.
+https://www.opennet.ru/opennews/art.shtml?num=57377</description>
+    </item>
+    
+    <item>
+      <title>wVp1pWWbY6U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-103601/</link>
+      <pubDate>Sun, 19 Jun 2022 10:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-103601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RhZ_mgRbbRw.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220619-073550/</link>
+      <pubDate>Sun, 19 Jun 2022 07:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220619-073550/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск GhostBSD 22.06.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-22-06-15-20220619-033503/</link>
+      <pubDate>Sun, 19 Jun 2022 03:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-22-06-15-20220619-033503/</guid>
+      <description>Опубликован релиз десктоп-ориентированного дистрибутива GhostBSD 22.06.15, построенного на базе FreeBSD 13.1-STABLE и предлагающего пользовательское окружение MATE. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64 (2.7 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=57376</description>
+    </item>
+    
+    <item>
+      <title>Выпущена новая стабильная версия Miranda NG 0.96.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypuschena-novaya-stabilnaya-versiya-miranda-ng-0-96-1-20220619-023503/</link>
+      <pubDate>Sun, 19 Jun 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypuschena-novaya-stabilnaya-versiya-miranda-ng-0-96-1-20220619-023503/</guid>
+      <description>Опубликован новый значительный выпуск мультипротокольного клиента для мгновенного обмена сообщениями Miranda NG 0.96.1, продолжающего развитие программы Miranda. Среди поддерживаемых протоколов: Facebook, ICQ, IRC, Jabber/XMPP, SkypeWeb, Steam, Tox, Twitter и VKontakte. Код проекта написан на языке C++ и распространяется под лицензией GPLv2. Программа пока поддерживает работу только на платформе Windows, но началась работа по реализации поддержки Linux. Из планов на будущее также отмечается добавление поддержки новых протоколов, включая WhatsApp и Telegram.</description>
+    </item>
+    
+    <item>
+      <title>CGWy5p77EBo.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-233605/</link>
+      <pubDate>Sat, 18 Jun 2022 23:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-233605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afd2LYsFtEA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-223558/</link>
+      <pubDate>Sat, 18 Jun 2022 22:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-223558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angjf-a-LI0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-193545/</link>
+      <pubDate>Sat, 18 Jun 2022 19:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-193545/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qho6LC_0JP0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-163556/</link>
+      <pubDate>Sat, 18 Jun 2022 16:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-163556/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск интегрированной среды разработки Apache NetBeans 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-14-20220618-143502/</link>
+      <pubDate>Sat, 18 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-14-20220618-143502/</guid>
+      <description>Организации Apache Software Foundation представила интегрированную среду разработки Apache NetBeans 14, которая предоставляет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript и Groovy.
+https://www.opennet.ru/opennews/art.shtml?num=57374</description>
+    </item>
+    
+    <item>
+      <title>wy5U0jFYY5g.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-133551/</link>
+      <pubDate>Sat, 18 Jun 2022 13:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-133551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обновление Tor 0.4.7.8 с устранением уязвимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tor-0-4-7-8-s-ustraneniem-uyazvimosti-20220618-133503/</link>
+      <pubDate>Sat, 18 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tor-0-4-7-8-s-ustraneniem-uyazvimosti-20220618-133503/</guid>
+      <description>Опубликован корректирующий выпуск инструментария Tor 0.4.7.8, используемого для организации работы анонимной сети Tor. В новой версии устранена уязвимость (CVE-2021-38385), которую можно использовать для удалённого инициирования отказа в обслуживании. Также не исключается потенциальное влияние проблемы на обеспечение анонимности. Проблема приводит к завершению процесса из-за срабатывания assert-проверки в случае расхождения проверки цифровых подписей по отдельности и в пакетном режиме. Детали не раскрываются до обновления пакетов в основных дистрибутивах.
+https://www.opennet.ru/opennews/art.shtml?num=57373</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 7.11 и Wine staging 7.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-11-i-wine-staging-7-11-20220618-123502/</link>
+      <pubDate>Sat, 18 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-11-i-wine-staging-7-11-20220618-123502/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 7.11. С момента выпуска версии 7.10 было закрыто 34 отчёта об ошибках и внесено 285 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=57372</description>
+    </item>
+    
+    <item>
+      <title>HY24TAIqtXg.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-113539/</link>
+      <pubDate>Sat, 18 Jun 2022 11:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-113539/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPIMwqlW-ro.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-103605/</link>
+      <pubDate>Sat, 18 Jun 2022 10:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-103605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OumNuJ6yzW0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220618-073549/</link>
+      <pubDate>Sat, 18 Jun 2022 07:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220618-073549/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления контейнерами LXC 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxc-5-0-20220618-023503/</link>
+      <pubDate>Sat, 18 Jun 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxc-5-0-20220618-023503/</guid>
+      <description>Компания Canonical опубликовала релиз инструментария для организации работы изолированных контейнеров LXC 5.0, предоставляющий runtime, подходящий как для запуска контейнеров с полным системным окружением, близких к виртуальным машинам, так и для выполнение непривилегированных контейнеров отдельных приложений (OCI). LXC относится к низкоуровневым инструментариям, работающим на уровне отдельных контейнеров. Для централизованного управления контейнерами, развёрнутыми в кластере из нескольких серверов, на базе LXC развивается система LXD. Ветка LXC 5.0 отнесена к выпускам с длительной поддержкой, обновления для которых формируются в течение 5 лет.</description>
+    </item>
+    
+    <item>
+      <title>q3RlOApfWrs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-233601/</link>
+      <pubDate>Fri, 17 Jun 2022 23:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-233601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vs4JzmcL98U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-223555/</link>
+      <pubDate>Fri, 17 Jun 2022 22:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-223555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>«Т1 Интеграция» и ГК «Астра» укрепляют сотрудничество</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/t1-integraciya-i-gk-astra-ukreplyayut-sotrudnichestvo-20220617-213657/</link>
+      <pubDate>Fri, 17 Jun 2022 21:36:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/t1-integraciya-i-gk-astra-ukreplyayut-sotrudnichestvo-20220617-213657/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/t1-integracziya-i-gk-astra-ukreplyayut-sotrudnichestvo-i-uskoryayut-importozameshhenie/</description>
+    </item>
+    
+    <item>
+      <title>-Ox88VksCw8.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-193508/</link>
+      <pubDate>Fri, 17 Jun 2022 19:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-193508/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Атака на системы через WordPress-плагин Ninja Forms, насчитывающий более миллиона установок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-sistemy-cherez-wordpress-plagin-ninja-forms-naschityvayuschiy-bolee-milliona-usta-20220617-173502/</link>
+      <pubDate>Fri, 17 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-sistemy-cherez-wordpress-plagin-ninja-forms-naschityvayuschiy-bolee-milliona-usta-20220617-173502/</guid>
+      <description>В WordPress-дополнении Ninja Forms, имеющем более миллиона активных установок, выявлена критическая уязвимость (CVE пока не присвоен), позволяющая постороннему посетителю получить полный контроль над сайтом. Проблема устранена в выпусках 3.0.34.2, 3.1.10, 3.2.28, 3.3.21.4, 3.4.34.2, 3.5.8.4 и 3.6.11. Отмечается, что уязвимость уже используется для совершения атак и для экстренного блокирования проблемы разработчики платформы WordPress инициировали принудительную автоматическую установку обновления на сайты пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=57370</description>
+    </item>
+    
+    <item>
+      <title>hTunyyQJkpY.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-163517/</link>
+      <pubDate>Fri, 17 Jun 2022 16:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-163517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск кластерной ФС Lustre 2.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-klasternoy-fs-lustre-2-15-20220617-163503/</link>
+      <pubDate>Fri, 17 Jun 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-klasternoy-fs-lustre-2-15-20220617-163503/</guid>
+      <description>Опубликован релиз кластерной файловой системы Lustre 2.15, используемой в большей части крупнейших Linux-кластеров, содержащих десятки тысяч узлов. Ключевыми компонентами Lustre являются серверы обработки и хранения метаданных (MDS), управляющие серверы (MGS), серверы хранения объектов (OSS), хранилище объектов (OST, поддерживается работа поверх ext4 и ZFS) и клиенты. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57369</description>
+    </item>
+    
+    <item>
+      <title>v4a9mxBUJdI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-133519/</link>
+      <pubDate>Fri, 17 Jun 2022 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-133519/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Компания Grafana открыла код системы реагирования на инциденты OnCall</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-grafana-otkryla-kod-sistemy-reagirovaniya-na-incidenty-oncall-20220617-123502/</link>
+      <pubDate>Fri, 17 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-grafana-otkryla-kod-sistemy-reagirovaniya-na-incidenty-oncall-20220617-123502/</guid>
+      <description>Компания Grafana Labs, развивающая платформу визуализации данных Grafana и систему мониторинга Prometheus, объявила об открытии исходных текстов системы реагирования на инциденты OnCall, предназначенной для обеспечения совместной работы команд по устранению и разбору инцидентов. OnCall ранее поставлялся в форме проприетарного продукта и был приобретён Grafana в процессе поглощения компании Amixr Inc. в прошлом году. Код проекта написан на языке Python и открыт под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57368</description>
+    </item>
+    
+    <item>
+      <title>SmJFEueIllw.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-113536/</link>
+      <pubDate>Fri, 17 Jun 2022 11:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-113536/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X4e4rRFuRzs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-103605/</link>
+      <pubDate>Fri, 17 Jun 2022 10:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-103605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обновление PostgreSQL 14.4 с исправлением повреждения индексов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</link>
+      <pubDate>Fri, 17 Jun 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</guid>
+      <description>Сформирован корректирующий выпуск СУБД PostgreSQL 14.4, в котором устранена серьёзная проблема, при определённых обстоятельствах приводящая к незаметному повреждению данных в индексах при выполнении команд &amp;ldquo;CREATE INDEX CONCURRENTLY&amp;rdquo; и &amp;ldquo;REINDEX CONCURRENTLY&amp;rdquo;. В созданных при помощи указанных команд индексах могут быть не учтены некоторые записи, что приведёт к пропуску отдельных строк при выполнении SELECT-запросов с привлечением проблемных индексов.
+https://www.opennet.ru/opennews/art.shtml?num=57367</description>
+    </item>
+    
+    <item>
+      <title>qrSoG7H39FA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220617-073533/</link>
+      <pubDate>Fri, 17 Jun 2022 07:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220617-073533/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tauri 1.0 - конкурирующая с Electron платформа для создания пользовательских приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tauri-1-0-konkuriruyuschaya-s-electron-platforma-dlya-sozdaniya-polzovatelskih-prilozheniy-20220617-003503/</link>
+      <pubDate>Fri, 17 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tauri-1-0-konkuriruyuschaya-s-electron-platforma-dlya-sozdaniya-polzovatelskih-prilozheniy-20220617-003503/</guid>
+      <description>Опубликован выпуск проекта Tauri 1.0, развивающего фреймворк для создания многоплатформенных пользовательских приложений с графическим интерфейсом, построенных с использованием web-технологий. По своей сути Tauri напоминает платформу Electron, но отличается иной архитектурой и более низким потреблением ресурсов. Код проекта написан на языке Rust и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57366</description>
+    </item>
+    
+    <item>
+      <title>GfPlICiny_U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-233511/</link>
+      <pubDate>Thu, 16 Jun 2022 23:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-233511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I5cAJMv9MRI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-223536/</link>
+      <pubDate>Thu, 16 Jun 2022 22:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-223536/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Правительство Саратовской области переходит на отечественный шрифт PT Astra Serif</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-saratovskoy-oblasti-perehodit-na-otechestvennyy-shrift-pt-astra-serif-20220616-213611/</link>
+      <pubDate>Thu, 16 Jun 2022 21:36:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-saratovskoy-oblasti-perehodit-na-otechestvennyy-shrift-pt-astra-serif-20220616-213611/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/pravitelstvo-saratovskoj-oblasti-perexodit-na-otechestvennyij-shrift-pt-astra-serif/</description>
+    </item>
+    
+    <item>
+      <title>Конференция «СПО: от обучения до разработки» объединила более тысячи программистов, педагогов и студентов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konferenciya-spo-ot-obucheniya-do-razrabotki-obedinila-bolee-tysyachi-programmistov-pedago-20220616-213537/</link>
+      <pubDate>Thu, 16 Jun 2022 21:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konferenciya-spo-ot-obucheniya-do-razrabotki-obedinila-bolee-tysyachi-programmistov-pedago-20220616-213537/</guid>
+      <description>В конце мая 2022 года в Переславле-Залесском состоялась конференция «Свободное программное обеспечение: от обучения до разработки». Более тысячи разработчиков СПО, экспертов ИТ-отрасли, преподавателей, студентов и аспирантов приняли участие в мероприятии очно и дистанционно.
+https://www.basealt.ru/about/news/archive/view/konferencija-spo-ot-obuchenija-do-razrabotki-obedinila-bolee-tysjachi-programmistov-pedagogov-i-studentov</description>
+    </item>
+    
+    <item>
+      <title>x9YHLTGDQgU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-193522/</link>
+      <pubDate>Thu, 16 Jun 2022 19:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-193522/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cambalache 0.10, инструмента для разработки GTK-интерфейсов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cambalache-0-10-instrumenta-dlya-razrabotki-gtk-interfeysov-20220616-193502/</link>
+      <pubDate>Thu, 16 Jun 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cambalache-0-10-instrumenta-dlya-razrabotki-gtk-interfeysov-20220616-193502/</guid>
+      <description>Опубликован релиз проекта Cambalache 0.10.0, развивающего инструмент быстрой разработки интерфейсов для GTK 3 и GTK 4, использующий парадигму MVC и философию первостепенного значения модели данных. В отличии от Glade в Cambalache предоставляется поддержка ведения нескольких интерфейсов пользователя в одном проекте. Код написан на Python и поставляется под лицензией LGPLv2.1. Для установки доступен пакет в формате flatpak.
+https://www.opennet.ru/opennews/art.shtml?num=57365</description>
+    </item>
+    
+    <item>
+      <title>BjEhNblnZos.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-163548/</link>
+      <pubDate>Thu, 16 Jun 2022 16:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-163548/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>w50QtyY17PY.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-133514/</link>
+      <pubDate>Thu, 16 Jun 2022 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-133514/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5ifMcWydMAY.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-113611/</link>
+      <pubDate>Thu, 16 Jun 2022 11:36:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-113611/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Автор оболочки Sway и языка Hare развивает новое микроядро Helios и OC Ares </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/avtor-obolochki-sway-i-yazyka-hare-razvivaet-novoe-mikroyadro-helios-i-oc-ares-20220616-113503/</link>
+      <pubDate>Thu, 16 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/avtor-obolochki-sway-i-yazyka-hare-razvivaet-novoe-mikroyadro-helios-i-oc-ares-20220616-113503/</guid>
+      <description>Дрю ДеВолт (Drew DeVault) представил свой новый проект - микроядро Helios. В текущем виде проект находится на начальной стадии разработки и пока поддерживает только демонстрационную загрузку на системах с архитектурой x86_64. А дальнейшем планируют реализовать поддержку архитектур iscv64 и aarch64. Код проекта написан на близком к Си языке системного программирования Hare с ассемблерными вставками и распространяется под лицензией GPLv3. Для ознакомления с состоянием разработки подготовлен тестовый iso-образ (1 МБ).
+https://www.opennet.ru/opennews/art.shtml?num=57364</description>
+    </item>
+    
+    <item>
+      <title>8fpcQ2AZbmo.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-103531/</link>
+      <pubDate>Thu, 16 Jun 2022 10:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-103531/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Национальные соревнования Ворлдскиллс по Корпоративной защите прошли на платформе Astra Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nacionalnye-sorevnovaniya-vorldskills-po-korporativnoy-zaschite-proshli-na-platforme-astra-20220616-093633/</link>
+      <pubDate>Thu, 16 Jun 2022 09:36:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nacionalnye-sorevnovaniya-vorldskills-po-korporativnoy-zaschite-proshli-na-platforme-astra-20220616-093633/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/naczionalnyie/</description>
+    </item>
+    
+    <item>
+      <title>zOMkeQwJrAk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220616-073511/</link>
+      <pubDate>Thu, 16 Jun 2022 07:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220616-073511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.10.32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-32-20220616-013503/</link>
+      <pubDate>Thu, 16 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-32-20220616-013503/</guid>
+      <description>Опубликован выпуск графического редактора GIMP 2.10.32. Для установки доступны пакеты в формате flatpak (пакет snap пока не готов). Выпуск в основном включает исправления ошибок. Все усилия по наращиванию функциональности сосредоточены на подготовке ветки GIMP 3, которая находится на стадии тестирования предварительных выпусков.
+https://www.opennet.ru/opennews/art.shtml?num=57363</description>
+    </item>
+    
+    <item>
+      <title>7TiN70X4IFc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-233535/</link>
+      <pubDate>Wed, 15 Jun 2022 23:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-233535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U1pgodn-PP4.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-223521/</link>
+      <pubDate>Wed, 15 Jun 2022 22:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-223521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Бизнес переходит на российские инструменты резервного копирования и восстановления</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/biznes-perehodit-na-rossiyskie-instrumenty-rezervnogo-kopirovaniya-i-vosstanovleniya-20220615-213621/</link>
+      <pubDate>Wed, 15 Jun 2022 21:36:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/biznes-perehodit-na-rossiyskie-instrumenty-rezervnogo-kopirovaniya-i-vosstanovleniya-20220615-213621/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/biznes-perexodit-na-rossijskie-instrumentyi-rezervnogo-kopirovaniya-i-vosstanovleniya/</description>
+    </item>
+    
+    <item>
+      <title>aHYm76pagPrqdn8oErhpmRN7ExlF3hUGU3C_iKsvpv3BDdTqmjryaEJRnRUzac66mA5F9c7SPXuYeQA9MmTfv7LA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-193547/</link>
+      <pubDate>Wed, 15 Jun 2022 19:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-193547/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Доступен монолитный дистрибутив Ubuntu Core 22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-monolitnyy-distributiv-ubuntu-core-22-20220615-193503/</link>
+      <pubDate>Wed, 15 Jun 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-monolitnyy-distributiv-ubuntu-core-22-20220615-193503/</guid>
+      <description>Компания Canonical опубликовала релиз Ubuntu Core 22, компактного варианта дистрибутива Ubuntu, адаптированного для применения на устройствах интернета вещей (IoT), в контейнерах, потребительском и промышленном оборудовании. Ubuntu Core поставляется в форме неделимого монолитного образа базовой системы, в котором не применяется разбивка на отдельные deb-пакеты. Образы Ubuntu Core 22, состав которых синхронизирован с пакетной базой Ubuntu 22.04.
+https://www.opennet.ru/opennews/art.shtml?num=57362</description>
+    </item>
+    
+    <item>
+      <title>В Москве пройдёт девятая международная конференция по PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</link>
+      <pubDate>Wed, 15 Jun 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</guid>
+      <description>20 и 21 июня 2022 года в Москве в бизнес-центре гостиницы «Рэдиссон Славянская» состоится PGConf.Russia 2022, девятая международная техническая конференция по СУБД PostgreSQL. Организатором PGConf.Russia выступает компания Postgres Professional, российский поставщик СУБД PostgreSQL. Мероприятие является одним из центральных событий в международном сообществе PostgreSQL и собирает сотни специалистов из России и других стран. В конференции примут участие представители крупных российских и международных компаний – «Авито», VK Cloud Solutions, OZON, «АльфаСтрахование», «Яндекс.Облако», «ИнфоСофт», «Аладдин Р.</description>
+    </item>
+    
+    <item>
+      <title>ANg3FHMnJRluxrou5mhCBYOPgSj9B_cYoD2foKlc43rDMyRUJFzpQEWJt7a3oLq0PqkVKrdzWTW5D2_uc4aspI7F.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-163521/</link>
+      <pubDate>Wed, 15 Jun 2022 16:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-163521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5TZANDRzC9Db3IiO0eGKWdclSkdubwfesclhwd5PRXEXXJynpgvCtb5i8GMtX0sZ_eySOq38YNK7SK6mFJ1SRFDb.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-133527/</link>
+      <pubDate>Wed, 15 Jun 2022 13:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-133527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hertzbleed - новое семейство атак по сторонним каналам, затрагивающее современные CPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/hertzbleed-novoe-semeystvo-atak-po-storonnim-kanalam-zatragivayuschee-sovremennye-cpu-20220615-133502/</link>
+      <pubDate>Wed, 15 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/hertzbleed-novoe-semeystvo-atak-po-storonnim-kanalam-zatragivayuschee-sovremennye-cpu-20220615-133502/</guid>
+      <description>Группа исследователей из Техасского, Иллинойсского и Вашингтонского университетов раскрыли сведения о новом семействе атак по сторонним каналам (CVE-2022-23823, CVE-2022-24436), получившим кодовое имя Hertzbleed. Предложенный метод атаки основан на особенностях динамического управления частотой в современных процессорах и затрагивает все актуальные CPU Intel и AMD. Потенциально проблема может проявляться и в процессорах других производителей, поддерживающих динамическое изменение частоты, например в ARM-системах, но проведённое исследование ограничилось проверкой чипов Intel и AMD. Исходные тексты с реализацией метода атаки опубликованы на GitHub (реализация протестирована на компьютере с CPU Intel i7-9700).</description>
+    </item>
+    
+    <item>
+      <title>0gvVzo_CGJ9riS0Pvvk7memMeKUYOBHg7pAC2-N9TV8GU7HKxsrRvyYMB7-fDlQv4kvyEciqCV59bwpYhWyLVI0P.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-113542/</link>
+      <pubDate>Wed, 15 Jun 2022 11:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-113542/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива EuroLinux 9.0, совместимого с Red Hat Enterprise Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-0-sovmestimogo-s-red-hat-enterprise-linux-20220615-113503/</link>
+      <pubDate>Wed, 15 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-0-sovmestimogo-s-red-hat-enterprise-linux-20220615-113503/</guid>
+      <description>Опубликован релиз дистрибутива EuroLinux 9.0, подготовленного путём пересборки исходных текстов пакетов дистрибутива Red Hat Enterprise Linux 9.0 и полностью бинарно совместимого с ним. Для загрузки подготовлены установочные образы, размером 6.5 ГБ (appstream) и 1.4 ГБ. Дистрибутив аналогичен по функциональности и добавленным новшествам с RHEL 9.0.
+https://www.opennet.ru/opennews/art.shtml?num=57360</description>
+    </item>
+    
+    <item>
+      <title>Jayh7t37-Sew-eA27y8W6TVgM9ktrtTamuEQvKSHx36f8DfH1RuYL4gVebqW1Vox2S0QB9IQS2uWZSOYVZpKpVnu.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-103552/</link>
+      <pubDate>Wed, 15 Jun 2022 10:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-103552/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 7.0-3, пакет для запуска Windows-игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-7-0-3-paket-dlya-zapuska-windows-igr-v-linux-20220615-103503/</link>
+      <pubDate>Wed, 15 Jun 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-7-0-3-paket-dlya-zapuska-windows-igr-v-linux-20220615-103503/</guid>
+      <description>Компания Valve опубликовала выпуск проекта Proton 7.0-3, который основан на кодовой базе проекта Wine и нацелен на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=57359</description>
+    </item>
+    
+    <item>
+      <title>WRmBbSla9hcRlajqiVhviCwCq-ZwUzsg5R5zPROYYmvhkJmKwQIRoOoBpjzgs_-srHpkhPnBY2ikYvNkImltPGov.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220615-073535/</link>
+      <pubDate>Wed, 15 Jun 2022 07:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220615-073535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск свободной САПР FreeCAD 0.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sapr-freecad-0-20-20220615-013503/</link>
+      <pubDate>Wed, 15 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sapr-freecad-0-20-20220615-013503/</guid>
+      <description>После более года разработки опубликован релиз открытой системы параметрического 3D-моделирования FreeCAD 0.20, которая отличается гибкими возможностями кастомизации и наращивания функциональности через подключение дополнений. Интерфейс построен с использованием библиотеки Qt. Дополнения могут создаваться на языке Python. Поддерживается сохранение и загрузка моделей в различных форматах, в том числе в STEP, IGES и STL. Код FreeCAD распространяется под лицензией LGPLv2, в качестве моделирующего ядра используется Open CASCADE. Готовые сборки в ближайшее время будут подготовлены для Linux (AppImage), macOS и Windows.</description>
+    </item>
+    
+    <item>
+      <title>7TJlScOrJP5LsxAtUVgN3YYnZXMsWxqkLDZIh_dPg_Xm9BEH_Ssj4kxre-qb_SpTVOszmFr-wdoyxOASA4i80VMn.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-233543/</link>
+      <pubDate>Tue, 14 Jun 2022 23:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-233543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O6Avu2IwJGNVs1W5OXxbrLLQ-kNel5TdqJwIJEeDbIvVWwH2QB7af0zLZyTNR7tUVcfItSm58CwhUdenzdNvAaMM.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-223537/</link>
+      <pubDate>Tue, 14 Jun 2022 22:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-223537/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В Firefox по умолчанию включён режим полной изоляции Cookie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-po-umolchaniyu-vklyuchen-rezhim-polnoy-izolyacii-cookie-20220614-223502/</link>
+      <pubDate>Tue, 14 Jun 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-po-umolchaniyu-vklyuchen-rezhim-polnoy-izolyacii-cookie-20220614-223502/</guid>
+      <description>Компания Mozilla объявила о включении по умолчанию для всех пользователей режима полной защиты Cookie (Total Cookie Protection). Ранее данный режим включался только при открытии сайтов в режиме приватного просмотра и при выборе строгого режима блокировки нежелательного контента (strict).
+https://www.opennet.ru/opennews/art.shtml?num=57357</description>
+    </item>
+    
+    <item>
+      <title>Новости Красноярского края. IT-бизнес идет в регионы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novosti-krasnoyarskogo-kraya-it-biznes-idet-v-regiony-20220614-213706/</link>
+      <pubDate>Tue, 14 Jun 2022 21:37:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novosti-krasnoyarskogo-kraya-it-biznes-idet-v-regiony-20220614-213706/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/novosti-krasnoyarskogo-kraya.-it-biznes-idet-v-regionyi/</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» присвоил СберСервису партнёрский статус интегратора </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-prisvoil-sberservisu-partnerskiy-status-integratora-20220614-213647/</link>
+      <pubDate>Tue, 14 Jun 2022 21:36:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-prisvoil-sberservisu-partnerskiy-status-integratora-20220614-213647/</guid>
+      <description>СберСервис, входящий в экосистему Сбербанка, стал официальным партнёром по внедрению решений «Базальт СПО».
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-prisvoil-sberservisu-partnjorskii-status-integratora</description>
+    </item>
+    
+    <item>
+      <title>jaLD4wSDnNVsJ3TMoyWkQIFKkD4W0cnPIIWSRENsbPPPVj44Vdm-iv7537ISBpQcC8iBgQXzNp9lZxkmC26R8vK1.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-193527/</link>
+      <pubDate>Tue, 14 Jun 2022 19:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-193527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения KDE Plasma 5.25</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-25-20220614-183503/</link>
+      <pubDate>Tue, 14 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-25-20220614-183503/</guid>
+      <description>Доступен релиз пользовательской оболочки KDE Plasma 5.25, построенной с использованием платформы KDE Frameworks 5 и библиотеки Qt 5 с применением OpenGL/OpenGL ES для ускорения отрисовки. Оценить работу.
+https://www.opennet.ru/opennews/art.shtml?num=57353</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Wine приняли решение о переводе разработки на GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</link>
+      <pubDate>Tue, 14 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</guid>
+      <description>Александр Джуллиард (Alexandre Julliard), создатель и руководитель проекта Wine, подвёл итоги тестирования экспериментального сервера совместной разработки gitlab.winehq.org и обсуждения возможности перевода разработки на платформу GitLab. Большинство разработчиков одобрили использование GitLab и проект начал постепенный переход на GitLab как на основную платформу для разработки.
+https://www.opennet.ru/opennews/art.shtml?num=57354</description>
+    </item>
+    
+    <item>
+      <title>HgGuyDTLNSzHKDw2p1Vu0eGX9mZb_XdXBKx1QDIKdJZXvGZNg7tjwC050dqFFqHYkykYYmAIZscFPEL3ZUhwwMuU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-163607/</link>
+      <pubDate>Tue, 14 Jun 2022 16:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-163607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RubyGems переходит на обязательную двухфакторную аутентификацию для популярных пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rubygems-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-dlya-populyarnyh-paketo-20220614-153504/</link>
+      <pubDate>Tue, 14 Jun 2022 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rubygems-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-dlya-populyarnyh-paketo-20220614-153504/</guid>
+      <description>Для защиты от атак по захвату учётных записей, нацеленных на получение контроля над зависимостями, репозиторий пакетов RubyGems объявил о переходе к применению обязательной двухфакторой аутентификации для учётных записей сопровождающих 100 наиболее популярных пакетов (по числу загрузок), а также пакетов число загрузок которых превышает 165 млн. Применение двухфакторной аутентификации существенно усложнит получение доступа в случае компрометации учётных данных разработчика, например, при повторном использовании пароля на скомпрометированном сайте, применении предсказуемых паролей или перехвате учётных данных в результате активности вредоносного ПО на системе разработчика.</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск Oracle Linux 9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</link>
+      <pubDate>Tue, 14 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</guid>
+      <description>Компания Oracle представила предварительный выпуск дистрибутива Oracle Linux 9, созданного на основе пакетной базы Red Hat Enterprise Linux 9 и полностью бинарно совместимого с ней. Для загрузки без ограничений предложен установочный iso-образ, размером 8 ГБ, подготовленный для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux 9 открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
+    <item>
+      <title>N5vt4tTgddyiFkJWcsGeV8pio1_C85rK5MTMY9OTfFO56TjqXHeymVzTUNoeyrn3vawK4dlN9NRvM-taw0U2rZPn.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-133526/</link>
+      <pubDate>Tue, 14 Jun 2022 13:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-133526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FjakOWziHNOW_LFziyaoNXU-ruMY4-m0eOy-qJYCe20fGQTGSWL0xPvsnqYSY78Ma7miMQwzkKnQcJy6xt_yWhIJ.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-113532/</link>
+      <pubDate>Tue, 14 Jun 2022 11:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-113532/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROvN4NAGsXS415GIfcp5a02YYG0iiv4bdOEHxtsGrvZZRv1VqZ_QXQsOfyCmDvV5esMNtivJOzfnRIoAcJiXrppJ.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-103533/</link>
+      <pubDate>Tue, 14 Jun 2022 10:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-103533/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Представлен Floppotron 3.0, музыкальный инструмент из дисководов, дисков и сканеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-floppotron-3-0-muzykalnyy-instrument-iz-diskovodov-diskov-i-skanerov-20220614-103502/</link>
+      <pubDate>Tue, 14 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-floppotron-3-0-muzykalnyy-instrument-iz-diskovodov-diskov-i-skanerov-20220614-103502/</guid>
+      <description>Павел Задрожняк (Paweł Zadrożniak) представил третью редакцию электронного оркестра Floppotron, генерирующего звук при помощи 512 накопителей на гибких магнитных дисках, 4 сканеров и 16 жёстких дисков. Источником звука в системе является контролируемый шум, издаваемый при перемещении магнитных головок шаговым двигателем, щелчках головок жёстких дисков и движении каретки сканеров.
+https://www.opennet.ru/opennews/art.shtml?num=57350</description>
+    </item>
+    
+    <item>
+      <title>ВГТРК Красноярск. Новость в эфире ТВ, спикер Спирькова Анастасия</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vgtrk-krasnoyarsk-novost-v-efire-tv-spiker-spirkova-anastasiya-20220614-093650/</link>
+      <pubDate>Tue, 14 Jun 2022 09:36:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vgtrk-krasnoyarsk-novost-v-efire-tv-spiker-spirkova-anastasiya-20220614-093650/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/vgtrk-krasnoyarsk.-novost-v-efire-tv-spiker-spirkova-anastasiya/</description>
+    </item>
+    
+    <item>
+      <title>Проект browser-linux развивает дистрибутив Linux для запуска в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</link>
+      <pubDate>Tue, 14 Jun 2022 09:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</guid>
+      <description>Предложен дистрибутив browser-linux, предназначенный для запуска консольного Linux-окружения в web-браузере. Проект можно использоваться для быстрого знакомства с Linux без необходимости запуска виртуальных машин или загрузки с внешнего носителя. Урезанное Linux-окружение формируется при помощи инструментария Buildroot.
+https://www.opennet.ru/opennews/art.shtml?num=57348</description>
+    </item>
+    
+    <item>
+      <title>YvbCop95ceWd2k86dUSz9-c8Srtj0goG3dcC_UqG3SGQSIVw-EZ_hsJ3W3tX_ARpK33ZUVKPxSoZlsBkwsskD9jN.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220614-073512/</link>
+      <pubDate>Tue, 14 Jun 2022 07:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220614-073512/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Слияние проектов Thunderbird и K-9 Mail</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sliyanie-proektov-thunderbird-i-k-9-mail-20220614-003502/</link>
+      <pubDate>Tue, 14 Jun 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sliyanie-proektov-thunderbird-i-k-9-mail-20220614-003502/</guid>
+      <description>Команды разработчиков Thunderbird и K-9 Mail объявили о слиянии проектов. Почтовый клиент K-9 Mail будет переименован в &amp;ldquo;Thunderbird для Android&amp;rdquo; и начнёт поставляться под новым брендом. Проект Thunderbird давно рассматривал возможность создания версии для мобильных устройств, но в ходе обсуждений пришёл к выводу, что нет смысла распылять силы и выполнять двойную работу, когда можно объединить усилия с уже существующим близким открытым проектом. Для K-9 Mail присоединение к Thunderbird выгодно с точки зрения появления дополнительных ресурсов, расширения пользовательской базы и ускорения темпов разработки.</description>
+    </item>
+    
+    <item>
+      <title>Lei-GQ0ayp1NtZk7hDWUd0Rj0velRK__X8TvW1s6sv504_QbobsdEeuKOLSmII_TTSzEESoLLWKnkEcPSHFfCXYV.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-233546/</link>
+      <pubDate>Mon, 13 Jun 2022 23:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-233546/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cb51w2SUmKK_s4e7IJ-dCblet1aZoAJ1j3zI6PZUFadRsg5ZNaPns0OK-OBsC3hrZrCDCNBpJ9NV7pJQb5p2ttPu.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-223602/</link>
+      <pubDate>Mon, 13 Jun 2022 22:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-223602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18-19 июня состоится онлайн-конференция разработчиков открытого ПО - Админка 2022</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/18-19-iyunya-sostoitsya-onlayn-konferenciya-razrabotchikov-otkrytogo-po-adminka-2022-20220613-223503/</link>
+      <pubDate>Mon, 13 Jun 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/18-19-iyunya-sostoitsya-onlayn-konferenciya-razrabotchikov-otkrytogo-po-adminka-2022-20220613-223503/</guid>
+      <description>18-19 июня пройдёт онлайн-конференция &amp;ldquo;Админка&amp;rdquo; для разработчиков программного обеспечения с открытым исходным кодом. Мероприятие открытое, некоммерческое и бесплатное. Для участия необходима предварительная регистрация.
+https://www.opennet.ru/opennews/art.shtml?num=57347</description>
+    </item>
+    
+    <item>
+      <title>IT–разработчики помогут предпринимателям Красноярска перейти на российское ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/it-razrabotchiki-pomogut-predprinimatelyam-krasnoyarska-pereyti-na-rossiyskoe-po-20220613-213533/</link>
+      <pubDate>Mon, 13 Jun 2022 21:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/it-razrabotchiki-pomogut-predprinimatelyam-krasnoyarska-pereyti-na-rossiyskoe-po-20220613-213533/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/itrazrabotchiki-pomogut-predprinimatelyam-krasnoyarska-perejti-na-rossijskoe-po/</description>
+    </item>
+    
+    <item>
+      <title>В конце июня будут проведены детско-юношеские соревнования по Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-konce-iyunya-budut-provedeny-detsko-yunosheskie-sorevnovaniya-po-linux-20220613-213503/</link>
+      <pubDate>Mon, 13 Jun 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-konce-iyunya-budut-provedeny-detsko-yunosheskie-sorevnovaniya-po-linux-20220613-213503/</guid>
+      <description>20 июня стартуют III ежегодные детско-юношеские соревнования по Linux - &amp;ldquo;CacTUX 2022&amp;rdquo;. В рамках соревнований участникам предстоит переехать с MS Windows на Linux, сохранив все документы, установить программы, настроить окружение, выполнить настройку локальной сети. Регистрация открыта с 13 до 22 июня 2022 года включительно.
+https://www.opennet.ru/opennews/art.shtml?num=57346</description>
+    </item>
+    
+    <item>
+      <title>В публичных логах Travis CI выявлено около 73 тысяч токенов и паролей открытых проектов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-publichnyh-logah-travis-ci-vyyavleno-okolo-73-tysyach-tokenov-i-paroley-otkrytyh-proekto-20220613-203503/</link>
+      <pubDate>Mon, 13 Jun 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-publichnyh-logah-travis-ci-vyyavleno-okolo-73-tysyach-tokenov-i-paroley-otkrytyh-proekto-20220613-203503/</guid>
+      <description>Компания Aqua Security опубликовала результаты исследования наличия конфиденциальных данных в сборочных логах, публично доступных в системе непрерывной интеграции.
+https://www.opennet.ru/opennews/art.shtml?num=57344</description>
+    </item>
+    
+    <item>
+      <title>uVj1BWX0DSkOSDCJ1J4wxYFZDJzJT5dNLHhuTb4YRRFK1srQl0MJkUfoi6gE5VZsX51qu547W8yFidJktJVbfXBD.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-193535/</link>
+      <pubDate>Mon, 13 Jun 2022 19:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-193535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск открытого движка Heroes of Might and Magic 2 - fheroes2 - 0.9.16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-dvizhka-heroes-of-might-and-magic-2-fheroes2-0-9-16-20220613-183503/</link>
+      <pubDate>Mon, 13 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-dvizhka-heroes-of-might-and-magic-2-fheroes2-0-9-16-20220613-183503/</guid>
+      <description>Доступен выпуск проекта fheroes2 0.9.16, который воссоздает движок игры Heroes of Might and Magic II с нуля. Код проекта написан на C++ и распространяется под лицензией GPLv2. Для запуска игры требуются файлы с игровыми ресурсами, которые можно получить, например, из демо-версии Heroes of Might and Magic II или из оригинальной игры.
+https://www.opennet.ru/opennews/art.shtml?num=57343</description>
+    </item>
+    
+    <item>
+      <title>P3rdXgCxeduRNI9iGmBuWeJbFuhhLabQT3xcksw1jK3hrC1R26rZWR8INbQPht2QM9oyKzcUXjXfPYVT_fseYZTL.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-163552/</link>
+      <pubDate>Mon, 13 Jun 2022 16:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-163552/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск postmarketOS 22.06, Linux-дистрибутива для смартфонов и мобильных устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-postmarketos-22-06-linux-distributiva-dlya-smartfonov-i-mobilnyh-ustroystv-20220613-143503/</link>
+      <pubDate>Mon, 13 Jun 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-postmarketos-22-06-linux-distributiva-dlya-smartfonov-i-mobilnyh-ustroystv-20220613-143503/</guid>
+      <description>Представлен выпуск проекта postmarketOS 22.06, развивающего дистрибутив Linux для смартфонов, базирующийся на пакетной базе Alpine Linux, стандартной Си-библиотеке Musl и наборе утилит BusyBox. Целью проекта является предоставление Linux-дистрибутива для смартфонов, не зависящего от жизненного цикла поддержки официальных прошивок и не привязанного к типовым решениям основных игроков индустрии, задающих вектор развития. Сборки подготовлены для PINE64 PinePhone, Purism Librem 5 и 25 поддерживаемых сообществом устройств, включая Samsung Galaxy A3/A3/S4, Xiaomi Mi Note 2/Redmi 2, OnePlus 6, Lenovo A6000, ASUS MeMo Pad 7 и даже Nokia N900.</description>
+    </item>
+    
+    <item>
+      <title>l5MvWvarcLrYH6eFFmBPLl3T9xghIbh4XZxjWLI_Bxg3z-uI9gEC6UxSQqSSDkQldA3zG5aEKr4CVt4lvAfBMPkk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-133538/</link>
+      <pubDate>Mon, 13 Jun 2022 13:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-133538/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UyH8lQyXbBJmEFAxIpyql1JCnXzBOQlAvLfsthqiy2n5U14eJCOilb5xeoDki2vsJqM16forXREU1iM_8zEqXipt.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-113557/</link>
+      <pubDate>Mon, 13 Jun 2022 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-113557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сбой в GitLab-инфраструктуре FreeDesktop, затронувший репозитории многих проектов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sboy-v-gitlab-infrastrukture-freedesktop-zatronuvshiy-repozitorii-mnogih-proektov-20220613-113503/</link>
+      <pubDate>Mon, 13 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sboy-v-gitlab-infrastrukture-freedesktop-zatronuvshiy-repozitorii-mnogih-proektov-20220613-113503/</guid>
+      <description>Поддерживаемая сообществом FreeDesktop инфраструктура разработки на основе платформы GitLab (gitlab.freedesktop.org).
+https://www.opennet.ru/opennews/art.shtml?num=57341</description>
+    </item>
+    
+    <item>
+      <title>OS7XzjQyL-gfgyqe_fLJMEdLpUcazAcrFIETwA3CyPWg6pqXS7iqS5nT1nrSId4zbJG93CL438o7lkku4mMP7KPU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-103524/</link>
+      <pubDate>Mon, 13 Jun 2022 10:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-103524/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Анастасия Спирькова, заместитель директора по маркетингу ГК «Астра»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anastasiya-spirkova-zamestitel-direktora-po-marketingu-gk-astra-20220613-093718/</link>
+      <pubDate>Mon, 13 Jun 2022 09:37:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anastasiya-spirkova-zamestitel-direktora-po-marketingu-gk-astra-20220613-093718/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/anastasiya-spirkova-zamestitel-direktora-po-marketingu-gk-astra/</description>
+    </item>
+    
+    <item>
+      <title>PeVPZ6lOWCjAW21ijt5t4iebMQKqDSkX0Sho1nIr-PCNYaVzraeGleIWF9A0578aHBa8TATJ03-mPxSm_t7Gf9wj.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220613-073535/</link>
+      <pubDate>Mon, 13 Jun 2022 07:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220613-073535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Началось альфа-тестирование PHP 8.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-php-8-2-20220613-013502/</link>
+      <pubDate>Mon, 13 Jun 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-php-8-2-20220613-013502/</guid>
+      <description>Представлен первый альфа-выпуск новой ветки языка программирования PHP 8.2. Релиз намечен на 24 ноября. Основные новшества, уже доступные для тестирования или планируемые к реализации в PHP 8.2.
+https://www.opennet.ru/opennews/art.shtml?num=57340</description>
+    </item>
+    
+    <item>
+      <title>2gMF9Xo27Ek_YdaZnoj6q_UX8_z2UCUyN_IWns-Daym3Bo24elfG-saynKexF5iUkB7juH-VydYtpdd6S69-KHed.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-233601/</link>
+      <pubDate>Sun, 12 Jun 2022 23:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-233601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pw3LTE2OFmA36xT0UbNMcPOCiyWeFT2panr3rowdwPuZK2bqiQ4p6rea0L7d4PAUUcrNltr5o8L8ZGukK1fDsB0k.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-223541/</link>
+      <pubDate>Sun, 12 Jun 2022 22:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-223541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ГК Астра налаживает работу по импортозамещению информационных технологий в Красноярском крае</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gk-astra-nalazhivaet-rabotu-po-importozamescheniyu-informacionnyh-tehnologiy-v-krasnoyarsk-20220612-213634/</link>
+      <pubDate>Sun, 12 Jun 2022 21:36:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gk-astra-nalazhivaet-rabotu-po-importozamescheniyu-informacionnyh-tehnologiy-v-krasnoyarsk-20220612-213634/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/gk-astra-nalazhivaet-rabotu-po-importozameshheniyu-informaczionnyix-texnologij-v-krasnoyarskom-krae/</description>
+    </item>
+    
+    <item>
+      <title>Qgb-4_8tvvCDK8W_GA_iRPdUxNZyUEBLwp4GCuiPliPCo7twVQDweosoG-IhJO3gKFFlWCDeI5KqFPCvIyVzZ1Un.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-193510/</link>
+      <pubDate>Sun, 12 Jun 2022 19:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-193510/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>q0A-9t_2fovnn3-BGXpGHwqGaSuVtr6AMPl1GQfCv6UNQAu_PYressid3peMCMvMHli5zUbRu67K847ICVnyIYQW.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-163516/</link>
+      <pubDate>Sun, 12 Jun 2022 16:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-163516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0mXhJdqMVWTneQZwIZsP9sw7SEV00UnmSAVSWXEBhiK0-fkCp-I--vZWhUjLCh8TcCPxNGrk61QKXx-IHmEbz0qs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-133510/</link>
+      <pubDate>Sun, 12 Jun 2022 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-133510/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в firejail, позволяющая получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</link>
+      <pubDate>Sun, 12 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</guid>
+      <description>В утилите для изолированного выполнения приложений Firejail выявлена уязвимость (CVE-2022-31214), позволяющая локальному пользователю получить права root в основной системе. В открытом доступе имеется рабочий эксплоит, проверенный в актуальных выпусках openSUSE, Debian, Arch, Gentoo и Fedora с установленной утилитой firejail. Проблема устранена в выпуске firejail 0.9.70. В качестве обходного пути защиты можно выставить в настройках (/etc/firejail/firejail.config) параметры &amp;ldquo;join no&amp;rdquo; и &amp;ldquo;force-nonewprivs yes&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=57337</description>
+    </item>
+    
+    <item>
+      <title>z8YBnp5l2SaJriHaaQIYg15jE1uw729Nrox5tWsjDe93-Rd5zXSBRPJWCWEuIirEH-hwDg3VNe5N8O9Dhctbr4Ey.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-113517/</link>
+      <pubDate>Sun, 12 Jun 2022 11:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-113517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L4z-gjVxcd5kv7vGJxH0tChkLcqWX0c5Uq00JNFUBdQ8O7qlSyx_TfMOLYcqaVfk9p1HXgZGQaZJQu9Z7zzv3oOk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-103542/</link>
+      <pubDate>Sun, 12 Jun 2022 10:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-103542/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск Bottlerocket 1.8, дистрибутива на базе изолированных контейнеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bottlerocket-1-8-distributiva-na-baze-izolirovannyh-konteynerov-20220612-103502/</link>
+      <pubDate>Sun, 12 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bottlerocket-1-8-distributiva-na-baze-izolirovannyh-konteynerov-20220612-103502/</guid>
+      <description>Опубликован выпуск Linux-дистрибутива Bottlerocket 1.8.0, развиваемого при участии компании Amazon для эффективного и безопасного запуска изолированных контейнеров. Инструментарий и управляющие компоненты дистрибутива написаны на языке Rust и распространяются под лицензиями MIT и Apache 2.0. Поддерживается запуск Bottlerocket в кластерах Amazon ECS, VMware и AWS EKS Kubernetes, а также создание произвольных сборок и редакций, допускающих применение различных инструментов оркестровки и runtime для контейнеров.
+https://www.opennet.ru/opennews/art.shtml?num=57336</description>
+    </item>
+    
+    <item>
+      <title>Заместитель директора департамента продаж в УФО ГК «Астра» Илья Нигматулин: «Наша задача — помочь сделать переход на отечественное ПО максимально комфортным»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zamestitel-direktora-departamenta-prodazh-v-ufo-gk-astra-ilya-nigmatulin-nasha-zadacha-pom-20220612-093701/</link>
+      <pubDate>Sun, 12 Jun 2022 09:37:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zamestitel-direktora-departamenta-prodazh-v-ufo-gk-astra-ilya-nigmatulin-nasha-zadacha-pom-20220612-093701/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/zamestitel-direktora-departamenta-prodazh-v-ufo-gk-astra-ilya-nigmatulin-nasha-zadacha-pomoch-sdelat-perexod-na-otechestvennoe-po-maksimalno-komfortnyim/</description>
+    </item>
+    
+    <item>
+      <title>-MQIaleP56SZrupICbdjoSIu-K1sRpisW9VO3QO-TYq_pTsHM8MGLyyvKaNBRbZ5CHcYy1lankb7B3x9VfrkgxZq.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220612-073549/</link>
+      <pubDate>Sun, 12 Jun 2022 07:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220612-073549/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск EasyOS 4.0, самобытного дистрибутива от создателя Puppy Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-easyos-4-0-samobytnogo-distributiva-ot-sozdatelya-puppy-linux-20220612-003503/</link>
+      <pubDate>Sun, 12 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-easyos-4-0-samobytnogo-distributiva-ot-sozdatelya-puppy-linux-20220612-003503/</guid>
+      <description>Барри Каулер (Barry Kauler), основатель проекта Puppy Linux, опубликовал экспериментальный дистрибутив EasyOS 4.0, совмещающий технологии Puppy Linux с использованием контейнерной изоляции для запуска компонентов системы. Управление дистрибутивом производится через развиваемый проектом набор графических конфигураторов. Размер загрузочного образа 773МБ.
+https://www.opennet.ru/opennews/art.shtml?num=57335</description>
+    </item>
+    
+    <item>
+      <title>HEYqQKY0zf7jHiCucXcHhOo_00ofePGCAdZnYQFVGr6Sls4q5xdaSWWF4iL3GBgbRl-rYtp5Bq9kGCYYUtN9trV7.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-233540/</link>
+      <pubDate>Sat, 11 Jun 2022 23:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-233540/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DvnaLGhHzunQjdPC3hvJ17W69SlFfFxZ4O_6WvbkpAxOWk8OSGmym5WHelxhNn3nZw45hCTO7otOKEZsFG6JDH1f.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-223550/</link>
+      <pubDate>Sat, 11 Jun 2022 22:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-223550/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Чем заменить Windows? Производитель ОС Astra Linux откроет в регионе центр разработки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chem-zamenit-windows-proizvoditel-os-astra-linux-otkroet-v-regione-centr-razrabotki-20220611-213703/</link>
+      <pubDate>Sat, 11 Jun 2022 21:37:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chem-zamenit-windows-proizvoditel-os-astra-linux-otkroet-v-regione-centr-razrabotki-20220611-213703/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/chem-zamenit-windows-proizvoditel-os-astra-linux-otkroet-v-regione-czentr-razrabotki/</description>
+    </item>
+    
+    <item>
+      <title>CCjholv7oMG3offReS91i1tIJ8IZUuf8a9uDpUTmzkcfDlIei6Nhc5r7w1ns0YtbbuNYq27ZETWSdnmK0JZBMPvA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-193540/</link>
+      <pubDate>Sat, 11 Jun 2022 19:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-193540/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uokJhse8PWtlptkgJD8zD6j81fDyvxKeeup4fGvlRULufXI9sooOUOJFiOdKCc9bActgpIwu6TZBrk3dBhBaJgYg.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-163539/</link>
+      <pubDate>Sat, 11 Jun 2022 16:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-163539/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.54 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-54-s-ustraneniem-uyazvimostey-20220611-153502/</link>
+      <pubDate>Sat, 11 Jun 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-54-s-ustraneniem-uyazvimostey-20220611-153502/</guid>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.53, в котором представлено 19 изменений и устранено 8 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57334</description>
+    </item>
+    
+    <item>
+      <title>Выпуск десктоп-окружения Cinnamon 5.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-desktop-okruzheniya-cinnamon-5-4-20220611-143503/</link>
+      <pubDate>Sat, 11 Jun 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-desktop-okruzheniya-cinnamon-5-4-20220611-143503/</guid>
+      <description>После 6 месяцев разработки сформирован релиз пользовательского окружения Cinnamon 5.4, в рамках которого сообществом разработчиков дистрибутива Linux Mint развивается форк оболочки GNOME Shell, файлового менеджера Nautilus и оконного менеджера Mutter, нацеленный на предоставление окружения в классическом стиле GNOME 2 с поддержкой удачных элементов взаимодействия из GNOME Shell. Cinnamon основывается на компонентах GNOME, но эти компоненты поставляются как периодически синхронизируемый форк, не связанный внешними зависимостями с GNOME. Новый выпуск Cinnamon будет предложен в дистрибутиве Linux Mint 21, который планируется выпустить в июле.</description>
+    </item>
+    
+    <item>
+      <title>ol9ipA1Orjk2tI1UGXqH0biB7uJs90NRq7VTDusNls9UtPHZjjzpStXOV4ClW9AyAiQSFgsrs-8hI1i8gryEakxy.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-133607/</link>
+      <pubDate>Sat, 11 Jun 2022 13:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-133607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск операционной системы MidnightBSD 2.2. Обновление DragonFly BSD 6.2.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-midnightbsd-2-2-obnovlenie-dragonfly-bsd-6-2-2-20220611-123503/</link>
+      <pubDate>Sat, 11 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-midnightbsd-2-2-obnovlenie-dragonfly-bsd-6-2-2-20220611-123503/</guid>
+      <description>Состоялся релиз десктоп-ориентированной операционной системы MidnightBSD 2.2, основанной на FreeBSD с элементами, портированными из DragonFly BSD, OpenBSD и NetBSD. Базовое десктоп-окружение построено на основе GNUstep, но пользователи имеют возможность установить WindowMaker, GNOME, Xfce или Lumina. Для загрузки подготовлен установочный образ размером 774 МБ (x86, amd64).
+https://www.opennet.ru/opennews/art.shtml?num=57332</description>
+    </item>
+    
+    <item>
+      <title>50c7Pkb40-UlAyr6-l1Svm69ziV-kCyUXeOJ8KDr6fup299pseIsdWNrMphjNTp97Uy0XyYzbm0kGz8lCXEWvP-_.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-113513/</link>
+      <pubDate>Sat, 11 Jun 2022 11:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-113513/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Для Debian 11 подготовлены пакеты с Qt6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-debian-11-podgotovleny-pakety-s-qt6-20220611-113503/</link>
+      <pubDate>Sat, 11 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-debian-11-podgotovleny-pakety-s-qt6-20220611-113503/</guid>
+      <description>Сопровождающий пакеты с фреймворком Qt в Debian объявил о формировании пакетов с веткой Qt6 для Debian 11. В состав набора вошло 29 пакетов с различными компонентами Qt 6.2.4 и пакет с библиотекой libassimp с поддержкой форматов 3D-моделей. Пакеты доступны для установки через систему бэкпортов (репозиторий bullseye-backports).
+https://www.opennet.ru/opennews/art.shtml?num=57331</description>
+    </item>
+    
+    <item>
+      <title>cnIQRFeo5OpQdFZxmMmc5Z6TiDltHYIn-_zMon6YKSi-xTkZrWnJxmss-4IsivgM2G-NVWboMF2O4xaIArQI3O5W.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-103543/</link>
+      <pubDate>Sat, 11 Jun 2022 10:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-103543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ГК “Астра” подписала несколько соглашений на конференции ЦИПР в Нижнем Новгороде</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gk-astra-podpisala-neskolko-soglasheniy-na-konferencii-cipr-v-nizhnem-novgorode-20220611-093645/</link>
+      <pubDate>Sat, 11 Jun 2022 09:36:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gk-astra-podpisala-neskolko-soglasheniy-na-konferencii-cipr-v-nizhnem-novgorode-20220611-093645/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/gk-astra-podpisala-neskolko-soglashenij-na-konferenczii-czipr-v-nizhnem-novgorode/</description>
+    </item>
+    
+    <item>
+      <title>2cADQj73_uQMrpCBgSrGlaIWyqTA2kVWlYbYVZ3k-SetAZASptriqF0X6kzR8lI7A1438G_epY-6LbKL6xOFKBKhPn1CFA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220611-073523/</link>
+      <pubDate>Sat, 11 Jun 2022 07:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220611-073523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз PoCL 3.0 с независимой реализации стандарта OpenCL 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-3-0-s-nezavisimoy-realizacii-standarta-opencl-3-0-20220611-023502/</link>
+      <pubDate>Sat, 11 Jun 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-3-0-s-nezavisimoy-realizacii-standarta-opencl-3-0-20220611-023502/</guid>
+      <description>Представлен релиз проекта PoCL 3.0 (Portable Computing Language OpenCL), развивающего реализацию стандарта OpenCL, независимую от производителей графических ускорителей и позволяющую использовать различные бэкенды для выполнения OpenCL-ядер на разных типах графических и центральных процессоров. Код проекта распространяется под лицензией MIT. Поддерживается работа на платформах X86_64, MIPS32, ARM v7, AMD HSA APU, NVIDIA GPU и различных специализированных ASIP (Application-Specific Instruction-set Processor) и TTA-процессорах (Transport Triggered Architecture) c архитектурой VLIW.
+https://www.opennet.ru/opennews/art.shtml?num=57330</description>
+    </item>
+    
+    <item>
+      <title>Выпуск облачной платформы Apache CloudStack 4.17</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-oblachnoy-platformy-apache-cloudstack-4-17-20220611-013503/</link>
+      <pubDate>Sat, 11 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-oblachnoy-platformy-apache-cloudstack-4-17-20220611-013503/</guid>
+      <description>Состоялся релиз облачной платформы Apache CloudStack 4.17, позволяющей автоматизировать развертывание, настройку и поддержание приватной, гибридной или публичной cloud-инфраструктуры (IaaS, инфраструктура как сервис). Платформа CloudStack была передана Фонду Apache компанией Citrix, которая получила проект после поглощения компании Cloud.com. Установочные пакеты подготовлены для CentOS, Ubuntu и openSUSE.
+https://www.opennet.ru/opennews/art.shtml?num=57326</description>
+    </item>
+    
+    <item>
+      <title>x3JlU_gH95USoqWOXKz19ce6jZhb4XaxrxUVk9iljf6wy9KzARwGMYEpt1us6JDCXFj61Cf5EHagU22jbh3XB1vm.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-233511/</link>
+      <pubDate>Fri, 10 Jun 2022 23:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-233511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>75hPWTJdsoCTL8yA26rB-a9shrOdnD0f8tSKhBXIUJofnNZmAN8ShEP1DyuMzRyjRu9TzxNP3MeC3RhsDMo5jDUs.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-223531/</link>
+      <pubDate>Fri, 10 Jun 2022 22:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-223531/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Цифровая реальность. Игра по новым правилам. В Нижнем Новгороде обсудили актуальные вопросы цифровой трансформации промышленности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cifrovaya-realnost-igra-po-novym-pravilam-v-nizhnem-novgorode-obsudili-aktualnye-voprosy-c-20220610-213657/</link>
+      <pubDate>Fri, 10 Jun 2022 21:36:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cifrovaya-realnost-igra-po-novym-pravilam-v-nizhnem-novgorode-obsudili-aktualnye-voprosy-c-20220610-213657/</guid>
+      <description>https://astralinux.ru/news/category-media-about-us/2022/czifrovaya-realnost.-igra-po-novyim-pravilam.-v-nizhnem-novgorode-obsudili-aktualnyie-voprosyi-czifrovoj-transformaczii-promyishlennosti/</description>
+    </item>
+    
+    <item>
+      <title>0ND-KMfcqJwmSZGC9pd8q_pVK0Q5W2soGxnbkJkoEPm4n_LwFISJA7eUu0dYO88JKlQeSDI3pf2v4YCTLUiUV7Lf.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-193534/</link>
+      <pubDate>Fri, 10 Jun 2022 19:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-193534/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ihQzLf7-3PnMJ_N77CXcbhZg2zwWOhm7jSUIq5eL9IgEcagB9DCm9Sqkv1x2vcZ47l7x9q7x0D6BCcHc4EHHBies.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-163535/</link>
+      <pubDate>Fri, 10 Jun 2022 16:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-163535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OncE4_JWliOCi9OQWYmJV1MzaPsC1DE6-LdsveTVqon7WPVoBl6vJCqSGi5Jy1OnrgYsu3N6jsGCx7QGK3BHtsYC.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-133518/</link>
+      <pubDate>Fri, 10 Jun 2022 13:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-133518/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Техника идентификации смартфонов по широковещательной активности Bluetooth</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tehnika-identifikacii-smartfonov-po-shirokoveschatelnoy-aktivnosti-bluetooth-20220610-123502/</link>
+      <pubDate>Fri, 10 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tehnika-identifikacii-smartfonov-po-shirokoveschatelnoy-aktivnosti-bluetooth-20220610-123502/</guid>
+      <description>Группа исследователей из Калифорнийского университета в Сан-Диего разработала метод идентификации мобильных устройств по beacon-сигналам, отправляемым в эфир при использовании Bluetooth Low Energy (BLE) и применяемым пассивными Bluetooth-приёмниками для определения появления новых устройств в пределах досягаемости.
+https://www.opennet.ru/opennews/art.shtml?num=57329</description>
+    </item>
+    
+    <item>
+      <title>tzmKPMcwdV4d2N7-jlI5fMpKCUA3M1tPXatN6x3C6nHLB6MG_rSdfoFwINzVx52m2Sn4yS_NolafoitUBgBIo639.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-113538/</link>
+      <pubDate>Fri, 10 Jun 2022 11:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-113538/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simbiote - вредоносное ПО для Linux, использующее eBPF и LD_PRELOAD для скрытия</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/simbiote-vredonosnoe-po-dlya-linux-ispolzuyuschee-ebpf-i-ld-preload-dlya-skrytiya-20220610-113504/</link>
+      <pubDate>Fri, 10 Jun 2022 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/simbiote-vredonosnoe-po-dlya-linux-ispolzuyuschee-ebpf-i-ld-preload-dlya-skrytiya-20220610-113504/</guid>
+      <description>Исследователи из компаний Intezer и BlackBerry обнаружили вредоносное ПО, получившее кодовое имя Simbiote и используемое для внедрения бэкдоров и rootkit-ов на скомпрометированные серверы, работающих под управлением Linux. Вредоносное ПО было выявлено на системах финансовых учреждений ряда стран Латинской Америки. Для установки Simbiote в систему атакующий должен иметь root-доступ, который может быть получен, например, в результате эксплуатации неисправленных уязвимостей или утечки учётных записей. Simbiote позволяет закрепить своё присутствие в системе после взлома для проведения дальнейших атак, скрытия активности других вредоносных приложений и организации перехвата конфиденциальных данных.</description>
+    </item>
+    
+    <item>
+      <title>LFwF-mBNd9D2X6u2ODr83cx6RP3zP3V7dFF76UmqVe62o-EOfy7KJPuWXJFKeJFyqtuVrliiEFOkNsOQJk_3QVql.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-103516/</link>
+      <pubDate>Fri, 10 Jun 2022 10:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-103516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Илья Сивцев. Мы строим глобального вендора системного ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ilya-sivcev-my-stroim-globalnogo-vendora-sistemnogo-po-20220610-093721/</link>
+      <pubDate>Fri, 10 Jun 2022 09:37:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ilya-sivcev-my-stroim-globalnogo-vendora-sistemnogo-po-20220610-093721/</guid>
+      <description>https://astralinux.ru/news/category-news/2021/ilya-sivczev.-myi-stroim-globalnogo-vendora-sistemnogo-po/</description>
+    </item>
+    
+    <item>
+      <title>Ix9guV6ySb_Qe1QbMpGclm0WwVcp5NbvcBzEkrxTDN18fHfWuDMAX6Xe00QmzsUThPY4TYHL-6bKE8dJHZ7xwm8S.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220610-073515/</link>
+      <pubDate>Fri, 10 Jun 2022 07:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220610-073515/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск окружения рабочего стола Regolith 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-okruzheniya-rabochego-stola-regolith-2-0-20220610-013502/</link>
+      <pubDate>Fri, 10 Jun 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-okruzheniya-rabochego-stola-regolith-2-0-20220610-013502/</guid>
+      <description>После года разработки доступен выпуск окружения рабочего стола Regolith 2.0, развиваемого разработчиками одноимённого дистрибутива Linux. Regolith основан на технологиях управления сеансами GNOME и оконном менеджере i3. Наработки проекта распространяются под лицензией GPLv3. Для загрузки подготовлены пакеты для Ubuntu 20.04/22.04 и Debian 11.
+https://www.opennet.ru/opennews/art.shtml?num=57327</description>
+    </item>
+    
+    <item>
+      <title>_h_aJNfmDhltK4yUgNqH06ruwd27ustX8Kbn76fkmRgtBek6P3hlXvMRYhWgv1SON658Dojc1gyp-7pRQz2ySZd3.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220609-233602/</link>
+      <pubDate>Thu, 09 Jun 2022 23:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220609-233602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 101.0.1 и uBlock Origin 1.42.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-i-ublock-origin-1-42-0-20220609-233502/</link>
+      <pubDate>Thu, 09 Jun 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-i-ublock-origin-1-42-0-20220609-233502/</guid>
+      <description>Доступен корректирующий выпуск Firefox 101.0.1, в котором устранены три проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=57325</description>
+    </item>
+    
+    <item>
+      <title>zbiV5l0oximWNpppQQ5yYk8GGTSL7H-EDszel_4jLq1nKOehDKxkQXWip9NBBs0Ayk_sl_Le0ZQujmD9yOEw0nw0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220609-223525/</link>
+      <pubDate>Thu, 09 Jun 2022 22:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220609-223525/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Илья Сивцев. Выступление на конференции Коммерсантъ Импортозамещение ПО: время возможностей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ilya-sivcev-vystuplenie-na-konferencii-kommersant-importozameschenie-po-vremya-vozmozhnost-20220609-213700/</link>
+      <pubDate>Thu, 09 Jun 2022 21:37:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ilya-sivcev-vystuplenie-na-konferencii-kommersant-importozameschenie-po-vremya-vozmozhnost-20220609-213700/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/ili-sivczeva.-vyistuplenie-na-konferenczii-kommersant-importozameshhenie-po-vremya-vozmozhnostej/</description>
+    </item>
+    
     <item>
       <title>6owunMbmdt6uj08RD8PM7A0XGCXmLO0nzSEHym2kls0YGCOQ2pReBxlFcywNh7idR2G4ePXLuCwIlODFP9hFlnVJ.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220609-193512/</link>

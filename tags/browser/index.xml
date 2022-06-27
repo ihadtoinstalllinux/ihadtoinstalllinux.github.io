@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Browser on iHADtoinstalllinux</title>
+    <title>browser on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/browser/</link>
-    <description>Recent content in Browser on iHADtoinstalllinux</description>
+    <description>Recent content in browser on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 09:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект browser-linux развивает дистрибутив Linux для запуска в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</link>
+      <pubDate>Tue, 14 Jun 2022 09:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-browser-linux-razvivaet-distributiv-linux-dlya-zapuska-v-web-brauzere-20220614-093502/</guid>
+      <description>Предложен дистрибутив browser-linux, предназначенный для запуска консольного Linux-окружения в web-браузере. Проект можно использоваться для быстрого знакомства с Linux без необходимости запуска виртуальных машин или загрузки с внешнего носителя. Урезанное Linux-окружение формируется при помощи инструментария Buildroot.
+https://www.opennet.ru/opennews/art.shtml?num=57348</description>
+    </item>
+    
     <item>
       <title>Выпуск SeaMonkey 2.53.12, Tor Browser 11.0.11 и Thunderbird 91.9.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-seamonkey-2-53-12-tor-browser-11-0-11-i-thunderbird-91-9-0-20220504-103502/</link>

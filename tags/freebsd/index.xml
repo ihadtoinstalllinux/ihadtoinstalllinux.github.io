@@ -6,7 +6,27 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wifibox 0.10 - окружение для использования WiFi-драйверов Linux во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</link>
+      <pubDate>Mon, 27 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</guid>
+      <description>Доступен выпуск проекта Wifibox 0.10, нацеленного на решение проблемы с использованием во FreeBSD беспроводных адаптеров, для которых отсутствуют необходимые драйверы. Работа проблемных для FreeBSD адаптеров обеспечивается через запуск гостевой системы с Linux, в которой загружаются родные для Linux драйверы беспроводных устройств.
+https://www.opennet.ru/opennews/art.shtml?num=57414</description>
+    </item>
+    
+    <item>
+      <title>В containerd приняты изменения, позволяющие запускать Linux-контейнеры во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</link>
+      <pubDate>Mon, 27 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</guid>
+      <description>В проект containerd принят набор изменений, интегрирующий поддержку runtime runj и открывающий возможность использования во FreeBSD OCI-совместимых образов контейнеров на базе Linux, например образов Docker. В комментариях к изменениям приведён пример успешного запуска во FreeBSD образа с Alpine Linux.
+https://www.opennet.ru/opennews/art.shtml?num=57411</description>
+    </item>
+    
     <item>
       <title>Опубликован MyBee 13.1.0, дистрибутив FreeBSD для организации работы виртуальных машин</title>
       <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-mybee-13-1-0-distributiv-freebsd-dlya-organizacii-raboty-virtualnyh-mashin-20220519-113503/</link>

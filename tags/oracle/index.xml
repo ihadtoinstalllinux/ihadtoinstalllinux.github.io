@@ -6,7 +6,16 @@
     <description>Recent content in Oracle on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Предварительный выпуск Oracle Linux 9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</link>
+      <pubDate>Tue, 14 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</guid>
+      <description>Компания Oracle представила предварительный выпуск дистрибутива Oracle Linux 9, созданного на основе пакетной базы Red Hat Enterprise Linux 9 и полностью бинарно совместимого с ней. Для загрузки без ограничений предложен установочный iso-образ, размером 8 ГБ, подготовленный для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux 9 открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Oracle Linux 8.6 и бета-выпуск ядра Unbreakable Enterprise Kernel 7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-6-i-beta-vypusk-yadra-unbreakable-enterprise-kernel-7-20220519-143502/</link>

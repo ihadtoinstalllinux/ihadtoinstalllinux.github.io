@@ -6,7 +6,26 @@
     <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Chrome 103</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-103-20220623-013502/</link>
+      <pubDate>Thu, 23 Jun 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-103-20220623-013502/</guid>
+      <description>Компания Google представила релиз web-браузера Chrome 103. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструментарий для определения дополнений, установленных в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-opredeleniya-dopolneniy-ustanovlennyh-v-chrome-20220621-013503/</link>
+      <pubDate>Tue, 21 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-opredeleniya-dopolneniy-ustanovlennyh-v-chrome-20220621-013503/</guid>
+      <description>Опубликован инструментарий с реализацией метода определения дополнений, установленных в браузере Chrome. Полученный список дополнений может использоваться для увеличения точности пассивной идентификации конкретного экземпляра браузера, в сочетании с другими косвенными признаками, такими как разрешение экрана, особенностей WebGL, списки установленных плагинов и шрифтов. Предложенная реализация проверяет установку более 1000 дополнений. Для проверки своей системы предложена online-демонстрация.
+https://www.opennet.ru/opennews/art.shtml?num=57379</description>
+    </item>
+    
     <item>
       <title>Для Chrome развивают режим автоматического блокирования спама в уведомлениях</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dlya-chrome-razvivayut-rezhim-avtomaticheskogo-blokirovaniya-spama-v-uvedomleniyah-20220603-133503/</link>

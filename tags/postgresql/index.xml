@@ -6,7 +6,26 @@
     <description>Recent content in PostgreSQL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление PostgreSQL 14.4 с исправлением повреждения индексов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</link>
+      <pubDate>Fri, 17 Jun 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</guid>
+      <description>Сформирован корректирующий выпуск СУБД PostgreSQL 14.4, в котором устранена серьёзная проблема, при определённых обстоятельствах приводящая к незаметному повреждению данных в индексах при выполнении команд &amp;ldquo;CREATE INDEX CONCURRENTLY&amp;rdquo; и &amp;ldquo;REINDEX CONCURRENTLY&amp;rdquo;. В созданных при помощи указанных команд индексах могут быть не учтены некоторые записи, что приведёт к пропуску отдельных строк при выполнении SELECT-запросов с привлечением проблемных индексов.
+https://www.opennet.ru/opennews/art.shtml?num=57367</description>
+    </item>
+    
+    <item>
+      <title>В Москве пройдёт девятая международная конференция по PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</link>
+      <pubDate>Wed, 15 Jun 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</guid>
+      <description>20 и 21 июня 2022 года в Москве в бизнес-центре гостиницы «Рэдиссон Славянская» состоится PGConf.Russia 2022, девятая международная техническая конференция по СУБД PostgreSQL. Организатором PGConf.Russia выступает компания Postgres Professional, российский поставщик СУБД PostgreSQL. Мероприятие является одним из центральных событий в международном сообществе PostgreSQL и собирает сотни специалистов из России и других стран. В конференции примут участие представители крупных российских и международных компаний – «Авито», VK Cloud Solutions, OZON, «АльфаСтрахование», «Яндекс.Облако», «ИнфоСофт», «Аладдин Р.</description>
+    </item>
+    
     <item>
       <title>Выпуск FerretDB 0.3, реализации MongoDB на базе СУБД PostgreSQL </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-3-realizacii-mongodb-na-baze-subd-postgresql-20220602-143502/</link>

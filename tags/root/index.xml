@@ -6,7 +6,17 @@
     <description>Recent content in root on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в firejail, позволяющая получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</link>
+      <pubDate>Sun, 12 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</guid>
+      <description>В утилите для изолированного выполнения приложений Firejail выявлена уязвимость (CVE-2022-31214), позволяющая локальному пользователю получить права root в основной системе. В открытом доступе имеется рабочий эксплоит, проверенный в актуальных выпусках openSUSE, Debian, Arch, Gentoo и Fedora с установленной утилитой firejail. Проблема устранена в выпуске firejail 0.9.70. В качестве обходного пути защиты можно выставить в настройках (/etc/firejail/firejail.config) параметры &amp;ldquo;join no&amp;rdquo; и &amp;ldquo;force-nonewprivs yes&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=57337</description>
+    </item>
+    
     <item>
       <title>Уязвимости в драйвере NTFS-3G, позволяющие получить root-доступ в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-ntfs-3g-pozvolyayuschie-poluchit-root-dostup-v-sisteme-20220526-163502/</link>

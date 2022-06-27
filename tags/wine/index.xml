@@ -6,7 +6,37 @@
     <description>Recent content in Wine on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jun 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Wine выпустил Vkd3d 1.4 с реализацией Direct3D 12 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-wine-vypustil-vkd3d-1-4-s-realizaciey-direct3d-12-20220623-023502/</link>
+      <pubDate>Thu, 23 Jun 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-wine-vypustil-vkd3d-1-4-s-realizaciey-direct3d-12-20220623-023502/</guid>
+      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.4 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
+https://www.opennet.ru/opennews/art.shtml?num=57395</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 7.11 и Wine staging 7.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-11-i-wine-staging-7-11-20220618-123502/</link>
+      <pubDate>Sat, 18 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-11-i-wine-staging-7-11-20220618-123502/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 7.11. С момента выпуска версии 7.10 было закрыто 34 отчёта об ошибках и внесено 285 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=57372</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Wine приняли решение о переводе разработки на GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</link>
+      <pubDate>Tue, 14 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</guid>
+      <description>Александр Джуллиард (Alexandre Julliard), создатель и руководитель проекта Wine, подвёл итоги тестирования экспериментального сервера совместной разработки gitlab.winehq.org и обсуждения возможности перевода разработки на платформу GitLab. Большинство разработчиков одобрили использование GitLab и проект начал постепенный переход на GitLab как на основную платформу для разработки.
+https://www.opennet.ru/opennews/art.shtml?num=57354</description>
+    </item>
+    
     <item>
       <title>Выпуск Wine 7.10 и Wine staging 7.10 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-7-10-i-wine-staging-7-10-20220604-123502/</link>

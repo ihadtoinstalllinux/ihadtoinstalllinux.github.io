@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>eBPF on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ebpf/</link>
+    <description>Recent content in eBPF on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jun 2022 11:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simbiote - вредоносное ПО для Linux, использующее eBPF и LD_PRELOAD для скрытия</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/simbiote-vredonosnoe-po-dlya-linux-ispolzuyuschee-ebpf-i-ld-preload-dlya-skrytiya-20220610-113504/</link>
+      <pubDate>Fri, 10 Jun 2022 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/simbiote-vredonosnoe-po-dlya-linux-ispolzuyuschee-ebpf-i-ld-preload-dlya-skrytiya-20220610-113504/</guid>
+      <description>Исследователи из компаний Intezer и BlackBerry обнаружили вредоносное ПО, получившее кодовое имя Simbiote и используемое для внедрения бэкдоров и rootkit-ов на скомпрометированные серверы, работающих под управлением Linux. Вредоносное ПО было выявлено на системах финансовых учреждений ряда стран Латинской Америки. Для установки Simbiote в систему атакующий должен иметь root-доступ, который может быть получен, например, в результате эксплуатации неисправленных уязвимостей или утечки учётных записей. Simbiote позволяет закрепить своё присутствие в системе после взлома для проведения дальнейших атак, скрытия активности других вредоносных приложений и организации перехвата конфиденциальных данных.</description>
+    </item>
+    
+  </channel>
+</rss>

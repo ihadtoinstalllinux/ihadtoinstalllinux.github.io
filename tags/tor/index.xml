@@ -6,7 +6,17 @@
     <description>Recent content in Tor on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 May 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Tor 0.4.7.8 с устранением уязвимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tor-0-4-7-8-s-ustraneniem-uyazvimosti-20220618-133503/</link>
+      <pubDate>Sat, 18 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tor-0-4-7-8-s-ustraneniem-uyazvimosti-20220618-133503/</guid>
+      <description>Опубликован корректирующий выпуск инструментария Tor 0.4.7.8, используемого для организации работы анонимной сети Tor. В новой версии устранена уязвимость (CVE-2021-38385), которую можно использовать для удалённого инициирования отказа в обслуживании. Также не исключается потенциальное влияние проблемы на обеспечение анонимности. Проблема приводит к завершению процесса из-за срабатывания assert-проверки в случае расхождения проверки цифровых подписей по отдельности и в пакетном режиме. Детали не раскрываются до обновления пакетов в основных дистрибутивах.
+https://www.opennet.ru/opennews/art.shtml?num=57373</description>
+    </item>
+    
     <item>
       <title>Выпуск новой стабильной ветки Tor 0.4.7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-novoy-stabilnoy-vetki-tor-0-4-7-20220507-023502/</link>

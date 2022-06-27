@@ -6,7 +6,17 @@
     <description>Recent content in OpenCL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opencl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opencl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз PoCL 3.0 с независимой реализации стандарта OpenCL 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-3-0-s-nezavisimoy-realizacii-standarta-opencl-3-0-20220611-023502/</link>
+      <pubDate>Sat, 11 Jun 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-3-0-s-nezavisimoy-realizacii-standarta-opencl-3-0-20220611-023502/</guid>
+      <description>Представлен релиз проекта PoCL 3.0 (Portable Computing Language OpenCL), развивающего реализацию стандарта OpenCL, независимую от производителей графических ускорителей и позволяющую использовать различные бэкенды для выполнения OpenCL-ядер на разных типах графических и центральных процессоров. Код проекта распространяется под лицензией MIT. Поддерживается работа на платформах X86_64, MIPS32, ARM v7, AMD HSA APU, NVIDIA GPU и различных специализированных ASIP (Application-Specific Instruction-set Processor) и TTA-процессорах (Transport Triggered Architecture) c архитектурой VLIW.
+https://www.opennet.ru/opennews/art.shtml?num=57330</description>
+    </item>
+    
     <item>
       <title>В написанной на Rust реализации OpenCL для Mesa обеспечена поддержка OpenCL 3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-napisannoy-na-rust-realizacii-opencl-dlya-mesa-obespechena-podderzhka-opencl-3-0-20220423-123503/</link>

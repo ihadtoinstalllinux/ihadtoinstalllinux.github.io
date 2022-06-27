@@ -6,7 +6,17 @@
     <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект AlmaLinux представил новую сборочную систему ALBS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</link>
+      <pubDate>Tue, 21 Jun 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</guid>
+      <description>Разработчики дистрибутива AlmaLinux, развивающего похожий на CentOS бесплатный клон Red Hat Enterprise Linux, представили новую сборочную систему ALBS (AlmaLinux Build System), которая уже использована при формировании выпусков AlmaLinux 8.6 и 9.0, подготовленных для архитектур x86_64, Aarch64, PowerPC ppc64le и s390x. Кроме сборки дистрибутива ALBS также используется для генерации и публикации корректирующих обновлений (errata), и заверения пакетов цифровой подписью. Код сборочной системы написан на языке Python и.
+https://www.opennet.ru/opennews/art.shtml?num=57384</description>
+    </item>
+    
     <item>
       <title>Доступен дистрибутив AlmaLinux 9.0, основанный на ветке RHEL 9 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-9-0-osnovannyy-na-vetke-rhel-9-20220526-223503/</link>

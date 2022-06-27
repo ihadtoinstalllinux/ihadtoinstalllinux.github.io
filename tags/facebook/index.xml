@@ -6,7 +6,16 @@
     <description>Recent content in Facebook on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook представил механизм TMO, позволяющий экономить 20-32% памяти на серверах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</link>
+      <pubDate>Tue, 21 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</guid>
+      <description>Инженеры из компании Facebook (запрещена в РФ) опубликовали отчёт о внедрении в прошлом году технологии TMO (Transparent Memory Offloading), позволяющей значительно экономить оперативную память на серверах за счёт вытеснения не требуемых для выполнения работы вторичных данных на более дешёвые накопители, такие как NVMe SSD-диски. По оценке Facebook, применение TMO позволяет экономить от 20 до 32% ОЗУ на каждом сервере. Решение рассчитано на применение в инфраструктурах, в которых приложения запускаются в изолированных контейнерах.</description>
+    </item>
+    
     <item>
       <title>Facebook открыл код Lexical, библиотеки для создания редакторов текста</title>
       <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-lexical-biblioteki-dlya-sozdaniya-redaktorov-teksta-20220414-103503/</link>
