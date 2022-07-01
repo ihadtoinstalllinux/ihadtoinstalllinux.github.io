@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен Wayland 1.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-21-20220701-123503/</link>
+      <pubDate>Fri, 01 Jul 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-21-20220701-123503/</guid>
+      <description>После шести месяцев разработки представлен стабильный релиз протокола, механизма межпроцессного взаимодействия и библиотек Wayland 1.21. Ветка 1.21 обратно совместима на уровне API и ABI с выпусками 1.x и содержит в основном исправления ошибок и незначительные обновления протокола. Несколько дней назад сформировано корректирующее обновление композитного сервера Weston 10.0.1, который развивается в рамках отдельного цикла разработки. Weston предоставляет код и рабочие примеры для использования Wayland в десктоп-окружениях и встраиваемых решениях.
+https://www.opennet.ru/opennews/art.shtml?num=57432</description>
+    </item>
+    
     <item>
       <title>Состояние поддержки Wayland в драйверах NVIDIA</title>
       <link>https://ihadtoinstalllinux.github.io/posts/sostoyanie-podderzhki-wayland-v-drayverah-nvidia-20220516-013503/</link>
