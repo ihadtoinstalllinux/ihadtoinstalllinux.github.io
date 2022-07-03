@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jul 2022 13:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jul 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Локальная уязвимость в nftables, позволяющая повысить свои привилегии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lokalnaya-uyazvimost-v-nftables-pozvolyayuschaya-povysit-svoi-privilegii-20220703-143503/</link>
+      <pubDate>Sun, 03 Jul 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lokalnaya-uyazvimost-v-nftables-pozvolyayuschaya-povysit-svoi-privilegii-20220703-143503/</guid>
+      <description>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE не назначен), позволяющая локальному пользователю выполнить код на уровне ядра и поднять свои привилегии в системе. Исследователями продемонстрирован эксплоит, позволивший локальному пользователю получить права root в Ubuntu 22.04 с ядром 5.15.0-39-generic. Изначально информацию об уязвимости планировалось опубликовать 15 августа, но из-за копирования письма c прототипом эксплоита в публичный список рассылки, эмбарго на раскрытие информации было отменено.</description>
+    </item>
+    
     <item>
       <title>ieF6GVnQsvA.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220703-133602/</link>
