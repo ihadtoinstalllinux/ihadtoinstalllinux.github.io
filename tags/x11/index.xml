@@ -6,7 +6,17 @@
     <description>Recent content in X11 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Feb 2022 20:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jul 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Рассматривается возможность прекращения в GTK5 поддержки X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rassmatrivaetsya-vozmozhnost-prekrascheniya-v-gtk5-podderzhki-x11-20220703-193503/</link>
+      <pubDate>Sun, 03 Jul 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rassmatrivaetsya-vozmozhnost-prekrascheniya-v-gtk5-podderzhki-x11-20220703-193503/</guid>
+      <description>Маттиас Класен (Matthias Clasen), лидер Fedora Desktop Team, участник GNOME Release Team и один из активных разработчиков GTK (подготовил 36.8% изменений в GTK 4), начал обсуждение возможности прекращения поддержки протокола X11 в следующей значительной ветке GTK5 и оставления возможности работы GTK в Linux только с использованием протокола Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=57447</description>
+    </item>
+    
     <item>
       <title>Выпуск XWayland 21.2.0, компонента для запуска X11-приложений в Wayland-окружениях </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-21-2-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20220216-203502/</link>
