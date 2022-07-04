@@ -6,7 +6,17 @@
     <description>Recent content in SQL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в web-фреймворке Django, которая может привести к подстановке SQL-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</link>
+      <pubDate>Mon, 04 Jul 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</guid>
+      <description>Опубликованы корректирующие выпуски web-фреймворка Django 4.0.6 и 3.2.14, в которых устранена уязвимость (CVE-2022-34265), потенциально позволяющая выполнить подстановку своего SQL-кода. Проблема затрагивает приложения, использующие непроверенные внешние данные в параметрах kind и lookup_name, передаваемых в функции Trunc(kind) и Extract(lookup_name). Программы, которые допускают в значениях lookup_name и kind только проверенные данные уязвимость не затрагивает.
+https://www.opennet.ru/opennews/art.shtml?num=57452</description>
+    </item>
+    
     <item>
       <title>Яндекс открыл код распределённой СУБД YDB, поддерживающей SQL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-kod-raspredelennoy-subd-ydb-podderzhivayuschey-sql-20220419-213503/</link>

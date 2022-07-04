@@ -6,7 +6,17 @@
     <description>Recent content in web on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в web-фреймворке Django, которая может привести к подстановке SQL-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</link>
+      <pubDate>Mon, 04 Jul 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</guid>
+      <description>Опубликованы корректирующие выпуски web-фреймворка Django 4.0.6 и 3.2.14, в которых устранена уязвимость (CVE-2022-34265), потенциально позволяющая выполнить подстановку своего SQL-кода. Проблема затрагивает приложения, использующие непроверенные внешние данные в параметрах kind и lookup_name, передаваемых в функции Trunc(kind) и Extract(lookup_name). Программы, которые допускают в значениях lookup_name и kind только проверенные данные уязвимость не затрагивает.
+https://www.opennet.ru/opennews/art.shtml?num=57452</description>
+    </item>
+    
     <item>
       <title>В web-браузер Epiphany (GNOME Web) добавлена поддержка WebExtension</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-web-brauzer-epiphany-gnome-web-dobavlena-podderzhka-webextension-20220702-153503/</link>
