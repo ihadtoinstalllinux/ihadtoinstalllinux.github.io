@@ -6,7 +6,17 @@
     <description>Recent content in CoreBoot on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreboot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Libreboot 20220710, полностью свободного дистрибутива Coreboot </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20220710-polnostyu-svobodnogo-distributiva-coreboot-20220710-233503/</link>
+      <pubDate>Sun, 10 Jul 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20220710-polnostyu-svobodnogo-distributiva-coreboot-20220710-233503/</guid>
+      <description>После семи месяцев разработки опубликован выпуск свободной загрузочной прошивки Libreboot 20220710. Это четвёртый выпуск в составе проекта GNU, преподносимый как первый стабильный релиз (прошлые выпуски отмечались как тестовые, так как требовали дополнительной стабилизации и тестирования). Libreboot развивает полностью свободное ответвление от проекта CoreBoot, предоставляющее очищенную от бинарных вставок замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования.
+https://www.opennet.ru/opennews/art.shtml?num=57485</description>
+    </item>
+    
     <item>
       <title>Выпуск Coreboot 4.17</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-17-20220605-143503/</link>
