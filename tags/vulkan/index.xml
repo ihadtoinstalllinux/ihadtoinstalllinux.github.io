@@ -6,7 +6,17 @@
     <description>Recent content in Vulkan on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 20:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DXVK 1.10.2, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</link>
+      <pubDate>Wed, 13 Jul 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.2, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=57500</description>
+    </item>
+    
     <item>
       <title>На базе Nouveau развивается новый драйвер для графического API Vulkan</title>
       <link>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</link>
