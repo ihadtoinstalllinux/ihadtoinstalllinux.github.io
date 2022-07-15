@@ -6,7 +6,26 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jul 2022 13:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 16:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zv3t0ejgihI.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220715-163530/</link>
+      <pubDate>Fri, 15 Jul 2022 16:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220715-163530/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Проект по портированию механизма изоляции pledge для Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-po-portirovaniyu-mehanizma-izolyacii-pledge-dlya-linux-20220715-163502/</link>
+      <pubDate>Fri, 15 Jul 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-po-portirovaniyu-mehanizma-izolyacii-pledge-dlya-linux-20220715-163502/</guid>
+      <description>Автор стандартной Си-библиотеки Cosmopolitan и платформы Redbean объявил о реализации механизма изоляции pledge() для Linux. Изначально pledge разработан проектом OpenBSD и позволяет выборочно запретить приложениям обращения к неиспользуемым системным вызовам (для приложения формируется подобие белого списка системных вызовов, а остальные вызовы запрещаются). В отличие от доступных в Linux механизмов ограничения доступа к системным вызовам, таких как seccomp, механизм pledge изначально разработан с оглядкой на максимальное упрощение применения.
+https://www.opennet.ru/opennews/art.shtml?num=57505</description>
+    </item>
+    
     <item>
       <title>sjPnPjlEf4M.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220715-133606/</link>
