@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 22:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 23:36:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CeXIR5pwX4k.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20220718-233609/</link>
+      <pubDate>Mon, 18 Jul 2022 23:36:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20220718-233609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Эксперимент по повышению эффективности работы утилиты cat</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-povysheniyu-effektivnosti-raboty-utility-cat-20220718-233503/</link>
+      <pubDate>Mon, 18 Jul 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-povysheniyu-effektivnosti-raboty-utility-cat-20220718-233503/</guid>
+      <description>Ариадна Конилл (Ariadne Conill), создатель музыкального проигрывателя Audacious, инициатор разработки протокола IRCv3 и лидер команды по обеспечению безопасности Alpine Linux, провела исследование насколько можно оптимизировать утилиту cat, осуществляющую вывод в стандартный выходной поток одного или нескольких файлов. Для улучшения производительности cat в Linux предложено два варианта оптимизаций, основанных на использовании системных вызовов sendfile и splice для прямого копирования данных между файловыми дескрипторами на уровне ядра без переключения контекста в пространство пользователя.</description>
+    </item>
+    
     <item>
       <title>GghDIDxmons.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220718-223529/</link>
