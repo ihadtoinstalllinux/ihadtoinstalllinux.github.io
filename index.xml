@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление ОС Qubes 4.1.1, использующей виртуализацию для изоляции приложений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-os-qubes-4-1-1-ispolzuyuschey-virtualizaciyu-dlya-izolyacii-prilozheniy-20220719-153503/</link>
+      <pubDate>Tue, 19 Jul 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-os-qubes-4-1-1-ispolzuyuschey-virtualizaciyu-dlya-izolyacii-prilozheniy-20220719-153503/</guid>
+      <description>Сформировано обновление операционной системы Qubes 4.1.1, реализующей идею использования гипервизора для строгой изоляции приложений и компонентов ОС (каждый класс приложений и системные сервисы работают в отдельных виртуальных машинах). Для работы необходима система с 6 Гб ОЗУ и 64-разрядным CPU Intel или AMD с поддержкой технологий VT-x c EPT/AMD-v c RVI и VT-d/AMD IOMMU, желательно наличие GPU Intel (GPU NVIDIA и AMD недостаточно хорошо протестированы). Размер установочного образа - 5.5 ГБ.</description>
+    </item>
+    
     <item>
       <title>4fnhMbva3AE.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220719-133547/</link>
