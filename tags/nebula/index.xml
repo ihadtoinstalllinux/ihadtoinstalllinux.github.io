@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nebula on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nebula/</link>
+    <description>Recent content in Nebula on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nebula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск графо-ориентированной СУБД Nebula Graph 3.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-grafo-orientirovannoy-subd-nebula-graph-3-2-20220719-163502/</link>
+      <pubDate>Tue, 19 Jul 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-grafo-orientirovannoy-subd-nebula-graph-3-2-20220719-163502/</guid>
+      <description>Опубликован выпуск открытой СУБД Nebula Graph 3.2, предназначенной для эффективного хранения крупных наборов связанных между собой данных, образующих граф, который может насчитывать миллиарды узлов и триллионы связей. Проект написан на языке С++ и распространяется под лицензией Apache 2.0. Клиентские библиотеки для обращения к СУБД подготовлены для языков Go, Python и Java.
+https://www.opennet.ru/opennews/art.shtml?num=57522</description>
+    </item>
+    
+  </channel>
+</rss>
