@@ -6,7 +6,16 @@
     <description>Recent content in MongoDB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 21:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна документо-ориентированная СУБД MongoDB 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-dokumento-orientirovannaya-subd-mongodb-6-0-20220723-213502/</link>
+      <pubDate>Sat, 23 Jul 2022 21:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-dokumento-orientirovannaya-subd-mongodb-6-0-20220723-213502/</guid>
+      <description>После года разработки представлен выпуск документо-ориентированной СУБД MongoDB 6.0, которая занимает нишу между быстрыми и масштабируемыми системами, оперирующими данными в формате ключ/значение, и реляционными СУБД, функциональными и удобными в формировании запросов. Код MongoDB написан на языке C++ и распространяется под лицензией SSPL, которая основана на лицензии AGPLv3, но не является открытой, так как содержит дискриминирующее требование поставки под лицензией SSPL не только кода самого приложения, но и исходных текстов всех компонентов, вовлечённых в предоставление облачного сервиса.</description>
+    </item>
+    
     <item>
       <title>Выпуск FerretDB 0.3, реализации MongoDB на базе СУБД PostgreSQL </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-3-realizacii-mongodb-na-baze-subd-postgresql-20220602-143502/</link>
