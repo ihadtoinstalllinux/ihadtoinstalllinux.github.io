@@ -6,7 +6,16 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 16:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск модуля LKRG 0.9.4 для защиты от эксплуатации уязвимостей в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-modulya-lkrg-0-9-4-dlya-zaschity-ot-ekspluatacii-uyazvimostey-v-yadre-linux-20220724-183503/</link>
+      <pubDate>Sun, 24 Jul 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-modulya-lkrg-0-9-4-dlya-zaschity-ot-ekspluatacii-uyazvimostey-v-yadre-linux-20220724-183503/</guid>
+      <description>Проект Openwall опубликовал выпуск модуля ядра LKRG 0.9.4 (Linux Kernel Runtime Guard), предназначенного для выявления и блокирования атак и нарушений целостности структур ядра. Например, модуль может защитить от несанкционированного внесения изменений в работающее ядро и попыток изменения полномочий пользовательских процессов (определение применения эксплоитов). Модуль подходит как для организации защиты от эксплоитов уже известных уязвимостей ядра Linux (например, в ситуациях когда в системе проблематично обновить ядро), так и для противостояния эксплоитам для ещё неизвестных уязвимостей.</description>
+    </item>
+    
     <item>
       <title>Sw1NwULvyB0.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20220724-163520/</link>
