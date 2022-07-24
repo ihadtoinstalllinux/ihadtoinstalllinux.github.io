@@ -6,7 +6,16 @@
     <description>Recent content in Ruby on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в web-фреймворке Grails и Ruby-модуле TZInfo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-web-freymvorke-grails-i-ruby-module-tzinfo-20220724-193503/</link>
+      <pubDate>Sun, 24 Jul 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-web-freymvorke-grails-i-ruby-module-tzinfo-20220724-193503/</guid>
+      <description>В web-фреймворке Grails, предназначенном для разработки web-приложений в соответствии с парадигмой MVC на Java, Groovy и на других языках для JVM, выявлена уязвимость, позволяющая удалённо выполнить свой код в окружении, в котором выполняется web-приложение. Эксплуатация уязвимости производится через отправку специально оформленного запроса, предоставляющего атакующему доступ к ClassLoader. Проблема вызвана недоработкой в логике привязки данных (data-binding), которая используется как при создании объектов, так и при ручной привязке при помощи bindData. Проблема устранена в выпусках.</description>
+    </item>
+    
     <item>
       <title>Корректирующие выпуски Ruby 3.1.2, 3.0.4, 2.7.6, 2.6.10 с устранением уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/korrektiruyuschie-vypuski-ruby-3-1-2-3-0-4-2-7-6-2-6-10-s-ustraneniem-uyazvimostey-20220412-233502/</link>
