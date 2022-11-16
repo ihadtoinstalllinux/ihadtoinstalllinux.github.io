@@ -6,7 +6,17 @@
     <description>Recent content in UEFI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Две уязвимости в GRUB2, позволяющие обойти защиту UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dve-uyazvimosti-v-grub2-pozvolyayuschie-oboyti-zaschitu-uefi-secure-boot-20221117-003503/</link>
+      <pubDate>Thu, 17 Nov 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dve-uyazvimosti-v-grub2-pozvolyayuschie-oboyti-zaschitu-uefi-secure-boot-20221117-003503/</guid>
+      <description>Раскрыты сведения о двух уязвимостях в загрузчике GRUB2, которые могут привести к выполнению кода при использовании специально оформленных шрифтов и обработке определённых Unicode-последовательностей. Уязвимости могут использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot.
+https://www.opennet.ru/opennews/art.shtml?num=58130</description>
+    </item>
+    
     <item>
       <title>Уязвимость в прошивках UEFI, позволяющая выполнить код на уровне SMM </title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-proshivkah-uefi-pozvolyayuschaya-vypolnit-kod-na-urovne-smm-20221109-013503/</link>
