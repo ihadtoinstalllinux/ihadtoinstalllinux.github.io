@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nintendo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nintendo/</link>
+    <description>Recent content in Nintendo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nintendo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Yuzu развивает открытый эмулятор игровой приставки Nintendo Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-yuzu-razvivaet-otkrytyy-emulyator-igrovoy-pristavki-nintendo-switch-20221108-133502/</link>
+      <pubDate>Tue, 08 Nov 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-yuzu-razvivaet-otkrytyy-emulyator-igrovoy-pristavki-nintendo-switch-20221108-133502/</guid>
+      <description>Представлено обновление проекта Yuzu с реализацией эмулятора игровой приставки Nintendo Switch, способного выполнять коммерческие игры, поставляемые для данной платформы. Проект основан разработчиками Citra, эмулятора приставки Nintendo 3DS. Разработка ведётся путём обратного инжиниринга оборудование и прошивки Nintendo Switch. Код Yuzu написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки подготовлены для Linux (flatpak) и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=58066</description>
+    </item>
+    
+    <item>
+      <title>Открыт код Cemu, эмулятора игровой консоли Nintendo Wii U </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-cemu-emulyatora-igrovoy-konsoli-nintendo-wii-u-20220824-213503/</link>
+      <pubDate>Wed, 24 Aug 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-cemu-emulyatora-igrovoy-konsoli-nintendo-wii-u-20220824-213503/</guid>
+      <description>Представлен выпуск эмулятора Cemu 2.0, позволяющего на обычных ПК запускать игры и приложения, созданные для игровой приставки Nintendo Wii U. Выпуск примечателен открытием исходных текстов проекта и переходом на открытую модель разработки, а также обеспечением поддержки платформы Linux. Код написан на С++ и открыт под свободной лицензией MPL 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57674</description>
+    </item>
+    
+  </channel>
+</rss>

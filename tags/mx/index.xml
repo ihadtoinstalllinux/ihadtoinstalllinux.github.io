@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mx/</link>
+    <description>Recent content in MX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива MX Linux 21.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-21-2-20220829-193502/</link>
+      <pubDate>Mon, 29 Aug 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-21-2-20220829-193502/</guid>
+      <description>Представлен релиз легковесного дистрибутива MX Linux 21.2, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки (1.8 ГБ, x86_64, i386) с рабочим столом Xfce, а также 64-разрядные сборки (2.4 ГБ) с рабочим столом KDE и минималистичные сборки (1.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива MX Linux 21.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-21-1-20220410-123502/</link>
+      <pubDate>Sun, 10 Apr 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-21-1-20220410-123502/</guid>
+      <description>Состоялся релиз легковесного дистрибутива MX Linux 21.1, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки, размером 1.9 ГБ (x86_64, i386) с рабочим столом Xfce, а также 64-разрядные сборки с рабочим столом KDE.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован AV Linux MX-21, дистрибутив для создания аудио- и видеоконтента </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-av-linux-mx-21-distributiv-dlya-sozdaniya-audio-i-videokontenta-20220215-123503/</link>
+      <pubDate>Tue, 15 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-av-linux-mx-21-distributiv-dlya-sozdaniya-audio-i-videokontenta-20220215-123503/</guid>
+      <description>Доступен дистрибутив AV Linux MX-21, содержащий подборку приложений для создания/обработки мультимедийного контента. Дистрибутив основан на пакетной базе проекта MX Linux и дополнительных пакетов собственной сборки (Polyphone, Shuriken, Simple Screen Recorder и т.п.). Дистрибутив может функционировать в Live-режиме и доступен для архитектуры x86_64 (3.4 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=56700</description>
+    </item>
+    
+  </channel>
+</rss>

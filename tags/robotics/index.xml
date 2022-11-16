@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robotics on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora Linux 37 намечено прекращение поддержки spin-сборок Robotics, Games и Security</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-37-namecheno-prekraschenie-podderzhki-spin-sborok-robotics-games-i-security-20220727-173503/</link>
+      <pubDate>Wed, 27 Jul 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-37-namecheno-prekraschenie-podderzhki-spin-sborok-robotics-games-i-security-20220727-173503/</guid>
+      <description>Бен Коттон (Ben Cotton), занимающий в компании Red Hat должность Fedora Program Manager, объявил о намерении прекратить формирование альтернативных live-сборок дистрибутива - Robotics Spin (окружение с приложениями и симуляторами для разработчиков роботов), Games Spin (окружение с подборкой игр) и Security Spin (окружения с набором инструментов для проверки безопасности), из-за прекращения выхода на связь сопровождающих или нежелания сопровождающих продолжить разработку. В случае если появятся желающие взять сопровождение указанных сборок в свои руки, их поставка будет продолжена (в настоящее время уже нашлись претенденты, готовые продолжить сопровождение редакций Security и Games).</description>
+    </item>
+    
+  </channel>
+</rss>

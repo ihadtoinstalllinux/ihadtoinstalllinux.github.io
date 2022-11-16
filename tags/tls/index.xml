@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TLS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tls/</link>
+    <description>Recent content in TLS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 21:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ОС РОСА «ХРОМ» и ROSA FRESH поддерживают российские SSL- и TLS- сертификаты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/os-rosa-hrom-i-rosa-fresh-podderzhivayut-rossiyskie-ssl-i-tls-sertifikaty-20221025-213528/</link>
+      <pubDate>Tue, 25 Oct 2022 21:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/os-rosa-hrom-i-rosa-fresh-podderzhivayut-rossiyskie-ssl-i-tls-sertifikaty-20221025-213528/</guid>
+      <description>НТЦ ИТ РОСА обеспечит своих пользователей операционными системами, устойчивыми к санкциям. В начале марта 2022 г. международные компании, которые выдают SSL- и TLS-сертификаты безопасности для сайтов, покинули Россию или перестали работать с ней. Западные поставщики заявили о прекращении выпуска сертификатов или продлении их действия для российских сайтов. Одними из первых с проблемой столкнулись российские банки, […]
+https://www.rosalinux.ru/os-rosa-hrom-i-rosa-fresh-podderzhivayut-rossijskie-ssl-i-tls-sertifikaty/</description>
+    </item>
+    
+    <item>
+      <title>В РФ началось продвижение собственного корневого TLS-сертификата</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rf-nachalos-prodvizhenie-sobstvennogo-kornevogo-tls-sertifikata-20220310-103502/</link>
+      <pubDate>Thu, 10 Mar 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rf-nachalos-prodvizhenie-sobstvennogo-kornevogo-tls-sertifikata-20220310-103502/</guid>
+      <description>Пользователи портала государственных услуг Российской Федерации (gosuslugi.ru) получили уведомление о создании государственного удостоверяющего цента со своим корневым TLS-сертификатом, не включённым в хранилища корневых сертификатов операционных систем и основных браузеров. Cертификаты выдаются на добровольной основе юридическим лицам и нацелены на использование в ситуации отзыва или прекращения продления TLS-сертификатов в результате санкций. Например, удостоверяющие центры, находящиеся в юрисдикции США, такие как DigiCert, прекратили предоставление сертификатов для сайтов организаций, входящих в санкционный список.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DNS-сервера BIND 9.18.0 с поддержкой DNS-over-TLS и DNS-over-HTTPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-18-0-s-podderzhkoy-dns-over-tls-i-dns-over-https-20220127-153503/</link>
+      <pubDate>Thu, 27 Jan 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-18-0-s-podderzhkoy-dns-over-tls-i-dns-over-https-20220127-153503/</guid>
+      <description>После двух лет разработки консорциум ISC представил первый стабильный релиз новой значительной ветки DNS-сервера BIND 9.18. Поддержка ветки 9.18 будет осуществляться в течение трёх лет до 2 квартала 2025 года в рамках расширенного цикла сопровождения. Обновления для прошлой LTS-ветки 9.11 продолжат выпускаться до декабря 2021 года. Поддержка ветки 9.11 прекратится в марте, а ветки 9.16 в середине 2023 года. Для развития функциональности следующей стабильной версии BIND сформирована экспериментальная ветка BIND 9.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt отзывает 2 млн сертификатов из-за проблем в реализации TLS-ALPN-01</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-otzyvaet-2-mln-sertifikatov-iz-za-problem-v-realizacii-tls-alpn-01-20220127-133503/</link>
+      <pubDate>Thu, 27 Jan 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-otzyvaet-2-mln-sertifikatov-iz-za-problem-v-realizacii-tls-alpn-01-20220127-133503/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, объявил о досрочном отзыве около двух миллионов TLS-сертификатов, что составляет около 1% от всех активных сертификатов данного удостоверяющего центра. Отзыв сертификатов инициирован из-за выявления несоответствия требованиям спецификации в применяемом в Let&amp;rsquo;s Encrypt коде с реализацией расширения TLS-ALPN-01 (RFC 7301, Application-Layer Protocol Negotiation). Несоответствие было связано с отсутствием некоторых проверок, выполняемых в процессе согласования соединений на базе TLS-расширения ALPN, применяемого в HTTP/2.</description>
+    </item>
+    
+  </channel>
+</rss>

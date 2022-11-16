@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maui on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/maui/</link>
+    <description>Recent content in Maui on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/maui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Nitrux 2.4. Продолжение развития пользовательской оболочки Maui</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-4-prodolzhenie-razvitiya-polzovatelskoy-obolochki-maui-20220902-143503/</link>
+      <pubDate>Fri, 02 Sep 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-4-prodolzhenie-razvitiya-polzovatelskoy-obolochki-maui-20220902-143503/</guid>
+      <description>Опубликован выпуск дистрибутива Nitrux 2.4.0, а также новый выпуск связанной с ним библиотеки MauiKit 2.2.0 с компонентами для построения интерфейсов пользователя. Дистрибутив построен на пакетной базе Debian, технологиях KDE и системе инициализации OpenRC. Проект предлагает собственный рабочий стол NX Desktop, который представляет собой надстройку над пользовательским окружением KDE Plasma. На основе библиотеки Maui развивается набор типовых пользовательских приложений, которые можно использовать как на настольных системах, так и на мобильных устройствах. Для установки дополнительных приложений продвигается система самодостаточных пакетов AppImages.</description>
+    </item>
+    
+    <item>
+      <title>Первый альфа-выпуск пользовательского окружения Maui Shell </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-polzovatelskogo-okruzheniya-maui-shell-20220405-143503/</link>
+      <pubDate>Tue, 05 Apr 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-polzovatelskogo-okruzheniya-maui-shell-20220405-143503/</guid>
+      <description>Разработчики проекта Nitrux представили первый альфа выпуск пользовательского окружения Maui Shell, развиваемого в соответствии с концепцией &amp;ldquo;Convergence&amp;rdquo;, подразумевающей возможность работы с одними и теми же приложениями как на сенсорных экранах смартфона и планшета, так и на больших экранах ноутбуков и ПК. Maui Shell автоматически адаптируется к размеру экрана и доступным методам ввода информации, и может применяться не только на настольных системах, но и на смартфонах и планшетах. Код проекта написан на языках C++ и QML, и распространяется под лицензией LGPL 3.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dahliaOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dahliaos/</link>
+    <description>Recent content in dahliaOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Feb 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dahliaos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна операционная система dahliaOS 220222, сочетающая технологии Linux и Fuchsia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-dahliaos-220222-sochetayuschaya-tehnologii-linux-i-fuchsia-20220225-133502/</link>
+      <pubDate>Fri, 25 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-dahliaos-220222-sochetayuschaya-tehnologii-linux-i-fuchsia-20220225-133502/</guid>
+      <description>После более года разработки опубликован новый выпуск операционной системы dahliaOS 220222, комбинирующей технологии из GNU/Linux и ОС Fuchsia. Наработки проекта написаны на языке Dart и распространяются под лицензией Apache 2.0. Сборки dahliaOS формируются в двух вариантах - для систем с UEFI (675 МБ) и старых систем/виртуальных машин (437 МБ). Базовый дистрибутив dahliaOS собирается на базе ядра Linux и типового системного окружения GNU. Параллельно развиваются сборки на базе микроядра Zircon и окружения из ОС Fuchsia, которые доступны для Raspberry Pi 4, msm8917 и некоторых других устройств.</description>
+    </item>
+    
+  </channel>
+</rss>

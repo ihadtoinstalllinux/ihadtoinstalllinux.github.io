@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WASM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wasm/</link>
+    <description>Recent content in WASM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wasm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В SQLite добавлена поддержка WASM для использования СУБД в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-sqlite-dobavlena-podderzhka-wasm-dlya-ispolzovaniya-subd-v-web-brauzere-20221029-223503/</link>
+      <pubDate>Sat, 29 Oct 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-sqlite-dobavlena-podderzhka-wasm-dlya-ispolzovaniya-subd-v-web-brauzere-20221029-223503/</guid>
+      <description>Разработчики SQLite развивают проект по реализации возможности компиляции библиотеки в промежуточный код WebAssembly, способный запускаться в web-браузере и пригодный для организации работы с БД из web-приложений на языке JavaScript. Код для поддержки WebAssembly добавлен в основной репозиторий проекта. В отличие от API WebSQL, в основе которого лежит SQLite, WASM SQLite полностью изолирован от браузера и не влияет на его безопасность (Google решил отказаться от поддержки WebSQL в Chrome после нескольких уязвимостей в SQLite, которые можно было эксплуатировать через WebSQL для атаки на браузер).</description>
+    </item>
+    
+    <item>
+      <title>Проект Postgres WASM подготовил работающее в браузере окружение с СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</link>
+      <pubDate>Mon, 03 Oct 2022 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</guid>
+      <description>Открыты наработки проекта Postgres WASM, развивающего окружение с СУБД PostgreSQL, работающее внутри браузера. Связанный с проектом код открыт под лицензией MIT. В том числе предлагается инструментарий для сборки работающей в браузере виртуальной машины c урезанным Linux-окружением, сервером PostgreSQL 14.5 и сопутствующими утилитами (psql, pg_dump). Размер итоговой сборки около 30 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=57863</description>
+    </item>
+    
+  </channel>
+</rss>

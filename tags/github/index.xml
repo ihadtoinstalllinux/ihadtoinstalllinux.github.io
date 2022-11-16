@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/github/</link>
+    <description>Recent content in GitHub on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub опубликовал статистику за 2022 год и представил программу грантов открытым проектам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-statistiku-za-2022-god-i-predstavil-programmu-grantov-otkrytym-proektam-20221111-183502/</link>
+      <pubDate>Fri, 11 Nov 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-statistiku-za-2022-god-i-predstavil-programmu-grantov-otkrytym-proektam-20221111-183502/</guid>
+      <description>GitHub опубликовал отчёт с анализом статистики за 2022 год. Основные тенденции.
+https://www.opennet.ru/opennews/art.shtml?num=58093</description>
+    </item>
+    
+    <item>
+      <title>Судебное разбирательство против Microsoft и OpenAI, связанное с генератором кода GitHub Copilot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sudebnoe-razbiratelstvo-protiv-microsoft-i-openai-svyazannoe-s-generatorom-koda-github-cop-20221106-143503/</link>
+      <pubDate>Sun, 06 Nov 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sudebnoe-razbiratelstvo-protiv-microsoft-i-openai-svyazannoe-s-generatorom-koda-github-cop-20221106-143503/</guid>
+      <description>Мэтью Баттерик (Matthew Butterick), разрабатывающий открытые проекты для типографики, и юридическая компания Joseph Saveri Law Firm, инициировали судебное разбирательство (PDF) против производителей технологий, используемых в сервисе GitHub Copilot. Среди ответчиков Microsoft, GitHub и компании, курирующие проект OpenAI, подготовивший модель генерации кода OpenAI Codex, которая лежит в основе GitHub Copilot. В ходе разбирательства предпринята попытка привлечь суд к определению степени законности создания сервисов, подобных GitHub Copilot, и выяснению, нарушают ли такие сервисы права других разработчиков.</description>
+    </item>
+    
+    <item>
+      <title>Анализ наличия вредоносного кода в эксплоитах, опубликованных на GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/analiz-nalichiya-vredonosnogo-koda-v-eksploitah-opublikovannyh-na-github-20221024-113503/</link>
+      <pubDate>Mon, 24 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/analiz-nalichiya-vredonosnogo-koda-v-eksploitah-opublikovannyh-na-github-20221024-113503/</guid>
+      <description>Исследователи из Лейденского университета (Нидерланды) изучили вопрос размещения на GitHub фиктивных прототипов эксплоитов, содержащих вредоносный код для атаки на пользователей, попытавшихся использовать эксплоит для проверки наличия уязвимости. Всего было проанализировано 47313 репозиториев с эксплоитами, охватывающих известные уязвимости, выявленные с 2017 по 2021 год. Анализ эксплоитов показал, что в 4893 (10.3%) из них присутствует код, совершающий вредоносные действия. Пользователям, решившим воспользоваться публикуемыми эксплоитами рекомендуется предварительно изучить их на предмет наличия подозрительных вставок и запускать только в изолированных виртуальных машинах.</description>
+    </item>
+    
+    <item>
+      <title>GitHub реализовал поддержку токенов для предоставления выборочного доступа</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-realizoval-podderzhku-tokenov-dlya-predostavleniya-vyborochnogo-dostupa-20221019-153503/</link>
+      <pubDate>Wed, 19 Oct 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-realizoval-podderzhku-tokenov-dlya-predostavleniya-vyborochnogo-dostupa-20221019-153503/</guid>
+      <description>GitHub реализовал поддержку нового вида токенов доступа, которые могут выборочно определять полномочия конкретного разработчика или скрипта, охватывающие только те задачи, которые необходимы для выполнения работы. Ожидается, что выборочное предоставление доступа поможет снизить риск атак в случае компрометации учётных данных. Токены могут использоваться в скриптах для организации выборочного доступа к API GitHub и при подключении через HTTPS. Дополнительно администраторам предоставлена возможность просмотра и отзыва токенов, а также задания политик аудита и подтверждения токенов.</description>
+    </item>
+    
+    <item>
+      <title>На GitHub по ошибке опубликован ключ доступа к базе пользователей Toyota T-Connect</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-github-po-oshibke-opublikovan-klyuch-dostupa-k-baze-polzovateley-toyota-t-connect-20221012-123503/</link>
+      <pubDate>Wed, 12 Oct 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-github-po-oshibke-opublikovan-klyuch-dostupa-k-baze-polzovateley-toyota-t-connect-20221012-123503/</guid>
+      <description>Автомобилестроительная корпорация Toyota раскрыла сведения о возможной утечке базы пользователей мобильного приложения T-Connect, позволяющего интегрировать свой смартфон с информационной системой автомобиля. Инцидент вызван публикацией на GitHub части исходных текстов сайта T-Connect, в которых оказался ключ доступа к серверу, хранящему персональные данные клиентов. Код по ошибке был опубликован в публичном репозитории в 2017 году и до середины сентября 2022 года утечка оставалась незамеченной.
+https://www.opennet.ru/opennews/art.shtml?num=57906</description>
+    </item>
+    
+    <item>
+      <title>GitHub добавил поддержку отслеживания уязвимостей в проектах на языке Dart</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-dobavil-podderzhku-otslezhivaniya-uyazvimostey-v-proektah-na-yazyke-dart-20221007-083506/</link>
+      <pubDate>Fri, 07 Oct 2022 08:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-dobavil-podderzhku-otslezhivaniya-uyazvimostey-v-proektah-na-yazyke-dart-20221007-083506/</guid>
+      <description>Компания GitHub объявила о добавлении поддержки языка Dart в сервисы для отслеживания уязвимостей в пакетах, содержащих код на языке Dart. Поддержка Dart и фреймворка Flutter в том числе добавлена в каталог GitHub Advisory Database, в котором публикуются сведения об уязвимостях, затрагивающих проекты, размещённые на GitHub, а также выполняется отслеживание проблем в пакетах, связанных зависимостями с уязвимым кодом.
+https://www.opennet.ru/opennews/art.shtml?num=57881</description>
+    </item>
+    
+    <item>
+      <title>GitHub опубликовал отчёт о блокировках за первую половину 2022 года </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-otchet-o-blokirovkah-za-pervuyu-polovinu-2022-goda-20220817-233505/</link>
+      <pubDate>Wed, 17 Aug 2022 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-otchet-o-blokirovkah-za-pervuyu-polovinu-2022-goda-20220817-233505/</guid>
+      <description>GitHub опубликовал отчёт, в котором отражены уведомления о нарушении интеллектуальной собственности и публикации незаконного содержимого, поступившие за первую половину 2022 года. Ранее подобные отчёты публиковались ежегодно, но теперь GitHub перешёл на раскрытие информации раз в полугодие. В соответствии с действующим в США Законом об авторском праве в цифровую эпоху (DMCA, Digital Millennium Copyright Act), в первой половине 2022 года GitHub получил 1200 требований о блокировке. От владельцев репозиториев поступило 20 опровержений на неправомерную блокировку.</description>
+    </item>
+    
+    <item>
+      <title>На GitHub зафиксирована волна форков с вредоносными изменениями</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-github-zafiksirovana-volna-forkov-s-vredonosnymi-izmeneniyami-20220804-163503/</link>
+      <pubDate>Thu, 04 Aug 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-github-zafiksirovana-volna-forkov-s-vredonosnymi-izmeneniyami-20220804-163503/</guid>
+      <description>В GitHub выявили активность по массовому созданию форков и клонов популярных проектов, с внедрением в копии вредоносных изменений, включающих бэкдор. Поиск по имени хоста (ovz1.j19544519.pr46m.vps.myjino.ru), к которому осуществляется обращение из вредоносного кода, показал наличие в GitHub более 35 тысяч изменений, присутствующих в клонах и форках различных репозиториев, включая форки проектов crypto, golang, python, js, bash, docker и k8s.
+https://www.opennet.ru/opennews/art.shtml?num=57596</description>
+    </item>
+    
+    <item>
+      <title>Организация SFC призвала открытые проекты прекратить использовать GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/organizaciya-sfc-prizvala-otkrytye-proekty-prekratit-ispolzovat-github-20220704-123502/</link>
+      <pubDate>Mon, 04 Jul 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/organizaciya-sfc-prizvala-otkrytye-proekty-prekratit-ispolzovat-github-20220704-123502/</guid>
+      <description>Правозащитная организация Software Freedom Conservancy (SFC), предоставляющая юридическую защиту свободным проектам и отстаивающая необходимость соблюдения лицензии GPL, объявила о прекращении любого использования платформы для совместной разработки кода GitHub и призвала разработчиков других открытых проектов последовать своему примеру. Организация также запустила инициативу, нацеленную на упрощение миграции проектов с GitHub на более открытые альтернативы, например, CodeBerg (на базе Gitea) и SourceHut, или внедрение на своих серверах собственных сервисов разработки, основанных на открытых платформах, таких как Gitea или GitLab Community Edition.</description>
+    </item>
+    
+    <item>
+      <title>GitHub ввёл в строй систему машинного обучения Copilot, генерирующую код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-vvel-v-stroy-sistemu-mashinnogo-obucheniya-copilot-generiruyuschuyu-kod-20220622-143502/</link>
+      <pubDate>Wed, 22 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-vvel-v-stroy-sistemu-mashinnogo-obucheniya-copilot-generiruyuschuyu-kod-20220622-143502/</guid>
+      <description>GitHub объявил о завершении тестирования интеллектуального помощника GitHub Copilot, способного генерировать типовые конструкции при написании кода. Система разработана совместно с проектом OpenAI и использует платформу машинного обучения OpenAI Codex, натренированную на большом массиве исходных текстов, размещённых в публичных репозиториях GitHub. Сервис бесплатен для сопровождающих популярных открытых проектов и студентов. Для остальных категорий пользователей доступ к GitHub Copilot платный ($10 в месяц или $100 в год), но предоставляется бесплатный ознакомительный доступ к течение 60 дней.</description>
+    </item>
+    
+    <item>
+      <title>GitHub сворачивает разработку редактора кода Atom</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-svorachivaet-razrabotku-redaktora-koda-atom-20220608-233503/</link>
+      <pubDate>Wed, 08 Jun 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-svorachivaet-razrabotku-redaktora-koda-atom-20220608-233503/</guid>
+      <description>Компания GitHub объявила о прекращении разработки редактора кода Atom. 15 декабря этого года все проекты в репозиториях Atom будут переведены в архивный режим и станут доступны только для чтения. Вместо Atom компания GitHub намерена сосредоточить своё внимание на более популярном открытом редакторе Microsoft Visual Studio Code (VS Code), который в своё время был создан как надстройка над Atom, и основанной на VS Code облачной среде разработки GitHub Codespaces. Код редактора распространяется под лицензией MIT и желающие продолжить разработку могут воспользоваться возможностью создания форка.</description>
+    </item>
+    
+    <item>
+      <title>GitHub раскрыл данные о взломе инфраструктуры NPM и выявлении открытых паролей в логах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-raskryl-dannye-o-vzlome-infrastruktury-npm-i-vyyavlenii-otkrytyh-paroley-v-logah-20220527-213503/</link>
+      <pubDate>Fri, 27 May 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-raskryl-dannye-o-vzlome-infrastruktury-npm-i-vyyavlenii-otkrytyh-paroley-v-logah-20220527-213503/</guid>
+      <description>Компания GitHub опубликовала результаты разбора атаки, в результате которой 12 апреля злоумышленники получили доступ к облачным окружениям в сервисе Amazon AWS, используемым в инфраструктуре проекта NPM. Анализ инцидента показал, что атакующие получили доступ к резервным копиям хоста skimdb.npmjs.com и в том числе к резервной копии БД с учётными данными примерно 100 тысяч пользователей NPM по состоянию на 2015 год, включающим хэши паролей, имена и email.
+https://www.opennet.ru/opennews/art.shtml?num=57263</description>
+    </item>
+    
+    <item>
+      <title>GitHub переходит на использование обязательной двухфакторной аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-perehodit-na-ispolzovanie-obyazatelnoy-dvuhfaktornoy-autentifikacii-20220505-133502/</link>
+      <pubDate>Thu, 05 May 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-perehodit-na-ispolzovanie-obyazatelnoy-dvuhfaktornoy-autentifikacii-20220505-133502/</guid>
+      <description>Компания GitHub объявила о решении до конца 2023 года перевести всех пользователей сервиса GitHub.com, участвующих в разработке кода, на обязательное использование двухфакторной аутентификации (2FA). По мнению GitHub получение злоумышленниками доступа к репозиториям в результате захвата учётных записей является одной из наиболее опасных угроз, так как в случае успешной атаки может быть осуществлена подстановка скрытых изменений в популярные продукты и библиотеки, используемые в качестве зависимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57137</description>
+    </item>
+    
+    <item>
+      <title>GitHub обновил правила, касающиеся торговых санкций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pravila-kasayuschiesya-torgovyh-sankciy-20220430-133502/</link>
+      <pubDate>Sat, 30 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pravila-kasayuschiesya-torgovyh-sankciy-20220430-133502/</guid>
+      <description>GitHub внёс изменения в документ, определяющий политику компании в отношении торговых санкций и выполнения требований законодательства США в области регулирования экспорта. Первое изменение сводятся к включению России и Беларуси в список стран, в которых недопускаются продажи продукта GitHub Enterprise Server. Ранее в данный список входили Куба, Иран, Северная Корея и Сирия.
+https://www.opennet.ru/opennews/art.shtml?num=57111</description>
+    </item>
+    
+    <item>
+      <title>Выпуск СУБД libmdbx 0.11.7. Перенос разработки на GitFlic после блокировки в GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-libmdbx-0-11-7-perenos-razrabotki-na-gitflic-posle-blokirovki-v-github-20220425-103503/</link>
+      <pubDate>Mon, 25 Apr 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-libmdbx-0-11-7-perenos-razrabotki-na-gitflic-posle-blokirovki-v-github-20220425-103503/</guid>
+      <description>Состоялся выпуск библиотеки libmdbx 0.11.7 (MDBX) с реализацией высокопроизводительной компактной встраиваемой базы данных класса ключ-значение. Код libmdbx распространяется под лицензией OpenLDAP Public License. Поддерживаются все актуальные операционные системы и архитектуры, а также российский Эльбрус 2000.
+https://www.opennet.ru/opennews/art.shtml?num=57077</description>
+    </item>
+    
+    <item>
+      <title>GitHub заблокировал репозиторий SymPy после ложной жалобы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-zablokiroval-repozitoriy-sympy-posle-lozhnoy-zhaloby-20220422-143507/</link>
+      <pubDate>Fri, 22 Apr 2022 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-zablokiroval-repozitoriy-sympy-posle-lozhnoy-zhaloby-20220422-143507/</guid>
+      <description>GitHub заблокировал репозиторий c официальной документацией проекта SymPy и размещённый на серверах GitHub сайт docs.sympy.org после получения жалобы о нарушении авторских прав компании HackerRank, специализирующейся на проведении конкурсов среди разработчиков и найме программистов. Блокировка произведена на основании действующего в США Закона об авторском праве в цифровую эпоху (DMCA) после поступления жалобы от Ассоциации звукозаписывающих компаний Америки (RIAA).
+https://www.opennet.ru/opennews/art.shtml?num=57067</description>
+    </item>
+    
+    <item>
+      <title>Атака на GitHub, приведшая к утечке приватных репозиториев и доступу к инфраструктуре NPM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-github-privedshaya-k-utechke-privatnyh-repozitoriev-i-dostupu-k-infrastrukture-np-20220416-143502/</link>
+      <pubDate>Sat, 16 Apr 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-github-privedshaya-k-utechke-privatnyh-repozitoriev-i-dostupu-k-infrastrukture-np-20220416-143502/</guid>
+      <description>GitHub предупредил пользователей об атаке, нацеленной на загрузку данных из приватных репозиториев с использованием скомпрометированных токенов OAuth, сгенерированных для сервисов Heroku и Travis-CI. Сообщается, что в ходе атаки произошла утечка данных из приватных репозиториев некоторых организаций, открывших доступ к репозиториям для PaaS-платформы Heroku и системы непрерывной интеграции Travis-CI. В числе пострадавших оказалась компания GitHub и проект NPM.
+https://www.opennet.ru/opennews/art.shtml?num=57025</description>
+    </item>
+    
+    <item>
+      <title>GitHub реализовал возможность упреждающей блокировки утечек токенов к API</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</link>
+      <pubDate>Tue, 05 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</guid>
+      <description>GitHub объявил об усилении защиты от попадания в репозитории конфиденциальных данных, по недосмотру оставленных разработчиками в коде. Например, случается, что в репозиторий попадают файлы конфигурации с паролями к СУБД, токены или ключи доступа к API.
+https://www.opennet.ru/opennews/art.shtml?num=56968</description>
+    </item>
+    
+    <item>
+      <title>GitHub внедрил систему машинного обучения для поиска уязвимостей в коде</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-vnedril-sistemu-mashinnogo-obucheniya-dlya-poiska-uyazvimostey-v-kode-20220218-123502/</link>
+      <pubDate>Fri, 18 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-vnedril-sistemu-mashinnogo-obucheniya-dlya-poiska-uyazvimostey-v-kode-20220218-123502/</guid>
+      <description>GitHub объявил о добавлении в сервис Code scanning экспериментальной системы машинного обучения для выявления распространённых типов язвимостей в коде. На этапе тестирования новая функциональность пока доступна только для репозиториев с кодом на языках JavaScript и TypeScript. Отмечается, что применение системы машинного обучения позволило заметно расширить спектр выявляемых проблем, при анализе которых система теперь не ограничивается проверкой типовых шаблонов и не привязывается к известным фреймворкам. Из выявляемых новой системой проблем упоминаются ошибки, приводящие к межсайтовому скриптингу (XSS), искажению файловых путей (например, через указание &amp;ldquo;/.</description>
+    </item>
+    
+  </channel>
+</rss>

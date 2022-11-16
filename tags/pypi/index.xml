@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PyPI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pypi/</link>
+    <description>Recent content in PyPI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pypi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В репозитории PyPI выявлены вредоносные пакеты, нацеленные на кражу криптовалюты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-pypi-vyyavleny-vredonosnye-pakety-nacelennye-na-krazhu-kriptovalyuty-20221108-163502/</link>
+      <pubDate>Tue, 08 Nov 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-pypi-vyyavleny-vredonosnye-pakety-nacelennye-na-krazhu-kriptovalyuty-20221108-163502/</guid>
+      <description>В каталоге PyPI (Python Package Index) выявлено 26 вредоносных пакетов, содержащих в скрипте setup.py обфусцированный код, определяющий наличие идентификаторов криптокошельков в буфере обмена и меняющий их на кошелёк злоумышленника (предполагается, что при совершении оплаты жертва не заметит, что перенесённый через буфер обмена номер кошелька отличается).
+https://www.opennet.ru/opennews/art.shtml?num=58067</description>
+    </item>
+    
+    <item>
+      <title>Внедрение двухфакторной аутентификации в PyPI привело к инциденту с удалением популярного пакета</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vnedrenie-dvuhfaktornoy-autentifikacii-v-pypi-privelo-k-incidentu-s-udaleniem-populyarnogo-20220710-113502/</link>
+      <pubDate>Sun, 10 Jul 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vnedrenie-dvuhfaktornoy-autentifikacii-v-pypi-privelo-k-incidentu-s-udaleniem-populyarnogo-20220710-113502/</guid>
+      <description>Разработчики репозитория Python-пакетов PyPI опубликовали план перехода на обязательную двухфакторную аутентификацию для пакетов, входящих в категорию критически важных. Важность определяется по числу загрузок и изменение будет применено к учётным записям сопровождающих и владельцев проектов, связанных с 1% пакетов, лидирующих по числу загрузок за 6 месяцев. С учётом, что в настоящее время репоизторий PyPI включает более 350 тысяч пакетов, двухфакторная аутентификация будет применена примерно для 3500 пакетов. Для проверки попадание учётной записи в список подотовлена.</description>
+    </item>
+    
+    <item>
+      <title>В каталоге Python-пакетов PyPI выявлена вредоносная библиотека pymafka</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kataloge-python-paketov-pypi-vyyavlena-vredonosnaya-biblioteka-pymafka-20220522-113502/</link>
+      <pubDate>Sun, 22 May 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kataloge-python-paketov-pypi-vyyavlena-vredonosnaya-biblioteka-pymafka-20220522-113502/</guid>
+      <description>В каталоге PyPI (Python Package Index) выявлена библиотека pymafka, содержащая вредоносный код. Библиотека распространялась с именем, похожим на популярный пакет pykafka с расчётом на то, что невнимательные пользователи перепутают подставной пакет с основным проектом (тайпсквоттинг). Вредоносный пакет был размещён 17 мая и до блокировки был загружен 325 раз.
+https://www.opennet.ru/opennews/art.shtml?num=57232</description>
+    </item>
+    
+    <item>
+      <title>Опубликован анализатор, выявивший 200 вредоносных пакетов в NPM и PyPI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-analizator-vyyavivshiy-200-vredonosnyh-paketov-v-npm-i-pypi-20220502-173503/</link>
+      <pubDate>Mon, 02 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-analizator-vyyavivshiy-200-vredonosnyh-paketov-v-npm-i-pypi-20220502-173503/</guid>
+      <description>Фонд OpenSSF (Open Source Security Foundation), сформированный организацией Linux Foundation и нацеленный на повышение безопасности открытого ПО, представил открытый проект Package Analysis, развивающий систему анализа наличия вредоносного кода в пакетах. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0. Предварительное сканирование рпозиториев NPM и PyPI при помощи предложенного инструментария позволило выявить более 200 ранее не замеченных вредоносных пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=57123</description>
+    </item>
+    
+  </channel>
+</rss>

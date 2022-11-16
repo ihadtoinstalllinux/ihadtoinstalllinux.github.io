@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VPN on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vpn/</link>
+    <description>Recent content in VPN on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В кодовую базу FreeBSD добавлена новая реализация VPN WireGuard</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kodovuyu-bazu-freebsd-dobavlena-novaya-realizaciya-vpn-wireguard-20221030-133503/</link>
+      <pubDate>Sun, 30 Oct 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kodovuyu-bazu-freebsd-dobavlena-novaya-realizaciya-vpn-wireguard-20221030-133503/</guid>
+      <description>В дерево исходных текстов FreeBSD приняты изменения с новой реализацией VPN WireGuard, основанной на коде модуля ядра, совместно подготовленного основными командами разработчиков FreeBSD и WireGuard при участии Джейсона Доненфилда (Jason A. Donenfeld), автора VPN WireGuard, и Джона Болдуина (John H. Baldwin), известного разработчика GDB и FreeBSD, в начале 2000-х годов реализовавшего поддержку SMP и NUMA в ядре FreeBSD. После принятия драйвера в состав FreeBSD (sys/dev/wg), его разработка и сопровождение отныне будет вестись в репозитории FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>В браузер Microsoft Edge встроен VPN </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-brauzer-microsoft-edge-vstroen-vpn-20221001-133503/</link>
+      <pubDate>Sat, 01 Oct 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-brauzer-microsoft-edge-vstroen-vpn-20221001-133503/</guid>
+      <description>Компания Microsoft начала тестирование Privacy, search and services&amp;quot;. Сервис развивается при участии компании Cloudflare, серверные мощности которой используются для построения сети передачи данных.
+https://www.opennet.ru/opennews/art.shtml?num=57854</description>
+    </item>
+    
+    <item>
+      <title>В Play Store будут ограничены возможности VPN-приложений, фильтрующих трафик и рекламу</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-play-store-budut-ogranicheny-vozmozhnosti-vpn-prilozheniy-filtruyuschih-trafik-i-reklamu-20220830-153503/</link>
+      <pubDate>Tue, 30 Aug 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-play-store-budut-ogranicheny-vozmozhnosti-vpn-prilozheniy-filtruyuschih-trafik-i-reklamu-20220830-153503/</guid>
+      <description>Компания Google внесла изменения в правила каталога Play Store, которые ограничивают предоставляемый платформой API VpnService. Новые правила запрещают использование VpnService для фильтрации трафика других приложений с целью монетизации, скрытого сбора персональных и конфиденциальных данных и любых манипуляций с рекламой, которые могут повлиять на монетизацию других приложений.
+https://www.opennet.ru/opennews/art.shtml?num=57698</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск проекта Weron, развивающего VPN на базе протокола WebRTC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-proekta-weron-razvivayuschego-vpn-na-baze-protokola-webrtc-20220509-013503/</link>
+      <pubDate>Mon, 09 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-proekta-weron-razvivayuschego-vpn-na-baze-protokola-webrtc-20220509-013503/</guid>
+      <description>Опубликован первый выпуск Weron VPN, позволяющего создавать оврлейные сети, объединяющие территориально разнесённые хосты в одну виртуальную сеть, узлы которой взаимодействует друг с другом напрямую (P2P). Поддерживается создание виртуальных IP-сетей (layer 3) и Ethernet-сетей (layer 2). Код проекта написан на языке Go и распространяется под лицензией AGPLv3. Готовые сборки подготовлены для Linux, FreeBSD, OpenBSD, NetBSD, Solaris, macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=57154</description>
+    </item>
+    
+  </channel>
+</rss>

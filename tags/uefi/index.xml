@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UEFI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/uefi/</link>
+    <description>Recent content in UEFI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в прошивках UEFI, позволяющая выполнить код на уровне SMM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-proshivkah-uefi-pozvolyayuschaya-vypolnit-kod-na-urovne-smm-20221109-013503/</link>
+      <pubDate>Wed, 09 Nov 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-proshivkah-uefi-pozvolyayuschaya-vypolnit-kod-na-urovne-smm-20221109-013503/</guid>
+      <description>Раскрыта информация об уязвимости (CVE-2021-33164) в прошивках UEFI, позволяющей выполнить код на уровне SMM (System Management Mode), более приоритетном, чем режим гипервизора и нулевое кольцо защиты, и предоставляющем неограниченный доступ ко всей системной памяти. Уязвимость, которая получила кодовое имя RingHopper, связана с возможностью проведения атаки по времени при помощи DMA (Direct Memory Access) для повреждения памяти в коде, выполняемом на уровне SMM. Наличие уязвимости подтверждено в прошивках Intel, Dell и Insyde Software (утверждается, что проблема затрагивает 8 производителей, но остальные 5 пока не раскрываются).</description>
+    </item>
+    
+    <item>
+      <title>Подготовлен дистрибутив Static Linux, оформленный в виде образа для UEFI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovlen-distributiv-static-linux-oformlennyy-v-vide-obraza-dlya-uefi-20221106-133503/</link>
+      <pubDate>Sun, 06 Nov 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovlen-distributiv-static-linux-oformlennyy-v-vide-obraza-dlya-uefi-20221106-133503/</guid>
+      <description>Подготовлен новый дистрибутив Static Linux, основанный Alpine Linux, musl libc и BusyBox, и примечательный поставкой в виде образа, работающего из оперативной памяти и загружаемого напрямую из UEFI. В образ входят оконный менеджер JWM, Firefox, Transmission, утилиты для восстановления данных ddrescue, testdisk, photorec. На данный момент статически собрано 210 пакетов, но в будущем их число планируют увеличить.
+https://www.opennet.ru/opennews/art.shtml?num=58056</description>
+    </item>
+    
+    <item>
+      <title>Релиз Memtest86&#43; 6.00 с подержкой UEFI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-memtest86-6-00-s-poderzhkoy-uefi-20221024-163503/</link>
+      <pubDate>Mon, 24 Oct 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-memtest86-6-00-s-poderzhkoy-uefi-20221024-163503/</guid>
+      <description>Спустя 9 лет с момента формирования прошлой значительной ветки опубликован выпуск программы для тестирования оперативной памяти MemTest86+ 6.00. Программа не привязана к операционным системам и может запускаться напрямую из прошивки BIOS/UEFI или из загрузчика для проведения полной проверки оперативной памяти. В случае выявления проблем построенная в Memtest86+ карта сбойных участков памяти может использоваться в ядре Linux для исключения проблемных областей при помощи опции memmap. Код проекта распространяется под лицензией GPLv2.</description>
+    </item>
+    
+    <item>
+      <title>Intel подтвердил подлинность утечки кода UEFI-прошивок для чипов Alder Lake</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-podtverdil-podlinnost-utechki-koda-uefi-proshivok-dlya-chipov-alder-lake-20221010-123504/</link>
+      <pubDate>Mon, 10 Oct 2022 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-podtverdil-podlinnost-utechki-koda-uefi-proshivok-dlya-chipov-alder-lake-20221010-123504/</guid>
+      <description>Компания Intel подтвердила подлинность исходных текстов UEFI-прошивок и BIOS, опубликованных неизвестным на GitHub. Всего было опубликовано 5.8 ГБ кода, утилит, документации, блобов и настроек, связанных с формированием прошивок для систем с процессорами на базе микроархитектуры Alder Lake, выпущенной в ноябре 2021 года. Наиболее свежее изменение в опубликованном коде датировано 30 сентября 2022 года.
+https://www.opennet.ru/opennews/art.shtml?num=57892</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в GRUB2, позволяющих обойти UEFI Secure Boot </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-grub2-pozvolyayuschih-oboyti-uefi-secure-boot-20220608-133502/</link>
+      <pubDate>Wed, 08 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-grub2-pozvolyayuschih-oboyti-uefi-secure-boot-20220608-133502/</guid>
+      <description>В загрузчике GRUB2 устранено 7 уязвимостей, позволяющих обойти механизм UEFI Secure Boot и добиться запуска неверифицированного кода, например, осуществить внедрение вредоносного ПО, работающего на уровне загрузчика или ядра. Дополнительно отмечается одна уязвимость в прослойке shim, которая также позволяет обойти UEFI Secure Boot. Группа уязвимостей получила кодовое имя Boothole 3, по аналогии с аналогичными проблемами, ранее выявленными в загрузчике.
+https://www.opennet.ru/opennews/art.shtml?num=57316</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 37 намерены оставить только поддержку UEFI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-namereny-ostavit-tolko-podderzhku-uefi-20220406-013502/</link>
+      <pubDate>Wed, 06 Apr 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-namereny-ostavit-tolko-podderzhku-uefi-20220406-013502/</guid>
+      <description>Для реализации в Fedora Linux 37 намечен перевод поддержки UEFI в разряд обязательных требований для установки дистрибутива на платформе x86_64. Возможность загрузки ранее установленных окружений на системах с традиционным BIOS какое-то время останется, но поддержка новых установок не в режиме UEFI будет прекращена. В Fedora 39 или более позднем выпуске поддержку BIOS рассчитывают удалить полностью. Заявка на принятие изменения в Fedora 37 опубликована Беном Коттоном (Ben Cotton), занимающим в компании Red Hat должность Fedora Program Manager.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в UEFI-прошивках на базе фреймворка InsydeH2O, позволяющие выполнить код на уровне SMM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-uefi-proshivkah-na-baze-freymvorka-insydeh2o-pozvolyayuschie-vypolnit-kod-na-20220208-123503/</link>
+      <pubDate>Tue, 08 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-uefi-proshivkah-na-baze-freymvorka-insydeh2o-pozvolyayuschie-vypolnit-kod-na-20220208-123503/</guid>
+      <description>Во фреймворке InsydeH2O, применяемом многими производителями для создания UEFI-прошивок к своему оборудованию (наиболее популярная реализация UEFI BIOS), выявлены 23 уязвимости, позволяющие выполнить код на уровне SMM (System Management Mode), более приоритетном (Ring -2), чем режим гипервизора и нулевое кольцо защиты, и имеющим неограниченный доступ ко всей памяти. Проблема затрагивает UEFI-прошивки, используемые такими производителями, как Fujitsu, Siemens, Dell, HP, HPE, Lenovo, Microsoft, Intel и Bull Atos.
+https://www.opennet.ru/opennews/art.shtml?num=56656</description>
+    </item>
+    
+  </channel>
+</rss>

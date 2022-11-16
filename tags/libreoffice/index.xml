@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LibreOffice on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libreoffice/</link>
+    <description>Recent content in LibreOffice on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2022 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в LibreOffice, позволяющая выполнить скрипт при работе с документом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libreoffice-pozvolyayuschaya-vypolnit-skript-pri-rabote-s-dokumentom-20221013-113507/</link>
+      <pubDate>Thu, 13 Oct 2022 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libreoffice-pozvolyayuschaya-vypolnit-skript-pri-rabote-s-dokumentom-20221013-113507/</guid>
+      <description>В свободном офисном пакете LibreOffice выявлена уязвимость (CVE-2022-3140), позволяющая организовать выполнение произвольных скриптов при клике на специально подготовленную ссылку в документе или при срабатывании определённого события во время работы с документом. Проблема устранена в обновлениях LibreOffice 7.3.6 и 7.4.1.
+https://www.opennet.ru/opennews/art.shtml?num=57910</description>
+    </item>
+    
+    <item>
+      <title>Началось платное распространение LibreOffice через Mac App Store</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-platnoe-rasprostranenie-libreoffice-cherez-mac-app-store-20220920-233503/</link>
+      <pubDate>Tue, 20 Sep 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-platnoe-rasprostranenie-libreoffice-cherez-mac-app-store-20220920-233503/</guid>
+      <description>Организация The Document Foundation объявила о начале распространения через каталог Mac App Store платных сборок свободного офисного пакета LibreOffice для платформы macOS.
+https://www.opennet.ru/opennews/art.shtml?num=57807</description>
+    </item>
+    
+    <item>
+      <title>Выпуск офисного пакета LibreOffice 7.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ofisnogo-paketa-libreoffice-7-4-20220818-203506/</link>
+      <pubDate>Thu, 18 Aug 2022 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ofisnogo-paketa-libreoffice-7-4-20220818-203506/</guid>
+      <description>Организация The Document Foundation представила релиз офисного пакета LibreOffice 7.4. Готовые установочные пакеты подготовлены для различных дистрибутивов Linux, Windows и macOS. В подготовке выпуска приняли участие 147 разработчиков, из которых 95 являются добровольцами. 72% изменений внесены сотрудниками трёх курирующих проект компаний - Collabora, Red Hat и Allotropia, а 28% изменений добавлены независимыми энтузиастами.
+https://www.opennet.ru/opennews/art.shtml?num=57611</description>
+    </item>
+    
+    <item>
+      <title>Увидел свет CODE 6.5, дистрибутив для развёртывания LibreOffice Online </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uvidel-svet-code-6-5-distributiv-dlya-razvertyvaniya-libreoffice-online-20220629-193502/</link>
+      <pubDate>Wed, 29 Jun 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uvidel-svet-code-6-5-distributiv-dlya-razvertyvaniya-libreoffice-online-20220629-193502/</guid>
+      <description>Компания Collabora опубликовала выпуск платформы CODE 6.5 (Collabora Online Development Edition), предлагающей специализированный дистрибутив для быстрого развёртывания LibreOffice Online и организации совместной удалённой работы с офисным пакетом через Web для достижения функциональности, похожей на Google Docs и Office 365. Дистрибутив оформлен в виде преднастроенного контейнера для системы Docker и также доступен в виде пакетов для популярных дистрибутивов Linux. Используемые в продукте наработки размещаются в общедоступных репозиториях LibreOffice, LibreOfficeKit, loolwsd (Web Services Daemon) и loleaflet (web-клиент).</description>
+    </item>
+    
+    <item>
+      <title>Вариант LibreOffice, скомпилированный в WebAssembly и работающий в web-браузере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/variant-libreoffice-skompilirovannyy-v-webassembly-i-rabotayuschiy-v-web-brauzere-20220216-143503/</link>
+      <pubDate>Wed, 16 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/variant-libreoffice-skompilirovannyy-v-webassembly-i-rabotayuschiy-v-web-brauzere-20220216-143503/</guid>
+      <description>Торстен Бехренц (Thorsten Behrens), один из лидеров команды развития графической подсистемы LibreOffice, опубликовал демонстрационную версию варианта офисного пакета LibreOffice, скомпилированного в промежуточный код WebAssembly и способного запускаться в web-браузере (на систему пользователя загружается около 300 МБ данных). Для преобразования в WebAssembly задействован компилятор Emscripten, а для организации вывода VCL-бэкенд (Visual Class Library) на базе модифицированного фреймворка Qt5. Специфичные для поддержки WebAssembly исправления развиваются в основном репозитории LibreOffice.
+https://www.opennet.ru/opennews/art.shtml?num=56707</description>
+    </item>
+    
+    <item>
+      <title>За неделю загружено 675 тысячи копий LibreOffice 7.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/za-nedelyu-zagruzheno-675-tysyachi-kopiy-libreoffice-7-3-20220210-203502/</link>
+      <pubDate>Thu, 10 Feb 2022 20:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/za-nedelyu-zagruzheno-675-tysyachi-kopiy-libreoffice-7-3-20220210-203502/</guid>
+      <description>Организация The Document Foundation опубликовала статистику загрузок за неделю после релиза LibreOffice 7.3. Сообщается, что LibreOffice 7.3.0 был загружен 675 тысяч раз. Для сравнения прошлый значительный выпуск LibreOffice 7.2 за первую неделю был загружен 473 тысячи раз.
+https://www.opennet.ru/opennews/art.shtml?num=56674</description>
+    </item>
+    
+    <item>
+      <title>Выпуск офисного пакета LibreOffice 7.3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ofisnogo-paketa-libreoffice-7-3-20220202-213502/</link>
+      <pubDate>Wed, 02 Feb 2022 21:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ofisnogo-paketa-libreoffice-7-3-20220202-213502/</guid>
+      <description>Организация The Document Foundation представила релиз офисного пакета LibreOffice 7.3. Готовые установочные пакеты подготовлены для различных дистрибутивов Linux, Windows и macOS. При подготовке выпуска приняли участие 147 разработчиков, из которых 98 являются добровольцами. 69% изменений внесены сотрудниками курирующих проект компаний, таких как Collabora, Red Hat и Allotropia, а 31% изменений добавлены независимыми энтузиастами.
+https://www.opennet.ru/opennews/art.shtml?num=56626</description>
+    </item>
+    
+  </channel>
+</rss>

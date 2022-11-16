@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/api/</link>
+    <description>Recent content in API on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DXVK 2.0, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-0-realizacii-direct3d-9-10-11-poverh-api-vulkan-20221110-223503/</link>
+      <pubDate>Thu, 10 Nov 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-0-realizacii-direct3d-9-10-11-poverh-api-vulkan-20221110-223503/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.0, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=58087</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 37 отключено использование VA-API для ускорения декодирования видео H.264, H.265 и VC-1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-otklyucheno-ispolzovanie-va-api-dlya-uskoreniya-dekodirovaniya-video-h-264-h-2-20220928-103503/</link>
+      <pubDate>Wed, 28 Sep 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-37-otklyucheno-ispolzovanie-va-api-dlya-uskoreniya-dekodirovaniya-video-h-264-h-2-20220928-103503/</guid>
+      <description>Разработчики Fedora Linux отключили в поставляемом в дистрибутиве пакете Mesa использование VA-API (Video Acceleration API) для аппаратного ускорения кодирования и декодирования видео в форматах H.264, H.265 и VC-1. Изменение войдёт в состав Fedora 37 и затронет конфигурации, использующие открытые видеодрайверы (AMDGPU, radeonsi, Nouveau, Intel и т.п.). Ожидается, что изменение также будет бэкпортировано в ветку Fedora 36.
+https://www.opennet.ru/opennews/art.shtml?num=57839</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.3, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220802-233502/</link>
+      <pubDate>Tue, 02 Aug 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220802-233502/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.3, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=57588</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.2, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</link>
+      <pubDate>Wed, 13 Jul 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.2, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=57500</description>
+    </item>
+    
+    <item>
+      <title>На базе Nouveau развивается новый драйвер для графического API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</link>
+      <pubDate>Mon, 06 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</guid>
+      <description>Разработчики из компаний Red Hat и Collabora приступили к созданию открытого Vulkan-драйвера nvk для графичкеских карт NVIDIA, который дополнит уже имеющиеся в Mesa драйверы anv (Intel), radv (AMD), tu (Qualcomm) и v3dv (Broadcom VideoCore VI). Разработка драйвера ведётся на базе проекта Nouveau с задействованнием некоторых подсистем, ранее применяемых в OpenGL-драйвере Nouveau. Параллельно в Nouveau началась работа по выносу в отдельную библиотеку универсальной функциональности, которая может использоваться в других драйверах, например, в библиотеку вынесены компоненты для генерации кода, которые могут применяться для совместного использования компилятора шейдеров в драйверах для OpenGL и Vulkan.</description>
+    </item>
+    
+    <item>
+      <title>Доступен Pgfe 2, клиентский C&#43;&#43; API к PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</link>
+      <pubDate>Tue, 19 Apr 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</guid>
+      <description>Опубликован первый стабильный выпуск Pgfe 2 (PostGres FrontEnd), продвинутого и многофункционального драйвера (клиентский API) для PostgreSQL, написанного на языке C++ и упрощающего работу с PostgreSQL в проектах на C++. Код проекта распространяется под лицензией Apache 2.0. Для сборки требуется компилятор с поддержкой стандарта C++17.
+https://www.opennet.ru/opennews/art.shtml?num=57039</description>
+    </item>
+    
+    <item>
+      <title>GitHub реализовал возможность упреждающей блокировки утечек токенов к API</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</link>
+      <pubDate>Tue, 05 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-realizoval-vozmozhnost-uprezhdayuschey-blokirovki-utechek-tokenov-k-api-20220405-133502/</guid>
+      <description>GitHub объявил об усилении защиты от попадания в репозитории конфиденциальных данных, по недосмотру оставленных разработчиками в коде. Например, случается, что в репозиторий попадают файлы конфигурации с паролями к СУБД, токены или ключи доступа к API.
+https://www.opennet.ru/opennews/art.shtml?num=56968</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.1, реализации Direct3D 9/10/11 поверх API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-1-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220328-113502/</link>
+      <pubDate>Mon, 28 Mar 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-1-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220328-113502/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 21.2, NVIDIA 495.46, Intel ANV и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=56921</description>
+    </item>
+    
+  </channel>
+</rss>

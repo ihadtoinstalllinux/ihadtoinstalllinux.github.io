@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postgres on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/postgres/</link>
+    <description>Recent content in Postgres on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Oct 2022 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Postgres WASM подготовил работающее в браузере окружение с СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</link>
+      <pubDate>Mon, 03 Oct 2022 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</guid>
+      <description>Открыты наработки проекта Postgres WASM, развивающего окружение с СУБД PostgreSQL, работающее внутри браузера. Связанный с проектом код открыт под лицензией MIT. В том числе предлагается инструментарий для сборки работающей в браузере виртуальной машины c урезанным Linux-окружением, сервером PostgreSQL 14.5 и сопутствующими утилитами (psql, pg_dump). Размер итоговой сборки около 30 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=57863</description>
+    </item>
+    
+  </channel>
+</rss>

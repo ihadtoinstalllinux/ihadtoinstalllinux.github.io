@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>exFAT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exfat/</link>
+    <description>Recent content in exFAT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exfat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В пакете exfatprogs 1.2.0 появилась поддержка восстановления ФС exFAT</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-pakete-exfatprogs-1-2-0-poyavilas-podderzhka-vosstanovleniya-fs-exfat-20221101-213503/</link>
+      <pubDate>Tue, 01 Nov 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-pakete-exfatprogs-1-2-0-poyavilas-podderzhka-vosstanovleniya-fs-exfat-20221101-213503/</guid>
+      <description>Опубликован выпуск пакета exfatprogs 1.2.0, развивающего официальный набор Linux-утилит для создания и проверки ФС exFAT, пришедший на смену устаревшему пакету exfat-utils и сопутствующий встроенному в ядро Linux новому драйверу exFAT (поставляется начиная с выпуска ядра 5.7). В состав набора входят утилиты mkfs.exfat, fsck.exfat, tune.exfat, exfatlabel, dump.exfat и exfat2img. Код написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=58024</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Electron on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/electron/</link>
+    <description>Recent content in Electron on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tauri 1.0 - конкурирующая с Electron платформа для создания пользовательских приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tauri-1-0-konkuriruyuschaya-s-electron-platforma-dlya-sozdaniya-polzovatelskih-prilozheniy-20220617-003503/</link>
+      <pubDate>Fri, 17 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tauri-1-0-konkuriruyuschaya-s-electron-platforma-dlya-sozdaniya-polzovatelskih-prilozheniy-20220617-003503/</guid>
+      <description>Опубликован выпуск проекта Tauri 1.0, развивающего фреймворк для создания многоплатформенных пользовательских приложений с графическим интерфейсом, построенных с использованием web-технологий. По своей сути Tauri напоминает платформу Electron, но отличается иной архитектурой и более низким потреблением ресурсов. Код проекта написан на языке Rust и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57366</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Electron 19.0.0, платформы создания приложений на базе движка Chromium </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-19-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20220526-123503/</link>
+      <pubDate>Thu, 26 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-19-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20220526-123503/</guid>
+      <description>Подготовлен релиз платформы Electron 19.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 102, платформы Node.js 16.14.2 и JavaScript-движка V8 10.2.
+https://www.opennet.ru/opennews/art.shtml?num=57252</description>
+    </item>
+    
+  </channel>
+</rss>

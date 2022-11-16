@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Netfilter on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/netfilter/</link>
+    <description>Recent content in Netfilter on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netfilter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ещё одна уязвимость в подсистеме ядра Linux Netfilter</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/esche-odna-uyazvimost-v-podsisteme-yadra-linux-netfilter-20220606-123502/</link>
+      <pubDate>Mon, 06 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/esche-odna-uyazvimost-v-podsisteme-yadra-linux-netfilter-20220606-123502/</guid>
+      <description>В подсистеме ядра Netfilter выявлена уязвимость (CVE-2022-1972), похожая на проблему раскрытую в конце мая. Новая уязвимость также позволяет локальному пользователю получить права root в системе через манипуляции с правилами в nftables и требует для проведения атаки доступа к nftables, который можно получить в отдельном пространстве имён (network namespace или user namespace) при наличии прав CLONE_NEWUSER, CLONE_NEWNS или CLONE_NEWNET (например, при возможности запуска изолированного контейнера).
+https://www.opennet.ru/opennews/art.shtml?num=57305</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в подсистеме ядра Linux Netfilter</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-yadra-linux-netfilter-20220531-233502/</link>
+      <pubDate>Tue, 31 May 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-yadra-linux-netfilter-20220531-233502/</guid>
+      <description>В ядре Linux выявлена уязвимость (CVE не назначен), позволяющая локальному пользователю получить права root в системе. Заявлено о подготовке эксплоита, демонстрирующего получение root-привилегий в Ubuntu 22.04. Для включения в ядро предложен патч с устранением проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=57281</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в подсистеме netfilter, позволяющая выполнить код на уровне ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-netfilter-pozvolyayuschaya-vypolnit-kod-na-urovne-yadra-linux-20220222-153502/</link>
+      <pubDate>Tue, 22 Feb 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-netfilter-pozvolyayuschaya-vypolnit-kod-na-urovne-yadra-linux-20220222-153502/</guid>
+      <description>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE-2022-25636), позволяющая выполнить код на уровне ядра. Заявлено о подготовке примера эксплоита, позволяющего локальному пользователю поднять свои привилегии в Ubuntu 21.10 c отключённым механизмом защиты KASLR. Проблема проявляется начиная с ядра 5.4. Исправление пока доступно в виде патча (корректирующие выпуски ядра не сформированы). Проследить за публикаций обновления пакетов в дистрибутивах можно на данных страницах: Debian, SUSE, Ubuntu, RHEL, Fedora, Gentoo, Arch Linux.</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Netfilter отстояли коллективное принятие решений при нарушении GPL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-netfilter-otstoyali-kollektivnoe-prinyatie-resheniy-pri-narushenii-gpl-20220126-233503/</link>
+      <pubDate>Wed, 26 Jan 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-netfilter-otstoyali-kollektivnoe-prinyatie-resheniy-pri-narushenii-gpl-20220126-233503/</guid>
+      <description>Нынешние разработчики подсистемы ядра Netfilter через суд добились заключения соглашения с Патриком МакХарди (Patrick McHardy), бывшим лидером проекта Netfilter, который на протяжении многих лет дискредитировал свободное ПО и сообщество нападками на нарушителей GPLv2, напоминающими шантаж и предпринимаемыми с целью получения личного обогащения. В 2016 году МакХарди был исключён из основной команды разработчиков Netfilter в связи с нарушением этики, но продолжал наживаться на том, что его код находится в ядре Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

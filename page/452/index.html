@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.92.0" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>iHADtoinstalllinux</title>
+
+<meta name="description" content="">
+<meta name="author" content="ihadtoinstalllinux">
+<link rel="canonical" href="https://ihadtoinstalllinux.github.io/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
+<link rel="preload" href="apple-touch-icon.png" as="image">
+<link rel="icon" href="https://ihadtoinstalllinux.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ihadtoinstalllinux.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ihadtoinstalllinux.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ihadtoinstalllinux.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ihadtoinstalllinux.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://ihadtoinstalllinux.github.io/index.xml">
+<link rel="alternate" type="application/json" href="https://ihadtoinstalllinux.github.io/index.json">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="iHADtoinstalllinux" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ihadtoinstalllinux.github.io/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="iHADtoinstalllinux"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "iHADtoinstalllinux",
+  "url": "https://ihadtoinstalllinux.github.io/",
+  "description": "",
+  "thumbnailUrl": "https://ihadtoinstalllinux.github.io/favicon.ico",
+  "sameAs": [
+      "https://vk.com/ihadtoinstalllinux", "https://t.me/ihadtoinstalllinux", "index.xml"
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ihadtoinstalllinux.github.io/" accesskey="h" title="iHADtoinstalllinux (Alt + H)">
+                <img src="https://ihadtoinstalllinux.github.io/apple-touch-icon.png" alt="logo" aria-label="logo"
+                    height=" 30px">iHADtoinstalllinux</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/posts/about/" title="About Us">
+                    <span>About Us</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Релиз nginx 1.22.0
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>После 13 месяцев разработки представлена новая стабильная ветка высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера nginx 1.22.0, которая вобрала в себя изменения, накопленные в основной ветке 1.21.x. В дальнейшем все изменения в стабильной ветке 1.22 будут связаны с устранением серьёзных ошибок и уязвимостей. В скором времени будет сформирована основная ветка nginx 1.23, в которой будет продолжено развитие новых возможностей. Для обычных пользователей, у которых нет задачи обеспечить совместимость со сторонними модулями, рекомендуется использовать основную ветку, на базе которой раз в три месяца формируются выпуски коммерческого продукта Nginx Plus....</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-24 23:35:03 +0500 +05'>May 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Релиз nginx 1.22.0" href="https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-22-0-20220524-233503/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://sun1.userapi.com/sun1-21/s/v1/ig2/dfueGkiNHDmMiZYle690kEWUH8QqzXzVKpxamDK1PZN2i90qMHJHYMBQyjXnQGNh0E0xjbM7NmclHCBI0MHZl247.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2>dfueGkiNHDmMiZYle690kEWUH8QqzXzVKpxamDK1PZN2i90qMHJHYMBQyjXnQGNh0E0xjbM7NmclHCBI0MHZl247.jpg
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p></p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-24 22:35:26 +0500 +05'>May 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to dfueGkiNHDmMiZYle690kEWUH8QqzXzVKpxamDK1PZN2i90qMHJHYMBQyjXnQGNh0E0xjbM7NmclHCBI0MHZl247.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220524-223526/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Конференция OS DAY 2022 «Технологические основы безопасности операционных систем» состоится в июне
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>IX международная научно-практическая конференция OS DAY 2022 состоится 23-24 июня в Москве в главном здании РАН. Её главной темой станет технологическое обеспечение безопасности операционных систем.
+https://www.basealt.ru/about/news/archive/view/konferencija-os-day-2022-tekhnologicheskie-osnovy-bezopasnosti-operacionnykh-sistem-sostoitsja-v-ijune</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-24 21:36:26 +0500 +05'>May 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Конференция OS DAY 2022 «Технологические основы безопасности операционных систем» состоится в июне" href="https://ihadtoinstalllinux.github.io/posts/konferenciya-os-day-2022-tehnologicheskie-osnovy-bezopasnosti-operacionnyh-sistem-sostoits-20220524-213626/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Злоумышленники получили контроль за Python-пакетом ctx и PHP-библиотекой phpass
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Неизвестные злоумышленники получили контроль за Python-пакетом ctx и PHP-библиотекой phpass, после чего разместили обновления с вредоносной вставкой, которая отправляла на внешний сервер содержимое переменных окружения с расчётом на кражу токенов к AWS и системам непрерывной интеграции. По имеющейся статистике Python-пакет ‘ctx’ загружается из репозитория PyPI около 22 тысяч раз в неделю. PHP-пакет phpass распространяется через репозиторий Composer и за всё время был загружен более 2.5 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=57242</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-24 20:35:02 +0500 +05'>May 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Злоумышленники получили контроль за Python-пакетом ctx и PHP-библиотекой phpass" href="https://ihadtoinstalllinux.github.io/posts/zloumyshlenniki-poluchili-kontrol-za-python-paketom-ctx-i-php-bibliotekoy-phpass-20220524-203502/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://sun9-north.userapi.com/sun9-88/s/v1/ig2/l8oLSqdH3_1o_yW8c6mUXELND1cbEmJ82nkjfdByCyDRoFmOKlJ-p7z0hSzsCIaro2mb5eRdNL46eDdVZ2gZcFl0.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2>l8oLSqdH3_1o_yW8c6mUXELND1cbEmJ82nkjfdByCyDRoFmOKlJ-p7z0hSzsCIaro2mb5eRdNL46eDdVZ2gZcFl0.jpg
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p></p>
+  </section>
+  <footer class="entry-footer"><span title='2022-05-24 19:35:43 +0500 +05'>May 24, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to l8oLSqdH3_1o_yW8c6mUXELND1cbEmJ82nkjfdByCyDRoFmOKlJ-p7z0hSzsCIaro2mb5eRdNL46eDdVZ2gZcFl0.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20220524-193543/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ihadtoinstalllinux.github.io/page/451/">« Prev Page</a>
+    <a class="next" href="https://ihadtoinstalllinux.github.io/page/453/">Next Page »</a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2022 <a href="https://ihadtoinstalllinux.github.io/">iHADtoinstalllinux</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

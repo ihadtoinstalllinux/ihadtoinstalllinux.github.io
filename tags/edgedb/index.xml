@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EdgeDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/edgedb/</link>
+    <description>Recent content in EdgeDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jul 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/edgedb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск реляционно-графовой СУБД EdgeDB 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-2-0-20220729-183503/</link>
+      <pubDate>Fri, 29 Jul 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-2-0-20220729-183503/</guid>
+      <description>Представлен релиз СУБД EdgeDB 2.0, реализующей реляционно-графовую модель данных и язык запросов EdgeQL, оптимизированные для работы со сложными иерархическими данными. Код написан на языках Python и Rust (парсер и критичные к производительности части) и распространяется под лицензией Apache 2.0. Проект развивается в форме надстройки над PostgreSQL. Клиентские библиотеки подготовлены для языков Python, Go, Rust и TypeScript/Javascript. Предоставляется инструментарий командной строки для управления СУБД и интерактивного выполнения запросов (REPL).
+https://www.opennet.ru/opennews/art.shtml?num=57572</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный релиз реляционно-графовой СУБД EdgeDB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-reliz-relyacionno-grafovoy-subd-edgedb-20220212-023503/</link>
+      <pubDate>Sat, 12 Feb 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-reliz-relyacionno-grafovoy-subd-edgedb-20220212-023503/</guid>
+      <description>Доступен первый стабильный релиз СУБД EdgeDB, представляющую собой надстройку над PostgreSQL с реализацией реляционно-графовой модели данных и языка запросов EdgeQL, оптимизированных для работы со сложными иерархическими данными. Код написан на языках Python и Rust и распространяется под лицензией Apache 2.0. Клиентские библиотеки подготовлены для языков Python, Go, Rust и TypeScript/Javascript. Предоставляется инструментарий командной стоки для управления СУБД и интерактивного выполнения запросов (REPL).
+https://www.opennet.ru/opennews/art.shtml?num=56682</description>
+    </item>
+    
+  </channel>
+</rss>

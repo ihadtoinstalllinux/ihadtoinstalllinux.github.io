@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ss on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ss/</link>
+    <description>Recent content in ss on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск outline-ss-server 1.4, реализации Shadowsocks-прокси от проекта Outline</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-outline-ss-server-1-4-realizacii-shadowsocks-proksi-ot-proekta-outline-20221031-113503/</link>
+      <pubDate>Mon, 31 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-outline-ss-server-1-4-realizacii-shadowsocks-proksi-ot-proekta-outline-20221031-113503/</guid>
+      <description>Опубликован выпуск прокси-сервера outline-ss-server 1.4, использующего протокол Shadowsocks для скрытия характера трафика, обхода межсетевых экранов и обмана систем инспектирования пакетов. Сервер развивается проектом Outline, дополнительно предоставляющим обвязку из клиентских приложений и управляющего интерфейса, позволяющего быстро развёртывать многопользовательские Shadowsocks-серверы на базе outline-ss-server в публичных облачных окружениях или на своём оборудовании, управлять ими через web-интерфейс и организовать доступ пользователей по ключам. Разработкой и сопровождением кода занимается Jigsaw, подразделение в Google, созданное для развития средств обхода цензуры и организации свободного обмена информацией.</description>
+    </item>
+    
+  </channel>
+</rss>

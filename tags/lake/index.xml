@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lake on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lake/</link>
+    <description>Recent content in Lake on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 12:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel подтвердил подлинность утечки кода UEFI-прошивок для чипов Alder Lake</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-podtverdil-podlinnost-utechki-koda-uefi-proshivok-dlya-chipov-alder-lake-20221010-123504/</link>
+      <pubDate>Mon, 10 Oct 2022 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-podtverdil-podlinnost-utechki-koda-uefi-proshivok-dlya-chipov-alder-lake-20221010-123504/</guid>
+      <description>Компания Intel подтвердила подлинность исходных текстов UEFI-прошивок и BIOS, опубликованных неизвестным на GitHub. Всего было опубликовано 5.8 ГБ кода, утилит, документации, блобов и настроек, связанных с формированием прошивок для систем с процессорами на базе микроархитектуры Alder Lake, выпущенной в ноябре 2021 года. Наиболее свежее изменение в опубликованном коде датировано 30 сентября 2022 года.
+https://www.opennet.ru/opennews/art.shtml?num=57892</description>
+    </item>
+    
+    <item>
+      <title>Компания Intel открыла код прошивки блока PSE для чипов Elkhart Lake</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-otkryla-kod-proshivki-bloka-pse-dlya-chipov-elkhart-lake-20220424-123502/</link>
+      <pubDate>Sun, 24 Apr 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-otkryla-kod-proshivki-bloka-pse-dlya-chipov-elkhart-lake-20220424-123502/</guid>
+      <description>Компания Intel открыла исходные тексты прошивки для блока PSE (Programmable Services Engine), который начал поставляться в процессорах семейства Elkhart Lake, таких как Atom x6000E, оптимизированных для использования в устройствах интернета вещей. Код открыт под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57076</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postfix on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/postfix/</link>
+    <description>Recent content in Postfix on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Feb 2022 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postfix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен почтовый сервер Postfix 3.7.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-pochtovyy-server-postfix-3-7-0-20220207-153502/</link>
+      <pubDate>Mon, 07 Feb 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-pochtovyy-server-postfix-3-7-0-20220207-153502/</guid>
+      <description>После 10 месяцев разработки состоялся релиз новой стабильной ветки почтового сервера Postfix - 3.7.0. В то же время объявлено о прекращении поддержки ветки Postfix 3.3, выпущенной в начале 2018 года. Postfix является одним из редких проектов, сочетающих одновременно высокую безопасность, надёжность и производительность, чего удалось добиться благодаря продуманной архитектуре и достаточно жёсткой политике оформления кода и аудита патчей. Код проекта распространяется под лицензиями EPL 2.0 (Eclipse Public license) и IPL 1.</description>
+    </item>
+    
+  </channel>
+</rss>

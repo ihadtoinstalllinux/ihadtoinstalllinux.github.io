@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>networkd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/networkd/</link>
+    <description>Recent content in networkd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/networkd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в networkd-dispatcher, позволяющие получить права root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-networkd-dispatcher-pozvolyayuschie-poluchit-prava-root-20220427-163503/</link>
+      <pubDate>Wed, 27 Apr 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-networkd-dispatcher-pozvolyayuschie-poluchit-prava-root-20220427-163503/</guid>
+      <description>Исследователи безопасности из компании Microsoft выявили две уязвимости (CVE-2022-29799, CVE-2022-29800) в сервисе networkd-dispatcher, получившие кодовое имя Nimbuspwn и позволяющие непривилегированному пользователю выполнить произвольные команды с правами root. Проблема устранена в выпуске networkd-dispatcher 2.2. Информации о публикации обновлений дистрибутивами пока нет (Debian, RHEL, Fedora, SUSE, Ubuntu, Arch Linux).
+https://www.opennet.ru/opennews/art.shtml?num=57093</description>
+    </item>
+    
+  </channel>
+</rss>

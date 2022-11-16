@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>xterm on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xterm/</link>
+    <description>Recent content in xterm on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xterm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в xterm, приводящая к выполнению кода при обработке определённых строк</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-xterm-privodyaschaya-k-vypolneniyu-koda-pri-obrabotke-opredelennyh-strok-20221112-133503/</link>
+      <pubDate>Sat, 12 Nov 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-xterm-privodyaschaya-k-vypolneniyu-koda-pri-obrabotke-opredelennyh-strok-20221112-133503/</guid>
+      <description>В эмуляторе терминала xterm выявлена уязвимость (CVE-2022-45063), позволяющая добиться исполнения shell-команд при обработке в терминале определённых escape-последовательностей. Для атаки в простейшем случае достаточно вывести на экран содержимое специально оформленного файла, например, при помощи утилиты cat, или вставить строку из буфера обмена.
+https://www.opennet.ru/opennews/art.shtml?num=58098</description>
+    </item>
+    
+  </channel>
+</rss>

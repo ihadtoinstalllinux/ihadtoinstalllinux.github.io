@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mint on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mint/</link>
+    <description>Recent content in Mint on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Linux Mint 21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-20220731-153503/</link>
+      <pubDate>Sun, 31 Jul 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-20220731-153503/</guid>
+      <description>Представлен релиз дистрибутива Linux Mint 21, перешедший на пакетную базу Ubuntu 22.04 LTS. Дистрибутив полностью совместим с Ubuntu, но существенно отличается подходом к организации интерфейса пользователя и подбором используемых по умолчанию приложений. Разработчики Linux Mint предоставляют десктоп-окружение, соответствующее классическим канонам организации рабочего стола, которое является более привычным для пользователей, не принимающих новые методы построения интерфейса GNOME 3. Для загрузки доступны DVD-сборки на базе оболочек MATE 1.26 (2 ГБ), Cinnamon 5.4 (2 ГБ) и Xfce 4.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Linux Mint Debian Edition 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-5-20220320-223503/</link>
+      <pubDate>Sun, 20 Mar 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-5-20220320-223503/</guid>
+      <description>Спустя два года с момента прошлого выпуска опубликован релиз альтернативной сборки дистрибутива Linux Mint - Linux Mint Debian Edition 5, выполненной на основе пакетной базы Debian (классический Linux Mint базируется на пакетной базе Ubuntu). Кроме использования пакетной базы Debian, важным отличием LMDE от Linux Mint является постоянный цикл обновления пакетной базы (модель непрерывных обновлений: частичный роллинг-релиз, semi-rolling release), при котором обновления пакетов выходят постоянно и пользователь в любой момент имеет возможность перейти на последние версии программ.</description>
+    </item>
+    
+  </channel>
+</rss>

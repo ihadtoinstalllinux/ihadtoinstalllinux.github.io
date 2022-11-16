@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReiserFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/reiserfs/</link>
+    <description>Recent content in ReiserFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/reiserfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики openSUSE обсуждают прекращение поддержки ReiserFS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-opensuse-obsuzhdayut-prekraschenie-podderzhki-reiserfs-20220808-003503/</link>
+      <pubDate>Mon, 08 Aug 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-opensuse-obsuzhdayut-prekraschenie-podderzhki-reiserfs-20220808-003503/</guid>
+      <description>Джеф Махони (Jeff Mahoney), директор подразделения SUSE Labs.
+https://www.opennet.ru/opennews/art.shtml?num=57610</description>
+    </item>
+    
+    <item>
+      <title>Разработчики ядра Linux обсуждают возможность удаления ReiserFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-yadra-linux-obsuzhdayut-vozmozhnost-udaleniya-reiserfs-20220223-223502/</link>
+      <pubDate>Wed, 23 Feb 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-yadra-linux-obsuzhdayut-vozmozhnost-udaleniya-reiserfs-20220223-223502/</guid>
+      <description>Мэтью Уилкокс (Matthew Wilcox) из компании Oracle, известный созданием драйвера nvme (NVM Express) и механизма прямого доступа к ФС DAX, предложил удалить файловую систему ReiserFS из состава ядра Linux по аналогии с когда-то удалёнными устаревшими ФС ext и xiafs, или сократить код ReiserFS, оставив только поддержку работы в режиме только для чтения.
+https://www.opennet.ru/opennews/art.shtml?num=56747</description>
+    </item>
+    
+  </channel>
+</rss>

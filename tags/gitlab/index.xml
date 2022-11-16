@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitLab on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gitlab/</link>
+    <description>Recent content in GitLab on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Aug 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Вторая за неделю критическая уязвимость в GitLab </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoraya-za-nedelyu-kriticheskaya-uyazvimost-v-gitlab-20220831-103503/</link>
+      <pubDate>Wed, 31 Aug 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoraya-za-nedelyu-kriticheskaya-uyazvimost-v-gitlab-20220831-103503/</guid>
+      <description>Компания GitLab опубликовала очередную серию корректирующих обновлений своей платформы для организации совместной разработки - 15.3.2, 15.2.4 и 15.1.6, в которых устранена критическая уязвимость (CVE-2022-2992), позволяющая аутентифицированному пользователю удалённо выполнить код на сервере. Как и уязвимость CVE-2022-2884, исправленная неделю назад, новая проблема присутствует в API для импорта данных из сервиса GitHub. Уязвимость проявляется в том числе в выпусках 15.3.1, 15.2.3 и 15.1.5, в которых была исправлена первая уязвимость в коде импорта из GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Критическая уязвимость в GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-20220824-143503/</link>
+      <pubDate>Wed, 24 Aug 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-20220824-143503/</guid>
+      <description>В корректирующих обновлениях платформы для организации совместной разработки GitLab 15.3.1, 15.2.3 и 15.1.5 устранена критическая уязвимость (CVE-2022-2884), позволяющая аутентифицированному пользователю, имеющему доступ к API для импорта данных из GitHub, удалённо выполнить код на сервере. Подробности эксплуатации пока не приводятся. Уязвимость выявлена исследователем безопасности в рамках действующей на HackerOne программы выплаты вознаграждений за выявление уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57672</description>
+    </item>
+    
+    <item>
+      <title>GitLab намерен удалять бесплатно размещённые проекты, неактивные в течение года</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gitlab-nameren-udalyat-besplatno-razmeschennye-proekty-neaktivnye-v-techenie-goda-20220804-123502/</link>
+      <pubDate>Thu, 04 Aug 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gitlab-nameren-udalyat-besplatno-razmeschennye-proekty-neaktivnye-v-techenie-goda-20220804-123502/</guid>
+      <description>Компания GitLab планирует в сентябре внести изменения в правила использования сервиса, в соответствии с которыми проекты, размещаемые на хостинге GitLab.com бесплатно, будут автоматически удаляться, если в течение 12 месяцев их репозитории будут оставаться неактивными. Изменения правил пока не объявлены официально и находятся на стадии внутреннего планирования.
+https://www.opennet.ru/opennews/art.shtml?num=57595</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Wine приняли решение о переводе разработки на GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</link>
+      <pubDate>Tue, 14 Jun 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-wine-prinyali-reshenie-o-perevode-razrabotki-na-gitlab-20220614-173502/</guid>
+      <description>Александр Джуллиард (Alexandre Julliard), создатель и руководитель проекта Wine, подвёл итоги тестирования экспериментального сервера совместной разработки gitlab.winehq.org и обсуждения возможности перевода разработки на платформу GitLab. Большинство разработчиков одобрили использование GitLab и проект начал постепенный переход на GitLab как на основную платформу для разработки.
+https://www.opennet.ru/opennews/art.shtml?num=57354</description>
+    </item>
+    
+    <item>
+      <title>Сбой в GitLab-инфраструктуре FreeDesktop, затронувший репозитории многих проектов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sboy-v-gitlab-infrastrukture-freedesktop-zatronuvshiy-repozitorii-mnogih-proektov-20220613-113503/</link>
+      <pubDate>Mon, 13 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sboy-v-gitlab-infrastrukture-freedesktop-zatronuvshiy-repozitorii-mnogih-proektov-20220613-113503/</guid>
+      <description>Поддерживаемая сообществом FreeDesktop инфраструктура разработки на основе платформы GitLab (gitlab.freedesktop.org).
+https://www.opennet.ru/opennews/art.shtml?num=57341</description>
+    </item>
+    
+    <item>
+      <title>В GitLab заменят встроенный редактор кода на Visual Studio Code</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gitlab-zamenyat-vstroennyy-redaktor-koda-na-visual-studio-code-20220526-003503/</link>
+      <pubDate>Thu, 26 May 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gitlab-zamenyat-vstroennyy-redaktor-koda-na-visual-studio-code-20220526-003503/</guid>
+      <description>Представлен релиз платформы совместной разработки GitLab 15.0 и объявлено о намерении в будущих выпусках заменить встроенный редактор кода Web IDE на редактор Visual Studio Code (VS Code), развиваемый компанией Microsoft при участии сообщества. Использование редактора VS Code упростит разработку проектов в интерфейсе GitLab и позволит разработчикам использовать привычный и полнофункциональный инструмент редактирования кода.
+https://www.opennet.ru/opennews/art.shtml?num=57250</description>
+    </item>
+    
+    <item>
+      <title>Проект Wine рассматривает возможность перевода разработки на платформу GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-wine-rassmatrivaet-vozmozhnost-perevoda-razrabotki-na-platformu-gitlab-20220426-023503/</link>
+      <pubDate>Tue, 26 Apr 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-wine-rassmatrivaet-vozmozhnost-perevoda-razrabotki-na-platformu-gitlab-20220426-023503/</guid>
+      <description>Александр Джуллиард (Alexandre Julliard), создатель и руководитель проекта Wine, объявил о запуске экспериментального сервера совместной разработки gitlab.winehq.org, основанного на платформе GitLab. В настоящее время на сервере размещены все проекты из основного дерева Wine, а также утилиты и начинка сайта WineHQ. Реализована возможность отправки через новый сервис запросов на слияние.
+https://www.opennet.ru/opennews/art.shtml?num=57084</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitLab, позволяющая захватить аккаунты, авторизированные через OAuth, LDAP и SAML</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zahvatit-akkaunty-avtorizirovannye-cherez-oauth-ldap-20220401-113503/</link>
+      <pubDate>Fri, 01 Apr 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zahvatit-akkaunty-avtorizirovannye-cherez-oauth-ldap-20220401-113503/</guid>
+      <description>В корректирующих обновлениях платформы для организации совместной разработки GitLab 14.7.7, 14.8.5 и 14.9.2 устранена критическая уязвимость (CVE-2022-1162), связанная с установкой предопределённых (hardcoded) паролей для учётных записей, зарегистрированных с использованием провайдера OmniAuth (OAuth, LDAP и SAML). Уязвимость потенциально позволяет атакующему получить доступ к учётной записи. Всем пользователям рекомендуется срочно установить обновление. Детали проблему пока не раскрываются. Для пользователей, чьи учётные записи были подвержены проблеме, инициирован сброс установленных паролей. Проблема выявлена сотрудниками GitLab и проведённое расследование не выявило следов компрометации пользователей.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitLab, позволяющая получить доступ к токенам Runner</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-poluchit-dostup-k-tokenam-runner-20220227-103503/</link>
+      <pubDate>Sun, 27 Feb 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-poluchit-dostup-k-tokenam-runner-20220227-103503/</guid>
+      <description>В корректирующих обновлениях платформы для организации совместной разработки GitLab 14.8.2, 14.7.4 и 14.6.5 устранена критическая уязвимость (CVE-2022-0735), позволяющая неавторизированному пользователю извлечь токены регистрации в GitLab Runner, применяемом для организации вызова обработчиков при сборке кода проекта в системе непрерывной интеграции. Детали пока не приводятся, упоминается лишь то, что проблема вызвана утечкой информации при использовании команд Quick Actions.
+https://www.opennet.ru/opennews/art.shtml?num=56768</description>
+    </item>
+    
+  </channel>
+</rss>

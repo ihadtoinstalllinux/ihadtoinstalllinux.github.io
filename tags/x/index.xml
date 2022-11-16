@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>X on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x/</link>
+    <description>Recent content in X on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Избавление ядра Linux от кода, меняющего поведение для процессов, начинающихся на символ X</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izbavlenie-yadra-linux-ot-koda-menyayuschego-povedenie-dlya-processov-nachinayuschihsya-na-20221109-153503/</link>
+      <pubDate>Wed, 09 Nov 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izbavlenie-yadra-linux-ot-koda-menyayuschego-povedenie-dlya-processov-nachinayuschihsya-na-20221109-153503/</guid>
+      <description>Джейсон Доненфилд (Jason A. Donenfeld), автор VPN WireGuard, обратил внимание разработчиков на присутствующий в коде ядра Linux грязный хак, изменяющий поведение для процессов, имя которых начинается на символ &amp;ldquo;X&amp;rdquo;. На первый взгляд подобные исправления обычно применяются в руткитах для оставления скрытой лазейки в привязке к процессу, но разбор показал, что изменение было добавлено в 2019 году для временного устранения всплывшего нарушения совместимости с пространством пользователя, в соответствии с принципом, что изменения в ядре не должны нарушать совместимость с приложениями.</description>
+    </item>
+    
+    <item>
+      <title>Переполнение буфера в OpenSSL, эксплуатируемое при проверке сертификатов X.509 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-openssl-ekspluatiruemoe-pri-proverke-sertifikatov-x-509-20221101-223502/</link>
+      <pubDate>Tue, 01 Nov 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-openssl-ekspluatiruemoe-pri-proverke-sertifikatov-x-509-20221101-223502/</guid>
+      <description>Опубликован корректирующий выпуск криптографической библиотеки OpenSSL 3.0.7, в котором устранены две уязвимости. Обе проблемы вызваны переполнением буфера в коде проверки поля с email-адресом в сертификатах X.509 и потенциально могут привести к выполнению кода при обработке специально оформленного сертификата. На момент публикации исправления разработчиками OpenSSL не было зафиксировано фактов наличия рабочего эксплоита, способного привести к выполнению кода атакующего.
+https://www.opennet.ru/opennews/art.shtml?num=58025</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.4 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</link>
+      <pubDate>Wed, 13 Jul 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</guid>
+      <description>Доступен корректирующий выпуск X.Org Server 21.1.4, в котором устранены две уязвимости в обработчиках расширения Xkb, позволяющие поднять свои привилегии в системе, если X-сервер выполняется с правами root, или выполнить код на удалённой системе, если для доступа используется перенаправление сеанса X11 при помощи SSH. Уязвимости вызваны отсутствием корректной проверки размера в обработчиках запросов ProcXkbSetGeometry (CVE-2022-2319) и ProcXkbSetDeviceInfo (CVE-2022-2320), которые можно эксплуатировать для записи в область памяти за границей выделенного буфера.
+https://www.opennet.ru/opennews/art.shtml?num=57495</description>
+    </item>
+    
+  </channel>
+</rss>

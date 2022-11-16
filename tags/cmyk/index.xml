@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CMYK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cmyk/</link>
+    <description>Recent content in CMYK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Aug 2022 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cmyk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск графического редактора GIMP 2.99.12 с начальной поддержкой CMYK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-12-s-nachalnoy-podderzhkoy-cmyk-20220828-143506/</link>
+      <pubDate>Sun, 28 Aug 2022 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-12-s-nachalnoy-podderzhkoy-cmyk-20220828-143506/</guid>
+      <description>Доступен для тестирования выпуск графического редактора GIMP 2.99.12, продолжающий развитие функциональности будущей стабильной ветки GIMP 3.0, в которой выполнен переход на GTK3, добавлена штатная поддержка Wayland и HiDPI, проведена значительная чистка кодовой базы, предложен новый API для разработки плагинов, реализовано кэширование отрисовки, добавлена поддержка выделения нескольких слоёв (Multi-layer selection) и обеспечено редактирование в исходном цветовом пространстве. Для установки доступен пакет в формате flatpak (org.gimp.GIMP в репозитории flathub-beta), а также сборки для Windows и macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

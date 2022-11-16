@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>plegde on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/plegde/</link>
+    <description>Recent content in plegde on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Apr 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/plegde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для FreeBSD развивается механизм изоляции, похожий на plegde и unveil</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</link>
+      <pubDate>Sun, 03 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</guid>
+      <description>Для FreeBSD предложена реализация механизма изоляции приложений, напоминающего развиваемые проектом OpenBSD системные вызовы plegde и unveil. Изоляция в plegde осуществляется через запрет обращения к неиспользуемым в приложении системным вызовам, а в unveil через выборочное открытие доступа только для отдельных файловых путей, с которыми может работать приложение. Для приложения формируется подобие белого списка системных вызовов и файловых путей, а все остальные вызовы и пути запрещаются.
+https://www.opennet.ru/opennews/art.shtml?num=56958</description>
+    </item>
+    
+  </channel>
+</rss>

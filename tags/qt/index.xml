@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qt/</link>
+    <description>Recent content in Qt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступно пользовательское окружение PaperDE 0.2, использующее Qt и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupno-polzovatelskoe-okruzhenie-paperde-0-2-ispolzuyuschee-qt-i-wayland-20221022-223503/</link>
+      <pubDate>Sat, 22 Oct 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupno-polzovatelskoe-okruzhenie-paperde-0-2-ispolzuyuschee-qt-i-wayland-20221022-223503/</guid>
+      <description>Опубликовано легковесное пользовательское окружение PaperDE 0.2, построенное с использованием Qt, Wayland и композитного менеджера Wayfire. В качестве хранителя экрана могут использоваться компоненты swaylock и swayidle, для управления буфером обмена - clipman, а для вывода уведомлений - фоновый процесс mako. Код проекта написан на языке С++ и распространяется под лицензией GPLv3. Пакеты подготовлены для Ubuntu (PPA) и Arch Linux (AUR).
+https://www.opennet.ru/opennews/art.shtml?num=57961</description>
+    </item>
+    
+    <item>
+      <title>Релиз фреймворка Qt 6.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-4-20220930-123506/</link>
+      <pubDate>Fri, 30 Sep 2022 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-4-20220930-123506/</guid>
+      <description>Компания Qt Company опубликовала релиз фреймворка Qt 6.4, в котором продолжена работа по стабилизации и наращиванию функциональности ветки Qt 6. В Qt 6.4 обеспечена поддержка платформ Windows 10+, macOS 10.15+, Linux (Ubuntu 20.04, CentOS 8.2, openSUSE 15.3, SUSE 15 SP2), iOS 14+, Android 6+ (API 23+), webOS, WebAssembly, INTEGRITY и QNX. Исходные тексты компонентов Qt поставляются под лицензиями LGPLv3 и GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57847</description>
+    </item>
+    
+    <item>
+      <title>Проект LeanQt развивает урезанный форк Qt 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-leanqt-razvivaet-urezannyy-fork-qt-5-20220927-153502/</link>
+      <pubDate>Tue, 27 Sep 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-leanqt-razvivaet-urezannyy-fork-qt-5-20220927-153502/</guid>
+      <description>Проект LeanQt приступил к развитию урезанного ответвления от Qt 5, нацеленного на упрощение сборки из исходных текстов и интеграции с приложениями. LeanQt развивает Рохус Келлер (Rochus Keller), автор компилятора и среды разработки для языка Oberon, завязанных на Qt 5, с целью упрощения компиляции своего продукта с минимальным числом зависимостей, но с сохранением поддержки актуальных платформ. Код продолжает развиваться под лицензиями GPLv3, LGPLv2.1 и LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57836</description>
+    </item>
+    
+    <item>
+      <title>Компания Qt Company опубликовала код выпуска Qt 5.15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-qt-company-opublikovala-kod-vypuska-qt-5-15-6-20220908-163503/</link>
+      <pubDate>Thu, 08 Sep 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-qt-company-opublikovala-kod-vypuska-qt-5-15-6-20220908-163503/</guid>
+      <description>Компания Qt Company сформировала открытый выпуск Qt 5.15.6, включающий исправления для LTS-ветки 5.15, актуальные обновления для которой формируются только для пользователей коммерческой лицензии (остальным предлагается использовать ветку Qt 6.x). Для коммерческих пользователей обновление Qt 5.15.6 был опубликовано год назад. Частично, доступные в данном выпуске исправления были доведены до дистрибутивов в форме набора патчей, сопровождаемого проектом KDE. Ветка Qt 5.15 была опубликована в мае 2020 года и будет сопровождаться до мая 2025 года.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск среды разработки Qt Creator 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-8-20220722-163502/</link>
+      <pubDate>Fri, 22 Jul 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-8-20220722-163502/</guid>
+      <description>Опубликован выпуск интегрированной среды разработки Qt Creator 8.0, предназначенной для создания кроссплатформенных приложений с использованием библиотеки Qt. Поддерживается как разработка классических программ на языке C++, так и использование языка QML, в котором для определения сценариев используется JavaScript, а структура и параметры элементов интерфейса задаются CSS-подобными блоками. Готовые сборки сформированы для Linux, Windows и maсOS.
+https://www.opennet.ru/opennews/art.shtml?num=57536</description>
+    </item>
+    
+    <item>
+      <title>Назначен новый лидер проекта Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-lider-proekta-qt-20220622-113502/</link>
+      <pubDate>Wed, 22 Jun 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-lider-proekta-qt-20220622-113502/</guid>
+      <description>Фолькер Хилсхаймер (Volker Hilsheimer) выбран на пост главного сопровождающего (Chief Maintainer) проекта Qt, на котором он сменит Ларса Кнолла (Lars Knoll), занимавшего этот пост последние 11 лет и в прошлом месяце объявившего об уходе из компании Qt Company.
+https://www.opennet.ru/opennews/art.shtml?num=57390</description>
+    </item>
+    
+    <item>
+      <title>Технический директор Qt Company и главный сопровождающий Qt покидает проект</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-direktor-qt-company-i-glavnyy-soprovozhdayuschiy-qt-pokidaet-proekt-20220518-173503/</link>
+      <pubDate>Wed, 18 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-direktor-qt-company-i-glavnyy-soprovozhdayuschiy-qt-pokidaet-proekt-20220518-173503/</guid>
+      <description>Ларс Кнолл (Lars Knoll), создатель разработанного для KDE движка KHTML, который лёг в основу движков браузеров Safari и Chrome, и руководитель проекта Qt Project, объявил об уходе с поста технического директора компании Qt Company после 25 лет работы в экосистеме Qt. По мнению Ларса после его ухода проект останется в надёжных руках и продолжит развитие в соответствии с теми же принципами. В качестве мотива ухода называется желание попробовать заняться чем то другим, помимо фреймворка Qt, которым он занимается ещё со студенческих времён.</description>
+    </item>
+    
+    <item>
+      <title>Для Ubuntu предложен PPA для улучшения поддержки Wayland в Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-ubuntu-predlozhen-ppa-dlya-uluchsheniya-podderzhki-wayland-v-qt-20220419-233503/</link>
+      <pubDate>Tue, 19 Apr 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-ubuntu-predlozhen-ppa-dlya-uluchsheniya-podderzhki-wayland-v-qt-20220419-233503/</guid>
+      <description>Для дистрибутива Ubuntu 22.04, выпуск которого ожидается 21 апреля, подготовлен PPA-репозиторий с модулем qtwayland в который из ветки Qt 5.15.3, сопровождаемой проектом KDE, перенесены исправления, связанные с улучшением поддержки протокола Wayland. В том числе в пакет включены изменения, необходимые для корректной работы qtwayland на системах с проприетарными драйверами NVIDIA.
+https://www.opennet.ru/opennews/art.shtml?num=57045</description>
+    </item>
+    
+    <item>
+      <title>Для Chromium развивается возможность использования Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-chromium-razvivaetsya-vozmozhnost-ispolzovaniya-qt-20220415-013503/</link>
+      <pubDate>Fri, 15 Apr 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-chromium-razvivaetsya-vozmozhnost-ispolzovaniya-qt-20220415-013503/</guid>
+      <description>Томас Андерсон (Thomas Anderson) из компании Google.
+https://www.opennet.ru/opennews/art.shtml?num=57020</description>
+    </item>
+    
+    <item>
+      <title>Релиз фреймворка Qt 6.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-3-20220412-183503/</link>
+      <pubDate>Tue, 12 Apr 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-3-20220412-183503/</guid>
+      <description>Компания Qt Company опубликовала релиз фреймворка Qt 6.3, в котором продолжена работа по стабилизации и наращиванию функциональности ветки Qt 6. В Qt 6.3 обеспечена поддержка платформ Windows 10, macOS 10.14+, Linux (Ubuntu 20.04, CentOS 8.2, openSUSE 15.3, SUSE 15 SP2), iOS 13+, Android 6+ (API 23+), webOS, INTEGRITY и QNX. Исходные тексты компонентов Qt поставляются под лицензиями LGPLv3 и GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57010</description>
+    </item>
+    
+    <item>
+      <title>Выпуск среды разработки Qt Creator 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-7-20220324-173502/</link>
+      <pubDate>Thu, 24 Mar 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-7-20220324-173502/</guid>
+      <description>Опубликован выпуск интегрированной среды разработки Qt Creator 7.0, предназначенной для создания кроссплатформенных приложений с использованием библиотеки Qt. Поддерживается как разработка классических программ на языке C++, так и использование языка QML, в котором для определения сценариев используется JavaScript, а структура и параметры элементов интерфейса задаются CSS-подобными блоками.
+https://www.opennet.ru/opennews/art.shtml?num=56905</description>
+    </item>
+    
+    <item>
+      <title>Компания Qt Company представила платформу для встраивания рекламы в Qt-приложения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-153503/</link>
+      <pubDate>Thu, 20 Jan 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-153503/</guid>
+      <description>Компания Qt Company опубликовала первый выпуск платформы Qt Digital Advertising для упрощения монетизации разработки приложений на основе библиотеки Qt. Платформа предоставляет одноимённый кроссплатформенный Qt-модуль с QML API для встраивания рекламы в интерфейс приложений и организации её доставки по аналогии со вставкой рекламных блоков в мобильные приложения. Интерфейс для упрощения вставки рекламных блоков оформлен в виде плагинов для Qt Design Studio и Qt Creator.
+https://www.opennet.ru/opennews/art.shtml?num=56548</description>
+    </item>
+    
+  </channel>
+</rss>

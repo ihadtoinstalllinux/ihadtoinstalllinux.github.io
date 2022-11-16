@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OneScript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/onescript/</link>
+    <description>Recent content in OneScript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Aug 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/onescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OneScript 1.8.0, среды исполнения скриптов на языке 1С:Предприятие</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-onescript-1-8-0-sredy-ispolneniya-skriptov-na-yazyke-1s-predpriyatie-20220827-223503/</link>
+      <pubDate>Sat, 27 Aug 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-onescript-1-8-0-sredy-ispolneniya-skriptov-na-yazyke-1s-predpriyatie-20220827-223503/</guid>
+      <description>Опубликован выпуск проекта OneScript 1.8.0, развивающего независимую от компании 1С кросс-платформенную виртуальную машину для выполнения скриптов на языке 1С:Предприятие. Система самодостаточна и позволяет выполнять скрипты на языке 1С без установки платформы 1С:Предприятие и специфичных для неё библиотек. Виртуальную машину OneScript можно использовать как для прямого исполнения сценариев языке 1С, так и для встраивания поддержки их исполнения в приложения, написанные на других языках. Код проекта написан на языке С# и распространяется под лицензией MPL-2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ES on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/es/</link>
+    <description>Recent content in ES on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux-драйвер для GPU чипов Apple M1 прошёл 99% тестов совместимости с OpenGL ES 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</link>
+      <pubDate>Sat, 22 Oct 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</guid>
+      <description>Разработчик открытого Linux-драйвера для GPU Apple AGX, используемого в чипах Apple M1, сообщил об успешном прохождении 99.3% тестов из набора dEQP-GLES2, проверяющего уровень поддержки спецификации OpenGL ES 2. В работе использованы два компонента: DRM-драйвер для ядра Linux, написанный на языке Rust, и драйвер для Mesa, написанный на языке Си.
+https://www.opennet.ru/opennews/art.shtml?num=57956</description>
+    </item>
+    
+    <item>
+      <title>Драйвер Panfrost сертифицирован на совместимость с OpenGL ES 3.1 для GPU Mali серии Valhall </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/drayver-panfrost-sertificirovan-na-sovmestimost-s-opengl-es-3-1-dlya-gpu-mali-serii-valhal-20220607-003502/</link>
+      <pubDate>Tue, 07 Jun 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/drayver-panfrost-sertificirovan-na-sovmestimost-s-opengl-es-3-1-dlya-gpu-mali-serii-valhal-20220607-003502/</guid>
+      <description>Компания Collabora объявила о сертификации организацией Khronos графического драйвера Panfrost на системах с GPU Mali на базе микроархитектуры Valhall (Mali-G57). Драйвер успешно прошёл все тесты набора CTS (Khronos Conformance Test Suite) и признан полностью совместимым со спецификацией OpenGL ES 3.1.
+https://www.opennet.ru/opennews/art.shtml?num=57308</description>
+    </item>
+    
+  </channel>
+</rss>

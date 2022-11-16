@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Server on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/server/</link>
+    <description>Recent content in Server on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск outline-ss-server 1.4, реализации Shadowsocks-прокси от проекта Outline</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-outline-ss-server-1-4-realizacii-shadowsocks-proksi-ot-proekta-outline-20221031-113503/</link>
+      <pubDate>Mon, 31 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-outline-ss-server-1-4-realizacii-shadowsocks-proksi-ot-proekta-outline-20221031-113503/</guid>
+      <description>Опубликован выпуск прокси-сервера outline-ss-server 1.4, использующего протокол Shadowsocks для скрытия характера трафика, обхода межсетевых экранов и обмана систем инспектирования пакетов. Сервер развивается проектом Outline, дополнительно предоставляющим обвязку из клиентских приложений и управляющего интерфейса, позволяющего быстро развёртывать многопользовательские Shadowsocks-серверы на базе outline-ss-server в публичных облачных окружениях или на своём оборудовании, управлять ими через web-интерфейс и организовать доступ пользователей по ключам. Разработкой и сопровождением кода занимается Jigsaw, подразделение в Google, созданное для развития средств обхода цензуры и организации свободного обмена информацией.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск PowerDNS Authoritative Server 4.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-7-20221022-153503/</link>
+      <pubDate>Sat, 22 Oct 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-7-20221022-153503/</guid>
+      <description>Опубликован релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 4.7, предназначенного для организации отдачи DNS-зон. По данным разработчиков проекта, PowerDNS Authoritative Server обслуживает примерно 30% из общего числа доменов в Европе (если рассматривать только домены с подписями DNSSEC, то 90%). Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57958</description>
+    </item>
+    
+    <item>
+      <title>Доступен серверный Linux-дистрибутив SME Server 10.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-servernyy-linux-distributiv-sme-server-10-1-20220914-183502/</link>
+      <pubDate>Wed, 14 Sep 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-servernyy-linux-distributiv-sme-server-10-1-20220914-183502/</guid>
+      <description>Представлен релиз серверного Linux-дистрибутива SME Server 10.1, построенного на основе пакетной базы CentOS 7 и предназначенного для использования в серверной инфраструктуре малого и среднего бизнеса. Особенностью дистрибутива является наличие в составе преднастроенных типовых компонентов, полностью готовых к работе и настраиваемых через web-интерфейс. Среди таких компонентов можно отметить почтовый сервер с фильтрацией спама, web-сервер, сервер печати, файловый архив, служба каталогов, межсетевой экран и т.п. Размер iso-образов 1.5 ГБ и 635 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Компания Microsoft опубликовала тестовый выпуск SQL Server 2022 для Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-opublikovala-testovyy-vypusk-sql-server-2022-dlya-linux-20220909-113506/</link>
+      <pubDate>Fri, 09 Sep 2022 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-opublikovala-testovyy-vypusk-sql-server-2022-dlya-linux-20220909-113506/</guid>
+      <description>Компания Microsoft объявила о начале тестирования кандидата в релизы Linux-версии СУБД SQL Server 2022 (RC 0). Установочные пакеты подготовлены для RHEL и Ubuntu. Для загрузки также доступны готовые образы контейнеров с SQL Server 2022, основанные на дистрибутивах RHEL и Ubuntu. Для Windows тестовый выпуск SQL Server 2022 был сформирован 23 августа.
+https://www.opennet.ru/opennews/art.shtml?num=57755</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Bitbucket Server, позволяющая выполнить код на сервере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-pozvolyayuschaya-vypolnit-kod-na-servere-20220827-133506/</link>
+      <pubDate>Sat, 27 Aug 2022 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-pozvolyayuschaya-vypolnit-kod-na-servere-20220827-133506/</guid>
+      <description>В Bitbucket Server, пакете для развёртывания web-интерфейса для работы с git-репозиториями, выявлена критическая уязвимость (CVE-2022-36804), позволяющая удалённому атакующему, имеющему доступ на чтение к приватным или публичным репозиториям, выполнить произвольный код на сервере через отправку специально оформленного HTTP-запроса. Проблема проявляется начиная с версии 6.10.17 и устранена в выпусках Bitbucket Server и Bitbucket Data Center 7.6.17, 7.17.10, 7.21.4, 8.0.3, 8.2.2 и 8.3.1. Уязвимость не проявляется в облачном сервисе bitbucket.org, а затрагивает только продукты для установки на своих мощностях.</description>
+    </item>
+    
+    <item>
+      <title>В Chrome 106 будет прекращена поддержка технологии Server Push</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-chrome-106-budet-prekraschena-podderzhka-tehnologii-server-push-20220820-093503/</link>
+      <pubDate>Sat, 20 Aug 2022 09:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-chrome-106-budet-prekraschena-podderzhka-tehnologii-server-push-20220820-093503/</guid>
+      <description>Компания Google предупредила об отключении поддержки технологии Server Push в выпуске Chrome 106, намеченном на 27 сентября. Изменения также затронет и другие браузеры, основанные на кодовой базе Chromium. Технология Server Push определена в стандартах HTTP/2 и HTTP/3, и позволяет серверу отправить ресурсы клиенту, не дожидаясь их явного запроса. Предполагается, что таким образом сервер может ускорить загрузку страницы, так как необходимые для отрисовки страницы файлы CSS, скрипты и изображения к моменту запроса клиентом окажутся уже переданными на его сторону.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.4 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</link>
+      <pubDate>Wed, 13 Jul 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</guid>
+      <description>Доступен корректирующий выпуск X.Org Server 21.1.4, в котором устранены две уязвимости в обработчиках расширения Xkb, позволяющие поднять свои привилегии в системе, если X-сервер выполняется с правами root, или выполнить код на удалённой системе, если для доступа используется перенаправление сеанса X11 при помощи SSH. Уязвимости вызваны отсутствием корректной проверки размера в обработчиках запросов ProcXkbSetGeometry (CVE-2022-2319) и ProcXkbSetDeviceInfo (CVE-2022-2320), которые можно эксплуатировать для записи в область памяти за границей выделенного буфера.
+https://www.opennet.ru/opennews/art.shtml?num=57495</description>
+    </item>
+    
+    <item>
+      <title>В июньском обновлении Windows Server 2022 появилась поддержка WSL2 (Windows Subsystem for Linux)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</link>
+      <pubDate>Wed, 22 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</guid>
+      <description>Компания Microsoft объявила об интеграции поддержки Linux-окружений на базе подсистемы WSL2 (Windows Subsystem for Linux) в состав на днях выпущенного июньского сводного обновления Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций.
+https://www.opennet.ru/opennews/art.shtml?num=57389</description>
+    </item>
+    
+    <item>
+      <title>Microsoft добавил поддержку WSL2 (Windows Subsystem for Linux) в Windows Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</link>
+      <pubDate>Fri, 27 May 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</guid>
+      <description>Компания Microsoft реализовала поддержку подсистемы WSL2 (Windows Subsystem for Linux) в Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций, но теперь Microsoft перенёс данную подсистему и в серверные редакции Windows. Компоненты для поддержки WSL2 в Windows Server пока доступны для тестирования в форме экспериментального обновления KB5014021 (OS Build 20348.740). В июньском сводном обновлении поддержку Linux-окружений на базе WSL2 планируют интегрировать в основной состав Windows Server 2022 и предложить всем пользователям.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск PowerDNS Authoritative Server 4.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-6-20220128-203503/</link>
+      <pubDate>Fri, 28 Jan 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-6-20220128-203503/</guid>
+      <description>Увидел свет релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 4.6, предназначенного для организации отдачи DNS-зон. По данным разработчиков проекта, PowerDNS Authoritative Server обслуживает примерно 30% из общего числа доменов в Европе (если рассматривать только домены с подписями DNSSEC, то 90%). Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56601</description>
+    </item>
+    
+  </channel>
+</rss>

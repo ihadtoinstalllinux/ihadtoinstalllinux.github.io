@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fuchsia on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fuchsia/</link>
+    <description>Recent content in Fuchsia on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fuchsia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google начал распространение прошивки на базе ОС Fuchsia для устройств Nest Hub Max</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nachal-rasprostranenie-proshivki-na-baze-os-fuchsia-dlya-ustroystv-nest-hub-max-20220624-113503/</link>
+      <pubDate>Fri, 24 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nachal-rasprostranenie-proshivki-na-baze-os-fuchsia-dlya-ustroystv-nest-hub-max-20220624-113503/</guid>
+      <description>Компания Google приступила к распространению новой прошивки, основанной на ОС Fuchsia, для умных фоторамок Nest Hub Max, выпускаемых с 2019 года. На первом этапе прошивка на базе Fuchsia начнёт доставляться участникам программы Google Preview Program, и если в ходе пробного внедрения не возникнет непредвиденных проблем, прошивка будет применена и на устройствах остальных пользователей Nest Hub Max.
+https://www.opennet.ru/opennews/art.shtml?num=57402</description>
+    </item>
+    
+    <item>
+      <title>Доступен Chromium для ОС Fuchsia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-chromium-dlya-os-fuchsia-20220306-123503/</link>
+      <pubDate>Sun, 06 Mar 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-chromium-dlya-os-fuchsia-20220306-123503/</guid>
+      <description>Компания Google опубликовала полноценную версию web-браузера Chromium для операционной системы Fuchsia, который заменил в списке приложений ранее предлагаемый урезанный браузер Simple Browser, рассчитанный на выполнение обособленных web-приложений, в не работу с сайтами. Косвенно предоставление поддержки обычного web-браузера подтверждает намерение Google развивать Fuchsia не только для IoT и потребительских устройств, таких как Nest Hub, но и для десктоп-платформ. Для ознакомления с текущим состоянием развития Fuchsia можно воспользоваться эмулятором, а также тестовыми сборками от проекта dahliaOS.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система dahliaOS 220222, сочетающая технологии Linux и Fuchsia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-dahliaos-220222-sochetayuschaya-tehnologii-linux-i-fuchsia-20220225-133502/</link>
+      <pubDate>Fri, 25 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-dahliaos-220222-sochetayuschaya-tehnologii-linux-i-fuchsia-20220225-133502/</guid>
+      <description>После более года разработки опубликован новый выпуск операционной системы dahliaOS 220222, комбинирующей технологии из GNU/Linux и ОС Fuchsia. Наработки проекта написаны на языке Dart и распространяются под лицензией Apache 2.0. Сборки dahliaOS формируются в двух вариантах - для систем с UEFI (675 МБ) и старых систем/виртуальных машин (437 МБ). Базовый дистрибутив dahliaOS собирается на базе ядра Linux и типового системного окружения GNU. Параллельно развиваются сборки на базе микроядра Zircon и окружения из ОС Fuchsia, которые доступны для Raspberry Pi 4, msm8917 и некоторых других устройств.</description>
+    </item>
+    
+  </channel>
+</rss>

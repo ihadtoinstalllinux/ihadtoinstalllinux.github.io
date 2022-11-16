@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PgBouncer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pgbouncer/</link>
+    <description>Recent content in PgBouncer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Aug 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pgbouncer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Cloudflare открыла код своего форка PgBouncer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-svoego-forka-pgbouncer-20220827-003502/</link>
+      <pubDate>Sat, 27 Aug 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-svoego-forka-pgbouncer-20220827-003502/</guid>
+      <description>Компания Cloudflare опубликовала исходные тексты собственной редакции прокси-сервера PgBouncer, применяемого для поддержания пула открытых соединений к СУБД PostgreSQL. PgBouncer позволяет наладить обращение приложений к PostgreSQL через уже установленные соединения для исключения постоянного выполнения ресурсоёмких повторяющихся операций открытия и закрытия соединений и снижения числа активных соединений к PostgreSQL.
+https://www.opennet.ru/opennews/art.shtml?num=57683</description>
+    </item>
+    
+  </channel>
+</rss>

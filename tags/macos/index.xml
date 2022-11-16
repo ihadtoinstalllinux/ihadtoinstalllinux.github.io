@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>macOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/macos/</link>
+    <description>Recent content in macOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Zorin OS 16.2, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-2-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20221029-143502/</link>
+      <pubDate>Sat, 29 Oct 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-2-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20221029-143502/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.2, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме репозиториев Ubuntu по умолчанию включена поддержка установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 22 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-22-dlya-linux-chrome-os-i-macos-20220824-003507/</link>
+      <pubDate>Wed, 24 Aug 2022 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-22-dlya-linux-chrome-os-i-macos-20220824-003507/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 22, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 22 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=57668</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 12.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-12-3-20220506-143502/</link>
+      <pubDate>Fri, 06 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-12-3-20220506-143502/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 12.3 (Monterey), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 177 пакетов с исходными текстами.
+https://www.opennet.ru/opennews/art.shtml?num=57144</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 21.2 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-21-2-dlya-linux-chrome-os-i-macos-20220323-003502/</link>
+      <pubDate>Wed, 23 Mar 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-21-2-dlya-linux-chrome-os-i-macos-20220323-003502/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 21.2, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 21.2 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=56896</description>
+    </item>
+    
+  </channel>
+</rss>

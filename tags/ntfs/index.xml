@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NTFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntfs/</link>
+    <description>Recent content in NTFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в драйвере NTFS-3G, потенциально позволяющая выполнить код с правами root </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-drayvere-ntfs-3g-potencialno-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20221031-233503/</link>
+      <pubDate>Mon, 31 Oct 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-drayvere-ntfs-3g-potencialno-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20221031-233503/</guid>
+      <description>В утилите ntfs-3g из набора NTFS-3G, предлагающего работающую в пространстве пользователя реализацию файловой системы NTFS, выявлена уязвимость.
+https://www.opennet.ru/opennews/art.shtml?num=58016</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в драйвере NTFS-3G, позволяющие получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-ntfs-3g-pozvolyayuschie-poluchit-root-dostup-v-sisteme-20220526-163502/</link>
+      <pubDate>Thu, 26 May 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-ntfs-3g-pozvolyayuschie-poluchit-root-dostup-v-sisteme-20220526-163502/</guid>
+      <description>В выпуске проекта NTFS-3G 2022.5.17, развивающего драйвер и набор утилит для работы с файловой системой NTFS в пространстве пользователя, устранено 8 уязвимостей, позволяющих поднять свои привилегии в системе. Проблемы вызваны отсутствием должных проверок при обработке опций командной строки и при работе с метаданными в NTFS-разделах.
+https://www.opennet.ru/opennews/art.shtml?num=57254</description>
+    </item>
+    
+  </channel>
+</rss>

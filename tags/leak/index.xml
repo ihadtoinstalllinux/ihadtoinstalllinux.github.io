@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leak on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/leak/</link>
+    <description>Recent content in Leak on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/leak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AEPIC Leak - атака, приводящая к утечке ключей из анклавов Intel SGX</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/aepic-leak-ataka-privodyaschaya-k-utechke-klyuchey-iz-anklavov-intel-sgx-20220811-013503/</link>
+      <pubDate>Thu, 11 Aug 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/aepic-leak-ataka-privodyaschaya-k-utechke-klyuchey-iz-anklavov-intel-sgx-20220811-013503/</guid>
+      <description>Раскрыты сведения о новой атаке на процессоры Intel - AEPIC Leak (CVE-2022-21233), приводящей к утечке конфиденциальных данных из изолированных анклавов Intel SGX (Software Guard eXtensions). Проблема затрагивает 10, 11 и 12 поколения CPU Intel (включая новые серии Ice Lake и Alder Lake) и вызвана архитектурной недоработкой, позволяющей получить доступ неинициализированным данным, оставшимся в регистрах APIC (Advanced Programmable Interrupt Controller) после выполнения прошлых операций.
+https://www.opennet.ru/opennews/art.shtml?num=57623</description>
+    </item>
+    
+  </channel>
+</rss>

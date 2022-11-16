@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IDE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ide/</link>
+    <description>Recent content in IDE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Sep 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна полностью переработанная среда разработки Arduino IDE 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-polnostyu-pererabotannaya-sreda-razrabotki-arduino-ide-2-0-20220915-103502/</link>
+      <pubDate>Thu, 15 Sep 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-polnostyu-pererabotannaya-sreda-razrabotki-arduino-ide-2-0-20220915-103502/</guid>
+      <description>После трёх лет альфа- и бета-тестирования сообщество Arduino, развивающее серию открытых плат на базе микроконтроллеров и процессоров ARM, Atmel и Intel, представило стабильный релиз интегрированной среды разработки Arduino IDE 2.0, предоставляющей интерфейс для написания кода, компиляции, загрузки прошивок на оборудование и взаимодействия с платами в процессе отладки. Разработка прошивок производится на специально созданном языке программирования, напоминающем Си и позволяющем быстро создавать программы для микроконтроллеров. Код интерфейса среды разработки написан на языке TypeScript (типизированный JavaScipt), а бэкенд реализован на языке Go.</description>
+    </item>
+    
+  </channel>
+</rss>

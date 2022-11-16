@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FreeBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/freebsd/</link>
+    <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В кодовую базу FreeBSD добавлена новая реализация VPN WireGuard</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kodovuyu-bazu-freebsd-dobavlena-novaya-realizaciya-vpn-wireguard-20221030-133503/</link>
+      <pubDate>Sun, 30 Oct 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kodovuyu-bazu-freebsd-dobavlena-novaya-realizaciya-vpn-wireguard-20221030-133503/</guid>
+      <description>В дерево исходных текстов FreeBSD приняты изменения с новой реализацией VPN WireGuard, основанной на коде модуля ядра, совместно подготовленного основными командами разработчиков FreeBSD и WireGuard при участии Джейсона Доненфилда (Jason A. Donenfeld), автора VPN WireGuard, и Джона Болдуина (John H. Baldwin), известного разработчика GDB и FreeBSD, в начале 2000-х годов реализовавшего поддержку SMP и NUMA в ядре FreeBSD. После принятия драйвера в состав FreeBSD (sys/dev/wg), его разработка и сопровождение отныне будет вестись в репозитории FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>Во FreeBSD добавлена поддержка протокола Netlink, применяемого в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vo-freebsd-dobavlena-podderzhka-protokola-netlink-primenyaemogo-v-yadre-linux-20221005-143503/</link>
+      <pubDate>Wed, 05 Oct 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vo-freebsd-dobavlena-podderzhka-protokola-netlink-primenyaemogo-v-yadre-linux-20221005-143503/</guid>
+      <description>В кодовую базу FreeBSD принята реализация коммуникационного протокола Netlink (RFC 3549), применяемого в Linux для организации взаимодействия ядра с процессами в пространстве пользователя. Проект ограничивается поддержкой семейства операций NETLINK_ROUTE для управления состоянием сетевой подсистемы в ядре.
+https://www.opennet.ru/opennews/art.shtml?num=57873</description>
+    </item>
+    
+    <item>
+      <title>WD разрабатывает NVMe-драйвер на языке Rust. Эксперименты с Rust во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/wd-razrabatyvaet-nvme-drayver-na-yazyke-rust-eksperimenty-s-rust-vo-freebsd-20220913-113502/</link>
+      <pubDate>Tue, 13 Sep 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/wd-razrabatyvaet-nvme-drayver-na-yazyke-rust-eksperimenty-s-rust-vo-freebsd-20220913-113502/</guid>
+      <description>На проходящей в эти дни конференции Linux Plumbers 2022 инженер из компании Western Digital выступил с докладом о разработке экспериментального драйвера для SSD-накопителей с интерфейсом NVM-Express (NVMe), написанного на языке Rust и работающего на уровне ядра Linux. Несмотря не то, что проект пока находится на раннем этапе развития, проведённое тестирование показало, что производительность NVMe-драйвера на языке Rust соответствует имеющемуся в ядре NVMe-драйверу, написанному на языке Си.
+https://www.opennet.ru/opennews/art.shtml?num=57774</description>
+    </item>
+    
+    <item>
+      <title>Исполнилось 30 лет с первого рабочего релиза 386BSD, прародителя FreeBSD и NetBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolnilos-30-let-s-pervogo-rabochego-reliza-386bsd-praroditelya-freebsd-i-netbsd-20220714-163503/</link>
+      <pubDate>Thu, 14 Jul 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolnilos-30-let-s-pervogo-rabochego-reliza-386bsd-praroditelya-freebsd-i-netbsd-20220714-163503/</guid>
+      <description>14 июля 1992 года был опубликован первый рабочий релиз (0.1) операционной системы 386BSD, предложившей реализацию BSD UNIX для процессоров i386, основанную на наработках 4.3BSD Net/2. Система была оснащена упрощённым установщиком, включала полноценный сетевой стек, модульное ядро и систему управления доступом на основе ролей. В марте 1993 года из-за желания сделать приём патчей более открытым и объединить поддержку различных архитектур на базе 386BSD 0.1 был сформирован форк NetBSD, а в июне 1993 на основе 4.</description>
+    </item>
+    
+    <item>
+      <title>Wifibox 0.10 - окружение для использования WiFi-драйверов Linux во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</link>
+      <pubDate>Mon, 27 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/wifibox-0-10-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20220627-133503/</guid>
+      <description>Доступен выпуск проекта Wifibox 0.10, нацеленного на решение проблемы с использованием во FreeBSD беспроводных адаптеров, для которых отсутствуют необходимые драйверы. Работа проблемных для FreeBSD адаптеров обеспечивается через запуск гостевой системы с Linux, в которой загружаются родные для Linux драйверы беспроводных устройств.
+https://www.opennet.ru/opennews/art.shtml?num=57414</description>
+    </item>
+    
+    <item>
+      <title>В containerd приняты изменения, позволяющие запускать Linux-контейнеры во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</link>
+      <pubDate>Mon, 27 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-containerd-prinyaty-izmeneniya-pozvolyayuschie-zapuskat-linux-konteynery-vo-freebsd-20220627-003503/</guid>
+      <description>В проект containerd принят набор изменений, интегрирующий поддержку runtime runj и открывающий возможность использования во FreeBSD OCI-совместимых образов контейнеров на базе Linux, например образов Docker. В комментариях к изменениям приведён пример успешного запуска во FreeBSD образа с Alpine Linux.
+https://www.opennet.ru/opennews/art.shtml?num=57411</description>
+    </item>
+    
+    <item>
+      <title>Опубликован MyBee 13.1.0, дистрибутив FreeBSD для организации работы виртуальных машин</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-mybee-13-1-0-distributiv-freebsd-dlya-organizacii-raboty-virtualnyh-mashin-20220519-113503/</link>
+      <pubDate>Thu, 19 May 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-mybee-13-1-0-distributiv-freebsd-dlya-organizacii-raboty-virtualnyh-mashin-20220519-113503/</guid>
+      <description>Состоялся выпуск свободного дистрибутива MyBee 13.1.0, построенного на базе технологий FreeBSD 13.1 и предоставляющего API для работы с виртуальными машинами (через гипервизор bhyve) и контейнерами (на базе FreeBSD jail). Дистрибутив рассчитан на установку на выделенный физический сервер. Размер установочного образа - 1.7ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=57213</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 13.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-1-20220517-143503/</link>
+      <pubDate>Tue, 17 May 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-1-20220517-143503/</guid>
+      <description>После года разработки опубликован релиз FreeBSD 13.1. Установочные образы доступны для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw).
+https://www.opennet.ru/opennews/art.shtml?num=57201</description>
+    </item>
+    
+    <item>
+      <title>Для FreeBSD развивается механизм изоляции, похожий на plegde и unveil</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</link>
+      <pubDate>Sun, 03 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-mehanizm-izolyacii-pohozhiy-na-plegde-i-unveil-20220403-133502/</guid>
+      <description>Для FreeBSD предложена реализация механизма изоляции приложений, напоминающего развиваемые проектом OpenBSD системные вызовы plegde и unveil. Изоляция в plegde осуществляется через запрет обращения к неиспользуемым в приложении системным вызовам, а в unveil через выборочное открытие доступа только для отдельных файловых путей, с которыми может работать приложение. Для приложения формируется подобие белого списка системных вызовов и файловых путей, а все остальные вызовы и пути запрещаются.
+https://www.opennet.ru/opennews/art.shtml?num=56958</description>
+    </item>
+    
+    <item>
+      <title>Началось бета-тестирование FreeBSD 13.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-freebsd-13-1-20220311-103502/</link>
+      <pubDate>Fri, 11 Mar 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-freebsd-13-1-20220311-103502/</guid>
+      <description>Подготовлен первый бета-выпуск FreeBSD 13.1. Выпуск FreeBSD 13.1-BETA1 доступен для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены образы для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2.
+https://www.opennet.ru/opennews/art.shtml?num=56837</description>
+    </item>
+    
+    <item>
+      <title>Первый релиз дистрибутива TrueNAS SCALE, использующего Linux вместо FreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-reliz-distributiva-truenas-scale-ispolzuyuschego-linux-vmesto-freebsd-20220223-173502/</link>
+      <pubDate>Wed, 23 Feb 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-reliz-distributiva-truenas-scale-ispolzuyuschego-linux-vmesto-freebsd-20220223-173502/</guid>
+      <description>Компания iXsystems, развивающая дистрибутив для быстрого развёртывания сетевых хранилищ FreeNAS и основанные на нём коммерческие продукты TrueNAS, опубликовала первый стабильный релиз дистрибутива TrueNAS SCALE, примечательный использованием ядра Linux и пакетной базы Debian, в то время как все ранее выпускаемые продукты данной компании, в том числе TrueOS (бывший PC-BSD), основывались на FreeBSD. Как и TrueNAS CORE (FreeNAS) новый продукт может быть загружен и использован бесплатно. Размер.
+https://www.opennet.ru/opennews/art.shtml?num=56748</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Bastille 0.9.20220216, системы управления контейнерами на основе FreeBSD Jail</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bastille-0-9-20220216-sistemy-upravleniya-konteynerami-na-osnove-freebsd-jail-20220219-103503/</link>
+      <pubDate>Sat, 19 Feb 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bastille-0-9-20220216-sistemy-upravleniya-konteynerami-na-osnove-freebsd-jail-20220219-103503/</guid>
+      <description>Опубликован выпуск Bastille 0.9.20220216, системы для автоматизации развёртывания и управления приложениями, запускаемыми в контейнерах, изолированных при помощи механизма FreeBSD Jail. Код написан на Shell, не требует для работы внешних зависимостей и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=56725</description>
+    </item>
+    
+  </channel>
+</rss>

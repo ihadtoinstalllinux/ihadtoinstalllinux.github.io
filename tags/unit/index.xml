@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unit/</link>
+    <description>Recent content in Unit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jun 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск сервера приложений NGINX Unit 1.27.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-27-0-20220603-103502/</link>
+      <pubDate>Fri, 03 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-27-0-20220603-103502/</guid>
+      <description>Опубликован сервер приложений NGINX Unit 1.27.0, в рамках которого развивается решение для обеспечения запуска web-приложений на различных языках программирования (Python, PHP, Perl, Ruby, Go, JavaScript/Node.js и Java). Под управлением NGINX Unit может одновременно выполняться несколько приложений на разных языках программирования, параметры запуска которых можно изменять динамически без необходимости правки файлов конфигурации и перезапуска. Код написан на языке Си и распространяется под лицензией Apache 2.0. С особенностями NGINX Unit можно познакомиться в анонсе первого выпуска.</description>
+    </item>
+    
+  </channel>
+</rss>

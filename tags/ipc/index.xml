@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ipc on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipc/</link>
+    <description>Recent content in ipc on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В NPM-пакете node-ipc выявлено вредоносное изменение, удаляющее файлы на системах в России и Белоруссии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-npm-pakete-node-ipc-vyyavleno-vredonosnoe-izmenenie-udalyayuschee-fayly-na-sistemah-v-ro-20220318-103502/</link>
+      <pubDate>Fri, 18 Mar 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-npm-pakete-node-ipc-vyyavleno-vredonosnoe-izmenenie-udalyayuschee-fayly-na-sistemah-v-ro-20220318-103502/</guid>
+      <description>В NPM-пакете node-ipc выявлено вредоносное изменение (CVE-2022-23812), с вероятностью 25% заменяющее на символ &amp;ldquo;❤️&amp;rdquo; содержимое всех файлов, к которым имеется доступ на запись. Вредоносный код активируется только при запуске на системах с IP-дресами из России или Белоруссии. Пакет node-ipc насчитыет около миллиона загрузок в неделю и используется в качестве зависимости у 354 пакетов, включая vue-cli. Все проекты, которые имеют в зависимостях node-ipc, также подвержены проблеме.
+https://www.opennet.ru/opennews/art.shtml?num=56870</description>
+    </item>
+    
+  </channel>
+</rss>

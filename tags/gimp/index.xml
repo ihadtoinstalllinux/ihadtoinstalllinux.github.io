@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GIMP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gimp/</link>
+    <description>Recent content in GIMP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Распространение вредоносных файлов через рекламу GIMP в Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rasprostranenie-vredonosnyh-faylov-cherez-reklamu-gimp-v-google-20221030-113503/</link>
+      <pubDate>Sun, 30 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rasprostranenie-vredonosnyh-faylov-cherez-reklamu-gimp-v-google-20221030-113503/</guid>
+      <description>В поисковой системе Google выявлено появление мошеннических рекламных записей, показываемых на первых местах поисковой выдачи и нацеленных на распространение вредоносного ПО, прикрываясь продвижением свободного графического редактора GIMP. Рекламная ссылка оформлена таким образом, что у пользователей не возникает сомнений, что переход будет осуществлён на официальный сайт проекта www.gimp.org, но на деле осуществляется проброс на подконтрольные злоумышленникам домены gilimp.org или gimp.monster.
+https://www.opennet.ru/opennews/art.shtml?num=58006</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.99.12 с начальной поддержкой CMYK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-12-s-nachalnoy-podderzhkoy-cmyk-20220828-143506/</link>
+      <pubDate>Sun, 28 Aug 2022 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-12-s-nachalnoy-podderzhkoy-cmyk-20220828-143506/</guid>
+      <description>Доступен для тестирования выпуск графического редактора GIMP 2.99.12, продолжающий развитие функциональности будущей стабильной ветки GIMP 3.0, в которой выполнен переход на GTK3, добавлена штатная поддержка Wayland и HiDPI, проведена значительная чистка кодовой базы, предложен новый API для разработки плагинов, реализовано кэширование отрисовки, добавлена поддержка выделения нескольких слоёв (Multi-layer selection) и обеспечено редактирование в исходном цветовом пространстве. Для установки доступен пакет в формате flatpak (org.gimp.GIMP в репозитории flathub-beta), а также сборки для Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.10.32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-32-20220616-013503/</link>
+      <pubDate>Thu, 16 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-32-20220616-013503/</guid>
+      <description>Опубликован выпуск графического редактора GIMP 2.10.32. Для установки доступны пакеты в формате flatpak (пакет snap пока не готов). Выпуск в основном включает исправления ошибок. Все усилия по наращиванию функциональности сосредоточены на подготовке ветки GIMP 3, которая находится на стадии тестирования предварительных выпусков.
+https://www.opennet.ru/opennews/art.shtml?num=57363</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>root on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/root/</link>
+    <description>Recent content in root on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в драйвере NTFS-3G, потенциально позволяющая выполнить код с правами root </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-drayvere-ntfs-3g-potencialno-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20221031-233503/</link>
+      <pubDate>Mon, 31 Oct 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-drayvere-ntfs-3g-potencialno-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20221031-233503/</guid>
+      <description>В утилите ntfs-3g из набора NTFS-3G, предлагающего работающую в пространстве пользователя реализацию файловой системы NTFS, выявлена уязвимость.
+https://www.opennet.ru/opennews/art.shtml?num=58016</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в пользовательском окружении Enlightenment, позволяющая получить права root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-polzovatelskom-okruzhenii-enlightenment-pozvolyayuschaya-poluchit-prava-root-20220916-013504/</link>
+      <pubDate>Fri, 16 Sep 2022 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-polzovatelskom-okruzhenii-enlightenment-pozvolyayuschaya-poluchit-prava-root-20220916-013504/</guid>
+      <description>В пользовательском окружении Enlightenment выявлена уязвимость (CVE-2022-37706), позволяющая непривилегированному локальному пользователю выполнить код с правами root. Уязвимость пока не исправлена (0-day), но в открытом доступе уже имеется эксплоит, протестированный в Ubuntu 22.04.
+https://www.opennet.ru/opennews/art.shtml?num=57791</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в подсистеме io_uring ядра Linux, позволяющая получить права root из контейнера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-poluchit-prava-root-iz-konte-20220807-133503/</link>
+      <pubDate>Sun, 07 Aug 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-poluchit-prava-root-iz-konte-20220807-133503/</guid>
+      <description>В реализации интерфейса асинхронного ввода/вывода io_uring, входящего в ядро Linux начиная с выпуска 5.1, выявлена.
+https://www.opennet.ru/opennews/art.shtml?num=57607</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в firejail, позволяющая получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</link>
+      <pubDate>Sun, 12 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/</guid>
+      <description>В утилите для изолированного выполнения приложений Firejail выявлена уязвимость (CVE-2022-31214), позволяющая локальному пользователю получить права root в основной системе. В открытом доступе имеется рабочий эксплоит, проверенный в актуальных выпусках openSUSE, Debian, Arch, Gentoo и Fedora с установленной утилитой firejail. Проблема устранена в выпуске firejail 0.9.70. В качестве обходного пути защиты можно выставить в настройках (/etc/firejail/firejail.config) параметры &amp;ldquo;join no&amp;rdquo; и &amp;ldquo;force-nonewprivs yes&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=57337</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в драйвере NTFS-3G, позволяющие получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-ntfs-3g-pozvolyayuschie-poluchit-root-dostup-v-sisteme-20220526-163502/</link>
+      <pubDate>Thu, 26 May 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-ntfs-3g-pozvolyayuschie-poluchit-root-dostup-v-sisteme-20220526-163502/</guid>
+      <description>В выпуске проекта NTFS-3G 2022.5.17, развивающего драйвер и набор утилит для работы с файловой системой NTFS в пространстве пользователя, устранено 8 уязвимостей, позволяющих поднять свои привилегии в системе. Проблемы вызваны отсутствием должных проверок при обработке опций командной строки и при работе с метаданными в NTFS-разделах.
+https://www.opennet.ru/opennews/art.shtml?num=57254</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в networkd-dispatcher, позволяющие получить права root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-networkd-dispatcher-pozvolyayuschie-poluchit-prava-root-20220427-163503/</link>
+      <pubDate>Wed, 27 Apr 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-networkd-dispatcher-pozvolyayuschie-poluchit-prava-root-20220427-163503/</guid>
+      <description>Исследователи безопасности из компании Microsoft выявили две уязвимости (CVE-2022-29799, CVE-2022-29800) в сервисе networkd-dispatcher, получившие кодовое имя Nimbuspwn и позволяющие непривилегированному пользователю выполнить произвольные команды с правами root. Проблема устранена в выпуске networkd-dispatcher 2.2. Информации о публикации обновлений дистрибутивами пока нет (Debian, RHEL, Fedora, SUSE, Ubuntu, Arch Linux).
+https://www.opennet.ru/opennews/art.shtml?num=57093</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CRI-O, позволяющая получить root-доступ к хост-окружению</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cri-o-pozvolyayuschaya-poluchit-root-dostup-k-host-okruzheniyu-20220321-193502/</link>
+      <pubDate>Mon, 21 Mar 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cri-o-pozvolyayuschaya-poluchit-root-dostup-k-host-okruzheniyu-20220321-193502/</guid>
+      <description>В CRI-O, альтернативном runtime для управления изолированными контейнерами, выявлена критическая уязвимость (CVE-2022-0811), позволяющая обойти изоляцию и выполнить свой код на стороне хост-системы. В случае использования CRI-O вместо Docker для организации запуска контейнеров, работающих под управлением платформы Kubernetes, атакующий может получить контроль над любым узлом в кластере Kubernetes. Для проведения атаки достаточно прав для запуска своего контейнера в кластере Kubernetes.
+https://www.opennet.ru/opennews/art.shtml?num=56886</description>
+    </item>
+    
+    <item>
+      <title>Локальные root-уязвимости в инструментарии управления пакетами Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lokalnye-root-uyazvimosti-v-instrumentarii-upravleniya-paketami-snap-20220218-023502/</link>
+      <pubDate>Fri, 18 Feb 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lokalnye-root-uyazvimosti-v-instrumentarii-upravleniya-paketami-snap-20220218-023502/</guid>
+      <description>Компания Qualys.
+https://www.opennet.ru/opennews/art.shtml?num=56717</description>
+    </item>
+    
+    <item>
+      <title>Удалённая root-уязвимость в Samba</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-root-uyazvimost-v-samba-20220131-223502/</link>
+      <pubDate>Mon, 31 Jan 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-root-uyazvimost-v-samba-20220131-223502/</guid>
+      <description>Опубликованы корректирующие выпуски пакета 4.15.5, 4.14.12 и 4.13.17 с устранением 3 уязвимостей. Наиболее опасная уязвимость (CVE-2021-44142) позволяет удалённому атакующему выполнить произвольный код с правами root на системе с уязвимой версией Samba. Проблеме присвоен уровень опасности 9.9 из 10.
+https://www.opennet.ru/opennews/art.shtml?num=56615</description>
+    </item>
+    
+    <item>
+      <title>Критическая уязвимость в PolKit, позволяющая получить root-доступ в большинстве дистрибутивов Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-polkit-pozvolyayuschaya-poluchit-root-dostup-v-bolshinstve-dist-20220126-143503/</link>
+      <pubDate>Wed, 26 Jan 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-polkit-pozvolyayuschaya-poluchit-root-dostup-v-bolshinstve-dist-20220126-143503/</guid>
+      <description>Компания Qualys выявила уявзвимость (CVE-2021-4034) в системном компоненте Polkit (бывший PolicyKit), используемом в дистрибутивах для организации выполнения непривилегированными пользователями действий, требующих повышенных прав доступа. Уязвимость позволяет непривилегированному локальному пользователю повысить свои привилегии до пользователя root и получить полный контроль за системой. Проблема получила кодовое имя PwnKit и примечательная подготовкой рабочего эксплоита, работающего в конфигурации по умолчанию в большинстве дистрибутивов Linux.
+https://www.opennet.ru/opennews/art.shtml?num=56580</description>
+    </item>
+    
+  </channel>
+</rss>

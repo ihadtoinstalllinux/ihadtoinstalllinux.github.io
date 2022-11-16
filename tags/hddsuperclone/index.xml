@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HDDSuperClone on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hddsuperclone/</link>
+    <description>Recent content in HDDSuperClone on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hddsuperclone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт код HDDSuperClone, программы для копирования информации с неисправных жестких дисков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-hddsuperclone-programmy-dlya-kopirovaniya-informacii-s-neispravnyh-zhestkih-dis-20220822-123506/</link>
+      <pubDate>Mon, 22 Aug 2022 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-hddsuperclone-programmy-dlya-kopirovaniya-informacii-s-neispravnyh-zhestkih-dis-20220822-123506/</guid>
+      <description>Открыты исходные тексты программы для копирования информации с неисправных жестких дисков - HDDSuperClone, которая позволяет извлечь с диска сохранившиеся данные в условиях возникновения ошибок при чтении или выхода из строя отдельных магнитных головок. В качестве причины открытия исходных текстов упоминается отсутствие времени для поддержания проекта. Код открыт под лицензией GPLv2 (лицензия упомянута внутри файлов с кодом). Код опубликован в tar-архиве, но энтузиастами на GitHub уже создан репоизторий, в котором планируют продолжить развитие проекта.</description>
+    </item>
+    
+  </channel>
+</rss>

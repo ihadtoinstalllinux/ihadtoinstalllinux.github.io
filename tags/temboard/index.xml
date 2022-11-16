@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>temBoard on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/temboard/</link>
+    <description>Recent content in temBoard on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/temboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск temBoard 8.0, интерфейса для удалённого управления СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-temboard-8-0-interfeysa-dlya-udalennogo-upravleniya-subd-postgresql-20221115-133505/</link>
+      <pubDate>Tue, 15 Nov 2022 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-temboard-8-0-interfeysa-dlya-udalennogo-upravleniya-subd-postgresql-20221115-133505/</guid>
+      <description>Увидел свет выпуск проекта temBoard 8.0, развивающего web-интерфейс для удалённого управления, мониторинга, настройки и оптимизации СУБД PostgreSQL. Продукт включает в себя легковесный агент, устанавливаемый на каждый сервер с PostgreSQL, и серверный компонент, централизованно управляющий агентами и собирающий статистику для мониторинга. Код написан на языке Python и распространяется под свободной лицензией PostgreSQL License.
+https://www.opennet.ru/opennews/art.shtml?num=58115</description>
+    </item>
+    
+  </channel>
+</rss>

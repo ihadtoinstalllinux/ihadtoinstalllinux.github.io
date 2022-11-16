@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NGINX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nginx/</link>
+    <description>Recent content in NGINX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск Angie, форка Nginx от разработчиков, ушедших из компании F5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-angie-forka-nginx-ot-razrabotchikov-ushedshih-iz-kompanii-f5-20221103-143503/</link>
+      <pubDate>Thu, 03 Nov 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-angie-forka-nginx-ot-razrabotchikov-ushedshih-iz-kompanii-f5-20221103-143503/</guid>
+      <description>Опубликован первый выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=58036</description>
+    </item>
+    
+    <item>
+      <title>Обновление nginx 1.22.1 и 1.23.2 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-nginx-1-22-1-i-1-23-2-s-ustraneniem-uyazvimostey-20221019-203503/</link>
+      <pubDate>Wed, 19 Oct 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-nginx-1-22-1-i-1-23-2-s-ustraneniem-uyazvimostey-20221019-203503/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.23.2, в рамках которой продолжается развитие новых возможностей, а также выпуск параллельно поддерживаемой стабильной ветки nginx 1.22.1, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57943</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare перешёл с NGINX на прокcи Pingora, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cloudflare-pereshel-s-nginx-na-prokci-pingora-napisannyy-na-yazyke-rust-20220916-133503/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cloudflare-pereshel-s-nginx-na-prokci-pingora-napisannyy-na-yazyke-rust-20220916-133503/</guid>
+      <description>Компания Cloudflare сообщила о переводе своей сети доставки контента на использование прокси Pingora, написанного на языке Rust. Новый прокси заменил конфигурацию на базе сервера NGINX и обрабатывает более триллиона запросов в день. Отмечается, что переход на специализированный прокси позволил не только реализовать новые возможности и увеличить защищённость за счёт безопасной работы с памятью, но и привёл к значительному повышению производительности и экономии ресурсов - решение на базе Pingora потребляет на 70% меньше ресурсов CPU и на 67% меньше памяти при обработке того же объёма трафика.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.23.1 и njs 0.7.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-23-1-i-njs-0-7-6-20220720-123502/</link>
+      <pubDate>Wed, 20 Jul 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-23-1-i-njs-0-7-6-20220720-123502/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.23.1, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.22.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.23.x будет сформирована стабильная ветка 1.24.
+https://www.opennet.ru/opennews/art.shtml?num=57525</description>
+    </item>
+    
+    <item>
+      <title>Релиз nginx 1.23.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-23-0-20220622-003503/</link>
+      <pubDate>Wed, 22 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-23-0-20220622-003503/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.23.0, в рамках которой будет продолжено развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.22.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.23.x будет сформирована стабильная ветка 1.24.
+https://www.opennet.ru/opennews/art.shtml?num=57385</description>
+    </item>
+    
+    <item>
+      <title>Выпуск сервера приложений NGINX Unit 1.27.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-27-0-20220603-103502/</link>
+      <pubDate>Fri, 03 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-27-0-20220603-103502/</guid>
+      <description>Опубликован сервер приложений NGINX Unit 1.27.0, в рамках которого развивается решение для обеспечения запуска web-приложений на различных языках программирования (Python, PHP, Perl, Ruby, Go, JavaScript/Node.js и Java). Под управлением NGINX Unit может одновременно выполняться несколько приложений на разных языках программирования, параметры запуска которых можно изменять динамически без необходимости правки файлов конфигурации и перезапуска. Код написан на языке Си и распространяется под лицензией Apache 2.0. С особенностями NGINX Unit можно познакомиться в анонсе первого выпуска.</description>
+    </item>
+    
+    <item>
+      <title>Релиз nginx 1.22.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-22-0-20220524-233503/</link>
+      <pubDate>Tue, 24 May 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nginx-1-22-0-20220524-233503/</guid>
+      <description>После 13 месяцев разработки представлена новая стабильная ветка высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера nginx 1.22.0, которая вобрала в себя изменения, накопленные в основной ветке 1.21.x. В дальнейшем все изменения в стабильной ветке 1.22 будут связаны с устранением серьёзных ошибок и уязвимостей. В скором времени будет сформирована основная ветка nginx 1.23, в которой будет продолжено развитие новых возможностей. Для обычных пользователей, у которых нет задачи обеспечить совместимость со сторонними модулями, рекомендуется использовать основную ветку, на базе которой раз в три месяца формируются выпуски коммерческого продукта Nginx Plus.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.21.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-21-6-20220201-155739/</link>
+      <pubDate>Tue, 01 Feb 2022 15:57:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-21-6-20220201-155739/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.21.6, в рамках которой продолжается развитие новых возможностей (в параллельно поддерживаемой стабильной ветке 1.20 вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей).
+https://www.opennet.ru/opennews/art.shtml?num=56618</description>
+    </item>
+    
+    <item>
+      <title>Игорь Сысоев ушёл из компаний F5 Network и NGINX</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/igor-sysoev-leave/</link>
+      <pubDate>Wed, 19 Jan 2022 09:15:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/igor-sysoev-leave/</guid>
+      <description>Игорь Сысоев, создатель высокопроизводительного HTTP-сервера NGINX, уволился из компании F5 Network, в которой после продажи компании NGINX Inc находился в числе технических руководителей проекта NGINX. Отмечается, что уход обусловлен желанием проводить больше времени в семье и заниматься личными проектами. #F5 #Network #NGINX</description>
+    </item>
+    
+  </channel>
+</rss>

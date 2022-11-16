@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenMandriva on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openmandriva/</link>
+    <description>Recent content in OpenMandriva on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openmandriva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenMandriva начал тестирование rolling-дистрибутива OpenMandriva Lx ROME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openmandriva-nachal-testirovanie-rolling-distributiva-openmandriva-lx-rome-20220727-113503/</link>
+      <pubDate>Wed, 27 Jul 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openmandriva-nachal-testirovanie-rolling-distributiva-openmandriva-lx-rome-20220727-113503/</guid>
+      <description>Разработчики проекта OpenMandriva представили предварительный выпуск новой редакции дистрибутива OpenMandriva Lx ROME, в которой используется модель непрерывной доставки обновлений (rolling-выпуски). Предложенная редакция позволяет получить доступ к новым версиям пакетов, развиваемым для ветки OpenMandriva Lx 5.0. Для загрузки подготовлен iso-образ размером 2.6 ГБ c рабочим столом KDE, поддерживающий загрузку в Live-режиме.
+https://www.opennet.ru/opennews/art.shtml?num=57558</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы сборки дистрибутива OpenMandriva с пользовательским окружением LXQt </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-sborki-distributiva-openmandriva-s-polzovatelskim-okruzheniem-lxqt-20220530-133503/</link>
+      <pubDate>Mon, 30 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-sborki-distributiva-openmandriva-s-polzovatelskim-okruzheniem-lxqt-20220530-133503/</guid>
+      <description>Началось формирование отдельных альтернативных сборок дистрибутива OpenMandriva, поставляемых с окружением рабочего стола LXQt (в основной сборке по умолчанию предлагается KDE). Для загрузки предложено два варианта: Rock на основе стабильного релиза OpenMandriva Lx 4.3 (1.6 ГБ, x86_64) и Rolling (1.7 ГБ, x86_64) на основе экспериментального непрерывно обновляемого репозитория со свежими версиями программ, используемого при подготовке следующего выпуска.
+https://www.opennet.ru/opennews/art.shtml?num=57272</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива OpenMandriva Lx 4.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-openmandriva-lx-4-3-20220207-123503/</link>
+      <pubDate>Mon, 07 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-openmandriva-lx-4-3-20220207-123503/</guid>
+      <description>После года разработки представлен релиз дистрибутива OpenMandriva Lx 4.3. Проект развивается силами сообщества после того, как компания Mandriva S.A. передала управление проектом в руки некоммерческой организации &amp;ldquo;OpenMandriva Association&amp;rdquo;. Для загрузки предлагается Live-сборка размером 2.5 ГБ (x86_64), сборка &amp;ldquo;znver1&amp;rdquo;, оптимизированная для процессоров AMD Ryzen, ThreadRipper и EPYC, а также образы для использования на ARM-устройствах PinebookPro, Raspberry Pi 4B/3B+, Rock Pi 4A/4B/4C, Synquacer, Cubox Pulse и различных серверных платах на базе архитектуры Arch64.</description>
+    </item>
+    
+  </channel>
+</rss>

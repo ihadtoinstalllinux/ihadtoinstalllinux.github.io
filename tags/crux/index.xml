@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CRUX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/crux/</link>
+    <description>Recent content in CRUX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 09:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/crux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Linux-дистрибутива CRUX 3.7 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-linux-distributiva-crux-3-7-20220927-093503/</link>
+      <pubDate>Tue, 27 Sep 2022 09:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-linux-distributiva-crux-3-7-20220927-093503/</guid>
+      <description>После почти двух лет разработки сформирован релиз независимого легковесного Linux-дистрибутива CRUX 3.7, развиваемого с 2001 года в соответствии с концепцией KISS (Keep It Simple, Stupid) и ориентированного на опытных пользователей. Целью проекта является создание простого и прозрачного для пользователей дистрибутива, основанного на BSD-подобных скриптах инициализации, имеющего максимально упрощённую структуру и содержащего относительно небольшое число готовых бинарных пакетов. CRUX поддерживает систему портов, позволяющую легко устанавливать и обновлять приложения в стиле FreeBSD/Gentoo. Размер iso-образа, подготовленного для архитектуры x86-64, составляет 1.</description>
+    </item>
+    
+  </channel>
+</rss>

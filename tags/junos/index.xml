@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JunOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/junos/</link>
+    <description>Recent content in JunOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/junos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в web-интерфейсе сетевых устройств Juniper, поставляемых с JunOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-web-interfeyse-setevyh-ustroystv-juniper-postavlyaemyh-s-junos-20221030-233503/</link>
+      <pubDate>Sun, 30 Oct 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-web-interfeyse-setevyh-ustroystv-juniper-postavlyaemyh-s-junos-20221030-233503/</guid>
+      <description>В web-интерфейсе J-Web, который используется в сетевых устройствах компании Juniper, оснащённых операционной системой JunOS, выявлено несколько уязвимостей, наиболее опасная из которых (CVE-2022-22241) позволяет удалённо без прохождения аутентификации выполнить свой код в системе через отправку специально оформленного HTTP-запроса. Пользователям оборудования Juniper рекомендовано установить обновление прошивки, а если это невозможно, проследить, чтобы доступ к web-интерфейсу был заблокирован из внешних сетей и ограничен только заслуживающими доверия хостами.
+https://www.opennet.ru/opennews/art.shtml?num=58010</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PolKit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/polkit/</link>
+    <description>Recent content in PolKit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/polkit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Критическая уязвимость в PolKit, позволяющая получить root-доступ в большинстве дистрибутивов Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-polkit-pozvolyayuschaya-poluchit-root-dostup-v-bolshinstve-dist-20220126-143503/</link>
+      <pubDate>Wed, 26 Jan 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-polkit-pozvolyayuschaya-poluchit-root-dostup-v-bolshinstve-dist-20220126-143503/</guid>
+      <description>Компания Qualys выявила уявзвимость (CVE-2021-4034) в системном компоненте Polkit (бывший PolicyKit), используемом в дистрибутивах для организации выполнения непривилегированными пользователями действий, требующих повышенных прав доступа. Уязвимость позволяет непривилегированному локальному пользователю повысить свои привилегии до пользователя root и получить полный контроль за системой. Проблема получила кодовое имя PwnKit и примечательная подготовкой рабочего эксплоита, работающего в конфигурации по умолчанию в большинстве дистрибутивов Linux.
+https://www.opennet.ru/opennews/art.shtml?num=56580</description>
+    </item>
+    
+    <item>
+      <title>В Polkit добавлена поддержка JavaScript-движка Duktape</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</link>
+      <pubDate>Tue, 25 Jan 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</guid>
+      <description>В инструментарий Polkit, используемый в дистрибутивах для обработки авторизации и определения правил доступа к операциям, требующим повышенных прав доступа (например, монтирования USB-накопителя), добавлен бэкенд, позволяющий использовать встраиваемый JavaScript-движок Duktape вместо ранее применяемого движка Mozilla Gecko (по умолчанию как и раньше осуществляется сборка с движком Mozilla). Язык JavaScript в Polkit используется для определения правил доступа, которые взаимодействуют с привилегированным фоновым процессом polkitd при помощи объекта &amp;ldquo;polkit&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=56578</description>
+    </item>
+    
+  </channel>
+</rss>

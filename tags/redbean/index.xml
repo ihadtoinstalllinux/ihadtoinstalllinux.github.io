@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redbean on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redbean/</link>
+    <description>Recent content in Redbean on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redbean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redbean 2.0 - платформа для web-приложений, упакованных в универсальный исполняемый ZIP-архив</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/redbean-2-0-platforma-dlya-web-prilozheniy-upakovannyh-v-universalnyy-ispolnyaemyy-zip-arh-20220625-183503/</guid>
+      <description>Представлен выпуск проекта Redbean 2.0, предлагающего web-сервер, позволяющий поставлять web-приложения в форме универсального исполняемого файла, который может быть выполнен в Linux, Windows, MacOS, FreeBSD, NetBSD и OpenBSD. Все связанные с web-приложением и сервером ресурсы компонуются в один исполняемый файл, который при этом совместим с форматом архивов ZIP и позволяет использовать утилиту zip для добавления дополнительных файлов. Возможность запуска одного файла в разных ОС и его распознание как ZIP-архива достигается благодаря манипуляциям с заголовками исполняемых файлов и связыванием с многоплатформенной стандартной Си-библиотекой Cosmopolitan.</description>
+    </item>
+    
+  </channel>
+</rss>

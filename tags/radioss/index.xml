@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RADIOSS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/radioss/</link>
+    <description>Recent content in RADIOSS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/radioss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликованы исходные тексты инженерного пакета RADIOSS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-ishodnye-teksty-inzhenernogo-paketa-radioss-20221109-163502/</link>
+      <pubDate>Wed, 09 Nov 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-ishodnye-teksty-inzhenernogo-paketa-radioss-20221109-163502/</guid>
+      <description>Компания Altair в рамках проекта OpenRADIOSS открыла исходные тексты пакета RADIOSS, который является аналогом LS-DYNA и предназначен для решения задач механики сплошных сред, таких как расчёт прочности инженерных конструкций в высоконелинейных задачах, связанных с большими пластическими деформациями исследуемой среды. Код в основном написан на языке Fortran и открыт под лицензией AGPLv3. Поддерживается работа в Linux и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=58080</description>
+    </item>
+    
+  </channel>
+</rss>

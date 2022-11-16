@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zenwalk on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zenwalk/</link>
+    <description>Recent content in Zenwalk on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zenwalk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Linux-дистрибутива Zenwalk 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-linux-distributiva-zenwalk-15-20220206-143502/</link>
+      <pubDate>Sun, 06 Feb 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-linux-distributiva-zenwalk-15-20220206-143502/</guid>
+      <description>После более пяти лет с момента прошлого значительного выпуска опубликован релиз дистрибутива Zenwalk 15, совместимого с пакетной базой Slackware 15 и использующего пользовательское окружение на основе Xfce 4.16. Для пользователей дистрибутив может быть интересен поставкой более свежих версий программ, дружественностью к пользователю, высокой скоростью работы, рациональностью подхода к выбору приложений (одно приложение для одной задачи), самодостаточностью (нет необходимости что-то доустанавливать) и использованием для управления пакетами системы Netpkg. Размер установочного iso-образа составляет 1.</description>
+    </item>
+    
+  </channel>
+</rss>

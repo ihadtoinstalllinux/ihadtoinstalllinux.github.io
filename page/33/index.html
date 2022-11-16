@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.92.0" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>iHADtoinstalllinux</title>
+
+<meta name="description" content="">
+<meta name="author" content="ihadtoinstalllinux">
+<link rel="canonical" href="https://ihadtoinstalllinux.github.io/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
+<link rel="preload" href="apple-touch-icon.png" as="image">
+<link rel="icon" href="https://ihadtoinstalllinux.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ihadtoinstalllinux.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ihadtoinstalllinux.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ihadtoinstalllinux.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ihadtoinstalllinux.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://ihadtoinstalllinux.github.io/index.xml">
+<link rel="alternate" type="application/json" href="https://ihadtoinstalllinux.github.io/index.json">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="iHADtoinstalllinux" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ihadtoinstalllinux.github.io/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="iHADtoinstalllinux"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "iHADtoinstalllinux",
+  "url": "https://ihadtoinstalllinux.github.io/",
+  "description": "",
+  "thumbnailUrl": "https://ihadtoinstalllinux.github.io/favicon.ico",
+  "sameAs": [
+      "https://vk.com/ihadtoinstalllinux", "https://t.me/ihadtoinstalllinux", "index.xml"
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ihadtoinstalllinux.github.io/" accesskey="h" title="iHADtoinstalllinux (Alt + H)">
+                <img src="https://ihadtoinstalllinux.github.io/apple-touch-icon.png" alt="logo" aria-label="logo"
+                    height=" 30px">iHADtoinstalllinux</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/posts/about/" title="About Us">
+                    <span>About Us</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Леннарт Поттеринг предложил модернизировать разбивку загрузочных разделов
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Леннарт Поттеринг продолжил публикацию идей по переработке компонентов для загрузки Linux и рассмотрел ситуацию с дублированием загрузочных разделов. Недовольство вызвало использование для организации начальной загрузки двух дисковых разделов с разными ФС, которые монтируются вложенно - раздела /boot/efi на базе ФС VFAT с компонентами прошивки EFI (EFI System Partition) и раздела /boot на базе ФС ext4, btrfs или xfs, на котором размещаются образы ядра Linux и initrd, а также настройки загрузчика. Ситуация усугубляется тем, что раздел EFI является общим для всех систем, а загрузочный раздел с ядром и initrd создаётся отдельно для каждого установленного дистрибутива Linux, что приводит к необходимости хранения лишних разделов при установке в системе нескольких дистрибутивов....</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-04 11:35:04 +0500 +05'>November 4, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Леннарт Поттеринг предложил модернизировать разбивку загрузочных разделов" href="https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predlozhil-modernizirovat-razbivku-zagruzochnyh-razdelov-20221104-113504/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://sun9-46.userapi.com/oVS4popOivEe0-OmmmrVoIv7W_FmhnoM_cqIlA/Nu6H7m5QUek.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2>Nu6H7m5QUek.jpg
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p></p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-04 10:35:42 +0500 +05'>November 4, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Nu6H7m5QUek.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20221104-103542/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Выпуск дистрибутива ROSA Fresh 12.3
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Компания НТЦ ИТ РОСА выпустила корректирующий релиз свободно распространяемого и разрабатываемого с участием сообщества дистрибутива ROSA Fresh 12.3, построенного на платформе rosa2021.1. Для свободной загрузки подготовлены сборки, оформленные для платформы x86_64 в вариантах с KDE Plasma 5, LXQt, GNOME, Xfce и без GUI. Пользователи, у которых уже установлен дистрибутив ROSA Fresh R12, получат обновление автоматически.
+https://www.opennet.ru/opennews/art.shtml?num=58043</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-04 10:35:03 +0500 +05'>November 4, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Выпуск дистрибутива ROSA Fresh 12.3" href="https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-rosa-fresh-12-3-20221104-103503/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://sun9-63.userapi.com/YLqNyWGE32fFRltn7TY1KNphg9VfZgx0ZecEug/b9aYy5QzOs8.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2>b9aYy5QzOs8.jpg
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p></p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-04 07:35:51 +0500 +05'>November 4, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to b9aYy5QzOs8.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20221104-073551/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>В январе в Переславле-Залесском состоится конференция СПО в высшей школе
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>27-29 января 2023 года в Переславле-Залесском пройдёт XVIII конференция “СПО в высшей школе”, также известная как OSEDUCONF. В мероприятии примут участие представители образовательного сообщества из России и других стран. Основной целью является налаживание личных контактов между специалистами, обсуждение перспектив и новинок области.
+https://www.opennet.ru/opennews/art.shtml?num=58042</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-04 01:35:03 +0500 +05'>November 4, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В январе в Переславле-Залесском состоится конференция СПО в высшей школе" href="https://ihadtoinstalllinux.github.io/posts/v-yanvare-v-pereslavle-zalesskom-sostoitsya-konferenciya-spo-v-vysshey-shkole-20221104-013503/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ihadtoinstalllinux.github.io/page/32/">« Prev Page</a>
+    <a class="next" href="https://ihadtoinstalllinux.github.io/page/34/">Next Page »</a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2022 <a href="https://ihadtoinstalllinux.github.io/">iHADtoinstalllinux</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

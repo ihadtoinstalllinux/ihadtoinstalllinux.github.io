@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arch/</link>
+    <description>Recent content in Arch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 22:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux прекратил поставку Python 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arch-linux-prekratil-postavku-python-2-20220923-223505/</link>
+      <pubDate>Fri, 23 Sep 2022 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arch-linux-prekratil-postavku-python-2-20220923-223505/</guid>
+      <description>Разработчики Arch Linux сообщили о прекращении поставки пакетов с Python 2 в репозиториях проекта. Ветка Python 2 была переведена в разряд неподдерживаемых ещё в январе 2020 года, но после этого потребовалось ещё много времени для постепенной переработки пакетов, завязанных на Python 2.
+https://www.opennet.ru/opennews/art.shtml?num=57820</description>
+    </item>
+    
+    <item>
+      <title>Выпуск инсталлятора Archinstall 2.5, применяемого в дистрибутиве Arch Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-5-primenyaemogo-v-distributive-arch-linux-20220530-143504/</link>
+      <pubDate>Mon, 30 May 2022 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-5-primenyaemogo-v-distributive-arch-linux-20220530-143504/</guid>
+      <description>Опубликован выпуск инсталлятора Archinstall 2.5, который с апреля 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Отдельно развивается реализация графического интерфейса установки, но она не включена в состав установочных образов Arch Linux и уже более двух лет не обновлялась.
+https://www.opennet.ru/opennews/art.shtml?num=57273</description>
+    </item>
+    
+    <item>
+      <title>Выпуск инсталлятора Archinstall 2.4, применяемого в дистрибутиве Arch Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-4-primenyaemogo-v-distributive-arch-linux-20220428-103502/</link>
+      <pubDate>Thu, 28 Apr 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-4-primenyaemogo-v-distributive-arch-linux-20220428-103502/</guid>
+      <description>Опубликован выпуск инсталлятора Archinstall 2.4, который с апреля 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Отдельно развивается реализация графического интерфейса установки, но она не включена в состав установочных образов Arch Linux и уже более двух лет не обновлялась.
+https://www.opennet.ru/opennews/art.shtml?num=57097</description>
+    </item>
+    
+  </channel>
+</rss>

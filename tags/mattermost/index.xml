@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mattermost on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mattermost/</link>
+    <description>Recent content in Mattermost on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mattermost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система обмена сообщениями Mattermost 7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-obmena-soobscheniyami-mattermost-7-0-20220620-123503/</link>
+      <pubDate>Mon, 20 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-obmena-soobscheniyami-mattermost-7-0-20220620-123503/</guid>
+      <description>Опубликован выпуск системы обмена сообщениями Mattermost 7.0, ориентированной на обеспечение коммуникации разработчиков и сотрудников предприятий. Код серверной части проекта написан на языке Go и распространяется под лицензией MIT. Web-интерфейс и мобильные приложения написаны на JavaScript с использованием React, десктоп-клиент для Linux, Windows и macOS построен на платформе Electron. В качестве СУБД могут применяться MySQL и PostgreSQL.
+https://www.opennet.ru/opennews/art.shtml?num=57380</description>
+    </item>
+    
+  </channel>
+</rss>

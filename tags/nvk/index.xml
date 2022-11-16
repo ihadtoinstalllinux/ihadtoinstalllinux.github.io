@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NVK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nvk/</link>
+    <description>Recent content in NVK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Oct 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен NVK, открытый Vulkan-драйвер для видеокарт NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-nvk-otkrytyy-vulkan-drayver-dlya-videokart-nvidia-20221005-013502/</link>
+      <pubDate>Wed, 05 Oct 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-nvk-otkrytyy-vulkan-drayver-dlya-videokart-nvidia-20221005-013502/</guid>
+      <description>Компания Collabora представила NVK, новый открытый драйвер для Mesa с реализацией графического API Vulkan для видеокарт NVIDIA. Драйвер написан с нуля, используя официальные заголовочные файлы и открытые модули ядра, опубликованные компанией NVIDIA. Код драйвера открыт под лицензией MIT. Драйвером поддерживаются пока только GPU на базе микроархитектур Turing и Ampere, выпускаемые с сентября 2018 года.
+https://www.opennet.ru/opennews/art.shtml?num=57869</description>
+    </item>
+    
+  </channel>
+</rss>

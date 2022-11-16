@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Subsystem on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/subsystem/</link>
+    <description>Recent content in Subsystem on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/subsystem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft добавил поддержку systemd в WSL (Windows Subsystem for Linux)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-systemd-v-wsl-windows-subsystem-for-linux-20220923-153503/</link>
+      <pubDate>Fri, 23 Sep 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-systemd-v-wsl-windows-subsystem-for-linux-20220923-153503/</guid>
+      <description>Компания Microsoft объявила о реализации возможности использования системного менеджера systemd в Linux-окружениях, предназначенных для запуска в Windows с использованием подсистемы WSL. Поддержка systemd позволила снизить требования к дистрибутивам и приблизить предоставляемую в WSL среду к ситуации запуска дистрибутивов поверх обычного оборудования.
+https://www.opennet.ru/opennews/art.shtml?num=57818</description>
+    </item>
+    
+    <item>
+      <title>В июньском обновлении Windows Server 2022 появилась поддержка WSL2 (Windows Subsystem for Linux)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</link>
+      <pubDate>Wed, 22 Jun 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-iyunskom-obnovlenii-windows-server-2022-poyavilas-podderzhka-wsl2-windows-subsystem-for-20220622-103502/</guid>
+      <description>Компания Microsoft объявила об интеграции поддержки Linux-окружений на базе подсистемы WSL2 (Windows Subsystem for Linux) в состав на днях выпущенного июньского сводного обновления Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций.
+https://www.opennet.ru/opennews/art.shtml?num=57389</description>
+    </item>
+    
+    <item>
+      <title>Microsoft добавил поддержку WSL2 (Windows Subsystem for Linux) в Windows Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</link>
+      <pubDate>Fri, 27 May 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-wsl2-windows-subsystem-for-linux-v-windows-server-20220527-163502/</guid>
+      <description>Компания Microsoft реализовала поддержку подсистемы WSL2 (Windows Subsystem for Linux) в Windows Server 2022. Изначально подсистема WSL2, обеспечивающая запуск исполняемых файлов Linux в Windows, предлагалась только в вариантах Windows для рабочих станций, но теперь Microsoft перенёс данную подсистему и в серверные редакции Windows. Компоненты для поддержки WSL2 в Windows Server пока доступны для тестирования в форме экспериментального обновления KB5014021 (OS Build 20348.740). В июньском сводном обновлении поддержку Linux-окружений на базе WSL2 планируют интегрировать в основной состав Windows Server 2022 и предложить всем пользователям.</description>
+    </item>
+    
+  </channel>
+</rss>

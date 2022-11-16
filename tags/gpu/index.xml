@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gpu/</link>
+    <description>Recent content in GPU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux-драйвер для GPU чипов Apple M1 прошёл 99% тестов совместимости с OpenGL ES 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</link>
+      <pubDate>Sat, 22 Oct 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</guid>
+      <description>Разработчик открытого Linux-драйвера для GPU Apple AGX, используемого в чипах Apple M1, сообщил об успешном прохождении 99.3% тестов из набора dEQP-GLES2, проверяющего уровень поддержки спецификации OpenGL ES 2. В работе использованы два компонента: DRM-драйвер для ядра Linux, написанный на языке Rust, и драйвер для Mesa, написанный на языке Си.
+https://www.opennet.ru/opennews/art.shtml?num=57956</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в ядре Linux 5.9.12, потенциально способная повредить экраны на ноутбуках с GPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-yadre-linux-5-9-12-potencialno-sposobnaya-povredit-ekrany-na-noutbukah-s-gpu-int-20221007-143503/</link>
+      <pubDate>Fri, 07 Oct 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-yadre-linux-5-9-12-potencialno-sposobnaya-povredit-ekrany-na-noutbukah-s-gpu-int-20221007-143503/</guid>
+      <description>В наборе исправлений к графическому драйверу i915, включённому в состав ядра Linux 5.9.12, выявлена критическая ошибка, потенциально способная привести к повреждению жидкокристаллических экранов (случаи повреждений, произошедшие из-за рассматриваемой проблемы, пока не зафиксированы, но гипотетически возможность повреждения не исключается сотрудниками Intel). Проблема затрагивает только ноутбуки с графической подсистемой Intel, на которых используется драйвер i915. Проявление ошибки отмечено на некоторых ноутбуках Lenovo, Dell, Thinkpad и Framework.
+https://www.opennet.ru/opennews/art.shtml?num=57883</description>
+    </item>
+    
+    <item>
+      <title>Драйвер Panfrost сертифицирован на совместимость с OpenGL ES 3.1 для GPU Mali серии Valhall </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/drayver-panfrost-sertificirovan-na-sovmestimost-s-opengl-es-3-1-dlya-gpu-mali-serii-valhal-20220607-003502/</link>
+      <pubDate>Tue, 07 Jun 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/drayver-panfrost-sertificirovan-na-sovmestimost-s-opengl-es-3-1-dlya-gpu-mali-serii-valhal-20220607-003502/</guid>
+      <description>Компания Collabora объявила о сертификации организацией Khronos графического драйвера Panfrost на системах с GPU Mali на базе микроархитектуры Valhall (Mali-G57). Драйвер успешно прошёл все тесты набора CTS (Khronos Conformance Test Suite) и признан полностью совместимым со спецификацией OpenGL ES 3.1.
+https://www.opennet.ru/opennews/art.shtml?num=57308</description>
+    </item>
+    
+    <item>
+      <title>Проект VeriGPU развивает открытый GPU на языке Verilog</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-verigpu-razvivaet-otkrytyy-gpu-na-yazyke-verilog-20220424-003502/</link>
+      <pubDate>Sun, 24 Apr 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-verigpu-razvivaet-otkrytyy-gpu-na-yazyke-verilog-20220424-003502/</guid>
+      <description>Проект VeriGPU нацелен на создание открытого GPU, развиваемого на языке описания и моделирования электронных систем Verilog. Изначально проект разрабатывается с использованием симулятора Verilog, но после доведения до готовности сможет использоваться для производства реальных чипов. Наработки проекта распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=57074</description>
+    </item>
+    
+    <item>
+      <title>Опубликован HPVM 2.0, компилятор для CPU, GPU, FPGA и аппаратных ускорителей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-hpvm-2-0-kompilyator-dlya-cpu-gpu-fpga-i-apparatnyh-uskoriteley-20220423-113502/</link>
+      <pubDate>Sat, 23 Apr 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-hpvm-2-0-kompilyator-dlya-cpu-gpu-fpga-i-apparatnyh-uskoriteley-20220423-113502/</guid>
+      <description>Проект LLVM представил выпуск компилятора HPVM 2.0 (Heterogeneous Parallel Virtual Machine), нацеленного на упрощение программирования для гетерогенных систем и предоставляющего средства для генерации кода для CPU, GPU, FPGA и предметно-ориентированных аппаратных ускорителей. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57072</description>
+    </item>
+    
+    <item>
+      <title>Метод идентификации системы пользователя на основе информации о GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/metod-identifikacii-sistemy-polzovatelya-na-osnove-informacii-o-gpu-20220201-153502/</link>
+      <pubDate>Tue, 01 Feb 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/metod-identifikacii-sistemy-polzovatelya-na-osnove-informacii-o-gpu-20220201-153502/</guid>
+      <description>Исследователи из Университета имени Бен-Гуриона (Израиль), Университета Лилля (Франция) и Университета Аделаиды (Австралия) разработали новую технику идентификации устройств пользователя через определение параметров работы GPU в web-браузере. Метод получил название &amp;ldquo;Drawn Apart&amp;rdquo; и основан на использовании WebGL для получения профиля производительности GPU, позволяющего значительно повысить точность пассивных методов отслеживания, работающих без применения Cookie и без сохранения идентификатора на системе пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=56614</description>
+    </item>
+    
+    <item>
+      <title>В свободном драйвере Panfrost обеспечена поддержка GPU Mali Valhall</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-svobodnom-drayvere-panfrost-obespechena-podderzhka-gpu-mali-valhall-20220128-123502/</link>
+      <pubDate>Fri, 28 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-svobodnom-drayvere-panfrost-obespechena-podderzhka-gpu-mali-valhall-20220128-123502/</guid>
+      <description>Сотрудники компании Collabora.
+https://www.opennet.ru/opennews/art.shtml?num=56598</description>
+    </item>
+    
+  </channel>
+</rss>

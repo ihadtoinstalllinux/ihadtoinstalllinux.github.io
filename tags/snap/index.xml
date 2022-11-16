@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/snap/</link>
+    <description>Recent content in Snap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/snap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики Ubuntu приступили к решению проблем с медленным запуском snap-пакета Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-ubuntu-pristupili-k-resheniyu-problem-s-medlennym-zapuskom-snap-paketa-firef-20220527-173503/</link>
+      <pubDate>Fri, 27 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-ubuntu-pristupili-k-resheniyu-problem-s-medlennym-zapuskom-snap-paketa-firef-20220527-173503/</guid>
+      <description>Компания Canonical приступила к решению проблем с производительностью snap-пакета с Firefox, который был предложен по умолчанию в Ubuntu 22.04 вместо обычного deb-пакета. Основное недовольство пользователей связано с очень медленным запуском Firefox. Например, на ноутбуке Dell XPS 13 первый запуск Firefox после установки занимает 7.6 секунд, на ноутбуке Thinkpad X240 - 15 секунд, а на плате Raspberry Pi 400 - 38 секунд. Повторные запуски выполняются уже за 0.86, 1.39 и 8.11 секунд соответственно.</description>
+    </item>
+    
+    <item>
+      <title>Компания Canonical представила Steam Snap для упрощения доступа к играм в Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-predstavila-steam-snap-dlya-uproscheniya-dostupa-k-igram-v-ubuntu-20220430-103502/</link>
+      <pubDate>Sat, 30 Apr 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-predstavila-steam-snap-dlya-uproscheniya-dostupa-k-igram-v-ubuntu-20220430-103502/</guid>
+      <description>Компания Canonical рассказала о планах по расширению возможностей Ubuntu, как платформы для запуска игровых приложений. Отмечается, что развитие проектов Wine и Proton, а также адаптация античит-сервисов BattlEye и Easy Anti-Cheat, уже позволяют запускать в Linux многие игры, доступные только для Windows. После выхода Ubuntu 22.04 LTS компания намерена плотно заняться работой по упрощению доступа к играм в Ubuntu и повышению удобства их запуска. Развитие Ubuntu как удобного окружения для запуска игр отнесено к числу приоритетных направлений и для достижения цели компания намерена нанять дополнительный персонал.</description>
+    </item>
+    
+    <item>
+      <title>Проект Celestial развивает сборку Ubuntu с Flatpak вместо Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</link>
+      <pubDate>Mon, 18 Apr 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</guid>
+      <description>Представлен бета-выпуск дистрибутива CelOS (Celestial OS), представляющего собой пересборку Ubuntu 22.04, в которой инструментарий управления пакетами Snap заменён на Flatpak. Вместо установки дополнительных приложений из каталога Snap Store предложена интеграция с каталогом Flathub. Размер установочного образа 3.7 ГБ. Наработки проекта распространяются под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57035</description>
+    </item>
+    
+    <item>
+      <title>Браузер Firefox будет поставляться в Ubuntu 22.04 LTS только в формате Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/brauzer-firefox-budet-postavlyatsya-v-ubuntu-22-04-lts-tolko-v-formate-snap-20220322-163503/</link>
+      <pubDate>Tue, 22 Mar 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/brauzer-firefox-budet-postavlyatsya-v-ubuntu-22-04-lts-tolko-v-formate-snap-20220322-163503/</guid>
+      <description>Начиная с релиза Ubuntu 22.04 LTS, deb-пакеты firefox и firefox-locale будут замены на заглушки, устанавливающие Snap-пакет с Firefox. Возможность установки классического пакета в формате deb будет прекращена и пользователи будут вынуждены использовать либо предлагаемый пакет в формате snap, либо загружать сборки напрямую с сайта Mozilla. Для пользователей deb-пакета предоставлен прозрачный процесс перехода на snap через публикацию обновления, которое установит snap-пакет и перенесёт текущие настройки из домашнего каталога пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=56892</description>
+    </item>
+    
+    <item>
+      <title>Локальные root-уязвимости в инструментарии управления пакетами Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lokalnye-root-uyazvimosti-v-instrumentarii-upravleniya-paketami-snap-20220218-023502/</link>
+      <pubDate>Fri, 18 Feb 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lokalnye-root-uyazvimosti-v-instrumentarii-upravleniya-paketami-snap-20220218-023502/</guid>
+      <description>Компания Qualys.
+https://www.opennet.ru/opennews/art.shtml?num=56717</description>
+    </item>
+    
+  </channel>
+</rss>

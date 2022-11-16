@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GStreamer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gstreamer/</link>
+    <description>Recent content in GStreamer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gstreamer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GStreamer реализована поддержка плагинов, написанных на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gstreamer-realizovana-podderzhka-plaginov-napisannyh-na-rust-20220919-003503/</link>
+      <pubDate>Mon, 19 Sep 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gstreamer-realizovana-podderzhka-plaginov-napisannyh-na-rust-20220919-003503/</guid>
+      <description>В мультимедийном фреймворке GStreamer реализована возможность поставки плагинов, написанных на языке программирования Rust, в составе официальных двоичных выпусков. Нирбхик Чаухан (Nirbheek Chauhan), участвующих в разработке GNOME и GStreamer, предложил патч для GStreamer, обеспечивающий сборку Cargo-C рецептов, необходимых для поставки плагинов на языке Rust в основном составе GStreamer.
+https://www.opennet.ru/opennews/art.shtml?num=57799</description>
+    </item>
+    
+    <item>
+      <title>Доступен мультимедийный фреймворк GStreamer 1.20.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-multimediynyy-freymvork-gstreamer-1-20-0-20220204-123503/</link>
+      <pubDate>Fri, 04 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-multimediynyy-freymvork-gstreamer-1-20-0-20220204-123503/</guid>
+      <description>После полутора лет разработки состоялся релиз GStreamer 1.20, написанного на языке Си кроссплатформенного набора компонентов для создания широкого спектра мультимедиа приложений, от медиаплееров и конвертеров аудио/видео файлов, до VoIP-приложений и систем потокового вещания. Код GStreamer распространяется под лицензией LGPLv2.1. Одновременно доступны обновления плагинов gst-plugins-base 1.20, gst-plugins-good 1.20, gst-plugins-bad 1.20, gst-plugins-ugly 1.20, а также обвязка gst-libav 1.20 и сервер потокового вещания gst-rtsp-server 20. На уровне API и ABI новый выпуск обратно совместим с веткой 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CQtDeployer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cqtdeployer/</link>
+    <description>Recent content in CQtDeployer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cqtdeployer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз CQtDeployer 1.6, утилиты для развертывания приложений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cqtdeployer-1-6-utility-dlya-razvertyvaniya-prilozheniy-20221024-133503/</link>
+      <pubDate>Mon, 24 Oct 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cqtdeployer-1-6-utility-dlya-razvertyvaniya-prilozheniy-20221024-133503/</guid>
+      <description>Группа разработчиков QuasarApp опубликовала релиз CQtDeployer v1.6, утилиты для быстрого развёртывания C, C++, Qt и QML приложений. CQtDeployer поддерживает создание deb-пакетов, zip-архивов и qifw-пакетов. Утилита является кросс-платформенной и кросс-архитектурной, что позволяет развертывать arm- и x86-сборки приложений под Linux или Windows. Сборки CQtDeployer распространяются в пакетах deb, zip, qifw и snap. Код написан на С++ и распространяется под лицензией LGPL 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=57966</description>
+    </item>
+    
+  </channel>
+</rss>

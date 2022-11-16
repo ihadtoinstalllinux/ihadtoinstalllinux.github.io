@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oracle on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/oracle/</link>
+    <description>Recent content in Oracle on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jul 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны Oracle Linux 9 и ядро Unbreakable Enterprise Kernel 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-oracle-linux-9-i-yadro-unbreakable-enterprise-kernel-7-20220706-123503/</link>
+      <pubDate>Wed, 06 Jul 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-oracle-linux-9-i-yadro-unbreakable-enterprise-kernel-7-20220706-123503/</guid>
+      <description>Компания Oracle опубликовала стабильные выпуски дистрибутива Oracle Linux 9 и ядра Unbreakable Enterprise Kernel 7 (UEK R7), позиционируемого для использования в дистрибутиве Oracle Linux в качестве альтернативы штатному пакету с ядром из Red Hat Enterprise Linux. Дистрибутив Oracle Linux 9 создан на основе пакетной базы Red Hat Enterprise Linux 9 и полностью бинарно совместим с ней.
+https://www.opennet.ru/opennews/art.shtml?num=57460</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск Oracle Linux 9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</link>
+      <pubDate>Tue, 14 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-oracle-linux-9-20220614-143502/</guid>
+      <description>Компания Oracle представила предварительный выпуск дистрибутива Oracle Linux 9, созданного на основе пакетной базы Red Hat Enterprise Linux 9 и полностью бинарно совместимого с ней. Для загрузки без ограничений предложен установочный iso-образ, размером 8 ГБ, подготовленный для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux 9 открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 8.6 и бета-выпуск ядра Unbreakable Enterprise Kernel 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-6-i-beta-vypusk-yadra-unbreakable-enterprise-kernel-7-20220519-143502/</link>
+      <pubDate>Thu, 19 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-6-i-beta-vypusk-yadra-unbreakable-enterprise-kernel-7-20220519-143502/</guid>
+      <description>Компания Oracle опубликовала релиз дистрибутива Oracle Linux 8.6, созданного на основе пакетной базы Red Hat Enterprise Linux 8.6. Для загрузки без ограничений распространяется установочный iso-образ, размером 8.6 ГБ, подготовленный для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые модули Application Stream.
+https://www.opennet.ru/opennews/art.shtml?num=57215</description>
+    </item>
+    
+    <item>
+      <title>Компания Oracle опубликовала утилиту для перевода приложений с Solaris 10 на Solaris 11.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-utilitu-dlya-perevoda-prilozheniy-s-solaris-10-na-solaris-11-20220502-163503/</link>
+      <pubDate>Mon, 02 May 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-utilitu-dlya-perevoda-prilozheniy-s-solaris-10-na-solaris-11-20220502-163503/</guid>
+      <description>Компания Oracle опубликовала утилиту sysdiff, упрощающую перенос старых приложений из Solaris 10 в окружение на базе Solaris 11.4. В связи с переходом Solaris 11 на систему пакетов IPS (Image Packaging System) и прекращением поддержки пакетов SVR4, прямой перенос приложений с имеющимися зависимостями затруднён, несмотря на сохранение бинарной совместимости, поэтому до сих пор одним из наиболее простых вариантов миграции был запуск отдельного изолированного окружения Solaris 10 внутри системы с Solaris 11.4.</description>
+    </item>
+    
+    <item>
+      <title>Oracle представил Solaris 11.4 CBE, редакцию для бесплатного использования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oracle-predstavil-solaris-11-4-cbe-redakciyu-dlya-besplatnogo-ispolzovaniya-20220304-143503/</link>
+      <pubDate>Fri, 04 Mar 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oracle-predstavil-solaris-11-4-cbe-redakciyu-dlya-besplatnogo-ispolzovaniya-20220304-143503/</guid>
+      <description>Компания Oracle представила Solaris 11.4 CBE (Common Build Environment), новый бесплатный вариант операционной системы Solaris 11.4, нацеленный на использование разработчиками открытого ПО и применения в персональных целях. В отличие от ранее предлагаемых основных сборок Solaris 11.4, лицензия на которые допускает бесплатное использование для тестирования, разработки и применения в персональных проектах, новая редакция отличается задействованием непрерывной модели публикации новых версий и близка к редакции Solaris 11.4 SRU (Support Repository Update).
+https://www.opennet.ru/opennews/art.shtml?num=56800</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220119-120102/</link>
+      <pubDate>Wed, 19 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220119-120102/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В январском обновлении в сумме устранено 497 уязвимостей.
+#Java #SE #MySQL #VirtualBox #Oracle
+https://www.opennet.ru/opennews/art.shtml?num=56538</description>
+    </item>
+    
+  </channel>
+</rss>

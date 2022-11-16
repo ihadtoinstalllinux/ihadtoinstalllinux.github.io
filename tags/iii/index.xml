@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>III on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/iii/</link>
+    <description>Recent content in III on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2022 00:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск открытого игрового движка VCMI 1.0.0, совместимого с Heroes of Might and Magic III</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-vcmi-1-0-0-sovmestimogo-s-heroes-of-might-and-magic-iii-20220913-003506/</link>
+      <pubDate>Tue, 13 Sep 2022 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-vcmi-1-0-0-sovmestimogo-s-heroes-of-might-and-magic-iii-20220913-003506/</guid>
+      <description>Доступен выпуск проекта VCMI 1.0, развивающего открытый игровой движок, совместимый с форматом данных, используемым в играх Heroes of Might and Magic III. Важной целью проекта также является поддержка модов, при помощи которых имеется возможность добавлять в игру новые города, героев, монстров, артефакты и заклинания. Исходные тексты распространяются под лицензией GPLv2. Поддерживается работа в Linux, Windows, macOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=57773</description>
+    </item>
+    
+    <item>
+      <title>Проект Warsmash развивает альтернативный открытый игровой движок для Warcraft III</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-warsmash-razvivaet-alternativnyy-otkrytyy-igrovoy-dvizhok-dlya-warcraft-iii-20220425-143502/</link>
+      <pubDate>Mon, 25 Apr 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-warsmash-razvivaet-alternativnyy-otkrytyy-igrovoy-dvizhok-dlya-warcraft-iii-20220425-143502/</guid>
+      <description>Проектом Warsmash развивается альтернативный открытый игровой движок для игры Warcraft III, способный воссоздать игровой процесс при наличии в системе оригинальной игры (для работы требуются файлы с игровыми ресурсами, входящие в оригинальную поставку Warcraft III). Проект находится на альфа-стадии разработки, но уже поддерживает как однопользовательское прохождение, так и участие в сетевых многопользовательских баталиях. Основным назначением разработки называется упрощение создания модификаций Warcraft III и проведение экспериментов. Код написан на языке Java с использованием фреймворка для разработки игр libGDX и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

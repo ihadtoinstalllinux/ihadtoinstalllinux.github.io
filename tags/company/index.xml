@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Company on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/company/</link>
+    <description>Recent content in Company on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/company/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Qt Company опубликовала код выпуска Qt 5.15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-qt-company-opublikovala-kod-vypuska-qt-5-15-6-20220908-163503/</link>
+      <pubDate>Thu, 08 Sep 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-qt-company-opublikovala-kod-vypuska-qt-5-15-6-20220908-163503/</guid>
+      <description>Компания Qt Company сформировала открытый выпуск Qt 5.15.6, включающий исправления для LTS-ветки 5.15, актуальные обновления для которой формируются только для пользователей коммерческой лицензии (остальным предлагается использовать ветку Qt 6.x). Для коммерческих пользователей обновление Qt 5.15.6 был опубликовано год назад. Частично, доступные в данном выпуске исправления были доведены до дистрибутивов в форме набора патчей, сопровождаемого проектом KDE. Ветка Qt 5.15 была опубликована в мае 2020 года и будет сопровождаться до мая 2025 года.</description>
+    </item>
+    
+    <item>
+      <title>Технический директор Qt Company и главный сопровождающий Qt покидает проект</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-direktor-qt-company-i-glavnyy-soprovozhdayuschiy-qt-pokidaet-proekt-20220518-173503/</link>
+      <pubDate>Wed, 18 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tehnicheskiy-direktor-qt-company-i-glavnyy-soprovozhdayuschiy-qt-pokidaet-proekt-20220518-173503/</guid>
+      <description>Ларс Кнолл (Lars Knoll), создатель разработанного для KDE движка KHTML, который лёг в основу движков браузеров Safari и Chrome, и руководитель проекта Qt Project, объявил об уходе с поста технического директора компании Qt Company после 25 лет работы в экосистеме Qt. По мнению Ларса после его ухода проект останется в надёжных руках и продолжит развитие в соответствии с теми же принципами. В качестве мотива ухода называется желание попробовать заняться чем то другим, помимо фреймворка Qt, которым он занимается ещё со студенческих времён.</description>
+    </item>
+    
+    <item>
+      <title>Компания Qt Company представила платформу для встраивания рекламы в Qt-приложения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-153503/</link>
+      <pubDate>Thu, 20 Jan 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-153503/</guid>
+      <description>Компания Qt Company опубликовала первый выпуск платформы Qt Digital Advertising для упрощения монетизации разработки приложений на основе библиотеки Qt. Платформа предоставляет одноимённый кроссплатформенный Qt-модуль с QML API для встраивания рекламы в интерфейс приложений и организации её доставки по аналогии со вставкой рекламных блоков в мобильные приложения. Интерфейс для упрощения вставки рекламных блоков оформлен в виде плагинов для Qt Design Studio и Qt Creator.
+https://www.opennet.ru/opennews/art.shtml?num=56548</description>
+    </item>
+    
+  </channel>
+</rss>

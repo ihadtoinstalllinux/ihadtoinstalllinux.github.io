@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Facebook on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/facebook/</link>
+    <description>Recent content in Facebook on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Nov 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook представил новую систему управления исходными текстами Sapling</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-novuyu-sistemu-upravleniya-ishodnymi-tekstami-sapling-20221116-143503/</link>
+      <pubDate>Wed, 16 Nov 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-novuyu-sistemu-upravleniya-ishodnymi-tekstami-sapling-20221116-143503/</guid>
+      <description>Facebook (запрещён в РФ)) опубликовал систему управления исходными текстами Sapling, применяемую при разработке внутренних проектов компании. Система нацелена на предоставление привычного интерфейса управления версиями, который может масштабироваться для очень крупных репозиториев, охватывающих десятки миллионов файлов, коммитов и веток. Код клиента написан на языках Python и Rust, и открыт под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=58123</description>
+    </item>
+    
+    <item>
+      <title>Facebook опубликовал звуковой кодек EnCodec, использующий машинное обучение</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-zvukovoy-kodek-encodec-ispolzuyuschiy-mashinnoe-obuchenie-20221102-193502/</link>
+      <pubDate>Wed, 02 Nov 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-zvukovoy-kodek-encodec-ispolzuyuschiy-mashinnoe-obuchenie-20221102-193502/</guid>
+      <description>Компания Meta/Facebook (запрещена в РФ) представила новый звуковой кодек EnCodec, использующий методы машинного обучения для повышения степени сжатия без потери качества. Кодек может применять как для потоковой передачи звука в режиме реального времени, так и для кодирования для последующего сохранения в файлах. Эталонная реализация EnCodec написана на языке Python с использованием фреймворка PyTorch и распространяется под лицензией CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial), допускающей использование только в некоммерческих целях.
+https://www.opennet.ru/opennews/art.shtml?num=58029</description>
+    </item>
+    
+    <item>
+      <title>Facebook открыл код фреймворка для выявления утечек памяти в JavaScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-freymvorka-dlya-vyyavleniya-utechek-pamyati-v-javascript-20220919-223502/</link>
+      <pubDate>Mon, 19 Sep 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-freymvorka-dlya-vyyavleniya-utechek-pamyati-v-javascript-20220919-223502/</guid>
+      <description>Facebook открыл исходные тексты инструментария memlab, предназначенного для анализа срезов состояния динамически распределяемой памяти (кучи), определения стратегии оптимизации работы с памятью и выявления утечек памяти, возникающих при выполнении кода на языке JavaScript. Код открыт под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=57802</description>
+    </item>
+    
+    <item>
+      <title>Facebook выделил C&#43;&#43;, Rust, Python и Hack в качестве предпочтительных языков программирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-vydelil-c-rust-python-i-hack-v-kachestve-predpochtitelnyh-yazykov-programmirovani-20220729-133503/</link>
+      <pubDate>Fri, 29 Jul 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-vydelil-c-rust-python-i-hack-v-kachestve-predpochtitelnyh-yazykov-programmirovani-20220729-133503/</guid>
+      <description>Компания Facebook/Meta (запрещена в РФ) опубликовала список языков программирования, рекомендуемых инженерам при разработке внутренних серверных компонентов Facebook и полностью поддерживаемых в инфраструктуре компании. По сравнению с прошлыми рекомендациями в список включён язык Rust, который дополнил ранее применяемые C++, Python и Hack (развиваемый Facebook вариант PHP со статической типизацией). Для поддерживаемых языков в Facebook разработчикам предоставляется готовый инструментарий для редактирования, отладки, сборки и развёртывания проектов, а также необходимый набор библиотек и компоненты для обеспечения переносимости.</description>
+    </item>
+    
+    <item>
+      <title>Facebook опубликовал модель для машинного перевода, поддерживающую 200 языков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-model-dlya-mashinnogo-perevoda-podderzhivayuschuyu-200-yazykov-20220707-173502/</link>
+      <pubDate>Thu, 07 Jul 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-model-dlya-mashinnogo-perevoda-podderzhivayuschuyu-200-yazykov-20220707-173502/</guid>
+      <description>Компания Facebook (запрещена в РФ) опубликовала наработки проекта NLLB (No Language Left Behind), нацеленного на создание универсальной модели машинного обучения для прямого перевода текста с одного языка на другой, минуя промежуточный перевод на английский язык. Предложенная модель охватывает более 200 языков, включая редкие языки африканских и австралийских народов. Конечной целью проекта является предоставление средств для общения любых людей, независимо от языка на котором они говорят.
+https://www.opennet.ru/opennews/art.shtml?num=57466</description>
+    </item>
+    
+    <item>
+      <title>Facebook представил механизм TMO, позволяющий экономить 20-32% памяти на серверах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</link>
+      <pubDate>Tue, 21 Jun 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-predstavil-mehanizm-tmo-pozvolyayuschiy-ekonomit-20-32-pamyati-na-serverah-20220621-133503/</guid>
+      <description>Инженеры из компании Facebook (запрещена в РФ) опубликовали отчёт о внедрении в прошлом году технологии TMO (Transparent Memory Offloading), позволяющей значительно экономить оперативную память на серверах за счёт вытеснения не требуемых для выполнения работы вторичных данных на более дешёвые накопители, такие как NVMe SSD-диски. По оценке Facebook, применение TMO позволяет экономить от 20 до 32% ОЗУ на каждом сервере. Решение рассчитано на применение в инфраструктурах, в которых приложения запускаются в изолированных контейнерах.</description>
+    </item>
+    
+    <item>
+      <title>Facebook открыл код Lexical, библиотеки для создания редакторов текста</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-lexical-biblioteki-dlya-sozdaniya-redaktorov-teksta-20220414-103503/</link>
+      <pubDate>Thu, 14 Apr 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-lexical-biblioteki-dlya-sozdaniya-redaktorov-teksta-20220414-103503/</guid>
+      <description>Компания Facebook (запрещена в РФ) открыла исходные тексты JavaScript-библиотеки Lexical, предлагающей компоненты для создания текстовых редакторов и продвинутых web-форм редактирования текста для сайтов и web-приложений. Из отличительных качеств библиотеки выделяется простота интеграции на сайты, компактное исполнение и поддержка средств для людей с ограниченными возможностями, таких как экранные ридеры. Код написан на языке JavaScript и распространяется под лицензией MIT. Для ознакомления с возможностями библиотеки подготовлено несколько интерактивных демонстраций.
+https://www.opennet.ru/opennews/art.shtml?num=57018</description>
+    </item>
+    
+  </channel>
+</rss>

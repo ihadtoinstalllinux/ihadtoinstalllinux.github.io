@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SHA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sha/</link>
+    <description>Recent content in SHA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в библиотеке с основной реализацией алгоритма SHA-3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-s-osnovnoy-realizaciey-algoritma-sha-3-20221021-113503/</link>
+      <pubDate>Fri, 21 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-s-osnovnoy-realizaciey-algoritma-sha-3-20221021-113503/</guid>
+      <description>В реализации криптографической хэш-функции SHA-3 (Keccak), предлагаемой в пакете XKCP (eXtended Keccak Code Package), выявлена уязвимость (CVE-2022-37454), которая может привести к переполнению буфера в процессе обработки определённо оформленных данных. Проблема вызвана ошибкой в коде конкретной реализации SHA-3, а не уязвимостью в самом алгоритме. Пакет XKCP преподносится как официальная реализация SHA-3, развивается при участии команды разработчиков Keccak и используется в качестве основы в функциях для работы с SHA-3 в различных языках программирования (например, код XKCP используется в Python-модуле hashlib, Ruby-пакете digest-sha3 и PHP-функциях hash_*).</description>
+    </item>
+    
+    <item>
+      <title>В Fedora Linux 39 планируют по умолчанию отключить поддержку подписей на основе SHA-1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-39-planiruyut-po-umolchaniyu-otklyuchit-podderzhku-podpisey-na-osnove-sha-1-20220830-133503/</link>
+      <pubDate>Tue, 30 Aug 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-39-planiruyut-po-umolchaniyu-otklyuchit-podderzhku-podpisey-na-osnove-sha-1-20220830-133503/</guid>
+      <description>Разработчики проекта Fedora наметили план отключения поддержки цифровых подписей на основе алгоритма SHA-1 в Fedora Linux 39. Отключение предполагает прекращение доверия к подписям, в которых используются хэши SHA-1 (в качестве минимально поддерживаемого в цифровых подписях будет заявлен SHA-224), но сохранение поддержки HMAC с SHA-1 и предоставлении возможности включить LEGACY-профиль с SHA-1. После применения изменений библиотека OpenSSL по умолчанию начнёт блокировать генерацию и проверку подписей с SHA-1.
+https://www.opennet.ru/opennews/art.shtml?num=57697</description>
+    </item>
+    
+  </channel>
+</rss>

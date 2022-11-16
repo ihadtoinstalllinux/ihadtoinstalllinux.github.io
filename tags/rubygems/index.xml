@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RubyGems on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rubygems/</link>
+    <description>Recent content in RubyGems on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rubygems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RubyGems переходит на обязательную двухфакторную аутентификацию для популярных пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rubygems-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-dlya-populyarnyh-paketo-20220614-153504/</link>
+      <pubDate>Tue, 14 Jun 2022 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rubygems-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-dlya-populyarnyh-paketo-20220614-153504/</guid>
+      <description>Для защиты от атак по захвату учётных записей, нацеленных на получение контроля над зависимостями, репозиторий пакетов RubyGems объявил о переходе к применению обязательной двухфакторой аутентификации для учётных записей сопровождающих 100 наиболее популярных пакетов (по числу загрузок), а также пакетов число загрузок которых превышает 165 млн. Применение двухфакторной аутентификации существенно усложнит получение доступа в случае компрометации учётных данных разработчика, например, при повторном использовании пароля на скомпрометированном сайте, применении предсказуемых паролей или перехвате учётных данных в результате активности вредоносного ПО на системе разработчика.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в RubyGems.org, позволяющая подменить чужие пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-rubygems-org-pozvolyayuschaya-podmenit-chuzhie-pakety-20220509-123502/</link>
+      <pubDate>Mon, 09 May 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-rubygems-org-pozvolyayuschaya-podmenit-chuzhie-pakety-20220509-123502/</guid>
+      <description>В репозитории пакетов RubyGems.org выявлена критическая уязвимость (CVE-2022-29176), позволяющая без наличия должных полномочий подменить некоторые чужие пакеты в репозитории путём инициирования изъятия (yank) легитимного пакета и загрузки вместо него другого файла с тем же именем и номером версии.
+https://www.opennet.ru/opennews/art.shtml?num=57155</description>
+    </item>
+    
+  </channel>
+</rss>

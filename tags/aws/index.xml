@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/aws/</link>
+    <description>Recent content in AWS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hat реализовал возможность развёртывания рабочих станции на базе RHEL в облаке AWS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-realizoval-vozmozhnost-razvertyvaniya-rabochih-stancii-na-baze-rhel-v-oblake-aws-20221022-133502/</link>
+      <pubDate>Sat, 22 Oct 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-realizoval-vozmozhnost-razvertyvaniya-rabochih-stancii-na-baze-rhel-v-oblake-aws-20221022-133502/</guid>
+      <description>Компания Red Hat начала продвижение продукта &amp;ldquo;рабочая станция как сервис&amp;rdquo;, позволяющая организовать удалённую работу с окружением на базе дистрибутива Red Hat Enterprise Linux for Workstations, выполняемом в облаке AWS (Amazon Web Services). Несколько недель назад компанией Canonical была представлена аналогичная возможность выполнения Ubuntu Desktop в облаке AWS. В качестве областей применения упоминается организация работы сотрудников с любых устройств и выполнение на старых системах ресурсоёмных задач, требующих больших ресурсов GPU и CPU, например, 3D-рендиренга или сложной визуализации данных без покупки нового оборудования.</description>
+    </item>
+    
+  </channel>
+</rss>

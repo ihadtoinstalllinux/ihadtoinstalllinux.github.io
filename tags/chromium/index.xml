@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chromium on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chromium/</link>
+    <description>Recent content in Chromium on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 20:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian будет поставлять Chromium с поисковой системой DuckDuckGo вместо Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-budet-postavlyat-chromium-s-poiskovoy-sistemoy-duckduckgo-vmesto-google-20220829-203503/</link>
+      <pubDate>Mon, 29 Aug 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-budet-postavlyat-chromium-s-poiskovoy-sistemoy-duckduckgo-vmesto-google-20220829-203503/</guid>
+      <description>В пакете с браузером Chromium, предлагаемом в дистрибутиве Debian, осуществлён переход на использование по умолчанию поисковой системы DuckDuckGo вместо Google. Предложение о замене поисковой системы на DuckDuckGo рассматривалось с апреля 2020 года. В качестве причины упоминается забота о конфиденциальности пользователей - сервис DuckDuckGo не использует персонализацию вывода и вырезает данные, которые могут использоваться для отслеживания предпочтений и перемещений пользователя. При необходимости вернуть Google или выбрать любую другую поисковую систему можно в настройках (&amp;ldquo;Settings &amp;amp;#8250.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Electron 19.0.0, платформы создания приложений на базе движка Chromium </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-19-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20220526-123503/</link>
+      <pubDate>Thu, 26 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-19-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20220526-123503/</guid>
+      <description>Подготовлен релиз платформы Electron 19.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 102, платформы Node.js 16.14.2 и JavaScript-движка V8 10.2.
+https://www.opennet.ru/opennews/art.shtml?num=57252</description>
+    </item>
+    
+    <item>
+      <title>Для Chromium развивается возможность использования Qt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-chromium-razvivaetsya-vozmozhnost-ispolzovaniya-qt-20220415-013503/</link>
+      <pubDate>Fri, 15 Apr 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-chromium-razvivaetsya-vozmozhnost-ispolzovaniya-qt-20220415-013503/</guid>
+      <description>Томас Андерсон (Thomas Anderson) из компании Google.
+https://www.opennet.ru/opennews/art.shtml?num=57020</description>
+    </item>
+    
+    <item>
+      <title>Доступен Chromium для ОС Fuchsia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-chromium-dlya-os-fuchsia-20220306-123503/</link>
+      <pubDate>Sun, 06 Mar 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-chromium-dlya-os-fuchsia-20220306-123503/</guid>
+      <description>Компания Google опубликовала полноценную версию web-браузера Chromium для операционной системы Fuchsia, который заменил в списке приложений ранее предлагаемый урезанный браузер Simple Browser, рассчитанный на выполнение обособленных web-приложений, в не работу с сайтами. Косвенно предоставление поддержки обычного web-браузера подтверждает намерение Google развивать Fuchsia не только для IoT и потребительских устройств, таких как Nest Hub, но и для десктоп-платформ. Для ознакомления с текущим состоянием развития Fuchsia можно воспользоваться эмулятором, а также тестовыми сборками от проекта dahliaOS.</description>
+    </item>
+    
+    <item>
+      <title>Пользователи NoScript столкнулись с нарушением работы в браузерах на базе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</link>
+      <pubDate>Fri, 04 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovateli-noscript-stolknulis-s-narusheniem-raboty-v-brauzerah-na-baze-dvizhka-chromium-20220204-143503/</guid>
+      <description>Сформирован выпуск браузерного дополнения NoScript 11.2.18, предназначенного для блокирования опасного и нежелательного JavaScript-кода, а также различных видов атак (XSS, DNS Rebinding, CSRF, Clickjacking). В новой версии устранена проблема, вызванная изменением в обработке URL file:// в движке Chromium. Проблема приводила к невозможности открытия многих сайтов (Gmail, Facebook и т.п.) после обновления дополнения до версии 11.2.16 в новых выпусках браузеров, использующих движок Chromium (Chrome, Brave, Vivaldi).
+https://www.opennet.ru/opennews/art.shtml?num=56636</description>
+    </item>
+    
+  </channel>
+</rss>

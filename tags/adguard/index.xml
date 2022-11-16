@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AdGuard on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/adguard/</link>
+    <description>Recent content in AdGuard on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/adguard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Подготовлены варианты uBlock Origin и AdGuard с поддержкой третьей версии манифеста Chrome </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovleny-varianty-ublock-origin-i-adguard-s-podderzhkoy-tretey-versii-manifesta-chrome-20220908-123503/</link>
+      <pubDate>Thu, 08 Sep 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovleny-varianty-ublock-origin-i-adguard-s-podderzhkoy-tretey-versii-manifesta-chrome-20220908-123503/</guid>
+      <description>Рэймонд Хилл (Raymond Hill), автор систем блокирования нежелательного контента uBlock Origin, опубликовал экспериментальное браузерное дополнение uBO Minus с реализацией варианта uBlock Origin, переведённого на API declarativeNetRequest, использование которого предписано в третьей версии манифеста Chrome. В отличие от классического uBlock Origin новое дополнение использует возможности встроенного в браузер движка для фильтрации содержимого и не требует при установке предоставления полномочий для перехвата и изменения всех данных сайтов.
+https://www.opennet.ru/opennews/art.shtml?num=57748</description>
+    </item>
+    
+  </channel>
+</rss>

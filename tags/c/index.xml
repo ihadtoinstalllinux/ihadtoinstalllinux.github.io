@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>c on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/c/</link>
+    <description>Recent content in c on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Oct 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект LLVM развивает средства для безопасной работы с буферами в C&#43;&#43;</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-llvm-razvivaet-sredstva-dlya-bezopasnoy-raboty-s-buferami-v-c-20221006-133502/</link>
+      <pubDate>Thu, 06 Oct 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-llvm-razvivaet-sredstva-dlya-bezopasnoy-raboty-s-buferami-v-c-20221006-133502/</guid>
+      <description>Разработчики проекта LLVM предложили ряд изменений, направленных на усиление безопасности критически важных проектов на языке C++ и предоставление средств для исключения ошибок, вызванных выходом за допустимые границы буферов. Работа сосредоточена в двух направлениях: предоставление модели разработки, позволяющей безопасно работать с буферами, и проведение работы по усилению защиты стандартной библиотеки функций libc++.
+https://www.opennet.ru/opennews/art.shtml?num=57876</description>
+    </item>
+    
+    <item>
+      <title>Обновление DNS-сервера BIND 9.16.33, 9.18.7 и 9.19.5 c устранением  уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-9-16-33-9-18-7-i-9-19-5-c-ustraneniem-uyazvimostey-20220924-073503/</link>
+      <pubDate>Sat, 24 Sep 2022 07:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-9-16-33-9-18-7-i-9-19-5-c-ustraneniem-uyazvimostey-20220924-073503/</guid>
+      <description>Опубликованы корректирующие обновления стабильных веток DNS-сервера BIND 9.16.33 и 9.18.7, а также новый выпуск экспериментальной ветки 9.19.5. В новых версиях устранены уязвимости, которые могут привести к отказу в обслуживании.
+https://www.opennet.ru/opennews/art.shtml?num=57824</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare перешёл с NGINX на прокcи Pingora, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cloudflare-pereshel-s-nginx-na-prokci-pingora-napisannyy-na-yazyke-rust-20220916-133503/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cloudflare-pereshel-s-nginx-na-prokci-pingora-napisannyy-na-yazyke-rust-20220916-133503/</guid>
+      <description>Компания Cloudflare сообщила о переводе своей сети доставки контента на использование прокси Pingora, написанного на языке Rust. Новый прокси заменил конфигурацию на базе сервера NGINX и обрабатывает более триллиона запросов в день. Отмечается, что переход на специализированный прокси позволил не только реализовать новые возможности и увеличить защищённость за счёт безопасной работы с памятью, но и привёл к значительному повышению производительности и экономии ресурсов - решение на базе Pingora потребляет на 70% меньше ресурсов CPU и на 67% меньше памяти при обработке того же объёма трафика.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 20.04.5 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-20-04-5-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20220902-013503/</link>
+      <pubDate>Fri, 02 Sep 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-20-04-5-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20220902-013503/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 20.04.5 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 20.04.5 LTS, Kubuntu 20.04.5 LTS, Ubuntu MATE 20.04.5 LTS, Ubuntu Studio 20.04.5 LTS, Lubuntu 20.04.5 LTS, Ubuntu Kylin 20.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск реализации анонимной сети I2P 1.9.0 и C&#43;&#43;-клиента i2pd 2.43 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-1-9-0-i-c-klienta-i2pd-2-43-20220824-123503/</link>
+      <pubDate>Wed, 24 Aug 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-1-9-0-i-c-klienta-i2pd-2-43-20220824-123503/</guid>
+      <description>Увидел свет релиз анонимной сети I2P 1.9.0 и C++-клиента i2pd 2.43.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=57670</description>
+    </item>
+    
+    <item>
+      <title>Facebook выделил C&#43;&#43;, Rust, Python и Hack в качестве предпочтительных языков программирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-vydelil-c-rust-python-i-hack-v-kachestve-predpochtitelnyh-yazykov-programmirovani-20220729-133503/</link>
+      <pubDate>Fri, 29 Jul 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-vydelil-c-rust-python-i-hack-v-kachestve-predpochtitelnyh-yazykov-programmirovani-20220729-133503/</guid>
+      <description>Компания Facebook/Meta (запрещена в РФ) опубликовала список языков программирования, рекомендуемых инженерам при разработке внутренних серверных компонентов Facebook и полностью поддерживаемых в инфраструктуре компании. По сравнению с прошлыми рекомендациями в список включён язык Rust, который дополнил ранее применяемые C++, Python и Hack (развиваемый Facebook вариант PHP со статической типизацией). Для поддерживаемых языков в Facebook разработчикам предоставляется готовый инструментарий для редактирования, отладки, сборки и развёртывания проектов, а также необходимый набор библиотек и компоненты для обеспечения переносимости.</description>
+    </item>
+    
+    <item>
+      <title>Google развивает язык программирования Carboon, нацеленный на замену C&#43;&#43;</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-yazyk-programmirovaniya-carboon-nacelennyy-na-zamenu-c-20220721-133502/</link>
+      <pubDate>Thu, 21 Jul 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-yazyk-programmirovaniya-carboon-nacelennyy-na-zamenu-c-20220721-133502/</guid>
+      <description>Компания Google развивает язык программирования Carboon, который позиционируется как экспериментальная замена C++, расширяющая данный язык и устраняющая имеющиеся недостатки. Язык поддерживает базовую переносимость с C++, может интегрироваться с имеющимся кодом на C++ и предоставляет инструменты для упрощения миграции существующих проектов, автоматически транслирующие C++-библиотеки в код на языке Carboon. Например, можно переписать на Carbon определённую библиотеку и использовать её в существующем проекте на С++. Компилятор Carboon написан с использованием LLVM и наработок Clang.</description>
+    </item>
+    
+    <item>
+      <title>Внимание! C 01.11.2022 мы прекращаем поставлять стикеры (наклейки), которыми ранее сопровождали отгрузки лицензий на ОС Astra Linux SE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vnimanie-c-01-11-2022-my-prekraschaem-postavlyat-stikery-nakleyki-kotorymi-ranee-soprovozh-20220708-093631/</link>
+      <pubDate>Fri, 08 Jul 2022 09:36:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vnimanie-c-01-11-2022-my-prekraschaem-postavlyat-stikery-nakleyki-kotorymi-ranee-soprovozh-20220708-093631/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/vnimanie-c-01.11.2022-myi-prekrashhaem-postavlyat/</description>
+    </item>
+    
+    <item>
+      <title>Новые версии анонимной сети I2P 1.8.0 и C&#43;&#43;-клиента i2pd 2.42 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-anonimnoy-seti-i2p-1-8-0-i-c-klienta-i2pd-2-42-20220526-133503/</link>
+      <pubDate>Thu, 26 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-anonimnoy-seti-i2p-1-8-0-i-c-klienta-i2pd-2-42-20220526-133503/</guid>
+      <description>Состоялся релиз анонимной сети I2P 1.8.0 и C++-клиента i2pd 2.42.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=57253</description>
+    </item>
+    
+    <item>
+      <title>Обновление DNS-сервера BIND c устранением уязвимости в реализации DNS-over-HTTPS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-c-ustraneniem-uyazvimosti-v-realizacii-dns-over-https-20220519-013503/</link>
+      <pubDate>Thu, 19 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-c-ustraneniem-uyazvimosti-v-realizacii-dns-over-https-20220519-013503/</guid>
+      <description>Опубликованы корректирующие обновления стабильных веток DNS-сервера BIND 9.16.28 и 9.18.3, а также новый выпуск экспериментальной ветки 9.19.1. В версиях 9.18.3 и 9.19.1 устранена уязвимость (CVE-2022-1183) в реализации механизма DNS-over-HTTPS, поддерживаемого начиная с ветки 9.18. Уязвимость приводит к аварийному завершению процесса named в случае, если TLS-соединение к обработчику на базе протокола HTTP будет досрочно оборвано. Проблема затрагивает только серверы, обслуживающие запросы DNS over HTTPS (DoH). Серверы, принимающие запросы по DNS over TLS (DoT) и не использующие DoH, проблеме не подвержены.</description>
+    </item>
+    
+    <item>
+      <title>Доступен Pgfe 2, клиентский C&#43;&#43; API к PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</link>
+      <pubDate>Tue, 19 Apr 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</guid>
+      <description>Опубликован первый стабильный выпуск Pgfe 2 (PostGres FrontEnd), продвинутого и многофункционального драйвера (клиентский API) для PostgreSQL, написанного на языке C++ и упрощающего работу с PostgreSQL в проектах на C++. Код проекта распространяется под лицензией Apache 2.0. Для сборки требуется компилятор с поддержкой стандарта C++17.
+https://www.opennet.ru/opennews/art.shtml?num=57039</description>
+    </item>
+    
+    <item>
+      <title>Обновление DNS-сервера BIND 9.11.37, 9.16.27 и 9.18.1 c устранением 4 уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-9-11-37-9-16-27-i-9-18-1-c-ustraneniem-4-uyazvimostey-20220319-113502/</link>
+      <pubDate>Sat, 19 Mar 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-dns-servera-bind-9-11-37-9-16-27-i-9-18-1-c-ustraneniem-4-uyazvimostey-20220319-113502/</guid>
+      <description>Опубликованы корректирующие обновления стабильных веток DNS-сервера BIND 9.11.37, 9.16.27 и 9.18.1, в которых устранены четыре уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=56879</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 20.04.4 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-20-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20220225-113502/</link>
+      <pubDate>Fri, 25 Feb 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-20-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20220225-113502/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 20.04.4 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 20.04.4 LTS, Kubuntu 20.04.4 LTS, Ubuntu MATE 20.04.4 LTS, Ubuntu Studio 20.04.4 LTS, Lubuntu 20.04.4 LTS, Ubuntu Kylin 20.</description>
+    </item>
+    
+    <item>
+      <title>Новые выпуски анонимной сети I2P 1.7.0 и C&#43;&#43;-клиента i2pd 2.41</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-vypuski-anonimnoy-seti-i2p-1-7-0-i-c-klienta-i2pd-2-41-20220223-123502/</link>
+      <pubDate>Wed, 23 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-vypuski-anonimnoy-seti-i2p-1-7-0-i-c-klienta-i2pd-2-41-20220223-123502/</guid>
+      <description>Состоялся релиз анонимной сети I2P 1.7.0 и C++-клиента i2pd 2.41.0. Напомним, что I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=56743</description>
+    </item>
+    
+    <item>
+      <title>Выпуск cppcheck 2.7, статического анализатора кода для языков C&#43;&#43; и С</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-7-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20220208-183503/</link>
+      <pubDate>Tue, 08 Feb 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-7-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20220208-183503/</guid>
+      <description>Вышла новая версия статического анализатора кода cppcheck 2.7, позволяющего выявлять различные классы ошибок в коде на языках Си и Си++.
+https://www.opennet.ru/opennews/art.shtml?num=56661</description>
+    </item>
+    
+  </channel>
+</rss>

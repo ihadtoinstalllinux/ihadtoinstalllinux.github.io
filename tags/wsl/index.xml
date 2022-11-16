@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft добавил поддержку systemd в WSL (Windows Subsystem for Linux)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-systemd-v-wsl-windows-subsystem-for-linux-20220923-153503/</link>
+      <pubDate>Fri, 23 Sep 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-podderzhku-systemd-v-wsl-windows-subsystem-for-linux-20220923-153503/</guid>
+      <description>Компания Microsoft объявила о реализации возможности использования системного менеджера systemd в Linux-окружениях, предназначенных для запуска в Windows с использованием подсистемы WSL. Поддержка systemd позволила снизить требования к дистрибутивам и приблизить предоставляемую в WSL среду к ситуации запуска дистрибутивов поверх обычного оборудования.
+https://www.opennet.ru/opennews/art.shtml?num=57818</description>
+    </item>
+    
+  </channel>
+</rss>

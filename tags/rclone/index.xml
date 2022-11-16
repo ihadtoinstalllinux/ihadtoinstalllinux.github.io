@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rclone on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rclone/</link>
+    <description>Recent content in rclone on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rclone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск утилит для резервного копирования Rsync 3.2.7 и rclone 1.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-utilit-dlya-rezervnogo-kopirovaniya-rsync-3-2-7-i-rclone-1-6-20221023-223502/</link>
+      <pubDate>Sun, 23 Oct 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-utilit-dlya-rezervnogo-kopirovaniya-rsync-3-2-7-i-rclone-1-6-20221023-223502/</guid>
+      <description>Опубликован выпуск Rsync 3.2.7, утилиты для синхронизации файлов и резервного копирования, позволяющей минимизировать трафик за счёт инкрементального копирования изменений. В качестве транспорта могут быть использованы ssh, rsh или собственный протокол rsync. Поддерживается организация работы анонимных rsync-серверов, оптимально подходящих для обеспечения синхронизации зеркал.
+https://www.opennet.ru/opennews/art.shtml?num=57959</description>
+    </item>
+    
+    <item>
+      <title>Выпуск утилиты для резервного копирования rclone 1.59</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-rezervnogo-kopirovaniya-rclone-1-59-20220710-123503/</link>
+      <pubDate>Sun, 10 Jul 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-rezervnogo-kopirovaniya-rclone-1-59-20220710-123503/</guid>
+      <description>Опубликован выпуск утилиты rclone 1.59, которая представляет собой аналог rsync, предназначенный для копирования и синхронизации данных между локальной системой и различными облачными хранилищами, такими как Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Mail.ru Cloud и Яндекс.Диск. Код проекта написан на языке Go и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=57482</description>
+    </item>
+    
+    <item>
+      <title>Выпуск утилиты для резервного копирования rclone 1.58</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-rezervnogo-kopirovaniya-rclone-1-58-20220319-123503/</link>
+      <pubDate>Sat, 19 Mar 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-rezervnogo-kopirovaniya-rclone-1-58-20220319-123503/</guid>
+      <description>Опубликован выпуск утилиты rclone 1.58, которая представляет собой аналог rsync, предназначенный для копирования и синхронизации данных между локальной системой и различными облачными хранилищами, такими как Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Mail.ru Cloud и Яндекс.Диск. Код проекта написан на языке Go и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=56880</description>
+    </item>
+    
+  </channel>
+</rss>

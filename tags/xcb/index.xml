@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>xcb on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xcb/</link>
+    <description>Recent content in xcb on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Feb 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xcb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликвоан qxkb5, языковой переключатель, основанный на xcb и Qt5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikvoan-qxkb5-yazykovoy-pereklyuchatel-osnovannyy-na-xcb-i-qt5-20220214-193503/</link>
+      <pubDate>Mon, 14 Feb 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikvoan-qxkb5-yazykovoy-pereklyuchatel-osnovannyy-na-xcb-i-qt5-20220214-193503/</guid>
+      <description>Опубликован qxkb5, интерфейс для переключения раскладки клавиатуры, позволяющий выбирать разное поведение для разных окон. Например, для окон с мессенджерами можно зафиксировать только русскую раскладку. Программа также позволяет использовать как встроенные графические так и текстовые языковые метки. Код написан на С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=56680</description>
+    </item>
+    
+  </channel>
+</rss>

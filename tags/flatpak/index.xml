@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Flatpak on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flatpak/</link>
+    <description>Recent content in Flatpak on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 15:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз системы самодостаточных пакетов Flatpak 1.14.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-samodostatochnyh-paketov-flatpak-1-14-0-20220824-153509/</link>
+      <pubDate>Wed, 24 Aug 2022 15:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-samodostatochnyh-paketov-flatpak-1-14-0-20220824-153509/</guid>
+      <description>Опубликована новая стабильная ветка инструментария Flatpak 1.14, который предоставляет систему для сборки самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и выполняемых в специальном контейнере, изолирующем приложение от остальной системы. Поддержка выполнения Flatpak-пакетов обеспечена для Arch Linux, CentOS, Debian, Fedora, Gentoo, Mageia, Linux Mint, Alt Linux и Ubuntu. Пакеты с Flatpak включены в репозиторий Fedora и поддерживаются в штатной программе управления приложениями GNOME.
+https://www.opennet.ru/opennews/art.shtml?num=57673</description>
+    </item>
+    
+    <item>
+      <title>Проект Celestial развивает сборку Ubuntu с Flatpak вместо Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</link>
+      <pubDate>Mon, 18 Apr 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-celestial-razvivaet-sborku-ubuntu-s-flatpak-vmesto-snap-20220418-133503/</guid>
+      <description>Представлен бета-выпуск дистрибутива CelOS (Celestial OS), представляющего собой пересборку Ubuntu 22.04, в которой инструментарий управления пакетами Snap заменён на Flatpak. Вместо установки дополнительных приложений из каталога Snap Store предложена интеграция с каталогом Flathub. Размер установочного образа 3.7 ГБ. Наработки проекта распространяются под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57035</description>
+    </item>
+    
+  </channel>
+</rss>

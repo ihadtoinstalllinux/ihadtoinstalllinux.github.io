@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kubernetes on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 21:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes-платформа Deckhouse сертифицирована по программе Ready For Astra Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kubernetes-platforma-deckhouse-sertificirovana-po-programme-ready-for-astra-linux-20220920-213556/</link>
+      <pubDate>Tue, 20 Sep 2022 21:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kubernetes-platforma-deckhouse-sertificirovana-po-programme-ready-for-astra-linux-20220920-213556/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/kubernetes-platforma-deckhouse-sertificzirovana-po-programme-ready-for-astra-linux/</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Kubernetes 1.24, системы управления кластером изолированных контейнеров </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kubernetes-1-24-sistemy-upravleniya-klasterom-izolirovannyh-konteynerov-20220505-223502/</link>
+      <pubDate>Thu, 05 May 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kubernetes-1-24-sistemy-upravleniya-klasterom-izolirovannyh-konteynerov-20220505-223502/</guid>
+      <description>Доступен релиз платформы оркестровки контейнеров Kubernetes 1.24, позволяющей как единым целым управлять кластером из изолированных контейнеров и предоставляющей механизмы для развёртывания, сопровождения и масштабирования выполняемых в контейнерах приложений. Проект изначально был создан компанией Google, но затем переведён на независимую площадку, курируемую организацией Linux Foundation. Платформа позиционируется как развиваемое сообществом универсальное решение, не привязанное к отдельным системам и способное работать с любыми приложениями в любых облачных окружениях. Код Kubernetes написан на языке Go и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Google увеличил размер вознаграждений за выявление уязвимостей в ядре Linux и Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-uvelichil-razmer-voznagrazhdeniy-za-vyyavlenie-uyazvimostey-v-yadre-linux-i-kuberne-20220217-123502/</link>
+      <pubDate>Thu, 17 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-uvelichil-razmer-voznagrazhdeniy-za-vyyavlenie-uyazvimostey-v-yadre-linux-i-kuberne-20220217-123502/</guid>
+      <description>Компания Google объявила о расширении инициативы по выплате денежных вознаграждений за выявление проблем с безопасностью в ядре Linux, платформе для оркестровки контейнеров Kubernetes, движке GKE (Google Kubernetes Engine) и окружении для проведения соревнований по поиску уязвимостей kCTF (Kubernetes Capture the Flag).
+https://www.opennet.ru/opennews/art.shtml?num=56710</description>
+    </item>
+    
+    <item>
+      <title>Управление кластерами Kubernetes в ОС Astra Linux доступно на платформе Deckhouse</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/upravlenie-klasterami-kubernetes-v-os-astra-linux-dostupno-na-platforme-deckhouse-20220125-093605/</link>
+      <pubDate>Tue, 25 Jan 2022 09:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/upravlenie-klasterami-kubernetes-v-os-astra-linux-dostupno-na-platforme-deckhouse-20220125-093605/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/upravlenie-klasterami-kubernetes-v-os-astra-linux-dostupno-na-platforme-deckhouse/</description>
+    </item>
+    
+  </channel>
+</rss>

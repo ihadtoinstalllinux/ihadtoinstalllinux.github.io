@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nouveau on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nouveau/</link>
+    <description>Recent content in Nouveau on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nouveau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>На базе Nouveau развивается новый драйвер для графического API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</link>
+      <pubDate>Mon, 06 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</guid>
+      <description>Разработчики из компаний Red Hat и Collabora приступили к созданию открытого Vulkan-драйвера nvk для графичкеских карт NVIDIA, который дополнит уже имеющиеся в Mesa драйверы anv (Intel), radv (AMD), tu (Qualcomm) и v3dv (Broadcom VideoCore VI). Разработка драйвера ведётся на базе проекта Nouveau с задействованнием некоторых подсистем, ранее применяемых в OpenGL-драйвере Nouveau. Параллельно в Nouveau началась работа по выносу в отдельную библиотеку универсальной функциональности, которая может использоваться в других драйверах, например, в библиотеку вынесены компоненты для генерации кода, которые могут применяться для совместного использования компилятора шейдеров в драйверах для OpenGL и Vulkan.</description>
+    </item>
+    
+  </channel>
+</rss>

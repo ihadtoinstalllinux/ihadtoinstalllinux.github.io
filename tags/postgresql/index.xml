@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PostgreSQL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск temBoard 8.0, интерфейса для удалённого управления СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-temboard-8-0-interfeysa-dlya-udalennogo-upravleniya-subd-postgresql-20221115-133505/</link>
+      <pubDate>Tue, 15 Nov 2022 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-temboard-8-0-interfeysa-dlya-udalennogo-upravleniya-subd-postgresql-20221115-133505/</guid>
+      <description>Увидел свет выпуск проекта temBoard 8.0, развивающего web-интерфейс для удалённого управления, мониторинга, настройки и оптимизации СУБД PostgreSQL. Продукт включает в себя легковесный агент, устанавливаемый на каждый сервер с PostgreSQL, и серверный компонент, централизованно управляющий агентами и собирающий статистику для мониторинга. Код написан на языке Python и распространяется под свободной лицензией PostgreSQL License.
+https://www.opennet.ru/opennews/art.shtml?num=58115</description>
+    </item>
+    
+    <item>
+      <title>Доступна документация к PostgreSQL 15.0 на русском языке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-dokumentaciya-k-postgresql-15-0-na-russkom-yazyke-20221026-173503/</link>
+      <pubDate>Wed, 26 Oct 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-dokumentaciya-k-postgresql-15-0-na-russkom-yazyke-20221026-173503/</guid>
+      <description>Компания Postgres Pro опубликовала (PDF, Epub) полный перевод на русский язык документации к СУБД PostgreSQL 15.0. Помимо перевода официальной документации выпущено несколько общедоступных русскоязычных книг по PostgreSQL - &amp;ldquo;Postgres: первое знакомство&amp;rdquo; (PDF), &amp;ldquo;PostgreSQL изнутри&amp;rdquo; (PDF), &amp;ldquo;PostgreSQL. Основы языка SQL&amp;rdquo; (PDF) и &amp;ldquo;Основы технологий баз данных&amp;rdquo; (PDF).
+https://www.opennet.ru/opennews/art.shtml?num=57986</description>
+    </item>
+    
+    <item>
+      <title>24 и 26 октября в Новосибирске и Барнауле состоятся мероприятия по PostgreSQL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/24-i-26-oktyabrya-v-novosibirske-i-barnaule-sostoyatsya-meropriyatiya-po-postgresql-20221019-003503/</link>
+      <pubDate>Wed, 19 Oct 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/24-i-26-oktyabrya-v-novosibirske-i-barnaule-sostoyatsya-meropriyatiya-po-postgresql-20221019-003503/</guid>
+      <description>24 октября в Новосибирске состоится однодневная техническая конференция PGConf.Сибирь 2022. С подробной программой можно ознакомиться на сайте мероприятия, регистрация доступна там же. Участие платное (4500 рублей).
+https://www.opennet.ru/opennews/art.shtml?num=57935</description>
+    </item>
+    
+    <item>
+      <title>Релиз СУБД PostgreSQL 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-subd-postgresql-15-20221013-203507/</link>
+      <pubDate>Thu, 13 Oct 2022 20:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-subd-postgresql-15-20221013-203507/</guid>
+      <description>После года разработки опубликована новая стабильная ветка СУБД PostgreSQL 15. Обновления для новой ветки будут выходить в течение пяти лет до ноября 2027 года.
+https://www.opennet.ru/opennews/art.shtml?num=57914</description>
+    </item>
+    
+    <item>
+      <title>Проект Postgres WASM подготовил работающее в браузере окружение с СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</link>
+      <pubDate>Mon, 03 Oct 2022 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-postgres-wasm-podgotovil-rabotayuschee-v-brauzere-okruzhenie-s-subd-postgresql-20221003-233505/</guid>
+      <description>Открыты наработки проекта Postgres WASM, развивающего окружение с СУБД PostgreSQL, работающее внутри браузера. Связанный с проектом код открыт под лицензией MIT. В том числе предлагается инструментарий для сборки работающей в браузере виртуальной машины c урезанным Linux-окружением, сервером PostgreSQL 14.5 и сопутствующими утилитами (psql, pg_dump). Размер итоговой сборки около 30 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=57863</description>
+    </item>
+    
+    <item>
+      <title>В Нижнем Новгороде состоится встреча, посвящённая СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nizhnem-novgorode-sostoitsya-vstrecha-posvyaschennaya-subd-postgresql-20220909-173505/</link>
+      <pubDate>Fri, 09 Sep 2022 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nizhnem-novgorode-sostoitsya-vstrecha-posvyaschennaya-subd-postgresql-20220909-173505/</guid>
+      <description>21 сентября в Нижнем Новгороде пройдёт PGMeetup.NN - открытая встреча пользователей СУБД PostgreSQL. Организует мероприятие компания Postgres Professional, российский поставщик СУБД PostgreSQL, при поддержке ассоциации iCluster, международного IT-кластера Нижегородской области. Встреча начнётся в культурном пространстве DKRT в 18:00. Вход по регистрации, которая открыта на сайте.
+https://www.opennet.ru/opennews/art.shtml?num=57758</description>
+    </item>
+    
+    <item>
+      <title>Обновление PostgreSQL 14.4 с исправлением повреждения индексов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</link>
+      <pubDate>Fri, 17 Jun 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-14-4-s-ispravleniem-povrezhdeniya-indeksov-20220617-103503/</guid>
+      <description>Сформирован корректирующий выпуск СУБД PostgreSQL 14.4, в котором устранена серьёзная проблема, при определённых обстоятельствах приводящая к незаметному повреждению данных в индексах при выполнении команд &amp;ldquo;CREATE INDEX CONCURRENTLY&amp;rdquo; и &amp;ldquo;REINDEX CONCURRENTLY&amp;rdquo;. В созданных при помощи указанных команд индексах могут быть не учтены некоторые записи, что приведёт к пропуску отдельных строк при выполнении SELECT-запросов с привлечением проблемных индексов.
+https://www.opennet.ru/opennews/art.shtml?num=57367</description>
+    </item>
+    
+    <item>
+      <title>В Москве пройдёт девятая международная конференция по PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</link>
+      <pubDate>Wed, 15 Jun 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-moskve-proydet-devyataya-mezhdunarodnaya-konferenciya-po-postgresql-20220615-173503/</guid>
+      <description>20 и 21 июня 2022 года в Москве в бизнес-центре гостиницы «Рэдиссон Славянская» состоится PGConf.Russia 2022, девятая международная техническая конференция по СУБД PostgreSQL. Организатором PGConf.Russia выступает компания Postgres Professional, российский поставщик СУБД PostgreSQL. Мероприятие является одним из центральных событий в международном сообществе PostgreSQL и собирает сотни специалистов из России и других стран. В конференции примут участие представители крупных российских и международных компаний – «Авито», VK Cloud Solutions, OZON, «АльфаСтрахование», «Яндекс.Облако», «ИнфоСофт», «Аладдин Р.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск FerretDB 0.3, реализации MongoDB на базе СУБД PostgreSQL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-3-realizacii-mongodb-na-baze-subd-postgresql-20220602-143502/</link>
+      <pubDate>Thu, 02 Jun 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-3-realizacii-mongodb-na-baze-subd-postgresql-20220602-143502/</guid>
+      <description>Опубликован выпуск проекта FerretDB 0.3, позволяющего заменить документо-ориентированную СУБД MongoDB на PostgreSQL без внесения изменений в код приложений. FerretDB реализован как прокси-сервер, транслирующий обращения к MongoDB в SQL-запросы к PostgreSQL, что позволяет использовать PostgreSQL в качестве фактического хранилища. Код написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57290</description>
+    </item>
+    
+    <item>
+      <title>Обновление PostgreSQL с устранением уязвимости. Выпуск pg_ivm 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-s-ustraneniem-uyazvimosti-vypusk-pg-ivm-1-0-20220513-013502/</link>
+      <pubDate>Fri, 13 May 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-s-ustraneniem-uyazvimosti-vypusk-pg-ivm-1-0-20220513-013502/</guid>
+      <description>Сформированы корректирующие обновления для всех поддерживаемых веток PostgreSQL: 14.3, 13.7, 12.11, 11.16 и 10.22. Ветка 10.x приближается к окончанию срока поддержки (обновления будут формироваться до ноября 2022 года). Выпуск обновлений для ветки 11.x продлится до ноября 2023 года, 12.x - до ноября 2024 года, 13.x - до ноября 2025 года, 14.x - до ноября 2026 года.
+https://www.opennet.ru/opennews/art.shtml?num=57180</description>
+    </item>
+    
+    <item>
+      <title>Доступен Pgfe 2, клиентский C&#43;&#43; API к PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</link>
+      <pubDate>Tue, 19 Apr 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-pgfe-2-klientskiy-c-api-k-postgresql-20220419-003503/</guid>
+      <description>Опубликован первый стабильный выпуск Pgfe 2 (PostGres FrontEnd), продвинутого и многофункционального драйвера (клиентский API) для PostgreSQL, написанного на языке C++ и упрощающего работу с PostgreSQL в проектах на C++. Код проекта распространяется под лицензией Apache 2.0. Для сборки требуется компилятор с поддержкой стандарта C++17.
+https://www.opennet.ru/opennews/art.shtml?num=57039</description>
+    </item>
+    
+    <item>
+      <title>Конфликт, связанный с торговыми марками PostgreSQL, остаётся не урегулирован</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konflikt-svyazannyy-s-torgovymi-markami-postgresql-ostaetsya-ne-uregulirovan-20220413-123503/</link>
+      <pubDate>Wed, 13 Apr 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konflikt-svyazannyy-s-torgovymi-markami-postgresql-ostaetsya-ne-uregulirovan-20220413-123503/</guid>
+      <description>Организация PGCAC (PostgreSQL Community Association of Canada), представляющая интересы сообщества PostgreSQL и действующая от имени PostgreSQL Core Team, призвала организацию Fundación PostgreSQL выполнить ранее данные обещания и передать права на зарегистрированные торговые марки и доменные имена, связанные с PostgreSQL.
+https://www.opennet.ru/opennews/art.shtml?num=57014</description>
+    </item>
+    
+    <item>
+      <title>Выпуск FerretDB 0.1, реализации протокола MongoDB поверх СУБД PostgreSQL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-1-realizacii-protokola-mongodb-poverh-subd-postgresql-20220405-163502/</link>
+      <pubDate>Tue, 05 Apr 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-1-realizacii-protokola-mongodb-poverh-subd-postgresql-20220405-163502/</guid>
+      <description>Опубликован выпуск проекта FerretDB 0.1 (бывший MangoDB), позволяющего заменить документо-ориентированную СУБД MongoDB на PostgreSQL без внесения изменений в код приложений и обеспечивая прозрачную миграцию. FerretDB реализован как прокси-сервер, транслирующий обращения к MangoDB в SQL-запросы к PostgreSQL, что позволяет использовать PostgreSQL в качестве фактического хранилища. Код написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=56971</description>
+    </item>
+    
+    <item>
+      <title>Обновление PostgreSQL. Выпуск reshape, утилиты для миграции на новую схему без остановки работы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-vypusk-reshape-utility-dlya-migracii-na-novuyu-shemu-bez-ostanovki-r-20220211-133502/</link>
+      <pubDate>Fri, 11 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-vypusk-reshape-utility-dlya-migracii-na-novuyu-shemu-bez-ostanovki-r-20220211-133502/</guid>
+      <description>Сформированы корректирующие обновления для всех поддерживаемых веток PostgreSQL: 14.2, 13.6, 12.10, 11.15 и 10.20, в которых исправлено 55 ошибок, выявленных за последние три месяца. В том числе устранены проблемы, приводившие при редком стечении обстоятельств к повреждению индексов при изменении цепочек HOT (heap-only tuple) во время выполнения операции VACUUM или при выполнении операции REINDEX CONCURRENTLY для индексов к таблицам, в которых используется механизм хранения TOAST.
+https://www.opennet.ru/opennews/art.shtml?num=56677</description>
+    </item>
+    
+  </channel>
+</rss>

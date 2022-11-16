@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>U3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/u3/</link>
+    <description>Recent content in U3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/u3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS CORE 13.0-U3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u3-20221102-113503/</link>
+      <pubDate>Wed, 02 Nov 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u3-20221102-113503/</guid>
+      <description>Представлен выпуск TrueNAS CORE 13.0-U3, дистрибутива для быстрого развёртывания сетевого хранилища (NAS, Network-Attached Storage), продолжающего развитие проекта FreeNAS. TrueNAS CORE 13 основан на кодовой базе FreeBSD 13, отличается интегрированной поддержкой ZFS и возможностью управления через веб-интерфейс, построенный с использованием Python-фреймворка Django. Для организации доступа к хранилищу поддерживается FTP, NFS, Samba, AFP, rsync и iSCSI, для повышения надежности хранения может применяться программный RAID (0,1,5), для авторизации клиентов реализована поддержка LDAP/Active Directory. Размер iso-образа 990МБ (x86_64).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apple on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apple/</link>
+    <description>Recent content in Apple on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux-драйвер для GPU чипов Apple M1 прошёл 99% тестов совместимости с OpenGL ES 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</link>
+      <pubDate>Sat, 22 Oct 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-drayver-dlya-gpu-chipov-apple-m1-proshel-99-testov-sovmestimosti-s-opengl-es-2-20221022-123503/</guid>
+      <description>Разработчик открытого Linux-драйвера для GPU Apple AGX, используемого в чипах Apple M1, сообщил об успешном прохождении 99.3% тестов из набора dEQP-GLES2, проверяющего уровень поддержки спецификации OpenGL ES 2. В работе использованы два компонента: DRM-драйвер для ядра Linux, написанный на языке Rust, и драйвер для Mesa, написанный на языке Си.
+https://www.opennet.ru/opennews/art.shtml?num=57956</description>
+    </item>
+    
+    <item>
+      <title>В дистрибутиве Asahi Linux реализована начальная поддержка устройств Apple с чипом M2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-distributive-asahi-linux-realizovana-nachalnaya-podderzhka-ustroystv-apple-s-chipom-m2-20220719-003503/</link>
+      <pubDate>Tue, 19 Jul 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-distributive-asahi-linux-realizovana-nachalnaya-podderzhka-ustroystv-apple-s-chipom-m2-20220719-003503/</guid>
+      <description>Разработчики проекта Asahi, нацеленного на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипами, разработанными компанией Apple, опубликовали июльское обновление дистрибутива, позволяющий любому желающему ознакомиться с текущим уровнем развития проекта. Из наиболее заметных улучшений в новом выпуске отмечается реализация поддержки Bluetooth, доступность для устройств Mac Studio и начальная поддержка нового чипа Apple M2.
+https://www.opennet.ru/opennews/art.shtml?num=57518</description>
+    </item>
+    
+    <item>
+      <title>Linux портируют для планшетов Apple iPad на чипах A7 и A8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-portiruyut-dlya-planshetov-apple-ipad-na-chipah-a7-i-a8-20220603-123503/</link>
+      <pubDate>Fri, 03 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-portiruyut-dlya-planshetov-apple-ipad-na-chipah-a7-i-a8-20220603-123503/</guid>
+      <description>Энтузиасты смогли успешно загрузить ядро Linux 5.18 на планшетных компьютерах Apple iPad, построенных на ARM-чипах A7 и A8. В настоящее время работа пока ограничивается адаптацией Linux для устройств iPad Air, iPad Air 2 и некоторых iPad mini, но нет принципиальных проблем для применения наработок и для других устройств на чипах Apple A7 и A8, таких как iPhone 5S и HomePod, выпускавшихся в 2013-2014 годах. Для более новых устройств можно использовать наработки проекта Sandcastle.</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 12.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-12-3-20220506-143502/</link>
+      <pubDate>Fri, 06 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-12-3-20220506-143502/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 12.3 (Monterey), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 177 пакетов с исходными текстами.
+https://www.opennet.ru/opennews/art.shtml?num=57144</description>
+    </item>
+    
+    <item>
+      <title>Первый тестовый выпуск Asahi Linux, дистрибутива для устройств Apple с чипом M1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-testovyy-vypusk-asahi-linux-distributiva-dlya-ustroystv-apple-s-chipom-m1-20220319-103502/</link>
+      <pubDate>Sat, 19 Mar 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-testovyy-vypusk-asahi-linux-distributiva-dlya-ustroystv-apple-s-chipom-m1-20220319-103502/</guid>
+      <description>Проект Asahi, нацеленный на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипом Apple M1 (Apple Silicon), представил первый альфа-выпуск эталонного дистрибутива, позволяющий любому желающему ознакомиться с текущим уровнем развития проекта. Дистрибутив поддерживает установку на устройствах с M1, M1 Pro и M1 Max. Отмечается, что сборки пока не готовы для повсеместного использования обычными пользователями, но уже пригодны для начального ознакомления разработчиками и продвинутыми пользователями.
+https://www.opennet.ru/opennews/art.shtml?num=56878</description>
+    </item>
+    
+    <item>
+      <title>Google, Mozilla, Apple выступили с инициативой повышения совместимости между web-браузерами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-mozilla-apple-vystupili-s-iniciativoy-povysheniya-sovmestimosti-mezhdu-web-brauzera-20220304-173502/</link>
+      <pubDate>Fri, 04 Mar 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-mozilla-apple-vystupili-s-iniciativoy-povysheniya-sovmestimosti-mezhdu-web-brauzera-20220304-173502/</guid>
+      <description>Компании Google, Mozilla, Apple, Microsoft, Bocoup и Igalia скооперировались для решения проблем с совместимостью в браузерах, обеспечения более согласованной поддержки web-технологий и унификации работы элементов, влияющих на внешних вид и поведение сайтов и web-приложений. Основной целью инициативы является достижение одинакового внешнего вида и поведения сайтов, независимо от браузера и операционной системы, - web-платформа должна быть целостной и разработчики должны уделять внимание созданию web-приложений, а не поиску путей обхода тех или иных несовместимостей между браузерами.</description>
+    </item>
+    
+  </channel>
+</rss>

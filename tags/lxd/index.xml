@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LXD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lxd/</link>
+    <description>Recent content in LXD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2022 02:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lxd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы управления контейнерами LXD 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxd-5-0-20220412-023502/</link>
+      <pubDate>Tue, 12 Apr 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxd-5-0-20220412-023502/</guid>
+      <description>Компания Canonical опубликовала релиз менеджера контейнеров LXD 5.0 и виртуальной ФС LXCFS 5.0. Код LXD написан на языке Go и распространяется под лицензией Apache 2.0. Ветка 5.0 отнесена к выпускам с длительной поддержкой - обновления будут формироваться до июня 2027 года.
+https://www.opennet.ru/opennews/art.shtml?num=57006</description>
+    </item>
+    
+  </channel>
+</rss>

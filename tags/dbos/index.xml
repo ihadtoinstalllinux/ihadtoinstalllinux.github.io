@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DBOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dbos/</link>
+    <description>Recent content in DBOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dbos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлена распределённая операционная система DBOS, работающая поверх СУБД</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-raspredelennaya-operacionnaya-sistema-dbos-rabotayuschaya-poverh-subd-20220905-233502/</link>
+      <pubDate>Mon, 05 Sep 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlena-raspredelennaya-operacionnaya-sistema-dbos-rabotayuschaya-poverh-subd-20220905-233502/</guid>
+      <description>Представлен проект DBOS (DBMS-oriented Operating System), развивающий новую операционную систему для выполнения масштабируемых распределённых приложений. Особенностью проекта является использование СУБД для хранения приложений и состояния системы, а также организация доступа к состоянию только через транзакции. Проект развивается исследователями из Массачусетского технологического института, Висконсинского и Стэнфордского университетов, университета Карнеги-Меллона и компаний Google и VMware. Наработки распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=57735</description>
+    </item>
+    
+  </channel>
+</rss>

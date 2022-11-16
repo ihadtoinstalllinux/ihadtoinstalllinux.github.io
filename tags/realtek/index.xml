@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Realtek on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/realtek/</link>
+    <description>Recent content in Realtek on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Aug 2022 13:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/realtek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в устройствах на базе SoC Realtek, позволяющая выполнить код через отправку UDP-пакета</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ustroystvah-na-baze-soc-realtek-pozvolyayuschaya-vypolnit-kod-cherez-otpravku-20220817-133504/</link>
+      <pubDate>Wed, 17 Aug 2022 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ustroystvah-na-baze-soc-realtek-pozvolyayuschaya-vypolnit-kod-cherez-otpravku-20220817-133504/</guid>
+      <description>Исследователи из компании Faraday Security представили на конференции DEFCON детали эксплуатации критической уязвимости (CVE-2022-27255) в SDK для чипов Realtek RTL819x, позволяющей выполнить свой код на устройстве через отправку специально оформленного UDP-пакета. Уязвимость примечательна тем, что позволяет атаковать устройства, в которых отключён доступ в web-интерфейс для внешних сетей - для атаки достаточно просто отправить один UDP-пакет.
+https://www.opennet.ru/opennews/art.shtml?num=57645</description>
+    </item>
+    
+  </channel>
+</rss>

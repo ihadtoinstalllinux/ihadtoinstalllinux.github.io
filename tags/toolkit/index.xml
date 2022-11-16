@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toolkit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/toolkit/</link>
+    <description>Recent content in Toolkit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/toolkit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Network Security Toolkit 36</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-network-security-toolkit-36-20220712-103503/</link>
+      <pubDate>Tue, 12 Jul 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-network-security-toolkit-36-20220712-103503/</guid>
+      <description>После года разработки опубликован релиз Live-дистрибутива NST 36 (Network Security Toolkit), предназначенного для проведения анализа безопасности сети и мониторинга её функционирования. Размер загрузочного iso-образа (x86_64) составляет 4.1 ГБ. Для пользователей Fedora Linux подготовлен специальный репозиторий, дающий возможность установить все созданные в рамках проекта NST наработки в уже установленную систему. Дистрибутив построен на базе Fedora 36 и допускает установку дополнительных пакетов из внешних репозиториев, совместимых с Fedora Linux.
+https://www.opennet.ru/opennews/art.shtml?num=57492</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emacs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/emacs/</link>
+    <description>Recent content in Emacs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2022 20:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 28.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-28-2-20220912-203503/</link>
+      <pubDate>Mon, 12 Sep 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-28-2-20220912-203503/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 28.2. Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана. В новой версии изменён способ переопределения каталога для установки исполняемого файла. При установке в нестандартный каталог при сборке теперь нужно запускать скрипт &amp;lsquo;configure&amp;rsquo; с опцией &amp;lsquo;&amp;ndash;bindir=&amp;rsquo; (использование &amp;lsquo;bindir=DIRECTORY&amp;rsquo; в &amp;ldquo;make install&amp;rdquo; недостаточно, так как информация, на основе которой вычисляется путь к скомпилированным файлам &amp;ldquo;*.eln&amp;rdquo;, прописывается в исполняемый файл при сборке).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 28.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-28-1-20220406-123502/</link>
+      <pubDate>Wed, 06 Apr 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-28-1-20220406-123502/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 28.1. Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана, который передал пост лидера проекта Джону Вигли (John Wiegley) осенью 2015 года.
+https://www.opennet.ru/opennews/art.shtml?num=56976</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NIST on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nist/</link>
+    <description>Recent content in NIST on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дэниэл Бернштейн подал в суд из-за утаивания NIST информации о посквантовых криптоалгоритмах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/deniel-bernshteyn-podal-v-sud-iz-za-utaivaniya-nist-informacii-o-poskvantovyh-kriptoalgori-20220806-113503/</link>
+      <pubDate>Sat, 06 Aug 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/deniel-bernshteyn-podal-v-sud-iz-za-utaivaniya-nist-informacii-o-poskvantovyh-kriptoalgori-20220806-113503/</guid>
+      <description>Дэниэл Бернштейн (Daniel J. Bernstein), известный эксперт в области криптографии и создания защищённого ПО, разработавший такие проекты, как qmail, djbdns, NaCl, Ed25519, Curve25519 и ChaCha20-Poly1305, инициировал судебное разбирательство против правительства США, связанное с невыполнением Национальным институтом стандартов и технологий США (NIST) требований по полному раскрытию информации, связанной со стандартизацией криптоалгоритмов.
+https://www.opennet.ru/opennews/art.shtml?num=57602</description>
+    </item>
+    
+    <item>
+      <title>Отобранный NIST постквантовый криптоалгоритм SIKE, оказался не защищён от взлома на обычном компьютере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otobrannyy-nist-postkvantovyy-kriptoalgoritm-sike-okazalsya-ne-zaschischen-ot-vzloma-na-ob-20220803-153505/</link>
+      <pubDate>Wed, 03 Aug 2022 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otobrannyy-nist-postkvantovyy-kriptoalgoritm-sike-okazalsya-ne-zaschischen-ot-vzloma-na-ob-20220803-153505/</guid>
+      <description>Исследователи из Лёвенского католического университета разработали метод атаки на механизм инкапсуляции ключей SIKE (Supersingular Isogeny Key Encapsulation), который вошёл в финал конкурса постквантовых криптосистем, проводимого Национальным институтом стандартов и технологий США (SIKE был включён а число дополнительных алгоритмов, прошедших основные этапы отбора, но отправленных на доработку для устранения замечаний перед переводом в разряд рекомендованных). Предложенный метод атаки позволяет на обычном персональном компьютере восстановить значение ключа, используемого для шифрования на базе протокола SIDH (Supersingular Isogeny Diffie-Hellman), применяемого в SIKE.</description>
+    </item>
+    
+    <item>
+      <title>NIST утвердил алгоритмы шифрования, устойчивые к квантовым вычислениям</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nist-utverdil-algoritmy-shifrovaniya-ustoychivye-k-kvantovym-vychisleniyam-20220706-153503/</link>
+      <pubDate>Wed, 06 Jul 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nist-utverdil-algoritmy-shifrovaniya-ustoychivye-k-kvantovym-vychisleniyam-20220706-153503/</guid>
+      <description>Национальный институт стандартов и технологий США (NIST) объявил победителей конкурса криптоалгоритмов, стойких к подбору на квантовом компьютере. Конкурс был организован шесть лет назад и нацелен на выбор алгоритмов постквантовой криптографии, пригодных для выдвижения в качестве стандартов. В процессе проведения конкурса предложенные международными командами исследователей алгоритмы были изучены независимыми экспертами на предмет возможных уязвимостей и слабых мест.
+https://www.opennet.ru/opennews/art.shtml?num=57458</description>
+    </item>
+    
+  </channel>
+</rss>

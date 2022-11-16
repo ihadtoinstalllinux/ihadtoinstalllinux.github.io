@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gdb/</link>
+    <description>Recent content in GDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск отладчика GDB 12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otladchika-gdb-12-20220502-123503/</link>
+      <pubDate>Mon, 02 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otladchika-gdb-12-20220502-123503/</guid>
+      <description>Представлен релиз отладчика GDB 12.1 (первый выпуск серии 12.x, ветка 12.0 использовалась для разработки). GDB поддерживает отладку на уровне исходных текстов для широкого спектра языков программирования (Ada, C, C++, Objective-C, Pascal, Go, Rust и т.д.) на различных аппаратных (i386, amd64, ARM, Power, Sparc, RISC-V и т.д.) и программных платформах (GNU/Linux, *BSD, Unix, Windows, macOS).
+https://www.opennet.ru/opennews/art.shtml?num=57121</description>
+    </item>
+    
+  </channel>
+</rss>

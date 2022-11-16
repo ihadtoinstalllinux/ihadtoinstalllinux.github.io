@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PikaScript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pikascript/</link>
+    <description>Recent content in PikaScript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 May 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pikascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск PikaScript 1.8, варианта языка Python для микроконтроллеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pikascript-1-8-varianta-yazyka-python-dlya-mikrokontrollerov-20220518-133503/</link>
+      <pubDate>Wed, 18 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pikascript-1-8-varianta-yazyka-python-dlya-mikrokontrollerov-20220518-133503/</guid>
+      <description>Опубликован выпуск проекта PikaScript 1.8, развивающего компактный движок для написания приложений для микроконтроллеров на языке Python. PikaScript не привязан к внешним зависимостям и может работать на микроконтроллерах с 4 МБ ОЗУ и 32 КБ Flash, таких как STM32G030C8 и STM32F103C8. Для сравнения для работы MicroPython требуется 16 МБ ОЗУ и 256КБ Flash, а для Snek - 2 МБ ОЗУ и 32 КБ Flash. Код проекта написан на языке Си и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

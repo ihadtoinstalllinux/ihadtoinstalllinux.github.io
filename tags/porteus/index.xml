@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Porteus on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/porteus/</link>
+    <description>Recent content in Porteus on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/porteus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Porteus 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-porteus-5-0-20220705-003502/</link>
+      <pubDate>Tue, 05 Jul 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-porteus-5-0-20220705-003502/</guid>
+      <description>Опубликован релиз Live-дистрибутива Porteus 5.0, построенного на пакетной базе Slackware Linux 15 и предлагающего сборки с пользовательскими окружениями Xfce, Cinnamon, GNOME, KDE, LXDE, LXQt, MATE и OpenBox. Состав дистрибутива подобран для минимального потребления ресурсов, что позволяет использовать Porteus на устаревшем оборудовании. Из особенностей также отмечается высокая скорость загрузки. Для загрузки предлагаются компактные Live-образы, размером около 350 МБ, собранные для архитектур i586 и x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=57453</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Porteus Kiosk 5.4.0, дистрибутива для оснащения интернет-киосков </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-porteus-kiosk-5-4-0-distributiva-dlya-osnascheniya-internet-kioskov-20220330-123504/</link>
+      <pubDate>Wed, 30 Mar 2022 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-porteus-kiosk-5-4-0-distributiva-dlya-osnascheniya-internet-kioskov-20220330-123504/</guid>
+      <description>Состоялся релиз дистрибутива Porteus Kiosk 5.4.0, основанного на Gentoo и предназначенного для оснащения автономно работающих интернет-киосков, демонстрационных стендов и терминалов самообслуживания. Загрузочный образ дистрибутива занимает 140 МБ (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=56936</description>
+    </item>
+    
+  </channel>
+</rss>

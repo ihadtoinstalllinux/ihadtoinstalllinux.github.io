@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MariaDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mariadb/</link>
+    <description>Recent content in MariaDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стабильный выпуск СУБД MariaDB 10.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-9-20220824-113503/</link>
+      <pubDate>Wed, 24 Aug 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-9-20220824-113503/</guid>
+      <description>Опубликован первый стабильный релиз новой ветки СУБД MariaDB 10.9 (10.9.2), в рамках которой развивается ответвление от MySQL, сохраняющее обратную совместимость и отличающееся интеграцией дополнительных движков хранения и расширенных возможностей. Развитие MariaDB курирует независимая организация MariaDB Foundation в соответствии с полностью открытым и прозрачным процессом разработки, не зависящим от отдельных производителей. MariaDB поставляется вместо MySQL во многих дистрибутивах Linux (RHEL, SUSE, Fedora, openSUSE, Slackware, OpenMandriva, ROSA, Arch Linux, Debian) и внедрён в таких крупных проектах, как Wikipedia, Google Cloud SQL и Nimbuzz.</description>
+    </item>
+    
+    <item>
+      <title>Стабильный выпуск СУБД MariaDB 10.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-7-20220210-123503/</link>
+      <pubDate>Thu, 10 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-7-20220210-123503/</guid>
+      <description>После 6 месяцев разработки опубликован первый стабильный релиз новой ветки СУБД MariaDB 10.7.2, в рамках которой развивается ответвление от MySQL, сохраняющее обратную совместимость и отличающееся интеграцией дополнительных движков хранения и расширенных возможностей.
+https://www.opennet.ru/opennews/art.shtml?num=56671</description>
+    </item>
+    
+  </channel>
+</rss>

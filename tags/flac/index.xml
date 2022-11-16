@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FLAC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flac/</link>
+    <description>Recent content in FLAC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован свободный звуковой кодек FLAC 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-svobodnyy-zvukovoy-kodek-flac-1-4-20220911-003505/</link>
+      <pubDate>Sun, 11 Sep 2022 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-svobodnyy-zvukovoy-kodek-flac-1-4-20220911-003505/</guid>
+      <description>Спустя девять лет с момента публикации прошлой значительной ветки сообщество Xiph.Org представило новую версию свободного кодека FLAC 1.4.0, обеспечивающего кодирование звука без потери качества. FLAC использует только методы кодирования без отбрасывания данных (lossless), что гарантирует полную сохранность изначального качества звукового потока и его идентичность с эталонным вариантом, подвергнутым кодированию. При этом используемые методы сжатия без потерь позволяют уменьшить размер исходного звукового потока на 50-60%. FLAC является полностью свободным потоковым форматом, подразумевающим не только открытость библиотек с реализацией функций кодирования и декодирования, но и отсутствие ограничений по использованию спецификаций и созданию производных вариантов.</description>
+    </item>
+    
+  </channel>
+</rss>

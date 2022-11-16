@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/se/</link>
+    <description>Recent content in SE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Sep 2022 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Java SE 19</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-19-20220921-003504/</link>
+      <pubDate>Wed, 21 Sep 2022 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-19-20220921-003504/</guid>
+      <description>После шести месяцев разработки компания Oracle выпустила платформу Java SE 19 (Java Platform, Standard Edition 19), в качестве эталонной реализации которой используется открытый проект OpenJDK. За исключением удаления некоторых устаревших возможностей в Java SE 19 сохранена обратная совместимость с прошлыми выпусками платформы Java - большинство ранее написанных Java-проектов без изменений будут работоспособны при запуске под управлением новой версии. Готовые для установки сборки Java SE 19 (JDK, JRE и Server JRE) подготовлены для Linux (x86_64, AArch64), Windows (x86_64) и macOS (x86_64, AArch64).</description>
+    </item>
+    
+    <item>
+      <title>Внимание! C 01.11.2022 мы прекращаем поставлять стикеры (наклейки), которыми ранее сопровождали отгрузки лицензий на ОС Astra Linux SE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vnimanie-c-01-11-2022-my-prekraschaem-postavlyat-stikery-nakleyki-kotorymi-ranee-soprovozh-20220708-093631/</link>
+      <pubDate>Fri, 08 Jul 2022 09:36:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vnimanie-c-01-11-2022-my-prekraschaem-postavlyat-stikery-nakleyki-kotorymi-ranee-soprovozh-20220708-093631/</guid>
+      <description>https://astralinux.ru/news/category-news/2022/vnimanie-c-01.11.2022-myi-prekrashhaem-postavlyat/</description>
+    </item>
+    
+    <item>
+      <title>Возможность генерации фиктивных подписей ECDSA в Java SE. Уязвимости в MySQL, VirtualBox и Solaris</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vozmozhnost-generacii-fiktivnyh-podpisey-ecdsa-v-java-se-uyazvimosti-v-mysql-virtualbox-i-20220420-133502/</link>
+      <pubDate>Wed, 20 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vozmozhnost-generacii-fiktivnyh-podpisey-ecdsa-v-java-se-uyazvimosti-v-mysql-virtualbox-i-20220420-133502/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В апрельском обновлении в сумме устранено 520 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57050</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Java SE 18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-18-20220323-143503/</link>
+      <pubDate>Wed, 23 Mar 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-18-20220323-143503/</guid>
+      <description>После шести месяцев разработки компания Oracle выпустила платформу Java SE 18 (Java Platform, Standard Edition 17), в качестве эталонной реализации которой используется открытый проект OpenJDK. За исключением удаления некоторых устаревших возможностей в Java SE 18 сохранена обратная совместимость с прошлыми выпусками платформы Java - большинство ранее написанных Java-проектов без изменений будут работоспособны при запуске под управлением новой версии. Готовые для установки сборки Java SE 18 (JDK, JRE и Server JRE) подготовлены для Linux (x86_64, AArch64), Windows (x86_64) и macOS (x86_64, AArch64).</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220119-120102/</link>
+      <pubDate>Wed, 19 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220119-120102/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В январском обновлении в сумме устранено 497 уязвимостей.
+#Java #SE #MySQL #VirtualBox #Oracle
+https://www.opennet.ru/opennews/art.shtml?num=56538</description>
+    </item>
+    
+  </channel>
+</rss>

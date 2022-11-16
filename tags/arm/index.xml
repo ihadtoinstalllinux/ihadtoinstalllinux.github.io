@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ARM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arm/</link>
+    <description>Recent content in ARM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новые версии эмуляторов Box86 и Box64, позволяющих запускать x86-игры на системах ARM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-emulyatorov-box86-i-box64-pozvolyayuschih-zapuskat-x86-igry-na-sistemah-arm-20220418-173502/</link>
+      <pubDate>Mon, 18 Apr 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-emulyatorov-box86-i-box64-pozvolyayuschih-zapuskat-x86-igry-na-sistemah-arm-20220418-173502/</guid>
+      <description>Опубликованы выпуски эмуляторов Box86 0.2.6 и Box64 0.1.8, предназначенных для запуска Linux-программ, собранных для архитектур x86 и x86_64, на оборудовании с процессорами ARM, ARM64, PPC64LE и RISC-V. Проекты развиваются синхронно одной командой разработчиков - Box86 ограничивается возможностью запуска 32-разрядных приложений x86, а Box64 обеспечивает запуск 64-разрядных исполняемых файлов. Проект уделяет большое внимание организации запуска игровых приложений, в том числе предоставляя возможность запуска Windows-сборок через wine и Proton. Исходные тексты проекта написаны на языке Си и распространяются (Box86, Box64) под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>BHI - новая уязвимость класса Spectre в процессорах Intel и ARM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bhi-novaya-uyazvimost-klassa-spectre-v-processorah-intel-i-arm-20220309-143502/</link>
+      <pubDate>Wed, 09 Mar 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bhi-novaya-uyazvimost-klassa-spectre-v-processorah-intel-i-arm-20220309-143502/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета выявила новую уязвимость в микроархитектурных структурах процессоров Intel и ARM, представляющую собой расширенный вариант уязвимости Spectre-v2, позволяющий обойти добавленные в процессоры механизмы защиты eIBRS и CSV2. Уязвимость присвоено несколько названий: BHI (Branch History Injection, CVE-2022-0001), BHB (Branch History Buffer, CVE-2022-0002) и Spectre-BHB (CVE-2022-23960), которые описывают разное проявление одной проблемы (BHI - атака, затрагивающая разные уровни привилегий, например, процесс пользователя и ядро, BHB - атака на одном уровне привилегий, например, eBPF JIT и ядро).</description>
+    </item>
+    
+    <item>
+      <title>Intel, AMD и ARM представили UCIe, открытый стандарт для чиплетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-amd-i-arm-predstavili-ucie-otkrytyy-standart-dlya-chipletov-20220303-163503/</link>
+      <pubDate>Thu, 03 Mar 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-amd-i-arm-predstavili-ucie-otkrytyy-standart-dlya-chipletov-20220303-163503/</guid>
+      <description>Объявлено о формировании консорциума UCIe (Universal Chiplet Interconnect Express), нацеленного на развитие открытых спецификаций и формирование экосистемы для технологии чиплетов (chiplet). Чиплеты позволяют создавать комбинированные гибридные интегральные схемы (многочиповые модули), образованные из независимых полупроводниковых блоков, не привязанных к одному производителю и взаимодействующих между собой при помощи стандарного высокоскоростного интерфейса UCIe.
+https://www.opennet.ru/opennews/art.shtml?num=56797</description>
+    </item>
+    
+  </channel>
+</rss>

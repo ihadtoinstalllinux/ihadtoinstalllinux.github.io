@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AlphaPlot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/alphaplot/</link>
+    <description>Recent content in AlphaPlot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/alphaplot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск AlphaPlot, программы для построения научных графиков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-113502/</link>
+      <pubDate>Thu, 20 Jan 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-113502/</guid>
+      <description>Опубликован выпуск программы AlphaPlot 1.02, предоставляющей графический интерфейс для анализа и визуализации научных данных. Разработка проекта началась в 2016 году как форк SciDAVis 1.D009, который, в свою очередь, является форком QtiPlot 0.9rc-2. В процессе разработки была осуществлена миграция с библиотеки QWT на QCustomplot. Код написан на языке C++, использует библиотеку Qt и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56541</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libadwaita on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libadwaita/</link>
+    <description>Recent content in Libadwaita on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libadwaita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск библиотеки Libadwaita 1.2 для создания интерфейсов в стиле GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-2-dlya-sozdaniya-interfeysov-v-stile-gnome-20220916-113506/</link>
+      <pubDate>Fri, 16 Sep 2022 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-2-dlya-sozdaniya-interfeysov-v-stile-gnome-20220916-113506/</guid>
+      <description>Проект GNOME опубликовал выпуск библиотеки Libadwaita 1.2, включающей набор компонентов для стилевого оформления интерфейса пользователя, соответствующего рекомендациям GNOME HIG (Human Interface Guidelines). Библиотека включает в себя готовые виджеты и объекты для построения приложений, соответствующих общему стилю GNOME, интерфейс которых может адаптивно подстраиваться под экраны любого размера. Код библиотеки написан на языке Си и распространяется под лицензией LGPL 2.1+.
+https://www.opennet.ru/opennews/art.shtml?num=57792</description>
+    </item>
+    
+  </channel>
+</rss>

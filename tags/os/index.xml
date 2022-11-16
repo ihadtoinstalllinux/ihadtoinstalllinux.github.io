@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/os/</link>
+    <description>Recent content in OS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Началось бета-тестирование Steam для Chrome OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-steam-dlya-chrome-os-20221106-003502/</link>
+      <pubDate>Sun, 06 Nov 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-steam-dlya-chrome-os-20221106-003502/</guid>
+      <description>Компании Google и Valve перевели реализацию сервиса доставки игр Steam для платформы Chrome OS на стадию бета-тестирования. Бета-выпуск Steam уже предложен в тестовых сборках Chrome OS 108.0.5359.24 (включается через chrome://flags#enable-borealis). Возможность использования Steam и предлагаемых в нём игровых приложений доступна для устройств Chromebook производства Acer, ASUS, HP, Framework, IdeaPad и Lenovo, оснащённых как минимум CPU Intel Core i3 или AMD Ryzen 3 и 8GB ОЗУ (рекомендуется i5 / Ryzen 5 и 16GB ОЗУ).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 16.2, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-2-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20221029-143502/</link>
+      <pubDate>Sat, 29 Oct 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-2-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20221029-143502/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.2, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме репозиториев Ubuntu по умолчанию включена поддержка установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Chrome OS 107</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-107-20221029-133503/</link>
+      <pubDate>Sat, 29 Oct 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-107-20221029-133503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 107, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 107. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 107 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Chrome OS 106 и первые игровые Chromebook</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-106-i-pervye-igrovye-chromebook-20221012-103503/</link>
+      <pubDate>Wed, 12 Oct 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-106-i-pervye-igrovye-chromebook-20221012-103503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 106, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 106. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 106 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Chrome OS 105</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-105-20220908-103503/</link>
+      <pubDate>Thu, 08 Sep 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-105-20220908-103503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 105, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 105. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 105 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220908-013503/</link>
+      <pubDate>Thu, 08 Sep 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220908-013503/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали весеннее обновление дистрибутива Raspberry Pi OS 2022-09-06 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (338 МБ) для серверных систем, с базовым рабочим столом (891 МБ) и полная с дополнительным набором приложений (2.7 ГБ). Дистрибутив поставляется с пользовательским окружением PIXEL (ответвление от LXDE). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=57744</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 22 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-22-dlya-linux-chrome-os-i-macos-20220824-003507/</link>
+      <pubDate>Wed, 24 Aug 2022 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-22-dlya-linux-chrome-os-i-macos-20220824-003507/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 22, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 22 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=57668</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Chrome OS 104</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-104-20220805-123502/</link>
+      <pubDate>Fri, 05 Aug 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-104-20220805-123502/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 104, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 104. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 104 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Steam OS 3.3, используемого на игровой консоли Steam Deck </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-3-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220803-113503/</link>
+      <pubDate>Wed, 03 Aug 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-3-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220803-113503/</guid>
+      <description>Компания Valve представила обновление операционной системы Steam OS 3.3, поставляемой в игровой консоли Steam Deck. Steam OS 3 основана на Arch Linux, использует для ускорения запуска игр композитный сервер Gamescope на базе протокола Wayland, поставляется с доступной только на чтение корневой ФС, применяет атомарный механизм установки обновлений, поддерживает пакеты Flatpak, использует мультимедийный сервер PipeWire и предоставляет два режима работы интерфейса (оболочка Steam и рабочий стол KDE Plasma). Обновления доступны только для Steam Deck, но энтузиастами развивается неофициальная сборка holoiso, адаптированная для установки на обычные компьютеры (в будущем сборки для ПК обещает подготовить и компания Valve).</description>
+    </item>
+    
+    <item>
+      <title>На конференции OS DAY 2022 обсудили безопасность операционных систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2022-obsudili-bezopasnost-operacionnyh-sistem-20220728-213623/</link>
+      <pubDate>Thu, 28 Jul 2022 21:36:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2022-obsudili-bezopasnost-operacionnyh-sistem-20220728-213623/</guid>
+      <description>Главной темой OS DAY в этом году стало обеспечение информационной безопасности отечественных операционных систем, обсуждались также многие другие темы. Подробности в репортаже.
+https://www.basealt.ru/about/news/archive/view/na-konferencii-os-day-2022-obsudili-bezopasnost-operacionnykh-sistem</description>
+    </item>
+    
+    <item>
+      <title>Операционная система Chrome OS Flex готова для установки на любое оборудование </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/operacionnaya-sistema-chrome-os-flex-gotova-dlya-ustanovki-na-lyuboe-oborudovanie-20220715-143503/</link>
+      <pubDate>Fri, 15 Jul 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/operacionnaya-sistema-chrome-os-flex-gotova-dlya-ustanovki-na-lyuboe-oborudovanie-20220715-143503/</guid>
+      <description>Компания Google сообщила о готовности операционной системы Chrome OS Flex для повсеместного использования. Chrome OS Flex представляет собой отдельный вариант Chrome OS, предназначенный для использования на обычных компьютерах, а не только на изначально поставляемых с Chrome OS устройствах, таких как Chromebook, Chromebase и Chromebox.
+https://www.opennet.ru/opennews/art.shtml?num=57509</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Chrome OS 103</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-103-20220628-143503/</link>
+      <pubDate>Tue, 28 Jun 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-chrome-os-103-20220628-143503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 103, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 103. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 103 доступна для большинства актуальных моделей Chromebook. Исходные тексты распространяются под свободной лицензией Apache 2.0. Кроме того, продолжается тестирование Chrome OS Flex, редакции для Chrome OS использования на обычных компьютерах.</description>
+    </item>
+    
+    <item>
+      <title>НТЦ ИТ РОСА выступит на OS DAY 2022</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-vystupit-na-os-day-2022-20220624-213530/</link>
+      <pubDate>Fri, 24 Jun 2022 21:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-vystupit-na-os-day-2022-20220624-213530/</guid>
+      <description>Доклад НТЦ ИТ РОСА посвящен процессам и инструментам разработки безопасных операционных систем. Главная тема IX международной научно-практической конференции OS DAY 2022, которая пройдет в Москве 23-24 июня – технологическое обеспечение безопасности операционных систем. Во второй день конференции Юрий Туманов, к.т.н., специалист НТЦ ИТ РОСА по тестированию и анализу уязвимостей ПО, расскажет о подходах, процессах и […]
+https://www.rosalinux.ru/ntcz-it-rosa-vystupit-na-os-day-2022/</description>
+    </item>
+    
+    <item>
+      <title>Конференция разработчиков российских операционных систем OS DAY 2022 состоится 23-24 июня в РАН</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konferenciya-razrabotchikov-rossiyskih-operacionnyh-sistem-os-day-2022-sostoitsya-23-24-iy-20220608-213540/</link>
+      <pubDate>Wed, 08 Jun 2022 21:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konferenciya-razrabotchikov-rossiyskih-operacionnyh-sistem-os-day-2022-sostoitsya-23-24-iy-20220608-213540/</guid>
+      <description>Для очного участия в конференции необходимо официально зарегистрироваться на сайте osday.ru. Последний день регистрации – 14 июня 2022 г.
+https://www.basealt.ru/about/news/archive/view/konferencija-razrabotchikov-rossiiskikh-operacionnykh-sistem-os-day-2022-sostoitsja-23-24-ijunja-v-ran</description>
+    </item>
+    
+    <item>
+      <title>Доступны открытая мобильная платформа /e/OS 1.0 и смартфон Murena One на её основе </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-otkrytaya-mobilnaya-platforma-e-os-1-0-i-smartfon-murena-one-na-ee-osnove-20220601-123503/</link>
+      <pubDate>Wed, 01 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-otkrytaya-mobilnaya-platforma-e-os-1-0-i-smartfon-murena-one-na-ee-osnove-20220601-123503/</guid>
+      <description>После пяти лет разработки опубликован релиз мобильной платформы /e/OS 1.0, основанной Гаэлем Дювалем (Gaël Duval), создателем дистрибутива Mandrake Linux. Одновременно представлен подготовленный проектом смартфон Murena One, нацеленный на обеспечение конфиденциальности пользовательских данных. Проектом также предоставляются прошивки для многих популярных моделей смартфонов и предлагаются редакции смартфонов Fairphone 3/4, Teracube 2e и Samsung Galaxy S9 с предустановленной платформой /e/OS. Всего проектом официально поддерживается 269 смартфонов.
+https://www.opennet.ru/opennews/art.shtml?num=57284</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 102, который отнесён к категории LTS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-102-kotoryy-otnesen-k-kategorii-lts-20220528-133503/</link>
+      <pubDate>Sat, 28 May 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-102-kotoryy-otnesen-k-kategorii-lts-20220528-133503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 102, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 102. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 102 доступна для большинства актуальных моделей Chromebook. Исходные тексты распространяются под свободной лицензией Apache 2.0. Кроме того, продолжается тестирование Chrome OS Flex, редакции для Chrome OS использования на обычных компьютерах.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Steam OS 3.2, используемого на игровой консоли Steam Deck </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-2-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220527-113503/</link>
+      <pubDate>Fri, 27 May 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-2-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220527-113503/</guid>
+      <description>Компания Valve представила обновление операционной системы Steam OS 3.2, поставляемой в игровой консоли Steam Deck. Steam OS 3 основана на Arch Linux, использует для ускорения запуска игр композитный сервер Gamescope на базе протокола Wayland, поставляется с доступной только на чтение корневой ФС, применяет атомарный механизм установки обновлений, поддерживает пакеты Flatpak, использует мультимедийный сервер PipeWire и предоставляет два режима работы интерфейса (оболочка Steam и рабочий стол KDE Plasma). Обновления доступны только для Steam Deck, но энтузиастами развивается неофициальная сборка holoiso, адаптированная для установки на обычные компьютеры (в будущем сборки для ПК обещает подготовить и компания Valve).</description>
+    </item>
+    
+    <item>
+      <title>Конференция OS DAY 2022 «Технологические основы безопасности операционных систем» состоится в июне</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konferenciya-os-day-2022-tehnologicheskie-osnovy-bezopasnosti-operacionnyh-sistem-sostoits-20220524-213626/</link>
+      <pubDate>Tue, 24 May 2022 21:36:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konferenciya-os-day-2022-tehnologicheskie-osnovy-bezopasnosti-operacionnyh-sistem-sostoits-20220524-213626/</guid>
+      <description>IX международная научно-практическая конференция OS DAY 2022 состоится 23-24 июня в Москве в главном здании РАН. Её главной темой станет технологическое обеспечение безопасности операционных систем.
+https://www.basealt.ru/about/news/archive/view/konferencija-os-day-2022-tekhnologicheskie-osnovy-bezopasnosti-operacionnykh-sistem-sostoitsja-v-ijune</description>
+    </item>
+    
+    <item>
+      <title>Компания HP анонсировала ноутбук, поставляемый с Linux-дистрибутивом  Pop!_OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-hp-anonsirovala-noutbuk-postavlyaemyy-s-linux-distributivom-pop-os-20220521-133502/</link>
+      <pubDate>Sat, 21 May 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-hp-anonsirovala-noutbuk-postavlyaemyy-s-linux-distributivom-pop-os-20220521-133502/</guid>
+      <description>Компания HP анонсировала ноутбук HP Dev One, предназначенный для разработчиков приложений и поставляемый с дистрибутивом Linux Pop!_OS, основанным на пакетной базе Ubuntu 22.04 и оснащённым собственным окружением рабочего стола COSMIC. Ноутбук построен на базе 8-ядерного процессора AMD Ryzen 7 PRO, снабжён 14-дюймовым (FHD) экраном с антибликовым покрытием, 16 ГБ ОЗУ и 1TB NVMe. Заявленная стоимость 1099 долларов.
+https://www.opennet.ru/opennews/art.shtml?num=57227</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 101</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-101-20220510-023505/</link>
+      <pubDate>Tue, 10 May 2022 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-101-20220510-023505/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 101, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 101. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 101 доступна для большинства актуальных моделей Chromebook. Исходные тексты распространяются под свободной лицензией Apache 2.0. Кроме того, продолжается тестирование Chrome OS Flex, редакции для Chrome OS использования на обычных компьютерах.</description>
+    </item>
+    
+    <item>
+      <title>Энтузиасты подготовили сборку Steam OS 3, пригодную для установки на обычные ПК</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/entuziasty-podgotovili-sborku-steam-os-3-prigodnuyu-dlya-ustanovki-na-obychnye-pk-20220504-133502/</link>
+      <pubDate>Wed, 04 May 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/entuziasty-podgotovili-sborku-steam-os-3-prigodnuyu-dlya-ustanovki-na-obychnye-pk-20220504-133502/</guid>
+      <description>Опубликована неофициальная сборка операционной системы Steam OS 3, адаптированная для установки на обычные компьютеры. Компания Valve использует Steam OS 3 на игровых приставках Steam Deck и изначально обещала подготовить сборки для обычного оборудования, но публикация официальных сборок Steam OS 3 для устройств, отличных от Steam Deck, затянулась. Энтузиасты взяли инициативу в свои руки и не дожидаясь Valve самостоятельно адаптировали доступные для Steam Deck recovery-образы для установки на обычное оборудование.
+https://www.opennet.ru/opennews/art.shtml?num=57130</description>
+    </item>
+    
+    <item>
+      <title>Выпуск операционной системы Redox OS 0.7, написанной на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-redox-os-0-7-napisannoy-na-yazyke-rust-20220429-133502/</link>
+      <pubDate>Fri, 29 Apr 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-redox-os-0-7-napisannoy-na-yazyke-rust-20220429-133502/</guid>
+      <description>После полутора лет разработки опубликован выпуск операционной системы Redox 0.7, разработанной с использованием языка Rust и концепции микроядра. Наработки проекта распространяются под свободной лицензией MIT. Для тестирования Redox OS предложены установочные и Live-образы, размером 75 МБ. Сборки сформированы для архитектуры x86_64 и доступны для систем с UEFI и BIOS.
+https://www.opennet.ru/opennews/art.shtml?num=57107</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Pop!_OS 22.04, развивающего рабочий стол COSMIC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-pop-os-22-04-razvivayuschego-rabochiy-stol-cosmic-20220427-013503/</link>
+      <pubDate>Wed, 27 Apr 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-pop-os-22-04-razvivayuschego-rabochiy-stol-cosmic-20220427-013503/</guid>
+      <description>Компания System76, специализирующаяся на производстве ноутбуков, ПК и серверов, поставляемых с Linux, опубликовала выпуск дистрибутива Pop!_OS 22.04. Pop!_OS основан на пакетной базе Ubuntu 22.04 и поставляется с собственным окружением рабочего стола COSMIC. Наработки проекта распространяются под лицензией GPLv3. ISO-образы сформированы для архитектуры x86_64 и ARM64 в вариантах для графических чипов NVIDIA (3.2 ГБ) и Intel/AMD (2.6 ГБ). Сборки для плат Raspberry Pi 4 задерживаются.
+https://www.opennet.ru/opennews/art.shtml?num=57089</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутива Steam OS, используемого на игровой консоли Steam Deck</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-steam-os-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220426-153502/</link>
+      <pubDate>Tue, 26 Apr 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-steam-os-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20220426-153502/</guid>
+      <description>Компания Valve представила обновление операционной системы Steam OS 3, поставляемой в игровой консоли Steam Deck. Steam OS 3 основана на Arch Linux, использует для ускорения запуска игр композитный сервер Gamescope на базе протокола Wayland, поставляется с доступной только на чтение корневой ФС, применяет атомарный механизм установки обновлений, поддерживает пакеты Flatpak, использует мультимедийный сервер PipeWire и предоставляет два режима работы интерфейса (оболочка Steam и рабочий стол KDE Plasma).
+https://www.opennet.ru/opennews/art.shtml?num=57087</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220409-193502/</link>
+      <pubDate>Sat, 09 Apr 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220409-193502/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали весеннее обновление дистрибутива Raspberry Pi OS 2022-04-04 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (297 МБ) для серверных систем, с базовым рабочим столом (837 МБ) и полная с дополнительным набором приложений (2.2 ГБ). Дистрибутив поставляется с пользовательским окружением PIXEL (ответвление от LXDE). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=56992</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 100</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-100-20220402-153503/</link>
+      <pubDate>Sat, 02 Apr 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-100-20220402-153503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 100, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 100. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 100 доступна для большинства актуальных моделей Chromebook. Исходные тексты распространяются под свободной лицензией Apache 2.0. Кроме того, продолжается тестирование Chrome OS Flex, редакции для Chrome OS использования на обычных компьютерах.</description>
+    </item>
+    
+    <item>
+      <title>Из проекта elementary OS ушёл один из основателей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-proekta-elementary-os-ushel-odin-iz-osnovateley-20220401-233502/</link>
+      <pubDate>Fri, 01 Apr 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-proekta-elementary-os-ushel-odin-iz-osnovateley-20220401-233502/</guid>
+      <description>Кэссиди Блейд (Cassidy Blaede), сооснователь дистрибутива elementary OS, объявил о прекращении участия в работе над проектом. С 2018 гожа Кэссиди работал занимался разработкой elementary OS в режиме полного рабочего дня. В связи с финансовыми проблемами у компании elementary Inc Кэссиди хотел трудоустроиться на новое место работы, не прекращая участия в жизни elementary OS, но из-за конфликта с другим сооснователем вынужден полностью уйти из проекта. Свою долю в компании elementary Inc Кэссиди передал Даниэле Форе (Danielle For&amp;amp;#233.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система Capyloon, основанная на наработках Firefox OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-capyloon-osnovannaya-na-narabotkah-firefox-os-20220326-133502/</link>
+      <pubDate>Sat, 26 Mar 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-capyloon-osnovannaya-na-narabotkah-firefox-os-20220326-133502/</guid>
+      <description>Представлен экспериментальный выпуск операционной системы Capyloon, построенной на основе web-технологий и продолжающей развитие платформы Firefox OS и проекта B2G (Boot to Gecko). Проект развивает Фабрис Дезре (Fabrice Desré), бывший лидер команды Firefox OS в Mozilla и главный архитектор компании KaiOS Technologies, развивающей KaiOS, форк Firefox OS. Среди основных задач Capyloon упоминается обеспечение конфиденциальности и предоставление пользователю средств для контроля за системой и информацией. В качестве основы Capyloon задействован движок gecko-b2g, ответвлённый из репозитория KaiOS.</description>
+    </item>
+    
+    <item>
+      <title>В Chrome OS появилась возможность запуска игр, распространяемых через Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-chrome-os-poyavilas-vozmozhnost-zapuska-igr-rasprostranyaemyh-cherez-steam-20220323-103503/</link>
+      <pubDate>Wed, 23 Mar 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-chrome-os-poyavilas-vozmozhnost-zapuska-igr-rasprostranyaemyh-cherez-steam-20220323-103503/</guid>
+      <description>Компания Google опубликовала тестовый выпуск операционной системы Chrome OS 101.0.4943.0 (14583.0.0), в котором предложена поддержка сервиса доставки игр Steam и предлагаемых в нём игровых приложений, поставляемых для Linux и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=56898</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 21.2 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-21-2-dlya-linux-chrome-os-i-macos-20220323-003502/</link>
+      <pubDate>Wed, 23 Mar 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-21-2-dlya-linux-chrome-os-i-macos-20220323-003502/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 21.2, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 21.2 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=56896</description>
+    </item>
+    
+    <item>
+      <title>Раскол среди основателей проекта elementary OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/raskol-sredi-osnovateley-proekta-elementary-os-20220312-123502/</link>
+      <pubDate>Sat, 12 Mar 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/raskol-sredi-osnovateley-proekta-elementary-os-20220312-123502/</guid>
+      <description>Дальнейшая судьба дистрибутива elementary OS находится под вопросом из-за конфликта между основателями проекта, которые не могут поделить между собой компанию, курирующую разработку и аккумулирующую поступающие средства.
+https://www.opennet.ru/opennews/art.shtml?num=56842</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Zorin OS 16.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-zorin-os-16-1-20220311-113503/</link>
+      <pubDate>Fri, 11 Mar 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-zorin-os-16-1-20220311-113503/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.1, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме репозиториев Ubintu по умолчанию включена поддержка установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 99</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-99-20220305-133502/</link>
+      <pubDate>Sat, 05 Mar 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-99-20220305-133502/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 99, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 99. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 99 доступна для большинства актуальных моделей Chromebook. Исходные тексты распространяются под свободной лицензией Apache 2.0. Кроме того, продолжается тестирование Chrome OS Flex, редакции для Chrome OS использования на обычных компьютерах.</description>
+    </item>
+    
+    <item>
+      <title>Проект Neptune OS развивает слой совместимости с Windows на базе микроядра seL4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-neptune-os-razvivaet-sloy-sovmestimosti-s-windows-na-baze-mikroyadra-sel4-20220226-003503/</link>
+      <pubDate>Sat, 26 Feb 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-neptune-os-razvivaet-sloy-sovmestimosti-s-windows-na-baze-mikroyadra-sel4-20220226-003503/</guid>
+      <description>Опубликован первый экспериментальный выпуск проекта Neptune OS, развивающего надстройку над микроядром seL4 с реализацией компонентов ядра Windows NT, нацеленную на предоставление поддержки выполнения Windows-приложений. Код распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=56762</description>
+    </item>
+    
+    <item>
+      <title>Google представил Chrome OS Flex, пригодный для установки на любое оборудование</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predstavil-chrome-os-flex-prigodnyy-dlya-ustanovki-na-lyuboe-oborudovanie-20220216-133502/</link>
+      <pubDate>Wed, 16 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predstavil-chrome-os-flex-prigodnyy-dlya-ustanovki-na-lyuboe-oborudovanie-20220216-133502/</guid>
+      <description>Компания Google представила операционную систему Chrome OS Flex, представляющую собой новый вариант Chrome OS, предназначенный для использования на обычных компьютерах, а не только на изначально поставляемых с Chrome OS устройствах, таких как Chromebook, Chromebase и Chromebox. В качестве основных областей применения Chrome OS Flex упоминается модернизация уже имеющихся старых систем для продления их жизненного цикла, снижение издержек (например не нужно платить за ОС и дополнительное ПО, такое как антивирусы), повышение безопасности инфраструктуры и унификация программного обеспечения, используемого в компаниях и учебных заведениях.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 98</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-98-20220208-143503/</link>
+      <pubDate>Tue, 08 Feb 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-98-20220208-143503/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 98, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 98. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Сборка Chrome OS 98 доступна для большинства актуальных моделей Chromebook. Энтузиастами сформированы неофициальные сборки для обычных компьютеров с процессорами x86, x86_64 и ARM.</description>
+    </item>
+    
+    <item>
+      <title>Началась публикация 64-разрядных сборок дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</link>
+      <pubDate>Thu, 03 Feb 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</guid>
+      <description>Разработчики проекта Raspberry Pi сообщили о начале формирования 64-разрядных сборок дистрибутива Raspberry Pi OS (Raspbian), основанного на пакетной базе Debian 11 и оптимизированного для плат Raspberry Pi. До сих пор дистрибутив предоставлял только унифицированные для всех плат 32-разрядные сборки. Отныне для плат с процессорами на базе архитектуры ARMv8-A, таких как Raspberry Pi Zero 2 (SoC BCM2710 с CPU Cortex-A53), Raspberry Pi 3 (SoC BCM2710 с CPU Cortex-A53) и Raspberry Pi 4	(SoC BCM2711 с CPU Cortex-A72), начали формироваться отдельные 64-разрядные сборки.</description>
+    </item>
+    
+  </channel>
+</rss>

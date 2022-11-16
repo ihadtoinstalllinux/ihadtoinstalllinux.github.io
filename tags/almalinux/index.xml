@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AlmaLinux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/almalinux/</link>
+    <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 8.7, продолжающий развитие CentOS 8 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-7-prodolzhayuschiy-razvitie-centos-8-20221111-153503/</link>
+      <pubDate>Fri, 11 Nov 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-7-prodolzhayuschiy-razvitie-centos-8-20221111-153503/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 8.7, синхронизированный c дистрибутивом Red Hat Enterprise Linux 8.7 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64, s390x и ppc64le в форме загрузочного (820 МБ), минимального (1.7 ГБ) и полного образа (11 ГБ). Позднее планируют сформировать Live-сборки, а также образы для плат Raspberry Pi, WSL, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=58092</description>
+    </item>
+    
+    <item>
+      <title>Проект AlmaLinux представил новую сборочную систему ALBS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</link>
+      <pubDate>Tue, 21 Jun 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-novuyu-sborochnuyu-sistemu-albs-20220621-193503/</guid>
+      <description>Разработчики дистрибутива AlmaLinux, развивающего похожий на CentOS бесплатный клон Red Hat Enterprise Linux, представили новую сборочную систему ALBS (AlmaLinux Build System), которая уже использована при формировании выпусков AlmaLinux 8.6 и 9.0, подготовленных для архитектур x86_64, Aarch64, PowerPC ppc64le и s390x. Кроме сборки дистрибутива ALBS также используется для генерации и публикации корректирующих обновлений (errata), и заверения пакетов цифровой подписью. Код сборочной системы написан на языке Python и.
+https://www.opennet.ru/opennews/art.shtml?num=57384</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 9.0, основанный на ветке RHEL 9 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-9-0-osnovannyy-na-vetke-rhel-9-20220526-223503/</link>
+      <pubDate>Thu, 26 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-9-0-osnovannyy-na-vetke-rhel-9-20220526-223503/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 9.0, синхронизированный c дистрибутивом Red Hat Enterprise Linux 9 и содержащий все предложенные данной ветке изменения. Проект AlmaLinux стал первым общедоступным дистрибутивом, основанным на пакетной базе RHEL, выпустившим стабильные сборки на основе RHEL 9. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (800 МБ), минимального (1.5 ГБ) и полного образа (8 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE и Xfce, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 8.6, продолжающий развитие CentOS 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-6-prodolzhayuschiy-razvitie-centos-8-20220512-223503/</link>
+      <pubDate>Thu, 12 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-6-prodolzhayuschiy-razvitie-centos-8-20220512-223503/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 8.6, синхронизированный c дистрибутивом Red Hat Enterprise Linux 8.6 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64 и ppc64le в форме загрузочного (830 МБ), минимального (1.6 ГБ) и полного образа (11 ГБ). Позднее дополнительно обещают сформировать Live-сборки, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=57179</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск AlmaLinux 9, основанный на ветке RHEL 9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-almalinux-9-osnovannyy-na-vetke-rhel-9-20220420-113503/</link>
+      <pubDate>Wed, 20 Apr 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-almalinux-9-osnovannyy-na-vetke-rhel-9-20220420-113503/</guid>
+      <description>Представлен бета-выпуск дистрибутива AlmaLinux 9, построенный с использованием пакетов из ветки Red Hat Enterprise Linux 9 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64, s390x и ppc64le в форме загрузочного (780 МБ), минимального (1.7 ГБ) и полного образа (8 ГБ). Релизы RHEL 9 и AlmaLinux 9 ожидаются в начале мая.
+https://www.opennet.ru/opennews/art.shtml?num=57048</description>
+    </item>
+    
+    <item>
+      <title>Доступен вариант дистрибутива AlmaLinux для архитектуры PowerPC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-variant-distributiva-almalinux-dlya-arhitektury-powerpc-20220301-013503/</link>
+      <pubDate>Tue, 01 Mar 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-variant-distributiva-almalinux-dlya-arhitektury-powerpc-20220301-013503/</guid>
+      <description>В дистрибутиве AlmaLinux 8.5, ранее выпущенном для систем x86_64 и ARM/AArch64, реализована поддержка архитектуры PowerPC (ppc64l). Для загрузки доступно три варианта iso-образов: загрузочный (770 МБ), минимальный (1.8 ГБ) и полный (9 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=56778</description>
+    </item>
+    
+  </channel>
+</rss>

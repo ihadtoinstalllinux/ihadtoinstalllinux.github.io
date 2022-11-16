@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>memchr on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/memchr/</link>
+    <description>Recent content in memchr on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/memchr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для ядра Linux предложена реализация функции memchr, работающая до 4 раз быстрее</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhena-realizaciya-funkcii-memchr-rabotayuschaya-do-4-raz-bystree-20220712-113502/</link>
+      <pubDate>Tue, 12 Jul 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhena-realizaciya-funkcii-memchr-rabotayuschaya-do-4-raz-bystree-20220712-113502/</guid>
+      <description>Для включения в состав ядра Linux предложен набор патчей с оптимизированной реализацией функции memchr(), применяемой для поиска символа в массиве. В отличие от старого варианта, в котором применялось побайтовое сравнение, предложенная реализация построена с учётом полного использования 64- и 32-разрядных регистров CPU. Вместо байтов сравнение осуществляется с использованием машинных слов, что позволяет за раз сравнивать как минимум 4 байта.
+https://www.opennet.ru/opennews/art.shtml?num=57493</description>
+    </item>
+    
+  </channel>
+</rss>

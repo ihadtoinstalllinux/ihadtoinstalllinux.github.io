@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В JavaScript-платформе Deno обеспечена совместимость с модулями NPM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-javascript-platforme-deno-obespechena-sovmestimost-s-modulyami-npm-20221114-233503/</link>
+      <pubDate>Mon, 14 Nov 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-javascript-platforme-deno-obespechena-sovmestimost-s-modulyami-npm-20221114-233503/</guid>
+      <description>Представлен выпуск Deno 1.28, платформы для обособленного выполнения приложений на языках JavaScript и TypeScript, которая может быть использована для создания обработчиков, работающих на сервере. Платформу развивает Райан Даль (Ryan Dahl), создатель Node.js. Как и в Node.js в Deno используется JavaScript-движок V8, который также применяется в браузерах на основе Chromium. При этом Deno не является ответвлением от Node.js, а представляет собой созданный с нуля новый проект. Код проекта распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 19.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-19-0-20221019-103503/</link>
+      <pubDate>Wed, 19 Oct 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-19-0-20221019-103503/</guid>
+      <description>Состоялся релиз Node.js 19.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 19 отнесён к ветке с обычным сроком поддержки, обновления для которой будут выпускаться до июня 2023 года. В ближайшие дни будет завершена стабилизация ветки Node.js 18, которая получит статус LTS и будет поддерживаться до апреля 2025 года. Сопровождение прошлой LTS-ветки Node.js 16.0 продлится до сентября 2023 года, а позапрошлой LTS-ветки 14.0 до апреля 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=57938</description>
+    </item>
+    
+    <item>
+      <title>Facebook открыл код фреймворка для выявления утечек памяти в JavaScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-freymvorka-dlya-vyyavleniya-utechek-pamyati-v-javascript-20220919-223502/</link>
+      <pubDate>Mon, 19 Sep 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-freymvorka-dlya-vyyavleniya-utechek-pamyati-v-javascript-20220919-223502/</guid>
+      <description>Facebook открыл исходные тексты инструментария memlab, предназначенного для анализа срезов состояния динамически распределяемой памяти (кучи), определения стратегии оптимизации работы с памятью и выявления утечек памяти, возникающих при выполнении кода на языке JavaScript. Код открыт под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=57802</description>
+    </item>
+    
+    <item>
+      <title>Атака на Node.js через манипуляции с прототипами объектов JavaScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-node-js-cherez-manipulyacii-s-prototipami-obektov-javascript-20220727-183503/</link>
+      <pubDate>Wed, 27 Jul 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-node-js-cherez-manipulyacii-s-prototipami-obektov-javascript-20220727-183503/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) и Королевского технологического института (Швеция) проанализировали применимость техники засорения прототипа объектов JavaScript (&amp;ldquo;prototype pollution&amp;rdquo;) для создания атак на платформу Node.js и популярные приложения на её основе, приводящих к выполнению кода.
+https://www.opennet.ru/opennews/art.shtml?num=57562</description>
+    </item>
+    
+    <item>
+      <title>Packj - инструментарий для выявления вредоносных библиотек на языках Python и JavaScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/packj-instrumentariy-dlya-vyyavleniya-vredonosnyh-bibliotek-na-yazykah-python-i-javascript-20220630-123503/</link>
+      <pubDate>Thu, 30 Jun 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/packj-instrumentariy-dlya-vyyavleniya-vredonosnyh-bibliotek-na-yazykah-python-i-javascript-20220630-123503/</guid>
+      <description>Разработчики платформы Packj, анализирующей безопасность библиотек, опубликовали открытый инструментарий командной строки, позволяющий выявлять рискованные конструкции в пакетах, которые могут быть связаны с реализацией вредоносной активности или наличием уязвимостей, применяемых для совершения атак на проекты, использующие рассматриваемые пакеты (&amp;ldquo;supply chain&amp;rdquo;). Поддерживается проверка пакетов на языках Python и JavaScript, размещённых в каталогах PyPi и NPM (в этом месяце также планируют добавить поддержку Ruby и RubyGems). Код инструментария написан на языке Python и распространяется под лицензией AGPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 18.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-18-0-20220421-143503/</link>
+      <pubDate>Thu, 21 Apr 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-18-0-20220421-143503/</guid>
+      <description>Состоялся релиз Node.js 18.0, платформы для выполнения сетевых приложений на языке JavaScript.
+https://www.opennet.ru/opennews/art.shtml?num=57054</description>
+    </item>
+    
+    <item>
+      <title>В язык JavaScript предложено добавить синтаксис с информацией о типах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yazyk-javascript-predlozheno-dobavit-sintaksis-s-informaciey-o-tipah-20220315-013502/</link>
+      <pubDate>Tue, 15 Mar 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yazyk-javascript-predlozheno-dobavit-sintaksis-s-informaciey-o-tipah-20220315-013502/</guid>
+      <description>Компании Microsoft, Igalia и Bloomberg выступили с инициативой включения в спецификацию JavaScript синтаксиса для явного определения типов, похожего на синтаксис, применяемый в языке TypeScript. В настоящее время прототип изменений, предложенный для включения в стандарт ECMAScript, вынесен для предварительных обсуждений (Stage 0). На ближайшем мартовском заседании комитета TC39 планируется перейти на первую стадию рассмотрения предложения с привлечением экспертного сообщества из ECMA.
+https://www.opennet.ru/opennews/art.shtml?num=56850</description>
+    </item>
+    
+    <item>
+      <title>В Polkit добавлена поддержка JavaScript-движка Duktape</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</link>
+      <pubDate>Tue, 25 Jan 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-polkit-dobavlena-podderzhka-javascript-dvizhka-duktape-20220125-233502/</guid>
+      <description>В инструментарий Polkit, используемый в дистрибутивах для обработки авторизации и определения правил доступа к операциям, требующим повышенных прав доступа (например, монтирования USB-накопителя), добавлен бэкенд, позволяющий использовать встраиваемый JavaScript-движок Duktape вместо ранее применяемого движка Mozilla Gecko (по умолчанию как и раньше осуществляется сборка с движком Mozilla). Язык JavaScript в Polkit используется для определения правил доступа, которые взаимодействуют с привилегированным фоновым процессом polkitd при помощи объекта &amp;ldquo;polkit&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=56578</description>
+    </item>
+    
+  </channel>
+</rss>

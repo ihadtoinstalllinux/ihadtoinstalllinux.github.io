@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mir on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mir/</link>
+    <description>Recent content in Mir on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дисплейного сервера Mir 2.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-10-20221027-153503/</link>
+      <pubDate>Thu, 27 Oct 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-10-20221027-153503/</guid>
+      <description>Представлен релиз дисплейного сервера Mir 2.10, разработка которого продолжается компанией Canonical, несмотря на отказ от развития оболочки Unity и редакции Ubuntu для смартфонов. Mir остаётся востребован в проектах Canonical и теперь позиционируется как решение для встраиваемых устройств и интернета вещей (IoT). Mir может использоваться в качестве композитного сервера для Wayland, что позволяет запускать в окружениях на базе Mir любые приложения, использующие Wayland (например, собранные с GTK3/4, Qt5/6 или SDL2). Пакеты для установки подготовлены для Ubuntu 20.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дисплейного сервера Mir 2.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-8-20220525-013503/</link>
+      <pubDate>Wed, 25 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-8-20220525-013503/</guid>
+      <description>Представлен релиз дисплейного сервера Mir 2.8, разработка которого продолжается компанией Canonical, несмотря на отказ от развития оболочки Unity и редакции Ubuntu для смартфонов. Mir остаётся востребован в проектах Canonical и теперь позиционируется как решение для встраиваемых устройств и интернета вещей (IoT). Mir может использоваться в качестве композитного сервера для Wayland, что позволяет запускать в окружениях на базе Mir любые приложения, использующие Wayland (например, собранные с GTK3/4, Qt5 или SDL2). Пакеты для установки подготовлены для Ubuntu 20.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дисплейного сервера Mir 2.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-7-20220225-123502/</link>
+      <pubDate>Fri, 25 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-7-20220225-123502/</guid>
+      <description>Представлен релиз дисплейного сервера Mir 2.7, разработка которого продолжается компанией Canonical, несмотря на отказ от развития оболочки Unity и редакции Ubuntu для смартфонов. Mir остаётся востребован в проектах Canonical и теперь позиционируется как решение для встраиваемых устройств и интернета вещей (IoT). Mir может использоваться в качестве композитного сервера для Wayland, что позволяет запускать в окружениях на базе Mir любые приложения, использующие Wayland (например, собранные с GTK3/4, Qt5 или SDL2). Пакеты для установки подготовлены для Ubuntu 20.</description>
+    </item>
+    
+  </channel>
+</rss>

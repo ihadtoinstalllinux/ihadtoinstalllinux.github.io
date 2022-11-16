@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neovim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/neovim/</link>
+    <description>Recent content in Neovim on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 03:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Neovim 0.7.0, модернизированного варианта редактора Vim</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-neovim-0-7-0-modernizirovannogo-varianta-redaktora-vim-20220416-033502/</link>
+      <pubDate>Sat, 16 Apr 2022 03:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-neovim-0-7-0-modernizirovannogo-varianta-redaktora-vim-20220416-033502/</guid>
+      <description>Опубликован релиз Neovim 0.7.0, ответвления от редактора Vim, сфокусированного на повышении расширяемости и гибкости. В рамках проекта уже более семи лет проводится переработка кодовой базы Vim, в результате которой вносятся изменения, упрощающие сопровождение кода, предоставляющие средства разделения труда между несколькими мэйнтейнерами, отделяющие интерфейс от базовой части (интерфейс можно менять не трогая внутренности) и реализующие новую расширяемую архитектуру на основе плагинов. Оригинальные наработки проекта распространяются под лицензией Apache 2.0, а базовая часть под лицензией Vim.</description>
+    </item>
+    
+  </channel>
+</rss>

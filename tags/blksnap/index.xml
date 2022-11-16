@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blksnap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/blksnap/</link>
+    <description>Recent content in blksnap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Nov 2022 20:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/blksnap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Предложен механизм blksnap для создания снапшотов блочных устройств в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predlozhen-mehanizm-blksnap-dlya-sozdaniya-snapshotov-blochnyh-ustroystv-v-linux-20221107-203502/</link>
+      <pubDate>Mon, 07 Nov 2022 20:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predlozhen-mehanizm-blksnap-dlya-sozdaniya-snapshotov-blochnyh-ustroystv-v-linux-20221107-203502/</guid>
+      <description>Компания Veeam, выпускающая ПО для резервного копирования и восстановления после аварий, предложила для включения в состав ядра Linux модуль blksnap с реализацией механизма создания снапшотов блочных устройств и отслеживания изменений в блочных устройствах. Для работы со снапшотами подготовлена утилита командной строки blksnap и библиотека blksnap.so, позволяющие из пространства пользователя взаимодействовать с модулем ядра через ioctl-вызовы.
+https://www.opennet.ru/opennews/art.shtml?num=58062</description>
+    </item>
+    
+  </channel>
+</rss>

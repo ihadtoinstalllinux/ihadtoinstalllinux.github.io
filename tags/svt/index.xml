@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SVT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/svt/</link>
+    <description>Recent content in SVT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/svt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Intel опубликовала кодировщик видео SVT-AV1 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-kodirovschik-video-svt-av1-1-0-20220422-183503/</link>
+      <pubDate>Fri, 22 Apr 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-kodirovschik-video-svt-av1-1-0-20220422-183503/</guid>
+      <description>Компания Intel опубликовала выпуск библиотеки SVT-AV1 1.0 (Scalable Video Technology AV1), предоставляющей альтернативные кодировщик и декодировщик для формата кодирования видео AV1, в которых задействованы присутствующие в современных CPU Intel средства аппаратного распараллеливания вычислений. Основной задачей SVT-AV1 является достижение уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). Код развивается в рамках проекта OpenVisualCloud, который также разрабатывает кодировщики SVT-HEVC и SVT-VP9, и распространяется под лицензией BSD.</description>
+    </item>
+    
+  </channel>
+</rss>

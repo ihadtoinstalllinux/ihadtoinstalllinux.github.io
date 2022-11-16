@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pi/</link>
+    <description>Recent content in Pi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новый выпуск дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220908-013503/</link>
+      <pubDate>Thu, 08 Sep 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220908-013503/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали весеннее обновление дистрибутива Raspberry Pi OS 2022-09-06 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (338 МБ) для серверных систем, с базовым рабочим столом (891 МБ) и полная с дополнительным набором приложений (2.7 ГБ). Дистрибутив поставляется с пользовательским окружением PIXEL (ответвление от LXDE). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=57744</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Ubuntu MATE сформировал сборки для плат Raspberry Pi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-ubuntu-mate-sformiroval-sborki-dlya-plat-raspberry-pi-20220707-193503/</link>
+      <pubDate>Thu, 07 Jul 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-ubuntu-mate-sformiroval-sborki-dlya-plat-raspberry-pi-20220707-193503/</guid>
+      <description>Разработчики дистрибутива Ubuntu MATE, построенного на пакетной базе Ubuntu и предлагающего десктоп-окружение на основе проекта MATE, объявили о формировании сборок для плат Raspberry Pi. Сборки основаны на выпуске Ubuntu MATE 22.04 и подготовлены как для 32-разрядных, так и для 64-разрядных плат Raspberry Pi.
+https://www.opennet.ru/opennews/art.shtml?num=57468</description>
+    </item>
+    
+    <item>
+      <title>Проект Raspberry Pi представил плату Pico W с поддержкой Wi-Fi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-raspberry-pi-predstavil-platu-pico-w-s-podderzhkoy-wi-fi-20220701-183503/</link>
+      <pubDate>Fri, 01 Jul 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-raspberry-pi-predstavil-platu-pico-w-s-podderzhkoy-wi-fi-20220701-183503/</guid>
+      <description>Проект Raspberry Pi представил новую плату Raspberry Pi Pico W, продолжающую развитие миниатюрной платы Pico, оснащённой микроконтроллером RP2040 собственной разработки. Новая редакция отличается интеграцией поддержки Wi-Fi (2.4GHz 802.11n), реализованной на базе чипа Infineon CYW43439. Чип CYW43439 также поддерживает Bluetooth Classic и Bluetooth Low-Energy, но они пока не задействованы в плате. Стоимость новой платы - 6 долларов, что на два доллара дороже первого варианта. Из областей применения, помимо совместного использования с компьютерами Raspberry Pi, разработки встраиваемых систем и систем управления различными устройствами, вариант с Wi-Fi позиционируется как платформа для создания устройств интернета-вещей, взаимодействующих по сети.</description>
+    </item>
+    
+    <item>
+      <title>Прогресс в разработке открытых прошивок для Raspberry Pi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-otkrytyh-proshivok-dlya-raspberry-pi-20220413-143502/</link>
+      <pubDate>Wed, 13 Apr 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-otkrytyh-proshivok-dlya-raspberry-pi-20220413-143502/</guid>
+      <description>Доступен для тестирования загрузочный образ для плат Raspberry Pi, основанный на Debian GNU/Linux и поставляемый с набором открытых прошивок от проекта LibreRPi. Образ сформирован с использованием штатных репозиториев Debian 11 для архитектуры armhf и отличается поставкой пакета librepi-firmware, подготовленного на базе прошивки rpi-open-firmware.
+https://www.opennet.ru/opennews/art.shtml?num=57015</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220409-193502/</link>
+      <pubDate>Sat, 09 Apr 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-raspberry-pi-os-20220409-193502/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали весеннее обновление дистрибутива Raspberry Pi OS 2022-04-04 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (297 МБ) для серверных систем, с базовым рабочим столом (837 МБ) и полная с дополнительным набором приложений (2.2 ГБ). Дистрибутив поставляется с пользовательским окружением PIXEL (ответвление от LXDE). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=56992</description>
+    </item>
+    
+    <item>
+      <title>Началась публикация 64-разрядных сборок дистрибутива Raspberry Pi OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</link>
+      <pubDate>Thu, 03 Feb 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalas-publikaciya-64-razryadnyh-sborok-distributiva-raspberry-pi-os-20220203-183503/</guid>
+      <description>Разработчики проекта Raspberry Pi сообщили о начале формирования 64-разрядных сборок дистрибутива Raspberry Pi OS (Raspbian), основанного на пакетной базе Debian 11 и оптимизированного для плат Raspberry Pi. До сих пор дистрибутив предоставлял только унифицированные для всех плат 32-разрядные сборки. Отныне для плат с процессорами на базе архитектуры ARMv8-A, таких как Raspberry Pi Zero 2 (SoC BCM2710 с CPU Cortex-A53), Raspberry Pi 3 (SoC BCM2710 с CPU Cortex-A53) и Raspberry Pi 4	(SoC BCM2711 с CPU Cortex-A72), начали формироваться отдельные 64-разрядные сборки.</description>
+    </item>
+    
+  </channel>
+</rss>

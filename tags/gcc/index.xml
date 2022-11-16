@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GCC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gcc/</link>
+    <description>Recent content in GCC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jul 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GCC утверждено включение поддержки языка Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gcc-utverzhdeno-vklyuchenie-podderzhki-yazyka-rust-20220711-233502/</link>
+      <pubDate>Mon, 11 Jul 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gcc-utverzhdeno-vklyuchenie-podderzhki-yazyka-rust-20220711-233502/</guid>
+      <description>Комитет, управляющий разработкой набора компиляторов GCC (GCC Steering Committee), одобрил включение в основной состав GCC реализации компилятора языка Rust, подготовленной проектом gccrs (GCC Rust). После интеграции фронтэнда штатный инструментарий GCC сможет использоваться для компиляции программ на языке Rust без необходимости установки компилятора rustc, построенного с использованием наработок LLVM.
+https://www.opennet.ru/opennews/art.shtml?num=57491</description>
+    </item>
+    
+    <item>
+      <title>Прогресс в разработке компилятора для языка Rust на базе GCC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-kompilyatora-dlya-yazyka-rust-na-baze-gcc-20220630-113503/</link>
+      <pubDate>Thu, 30 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-kompilyatora-dlya-yazyka-rust-na-baze-gcc-20220630-113503/</guid>
+      <description>В списке рассылки разработчиков набора компиляторов GCC опубликован отчёт о состоянии проекта Rust-GCC, развивающего GCC-фронтэнд gccrs с реализацией компилятора языка Rust на базе GCC. До ноября этого года планируется довести gccrs до возможности сборки кода, поддерживаемого компилятром Rust 1.40, и добиться успешной компиляции и использования штатных Rust-библиотек libcore, liballoc и libstd. В следующие после этого 6 месяцев планируется реализовать проверку заимствования переменных (borrow checker) и поддержку пакета proc_macro.
+https://www.opennet.ru/opennews/art.shtml?num=57428</description>
+    </item>
+    
+    <item>
+      <title>Релиз набора компиляторов GCC 12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nabora-kompilyatorov-gcc-12-20220506-173502/</link>
+      <pubDate>Fri, 06 May 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nabora-kompilyatorov-gcc-12-20220506-173502/</guid>
+      <description>После года разработки опубликован релиз свободного набора компиляторов GCC 12.1, первый значительный выпуск в новой ветке GCC 12.x. В соответствии с новой схемой нумерации выпусков, версия 12.0 использовалась в процессе разработки, а незадолго до выхода GCC 12.1 уже ответвилась ветка GCC 13.0, на базе которой будет сформирован следующий значительный релиз GCC 13.1. 23 мая проект будет отмечать 35 лет с момента формирования первого выпуска GCC.
+https://www.opennet.ru/opennews/art.shtml?num=57145</description>
+    </item>
+    
+    <item>
+      <title>Представлен gcobol, компилятор для языка COBOL на основе технологий GCC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-gcobol-kompilyator-dlya-yazyka-cobol-na-osnove-tehnologiy-gcc-20220317-143504/</link>
+      <pubDate>Thu, 17 Mar 2022 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-gcobol-kompilyator-dlya-yazyka-cobol-na-osnove-tehnologiy-gcc-20220317-143504/</guid>
+      <description>В списке рассылки разработчиков набора компиляторов GCC представлен проект gcobol, нацеленный на создание свободного компилятора для языка программирования COBOL. В текущем виде gcobol развивается как форк GCC, но после завершения разработки и стабилизации проекта, изменения планируют предложить для включения в основной состав GCC. Код проекта распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=56867</description>
+    </item>
+    
+  </channel>
+</rss>

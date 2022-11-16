@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blender on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/blender/</link>
+    <description>Recent content in Blender on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ежедневные сборки Blender включена поддержка Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ezhednevnye-sborki-blender-vklyuchena-podderzhka-wayland-20221012-013503/</link>
+      <pubDate>Wed, 12 Oct 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ezhednevnye-sborki-blender-vklyuchena-podderzhka-wayland-20221012-013503/</guid>
+      <description>Разработчики свободного пакета 3D-моделирования Blender сообщили о включении поддержки протокола Wayland в ежедневно обновляемые тестовые сборки. В стабильных выпусках родную поддержку Wayland планируется предложить в версии Blender 3.4. Решение о поддержке Wayland объясняется желанием избавиться от ограничений при использовании XWayland и повысить качество работы в дистрибутивах Linux, применяющих Wayland по умолчанию.
+https://www.opennet.ru/opennews/art.shtml?num=57903</description>
+    </item>
+    
+    <item>
+      <title>Выпуск свободной системы 3D-моделирования Blender 3.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sistemy-3d-modelirovaniya-blender-3-3-20220910-133503/</link>
+      <pubDate>Sat, 10 Sep 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sistemy-3d-modelirovaniya-blender-3-3-20220910-133503/</guid>
+      <description>Организация Blender Foundation опубликовала выпуск свободного пакета 3D-моделирования Blender 3.3, подходящего для решения различных задач, связанных с 3D-моделированием, 3D-графикой, разработкой компьютерных игр, симуляцией, рендерингом, композитингом, трекингом движений, скульптурным моделированием, созданием анимации и монтажом видео. Код распространяется под лицензией GPL. Готовые сборки сформированы для Linux, Windows и macOS. Выпуск получил статус релиза с расширенным сроком поддержки (LTS) и будет поддерживаться ещё два года параллельно с выходом последующих релизов.
+https://www.opennet.ru/opennews/art.shtml?num=57760</description>
+    </item>
+    
+    <item>
+      <title>Выпуск свободной системы 3D-моделирования Blender 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sistemy-3d-modelirovaniya-blender-3-1-20220313-013503/</link>
+      <pubDate>Sun, 13 Mar 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnoy-sistemy-3d-modelirovaniya-blender-3-1-20220313-013503/</guid>
+      <description>Организация Blender Foundation опубликовала выпуск свободного пакета 3D-моделирования Blender 3.1, подходящего для решения различных задач, связанных с 3D-моделированием, 3D-графикой, разработкой компьютерных игр, симуляцией, рендерингом, композитингом, трекингом движений, скульптурным моделированием, созданием анимации и монтажом видео. Код распространяется под лицензией GPL. Готовые сборки сформированы для Linux, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=56840</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pitivi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pitivi/</link>
+    <description>Recent content in Pitivi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pitivi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск видеоредактора Pitivi 2022.06</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-pitivi-2022-06-20220625-123502/</link>
+      <pubDate>Sat, 25 Jun 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-videoredaktora-pitivi-2022-06-20220625-123502/</guid>
+      <description>После года разработки доступен релиз свободной системы нелинейного видеомонтажа Pitivi 2022.06, предоставляющей такие возможности, как поддержку неограниченного числа слоёв, сохранение полной истории операций с возможностью отката, отображение эскизов на шкале времени, поддержку типовых операций обработки видео и звука. Редактор написан на языке Python с использованием библиотеки GTK+ (PyGTK), GES (GStreamer Editing Services) и может работать со всеми форматами звука и видео, поддерживаемыми в GStreamer, включая формат MXF (Material eXchange Format). Код распространяется под лицензией LGPL.</description>
+    </item>
+    
+  </channel>
+</rss>

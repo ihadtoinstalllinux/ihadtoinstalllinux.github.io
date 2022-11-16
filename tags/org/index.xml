@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Org on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/org/</link>
+    <description>Recent content in Org on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление X.Org Server 21.1.4 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</link>
+      <pubDate>Wed, 13 Jul 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/</guid>
+      <description>Доступен корректирующий выпуск X.Org Server 21.1.4, в котором устранены две уязвимости в обработчиках расширения Xkb, позволяющие поднять свои привилегии в системе, если X-сервер выполняется с правами root, или выполнить код на удалённой системе, если для доступа используется перенаправление сеанса X11 при помощи SSH. Уязвимости вызваны отсутствием корректной проверки размера в обработчиках запросов ProcXkbSetGeometry (CVE-2022-2319) и ProcXkbSetDeviceInfo (CVE-2022-2320), которые можно эксплуатировать для записи в область памяти за границей выделенного буфера.
+https://www.opennet.ru/opennews/art.shtml?num=57495</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в RubyGems.org, позволяющая подменить чужие пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-rubygems-org-pozvolyayuschaya-podmenit-chuzhie-pakety-20220509-123502/</link>
+      <pubDate>Mon, 09 May 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-rubygems-org-pozvolyayuschaya-podmenit-chuzhie-pakety-20220509-123502/</guid>
+      <description>В репозитории пакетов RubyGems.org выявлена критическая уязвимость (CVE-2022-29176), позволяющая без наличия должных полномочий подменить некоторые чужие пакеты в репозитории путём инициирования изъятия (yank) легитимного пакета и загрузки вместо него другого файла с тем же именем и номером версии.
+https://www.opennet.ru/opennews/art.shtml?num=57155</description>
+    </item>
+    
+    <item>
+      <title>Red Hat попытался отобрать домен WeMakeFedora.org под видом нарушения торговой марки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-popytalsya-otobrat-domen-wemakefedora-org-pod-vidom-narusheniya-torgovoy-marki-20220316-013502/</link>
+      <pubDate>Wed, 16 Mar 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-popytalsya-otobrat-domen-wemakefedora-org-pod-vidom-narusheniya-torgovoy-marki-20220316-013502/</guid>
+      <description>Компания Red Hat развязала судебное разбирательство против Дэниэла Покока (Daniel Pocock), связанное с нарушением торговой марки Fedora в доменном имени WeMakeFedora.org, на котором публиковалась критика в отношении участников проекта Fedora и Red Hat. Представители Red Hat требовали передать компании права на домен, так как он нарушает зарегистрированную торговую марку, но суд встал на сторону ответчика и вынес решение о сохранении прав на домен за текущим владельцем.
+https://www.opennet.ru/opennews/art.shtml?num=56860</description>
+    </item>
+    
+  </channel>
+</rss>

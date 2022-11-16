@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EnCodec on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/encodec/</link>
+    <description>Recent content in EnCodec on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/encodec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook опубликовал звуковой кодек EnCodec, использующий машинное обучение</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-zvukovoy-kodek-encodec-ispolzuyuschiy-mashinnoe-obuchenie-20221102-193502/</link>
+      <pubDate>Wed, 02 Nov 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-zvukovoy-kodek-encodec-ispolzuyuschiy-mashinnoe-obuchenie-20221102-193502/</guid>
+      <description>Компания Meta/Facebook (запрещена в РФ) представила новый звуковой кодек EnCodec, использующий методы машинного обучения для повышения степени сжатия без потери качества. Кодек может применять как для потоковой передачи звука в режиме реального времени, так и для кодирования для последующего сохранения в файлах. Эталонная реализация EnCodec написана на языке Python с использованием фреймворка PyTorch и распространяется под лицензией CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial), допускающей использование только в некоммерческих целях.
+https://www.opennet.ru/opennews/art.shtml?num=58029</description>
+    </item>
+    
+  </channel>
+</rss>

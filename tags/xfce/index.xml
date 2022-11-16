@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xfce on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xfce/</link>
+    <description>Recent content in Xfce on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Конкурс обоев рабочего стола для Xfce 4.18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/konkurs-oboev-rabochego-stola-dlya-xfce-4-18-20221026-123502/</link>
+      <pubDate>Wed, 26 Oct 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/konkurs-oboev-rabochego-stola-dlya-xfce-4-18-20221026-123502/</guid>
+      <description>Разработчики пользовательского окружения Xfce объявили конкурс на создание новых обоев для рабочего стола, которые войдут в состав релиза Xfce 4.18, запланированного на 15 декабря 2022 года. Работы следует присылать в форматах векторной графики и распространять под лицензией CC BY-SA 4.0. Обязательным условием является наличие в работе неизменённого изображения мыши Xfce. Работы принимаются до 20 ноября, после чего на основе голосования участников сообщества будет выбран победитель.
+https://www.opennet.ru/opennews/art.shtml?num=57983</description>
+    </item>
+    
+    <item>
+      <title>Используемый в Xfce оконный менеджер xfwm4 портирован для работы с Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzuemyy-v-xfce-okonnyy-menedzher-xfwm4-portirovan-dlya-raboty-s-wayland-20220717-223502/</link>
+      <pubDate>Sun, 17 Jul 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzuemyy-v-xfce-okonnyy-menedzher-xfwm4-portirovan-dlya-raboty-s-wayland-20220717-223502/</guid>
+      <description>В рамах проекта xfwm4-wayland независимым энтузиастом развивается вариант оконного менеджера xfwm4, адаптированный для использования протокола Wayland и переведённый на систему сборки Meson. Поддержка Wayland в xfwm4-wayland обеспечена через интеграцию с библиотекой wlroots, развиваемой разработчиками пользовательского окружения Sway и предоставляющей базовые функции для организации работы композитного менеджера на базе Wayland. Xfwm4 применяется в пользовательском окружении Xfce для отображения, декорирования и трансформации окон.
+https://www.opennet.ru/opennews/art.shtml?num=57511</description>
+    </item>
+    
+  </channel>
+</rss>

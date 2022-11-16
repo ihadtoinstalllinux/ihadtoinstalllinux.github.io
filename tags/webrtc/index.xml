@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WebRTC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/webrtc/</link>
+    <description>Recent content in WebRTC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 May 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск проекта Weron, развивающего VPN на базе протокола WebRTC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-proekta-weron-razvivayuschego-vpn-na-baze-protokola-webrtc-20220509-013503/</link>
+      <pubDate>Mon, 09 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-proekta-weron-razvivayuschego-vpn-na-baze-protokola-webrtc-20220509-013503/</guid>
+      <description>Опубликован первый выпуск Weron VPN, позволяющего создавать оврлейные сети, объединяющие территориально разнесённые хосты в одну виртуальную сеть, узлы которой взаимодействует друг с другом напрямую (P2P). Поддерживается создание виртуальных IP-сетей (layer 3) и Ethernet-сетей (layer 2). Код проекта написан на языке Go и распространяется под лицензией AGPLv3. Готовые сборки подготовлены для Linux, FreeBSD, OpenBSD, NetBSD, Solaris, macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=57154</description>
+    </item>
+    
+  </channel>
+</rss>

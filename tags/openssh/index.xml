@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSSH on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openssh/</link>
+    <description>Recent content in OpenSSH on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Oct 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз OpenSSH 9.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-1-20221005-103502/</link>
+      <pubDate>Wed, 05 Oct 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-1-20221005-103502/</guid>
+      <description>После шести месяцев разработки опубликован релиз OpenSSH 9.1, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. Выпуск характеризуется как в основном содержащий исправление ошибок, в том числе устранено нескольких потенциальных уязвимостей, вызванных проблемами при работе с памятью.
+https://www.opennet.ru/opennews/art.shtml?num=57871</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.0 с переводом scp на протокол SFTP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-0-s-perevodom-scp-na-protokol-sftp-20220408-153503/</link>
+      <pubDate>Fri, 08 Apr 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-0-s-perevodom-scp-na-protokol-sftp-20220408-153503/</guid>
+      <description>Представлен релиз OpenSSH 9.0, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии утилита scp переведена по умолчанию на использование SFTP вместо устаревшего протокола SCP/RCP.
+https://www.opennet.ru/opennews/art.shtml?num=56991</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 8.9 с устранением уязвимости в sshd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-8-9-s-ustraneniem-uyazvimosti-v-sshd-20220224-183503/</link>
+      <pubDate>Thu, 24 Feb 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-8-9-s-ustraneniem-uyazvimosti-v-sshd-20220224-183503/</guid>
+      <description>После шести месяцев разработки представлен релиз OpenSSH 8.9, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии в sshd устранена уязвимость, потенциально позволяющая получить доступ без аутентификации. Проблема вызвана целочисленным переполнением в коде аутентификации, но эксплуатация возможна только в сочетании с другими логическими ошибками в коде.
+https://www.opennet.ru/opennews/art.shtml?num=56751</description>
+    </item>
+    
+  </channel>
+</rss>

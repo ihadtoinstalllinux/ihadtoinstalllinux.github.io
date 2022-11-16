@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PowerDNS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/powerdns/</link>
+    <description>Recent content in PowerDNS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/powerdns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск PowerDNS Authoritative Server 4.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-7-20221022-153503/</link>
+      <pubDate>Sat, 22 Oct 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-7-20221022-153503/</guid>
+      <description>Опубликован релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 4.7, предназначенного для организации отдачи DNS-зон. По данным разработчиков проекта, PowerDNS Authoritative Server обслуживает примерно 30% из общего числа доменов в Европе (если рассматривать только домены с подписями DNSSEC, то 90%). Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57958</description>
+    </item>
+    
+    <item>
+      <title>Выпуск кэшируюшего DNS-сервера PowerDNS Recursor 4.7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-keshiruyushego-dns-servera-powerdns-recursor-4-7-0-20220530-213503/</link>
+      <pubDate>Mon, 30 May 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-keshiruyushego-dns-servera-powerdns-recursor-4-7-0-20220530-213503/</guid>
+      <description>Доступен релиз кэшируюшего DNS-сервера PowerDNS Recursor 4.7, отвечающего за рекурсивное преобразование имён. PowerDNS Recursor построен на одной кодовой базе с PowerDNS Authoritative Server, но рекурсивный и авторитетный DNS-серверы PowerDNS развиваются в рамках разных циклов разработки и выпускаются в форме отдельных продуктов. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=57275</description>
+    </item>
+    
+    <item>
+      <title>Выпуск PowerDNS Authoritative Server 4.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-6-20220128-203503/</link>
+      <pubDate>Fri, 28 Jan 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-powerdns-authoritative-server-4-6-20220128-203503/</guid>
+      <description>Увидел свет релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 4.6, предназначенного для организации отдачи DNS-зон. По данным разработчиков проекта, PowerDNS Authoritative Server обслуживает примерно 30% из общего числа доменов в Европе (если рассматривать только домены с подписями DNSSEC, то 90%). Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=56601</description>
+    </item>
+    
+  </channel>
+</rss>

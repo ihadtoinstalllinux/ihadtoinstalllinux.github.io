@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>reshape on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/reshape/</link>
+    <description>Recent content in reshape on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Feb 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/reshape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление PostgreSQL. Выпуск reshape, утилиты для миграции на новую схему без остановки работы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-vypusk-reshape-utility-dlya-migracii-na-novuyu-shemu-bez-ostanovki-r-20220211-133502/</link>
+      <pubDate>Fri, 11 Feb 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-postgresql-vypusk-reshape-utility-dlya-migracii-na-novuyu-shemu-bez-ostanovki-r-20220211-133502/</guid>
+      <description>Сформированы корректирующие обновления для всех поддерживаемых веток PostgreSQL: 14.2, 13.6, 12.10, 11.15 и 10.20, в которых исправлено 55 ошибок, выявленных за последние три месяца. В том числе устранены проблемы, приводившие при редком стечении обстоятельств к повреждению индексов при изменении цепочек HOT (heap-only tuple) во время выполнения операции VACUUM или при выполнении операции REINDEX CONCURRENTLY для индексов к таблицам, в которых используется механизм хранения TOAST.
+https://www.opennet.ru/opennews/art.shtml?num=56677</description>
+    </item>
+    
+  </channel>
+</rss>

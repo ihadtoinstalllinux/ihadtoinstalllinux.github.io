@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>antiX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/antix/</link>
+    <description>Recent content in antiX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/antix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск легковесного дистрибутива antiX 22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-legkovesnogo-distributiva-antix-22-20221019-223502/</link>
+      <pubDate>Wed, 19 Oct 2022 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-legkovesnogo-distributiva-antix-22-20221019-223502/</guid>
+      <description>Состоялся релиз легковесного Live-дистрибутива AntiX 22, построенного на пакетной базе Debian и ориентированного для установки на устаревшее оборудование. Выпуск основан на пакетной базе Debian 11, но поставляется без системного менеджера systemd и с eudev вместо udev. Для инициализации на выбор могут использоваться runit или sysvinit. Пользовательское окружение по умолчанию сформировано при помощи оконного менеджера IceWM, но дополнительно в поставку включены fluxbox, jwm и herbstluftwm. Размер iso-образов: 1.5 ГБ (полный, включает LibreOffice), 820 МБ (базовый), 470 МБ (без графики) и 191 МБ (установка по сети).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SMP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smp/</link>
+    <description>Recent content in SMP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для ReactOS реализована начальная поддержка SMP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-reactos-realizovana-nachalnaya-podderzhka-smp-20220315-133502/</link>
+      <pubDate>Tue, 15 Mar 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-reactos-realizovana-nachalnaya-podderzhka-smp-20220315-133502/</guid>
+      <description>Разработчики операционной системы ReactOS, нацеленной на обеспечение совместимости с программами и драйверами Microsoft Windows, о готовности начального набора патчей для загрузки проекта на многопроцессорных системах со включённым режимом SMP. Изменения для поддержки SMP пока не включены в основную кодовую базу ReactOS и требуют доработки, но сам факт возможности загрузки в с включённым режимом SMP отмечается как важное достижение в развитии проекта.
+https://www.opennet.ru/opennews/art.shtml?num=56856</description>
+    </item>
+    
+  </channel>
+</rss>

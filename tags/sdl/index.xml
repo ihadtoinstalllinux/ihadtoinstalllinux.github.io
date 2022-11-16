@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SDL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sdl/</link>
+    <description>Recent content in SDL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sdl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск мультимедийной библиотеки SDL 2.0.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynoy-biblioteki-sdl-2-0-22-20220426-013502/</link>
+      <pubDate>Tue, 26 Apr 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynoy-biblioteki-sdl-2-0-22-20220426-013502/</guid>
+      <description>Состоялся релиз библиотеки SDL 2.0.22 (Simple DirectMedia Layer), нацеленной на упрощение написания игр и мультимедийных приложений. Библиотека SDL предоставляет такие средства как аппаратно-ускоренный вывод 2D- и 3D-графики, обработка ввода, воспроизведение звука, вывод 3D через OpenGL/OpenGL ES/Vulkan и множество иных сопутствующих операций. Библиотека написана на языке Си и распространяется под лицензией Zlib. Для использования возможностей SDL в проектах на различных языках программирования предоставляются биндинги.
+https://www.opennet.ru/opennews/art.shtml?num=57083</description>
+    </item>
+    
+    <item>
+      <title>Разработчики SDL отменили переход на Wayland по умолчанию в выпуске 2.0.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</link>
+      <pubDate>Mon, 18 Apr 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sdl-otmenili-perehod-na-wayland-po-umolchaniyu-v-vypuske-2-0-22-20220418-223503/</guid>
+      <description>В кодовой базе библиотеки SDL (Simple DirectMedia Layer) отменено ранее принятое изменение, по умолчанию активирующее работу на базе протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. Таким образом, в выпуске 2.0.22 как и раньше в Wayland-окружениях с компонентом XWayland по умолчанию будет применяться вывод с использованием протокола X11.
+https://www.opennet.ru/opennews/art.shtml?num=57038</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки SDL_sound 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-sdl-sound-2-0-20220328-133503/</link>
+      <pubDate>Mon, 28 Mar 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-sdl-sound-2-0-20220328-133503/</guid>
+      <description>Спустя 14 лет с момента прошлого выпуска сформирован релиз библиотеки SDL_sound 2.0.1 (выпуск 2.0.0 был пропущен), предоставляющей надстройку над библиотекой SDL c функциями для декодирования популярных звуковых форматов файлов, таких как MP3, WAV, OGG, FLAC, AIFF, VOC, MOD, MID и AU. Значительное изменение номера версии связано с переводом кода с копилефт лицензии LGPLv2 на пермиссивную лицензию zlib, совместимую с GPL. Кроме того, несмотря на сохранение обратной совместимости на уровне API, работа SDL_sound теперь возможна только на базе ветки SDL 2.</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск sdl12-compat, слоя совместимости с SDL 1.2, работающего через SDL 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-sdl12-compat-sloya-sovmestimosti-s-sdl-1-2-rabotayuschego-cherez-sdl-2-20220305-013503/</link>
+      <pubDate>Sat, 05 Mar 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-sdl12-compat-sloya-sovmestimosti-s-sdl-1-2-rabotayuschego-cherez-sdl-2-20220305-013503/</guid>
+      <description>Опубликован первый выпуск слоя совместимости sdl12-compat, предоставляющего API, совместимый с двоичным и исходным кодом SDL 1.2, но работающий поверх SDL 2. Проект может выступать в качестве полной замены SDL 1.2 и пригоден для организации выполнения устаревших программ, написанных для SDL 1.2, используя современные возможности актуальной ветки SDL 2. В том числе sdl12-compat позволяет запускать приложения с неродным разрешением экрана, не меняя при этом фактическое разрешение экрана в системе и используя для отрисовки OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Мультимедийная библиотека SDL переходит на использование Wayland по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/multimediynaya-biblioteka-sdl-perehodit-na-ispolzovanie-wayland-po-umolchaniyu-20220127-123502/</link>
+      <pubDate>Thu, 27 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/multimediynaya-biblioteka-sdl-perehodit-na-ispolzovanie-wayland-po-umolchaniyu-20220127-123502/</guid>
+      <description>В кодовую базу библиотеки SDL (Simple DirectMedia Layer) принято изменение по умолчанию активирующее работу на базе протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. Ранее в Wayland-окружениях с компонентом XWayland по умолчанию активировался вывод с использованием X11, а для применения Wayland нужно было запускать приложение со специальной настройкой. Изменение войдёт в состав выпуска SDL 2.0.22, намеченного на март. Отмечается, что для полноценной работы приложений на базе SDL в Wayland требуется наличие библиотеки libdecor для декорирования окон на стороне клиента.</description>
+    </item>
+    
+  </channel>
+</rss>

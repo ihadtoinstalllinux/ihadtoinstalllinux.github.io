@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Taler on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/taler/</link>
+    <description>Recent content in Taler on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/taler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск платёжной системы GNU Taler 0.9, развиваемой проектом GNU </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-9-razvivaemoy-proektom-gnu-20221105-133503/</link>
+      <pubDate>Sat, 05 Nov 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-9-razvivaemoy-proektom-gnu-20221105-133503/</guid>
+      <description>После года разработки проект GNU представил выпуск свободной системы электронных платежей GNU Taler 0.9, предоставляющей анонимность покупателям, но сохраняющей возможность идентификации продавцов для обеспечения прозрачности предоставления налоговой отчётности. Система не позволяет отследить информацию о том, куда пользователь тратит деньги, но предоставляет средства для отслеживания поступления средств (отправитель остаётся анонимным), что решает свойственные BitCoin проблемы с налоговым аудитом. Код написан на Python и распространяется под лицензиями AGPLv3 и LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=58050</description>
+    </item>
+    
+  </channel>
+</rss>

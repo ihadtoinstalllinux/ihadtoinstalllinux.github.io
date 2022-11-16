@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lyra on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lyra/</link>
+    <description>Recent content in Lyra on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lyra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление открытого аудиокодека Lyra 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-otkrytogo-audiokodeka-lyra-1-3-20221112-193503/</link>
+      <pubDate>Sat, 12 Nov 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-otkrytogo-audiokodeka-lyra-1-3-20221112-193503/</guid>
+      <description>Компания Google опубликовала выпуск аудиокодека Lyra 1.3, нацеленного достижение высокого качества передачи голоса в условиях ограниченного объёма передаваемой информации. Качество речи на битрейтах 3.2 kbps, 6 kbps и 9.2 kbps при использовании кодека Lyra примерно соответствует битрейтам 10 kbps, 13 kbps и 14 kbps при использовании кодека Opus. Для решения поставленной задачи помимо обычных методов сжатия звука и преобразования сигналов, в Lyra применяется речевая модель на базе системы машинного обучения, позволяющая воссоздать недостающую информацию на основе типовых характеристик речи.</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал открытый аудиокодек Lyra V2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otkrytyy-audiokodek-lyra-v2-20221001-113503/</link>
+      <pubDate>Sat, 01 Oct 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otkrytyy-audiokodek-lyra-v2-20221001-113503/</guid>
+      <description>Компания Google представила аудиокодек Lyra V2, использующий методы машинного обучения для достижения максимального качества передачи речи при использовании очень медленных каналов связи. Новая версия отличается переходом на новую архитектуру нейронной сети, поддержкой дополнительных платформ, расширенными возможностями управления битрейтом, повышением производительности и достижением более высокого качества звука. Эталонная реализация кода написана на C++ и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57852</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vulkan on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vulkan/</link>
+    <description>Recent content in Vulkan on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DXVK 2.0, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-0-realizacii-direct3d-9-10-11-poverh-api-vulkan-20221110-223503/</link>
+      <pubDate>Thu, 10 Nov 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-0-realizacii-direct3d-9-10-11-poverh-api-vulkan-20221110-223503/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.0, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=58087</description>
+    </item>
+    
+    <item>
+      <title>Представлен NVK, открытый Vulkan-драйвер для видеокарт NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-nvk-otkrytyy-vulkan-drayver-dlya-videokart-nvidia-20221005-013502/</link>
+      <pubDate>Wed, 05 Oct 2022 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-nvk-otkrytyy-vulkan-drayver-dlya-videokart-nvidia-20221005-013502/</guid>
+      <description>Компания Collabora представила NVK, новый открытый драйвер для Mesa с реализацией графического API Vulkan для видеокарт NVIDIA. Драйвер написан с нуля, используя официальные заголовочные файлы и открытые модули ядра, опубликованные компанией NVIDIA. Код драйвера открыт под лицензией MIT. Драйвером поддерживаются пока только GPU на базе микроархитектур Turing и Ampere, выпускаемые с сентября 2018 года.
+https://www.opennet.ru/opennews/art.shtml?num=57869</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 22.2, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-2-svobodnoy-realizacii-opengl-i-vulkan-20220922-003506/</link>
+      <pubDate>Thu, 22 Sep 2022 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-2-svobodnoy-realizacii-opengl-i-vulkan-20220922-003506/</guid>
+      <description>После четырёх месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 22.2.0. Первый выпуск ветки Mesa 22.2.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 22.2.1.
+https://www.opennet.ru/opennews/art.shtml?num=57811</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.3, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220802-233502/</link>
+      <pubDate>Tue, 02 Aug 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220802-233502/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.3, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=57588</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.2, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</link>
+      <pubDate>Wed, 13 Jul 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220713-203503/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.2, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=57500</description>
+    </item>
+    
+    <item>
+      <title>На базе Nouveau развивается новый драйвер для графического API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</link>
+      <pubDate>Mon, 06 Jun 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-baze-nouveau-razvivaetsya-novyy-drayver-dlya-graficheskogo-api-vulkan-20220606-133502/</guid>
+      <description>Разработчики из компаний Red Hat и Collabora приступили к созданию открытого Vulkan-драйвера nvk для графичкеских карт NVIDIA, который дополнит уже имеющиеся в Mesa драйверы anv (Intel), radv (AMD), tu (Qualcomm) и v3dv (Broadcom VideoCore VI). Разработка драйвера ведётся на базе проекта Nouveau с задействованнием некоторых подсистем, ранее применяемых в OpenGL-драйвере Nouveau. Параллельно в Nouveau началась работа по выносу в отдельную библиотеку универсальной функциональности, которая может использоваться в других драйверах, например, в библиотеку вынесены компоненты для генерации кода, которые могут применяться для совместного использования компилятора шейдеров в драйверах для OpenGL и Vulkan.</description>
+    </item>
+    
+    <item>
+      <title>Linux порт игрового движка Serious Sam Classic получил поддержку Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-port-igrovogo-dvizhka-serious-sam-classic-poluchil-podderzhku-vulkan-20220529-223503/</link>
+      <pubDate>Sun, 29 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-port-igrovogo-dvizhka-serious-sam-classic-poluchil-podderzhku-vulkan-20220529-223503/</guid>
+      <description>Опубликован игровой движок Serious Sam Classic 1.10 (зеркало), позволяющий запускать первую и вторую части шутера от первого лица Serious Sam на современных системах c поддержкой графического API Vulkan. Код оригинального движка Serious Engine был открыт компанией Croteam под лицензией GPL в 2016 году в честь пятнадцатилетия игры. При запуске можно использовать игровые ресурсы из оригинальной игры. За основу была взята реализация Vulkan для Windows-версии движка Serious Engine Vk и Serious Engine: Ray Traced.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 22.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-1-svobodnoy-realizacii-opengl-i-vulkan-20220519-133502/</link>
+      <pubDate>Thu, 19 May 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-1-svobodnoy-realizacii-opengl-i-vulkan-20220519-133502/</guid>
+      <description>После двух месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 22.1.0. Первый выпуск ветки Mesa 22.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 22.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=57214</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 1.10.1, реализации Direct3D 9/10/11 поверх API Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-1-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220328-113502/</link>
+      <pubDate>Mon, 28 Mar 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-1-10-1-realizacii-direct3d-9-10-11-poverh-api-vulkan-20220328-113502/</guid>
+      <description>Доступен выпуск прослойки DXVK 1.10.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.1, таких как Mesa RADV 21.2, NVIDIA 495.46, Intel ANV и AMDVLK.
+https://www.opennet.ru/opennews/art.shtml?num=56921</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 22.0, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-0-svobodnoy-realizacii-opengl-i-vulkan-20220310-133502/</link>
+      <pubDate>Thu, 10 Mar 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-0-svobodnoy-realizacii-opengl-i-vulkan-20220310-133502/</guid>
+      <description>После четырёх месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 22.0.0. Первый выпуск ветки Mesa 22.0.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 22.0.1. Новый выпуск примечателен реализацией графического API Vulkan 1.3 в драйвере anv для GPU Intel и radv для GPU AMD.
+https://www.opennet.ru/opennews/art.shtml?num=56833</description>
+    </item>
+    
+    <item>
+      <title> Выпуск проприетарного драйвера NVIDIA 510.39.01 с поддержкой Vulkan 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-510-39-01-s-podderzhkoy-vulkan-1-3-20220202-013503/</link>
+      <pubDate>Wed, 02 Feb 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-510-39-01-s-podderzhkoy-vulkan-1-3-20220202-013503/</guid>
+      <description>Компания NVIDIA представила первый стабильный выпуск новой ветки проприетарного драйвера NVIDIA 510.39.01. Одновременно предложено обновление прошло стабильной ветки NVIDIA 470.103.1. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=56622</description>
+    </item>
+    
+    <item>
+      <title>Опубликован графический стандарт Vulkan 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-3-20220125-213502/</link>
+      <pubDate>Tue, 25 Jan 2022 21:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-3-20220125-213502/</guid>
+      <description>После двух лет работы консорциум Khronos, занимающийся разработкой графических стандартов, опубликовал спецификацию Vulkan 1.3, определяющую API для доступа к графическим и вычислительным возможностям GPU. Новая спецификация вобрала в себя накопившиеся за два года исправления и расширения. Отмечается, что требования спецификации Vulkan 1.3 рассчитаны на графическое оборудование класса OpenGL ES 3.1, что позволит обеспечить поддержку нового графического API во всех GPU, поддерживающих Vulkan 1.2. Инструментарий Vulkan SDK планируют опубликовать в середине февраля.</description>
+    </item>
+    
+  </channel>
+</rss>

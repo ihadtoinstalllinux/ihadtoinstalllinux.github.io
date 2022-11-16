@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coreutils on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/coreutils/</link>
+    <description>Recent content in Coreutils on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreutils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск набора базовых системных утилит GNU Coreutils 9.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-bazovyh-sistemnyh-utilit-gnu-coreutils-9-1-20220416-173502/</link>
+      <pubDate>Sat, 16 Apr 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-bazovyh-sistemnyh-utilit-gnu-coreutils-9-1-20220416-173502/</guid>
+      <description>Доступна стабильная версия набора базовых системных утилит GNU Coreutils 9.1, в состав которого входят такие программы, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln, ls и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=57028</description>
+    </item>
+    
+    <item>
+      <title>Обновление варианта GNU Coreutils, переписанного на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-varianta-gnu-coreutils-perepisannogo-na-yazyke-rust-20220131-123502/</link>
+      <pubDate>Mon, 31 Jan 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-varianta-gnu-coreutils-perepisannogo-na-yazyke-rust-20220131-123502/</guid>
+      <description>Представлен выпуск инструментария uutils coreutils 0.0.12, в рамках которого развивается аналог пакета GNU Coreutils, переписанный на языке Rust. В состав coreutils входят такие утилиты, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls.
+https://www.opennet.ru/opennews/art.shtml?num=56609</description>
+    </item>
+    
+  </channel>
+</rss>

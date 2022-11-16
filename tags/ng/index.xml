@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ng on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ng/</link>
+    <description>Recent content in ng on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпущена новая стабильная версия Miranda NG 0.96.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypuschena-novaya-stabilnaya-versiya-miranda-ng-0-96-1-20220619-023503/</link>
+      <pubDate>Sun, 19 Jun 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypuschena-novaya-stabilnaya-versiya-miranda-ng-0-96-1-20220619-023503/</guid>
+      <description>Опубликован новый значительный выпуск мультипротокольного клиента для мгновенного обмена сообщениями Miranda NG 0.96.1, продолжающего развитие программы Miranda. Среди поддерживаемых протоколов: Facebook, ICQ, IRC, Jabber/XMPP, SkypeWeb, Steam, Tox, Twitter и VKontakte. Код проекта написан на языке C++ и распространяется под лицензией GPLv2. Программа пока поддерживает работу только на платформе Windows, но началась работа по реализации поддержки Linux. Из планов на будущее также отмечается добавление поддержки новых протоколов, включая WhatsApp и Telegram.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в uClibc и uClibc-ng, позволяющая подменить данные в кэше DNS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uclibc-i-uclibc-ng-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20220504-173503/</link>
+      <pubDate>Wed, 04 May 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uclibc-i-uclibc-ng-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20220504-173503/</guid>
+      <description>В стандартных Си-библиотеках uClibc и uClibc-ng, применяемых во многих встраиваемых и портативных устройствах, выявлена уязвимость (CVE не присвоен), позволяющая подставить фиктивные данные в кэш DNS, что можно использовать для подмены в кэше IP-адреса произвольного домена и перенаправления обращений к домену на сервер злоумышленника.
+https://www.opennet.ru/opennews/art.shtml?num=57131</description>
+    </item>
+    
+  </channel>
+</rss>

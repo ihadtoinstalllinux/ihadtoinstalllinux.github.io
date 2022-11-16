@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sql/</link>
+    <description>Recent content in SQL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Microsoft опубликовала тестовый выпуск SQL Server 2022 для Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-opublikovala-testovyy-vypusk-sql-server-2022-dlya-linux-20220909-113506/</link>
+      <pubDate>Fri, 09 Sep 2022 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-opublikovala-testovyy-vypusk-sql-server-2022-dlya-linux-20220909-113506/</guid>
+      <description>Компания Microsoft объявила о начале тестирования кандидата в релизы Linux-версии СУБД SQL Server 2022 (RC 0). Установочные пакеты подготовлены для RHEL и Ubuntu. Для загрузки также доступны готовые образы контейнеров с SQL Server 2022, основанные на дистрибутивах RHEL и Ubuntu. Для Windows тестовый выпуск SQL Server 2022 был сформирован 23 августа.
+https://www.opennet.ru/opennews/art.shtml?num=57755</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в web-фреймворке Django, которая может привести к подстановке SQL-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</link>
+      <pubDate>Mon, 04 Jul 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-freymvorke-django-kotoraya-mozhet-privesti-k-podstanovke-sql-koda-20220704-183502/</guid>
+      <description>Опубликованы корректирующие выпуски web-фреймворка Django 4.0.6 и 3.2.14, в которых устранена уязвимость (CVE-2022-34265), потенциально позволяющая выполнить подстановку своего SQL-кода. Проблема затрагивает приложения, использующие непроверенные внешние данные в параметрах kind и lookup_name, передаваемых в функции Trunc(kind) и Extract(lookup_name). Программы, которые допускают в значениях lookup_name и kind только проверенные данные уязвимость не затрагивает.
+https://www.opennet.ru/opennews/art.shtml?num=57452</description>
+    </item>
+    
+    <item>
+      <title>Яндекс открыл код распределённой СУБД YDB, поддерживающей SQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-kod-raspredelennoy-subd-ydb-podderzhivayuschey-sql-20220419-213503/</link>
+      <pubDate>Tue, 19 Apr 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-kod-raspredelennoy-subd-ydb-podderzhivayuschey-sql-20220419-213503/</guid>
+      <description>Компания Яндекс опубликовала исходные тексты распределённой СУБД YDB, реализующей поддержку диалекта SQL и ACID-транзакций. СУБД создана с нуля и изначально развивается с оглядкой на обеспечение отказоустойчивости, автоматического восстановления при сбоях и масштабируемости. Отмечается, что компанией Яндекс запущены рабочие кластеры YDB, включающие более 10 тысяч узлов, хранящие сотни петабайт данных и обслуживающие миллионы распределённых транзакций в секунду. YDB используется в таких проектах Яндекс, как Маркет, Облако, Умный Дом, Алиса, Метрика и Auto.</description>
+    </item>
+    
+  </channel>
+</rss>

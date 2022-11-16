@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redis/</link>
+    <description>Recent content in Redis on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2022 09:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в СУБЛ Redis, потенциально позволяющая выполнить свой код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-subl-redis-potencialno-pozvolyayuschaya-vypolnit-svoy-kod-20220926-093505/</link>
+      <pubDate>Mon, 26 Sep 2022 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-subl-redis-potencialno-pozvolyayuschaya-vypolnit-svoy-kod-20220926-093505/</guid>
+      <description>Опубликован корректирующий выпуск CУБД Redis 7.0.5, в котором устранена уязвимость (CVE-2022-35951), потенциально позволяющая злоумышленнику выполнить свой код с правами процесса Redis. Проблема затрагивает только ветку 7.x и требует для совершения атаки доступа к выполнению запросов.
+https://www.opennet.ru/opennews/art.shtml?num=57827</description>
+    </item>
+    
+    <item>
+      <title>Проект Dragonfly развивает более быструю замену Redis и Memcached </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-dragonfly-razvivaet-bolee-bystruyu-zamenu-redis-i-memcached-20220531-153502/</link>
+      <pubDate>Tue, 31 May 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-dragonfly-razvivaet-bolee-bystruyu-zamenu-redis-i-memcached-20220531-153502/</guid>
+      <description>Доступен первый выпуск системы кэширования данных в оперативной памяти Dragonfly, обеспечивающей поддержку протоколов Memcached и Redis, но позволяющей выполнять запросы с гораздо более высокой производительностью и с меньшим потреблением памяти. Система манипулирует данными в формате ключ/значение и может применяться как легковесное решение для ускорения работы высоконагруженных сайтов, кэширующие медленные запросы к СУБД и промежуточные данные в оперативной памяти. Код Dragonfly написан на языках C/С++ и распространяется под лицензией BSL (Business Source License).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск СУБД Redis 7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-0-20220428-123503/</link>
+      <pubDate>Thu, 28 Apr 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-0-20220428-123503/</guid>
+      <description>Опубликован релиз СУБД Redis 7.0, относящейся к классу NoSQL-систем. Redis предоставляет функции для хранения данных в формате ключ/значение, расширенные поддержкой структурированных форматов данных, таких как списки, хэши и множества, а также возможностью выполнения на стороне сервера скриптов-обработчиков на языке Lua. Код проекта поставляется под лицензией BSD. Дополнительные модули, в которых предлагаются расширенные возможности для корпоративных пользователей, такие как RediSearch, RedisGraph, RedisJSON, RedisML, RedisBloom, с прошлого года поставляются под проприетарной лицензией RSAL.</description>
+    </item>
+    
+  </channel>
+</rss>

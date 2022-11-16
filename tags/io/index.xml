@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>io on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/io/</link>
+    <description>Recent content in io on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2022 16:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в подсистеме io_uring ядра Linux, позволяющая повысить привилегии в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-povysit-privilegii-v-sisteme-20221019-163504/</link>
+      <pubDate>Wed, 19 Oct 2022 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-povysit-privilegii-v-sisteme-20221019-163504/</guid>
+      <description>В реализации интерфейса асинхронного ввода/вывода io_uring, входящего в ядро Linux начиная с выпуска 5.1, выявлена уязвимость (CVE-2022-2602), позволяющая непривилегированному пользователю получить права root в системе. Наличие проблемы подтверждено в ветке.
+https://www.opennet.ru/opennews/art.shtml?num=57941</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в подсистеме io_uring ядра Linux, позволяющая получить права root из контейнера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-poluchit-prava-root-iz-konte-20220807-133503/</link>
+      <pubDate>Sun, 07 Aug 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-poluchit-prava-root-iz-konte-20220807-133503/</guid>
+      <description>В реализации интерфейса асинхронного ввода/вывода io_uring, входящего в ядро Linux начиная с выпуска 5.1, выявлена.
+https://www.opennet.ru/opennews/art.shtml?num=57607</description>
+    </item>
+    
+    <item>
+      <title>Применение асинхронной буферизированной записи на базе io_uring до 80 раз снизило задержки в XFS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/primenenie-asinhronnoy-buferizirovannoy-zapisi-na-baze-io-uring-do-80-raz-snizilo-zaderzhk-20220627-013503/</link>
+      <pubDate>Mon, 27 Jun 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/primenenie-asinhronnoy-buferizirovannoy-zapisi-na-baze-io-uring-do-80-raz-snizilo-zaderzhk-20220627-013503/</guid>
+      <description>Опубликована серия патчей для включения в ядро Linux 5.20, добавляющая поддержку асинхронной буферизированной записи в файловую систему XFS при помощи механизма io_uring. Предварительные тесты производительности, проведённые при помощи инструментария fio (1 поток, размер блока 4кб, 600 секунд, последовательная запись), показывают увеличение числа операция ввода/вывода в секунду (IOPS) от 77k до 209k, скорости передачи данных от 314MB/s до 854MB/s и падения задержек от 9600ns до 120ns (80 раз).
+https://www.opennet.ru/opennews/art.shtml?num=57412</description>
+    </item>
+    
+    <item>
+      <title>В Rust-репозитории crates.io выявлен вредоносный пакет rustdecimal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rust-repozitorii-crates-io-vyyavlen-vredonosnyy-paket-rustdecimal-20220511-113502/</link>
+      <pubDate>Wed, 11 May 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rust-repozitorii-crates-io-vyyavlen-vredonosnyy-paket-rustdecimal-20220511-113502/</guid>
+      <description>Разработчики языка Rust предупредили о выявлении в репозитории crates.io пакета rustdecimal, содержащего вредоносный код. Пакет был основан на легитимном пакете rust_decimal и пользовался для распространения сходством в имени (тайпсквоттинг) с расчётом на то, что пользователь не обратит внимание на отсутствие символа подчёркивания, осуществляя поиск или выбирая модуль из списка.
+https://www.opennet.ru/opennews/art.shtml?num=57169</description>
+    </item>
+    
+  </channel>
+</rss>

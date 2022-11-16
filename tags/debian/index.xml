@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Debian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/debian/</link>
+    <description>Recent content in Debian on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики Debian утвердили поставку проприетарных прошивок в установочных носителях</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-utverdili-postavku-proprietarnyh-proshivok-v-ustanovochnyh-nositelyah-20221002-173502/</link>
+      <pubDate>Sun, 02 Oct 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-utverdili-postavku-proprietarnyh-proshivok-v-ustanovochnyh-nositelyah-20221002-173502/</guid>
+      <description>Опубликованы результаты общего голосования (GR, general resolution) разработчиков проекта Debian, участвующих в сопровождении пакетов и поддержании инфраструктуры, на котором был рассмотрен вопрос поставки проприетарных прошивок в составе официальных установочных образов и live-сборок. В голосовании победил пятый пункт &amp;ldquo;Изменить Общественный договор для поставки несвободных прошивок в инсталляторе с предоставлением единых установочных сборок&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=57859</description>
+    </item>
+    
+    <item>
+      <title>Началось альфа-тестирование инсталлятора Debian 12 Bookworm </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-installyatora-debian-12-bookworm-20220922-223503/</link>
+      <pubDate>Thu, 22 Sep 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-installyatora-debian-12-bookworm-20220922-223503/</guid>
+      <description>Началось тестирование первой альфа-версии инсталлятора следующего значительного релиза Debian - &amp;ldquo;Bookworm&amp;rdquo;. Релиз ожидается летом 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=57813</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 11.5 и 10.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-5-i-10-13-20220911-113506/</link>
+      <pubDate>Sun, 11 Sep 2022 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-5-i-10-13-20220911-113506/</guid>
+      <description>Опубликовано пятое корректирующее обновление дистрибутива Debian 11, в которое включены накопившиеся обновления пакетов и устранены недоработки в инсталляторе. Выпуск включает 58 обновлений с устранением проблем со стабильностью и 53 обновления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57762</description>
+    </item>
+    
+    <item>
+      <title>Debian будет поставлять Chromium с поисковой системой DuckDuckGo вместо Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-budet-postavlyat-chromium-s-poiskovoy-sistemoy-duckduckgo-vmesto-google-20220829-203503/</link>
+      <pubDate>Mon, 29 Aug 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-budet-postavlyat-chromium-s-poiskovoy-sistemoy-duckduckgo-vmesto-google-20220829-203503/</guid>
+      <description>В пакете с браузером Chromium, предлагаемом в дистрибутиве Debian, осуществлён переход на использование по умолчанию поисковой системы DuckDuckGo вместо Google. Предложение о замене поисковой системы на DuckDuckGo рассматривалось с апреля 2020 года. В качестве причины упоминается забота о конфиденциальности пользователей - сервис DuckDuckGo не использует персонализацию вывода и вырезает данные, которые могут использоваться для отслеживания предпочтений и перемещений пользователя. При необходимости вернуть Google или выбрать любую другую поисковую систему можно в настройках (&amp;ldquo;Settings &amp;amp;#8250.</description>
+    </item>
+    
+    <item>
+      <title>Проект Debian начал общее голосование по вопросу поставки проприетарных прошивок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-debian-nachal-obschee-golosovanie-po-voprosu-postavki-proprietarnyh-proshivok-20220828-003505/</link>
+      <pubDate>Sun, 28 Aug 2022 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-debian-nachal-obschee-golosovanie-po-voprosu-postavki-proprietarnyh-proshivok-20220828-003505/</guid>
+      <description>Проект Debian объявил о проведении общего голосования (GR, general resolution) разработчиков проекта по вопросу поставки проприетарных прошивок в составе официальных установочных образов и live-сборок. До 2 сентября.
+https://www.opennet.ru/opennews/art.shtml?num=57688</description>
+    </item>
+    
+    <item>
+      <title>Debian захватил домен debian.community, на котором публиковалась критика проекта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-zahvatil-domen-debian-community-na-kotorom-publikovalas-kritika-proekta-20220726-003502/</link>
+      <pubDate>Tue, 26 Jul 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-zahvatil-domen-debian-community-na-kotorom-publikovalas-kritika-proekta-20220726-003502/</guid>
+      <description>Проект Debian, некоммерческая организация SPI (Software in the Public Interest) и организация Debian.ch, представляющая интересы Debian в Швейцарии, выиграли разбирательство во Всемирной организации интеллектуальной собственности (WIPO), связанное с доменом debian.community, на котором вёлся блог с критикой проекта и его участников, а также выносились на публику конфиденциальные обсуждения из рассылки debian-private.
+https://www.opennet.ru/opennews/art.shtml?num=57552</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 11.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-4-20220710-003503/</link>
+      <pubDate>Sun, 10 Jul 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-4-20220710-003503/</guid>
+      <description>Опубликовано четвёртое корректирующее обновление дистрибутива Debian 11, в которое включены накопившиеся обновления пакетов и устранены недоработки в инсталляторе. Выпуск включает 81 обновление с устранением проблем со стабильностью и 79 обновлений с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=57480</description>
+    </item>
+    
+    <item>
+      <title>Прекращена LTS-поддержка Debian 9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prekraschena-lts-podderzhka-debian-9-0-20220701-173503/</link>
+      <pubDate>Fri, 01 Jul 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prekraschena-lts-podderzhka-debian-9-0-20220701-173503/</guid>
+      <description>Подошёл к концу срок сопровождения LTS-ветки дистрибутива Debian 9 &amp;ldquo;Stretch&amp;rdquo;, сформированного в 2017 году. Выпуск обновлений для LTS-ветки осуществлялся отдельной группой разработчиков LTS Team, созданной из энтузиастов и представителей компаний, заинтересованных в длительной поставке обновлений для Debian.
+https://www.opennet.ru/opennews/art.shtml?num=57437</description>
+    </item>
+    
+    <item>
+      <title>Для Debian 11 подготовлены пакеты с Qt6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-debian-11-podgotovleny-pakety-s-qt6-20220611-113503/</link>
+      <pubDate>Sat, 11 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-debian-11-podgotovleny-pakety-s-qt6-20220611-113503/</guid>
+      <description>Сопровождающий пакеты с фреймворком Qt в Debian объявил о формировании пакетов с веткой Qt6 для Debian 11. В состав набора вошло 29 пакетов с различными компонентами Qt 6.2.4 и пакет с библиотекой libassimp с поддержкой форматов 3D-моделей. Пакеты доступны для установки через систему бэкпортов (репозиторий bullseye-backports).
+https://www.opennet.ru/opennews/art.shtml?num=57331</description>
+    </item>
+    
+    <item>
+      <title>Подведены итоги выборов лидера проекта Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podvedeny-itogi-vyborov-lidera-proekta-debian-20220422-123503/</link>
+      <pubDate>Fri, 22 Apr 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podvedeny-itogi-vyborov-lidera-proekta-debian-20220422-123503/</guid>
+      <description>Объявлены результаты ежегодных выборов лидера проекта Debian. В голосовании приняли участие 354 разработчика, что составляет 34% от всех участников, имеющих право голоса (в прошлом году явка составила 44%, в позапрошлом 33%). В этом году в выборах приняли участие три кандидата на пост лидера. Победу одержал Джонатан Картер (Jonathan Carter), который был переизбран на третий срок.
+https://www.opennet.ru/opennews/art.shtml?num=57065</description>
+    </item>
+    
+    <item>
+      <title>Движение по включению проприетарных прошивок в поставку Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dvizhenie-po-vklyucheniyu-proprietarnyh-proshivok-v-postavku-debian-20220419-163502/</link>
+      <pubDate>Tue, 19 Apr 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dvizhenie-po-vklyucheniyu-proprietarnyh-proshivok-v-postavku-debian-20220419-163502/</guid>
+      <description>Стив Макинтаир (Steve McIntyre), несколько лет занимавший пост лидера проекта Debian, выступил с инициативой переосмысления отношения Debian к поставке проприетарных прошивок, которые в настоящее время не включаются в состав официальных установочных образов и поставляются в отдельном репозитории non-free. По мнению Стива, попытки достижения идеала в отношении поставки только открытого ПО приводят к лишним трудностям у пользователей, которым во многих случаях приходится устанавливать проприетарные прошивки, если они желают добиться полноценной работы своего оборудования.</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Debian утвердили возможность проведения тайного голосования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-utverdili-vozmozhnost-provedeniya-taynogo-golosovaniya-20220329-143503/</link>
+      <pubDate>Tue, 29 Mar 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-utverdili-vozmozhnost-provedeniya-taynogo-golosovaniya-20220329-143503/</guid>
+      <description>Опубликованы результаты общего голосования (GR, general resolution) разработчиков проекта Debian, участвующих в сопровождении пакетов и поддержании инфраструктуры, на котором была утверждена возможность проведения тайных голосований, не разглашающих выбор участников (до сих пор после GR-голосования публиковались полные списки с информацией, о том, какие варианты выбрал каждый голосующий). Потребность в тайных голосованиях возникла в прошлом году в ходе принятия резолюции в отношении Ричарда Столлмана из-за того, что не все были готовы в отрытую высказать свою позицию, так как выражение своего мнения могло привести к последующей травле со стороны сторонников или противников Столлмана.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 11.3 и 10.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-3-i-10-12-20220327-013503/</link>
+      <pubDate>Sun, 27 Mar 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-3-i-10-12-20220327-013503/</guid>
+      <description>Опубликовано третье корректирующее обновление дистрибутива Debian 11, в которое включены накопившиеся обновления пакетов и устранены недоработки в инсталляторе. Выпуск включает 92 обновления с устранением проблем со стабильностью и 83 обновления с устранением уязвимостей. Из изменений в Debian 11.3 можно отметить обновление до свежих стабильных версий пакетов apache2, clamav, dpdk, galera, openssl и rust-cbindgen, а также удаление пакетов angular-maven-plugin и minify-maven-plugin, потерявших актуальность.
+https://www.opennet.ru/opennews/art.shtml?num=56916</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Linux Mint Debian Edition 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-5-20220320-223503/</link>
+      <pubDate>Sun, 20 Mar 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-5-20220320-223503/</guid>
+      <description>Спустя два года с момента прошлого выпуска опубликован релиз альтернативной сборки дистрибутива Linux Mint - Linux Mint Debian Edition 5, выполненной на основе пакетной базы Debian (классический Linux Mint базируется на пакетной базе Ubuntu). Кроме использования пакетной базы Debian, важным отличием LMDE от Linux Mint является постоянный цикл обновления пакетной базы (модель непрерывных обновлений: частичный роллинг-релиз, semi-rolling release), при котором обновления пакетов выходят постоянно и пользователь в любой момент имеет возможность перейти на последние версии программ.</description>
+    </item>
+    
+    <item>
+      <title>Из Debian ушёл мэйнтейнер, не согласный с новой моделью поведения в сообществе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-debian-ushel-meynteyner-ne-soglasnyy-s-novoy-modelyu-povedeniya-v-soobschestve-20220316-123502/</link>
+      <pubDate>Wed, 16 Mar 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-debian-ushel-meynteyner-ne-soglasnyy-s-novoy-modelyu-povedeniya-v-soobschestve-20220316-123502/</guid>
+      <description>Команда, отвечающая за управление учётными записями в проекте Debian, урезала статус Норберта Прейнинга (Norbert Preining) за неуместное поведение в закрытом списке рассылки debian-private. В ответ Норберт принял решение прекратить участие в разработке Debian и перейти в сообщество Arch Linux. Норберт участвовал в разработке Debian с 2005 года и занимался сопровождением около 150 пакетов, в основном связанных с KDE и LaTex.
+https://www.opennet.ru/opennews/art.shtml?num=56861</description>
+    </item>
+    
+    <item>
+      <title>Определена дата заморозки пакетной базы Debian 12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opredelena-data-zamorozki-paketnoy-bazy-debian-12-20220315-113502/</link>
+      <pubDate>Tue, 15 Mar 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opredelena-data-zamorozki-paketnoy-bazy-debian-12-20220315-113502/</guid>
+      <description>Разработчики Debian опубликовали план заморозки пакетной базы выпуска Debian 12 &amp;ldquo;Bookworm&amp;rdquo;. Релиз Debian 12 ожидается в середине 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=56853</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Slax 11.2 на базе Debian 11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-slax-11-2-na-baze-debian-11-20220222-163503/</link>
+      <pubDate>Tue, 22 Feb 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-slax-11-2-na-baze-debian-11-20220222-163503/</guid>
+      <description>После двухлетней паузы подготовлен релиз компактного Live-дистрибутива Slax 11.2. Начиная с 2018 года дистрибутив переведён с наработок проекта Slackware на пакетную базу Debian, пакетный менеджер APT и систему инициализации systemd. Графическое окружение построено на основе оконного менеджера FluxBox и рабочего стола/интерфейса запуска программ xLunch, специально разработанного для Slax участниками проекта.
+https://www.opennet.ru/opennews/art.shtml?num=56741</description>
+    </item>
+    
+  </channel>
+</rss>

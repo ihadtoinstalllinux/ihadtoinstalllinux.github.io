@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lighttpd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lighttpd/</link>
+    <description>Recent content in Lighttpd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jun 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lighttpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск http-сервера Lighttpd 1.4.65</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-65-20220608-113502/</link>
+      <pubDate>Wed, 08 Jun 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-65-20220608-113502/</guid>
+      <description>Состоялся релиз легковесного http-сервера lighttpd 1.4.65, пытающегося сочетать высокую производительность, безопасность, соответствие стандартам и гибкость настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. В новой версии представлено 173 изменения. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=57314</description>
+    </item>
+    
+    <item>
+      <title>Выпуск http-сервера Lighttpd 1.4.64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/post20220120-123503/</link>
+      <pubDate>Thu, 20 Jan 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/post20220120-123503/</guid>
+      <description>Состоялся релиз легковесного http-сервера lighttpd 1.4.64. В новой версии представлено 95 изменений, в том числе применены ранее запланированные изменения значений по умолчанию и проведена чистка от устаревшей функциональности.
+https://www.opennet.ru/opennews/art.shtml?num=56545</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPv6 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipv6/</link>
+    <description>Recent content in IPv6 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённая уязвимость в IPv6-стеке OpenBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-ipv6-steke-openbsd-20220325-173503/</link>
+      <pubDate>Fri, 25 Mar 2022 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-ipv6-steke-openbsd-20220325-173503/</guid>
+      <description>В фоновом процессе slaacd, отвечающем в OpenBSD за автоконфигурацию адресов IPv6 (IPv6 Stateless Address Autoconfiguration, RFC 4862), выявлена уязвимость, приводящая к переполнению буфера при получении специально оформленного анонса маршрутизатора IPv6 (RA, Router Advertisement).
+https://www.opennet.ru/opennews/art.shtml?num=56911</description>
+    </item>
+    
+  </channel>
+</rss>

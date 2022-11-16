@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KDE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kde/</link>
+    <description>Recent content in KDE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 20:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз десктоп-окружения Trinity R14.0.13, продолжающего развитие KDE 3.5 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-desktop-okruzheniya-trinity-r14-0-13-prodolzhayuschego-razvitie-kde-3-5-20221106-203502/</link>
+      <pubDate>Sun, 06 Nov 2022 20:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-desktop-okruzheniya-trinity-r14-0-13-prodolzhayuschego-razvitie-kde-3-5-20221106-203502/</guid>
+      <description>Опубликован релиз десктоп-окружения Trinity R14.0.13, продолжающего развитие кодовой базы KDE 3.5.x и Qt 3. Бинарные пакеты в ближайшее время будут подготовлены для Ubuntu, Debian, RHEL/CentOS, Fedora, openSUSE и других дистрибутивов.
+https://www.opennet.ru/opennews/art.shtml?num=58057</description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения KDE Plasma 5.26</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-26-20221011-183503/</link>
+      <pubDate>Tue, 11 Oct 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-26-20221011-183503/</guid>
+      <description>Доступен релиз пользовательской оболочки KDE Plasma 5.26, построенной с использованием платформы KDE Frameworks 5 и библиотеки Qt 5 с применением OpenGL/OpenGL ES для ускорения отрисовки. Оценить работу.
+https://www.opennet.ru/opennews/art.shtml?num=57901</description>
+    </item>
+    
+    <item>
+      <title>После релиза KDE Plasma 5.27 планируют приступить к разработке ветки KDE 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-reliza-kde-plasma-5-27-planiruyut-pristupit-k-razrabotke-vetki-kde-6-20221009-103503/</link>
+      <pubDate>Sun, 09 Oct 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-reliza-kde-plasma-5-27-planiruyut-pristupit-k-razrabotke-vetki-kde-6-20221009-103503/</guid>
+      <description>На прошедшей в Барселоне конференции KDE Akademy 2022 рассмотрен план разработки ветки KDE 6. Выпуск рабочего стола KDE Plasma 5.27 станет последним в серии KDE 5 и после него разработчики приступят к формированию ветки KDE 6. Ключевым изменением в новой ветке станет переход на Qt 6 и поставка обновлённого базового набора библиотек и runtime-компонентов KDE Frameworks 6, формирующего программный стек KDE.
+https://www.opennet.ru/opennews/art.shtml?num=57891</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 22.09</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-09-20220929-103503/</link>
+      <pubDate>Thu, 29 Sep 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-09-20220929-103503/</guid>
+      <description>Опубликован выпуск мобильной платформы KDE Plasma Mobile 22.09, основанной на мобильной редакции рабочего стола Plasma 5, библиотеках KDE Frameworks 5, телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики в Plasma Mobile используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Одновременно подготовлен выпуск набора мобильных приложений Plasma Mobile Gear 22.09, формируемого по аналогии с набором KDE Gear. Для создания интерфейса приложений применяется Qt, набор компонентов Mauikit и фреймворк Kirigami из состава KDE Frameworks, позволяющий создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
+    <item>
+      <title>Тестирование рабочего стола KDE Plasma 5.26 с компонентами для использования на телевизорах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/testirovanie-rabochego-stola-kde-plasma-5-26-s-komponentami-dlya-ispolzovaniya-na-televizo-20220917-003505/</link>
+      <pubDate>Sat, 17 Sep 2022 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/testirovanie-rabochego-stola-kde-plasma-5-26-s-komponentami-dlya-ispolzovaniya-na-televizo-20220917-003505/</guid>
+      <description>Доступна для тестирования бета-версия пользовательской оболочки Plasma 5.26. Протестировать новый выпуск можно через Live-сборку от проекта openSUSE и сборки от проекта KDE Neon Testing edition. Пакеты для различных дистрибутивов можно найти на данной странице. Релиз ожидается 11 октября.
+https://www.opennet.ru/opennews/art.shtml?num=57794</description>
+    </item>
+    
+    <item>
+      <title>Выпуск KDE Gear 22.08, набора приложений от проекта KDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kde-gear-22-08-nabora-prilozheniy-ot-proekta-kde-20220819-103503/</link>
+      <pubDate>Fri, 19 Aug 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kde-gear-22-08-nabora-prilozheniy-ot-proekta-kde-20220819-103503/</guid>
+      <description>Представлено августовское сводное обновление приложений (22.08), развиваемых проектом KDE. Напомним, что сводный набор приложений KDE c апреля 2021 года публикуется под именем KDE Gear, вместо KDE Apps и KDE Applications. Всего в рамках обновления опубликованы выпуски 233 программ, библиотек и плагинов. Информацию о наличии Live-сборок с новыми выпусками приложений можно получить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=57652</description>
+    </item>
+    
+    <item>
+      <title>Проект KDE представил четвёртое поколение ноутбуков KDE Slimbook</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-kde-predstavil-chetvertoe-pokolenie-noutbukov-kde-slimbook-20220705-213503/</link>
+      <pubDate>Tue, 05 Jul 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-kde-predstavil-chetvertoe-pokolenie-noutbukov-kde-slimbook-20220705-213503/</guid>
+      <description>Проект KDE представил четвёртое поколение ультрабуков, поставляемых под брендом KDE Slimbook. Продукт разработан при участии сообщества KDE совместно с испанским поставщиком оборудования Slimbook. Программная начинка основана на рабочем столе KDE Plasma, системном окружении KDE Neon на базе Ubuntu и подборкой свободных приложений, таких как графический редактор Krita, система 3D-проектирования Blender, САПР FreeCAD и редактор видео Kdenlive. Графическое окружение по умолчанию использует протокол Wayland. Все поставляемые в KDE Slimbook приложения и обновления досконально тестируются разработчиками KDE для обеспечения высокого уровня стабильности окружения и совместимости с оборудованием.</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 22.06</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-06-20220629-183502/</link>
+      <pubDate>Wed, 29 Jun 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-06-20220629-183502/</guid>
+      <description>Опубликован выпуск мобильной платформы KDE Plasma Mobile 22.06, основанной на мобильной редакции рабочего стола Plasma 5, библиотеках KDE Frameworks 5, телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики в Plasma Mobile используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Одновременно подготовлен выпуск набора мобильных приложений Plasma Mobile Gear 22.06, формируемого по аналогии с набором KDE Gear. Для создания интерфейса приложений применяется Qt, набор компонентов Mauikit и фреймворк Kirigami из состава KDE Frameworks, позволяющий создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения KDE Plasma 5.25</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-25-20220614-183503/</link>
+      <pubDate>Tue, 14 Jun 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-kde-plasma-5-25-20220614-183503/</guid>
+      <description>Доступен релиз пользовательской оболочки KDE Plasma 5.25, построенной с использованием платформы KDE Frameworks 5 и библиотеки Qt 5 с применением OpenGL/OpenGL ES для ускорения отрисовки. Оценить работу.
+https://www.opennet.ru/opennews/art.shtml?num=57353</description>
+    </item>
+    
+    <item>
+      <title>Тестирование рабочего стола KDE Plasma 5.25</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/testirovanie-rabochego-stola-kde-plasma-5-25-20220522-163504/</link>
+      <pubDate>Sun, 22 May 2022 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/testirovanie-rabochego-stola-kde-plasma-5-25-20220522-163504/</guid>
+      <description>Доступна для тестирования бета-версия пользовательской оболочки Plasma 5.25. Протестировать новый выпуск можно через Live-сборку от проекта openSUSE и сборки от проекта KDE Neon Testing edition. Пакеты для различных дистрибутивов можно найти на данной странице. Релиз ожидается 14 июня.
+https://www.opennet.ru/opennews/art.shtml?num=57234</description>
+    </item>
+    
+    <item>
+      <title>Релиз десктоп-окружения Trinity R14.0.12, продолжающего развитие KDE 3.5 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-desktop-okruzheniya-trinity-r14-0-12-prodolzhayuschego-razvitie-kde-3-5-20220502-013503/</link>
+      <pubDate>Mon, 02 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-desktop-okruzheniya-trinity-r14-0-12-prodolzhayuschego-razvitie-kde-3-5-20220502-013503/</guid>
+      <description>Опубликован релиз десктоп-окружения Trinity R14.0.12, продолжающего развитие кодовой базы KDE 3.5.x и Qt 3. Бинарные пакеты в ближайшее время будут подготовлены для Ubuntu, Debian, RHEL/CentOS, Fedora, openSUSE и других дистрибутивов.
+https://www.opennet.ru/opennews/art.shtml?num=57118</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 22.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-04-20220428-113502/</link>
+      <pubDate>Thu, 28 Apr 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-04-20220428-113502/</guid>
+      <description>Опубликован выпуск мобильной платформы KDE Plasma Mobile 22.04, основанной на мобильной редакции рабочего стола Plasma 5, библиотеках KDE Frameworks 5, телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики в Plasma Mobile используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Одновременно подготовлен выпуск набора мобильных приложений Plasma Mobile Gear 22.04, формируемого по аналогии с набором KDE Gear. Для создания интерфейса приложений применяется Qt, набор компонентов Mauikit и фреймворк Kirigami из состава KDE Frameworks, позволяющий создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск KDE Gear 22.04, набора приложений от проекта KDE </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kde-gear-22-04-nabora-prilozheniy-ot-proekta-kde-20220422-233507/</link>
+      <pubDate>Fri, 22 Apr 2022 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kde-gear-22-04-nabora-prilozheniy-ot-proekta-kde-20220422-233507/</guid>
+      <description>Представлено апрельское сводное обновление приложений (22.04), развиваемых проектом KDE. Напомним, что сводный набор приложений KDE c апреля публикуется под именем KDE Gear, вместо KDE Apps и KDE Applications. Всего в рамках обновления опубликованы выпуски 232 программ, библиотек и плагинов. Информацию о наличии Live-сборок с новыми выпусками приложений можно получить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=57069</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 22.02</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-02-20220210-153502/</link>
+      <pubDate>Thu, 10 Feb 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-02-20220210-153502/</guid>
+      <description>Опубликован выпуск мобильной платформы KDE Plasma Mobile 22.02, основанной на мобильной редакции рабочего стола Plasma 5, библиотеках KDE Frameworks 5, телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики в Plasma Mobile используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Одновременно подготовлен выпуск набора мобильных приложений Plasma Mobile Gear 22.02, формируемого по аналогии с набором KDE Gear. Для создания интерфейса приложений применяется Qt, набор компонентов Mauikit и фреймворк Kirigami из состава KDE Frameworks, позволяющий создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
+    <item>
+      <title>Релиз рабочего стола KDE Plasma 5.24</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-rabochego-stola-kde-plasma-5-24-20220208-173502/</link>
+      <pubDate>Tue, 08 Feb 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-rabochego-stola-kde-plasma-5-24-20220208-173502/</guid>
+      <description>Доступен релиз пользовательской оболочки KDE Plasma 5.24, построенной с использованием платформы KDE Frameworks 5 и библиотеки Qt 5 с применением OpenGL/OpenGL ES для ускорения отрисовки. Оценить работу.
+https://www.opennet.ru/opennews/art.shtml?num=56658</description>
+    </item>
+    
+    <item>
+      <title>Релиз браузера Falkon 3.2.0, развиваемого проектом KDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-brauzera-falkon-3-2-0-razvivaemogo-proektom-kde-20220131-213503/</link>
+      <pubDate>Mon, 31 Jan 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-brauzera-falkon-3-2-0-razvivaemogo-proektom-kde-20220131-213503/</guid>
+      <description>После почти трёх лет разработки состоялся релиз браузера Falkon 3.2.0, пришедшего на смену QupZilla после перехода проекта под крыло сообщества KDE и переноса разработки в инфраструктуру KDE. Код проекта распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=56613</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/la/</link>
+    <description>Recent content in LA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/la/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Bluetooth-стека BlueZ 5.66 с начальной поддержкой LA Audio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bluetooth-steka-bluez-5-66-s-nachalnoy-podderzhkoy-la-audio-20221115-233503/</link>
+      <pubDate>Tue, 15 Nov 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bluetooth-steka-bluez-5-66-s-nachalnoy-podderzhkoy-la-audio-20221115-233503/</guid>
+      <description>Состоялся релиз свободного Bluetooth-стека BlueZ 5.47, используемого в дистрибутивах Linux и Chrome OS. Выпуск примечателен начальной реализацией профиля BAP (Basic Audio Profile), который входит в стандарт LE Audio (Low Energy Audio) и определяет возможности для управления доставкой звуковых потоков для устройств, использующих Bluetooth LE (Low Energy).
+https://www.opennet.ru/opennews/art.shtml?num=58121</description>
+    </item>
+    
+  </channel>
+</rss>

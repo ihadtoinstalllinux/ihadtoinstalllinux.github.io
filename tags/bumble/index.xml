@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bumble on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bumble/</link>
+    <description>Recent content in Bumble on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bumble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bumble открыл систему машинного обучения для выявления непристойных изображений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bumble-otkryl-sistemu-mashinnogo-obucheniya-dlya-vyyavleniya-nepristoynyh-izobrazheniy-20221025-133502/</link>
+      <pubDate>Tue, 25 Oct 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bumble-otkryl-sistemu-mashinnogo-obucheniya-dlya-vyyavleniya-nepristoynyh-izobrazheniy-20221025-133502/</guid>
+      <description>Компания Bumble, развивающая один из крупнейших online-сервисов знакомств, открыла исходные тексты системы машинного обучения Private Detector, применяемой для определения непристойных изображений на загружаемых в сервис фотографиях. Система написана на языке Python, использует фреймворк Tensorflow и распространяется под лицензией Apache-2.0. Для классификации используется свёрточная нейронная сеть EfficientNet v2. Для загрузки доступна готовая модель для выявления изображений обнажённых людей. Точность определения составляет более.
+https://www.opennet.ru/opennews/art.shtml?num=57975</description>
+    </item>
+    
+  </channel>
+</rss>

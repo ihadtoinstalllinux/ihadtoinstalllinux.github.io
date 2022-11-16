@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SMM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smm/</link>
+    <description>Recent content in SMM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в прошивках UEFI, позволяющая выполнить код на уровне SMM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-proshivkah-uefi-pozvolyayuschaya-vypolnit-kod-na-urovne-smm-20221109-013503/</link>
+      <pubDate>Wed, 09 Nov 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-proshivkah-uefi-pozvolyayuschaya-vypolnit-kod-na-urovne-smm-20221109-013503/</guid>
+      <description>Раскрыта информация об уязвимости (CVE-2021-33164) в прошивках UEFI, позволяющей выполнить код на уровне SMM (System Management Mode), более приоритетном, чем режим гипервизора и нулевое кольцо защиты, и предоставляющем неограниченный доступ ко всей системной памяти. Уязвимость, которая получила кодовое имя RingHopper, связана с возможностью проведения атаки по времени при помощи DMA (Direct Memory Access) для повреждения памяти в коде, выполняемом на уровне SMM. Наличие уязвимости подтверждено в прошивках Intel, Dell и Insyde Software (утверждается, что проблема затрагивает 8 производителей, но остальные 5 пока не раскрываются).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в UEFI-прошивках на базе фреймворка InsydeH2O, позволяющие выполнить код на уровне SMM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-uefi-proshivkah-na-baze-freymvorka-insydeh2o-pozvolyayuschie-vypolnit-kod-na-20220208-123503/</link>
+      <pubDate>Tue, 08 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-uefi-proshivkah-na-baze-freymvorka-insydeh2o-pozvolyayuschie-vypolnit-kod-na-20220208-123503/</guid>
+      <description>Во фреймворке InsydeH2O, применяемом многими производителями для создания UEFI-прошивок к своему оборудованию (наиболее популярная реализация UEFI BIOS), выявлены 23 уязвимости, позволяющие выполнить код на уровне SMM (System Management Mode), более приоритетном (Ring -2), чем режим гипервизора и нулевое кольцо защиты, и имеющим неограниченный доступ ко всей памяти. Проблема затрагивает UEFI-прошивки, используемые такими производителями, как Fujitsu, Siemens, Dell, HP, HPE, Lenovo, Microsoft, Intel и Bull Atos.
+https://www.opennet.ru/opennews/art.shtml?num=56656</description>
+    </item>
+    
+  </channel>
+</rss>

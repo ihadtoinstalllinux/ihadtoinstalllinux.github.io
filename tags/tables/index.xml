@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tables on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tables/</link>
+    <description>Recent content in tables on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux выявлены эксплуатируемые уязвимости в POSIX CPU timer, cls_route и nf_tables</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-vyyavleny-ekspluatiruemye-uyazvimosti-v-posix-cpu-timer-cls-route-i-nf-table-20220810-233502/</link>
+      <pubDate>Wed, 10 Aug 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-vyyavleny-ekspluatiruemye-uyazvimosti-v-posix-cpu-timer-cls-route-i-nf-table-20220810-233502/</guid>
+      <description>В ядре Linux выявлено несколько уязвимостей, вызванных обращением к уже освобождённым областям памяти и позволяющих локальному пользователю повысить свои привилегии в системе. Для всех рассматриваемых проблем созданы рабочие прототипы эксплоитов, которые будут опубликованы через неделю после публикации информации об уявзимостях. Патчи с устранением проблем отправлены разработчикам ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=57622</description>
+    </item>
+    
+    <item>
+      <title>В ядре Linux выявлены эксплуатируемые уязвимости в nf_tables, watch_queue и IPsec</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-vyyavleny-ekspluatiruemye-uyazvimosti-v-nf-tables-watch-queue-i-ipsec-20220329-163503/</link>
+      <pubDate>Tue, 29 Mar 2022 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-vyyavleny-ekspluatiruemye-uyazvimosti-v-nf-tables-watch-queue-i-ipsec-20220329-163503/</guid>
+      <description>В ядре Linux выявлено несколько опасных уязвимостей, позволяющих локальному пользователю повысить свои привилегии в системе. Для всех рассматриваемых проблем подготовлены рабочие прототипы эксплоитов.
+https://www.opennet.ru/opennews/art.shtml?num=56931</description>
+    </item>
+    
+  </channel>
+</rss>

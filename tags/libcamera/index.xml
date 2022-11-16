@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libcamera on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libcamera/</link>
+    <description>Recent content in libcamera on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Oct 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libcamera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск libcamera, стека для поддержки камер в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-libcamera-steka-dlya-podderzhki-kamer-v-linux-20221018-103502/</link>
+      <pubDate>Tue, 18 Oct 2022 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-libcamera-steka-dlya-podderzhki-kamer-v-linux-20221018-103502/</guid>
+      <description>После четырёх лет разработки сформирован первый выпуск проекта libcamera (0.0.1), предлагающего программный стек для работы с видеокамерами, фотокамерами и TV-тюнерами в Linux, Android и ChromeOS, который продолжает развитие API V4L2 и со временем заменит его. Так как API библиотеки ещё продолжает меняться и окончательно не стабилизирован, до сих пор проект развивался без ответвления отдельных выпусков с использованием непрерывной модели разработки. В ответ на потребность дистрибутивов в отслеживании изменений, влияющих на совместимость, и для упрощения поставки библиотеки в пакетах теперь принято решение периодически формировать релизы, отражающие степень изменения ABI и API.</description>
+    </item>
+    
+  </channel>
+</rss>

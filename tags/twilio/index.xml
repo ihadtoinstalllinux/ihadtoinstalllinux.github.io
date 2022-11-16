@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twilio on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/twilio/</link>
+    <description>Recent content in Twilio on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/twilio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Попытка захвата учётных записей Signal через компрометацию SMS-сервиса Twilio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/popytka-zahvata-uchetnyh-zapisey-signal-cherez-komprometaciyu-sms-servisa-twilio-20220816-233505/</link>
+      <pubDate>Tue, 16 Aug 2022 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/popytka-zahvata-uchetnyh-zapisey-signal-cherez-komprometaciyu-sms-servisa-twilio-20220816-233505/</guid>
+      <description>Разработчики открытого мессенджера Signal раскрыли сведения о целевой атаке, направленной на получение контроля над учётными записями некоторых пользователей. Атака проведена через взлом сервиса Twilio, используемого в Signal для организации отправки SMS-сообщений с кодами подтверждения. Анализ данных показал, что взлом Twilio мог затронуть около 1900 номеров телефонов пользователей Signal, для которых атакующие имели возможность перерегистировать номера телефонов на другое устройство, после чего получать или отправлять сообщения для привязанного номера телефона (доступ к истории прошлой переписки, информации из профиля и адресной книге не мог быть получен, так как подобная информация хранится на устройстве пользователя и не передаётся на серверы Signal).</description>
+    </item>
+    
+  </channel>
+</rss>

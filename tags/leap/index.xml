@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/leap/</link>
+    <description>Recent content in Leap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jun 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/leap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива openSUSE Leap 15.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-4-20220608-223503/</link>
+      <pubDate>Wed, 08 Jun 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-4-20220608-223503/</guid>
+      <description>После года разработки состоялся релиз дистрибутива openSUSE Leap 15.4. Выпуск сформирован на основе единого с SUSE Linux Enterprise 15 SP 4 набора бинарных пакетов c некоторыми пользовательскими приложениями из репозитория openSUSE Tumbleweed. Использование одних и тех же бинарных пакетов в SUSE и openSUSE упрощает переход между дистрибутивами, экономит ресурсы на сборку пакетов, распространение обновлений и тестирование, унифицирует различия в spec-файлах и позволяет отойти от диагностики разных сборок пакетов при разборе сообщений об ошибках.</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск дистрибутива openSUSE Leap Micro</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-distributiva-opensuse-leap-micro-20220518-233502/</link>
+      <pubDate>Wed, 18 May 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-distributiva-opensuse-leap-micro-20220518-233502/</guid>
+      <description>Разработчики проекта openSUSE представили первый выпуск новой редакции дистрибутива openSUSE - &amp;ldquo;Leap Micro&amp;rdquo;, основанной на наработках проекта MicroOS. Дистрибутив openSUSE Leap Micro позиционируется как community-версия коммерческого продукта SUSE Linux Enterprise Micro 5.2, чем и объясняется необычный номер первой версии - 5.2, который выбран для синхронизации нумерации выпусков в обоих дистрибутивах. Время поддержки выпуска openSUSE Leap Micro 5.2 составит 4 года.
+https://www.opennet.ru/opennews/art.shtml?num=57210</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск дистрибутива openSUSE Leap 15.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-4-20220303-113502/</link>
+      <pubDate>Thu, 03 Mar 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-4-20220303-113502/</guid>
+      <description>Разработка дистрибутива openSUSE Leap 15.4 перешла на стадию бета-тестирования. Выпуск сформирован на основе базового набора пакетов, единого с дистрибутивом SUSE Linux Enterprise 15 SP 4 и также включает некоторые пользовательские приложения из репозитория openSUSE Tumbleweed. Для загрузки доступна универсальная DVD-сборка, размером 3.9 ГБ (x86_64, aarch64, ppc64les, 390x). Релиз openSUSE Leap 15.4 ожидается 8 июня 2022 года. Поддержка ветки openSUSE Leap 15.3 будет осуществляться в течение 6 месяцев после релиза 15.4.</description>
+    </item>
+    
+  </channel>
+</rss>

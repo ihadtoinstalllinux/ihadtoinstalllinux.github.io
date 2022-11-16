@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KataOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kataos/</link>
+    <description>Recent content in KataOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kataos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google открыл код защищённой операционной системы KataOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-zaschischennoy-operacionnoy-sistemy-kataos-20221015-133505/</link>
+      <pubDate>Sat, 15 Oct 2022 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-zaschischennoy-operacionnoy-sistemy-kataos-20221015-133505/</guid>
+      <description>Компания Google объявила об открытии наработок, связанных с проектом KataOS, нацеленным на создание защищённой операционной системой для встраиваемого оборудования. Системные компоненты KataOS написаны на языке Rust и выполняются поверх микроядра seL4, для которого на системах RISC-V предоставлено математическое доказательство надёжности, свидетельствующее о полном соответствии кода спецификациям, заданным на формальном языке. Код проекта открыт под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57920</description>
+    </item>
+    
+  </channel>
+</rss>

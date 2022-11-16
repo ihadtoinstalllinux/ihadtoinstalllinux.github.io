@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GNOME on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnome/</link>
+    <description>Recent content in GNOME on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Phosh 0.22, GNOME-окружения для смартфонов. Сборки Fedora для мобильных устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-22-gnome-okruzheniya-dlya-smartfonov-sborki-fedora-dlya-mobilnyh-ustroystv-20221109-113503/</link>
+      <pubDate>Wed, 09 Nov 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-22-gnome-okruzheniya-dlya-smartfonov-sborki-fedora-dlya-mobilnyh-ustroystv-20221109-113503/</guid>
+      <description>Состоялся релиз Phosh 0.22.0, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и теперь также используется в postmarketOS, Mobian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+    </item>
+    
+    <item>
+      <title>Web-браузер Epiphany (GNOME Web) переведён на GTK4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/web-brauzer-epiphany-gnome-web-pereveden-na-gtk4-20221028-223503/</link>
+      <pubDate>Fri, 28 Oct 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/web-brauzer-epiphany-gnome-web-pereveden-na-gtk4-20221028-223503/</guid>
+      <description>В основную ветку web-браузера Epiphany, развиваемого проектом GNOME, основанного на движке WebKitGTK и предлагаемого пользователям под именем GNOME Web, добавлена поддержка библиотеки GTK4. Интерфейс Epiphany приближен к современным требованиям к стилю приложений GNOME, например, прекращено фактурное выделение кнопок в панели, изменено оформление вкладок, сильнее закруглены углы окна. Тестовые сборки на основе GTK4.
+https://www.opennet.ru/opennews/art.shtml?num=57999</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пользовательского окружения GNOME 43</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-gnome-43-20220921-223504/</link>
+      <pubDate>Wed, 21 Sep 2022 22:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-gnome-43-20220921-223504/</guid>
+      <description>После шести месяцев разработки представлен выпуск десктоп-окружения GNOME 43. Для быстрой оценки возможностей GNOME 43 предложены специализированные Live-сборки на основе openSUSE и установочной образ, подготовленный в рамках инициативы GNOME OS. GNOME 43 также уже включён в состав экспериментальной сборки Fedora 37.
+https://www.opennet.ru/opennews/art.shtml?num=57810</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки Libadwaita 1.2 для создания интерфейсов в стиле GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-2-dlya-sozdaniya-interfeysov-v-stile-gnome-20220916-113506/</link>
+      <pubDate>Fri, 16 Sep 2022 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-2-dlya-sozdaniya-interfeysov-v-stile-gnome-20220916-113506/</guid>
+      <description>Проект GNOME опубликовал выпуск библиотеки Libadwaita 1.2, включающей набор компонентов для стилевого оформления интерфейса пользователя, соответствующего рекомендациям GNOME HIG (Human Interface Guidelines). Библиотека включает в себя готовые виджеты и объекты для построения приложений, соответствующих общему стилю GNOME, интерфейс которых может адаптивно подстраиваться под экраны любого размера. Код библиотеки написан на языке Си и распространяется под лицензией LGPL 2.1+.
+https://www.opennet.ru/opennews/art.shtml?num=57792</description>
+    </item>
+    
+    <item>
+      <title>Продолжение развития GNOME Shell для мобильных устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodolzhenie-razvitiya-gnome-shell-dlya-mobilnyh-ustroystv-20220912-133503/</link>
+      <pubDate>Mon, 12 Sep 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodolzhenie-razvitiya-gnome-shell-dlya-mobilnyh-ustroystv-20220912-133503/</guid>
+      <description>Джонас Дресслер (Jonas Dressler) из проекта GNOME опубликовал отчёт о проделанной за последние несколько месяцев работе по развитию возможностей оболочки GNOME Shell для использования на смартфонах и планшетах с сенсорным экраном. Работу финансирует министерство образования Германии, предоставившее разработчикам GNOME грант в рамках инициативы по поддержке общественно значимых программных проектов.
+https://www.opennet.ru/opennews/art.shtml?num=57766</description>
+    </item>
+    
+    <item>
+      <title>GNOME представил инструментарий для сбора телеметрии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-predstavil-instrumentariy-dlya-sbora-telemetrii-20220825-183503/</link>
+      <pubDate>Thu, 25 Aug 2022 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-predstavil-instrumentariy-dlya-sbora-telemetrii-20220825-183503/</guid>
+      <description>Разработчики из компании Red Hat объявили о готовности инструмента gnome-info-collect для сбора телеметрии о системах, на которых используется окружение GNOME. Пользователям, желающим принять участие в сборе данных, предложены готовые пакеты для Ubuntu, openSUSE, Arch Linux и Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=57676</description>
+    </item>
+    
+    <item>
+      <title>В web-браузер Epiphany (GNOME Web) добавлена поддержка WebExtension</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-web-brauzer-epiphany-gnome-web-dobavlena-podderzhka-webextension-20220702-153503/</link>
+      <pubDate>Sat, 02 Jul 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-web-brauzer-epiphany-gnome-web-dobavlena-podderzhka-webextension-20220702-153503/</guid>
+      <description>В развиваемый проектом GNOME web-браузер Epiphany, основанный на движке WebKitGTK и предлагаемый пользователям под именем GNOME Web, добавлена поддержка дополнений в формате WebExtension. API WebExtensions позволяет создавать дополнения при помощи штатных web-технологий и унифицирует разработку дополнений для различных браузеров (WebExtensions применяется в дополнениях для Chrome, Firefox и Safari). Версия с поддержкой дополнений войдёт в состав выпуска GNOME 43, намеченного на 21 сентября.
+https://www.opennet.ru/opennews/art.shtml?num=57442</description>
+    </item>
+    
+    <item>
+      <title>Прогресс в создании варианта GNOME Shell для мобильных устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-sozdanii-varianta-gnome-shell-dlya-mobilnyh-ustroystv-20220602-003503/</link>
+      <pubDate>Thu, 02 Jun 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-sozdanii-varianta-gnome-shell-dlya-mobilnyh-ustroystv-20220602-003503/</guid>
+      <description>Джонас Дресслер (Jonas Dreßler) из проекта GNOME опубликовал отчёт об адаптации оболочки GNOME Shell для устройств с небольшими сенсорными экранами. На проведение работы был получен грант, выделенный министерством образования Германии в рамках поддержки общественно значимых программных проектов.
+https://www.opennet.ru/opennews/art.shtml?num=57287</description>
+    </item>
+    
+    <item>
+      <title>В Ubuntu 22.10 на смену GEdit придёт новый текстовый редактор GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-22-10-na-smenu-gedit-pridet-novyy-tekstovyy-redaktor-gnome-20220531-123503/</link>
+      <pubDate>Tue, 31 May 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-22-10-na-smenu-gedit-pridet-novyy-tekstovyy-redaktor-gnome-20220531-123503/</guid>
+      <description>В репозитории, в котором ведётся разработка выпуска Ubuntu 22.10, изменён предлагаемый по умолчанию текстовый редактор. Вместо GEdit пользователям предложен новый текстовый редактор &amp;ldquo;GNOME Text Editor&amp;rdquo;, реализованный с использованием GTK 4 и библиотеки libadwaita, которая предлагает готовые виджеты и объекты для построения приложений, соответствующие новым рекомендациям GNOME HIG (Human Interface Guidelines) и способные адаптивно подстраиваться под экраны любого размера. Ранее предлагаемый редактор GEdit останется доступен для установки из репозитория universe (для ознакомления также может быть использован пакет в формате flatpak).</description>
+    </item>
+    
+    <item>
+      <title>Стратегия проекта GNOME в 2022 году</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/strategiya-proekta-gnome-v-2022-godu-20220510-113502/</link>
+      <pubDate>Tue, 10 May 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/strategiya-proekta-gnome-v-2022-godu-20220510-113502/</guid>
+      <description>Роберт Маккуин (Robert McQueen), руководитель организации GNOME Foundation, представил новые инициативы, нацеленные на привлечение новых пользователей и разработчиков к платформе GNOME. Отмечается, что раньше организация GNOME Foundation уделяла основное внимание повышению актуальности GNOME и таких технологий, как GTK, а также приёму пожертвований от компаний и физлиц, близких к экосистеме свободного и открытого ПО. Новые инициативы направлены на привлечение людей из внешней среды, знакомство с проектом сторонних пользователей и поиск новых возможностей для привлечения инвестиций в проект GNOME.</description>
+    </item>
+    
+    <item>
+      <title>Патент, использованный для нападок на GNOME, признан недействительным</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/patent-ispolzovannyy-dlya-napadok-na-gnome-priznan-nedeystvitelnym-20220429-113502/</link>
+      <pubDate>Fri, 29 Apr 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/patent-ispolzovannyy-dlya-napadok-na-gnome-priznan-nedeystvitelnym-20220429-113502/</guid>
+      <description>Организация Open Source Initiative (OSI), занимающаяся проверкой лицензий на предмет соответствия критериям Open Source, сообщила о продолжении истории с обвинением проекта GNOME в нарушении патента 9,936,086. В своё время проект GNOME не согласился выплачивать отчисления и развернул активную деятельность по сбору фактов, которые могли свидетельствовать о несостоятельности патента. Для остановки подобной деятельности компания Rothschild Patent Imaging пошла на уступку и в мае 2020 года заключила с GNOME соглашение, в результате которого проекту GNOME была предоставлена бесплатная лицензия на имеющиеся патенты и дано обязательство не предъявлять иски к любым открытым проектам.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пользовательского окружения GNOME 42</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-gnome-42-20220324-003502/</link>
+      <pubDate>Thu, 24 Mar 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-gnome-42-20220324-003502/</guid>
+      <description>После шести месяцев разработки представлен выпуск десктоп-окружения GNOME 42. Для быстрой оценки возможностей GNOME 42 предложены специализированные Live-сборки на основе openSUSE и установочной образ, подготовленный в рамках инициативы GNOME OS. GNOME 42 также уже включён в состав экспериментальной сборки сборок Fedora 36.
+https://www.opennet.ru/opennews/art.shtml?num=56902</description>
+    </item>
+    
+    <item>
+      <title>GNOME прекращает сопровождение графической библиотеки Clutter </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-prekraschaet-soprovozhdenie-graficheskoy-biblioteki-clutter-20220218-133503/</link>
+      <pubDate>Fri, 18 Feb 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-prekraschaet-soprovozhdenie-graficheskoy-biblioteki-clutter-20220218-133503/</guid>
+      <description>Проект GNOME перевёл графическую библиотеку Clutter в число устаревших проектов, разработка которых прекращена. Начиная с GNOME 42, библиотека Clutter и связанные с ней компоненты Cogl, Clutter-GTK и Clutter-GStreamer будут удалены из GNOME SDK, а связанный с ними код перенесён в архивные репозитории.
+https://www.opennet.ru/opennews/art.shtml?num=56720</description>
+    </item>
+    
+    <item>
+      <title>Выпуск файлового менеджера GNOME Commander 1.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-faylovogo-menedzhera-gnome-commander-1-14-20220206-123502/</link>
+      <pubDate>Sun, 06 Feb 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-faylovogo-menedzhera-gnome-commander-1-14-20220206-123502/</guid>
+      <description>Состоялся релиз двухпанельного файлового менеджера GNOME Commander 1.14.0, оптимизированного для использования в пользовательском окружении GNOME. GNOME Commander представляет такие возможности как вкладки, доступ к командной строке, закладки, изменяемые цветовые схемы, режим пропуска каталогов при выделении файлов, доступ к внешним данным через FTP и SAMBA, расширяемые контекстные меню, автоматическое монтирование внешних накопителей, доступ к истории навигации, поддержка плагинов, встроенный просмотрщик текста и изображений, функции поиска, переименования по маске и сравнения каталогов.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Phosh 0.15.0, GNOME-окружения для смартфонов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-15-0-gnome-okruzheniya-dlya-smartfonov-20220126-193503/</link>
+      <pubDate>Wed, 26 Jan 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-15-0-gnome-okruzheniya-dlya-smartfonov-20220126-193503/</guid>
+      <description>Доступен выпуск Phosh 0.15.0, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и теперь также используется в postmarketOS, Mobian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+    </item>
+    
+  </channel>
+</rss>

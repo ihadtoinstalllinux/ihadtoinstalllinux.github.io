@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Enterprise on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/enterprise/</link>
+    <description>Recent content in Enterprise on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/enterprise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 8.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-7-20221111-143503/</link>
+      <pubDate>Fri, 11 Nov 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-7-20221111-143503/</guid>
+      <description>Компания Red Hat опубликовала релиз Red Hat Enterprise Linux 8.7. Установочные сборки подготовлены для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64, но доступны для загрузки только зарегистрированным пользователям Red Hat Customer Portal. Исходные тексты rpm-пакетов Red Hat Enterprise Linux 8 распространяются через Git-репозиторий CentOS. Ветка 8.x сопровождается параллельно с веткой RHEL 9.x и будет поддерживаться как минимум до 2029 года.
+https://www.opennet.ru/opennews/art.shtml?num=58091</description>
+    </item>
+    
+    <item>
+      <title>Опубликован прототип платформы ALP, идущей на смену SUSE Linux Enterprise</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-prototip-platformy-alp-iduschey-na-smenu-suse-linux-enterprise-20221005-123503/</link>
+      <pubDate>Wed, 05 Oct 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-prototip-platformy-alp-iduschey-na-smenu-suse-linux-enterprise-20221005-123503/</guid>
+      <description>Компания SUSE опубликовала первый прототип платформы ALP (Adaptable Linux Platform), позиционируемой как продолжение развития дистрибутива SUSE Linux Enterprise. Ключевым отличием новой системы является разделение базовой основы дистрибутива на две части: урезанную &amp;ldquo;host OS&amp;rdquo; для работы поверх оборудования и слой для поддержки приложений, ориентированный на запуск в контейнерах и виртуальных машинах. Сборки подготовлены для архитектуры x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=57872</description>
+    </item>
+    
+    <item>
+      <title>Доступны Oracle Linux 9 и ядро Unbreakable Enterprise Kernel 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-oracle-linux-9-i-yadro-unbreakable-enterprise-kernel-7-20220706-123503/</link>
+      <pubDate>Wed, 06 Jul 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-oracle-linux-9-i-yadro-unbreakable-enterprise-kernel-7-20220706-123503/</guid>
+      <description>Компания Oracle опубликовала стабильные выпуски дистрибутива Oracle Linux 9 и ядра Unbreakable Enterprise Kernel 7 (UEK R7), позиционируемого для использования в дистрибутиве Oracle Linux в качестве альтернативы штатному пакету с ядром из Red Hat Enterprise Linux. Дистрибутив Oracle Linux 9 создан на основе пакетной базы Red Hat Enterprise Linux 9 и полностью бинарно совместим с ней.
+https://www.opennet.ru/opennews/art.shtml?num=57460</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива EuroLinux 9.0, совместимого с Red Hat Enterprise Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-0-sovmestimogo-s-red-hat-enterprise-linux-20220615-113503/</link>
+      <pubDate>Wed, 15 Jun 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-0-sovmestimogo-s-red-hat-enterprise-linux-20220615-113503/</guid>
+      <description>Опубликован релиз дистрибутива EuroLinux 9.0, подготовленного путём пересборки исходных текстов пакетов дистрибутива Red Hat Enterprise Linux 9.0 и полностью бинарно совместимого с ним. Для загрузки подготовлены установочные образы, размером 6.5 ГБ (appstream) и 1.4 ГБ. Дистрибутив аналогичен по функциональности и добавленным новшествам с RHEL 9.0.
+https://www.opennet.ru/opennews/art.shtml?num=57360</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив SUSE Linux Enterprise 15 SP4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-suse-linux-enterprise-15-sp4-20220608-023502/</link>
+      <pubDate>Wed, 08 Jun 2022 02:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-suse-linux-enterprise-15-sp4-20220608-023502/</guid>
+      <description>После года разработки компания SUSE представила релиз дистрибутива SUSE Linux Enterprise 15 SP4. На основе платформы SUSE Linux Enterprise сформированы такие продукты, как SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, SUSE Manager и SUSE Linux Enterprise High Performance Computing. Дистрибутив можно загрузить и использовать бесплатно, но доступ к получению обновлений и исправлений ограничен 60-дневным пробным периодом. Выпуск доступен в сборках для архитектур aarch64, ppc64le, s390x и x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=57313</description>
+    </item>
+    
+    <item>
+      <title>Red Hat Enterprise Linux 9 доступен для загрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-enterprise-linux-9-dostupen-dlya-zagruzki-20220519-153503/</link>
+      <pubDate>Thu, 19 May 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-enterprise-linux-9-dostupen-dlya-zagruzki-20220519-153503/</guid>
+      <description>Компания Red Hat объявила о готовности для загрузки установочных образов и репозиториев дистрибутива Red Hat Enterprise Linux 9. О выходе новой ветки было официально объявлено неделю назад, но сборки опубликованы с небольшим запозданием. Исходные тексты rpm-пакетов Red Hat Enterprise Linux 9 размещены в Git-репозитории CentOS. Готовые установочные образы доступны только для зарегистрированных пользователей Red Hat Customer Portal, но для оценки функциональности также можно использовать iso-образы проекта CentOS Stream 9, который использован в качестве основы для построения RHEL 9.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 8.6 и бета-выпуск ядра Unbreakable Enterprise Kernel 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-6-i-beta-vypusk-yadra-unbreakable-enterprise-kernel-7-20220519-143502/</link>
+      <pubDate>Thu, 19 May 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-6-i-beta-vypusk-yadra-unbreakable-enterprise-kernel-7-20220519-143502/</guid>
+      <description>Компания Oracle опубликовала релиз дистрибутива Oracle Linux 8.6, созданного на основе пакетной базы Red Hat Enterprise Linux 8.6. Для загрузки без ограничений распространяется установочный iso-образ, размером 8.6 ГБ, подготовленный для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые модули Application Stream.
+https://www.opennet.ru/opennews/art.shtml?num=57215</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 8.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-6-20220512-013503/</link>
+      <pubDate>Thu, 12 May 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-6-20220512-013503/</guid>
+      <description>Следом за анонсом выпуска RHEL 9 компания Red Hat опубликовала релиз Red Hat Enterprise Linux 8.6. Установочные сборки подготовлены для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64, но доступны для загрузки только зарегистрированным пользователям Red Hat Customer Portal. Исходные тексты rpm-пакетов Red Hat Enterprise Linux 8 распространяются через Git-репозиторий CentOS. Ветка 8.x, которая будет поддерживаться как минимум до 2029 года, развивается в соответствии с циклом разработки, подразумевающим формирование релизов раз в полгода в заранее определённое время.</description>
+    </item>
+    
+    <item>
+      <title>Представлен дистрибутив Red Hat Enterprise Linux 9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-distributiv-red-hat-enterprise-linux-9-20220510-223503/</link>
+      <pubDate>Tue, 10 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-distributiv-red-hat-enterprise-linux-9-20220510-223503/</guid>
+      <description>Компания Red Hat представила релиз дистрибутива Red Hat Enterprise Linux 9. Готовые установочные образы станут в ближайшее время доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64). Исходные тексты rpm-пакетов Red Hat Enterprise Linux 9 размещены в Git-репозиторий CentOS.
+https://www.opennet.ru/opennews/art.shtml?num=57167</description>
+    </item>
+    
+  </channel>
+</rss>

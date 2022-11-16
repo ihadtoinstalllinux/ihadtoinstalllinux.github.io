@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Whisper on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/whisper/</link>
+    <description>Recent content in Whisper on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2022 22:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/whisper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт код системы распознавания и перевода речи Whisper</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-sistemy-raspoznavaniya-i-perevoda-rechi-whisper-20220925-223504/</link>
+      <pubDate>Sun, 25 Sep 2022 22:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-sistemy-raspoznavaniya-i-perevoda-rechi-whisper-20220925-223504/</guid>
+      <description>Проект OpenAI, занимающийся развитием общедоступных проектов в области искусственного интеллекта, опубликовал наработки, связанные с системой распознавания речи Whisper. В том числе открыт код эталонной реализации на базе фреймворка PyTorch и набор уже обученных моделей, готовых для использования. Код открыт под лицензией MIT. Утверждается, что для речи на английском языке система обеспечивает уровни надёжности и точности автоматического распознавания близкие к распознаванию человеком.
+https://www.opennet.ru/opennews/art.shtml?num=57812</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LeanQt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/leanqt/</link>
+    <description>Recent content in LeanQt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/leanqt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект LeanQt развивает урезанный форк Qt 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-leanqt-razvivaet-urezannyy-fork-qt-5-20220927-153502/</link>
+      <pubDate>Tue, 27 Sep 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-leanqt-razvivaet-urezannyy-fork-qt-5-20220927-153502/</guid>
+      <description>Проект LeanQt приступил к развитию урезанного ответвления от Qt 5, нацеленного на упрощение сборки из исходных текстов и интеграции с приложениями. LeanQt развивает Рохус Келлер (Rochus Keller), автор компилятора и среды разработки для языка Oberon, завязанных на Qt 5, с целью упрощения компиляции своего продукта с минимальным числом зависимостей, но с сохранением поддержки актуальных платформ. Код продолжает развиваться под лицензиями GPLv3, LGPLv2.1 и LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=57836</description>
+    </item>
+    
+  </channel>
+</rss>

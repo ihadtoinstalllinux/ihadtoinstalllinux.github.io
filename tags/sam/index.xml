@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sam on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sam/</link>
+    <description>Recent content in Sam on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 May 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux порт игрового движка Serious Sam Classic получил поддержку Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-port-igrovogo-dvizhka-serious-sam-classic-poluchil-podderzhku-vulkan-20220529-223503/</link>
+      <pubDate>Sun, 29 May 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-port-igrovogo-dvizhka-serious-sam-classic-poluchil-podderzhku-vulkan-20220529-223503/</guid>
+      <description>Опубликован игровой движок Serious Sam Classic 1.10 (зеркало), позволяющий запускать первую и вторую части шутера от первого лица Serious Sam на современных системах c поддержкой графического API Vulkan. Код оригинального движка Serious Engine был открыт компанией Croteam под лицензией GPL в 2016 году в честь пятнадцатилетия игры. При запуске можно использовать игровые ресурсы из оригинальной игры. За основу была взята реализация Vulkan для Windows-версии движка Serious Engine Vk и Serious Engine: Ray Traced.</description>
+    </item>
+    
+    <item>
+      <title>Игровой движок Serious Sam Classic актуализаирован для Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-serious-sam-classic-aktualizairovan-dlya-linux-20220516-153502/</link>
+      <pubDate>Mon, 16 May 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-serious-sam-classic-aktualizairovan-dlya-linux-20220516-153502/</guid>
+      <description>Опубликован игровой движок Serious Sam Classic 1.10 (зеркало), позволяющий запускать первую и вторую части шутера от первого лица Serious Sam на современных системах. Код оригинального движка Serious Engine был открыт компанией Croteam под лицензией GPL в 2016 году в честь пятнадцатилетия игры. При запуске можно использовать игровые ресурсы из оригинальной игры. Из изменений отмечается поддержка экранных режимов 16:9, 16:10 и 21:9, а также решение проблемы с таймером в 64-х разрядном режиме.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mozilla on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mozilla/</link>
+    <description>Recent content in Mozilla on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla создаёт свой венчурный фонд</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-sozdaet-svoy-venchurnyy-fond-20221103-183502/</link>
+      <pubDate>Thu, 03 Nov 2022 18:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-sozdaet-svoy-venchurnyy-fond-20221103-183502/</guid>
+      <description>Марк Сурман (Mark Surman), руководитель организации Mozilla Foundation, анонсировал создание венчурного фонда Mozilla Ventures, который будет заниматься инвестициями в стартапы, продвигающие продукты и технологии, соответствующие идеалам Mozilla и соответствующие манифесту Mozilla. Фонд начнёт действовать в первой половине 2023 года. Начальный размер инвестиций составит как минимум 35 млн долларов.
+https://www.opennet.ru/opennews/art.shtml?num=58038</description>
+    </item>
+    
+    <item>
+      <title>Децентрализованные идентификаторы будут стандартизированы, несмотря на возражения Google и Mozilla</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/decentralizovannye-identifikatory-budut-standartizirovany-nesmotrya-na-vozrazheniya-google-20220705-153503/</link>
+      <pubDate>Tue, 05 Jul 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/decentralizovannye-identifikatory-budut-standartizirovany-nesmotrya-na-vozrazheniya-google-20220705-153503/</guid>
+      <description>Тим Бернерс-Ли (Tim Berners-Lee) объявил о решении придать спецификации, определяющей децентрализованные идентификаторы для Web (DID, Decentralized Identifier), статус рекомендованного стандарта. Возражения, заявленные компаниями Google и Mozilla, отклонены.
+https://www.opennet.ru/opennews/art.shtml?num=57454</description>
+    </item>
+    
+    <item>
+      <title>Компания Mozilla опубликовала собственную систему машинного перевода </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-mozilla-opublikovala-sobstvennuyu-sistemu-mashinnogo-perevoda-20220602-233502/</link>
+      <pubDate>Thu, 02 Jun 2022 23:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-mozilla-opublikovala-sobstvennuyu-sistemu-mashinnogo-perevoda-20220602-233502/</guid>
+      <description>Компания Mozilla выпустила инструментарий для самодостаточного машинного перевода с одного языка на другой, работающий на локальной системе пользователя без обращения к внешним сервисам. Проект развивается в рамках инициативы Bergamot совместно с исследователями нескольких университетов Великобритании, Эстонии и Чехии при финансовой поддержке Евросоюза. Наработки распространяются под лицензией MPL 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=57292</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 101.0.1. Усиление требований Mozilla к удостоверяющим центрам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-usilenie-trebovaniy-mozilla-k-udostoveryayuschim-centram-20220517-003505/</link>
+      <pubDate>Tue, 17 May 2022 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-101-0-1-usilenie-trebovaniy-mozilla-k-udostoveryayuschim-centram-20220517-003505/</guid>
+      <description>Доступен корректирующий выпуск Firefox 101.0.1, примечательный усилением sandbox-изоляции на платформе Windows. В новой версии включена по умолчанию блокировка доступа к API Win32k (компоненты Win32 GUI, работающие на уровне ядра) из изолированных процессов обработки контента. Изменение внесено накануне соревнования Pwn2Own 2022, которое состоится 18-20 мая. Участники Pwn2Own продемонстрируют рабочие техники эксплуатации ранее неизвестных уязвимостей и в случае успеха получат внушительные вознаграждения. Например, размер премии за обход sandbox-изоляции в Firefox на платформе Windows составляет 100 тысяч долларов.</description>
+    </item>
+    
+    <item>
+      <title>Обновление голосовых данных Mozilla Common Voice 9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-9-0-20220429-003502/</link>
+      <pubDate>Fri, 29 Apr 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-9-0-20220429-003502/</guid>
+      <description>Компания Mozilla представила обновление наборов голосовых данных Common Voice, включающих примеры произношения около 200 тысяч человек. Данные опубликованы как общественное достояние (CC0). Предложенные наборы можно использовать в системах машинного обучения для построения моделей распознавания и синтеза речи.
+https://www.opennet.ru/opennews/art.shtml?num=57102</description>
+    </item>
+    
+    <item>
+      <title>Mozilla ввела в строй платный сервис MDN Plus</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-platnyy-servis-mdn-plus-20220325-153502/</link>
+      <pubDate>Fri, 25 Mar 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-platnyy-servis-mdn-plus-20220325-153502/</guid>
+      <description>Компания Mozilla объявила о запуске нового платного сервиса MDN Plus, который дополнит такие коммерческие инициативы, как Mozilla VPN и Firefox Relay Premium. MDN Plus представляет собой расширенный вариант сайта MDN (Mozilla Developer Network), на котором формируется коллекция документации для web-разработчиков, охватывающая поддерживаемые в современных браузерах технологии, включая JavaScript, CSS, HTML и различные Web API.
+https://www.opennet.ru/opennews/art.shtml?num=56910</description>
+    </item>
+    
+    <item>
+      <title>Mozilla внедряет идентификаторы в загружаемые установочные файлы Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vnedryaet-identifikatory-v-zagruzhaemye-ustanovochnye-fayly-firefox-20220318-153502/</link>
+      <pubDate>Fri, 18 Mar 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vnedryaet-identifikatory-v-zagruzhaemye-ustanovochnye-fayly-firefox-20220318-153502/</guid>
+      <description>Компания Mozilla начала применять новый метод идентификации установок браузера. В распространяемые с официального сайта сборки, поставляемые в форме exe-файлов для платформы Windows, подставляются идентификаторы dltoken, уникальные для каждой загрузки. Соответственно, совершенные последовательно несколько загрузок установочного архива для одной и той же платформы приводит к загрузке файлов с разными контрольными суммами, так как идентификаторы добавляются непосредственно в загружаемый файл.
+https://www.opennet.ru/opennews/art.shtml?num=56871</description>
+    </item>
+    
+    <item>
+      <title>Google, Mozilla, Apple выступили с инициативой повышения совместимости между web-браузерами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-mozilla-apple-vystupili-s-iniciativoy-povysheniya-sovmestimosti-mezhdu-web-brauzera-20220304-173502/</link>
+      <pubDate>Fri, 04 Mar 2022 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-mozilla-apple-vystupili-s-iniciativoy-povysheniya-sovmestimosti-mezhdu-web-brauzera-20220304-173502/</guid>
+      <description>Компании Google, Mozilla, Apple, Microsoft, Bocoup и Igalia скооперировались для решения проблем с совместимостью в браузерах, обеспечения более согласованной поддержки web-технологий и унификации работы элементов, влияющих на внешних вид и поведение сайтов и web-приложений. Основной целью инициативы является достижение одинакового внешнего вида и поведения сайтов, независимо от браузера и операционной системы, - web-платформа должна быть целостной и разработчики должны уделять внимание созданию web-приложений, а не поиску путей обхода тех или иных несовместимостей между браузерами.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla введёт в строй MDN Plus, платный сервис с документацией для web-разработчиков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvedet-v-stroy-mdn-plus-platnyy-servis-s-dokumentaciey-dlya-web-razrabotchikov-20220220-113503/</link>
+      <pubDate>Sun, 20 Feb 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvedet-v-stroy-mdn-plus-platnyy-servis-s-dokumentaciey-dlya-web-razrabotchikov-20220220-113503/</guid>
+      <description>В рамках инициативы по диверсификации источников дохода и снижению зависимости от средств, получаемых за счёт контрактов с поисковыми системами, компания Mozilla готовит к запуску новый платный сервис MDN Plus, который дополнит такие коммерческие инициативы, как Mozilla VPN и Firefox Relay Premium. Новый сервис планируют запустить 9 марта. Стоимость подписки составит 10 долларов в месяц или 100 долларов в год.
+https://www.opennet.ru/opennews/art.shtml?num=56730</description>
+    </item>
+    
+    <item>
+      <title>Mozilla развивает механизм передачи телеметрии рекламным сетям, обеспечивающий конфиденциальность </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-razvivaet-mehanizm-peredachi-telemetrii-reklamnym-setyam-obespechivayuschiy-konfid-20220211-123503/</link>
+      <pubDate>Fri, 11 Feb 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-razvivaet-mehanizm-peredachi-telemetrii-reklamnym-setyam-obespechivayuschiy-konfid-20220211-123503/</guid>
+      <description>Mozilla совместно с Facebook работает над реализацией технологии IPA (Interoperable Private Attribution), дающей возможность рекламным сетям получать и обрабатывать статистику об эффективности рекламных кампаний, соблюдая при этом конфиденциальность пользователей. Для обработки статистики без раскрытия данных о конкретных пользователях применяются криптографических механизмы дифференциальной приватности и многосторонних конфиденциальных вычислений (MPC, Multi-Party Computation), позволяющие нескольким независимым участникам производить вычисления не получая информации о чужих данных (web-сайты, браузеры и рекламодатели по отдельности не имеют доступ ко всей информации) и выполняя операции над зашифрованными данными.</description>
+    </item>
+    
+    <item>
+      <title>Обновление голосовых данных Mozilla Common Voice 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-8-0-20220131-113502/</link>
+      <pubDate>Mon, 31 Jan 2022 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-8-0-20220131-113502/</guid>
+      <description>Компания Mozilla представила обновление наборов голосовых данных Common Voice, включающих примеры произношения около 200 тысяч людей. Данные опубликованы как общественное достояние (CC0). Предложенные наборы можно использовать в системах машинного обучения для построения моделей распознавания и синтеза речи. По сравнению с прошлым обновлением объём речевого материала в коллекции увеличился на 30% - с 13.9 до 18.2 тысяч часов речи. Число поддерживаемых языков возросло с 67 до 87.
+https://www.opennet.ru/opennews/art.shtml?num=56608</description>
+    </item>
+    
+  </channel>
+</rss>

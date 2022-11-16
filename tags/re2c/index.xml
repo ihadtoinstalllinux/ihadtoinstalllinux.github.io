@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>re2c on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/re2c/</link>
+    <description>Recent content in re2c on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jan 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/re2c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Выпуск генератора лексических анализаторов re2c 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-generatora-leksicheskih-analizatorov-re2c-3-0-20220128-113503/</link>
+      <pubDate>Fri, 28 Jan 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-generatora-leksicheskih-analizatorov-re2c-3-0-20220128-113503/</guid>
+      <description>Состоялся релиз re2c 3.0, свободного генератора лексических анализаторов для языков C, C++, Go и добавленного в этом релизе языка Rust. Для поддержки Rust пришлось использовать другую модель кодогенерации, где конечный автомат представлен в виде цикла и переменной-состояния, а не в виде меток и переходов (поскольку в Rust нет goto, в отличие от С, С++ и Go).
+https://www.opennet.ru/opennews/art.shtml?num=56596</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Glibc on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/glibc/</link>
+    <description>Recent content in Glibc on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.36</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-36-20220802-153503/</link>
+      <pubDate>Tue, 02 Aug 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-36-20220802-153503/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.36, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 59 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=57585</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.35</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-35-20220203-203503/</link>
+      <pubDate>Thu, 03 Feb 2022 20:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-35-20220203-203503/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.35, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 66 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=56631</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в OpenSSL, Glibc, util-linux,  драйверах i915 и vmwgfx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-openssl-glibc-util-linux-drayverah-i915-i-vmwgfx-20220129-143502/</link>
+      <pubDate>Sat, 29 Jan 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-openssl-glibc-util-linux-drayverah-i915-i-vmwgfx-20220129-143502/</guid>
+      <description>Раскрыта информация об уязвимости (CVE-2021-4160) в криптографической библиотеке OpenSSL, вызванной ошибкой в реализации сумматора в функции BN_mod_exp, приводящей к возвращению неверного результата операции возведения в квадрат. Проблема проявляется только на оборудовании на базе архитектур MIPS32 и MIPS64, и может привести к компрометации алгоритмов на базе эллиптических кривых, включая используемые по умолчанию в TLS 1.3. Проблема устранена в декабрьских обновлениях OpenSSL 1.1.1m и 3.0.1.
+https://www.opennet.ru/opennews/art.shtml?num=56604</description>
+    </item>
+    
+  </channel>
+</rss>
