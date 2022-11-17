@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MIT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mit/</link>
+    <description>Recent content in MIT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Samba и MIT/Heimdal Kerberos, приводящая к переполнению буфера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-samba-i-mit-heimdal-kerberos-privodyaschaya-k-perepolneniyu-bufera-20221117-153503/</link>
+      <pubDate>Thu, 17 Nov 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-samba-i-mit-heimdal-kerberos-privodyaschaya-k-perepolneniyu-bufera-20221117-153503/</guid>
+      <description>Опубликованы корректирующие выпуски пакета Samba 4.17.3, 4.16.7 и 4.15.12 с устранением уязвимости (CVE-2022-42898) в библиотеках Kerberos, приводящей к целочисленному переполнению и записи данных за пределы выделенного буфера при обработке параметров PAC (Privileged Attribute Certificate), отправленных аутентифицированным пользователем. Публикацию обновлений пакетов в дистрибутивах можно проследить на страницах: Debian, Ubuntu, Gentoo, RHEL, SUSE, Arch, FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=58135</description>
+    </item>
+    
+  </channel>
+</rss>
