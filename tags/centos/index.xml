@@ -6,7 +6,16 @@
     <description>Recent content in CentOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 8.7, развиваемого основателем CentOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-7-razvivaemogo-osnovatelem-centos-20221117-133503/</link>
+      <pubDate>Thu, 17 Nov 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-7-razvivaemogo-osnovatelem-centos-20221117-133503/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 8.7, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS, после того как компания Red Hat досрочно прекратила поддержку ветки CentOS 8 в конце 2021 года, а не в 2029 году, как предполагалось изначально. Это третий стабильный релиз проекта, признанный готовым для рабочих внедрений. Сборки Rocky Linux подготовлены для архитектур x86_64 и aarch64. Дополнительно формируются сборки для облачных окружений Oracle Cloud Platform (OCP).</description>
+    </item>
+    
     <item>
       <title>Доступен дистрибутив AlmaLinux 8.7, продолжающий развитие CentOS 8 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-7-prodolzhayuschiy-razvitie-centos-8-20221111-153503/</link>
