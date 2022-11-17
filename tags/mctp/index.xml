@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MCTP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mctp/</link>
+    <description>Recent content in MCTP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mctp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в реализации протокола MCTP для Linux, позволяющая повысить свои привилегии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizacii-protokola-mctp-dlya-linux-pozvolyayuschaya-povysit-svoi-privilegii-20221117-163502/</link>
+      <pubDate>Thu, 17 Nov 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizacii-protokola-mctp-dlya-linux-pozvolyayuschaya-povysit-svoi-privilegii-20221117-163502/</guid>
+      <description>В ядре Linux выявлена уязвимость (CVE-2022-3977), которая потенциально может использоваться локальным пользователем для повышения своих привилегии в системе. Уязвимость проявляется начиная с ядра 5.18 и устранена в ветке 6.1. Появление исправления в дистрибутивах можно проследить на страницах: Debian, Ubuntu, Gentoo, RHEL, SUSE, Arch.
+https://www.opennet.ru/opennews/art.shtml?num=58136</description>
+    </item>
+    
+  </channel>
+</rss>
