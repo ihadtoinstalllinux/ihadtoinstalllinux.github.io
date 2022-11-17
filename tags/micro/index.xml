@@ -6,7 +6,16 @@
     <description>Recent content in Micro on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2022 23:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен дистрибутив openSUSE Leap Micro 5.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-3-20221117-213503/</link>
+      <pubDate>Thu, 17 Nov 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-3-20221117-213503/</guid>
+      <description>Разработчики проекта openSUSE опубликовали атомарно обновляемый дистрибутив openSUSE Leap Micro 5.3, предназначенный для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны сборки для архитектур x86_64 и ARM64 (Aarch64), поставляемые как с инсталлятором (Offline-сборки, размером 1.9 ГБ), так и в форме готовых загрузочных образов: 782МБ (преднастроенный), 969МБ (с Real-Time ядром) и 1.1ГБ. Образы могут запускаться под управлением гипервизоров Xen и KVM или поверх оборудования, включая платы Raspberry Pi.</description>
+    </item>
+    
     <item>
       <title>Первый выпуск дистрибутива openSUSE Leap Micro</title>
       <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-distributiva-opensuse-leap-micro-20220518-233502/</link>
