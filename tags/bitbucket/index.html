@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в Bitbucket Server, приводящая к выполнению кода на сервере 
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В Bitbucket Server, пакете для развёртывания web-интерфейса для работы с git-репозиториями, выявлена критическая уязвимость (CVE-2022-43781), позволяющая удалённому атакующему добиться выполнения кода на сервере. Уязвимость может быть эксплуатирована неутентифицированным пользователем, если на сервере разрешена самостоятельная регистрация (включена настройка “Allow public signup”). Эксплуатация также возможна аутентифицированным пользователем у которого есть права на изменение имени пользователя (т.е. есть полномочия ADMIN или SYS_ADMIN). Детали пока не приводится, известно только то, что проблема вызвана возможностью подстановки команд через переменные окружения....</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-11-19 13:35:03 +0500 +05'>November 19, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в Bitbucket Server, приводящая к выполнению кода на сервере " href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-privodyaschaya-k-vypolneniyu-koda-na-servere-20221119-133503/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Уязвимость в Bitbucket Server, позволяющая выполнить код на сервере
     </h2>
   </header>

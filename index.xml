@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A0jOizw2K3c.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221119-133547/</link>
+      <pubDate>Sat, 19 Nov 2022 13:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221119-133547/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Bitbucket Server, приводящая к выполнению кода на сервере </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-privodyaschaya-k-vypolneniyu-koda-na-servere-20221119-133503/</link>
+      <pubDate>Sat, 19 Nov 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-privodyaschaya-k-vypolneniyu-koda-na-servere-20221119-133503/</guid>
+      <description>В Bitbucket Server, пакете для развёртывания web-интерфейса для работы с git-репозиториями, выявлена критическая уязвимость (CVE-2022-43781), позволяющая удалённому атакующему добиться выполнения кода на сервере. Уязвимость может быть эксплуатирована неутентифицированным пользователем, если на сервере разрешена самостоятельная регистрация (включена настройка &amp;ldquo;Allow public signup&amp;rdquo;). Эксплуатация также возможна аутентифицированным пользователем у которого есть права на изменение имени пользователя (т.е. есть полномочия ADMIN или SYS_ADMIN). Детали пока не приводится, известно только то, что проблема вызвана возможностью подстановки команд через переменные окружения.</description>
+    </item>
+    
     <item>
       <title>Выпуск labwc 0.6, композитного сервера для Wayland </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-6-kompozitnogo-servera-dlya-wayland-20221119-123503/</link>
