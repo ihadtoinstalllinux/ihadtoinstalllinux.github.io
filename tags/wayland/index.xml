@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск labwc 0.6, композитного сервера для Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-6-kompozitnogo-servera-dlya-wayland-20221119-123503/</link>
+      <pubDate>Sat, 19 Nov 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-6-kompozitnogo-servera-dlya-wayland-20221119-123503/</guid>
+      <description>Доступен выпуск проекта labwc 0.6 (Lab Wayland Compositor), развивающего композитный сервер для Wayland с возможностями, напоминающими оконный менеджер Openbox (проект преподносится как попытка создания альтернативы Openbox для Wayland). Из особенностей labwc называется минимализм, компактная реализация, широкие возможности настройки и высокая производительность. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=58150</description>
+    </item>
+    
     <item>
       <title>Для Haiku реализована прослойка для совместимости с Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dlya-haiku-realizovana-prosloyka-dlya-sovmestimosti-s-wayland-20221031-193503/</link>
