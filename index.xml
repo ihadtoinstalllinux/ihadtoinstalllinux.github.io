@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micron опубликовал движок хранения HSE 3.0, оптимизированный для SSD-накопителей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/micron-opublikoval-dvizhok-hraneniya-hse-3-0-optimizirovannyy-dlya-ssd-nakopiteley-20221122-013503/</link>
+      <pubDate>Tue, 22 Nov 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/micron-opublikoval-dvizhok-hraneniya-hse-3-0-optimizirovannyy-dlya-ssd-nakopiteley-20221122-013503/</guid>
+      <description>Компания Micron Technology, специализирующаяся на производстве DRAM и флеш-памяти, опубликовала выпуск движка хранения HSE 3.0 (Heterogeneous-memory Storage Engine), разработанный с учётом специфики использования на SSD-накопителях и постоянной памяти (NVDIMM). Движок выполнен в форме библиотеки для встраивания в другие приложения и поддерживает обработку данных в формате ключ-значение. Код HSE написан на языке Си и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58165</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Oracle Linux 8.7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-7-20221122-003504/</link>
