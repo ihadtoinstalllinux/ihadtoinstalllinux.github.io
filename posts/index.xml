@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Wayland добавлена возможность отключения вертикальной синхронизации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-wayland-dobavlena-vozmozhnost-otklyucheniya-vertikalnoy-sinhronizacii-20221121-153503/</link>
+      <pubDate>Mon, 21 Nov 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-wayland-dobavlena-vozmozhnost-otklyucheniya-vertikalnoy-sinhronizacii-20221121-153503/</guid>
+      <description>В состав набора wayland-protocols добавлено расширение tearing-control, дополняющее базовый протокол Wayland возможностью отключения вертикальной синхронизации (VSync) с кадровым гасящим импульсом, применяемой для защиты от появления разрывов при выводе (tearing). В мультимедийных приложениях появление артефактов из-за разрывов является нежелательным эффектом, но в игровых программах с артефактами можно смириться, если борьба с ними приводит к дополнительным задержкам. Реализации расширения, позволяющие добиться минимальных задержек вывода в играх в окружениях на базе Wayland, подготовлены для Kwin, Gamescope и Mesa.</description>
+    </item>
+    
     <item>
       <title>Открыта регистрация на конференцию PGConf.Russia 2023</title>
       <link>https://ihadtoinstalllinux.github.io/posts/otkryta-registraciya-na-konferenciyu-pgconf-russia-2023-20221121-143502/</link>
