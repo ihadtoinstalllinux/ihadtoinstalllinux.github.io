@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 21:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 22:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QiYdWR3QWAU.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221122-223527/</link>
+      <pubDate>Tue, 22 Nov 2022 22:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221122-223527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релиз минималистичного дистрибутива Alpine Linux 3.17</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-17-20221122-223503/</link>
+      <pubDate>Tue, 22 Nov 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-17-20221122-223503/</guid>
+      <description>Доступен релиз Alpine Linux 3.17, минималистичного дистрибутива, построенного на базе системной библиотеки Musl и набора утилит BusyBox. Дистрибутив отличается повышенными требованиями к обеспечению безопасности и собран с защитой SSP (Stack Smashing Protection). В качестве системы инициализации используется OpenRC, для управления пакетами применяется собственный пакетный менеджер apk. Alpine применяется для формирования официальных образов контейнеров Docker. Загрузочные iso-образы (x86_64, x86, armhf, aarch64, armv7, ppc64le, s390x) подготовлены в пяти вариантах: стандартном (166 МБ), с ядром без патчей (170 МБ), расширенном (774 МБ) и для виртуальных машин (49 МБ).</description>
+    </item>
+    
     <item>
       <title>В рознице появятся ноутбуки IRBIS под ОС Astra Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-roznice-poyavyatsya-noutbuki-irbis-pod-os-astra-linux-20221122-213550/</link>
