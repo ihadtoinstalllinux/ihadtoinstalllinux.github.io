@@ -6,7 +6,17 @@
     <description>Recent content in Tails on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Tails 5.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-7-20221123-003503/</link>
+      <pubDate>Wed, 23 Nov 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-7-20221123-003503/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.7 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=58175</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Tails 5.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-5-20221018-013502/</link>
