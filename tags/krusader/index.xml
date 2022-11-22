@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Krusader on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/krusader/</link>
+    <description>Recent content in Krusader on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/krusader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск двухпанельного файлового менеджера Krusader 2.8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dvuhpanelnogo-faylovogo-menedzhera-krusader-2-8-0-20221122-123502/</link>
+      <pubDate>Tue, 22 Nov 2022 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dvuhpanelnogo-faylovogo-menedzhera-krusader-2-8-0-20221122-123502/</guid>
+      <description>После четырёх с половиной лет разработки опубликован релиз двухпанельного файлового менеджера Кrusader 2.8.0, построенного с использованием Qt, технологий KDE и библиотек KDE Frameworks. В Кrusader имеется поддержка архивов (ace, arj, bzip2, gzip, iso, lha, rar, rpm, tar, zip, 7zip), проверки контрольных сумм (md5, sha1, sha256-512, crc и т.п.), обращения к внешним ресурсам (FTP, SAMBA, SFTP, SCP) и функции массового переименования по маске. Присутствуют встроенные менеджер для монтирования разделов, эмулятор терминала, текстовый редактор и просмотрщик содержимого файлов.</description>
+    </item>
+    
+  </channel>
+</rss>
