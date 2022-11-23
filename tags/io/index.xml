@@ -6,7 +6,17 @@
     <description>Recent content in io on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 16:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 21:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в подсистеме io_uring, приводящая к повышению привилегий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-privodyaschaya-k-povysheniyu-privilegiy-20221123-213503/</link>
+      <pubDate>Wed, 23 Nov 2022 21:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-privodyaschaya-k-povysheniyu-privilegiy-20221123-213503/</guid>
+      <description>В реализации интерфейса асинхронного ввода/вывода io_uring, входящего в ядро Linux начиная с выпуска 5.1, выявлена уязвимость (CVE-2022-3910), позволяющая непривилегированному пользователю выполнить код с привилегиями ядра. Проблема проявляется в выпусках 5.18 и 5.19, и устранена в ветке 6.0.
+https://www.opennet.ru/opennews/art.shtml?num=58181</description>
+    </item>
+    
     <item>
       <title>Уязвимость в подсистеме io_uring ядра Linux, позволяющая повысить привилегии в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-povysit-privilegii-v-sisteme-20221019-163504/</link>
