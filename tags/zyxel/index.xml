@@ -6,7 +6,17 @@
     <description>Recent content in Zyxel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2022 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zyxel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zyxel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Zyxel LTE3301-M209, допускающая доступ через предопределённый пароль</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-zyxel-lte3301-m209-dopuskayuschaya-dostup-cherez-predopredelennyy-parol-20221123-143502/</link>
+      <pubDate>Wed, 23 Nov 2022 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-zyxel-lte3301-m209-dopuskayuschaya-dostup-cherez-predopredelennyy-parol-20221123-143502/</guid>
+      <description>В устройствах Zyxel LTE3301-M209, сочетающих функции беспроводного маршрутизатора и 4G-модема, выявлена проблема с безопасностью (CVE-2022-40602), связанная с возможностью получения доступа с заранее известным паролем, присутствующим в прошивке. Проблема позволяет удалённому атакующему получить права администратора на устройстве, в случае если в настройках включена функция удалённого администрирования. Появление уязвимости объясняется использованием инженерного пароля в коде, разработкой которого занимался сторонний поставщик.
+https://www.opennet.ru/opennews/art.shtml?num=58179</description>
+    </item>
+    
     <item>
       <title>Уязвимость в межсетевых экранах Zyxel, позволяющая выполнить код без аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-mezhsetevyh-ekranah-zyxel-pozvolyayuschaya-vypolnit-kod-bez-autentifikacii-20220513-163503/</link>
