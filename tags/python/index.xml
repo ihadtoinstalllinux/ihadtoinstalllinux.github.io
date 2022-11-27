@@ -6,7 +6,16 @@
     <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Nuitka 1.2, компилятора для языка Python </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-2-kompilyatora-dlya-yazyka-python-20221127-103503/</link>
+      <pubDate>Sun, 27 Nov 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-2-kompilyatora-dlya-yazyka-python-20221127-103503/</guid>
+      <description>Доступен выпуск проекта Nuitka 1.2, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.10. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
     <item>
       <title>Выпуск Brython 3.11, реализации языка Python для web-браузеров</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-brython-3-11-realizacii-yazyka-python-dlya-web-brauzerov-20221025-153503/</link>
