@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Nov 2022 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Linux-окружении для Apple M2 продемонстрирована работа KDE и GNOME с поддержкой GPU-ускорения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-linux-okruzhenii-dlya-apple-m2-prodemonstrirovana-rabota-kde-i-gnome-s-podderzhkoy-gpu-u-20221127-143503/</link>
+      <pubDate>Sun, 27 Nov 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-linux-okruzhenii-dlya-apple-m2-prodemonstrirovana-rabota-kde-i-gnome-s-podderzhkoy-gpu-u-20221127-143503/</guid>
+      <description>Разработчик открытого Linux-драйвера для GPU Apple AGX сообщил о реализации поддержки чипов Apple M2 и об успешном запуске на Apple MacBook Air с чипом M2 пользовательских окружений KDE и GNOME с полной поддержкой ускорения силами GPU. В качестве примера поддержки OpenGL на M2 продемонстрирован запуск игры Xonotic, одновременно c тестами glmark2 и eglgears. При тестировании энергопотребления заряда аккумулятора MacBook Air хватило на 8 часов непрерывной игры Xonotic в режиме 60FPS.</description>
+    </item>
+    
     <item>
       <title>tWchK-yM91A.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221127-133547/</link>
