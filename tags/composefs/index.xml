@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Composefs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/composefs/</link>
+    <description>Recent content in Composefs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Nov 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/composefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Linux предложена файловая система Composefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-linux-predlozhena-faylovaya-sistema-composefs-20221129-013503/</link>
+      <pubDate>Tue, 29 Nov 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-linux-predlozhena-faylovaya-sistema-composefs-20221129-013503/</guid>
+      <description>Александр Ларсон (Alexander Larsson), создатель Flatpak, работающий в компании Red Hat, представил предварительный вариант патчей с реализацией файловой системы Composefs для ядра Linux. Предложенная файловая система напоминает Squashfs и также подходит для монтирования образов в режиме только для чтения. Отличия сводятся к обеспечению в Composefs эффективного совместного хранения содержимого нескольких примонтированных дисковых образов и поддержке проверки подлинности читаемых данных. В качестве областей применения, в которых может оказаться востребована ФС Composefs, называется монтирование образов контейнеров и применение для Git-подобного репозитория OSTree.</description>
+    </item>
+    
+  </channel>
+</rss>
