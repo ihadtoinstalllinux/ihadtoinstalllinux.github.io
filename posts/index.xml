@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск qBittorrent 4.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-qbittorrent-4-5-20221128-123503/</link>
+      <pubDate>Mon, 28 Nov 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-qbittorrent-4-5-20221128-123503/</guid>
+      <description>Вышла версия торрент-клиента qBittorrent 4.5, написанного с использованием тулкита Qt и развиваемого в качестве открытой альтернативы µTorrent, приближенной к нему по интерфейсу и функциональности. Среди возможностей qBittorrent: интегрированный поисковый движок, возможность подписки на RSS, поддержка многих BEP-расширений, удалённое управление через web-интерфейс, режим последовательной загрузки в заданном порядке, расширенные настройки для торрентов, пиров и трекеров, планировщик пропускной способности и IP-фильтр, интерфейс для создания торрентов, поддержка UPnP и NAT-PMP. Код проекта написан на языке С++ и распространяется под лицензией GPLv2+.</description>
+    </item>
+    
     <item>
       <title>Релиз дистрибутива Rocky Linux 9.1, развиваемого основателем CentOS </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-1-razvivaemogo-osnovatelem-centos-20221128-113503/</link>
