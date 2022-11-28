@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RGB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rgb/</link>
+    <description>Recent content in RGB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Nov 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rgb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OpenRGB 0.8, инструментария для управления RGB-подсветкой периферийных устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openrgb-0-8-instrumentariya-dlya-upravleniya-rgb-podsvetkoy-periferiynyh-ustroystv-20221128-193502/</link>
+      <pubDate>Mon, 28 Nov 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openrgb-0-8-instrumentariya-dlya-upravleniya-rgb-podsvetkoy-periferiynyh-ustroystv-20221128-193502/</guid>
+      <description>После почти года разработки опубликован новый выпуск OpenRGB 0.8, открытого инструментария для управления RGB-подсветкой периферийных устройств. Пакет поддерживает материнские платы ASUS, Gigabyte, ASRock и MSI с RGB-подсистемой для подсветки корпуса, модули памяти с подсветкой от ASUS, Patriot, Corsair и HyperX, графические карты ASUS Aura/ROG, MSI GeForce, Sapphire Nitro и Gigabyte Aorus, различные контроллеры светодиодных лент (ThermalTake, Corsair, NZXT Hue+), светящиеся кулеры, мыши, клавиатуры, наушники и аксессуары Razer с подсветкой. Информация о протоколе взаимодействия с устройствами в основном получена через проведение обратного инжиниринга проприетарных драйверов и приложений.</description>
+    </item>
+    
+  </channel>
+</rss>
