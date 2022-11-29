@@ -6,7 +6,17 @@
     <description>Recent content in x86 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openSUSE Tumbleweed прекращает поддержку архитектур i586 и x86-64-v1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opensuse-tumbleweed-prekraschaet-podderzhku-arhitektur-i586-i-x86-64-v1-20221129-193502/</link>
+      <pubDate>Tue, 29 Nov 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opensuse-tumbleweed-prekraschaet-podderzhku-arhitektur-i586-i-x86-64-v1-20221129-193502/</guid>
+      <description>Разработчики проекта openSUSE объявили о повышении требований к оборудованию в репозитории openSUSE Factory и собираемом на его основе дистрибутиве openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). Сборка пакетов в Factory будет осуществляться для архитектуры x86-64-v2, а поддержка архитектур x86-64-v1 и i586 будет упразднена.
+https://www.opennet.ru/opennews/art.shtml?num=58217</description>
+    </item>
+    
     <item>
       <title>Новые версии эмуляторов Box86 и Box64, позволяющих запускать x86-игры на системах ARM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-emulyatorov-box86-i-box64-pozvolyayuschih-zapuskat-x86-igry-na-sistemah-arm-20220418-173502/</link>

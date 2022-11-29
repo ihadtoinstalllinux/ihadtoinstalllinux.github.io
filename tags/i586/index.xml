@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>i586 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/i586/</link>
+    <description>Recent content in i586 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Nov 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/i586/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openSUSE Tumbleweed прекращает поддержку архитектур i586 и x86-64-v1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opensuse-tumbleweed-prekraschaet-podderzhku-arhitektur-i586-i-x86-64-v1-20221129-193502/</link>
+      <pubDate>Tue, 29 Nov 2022 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opensuse-tumbleweed-prekraschaet-podderzhku-arhitektur-i586-i-x86-64-v1-20221129-193502/</guid>
+      <description>Разработчики проекта openSUSE объявили о повышении требований к оборудованию в репозитории openSUSE Factory и собираемом на его основе дистрибутиве openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). Сборка пакетов в Factory будет осуществляться для архитектуры x86-64-v2, а поддержка архитектур x86-64-v1 и i586 будет упразднена.
+https://www.opennet.ru/opennews/art.shtml?num=58217</description>
+    </item>
+    
+  </channel>
+</rss>
