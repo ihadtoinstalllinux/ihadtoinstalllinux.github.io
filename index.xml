@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 01:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро Linux 6.2 войдёт подсистема для ускорителей вычислений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-2-voydet-podsistema-dlya-uskoriteley-vychisleniy-20221202-023503/</link>
+      <pubDate>Fri, 02 Dec 2022 02:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-2-voydet-podsistema-dlya-uskoriteley-vychisleniy-20221202-023503/</guid>
+      <description>В ветку DRM-Next, которая намечена для включения в ядро Linux 6.2, принят код новой подсистемы &amp;ldquo;accel&amp;rdquo; с реализацией фреймворка для ускорителей вычислений. Данная подсистема построена на основе DRM/KMS, поскольку разработчиками уже было произведено расщепление представления GPU на составные части, включающие в себя достаточно независимые аспекты &amp;ldquo;вывод графики&amp;rdquo; и &amp;ldquo;вычисления&amp;rdquo;, так что подсистема уже могла работать с контроллерами дисплея не имеющими блока вычислений, равно как и с блоками вычислений не имеющими своего контроллера дисплея, как, например, GPU ARM Mali, который является по сути акселератором.</description>
+    </item>
+    
     <item>
       <title>3uuEPpIus9Q.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221202-013526/</link>
