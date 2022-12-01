@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ping on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ping/</link>
+    <description>Recent content in ping on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 13:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</link>
+      <pubDate>Thu, 01 Dec 2022 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</guid>
+      <description>Во FreeBSD выявлена уязвимость (CVE-2022-23093) в утилите ping, входящей в базовую поставку. Проблема потенциально может привести к удалённому выполнению кода с правами root при проверке при помощи ping внешнего хоста, подконтрольного злоумышленнику. Исправление предложено в обновлениях FreeBSD 13.1-RELEASE-p5, 12.4-RC2-p2 и 12.3-RELEASE-p10. Подвержены ли другие BSD-системы выявленной уязвимости пока не ясно (отчётов об уязвимости в NetBSD, DragonFlyBSD и OpenBSD пока не появилось).
+https://www.opennet.ru/opennews/art.shtml?num=58232</description>
+    </item>
+    
+  </channel>
+</rss>

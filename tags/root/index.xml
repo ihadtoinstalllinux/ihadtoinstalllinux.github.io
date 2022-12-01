@@ -6,7 +6,17 @@
     <description>Recent content in root on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 13:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</link>
+      <pubDate>Thu, 01 Dec 2022 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</guid>
+      <description>Во FreeBSD выявлена уязвимость (CVE-2022-23093) в утилите ping, входящей в базовую поставку. Проблема потенциально может привести к удалённому выполнению кода с правами root при проверке при помощи ping внешнего хоста, подконтрольного злоумышленнику. Исправление предложено в обновлениях FreeBSD 13.1-RELEASE-p5, 12.4-RC2-p2 и 12.3-RELEASE-p10. Подвержены ли другие BSD-системы выявленной уязвимости пока не ясно (отчётов об уязвимости в NetBSD, DragonFlyBSD и OpenBSD пока не появилось).
+https://www.opennet.ru/opennews/art.shtml?num=58232</description>
+    </item>
+    
     <item>
       <title>Уязвимость в драйвере NTFS-3G, потенциально позволяющая выполнить код с правами root </title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-drayvere-ntfs-3g-potencialno-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20221031-233503/</link>
