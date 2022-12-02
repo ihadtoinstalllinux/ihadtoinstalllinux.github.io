@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Root-уязвимость в инструментарии управления пакетами Snap
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Компания Qualys выявила третью в этому году опасную уязвимость (CVE-2022-3328) в утилите snap-confine, поставляемой с флагом SUID root и вызываемой процессом snapd для формирования исполняемого окружения для приложений, распространяемых в самодостаточных пакетах в формате snap. Уязвимость позволяет локальному непривилегированному пользователю добиться выполнения кода с правами root в конфигурации Ubuntu по умолчанию. Проблема устранена в выпуске snapd 2.57.6. Обновления пакетов выпущены для всех поддерживаемых веток Ubuntu.
+https://www.opennet.ru/opennews/art.shtml?num=58242</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-12-02 17:35:05 +0500 +05'>December 2, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Root-уязвимость в инструментарии управления пакетами Snap" href="https://ihadtoinstalllinux.github.io/posts/root-uyazvimost-v-instrumentarii-upravleniya-paketami-snap-20221202-173505/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD
     </h2>
   </header>
@@ -187,19 +200,6 @@ https://www.opennet.ru/opennews/art.shtml?num=57607</p>
   </section>
   <footer class="entry-footer"><span title='2022-08-07 13:35:03 +0500 +05'>August 7, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Уязвимость в подсистеме io_uring ядра Linux, позволяющая получить права root из контейнера" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-yadra-linux-pozvolyayuschaya-poluchit-prava-root-iz-konte-20220807-133503/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Уязвимость в firejail, позволяющая получить root-доступ в системе
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>В утилите для изолированного выполнения приложений Firejail выявлена уязвимость (CVE-2022-31214), позволяющая локальному пользователю получить права root в основной системе. В открытом доступе имеется рабочий эксплоит, проверенный в актуальных выпусках openSUSE, Debian, Arch, Gentoo и Fedora с установленной утилитой firejail. Проблема устранена в выпуске firejail 0.9.70. В качестве обходного пути защиты можно выставить в настройках (/etc/firejail/firejail.config) параметры “join no” и “force-nonewprivs yes”.
-https://www.opennet.ru/opennews/art.shtml?num=57337</p>
-  </section>
-  <footer class="entry-footer"><span title='2022-06-12 12:35:03 +0500 +05'>June 12, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Уязвимость в firejail, позволяющая получить root-доступ в системе" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-firejail-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20220612-123503/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

@@ -6,7 +6,17 @@
     <description>Recent content in root on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 13:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 17:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Root-уязвимость в инструментарии управления пакетами Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/root-uyazvimost-v-instrumentarii-upravleniya-paketami-snap-20221202-173505/</link>
+      <pubDate>Fri, 02 Dec 2022 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/root-uyazvimost-v-instrumentarii-upravleniya-paketami-snap-20221202-173505/</guid>
+      <description>Компания Qualys выявила третью в этому году опасную уязвимость (CVE-2022-3328) в утилите snap-confine, поставляемой с флагом SUID root и вызываемой процессом snapd для формирования исполняемого окружения для приложений, распространяемых в самодостаточных пакетах в формате snap. Уязвимость позволяет локальному непривилегированному пользователю добиться выполнения кода с правами root в конфигурации Ubuntu по умолчанию. Проблема устранена в выпуске snapd 2.57.6. Обновления пакетов выпущены для всех поддерживаемых веток Ubuntu.
+https://www.opennet.ru/opennews/art.shtml?num=58242</description>
+    </item>
+    
     <item>
       <title>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD</title>
       <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</link>
