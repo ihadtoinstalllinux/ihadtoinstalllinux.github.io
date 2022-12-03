@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RawTherapee on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rawtherapee/</link>
+    <description>Recent content in RawTherapee on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rawtherapee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз программы для обработки фотографий RawTherapee 5.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-programmy-dlya-obrabotki-fotografiy-rawtherapee-5-9-20221203-233503/</link>
+      <pubDate>Sat, 03 Dec 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-programmy-dlya-obrabotki-fotografiy-rawtherapee-5-9-20221203-233503/</guid>
+      <description>После почти трёх лет разработки опубликован релиз программы RawTherapee 5.9, предоставляющей средства для редактирования фотографий и преобразования изображений в формате RAW. Программа поддерживает большое количество RAW-форматов файлов, в том числе, камер с датчиками Foveon- и X-Trans, а также может работать со стандартом Adobe DNG и с форматами JPEG, PNG и TIFF (до 32 бит на канал). Код проекта написан на языке C++ с использованием GTK+ и распространяется под лицензией GPLv3. Сборки подготовлены для Linux (AppImage) и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>
