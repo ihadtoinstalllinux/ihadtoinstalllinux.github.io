@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз компилятора Rakudo 2022.12 для языка программирования Raku (бывший Perl 6) </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-kompilyatora-rakudo-2022-12-dlya-yazyka-programmirovaniya-raku-byvshiy-perl-6-20221205-153502/</link>
+      <pubDate>Mon, 05 Dec 2022 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-kompilyatora-rakudo-2022-12-dlya-yazyka-programmirovaniya-raku-byvshiy-perl-6-20221205-153502/</guid>
+      <description>Представлен выпуск Rakudo 2022.12, компилятора для языка программирования Raku (бывший Perl 6). Проект был переименован из Perl 6 так как не стал продолжением Perl 5, как ожидалось изначально, а превратился в отдельный язык программирования, не совместимый с Perl 5 на уровне исходных текстов и развиваемый отдельным сообществом разработчиков. Компилятор поддерживает варианты языка Raku, описанные в спецификациях 6.c, 6.d (по умолчанию). Одновременно доступен выпуск виртуальной машины MoarVM 2022.12, формирующей среду для запуска скомпилированного в Rakudo байт-кода.</description>
+    </item>
+    
     <item>
       <title>Уязвимости в VS Code, Grafana, GNU Emacs и Apache Fineract</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-vs-code-grafana-gnu-emacs-i-apache-fineract-20221205-143503/</link>
