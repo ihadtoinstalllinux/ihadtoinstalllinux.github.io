@@ -6,7 +6,17 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 13:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск FreeBSD 12.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-freebsd-12-4-20221206-113503/</link>
+      <pubDate>Tue, 06 Dec 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-freebsd-12-4-20221206-113503/</guid>
+      <description>Представлен релиз FreeBSD 12.4. Установочные образы доступны для архитектур amd64, i386, powerpc, powerpc64, powerpcspe, sparc64 и armv6, armv7 и aarch64. Дополнительно подготовлены образы для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2. FreeBSD 12.4 станет последним обновлением ветки 12.x, сопровождение которой продлится до 31 декабря 2023 года. Весной будет подготовлено обновление FreeBSD 13.2, а на июль 2023 года запланирован выпуск FreeBSD 14.0.
+https://www.opennet.ru/opennews/art.shtml?num=58270</description>
+    </item>
+    
     <item>
       <title>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD</title>
       <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-root-uyazvimost-v-utilite-ping-postavlyaemoy-vo-freebsd-20221201-133510/</link>
