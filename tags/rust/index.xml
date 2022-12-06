@@ -6,7 +6,16 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Фронтэнд для языка Rust доведён до готовности для интеграции в GCC 13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/frontend-dlya-yazyka-rust-doveden-do-gotovnosti-dlya-integracii-v-gcc-13-20221206-233503/</link>
+      <pubDate>Tue, 06 Dec 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/frontend-dlya-yazyka-rust-doveden-do-gotovnosti-dlya-integracii-v-gcc-13-20221206-233503/</guid>
+      <description>Разработчики проекта gccrs (GCC Rust) опубликовали четвёртую редакцию патчей с реализацией фронтэнда компилятора языка Rust для GCC. Отмечается, что в новой редакции устранены почти все замечания, ранее высказанные при рецензировании предложенного кода, и патчи удовлетворяют всем техническим требованиям к коду, добавляемому в GCC. Ричард Бинер (Richard Biener), один из сопровождающих GCC, упомянул, что теперь код фронтэнда для языка Rust готов для интеграции в ветку GCC 13, релиз которой состоится в мае 2023 года.</description>
+    </item>
+    
     <item>
       <title>Около 21% нового компилируемого кода в Android 13 написано на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/okolo-21-novogo-kompiliruemogo-koda-v-android-13-napisano-na-yazyke-rust-20221203-163502/</link>
