@@ -6,7 +6,16 @@
     <description>Recent content in Phosh on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/phosh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/phosh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora Linux 38 начнут формироваться сборки на базе пользовательской оболочки Phosh</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-38-nachnut-formirovatsya-sborki-na-baze-polzovatelskoy-obolochki-phosh-20221207-013503/</link>
+      <pubDate>Wed, 07 Dec 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-38-nachnut-formirovatsya-sborki-na-baze-polzovatelskoy-obolochki-phosh-20221207-013503/</guid>
+      <description>На заседании комитета FESCo (Fedora Engineering Steering Committee), отвечающего за техническую часть разработки дистрибутива Fedora Linux, утверждено предложение о начале формирования в Fedora Linux 38 сборок для мобильных устройств, поставляемых с оболочкой Phosh. Оболочка Posh основана на технологиях GNOME и библиотеке GTK, использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и теперь также используется в postmarketOS, Mobian и некоторых прошивках для устройств Pine64.</description>
+    </item>
+    
     <item>
       <title>Выпуск Phosh 0.22, GNOME-окружения для смартфонов. Сборки Fedora для мобильных устройств</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-22-gnome-okruzheniya-dlya-smartfonov-sborki-fedora-dlya-mobilnyh-ustroystv-20221109-113503/</link>

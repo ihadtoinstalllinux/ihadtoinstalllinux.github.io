@@ -6,7 +6,16 @@
     <description>Recent content in Fedora on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 19:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora Linux 38 начнут формироваться сборки на базе пользовательской оболочки Phosh</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-38-nachnut-formirovatsya-sborki-na-baze-polzovatelskoy-obolochki-phosh-20221207-013503/</link>
+      <pubDate>Wed, 07 Dec 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-linux-38-nachnut-formirovatsya-sborki-na-baze-polzovatelskoy-obolochki-phosh-20221207-013503/</guid>
+      <description>На заседании комитета FESCo (Fedora Engineering Steering Committee), отвечающего за техническую часть разработки дистрибутива Fedora Linux, утверждено предложение о начале формирования в Fedora Linux 38 сборок для мобильных устройств, поставляемых с оболочкой Phosh. Оболочка Posh основана на технологиях GNOME и библиотеке GTK, использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и теперь также используется в postmarketOS, Mobian и некоторых прошивках для устройств Pine64.</description>
+    </item>
+    
     <item>
       <title>Началось тестирование сборок Fedora с инсталлятором на основе web-интерфейса</title>
       <link>https://ihadtoinstalllinux.github.io/posts/nachalos-testirovanie-sborok-fedora-s-installyatorom-na-osnove-web-interfeysa-20221122-193502/</link>
