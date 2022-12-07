@@ -6,7 +6,17 @@
     <description>Recent content in Vim on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jul 2022 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен Vieb 9.4, web-бразуер в стиле редактора Vim</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-vieb-9-4-web-brazuer-v-stile-redaktora-vim-20221207-143503/</link>
+      <pubDate>Wed, 07 Dec 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-vieb-9-4-web-brazuer-v-stile-redaktora-vim-20221207-143503/</guid>
+      <description>Опубликован web-браузер Vieb 9.4, оптимизированный для управления с клавиатуры, используя принципы работы и комбинации клавиш, свойственные для текстового редактора vim (например, для ввода текста в форме необходимо переходить в режим вставки). Код написан на языке JavaScript и распространяется под лицензией GPLv3. Интерфейс построен на базе платформ Electron, а в качестве web-движка задействован Chromium. Готовые сборки подготовлены для Linux (AppImage, snap, deb, rpm, pacman), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=58273</description>
+    </item>
+    
     <item>
       <title>Выпуск SpaceVim 2.0, дистрибутива редактора Vim </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-spacevim-2-0-distributiva-redaktora-vim-20220707-183503/</link>
