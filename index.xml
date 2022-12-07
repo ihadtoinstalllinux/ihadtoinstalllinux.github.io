@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 23:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Tor Browser 12.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-20221208-003502/</link>
+      <pubDate>Thu, 08 Dec 2022 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-20221208-003502/</guid>
+      <description>Сформирован значительный релиз специализированного браузера Tor Browser 12.0, в котором осуществлён переход на ESR-ветку Firefox 102. Браузер сосредоточен на обеспечении анонимности, безопасности и приватности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно, что не позволяет отследить реальный IP-адрес пользователя (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix).</description>
+    </item>
+    
     <item>
       <title>NMwphOTvDDk.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221207-233554/</link>
