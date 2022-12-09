@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel задействовал код DXVK в своих драйверах для Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-zadeystvoval-kod-dxvk-v-svoih-drayverah-dlya-windows-20221209-123503/</link>
+      <pubDate>Fri, 09 Dec 2022 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-zadeystvoval-kod-dxvk-v-svoih-drayverah-dlya-windows-20221209-123503/</guid>
+      <description>Компания Intel начала тестирование значительного обновления Windows-драйверов Intel Arc Graphics Driver 31.0.101.3959 для видеокарт с GPU Arc (Alchemist) и Iris (DG1), а также для интегрированных GPU, поставляемых в процессорах на базе микроархитектуры Tiger Lake, Rocket Lake, Alder Lake и Raptor Lake. Наиболее существенные изменения в новой версии касаются работы по увеличению производительности игр, использующих DirectX 9. Предполагается, что оптимизации реализованы благодаря задействованию в драйвере кода от свободного проекта DXVK, предоставляющего прослойку с реализацией DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan.</description>
+    </item>
+    
     <item>
       <title>fr9oXm_oOBg.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221209-113556/</link>
