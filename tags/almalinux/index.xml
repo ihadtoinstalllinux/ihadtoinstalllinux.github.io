@@ -6,7 +6,16 @@
     <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CERN и Fermilab переключаются на использование AlmaLinux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cern-i-fermilab-pereklyuchayutsya-na-ispolzovanie-almalinux-20221209-113503/</link>
+      <pubDate>Fri, 09 Dec 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cern-i-fermilab-pereklyuchayutsya-na-ispolzovanie-almalinux-20221209-113503/</guid>
+      <description>Европейский Центр ядерных исследований (CERN, Швейцария) и Национальная ускорительная лаборатория имени Энрико Ферми (Fermilab, США), в своё время разрабатывавшие дистрибутив Scientific Linux, но потом переключившиеся на использование CentOS, объявили о выборе AlmaLinux в качестве штатного дистрибутива для сопровождения экспериментов. Решение принято из-за изменения политики компании Red Hat в отношении сопровождения CentOS и преждевременного сворачивания поддержки ветки CentOS 8, выпуск обновлений для которой был прекращён в конце 2021 года, а не в 2029 году, как предполагали пользователи.</description>
+    </item>
+    
     <item>
       <title>Опубликован дистрибутив AlmaLinux 9.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-1-20221118-193503/</link>
