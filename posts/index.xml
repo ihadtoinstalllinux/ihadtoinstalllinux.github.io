@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 22:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 23:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KlVFv-LRAss.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221210-233536/</link>
+      <pubDate>Sat, 10 Dec 2022 23:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221210-233536/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В Qt 6.5 появится API для прямого обращения к объектам Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-qt-6-5-poyavitsya-api-dlya-pryamogo-obrascheniya-k-obektam-wayland-20221210-233503/</link>
+      <pubDate>Sat, 10 Dec 2022 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-qt-6-5-poyavitsya-api-dlya-pryamogo-obrascheniya-k-obektam-wayland-20221210-233503/</guid>
+      <description>В Qt 6.5 для Wayland будет добавлен программный интерфейс QNativeInterface::QWaylandApplication для прямого обращения к родным для Wayland объектам, которые используются во внутренних структурах Qt, а также для получения доступа к информации о последних действия пользователя, которая может быть востребована для передачи расширениям протокола Wayland. Новый программный интерфейс реализован в пространстве имён QNativeInterface, в котором также предоставляются вызовы для доступны к родным API платформ X11 и Android. В будущем ожидается появление дополнительных интерфейсов QWaylandWindow для низкоуровневого доступа к окнам и QWaylandScreen для доступа к выводу на экран (wl_output), которые пока позиционируются как экспериментальные и скрыты в области QNativeInterface::Private.</description>
+    </item>
+    
     <item>
       <title>xxwxu0gzjo8.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221210-223601/</link>
