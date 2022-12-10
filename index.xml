@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 01:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7xXAIoHgHBA.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221211-013558/</link>
+      <pubDate>Sun, 11 Dec 2022 01:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221211-013558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Проверка утилиты ping в OpenBSD выявила ошибку, присутствующую с 1998 года </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/</link>
+      <pubDate>Sun, 11 Dec 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/</guid>
+      <description>Опубликованы результаты fuzzing-тестирования утилиты ping, поставляемой в OpenBSD, проведённого после недавнего выявления удалённо эксплуатируемой уязвимости в утилите ping из состава FreeBSD. Поставляемая в OpenBSD утилита ping не подвержена проблеме, выявленной во FreeBSD (уязвимость присутствует в новой реализации функции pr_pack(), переписанной разработчиками FreeBSD в 2019 году), но в ходе проверки всплыла другая ошибка, которая оставалась незамеченной на протяжении 24 лет. Ошибка приводит к бесконечному зацикливанию при обработке ответа с нулевым размером поля option в IP-пакете.</description>
+    </item>
+    
     <item>
       <title>Google готовится к переводу умных колонок Nest Audio на ОС Fuchsia</title>
       <link>https://ihadtoinstalllinux.github.io/posts/google-gotovitsya-k-perevodu-umnyh-kolonok-nest-audio-na-os-fuchsia-20221211-003503/</link>

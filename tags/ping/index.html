@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Проверка утилиты ping в OpenBSD выявила ошибку, присутствующую с 1998 года 
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Опубликованы результаты fuzzing-тестирования утилиты ping, поставляемой в OpenBSD, проведённого после недавнего выявления удалённо эксплуатируемой уязвимости в утилите ping из состава FreeBSD. Поставляемая в OpenBSD утилита ping не подвержена проблеме, выявленной во FreeBSD (уязвимость присутствует в новой реализации функции pr_pack(), переписанной разработчиками FreeBSD в 2019 году), но в ходе проверки всплыла другая ошибка, которая оставалась незамеченной на протяжении 24 лет. Ошибка приводит к бесконечному зацикливанию при обработке ответа с нулевым размером поля option в IP-пакете....</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-12-11 01:35:03 +0500 +05'>December 11, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Проверка утилиты ping в OpenBSD выявила ошибку, присутствующую с 1998 года " href="https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Удалённо эксплуатируемая root-уязвимость в утилите ping, поставляемой во FreeBSD
     </h2>
   </header>

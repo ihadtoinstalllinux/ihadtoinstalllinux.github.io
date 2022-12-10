@@ -6,7 +6,16 @@
     <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проверка утилиты ping в OpenBSD выявила ошибку, присутствующую с 1998 года </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/</link>
+      <pubDate>Sun, 11 Dec 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/</guid>
+      <description>Опубликованы результаты fuzzing-тестирования утилиты ping, поставляемой в OpenBSD, проведённого после недавнего выявления удалённо эксплуатируемой уязвимости в утилите ping из состава FreeBSD. Поставляемая в OpenBSD утилита ping не подвержена проблеме, выявленной во FreeBSD (уязвимость присутствует в новой реализации функции pr_pack(), переписанной разработчиками FreeBSD в 2019 году), но в ходе проверки всплыла другая ошибка, которая оставалась незамеченной на протяжении 24 лет. Ошибка приводит к бесконечному зацикливанию при обработке ответа с нулевым размером поля option в IP-пакете.</description>
+    </item>
+    
     <item>
       <title>Выпуск OpenBSD 7.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-2-20221021-193503/</link>
