@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vkd3d on iHADtoinstalllinux</title>
+    <title>vkd3d on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/vkd3d/</link>
-    <description>Recent content in Vkd3d on iHADtoinstalllinux</description>
+    <description>Recent content in vkd3d on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vkd3d/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vkd3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Кандидат в релизы Wine 8.0 и релиз vkd3d 1.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kandidat-v-relizy-wine-8-0-i-reliz-vkd3d-1-6-20221210-133502/</link>
+      <pubDate>Sat, 10 Dec 2022 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kandidat-v-relizy-wine-8-0-i-reliz-vkd3d-1-6-20221210-133502/</guid>
+      <description>Началось тестирование первого кандидата в релизы Wine 8.0, открытой реализации WinAPI. Кодовая база переведена на стадию заморозки перед релизом, который ожидается в середине января. По сравнению с выпуском Wine 7.22 закрыто 52 отчёта об ошибках и внесено 538 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=58296</description>
+    </item>
+    
     <item>
       <title>Выпуск VKD3D-Proton 2.7, форка Vkd3d с реализацией Direct3D 12 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-vkd3d-proton-2-7-forka-vkd3d-s-realizaciey-direct3d-12-20221027-233503/</link>
