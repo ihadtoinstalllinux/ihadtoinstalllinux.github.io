@@ -6,7 +6,17 @@
     <description>Recent content in git on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы управления исходными текстами Git 2.39</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-39-20221213-133503/</link>
+      <pubDate>Tue, 13 Dec 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-39-20221213-133503/</guid>
+      <description>После двух месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.39. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=58318</description>
+    </item>
+    
     <item>
       <title>Уязвимости в Git, проявляющиеся при клонировании субмодулей и  использовании git shell</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-git-proyavlyayuschiesya-pri-klonirovanii-submoduley-i-ispolzovanii-git-shell-20221019-133503/</link>
