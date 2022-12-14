@@ -6,7 +6,17 @@
     <description>Recent content in Server on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление X.Org Server 21.1.5 и xwayland 22.1.6 с устранением 6 уязвимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-5-i-xwayland-22-1-6-s-ustraneniem-6-uyazvimosti-20221214-113503/</link>
+      <pubDate>Wed, 14 Dec 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-5-i-xwayland-22-1-6-s-ustraneniem-6-uyazvimosti-20221214-113503/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.5 и xwayland 22.1.6, DDX-компонента (Device-Dependent X), обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранено 6 уязвимостей, которые потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58321</description>
+    </item>
+    
     <item>
       <title>Уязвимость в Bitbucket Server, приводящая к выполнению кода на сервере </title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bitbucket-server-privodyaschaya-k-vypolneniyu-koda-na-servere-20221119-133503/</link>
