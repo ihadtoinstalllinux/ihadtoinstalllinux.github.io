@@ -6,7 +6,17 @@
     <description>Recent content in Google on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google опубликовал OSV-Scanner, сканер уязвимостей, учитывающий зависимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-osv-scanner-skaner-uyazvimostey-uchityvayuschiy-zavisimosti-20221214-223503/</link>
+      <pubDate>Wed, 14 Dec 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-osv-scanner-skaner-uyazvimostey-uchityvayuschiy-zavisimosti-20221214-223503/</guid>
+      <description>Компания Google представила инструментарий OSV-Scanner для проверки наличия неисправленных уязвимостей в коде и приложениях, работающий с учётом всей цепочки связанных с кодом зависимостей. OSV-Scanner позволяет выявлять ситуации, когда приложение становится уязвимым из-за проблем в одной из библиотек, используемых в качестве зависимости. При этом уязвимая библиотека может использоваться опосредованно, т.е. вызываться через другую зависимость. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58325</description>
+    </item>
+    
     <item>
       <title>Google готовится к переводу умных колонок Nest Audio на ОС Fuchsia</title>
       <link>https://ihadtoinstalllinux.github.io/posts/google-gotovitsya-k-perevodu-umnyh-kolonok-nest-audio-na-os-fuchsia-20221211-003503/</link>
