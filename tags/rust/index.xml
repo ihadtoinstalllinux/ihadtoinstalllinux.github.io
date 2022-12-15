@@ -6,7 +6,17 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Dec 2022 23:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Rust 1.66</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-66-20221216-013503/</link>
+      <pubDate>Fri, 16 Dec 2022 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-66-20221216-013503/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.66, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=58333</description>
+    </item>
+    
     <item>
       <title>Фронтэнд для языка Rust доведён до готовности для интеграции в GCC 13</title>
       <link>https://ihadtoinstalllinux.github.io/posts/frontend-dlya-yazyka-rust-doveden-do-gotovnosti-dlya-integracii-v-gcc-13-20221206-233503/</link>
