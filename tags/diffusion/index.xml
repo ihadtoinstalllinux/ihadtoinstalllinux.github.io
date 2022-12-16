@@ -6,7 +6,16 @@
     <description>Recent content in Diffusion on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Nov 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Система машинного обучения Stable Diffusion адаптирована для синтеза музыки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sistema-mashinnogo-obucheniya-stable-diffusion-adaptirovana-dlya-sinteza-muzyki-20221216-143503/</link>
+      <pubDate>Fri, 16 Dec 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sistema-mashinnogo-obucheniya-stable-diffusion-adaptirovana-dlya-sinteza-muzyki-20221216-143503/</guid>
+      <description>Проектом Riffusion развивается вариант системы машинного обучения Stable Diffusion, адаптированный для генерации музыки вместо изображений. Музыка может синтезироваться текстового описания на естественном языке или на основе предложенного шаблона. Компоненты для синтеза музыки написаны на языке Python с использованием фреймворка PyTorch и доступны под лицензией MIT. Обвязка с интерфейсом реализована на языке TypeScript и также распространяется под лицензией MIT. Натренированные модели открыты под пермиссивной лицензией Creative ML OpenRAIL-M, допускающей использование в коммерческих целях.</description>
+    </item>
+    
     <item>
       <title>Представлена система синтеза изображений Stable Diffusion 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-sistema-sinteza-izobrazheniy-stable-diffusion-2-0-20221124-123503/</link>
