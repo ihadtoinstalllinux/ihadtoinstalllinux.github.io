@@ -6,7 +6,16 @@
     <description>Recent content in PostgreSQL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 20:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск IvorySQL 2.1, надстройки над PostgreSQL для обеспечения совместимости с Oracle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ivorysql-2-1-nadstroyki-nad-postgresql-dlya-obespecheniya-sovmestimosti-s-oracle-20221217-203502/</link>
+      <pubDate>Sat, 17 Dec 2022 20:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ivorysql-2-1-nadstroyki-nad-postgresql-dlya-obespecheniya-sovmestimosti-s-oracle-20221217-203502/</guid>
+      <description>Опубликован выпуск проекта IvorySQL 2.1, развивающего редакцию СУБД PostgreSQL, предоставляющую слой для обеспечения совместимости с приложениями, рассчитанными на работу с СУБД Oracle. Надстройка развивается путём внесения изменений в свежую кодовую базу PostgreSQL и разработчики заявляют о возможности использования IvorySQL в качестве прозрачной замены последней версии PostgreSQL, отличие от которой сводится к появлению настройки &amp;ldquo;compatible_db&amp;rdquo;, включающей режим совместимости с Oracle. Код написан на языке Си и распространяется под лицензией Apache 2.0.</description>
+    </item>
+    
     <item>
       <title>Выпуск temBoard 8.0, интерфейса для удалённого управления СУБД PostgreSQL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-temboard-8-0-interfeysa-dlya-udalennogo-upravleniya-subd-postgresql-20221115-133505/</link>
