@@ -6,7 +6,16 @@
     <description>Recent content in GTK on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Oct 2022 11:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GTK-диалог выбора файла добавлено отображение в виде значков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gtk-dialog-vybora-fayla-dobavleno-otobrazhenie-v-vide-znachkov-20221217-193503/</link>
+      <pubDate>Sat, 17 Dec 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gtk-dialog-vybora-fayla-dobavleno-otobrazhenie-v-vide-znachkov-20221217-193503/</guid>
+      <description>Разработчики библиотеки GTK сообщили о добавлении в диалог, открываемый для выбора файлов в приложениях, представления содержимого каталогов в форме сети значков. По умолчанию продолжит использоваться классическое представление в виде списка файлов, а для перехода в режим значков в правой части панели появилась отдельная кнопка. Реализация данной функциональности стала возможной спустя 18 лет после публикации предложения, благодаря унификации модели данных для виджетов GtkListView и GtkGridView. Ожидается, что изменение будет задействовано в следующих версиях GTK и GNOME.</description>
+    </item>
+    
     <item>
       <title>Пользовательское окружение COSMIC будет использовать Iced вместо GTK</title>
       <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-budet-ispolzovat-iced-vmesto-gtk-20221004-113508/</link>

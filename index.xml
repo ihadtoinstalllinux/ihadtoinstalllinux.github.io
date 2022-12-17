@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 18:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TmOJyiACvM0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221217-193512/</link>
+      <pubDate>Sat, 17 Dec 2022 19:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221217-193512/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В GTK-диалог выбора файла добавлено отображение в виде значков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gtk-dialog-vybora-fayla-dobavleno-otobrazhenie-v-vide-znachkov-20221217-193503/</link>
+      <pubDate>Sat, 17 Dec 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gtk-dialog-vybora-fayla-dobavleno-otobrazhenie-v-vide-znachkov-20221217-193503/</guid>
+      <description>Разработчики библиотеки GTK сообщили о добавлении в диалог, открываемый для выбора файлов в приложениях, представления содержимого каталогов в форме сети значков. По умолчанию продолжит использоваться классическое представление в виде списка файлов, а для перехода в режим значков в правой части панели появилась отдельная кнопка. Реализация данной функциональности стала возможной спустя 18 лет после публикации предложения, благодаря унификации модели данных для виджетов GtkListView и GtkGridView. Ожидается, что изменение будет задействовано в следующих версиях GTK и GNOME.</description>
+    </item>
+    
     <item>
       <title>Обновление Debian 11.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-6-20221217-183502/</link>
