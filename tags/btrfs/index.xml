@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Btrfs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/btrfs/</link>
+    <description>Recent content in Btrfs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/btrfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро Linux 6.2 войдут улучшения RAID5/6 в Btrfs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-2-voydut-uluchsheniya-raid5-6-v-btrfs-20221218-223503/</link>
+      <pubDate>Sun, 18 Dec 2022 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-2-voydut-uluchsheniya-raid5-6-v-btrfs-20221218-223503/</guid>
+      <description>Для включения ядро Linux 6.2 предложены улучшения Btrfs, касающиеся исправления проблемы &amp;ldquo;write hole&amp;rdquo; в реализации RAID 5/6. Суть проблемы сводится к тому, что если крах случился во время записи, изначально невозможно понять какой блок на каком из устройств RAID записался корректно, а в каком запись не была завершена. В случае попытки восстановления RAID в подобной ситуации может произойти разрушение блоков, соответствующих недозаписанным блокам, поскольку состояние блоков RAID рассинхронизиорвано. Эта проблема возникает в любых массивах RAID1/5/6, где не принято специальных мер для борьбы с подобным эффектом.</description>
+    </item>
+    
+  </channel>
+</rss>
