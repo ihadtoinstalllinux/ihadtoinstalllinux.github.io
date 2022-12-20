@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 23:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Tails 5.8, перешедший на Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-8-pereshedshiy-na-wayland-20221221-003503/</link>
+      <pubDate>Wed, 21 Dec 2022 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-8-pereshedshiy-na-wayland-20221221-003503/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.8 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=58364</description>
+    </item>
+    
     <item>
       <title>3dr5koCzzFw.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221220-233546/</link>
