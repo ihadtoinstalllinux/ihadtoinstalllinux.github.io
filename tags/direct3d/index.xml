@@ -6,7 +6,16 @@
     <description>Recent content in Direct3D on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/direct3d/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 09:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/direct3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск VKD3D-Proton 2.8, форка Vkd3d с реализацией Direct3D 12 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-vkd3d-proton-2-8-forka-vkd3d-s-realizaciey-direct3d-12-20221220-093506/</link>
+      <pubDate>Tue, 20 Dec 2022 09:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-vkd3d-proton-2-8-forka-vkd3d-s-realizaciey-direct3d-12-20221220-093506/</guid>
+      <description>Компания Valve опубликовала выпуск VKD3D-Proton 2.8, ответвления от кодовой базы vkd3d, созданного для улучшения поддержки Direct3D 12 в пакете для запуска игр Proton. В VKD3D-Proton поддерживаются специфичные для Proton изменения, оптимизации и улучшения для более качественной работы Windows-игр на базе Direct3D 12, которые пока не приняты в основной состав vkd3d. Из отличий также отмечается ориентация на использование современных расширений Vulkan и возможностей свежих выпусков графических драйверов для достижения полной совместимости с Direct3D 12.</description>
+    </item>
+    
     <item>
       <title>Выпуск DXVK 2.0, реализации Direct3D 9/10/11 поверх API Vulkan </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-0-realizacii-direct3d-9-10-11-poverh-api-vulkan-20221110-223503/</link>
