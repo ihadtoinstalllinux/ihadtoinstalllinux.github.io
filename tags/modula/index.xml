@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Modula on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/modula/</link>
+    <description>Recent content in Modula on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/modula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В состав GCC включена поддержка языка программирования Modula-2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-sostav-gcc-vklyuchena-podderzhka-yazyka-programmirovaniya-modula-2-20221220-103503/</link>
+      <pubDate>Tue, 20 Dec 2022 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-sostav-gcc-vklyuchena-podderzhka-yazyka-programmirovaniya-modula-2-20221220-103503/</guid>
+      <description>В основной состав GCC принят фронтэнд m2 и библиотека libgm2, позволяющие использовать штатный инструментарий GCC для сборки программ на языке программирования Modula-2. Поддерживается сборка кода, соответствующего диалектам PIM2, PIM3 и PIM4, а также принятому ISO-стандарту для данного языка. Изменения включены в ветку GCC 13, релиз которой ожидается в мае 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=58357</description>
+    </item>
+    
+  </channel>
+</rss>
