@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в systemd-coredump, позволяющая определить содержимое памяти suid-программ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-systemd-coredump-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-suid-programm-20221222-153505/</link>
+      <pubDate>Thu, 22 Dec 2022 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-systemd-coredump-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-suid-programm-20221222-153505/</guid>
+      <description>В компоненте systemd-coredump, обеспечивающем обработку core-файлов, генерируемых после аварийного завершения процессов, выявлена уязвимость (CVE-2022-4415), позволяющая непривилегированному локальному пользователю определить содержимое памяти привилегированных процессов, запущенных с флагом suid root. Наличие проблемы в конфигурации по умолчанию подтверждено в дистрибутивах openSUSE, Arch, Debian, Fedora и SLES.
+https://www.opennet.ru/opennews/art.shtml?num=58373</description>
+    </item>
+    
     <item>
       <title>Релиз оконного менеджера IceWM 3.3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-okonnogo-menedzhera-icewm-3-3-0-20221222-143503/</link>
