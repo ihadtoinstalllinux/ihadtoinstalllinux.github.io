@@ -6,7 +6,16 @@
     <description>Recent content in OS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 10:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Steam OS 3.4, используемого на игровой консоли Steam Deck </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-4-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20221222-133503/</link>
+      <pubDate>Thu, 22 Dec 2022 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-steam-os-3-4-ispolzuemogo-na-igrovoy-konsoli-steam-deck-20221222-133503/</guid>
+      <description>Компания Valve представила обновление операционной системы Steam OS 3.4, поставляемой в игровой консоли Steam Deck. Steam OS 3 основана на Arch Linux, использует для ускорения запуска игр композитный сервер Gamescope на базе протокола Wayland, поставляется с доступной только на чтение корневой ФС, применяет атомарный механизм установки обновлений, поддерживает пакеты Flatpak, использует мультимедийный сервер PipeWire и предоставляет два режима работы интерфейса (оболочка Steam и рабочий стол KDE Plasma). Обновления доступны только для Steam Deck, но энтузиастами развивается неофициальная сборка holoiso, адаптированная для установки на обычные компьютеры (в будущем сборки для ПК обещает подготовить и компания Valve).</description>
+    </item>
+    
     <item>
       <title>Доступна мобильная платформа /e/OS 1.6, развиваемая создателем Mandrake Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-e-os-1-6-razvivaemaya-sozdatelem-mandrake-linux-20221213-103502/</link>
