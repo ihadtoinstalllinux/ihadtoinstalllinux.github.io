@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Утечка резервных копий с данными пользователей LastPass</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-rezervnyh-kopiy-s-dannymi-polzovateley-lastpass-20221223-153503/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-rezervnyh-kopiy-s-dannymi-polzovateley-lastpass-20221223-153503/</guid>
+      <description>Разработчики менеджера паролей LastPass, которым пользуется более 33 млн человек и более 100 тысяч компаний, уведомили пользователей об инциденте, в результате которого атакующим удалось получить доступ к резервным копиям хранилища с данными пользователей сервиса. Данные включали такие сведения, как имя, адрес, email, телефон и IP-адреса с которых был вход в сервис, а также сохранённые в менеджере паролей незашифрованные имена сайтов и сохранённые зашифрованные пароли к ним.
+https://www.opennet.ru/opennews/art.shtml?num=58379</description>
+    </item>
+    
     <item>
       <title>Выпуск пакетного фильтра nftables 1.0.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-6-20221223-143503/</link>
