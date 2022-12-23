@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 13:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного фильтра nftables 1.0.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-6-20221223-143503/</link>
+      <pubDate>Fri, 23 Dec 2022 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-6-20221223-143503/</guid>
+      <description>Опубликован выпуск пакетного фильтра nftables 1.0.6, унифицирующего интерфейсы фильтрации пакетов для IPv4, IPv6, ARP и сетевых мостов (нацелен на замену iptables, ip6table, arptables и ebtables). В пакет nftables входят компоненты пакетного фильтра, работающие в пространстве пользователя, в то время как на уровне ядра работу обеспечивает подсистема nf_tables, входящая в состав ядра Linux начиная с выпуска 3.13. На уровне ядра предоставляется лишь общий интерфейс, не зависящий от конкретного протокола и предоставляющий базовые функции извлечения данных из пакетов, выполнения операций с данными и управления потоком.</description>
+    </item>
+    
     <item>
       <title>kN6xLU107rI.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221223-133541/</link>
