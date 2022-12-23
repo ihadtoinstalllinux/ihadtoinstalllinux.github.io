@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 07:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 09:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в модуле ksmbd ядра Linux, позволяющая удалённо выполнить свой код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-module-ksmbd-yadra-linux-pozvolyayuschaya-udalenno-vypolnit-svoy-kod-20221223-093503/</link>
+      <pubDate>Fri, 23 Dec 2022 09:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-module-ksmbd-yadra-linux-pozvolyayuschaya-udalenno-vypolnit-svoy-kod-20221223-093503/</guid>
+      <description>В модуле ksmbd, включающем встроенную в ядро Linux реализацию файлового сервера на базе протокола SMB, выявлена критическая уязвимость, позволяющая удалённо добиться выполнения своего кода с правами ядра. Атака может быть проведена без аутентификации, достаточно чтобы на системе был активирован модуль ksmbd. Проблема проявляется начиная с ядра 5.15, выпущенного в ноябре 2021 года, и без лишней огласки устранена в обновлениях 5.15.61, 5.18.18 и 5.19.2, сформированных в августе 2022 года. Так как CVE-идентификатор проблеме ещё не присвоен, точной информации об устранении проблемы в дистрибутивах ещё нет.</description>
+    </item>
+    
     <item>
       <title>Xs2s2DXv2-8.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20221223-073514/</link>
