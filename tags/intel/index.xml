@@ -6,7 +6,16 @@
     <description>Recent content in Intel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Intel опубликовала Xe, новый Linux-драйвер для своих GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-xe-novyy-linux-drayver-dlya-svoih-gpu-20221224-113503/</link>
+      <pubDate>Sat, 24 Dec 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-xe-novyy-linux-drayver-dlya-svoih-gpu-20221224-113503/</guid>
+      <description>Компания Intel опубликовала начальную версию нового драйвера для ядра Linux - Xe, предназначенного для использования с интегрированными GPU и дискретными видеокартами на базе архитектуры Intel Xe, которая используется в интегрированной графике начиная с процессоров Tiger Lake и в отдельных видеокартах семейства Arc. В качестве цели разработки драйвера названо предоставление основы для обеспечения поддержки новых чипов, не привязанной к коду для поддержки старых платформ. Также заявлено более активное совместное использование кода Xe с другими компонентами подсистемы DRM (Direct Rendering Manager).</description>
+    </item>
+    
     <item>
       <title>Intel задействовал код DXVK в своих драйверах для Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/intel-zadeystvoval-kod-dxvk-v-svoih-drayverah-dlya-windows-20221209-123503/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xe on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xe/</link>
+    <description>Recent content in Xe on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Intel опубликовала Xe, новый Linux-драйвер для своих GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-xe-novyy-linux-drayver-dlya-svoih-gpu-20221224-113503/</link>
+      <pubDate>Sat, 24 Dec 2022 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-xe-novyy-linux-drayver-dlya-svoih-gpu-20221224-113503/</guid>
+      <description>Компания Intel опубликовала начальную версию нового драйвера для ядра Linux - Xe, предназначенного для использования с интегрированными GPU и дискретными видеокартами на базе архитектуры Intel Xe, которая используется в интегрированной графике начиная с процессоров Tiger Lake и в отдельных видеокартах семейства Arc. В качестве цели разработки драйвера названо предоставление основы для обеспечения поддержки новых чипов, не привязанной к коду для поддержки старых платформ. Также заявлено более активное совместное использование кода Xe с другими компонентами подсистемы DRM (Direct Rendering Manager).</description>
+    </item>
+    
+  </channel>
+</rss>
