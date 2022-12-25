@@ -6,7 +6,16 @@
     <description>Recent content in Haiku on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 09:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Четвёртый бета-выпуск операционной системы Haiku R1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chetvertyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20221225-093502/</link>
+      <pubDate>Sun, 25 Dec 2022 09:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chetvertyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20221225-093502/</guid>
+      <description>После полутора лет разработки опубликован четвёртый бета-выпуск операционной системы Haiku R1. Изначально проект был создан как реакция на закрытие ОС BeOS и развивался под именем OpenBeOS, но был переименован в 2004 году из-за претензий, связанных с использованием в названии торговой марки BeOS. Для оценки работы нового выпуска подготовлено несколько загрузочных Live-образов (x86, x86-64). Исходные тексты большей части ОС Haiku распространяются под свободной лицензией MIT, исключение составляют некоторые библиотеки, медиа-кодеки и компоненты, заимствованные из других проектов.</description>
+    </item>
+    
     <item>
       <title>Для Haiku реализована прослойка для совместимости с Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dlya-haiku-realizovana-prosloyka-dlya-sovmestimosti-s-wayland-20221031-193503/</link>
