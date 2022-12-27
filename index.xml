@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 16:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iO8N9BUDRi0.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20221227-163534/</link>
+      <pubDate>Tue, 27 Dec 2022 16:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20221227-163534/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Опубликован Codon, компилятор для языка Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-codon-kompilyator-dlya-yazyka-python-20221227-163502/</link>
+      <pubDate>Tue, 27 Dec 2022 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-codon-kompilyator-dlya-yazyka-python-20221227-163502/</guid>
+      <description>Стартап Exaloop опубликовал код проекта Codon, развивающего компилятор для языка Python, способный генерировать на выходе чистый машинный код, не привязанный к Python runtime. Компилятор развивается авторами Python-подобного языка Seq и позиционируется как продолжение его развития. Проектом также предлагается собственный runtime для исполняемых файлов и библиотека функций, заменяющая библиотечные вызовы на языке Python. Исходные тексты компилятора, runtime и стандартной библиотеки написаны с использованием языков C++ (с привлечением наработок из LLVM) и Python, и распространяются под лицензией BSL (Business Source License).</description>
+    </item>
+    
     <item>
       <title>Доступен ShellCheck 0.9, статический анализатор для shell-скриптов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-shellcheck-0-9-staticheskiy-analizator-dlya-shell-skriptov-20221227-143503/</link>
