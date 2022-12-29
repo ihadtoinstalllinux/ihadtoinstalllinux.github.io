@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NTP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntp/</link>
+    <description>Recent content in NTP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 19:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск NTP-сервера NTPsec 1.2.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ntp-servera-ntpsec-1-2-2-20221229-193503/</link>
+      <pubDate>Thu, 29 Dec 2022 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ntp-servera-ntpsec-1-2-2-20221229-193503/</guid>
+      <description>После полутора лет разработки опубликован выпуск системы синхронизации точного времени NTPsec 1.2.2, являющуюся форком эталонной реализации протокола NTPv4 (NTP Classic 4.3.34), сфокусированным на переработке кодовой базы с целью повышения безопасности (выполнена чистка устаревшего кода, задействованы методы предотвращения атак и защищённые функции для работы с памятью и строками). Проект развивается под руководством Эрика Реймонда (Eric S. Raymond) при участии некоторых разработчиков оригинального NTP Classic, инженеров из компаний Hewlett Packard и Akamai Technologies, а также проектов GPSD и RTEMS.</description>
+    </item>
+    
+  </channel>
+</rss>
