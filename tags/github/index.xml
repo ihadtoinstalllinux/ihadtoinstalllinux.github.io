@@ -6,7 +6,16 @@
     <description>Recent content in GitHub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 12:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Исследование влияния AI-ассистентов, подобных GitHub Copilot, на безопасность кода </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/issledovanie-vliyaniya-ai-assistentov-podobnyh-github-copilot-na-bezopasnost-koda-20221229-123510/</link>
+      <pubDate>Thu, 29 Dec 2022 12:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/issledovanie-vliyaniya-ai-assistentov-podobnyh-github-copilot-na-bezopasnost-koda-20221229-123510/</guid>
+      <description>Группа исследователей из Стэнфордского университета изучила влияние использования интеллектуальных помощников при написании кода на появление в коде уязвимостей. Рассматривались решения на базе платформы машинного обучения OpenAI Codex, такие как GitHub Copilot, позволяющие формировать достаточно сложные блоки кода, вплоть до готовых функций. Опасения связаны с тем, что так как для тренировки модели машинного обучения использован реальный код из публичных репозиториев GitHub, в том числе содержащий уязвимости, синтезированный код может повторять ошибки и предлагать код, в котором присутствуют уязвимости, а также не учитывать необходимость выполнения дополнительных проверок при обработке внешних данных.</description>
+    </item>
+    
     <item>
       <title>GitHub объявил о внедрении в следующем году всеобщей двухфакторной аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/github-obyavil-o-vnedrenii-v-sleduyuschem-godu-vseobschey-dvuhfaktornoy-autentifikacii-20221216-123503/</link>
