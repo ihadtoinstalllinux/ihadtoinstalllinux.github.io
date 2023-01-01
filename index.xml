@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 11:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выявлена подстановка вредоносной зависимости ночные сборки PyTorch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyyavlena-podstanovka-vredonosnoy-zavisimosti-nochnye-sborki-pytorch-20230101-123507/</link>
+      <pubDate>Sun, 01 Jan 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyyavlena-podstanovka-vredonosnoy-zavisimosti-nochnye-sborki-pytorch-20230101-123507/</guid>
+      <description>Разработки фреймворка машинного обучения PyTorch предупредили пользователей о выявлении подстановки вредоносной зависимости, выполняемой при использовании ночных сборок проекта. Проблема затрагивает только экспериментальные ночные сборки PyTorch (PyTorch-nightly), пакеты со стабильными выпусками не пострадали. Вредоносная зависимость распространялась с 25 по 30 декабря 2022 года и была нацелена на компрометацию Linux-систем разработчиков, использующих тестовые сборки PyTorch.
+https://www.opennet.ru/opennews/art.shtml?num=58416</description>
+    </item>
+    
     <item>
       <title>Yz18aFF7PJw.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230101-113523/</link>
