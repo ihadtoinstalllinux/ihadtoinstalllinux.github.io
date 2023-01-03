@@ -6,7 +6,17 @@
     <description>Recent content in MongoDB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Dec 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый бета-выпуск FerretDB, реализации MongoDB на базе СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-beta-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230103-133503/</link>
+      <pubDate>Tue, 03 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-beta-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230103-133503/</guid>
+      <description>Опубликован выпуск проекта FerretDB 0.8, позволяющего заменить документо-ориентированную СУБД MongoDB на PostgreSQL без внесения изменений в код приложений. FerretDB реализован как прокси-сервер, транслирующий обращения к MongoDB в SQL-запросы к PostgreSQL, что позволяет использовать PostgreSQL в качестве фактического хранилища. Версия 0.8 отмечена как первый выпуск, имеющий статус бета-версии (ранее разработка находилась на стадии альфа-тестирования). Код написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58423</description>
+    </item>
+    
     <item>
       <title>Выпуск FerretDB 0.7, реализации MongoDB на базе СУБД PostgreSQ</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ferretdb-0-7-realizacii-mongodb-na-baze-subd-postgresq-20221205-223502/</link>
