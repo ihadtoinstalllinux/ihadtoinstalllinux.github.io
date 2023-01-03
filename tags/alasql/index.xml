@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AlaSQL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/alasql/</link>
+    <description>Recent content in AlaSQL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2023 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/alasql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект AlaSQL развивает СУБД для браузеров и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-alasql-razvivaet-subd-dlya-brauzerov-i-node-js-20230103-123507/</link>
+      <pubDate>Tue, 03 Jan 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-alasql-razvivaet-subd-dlya-brauzerov-i-node-js-20230103-123507/</guid>
+      <description>Опубликован выпуск СУБД AlaSQL 2.5.0, предназначенной для использования в web-приложениях в браузере, в мобильных приложениях на базе web-технологий или в серверных обработчиках на основе платформы Node.js. СУБД оформлена в виде JavaScript-библиотеки и позволяет использовать для манипуляции с данными язык SQL. Поддерживается как хранение в традиционных реляционных таблицах, так и в форме вложенных JSON-структур, не требующих жёсткого определения схемы хранения. Для манипуляции с данными из командной строки предоставляется утилита alasql. Код проекта написан на JavaScript и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>
