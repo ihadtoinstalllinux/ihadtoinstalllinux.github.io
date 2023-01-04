@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RSA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rsa/</link>
+    <description>Recent content in RSA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Предложен метод взлома ключей RSA-2048 на современном квантовом компьютере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predlozhen-metod-vzloma-klyuchey-rsa-2048-na-sovremennom-kvantovom-kompyutere-20230105-003505/</link>
+      <pubDate>Thu, 05 Jan 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predlozhen-metod-vzloma-klyuchey-rsa-2048-na-sovremennom-kvantovom-kompyutere-20230105-003505/</guid>
+      <description>Группа исследователей из нескольких китайских научных центров и университетов предложила новый способ оптимизации процесса факторизации параметров RSA-ключей на квантовых компьютерах. По заявлению исследователей разработанный ими метод позволяет обойтись для взлома ключей RSA-2048 квантовым компьютером с 372 кубитами. Для сравнения, IBM Osprey, самый мощный из ныне созданных квантовых компьютеров, содержит 433 кубита. Тем не менее, метод пока является лишь теоретическим, не опробован на практике и вызывает скептическое отношение некоторых криптографов.
+https://www.opennet.ru/opennews/art.shtml?num=58431</description>
+    </item>
+    
+  </channel>
+</rss>
