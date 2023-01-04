@@ -6,7 +6,17 @@
     <description>Recent content in LTS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Sep 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Вышла новая LTS-версия менеджера состояния Reatom</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyshla-novaya-lts-versiya-menedzhera-sostoyaniya-reatom-20230104-103503/</link>
+      <pubDate>Wed, 04 Jan 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyshla-novaya-lts-versiya-menedzhera-sostoyaniya-reatom-20230104-103503/</guid>
+      <description>Вышла новая LTS-версия Reatom 3, менеджера состояния для веб-приложений, работающих по модели Flux. Проект может применяться в качестве альтернативы Redux. В новой ветке поменялось практически все, кроме ключевых принципов: работа в выделенном глобальном контексте и разделение на чистые вычисления и побочные эффекты (side-effect) для облегчения тестирования, разделение на атомы (atoms) и действия (actions) для DCI-подобного описания логики. Код написан на JavaScript и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=58428</description>
+    </item>
+    
     <item>
       <title>Выпуск Ubuntu 20.04.5 LTS c обновлением графического стека и ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-20-04-5-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20220902-013503/</link>
