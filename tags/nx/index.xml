@@ -6,7 +6,16 @@
     <description>Recent content in NX on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2022 20:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Nitrux 2.6 с рабочим столом NX Desktop </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-6-s-rabochim-stolom-nx-desktop-20230104-133503/</link>
+      <pubDate>Wed, 04 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-6-s-rabochim-stolom-nx-desktop-20230104-133503/</guid>
+      <description>Опубликован выпуск дистрибутива Nitrux 2.6.0, построенного на пакетной базе Debian, технологиях KDE и системе инициализации OpenRC. Проект предлагает собственный рабочий стол NX Desktop, который представляет собой надстройку над пользовательским окружением KDE Plasma. На основе библиотеки Maui для дистрибутива развивается набор типовых пользовательских приложений, которые можно использовать как на настольных системах, так и на мобильных устройствах. Для установки дополнительных приложений продвигается система самодостаточных пакетов AppImages. Размер полного загрузочного образа составляет 3 ГБ.</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Nitrux 2.5 с рабочим столом NX Desktop </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-2-5-s-rabochim-stolom-nx-desktop-20221101-203503/</link>
