@@ -6,7 +6,16 @@
     <description>Recent content in QEMU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Dec 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qemu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qemu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен Blink, эмулятор x86-64, опережающий QEMU по производительности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-blink-emulyator-x86-64-operezhayuschiy-qemu-po-proizvoditelnosti-20230105-113502/</link>
+      <pubDate>Thu, 05 Jan 2023 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-blink-emulyator-x86-64-operezhayuschiy-qemu-po-proizvoditelnosti-20230105-113502/</guid>
+      <description>Проектом blink развивается новый эмулятор процессоров x86-64, позволяющий запускать статически собранные Linux-приложения в виртуальной машине с эмулируемым процессором. Основным назначением проекта является предоставление возможности запуска собранных для архитектуры x86-64 Linux-программ в других операционных системах (macOS, FreeBSD, NetBSD, OpenBSD) и на оборудовании с другой аппаратной архитектурой (x86, ARM, RISC-V, MIPS, PowerPC, s390x). Код проекта написан на языке Си (ANSI C11) и распространяется под лицензией ISC. Из зависимостей требуется только libc (POSIX.1-2017).</description>
+    </item>
+    
     <item>
       <title>Выпуск эмулятора QEMU 7.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-emulyatora-qemu-7-2-20221215-113502/</link>
