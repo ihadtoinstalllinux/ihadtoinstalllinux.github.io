@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyper on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hyper/</link>
+    <description>Recent content in Hyper on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2023 23:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hyper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в приложениях на базе HTTP-библиотеки Hyper</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozheniyah-na-baze-http-biblioteki-hyper-20230106-233506/</link>
+      <pubDate>Fri, 06 Jan 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozheniyah-na-baze-http-biblioteki-hyper-20230106-233506/</guid>
+      <description>В библиотеке Hyper, предлагающей реализацию протоколов HTTP/1 и HTTP/2 на языке Rust, выявлена особенность работы с памятью, которая может использоваться для инициирования отказа в обслуживании через исчерпание доступной процессу памяти. Для эксплуатации уязвимости достаточно отправить специально оформленный HTTP-запрос уязвимому обработчику, использующему Hyper. Библиотека достаточно популярна (67 млн загрузок) и используется в качестве зависимости у 2579 проектов, представленных в каталоге crates.io.
+https://www.opennet.ru/opennews/art.shtml?num=58444</description>
+    </item>
+    
+  </channel>
+</rss>
