@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenIPC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openipc/</link>
+    <description>Recent content in OpenIPC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2023 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openipc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз OpenIPC 2.3, альтернативной прошивки для камер видеонаблюдения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openipc-2-3-alternativnoy-proshivki-dlya-kamer-videonablyudeniya-20230106-223503/</link>
+      <pubDate>Fri, 06 Jan 2023 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openipc-2-3-alternativnoy-proshivki-dlya-kamer-videonablyudeniya-20230106-223503/</guid>
+      <description>После года разработки сформирован выпуск Linux-дистрибутива OpenIPC 2.3, предназначенного для использования в камерах видеонаблюдения вместо штатных прошивок, большинство из которых со временем перестают обновляться производителями. Наработки проекта распространяются под лицензией MIT. Образы прошивок подготовлены для IP-камер на основе чипов Hisilicon Hi35xx, Goke GK7205*, Ingenic T31*, SigmaStar SSC335, XiongmaiTech XM510/XM530/XM550.
+https://www.opennet.ru/opennews/art.shtml?num=58441</description>
+    </item>
+    
+  </channel>
+</rss>
