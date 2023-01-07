@@ -6,7 +6,16 @@
     <description>Recent content in PyPI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pypi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pypi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В пакетах, размещённых в PyPI, выявлено 57 забытых ключей доступа к AWS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-paketah-razmeschennyh-v-pypi-vyyavleno-57-zabytyh-klyuchey-dostupa-k-aws-20230107-113503/</link>
+      <pubDate>Sat, 07 Jan 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-paketah-razmeschennyh-v-pypi-vyyavleno-57-zabytyh-klyuchey-dostupa-k-aws-20230107-113503/</guid>
+      <description>Опубликованы результаты сканирования пакетов в репозитории PyPI (Python Package Index) на предмет наличия забытых в коде ключей доступа к Amazon Web Services (AWS). Провести проверку побудил прошлогодний инцидент с утечкой AWS-ключей компании InfoSys. Как оказалось случай не единичный и в коде представленных в PyPi пакетов удалось выявить ещё 57 действующих ключей, которые присутствовали среди прочего в проектах таких крупных компаний, как Amazon, Intel, Terradata, General Atomics, Top Glove и Delta Lake, а также в репозиториях австралийского правительства и университетов Сендфорда, Портланда и Луизианы.</description>
+    </item>
+    
     <item>
       <title>В репозитории PyPI выявлены вредоносные пакеты, нацеленные на кражу криптовалюты</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-pypi-vyyavleny-vredonosnye-pakety-nacelennye-na-krazhu-kriptovalyuty-20221108-163502/</link>
