@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>В X-сервере отключена обработка запросов от клиентов с иным порядком байтов
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В кодовую базу сервера X.org и DDX-компонента Xwayland принято изменение, по умолчанию блокирующее подключение клиентов с систем, имеющих иной порядок байтов. В качестве причины называется наличие потенциальных проблем с безопасностью в коде преобразования порядка байтов, который недостаточно протестирован и может оказаться слабым местом при организации атак на систему. При этом на практике преобразование порядка байтов последнее время используется крайне редко, так как рабочие станции на которых запускается X-сервер, как правило, оснащены процессорами с порядком байтов little-endian (от младшего к старшему байту), и подключение к ним X-клиентов с порядком big-endian, таких как платформа s390x (IBM zSystems), является большой редкостью....</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-01-09 17:35:07 +0500 +05'>January 9, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В X-сервере отключена обработка запросов от клиентов с иным порядком байтов" href="https://ihadtoinstalllinux.github.io/posts/v-x-servere-otklyuchena-obrabotka-zaprosov-ot-klientov-s-inym-poryadkom-baytov-20230109-173507/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Активность в разработке сервера X.org достигла минимума с 2003 года
     </h2>
   </header>
@@ -186,19 +198,11 @@ https://www.opennet.ru/opennews/art.shtml?num=58025</p>
   <footer class="entry-footer"><span title='2022-11-01 22:35:02 +0500 +05'>November 1, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Переполнение буфера в OpenSSL, эксплуатируемое при проверке сертификатов X.509 " href="https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-openssl-ekspluatiruemoe-pri-proverke-sertifikatov-x-509-20221101-223502/"></a>
 </article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Обновление X.Org Server 21.1.4 с устранением уязвимостей
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Доступен корректирующий выпуск X.Org Server 21.1.4, в котором устранены две уязвимости в обработчиках расширения Xkb, позволяющие поднять свои привилегии в системе, если X-сервер выполняется с правами root, или выполнить код на удалённой системе, если для доступа используется перенаправление сеанса X11 при помощи SSH. Уязвимости вызваны отсутствием корректной проверки размера в обработчиках запросов ProcXkbSetGeometry (CVE-2022-2319) и ProcXkbSetDeviceInfo (CVE-2022-2320), которые можно эксплуатировать для записи в область памяти за границей выделенного буфера.
-https://www.opennet.ru/opennews/art.shtml?num=57495</p>
-  </section>
-  <footer class="entry-footer"><span title='2022-07-13 00:35:03 +0500 +05'>July 13, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Обновление X.Org Server 21.1.4 с устранением уязвимостей" href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-4-s-ustraneniem-uyazvimostey-20220713-003503/"></a>
-</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://ihadtoinstalllinux.github.io/tags/x/page/2/">Next Page »</a>
+  </nav>
+</footer>
     </main>
     
 <footer class="footer">

@@ -6,7 +6,16 @@
     <description>Recent content in X on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 17:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В X-сервере отключена обработка запросов от клиентов с иным порядком байтов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-x-servere-otklyuchena-obrabotka-zaprosov-ot-klientov-s-inym-poryadkom-baytov-20230109-173507/</link>
+      <pubDate>Mon, 09 Jan 2023 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-x-servere-otklyuchena-obrabotka-zaprosov-ot-klientov-s-inym-poryadkom-baytov-20230109-173507/</guid>
+      <description>В кодовую базу сервера X.org и DDX-компонента Xwayland принято изменение, по умолчанию блокирующее подключение клиентов с систем, имеющих иной порядок байтов. В качестве причины называется наличие потенциальных проблем с безопасностью в коде преобразования порядка байтов, который недостаточно протестирован и может оказаться слабым местом при организации атак на систему. При этом на практике преобразование порядка байтов последнее время используется крайне редко, так как рабочие станции на которых запускается X-сервер, как правило, оснащены процессорами с порядком байтов little-endian (от младшего к старшему байту), и подключение к ним X-клиентов с порядком big-endian, таких как платформа s390x (IBM zSystems), является большой редкостью.</description>
+    </item>
+    
     <item>
       <title>Активность в разработке сервера X.org достигла минимума с 2003 года</title>
       <link>https://ihadtoinstalllinux.github.io/posts/aktivnost-v-razrabotke-servera-x-org-dostigla-minimuma-s-2003-goda-20221231-153503/</link>
