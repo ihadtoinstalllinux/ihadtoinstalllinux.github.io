@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TTop on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ttop/</link>
+    <description>Recent content in TTop on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jan 2023 22:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ttop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTop - утилита мониторинга системы с поддержкой исторических данных</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ttop-utilita-monitoringa-sistemy-s-podderzhkoy-istoricheskih-dannyh-20230109-223503/</link>
+      <pubDate>Mon, 09 Jan 2023 22:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ttop-utilita-monitoringa-sistemy-s-podderzhkoy-istoricheskih-dannyh-20230109-223503/</guid>
+      <description>Опубликована утилита TTop, предназначенная для интерактивного мониторинга работы процессов в стиле программы top и примечательная возможностью просмотра прошлого состояния в соответствии с сохранёнными историческими данными (на экране отображается график изменения нагрузки (LA) и пользователь может оценить состояние процессов в выбранный момент, например, когда наблюдался пик нагрузки). Код утилиты написан на языке Nim и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=58454</description>
+    </item>
+    
+  </channel>
+</rss>
