@@ -6,7 +6,17 @@
     <description>Recent content in CPython on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cpython/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 02:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В CPython появится возможность отключения глобальной блокировки интерпретатора</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-cpython-poyavitsya-vozmozhnost-otklyucheniya-globalnoy-blokirovki-interpretatora-20230111-023507/</link>
+      <pubDate>Wed, 11 Jan 2023 02:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-cpython-poyavitsya-vozmozhnost-otklyucheniya-globalnoy-blokirovki-interpretatora-20230111-023507/</guid>
+      <description>Опубликовано предложение по расширению языка Python - PEP-0703, в котором рассматривается добавление режима сборки CPython без глобальной блокировки интерпретатора (GIL, Global Interpreter Lock). Предложение сводится к оставлению по умолчанию GIL, но добавлению для его отключения сборочной опции &amp;ldquo;&amp;ndash;without-gil&amp;rdquo;. Спецификация пока находится на стадии черновика, подлежащего обсуждению.
+https://www.opennet.ru/opennews/art.shtml?num=58459</description>
+    </item>
+    
     <item>
       <title>DeepMind открыл код S6, библиотеки с реализацией JIT-компилятора для CPython</title>
       <link>https://ihadtoinstalllinux.github.io/posts/deepmind-otkryl-kod-s6-biblioteki-s-realizaciey-jit-kompilyatora-dlya-cpython-20220918-103503/</link>
