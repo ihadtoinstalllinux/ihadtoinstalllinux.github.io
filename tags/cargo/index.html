@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в пакетном менеджере Cargo, применяемом в экосистеме Rust
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В пакетном менеджере Cargo, применяемом для управления пакетами и сборки проектов на языке Rust, выявлена уязвимость (CVE-2022-46176), допускающая проведение MITM-атаки, позволяющей вклиниться в канал связи с сервером. Уязвимость вызвана отсутствием проверки хостового открытого ключа во время клонирования индексов и зависимостей по SSH, что позволяет перенаправить обращение на подставной сервер при наличии у атакующего возможности перехвата трафика (например, при контроле над беспроводной точкой доступа или компрометации домашнего/офисного маршрутизатора).
+https://www.opennet.ru/opennews/art.shtml?num=58458</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-01-11 01:35:06 +0500 +05'>January 11, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в пакетном менеджере Cargo, применяемом в экосистеме Rust" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketnom-menedzhere-cargo-primenyaemom-v-ekosisteme-rust-20230111-013506/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Уязвимости в пакетном менеджере Cargo, применяемом для проектов на языке Rust
     </h2>
   </header>

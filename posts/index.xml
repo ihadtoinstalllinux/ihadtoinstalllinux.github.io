@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 23:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 01:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>t1ViMdmNb0k.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230111-013550/</link>
+      <pubDate>Wed, 11 Jan 2023 01:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230111-013550/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в пакетном менеджере Cargo, применяемом в экосистеме Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketnom-menedzhere-cargo-primenyaemom-v-ekosisteme-rust-20230111-013506/</link>
+      <pubDate>Wed, 11 Jan 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketnom-menedzhere-cargo-primenyaemom-v-ekosisteme-rust-20230111-013506/</guid>
+      <description>В пакетном менеджере Cargo, применяемом для управления пакетами и сборки проектов на языке Rust, выявлена уязвимость (CVE-2022-46176), допускающая проведение MITM-атаки, позволяющей вклиниться в канал связи с сервером. Уязвимость вызвана отсутствием проверки хостового открытого ключа во время клонирования индексов и зависимостей по SSH, что позволяет перенаправить обращение на подставной сервер при наличии у атакующего возможности перехвата трафика (например, при контроле над беспроводной точкой доступа или компрометации домашнего/офисного маршрутизатора).
+https://www.opennet.ru/opennews/art.shtml?num=58458</description>
+    </item>
+    
     <item>
       <title>q0A6itiStUA.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230110-233533/</link>
