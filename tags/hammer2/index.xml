@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HAMMER2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hammer2/</link>
+    <description>Recent content in HAMMER2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hammer2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен порт файловой системы HAMMER2 для NetBSD и FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-port-faylovoy-sistemy-hammer2-dlya-netbsd-i-freebsd-20230112-003507/</link>
+      <pubDate>Thu, 12 Jan 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-port-faylovoy-sistemy-hammer2-dlya-netbsd-i-freebsd-20230112-003507/</guid>
+      <description>Опубликованы начальные варианты портов файловой системы HAMMER2 для NetBSD и FreeBSD. В настоящее время порты пока поддерживают работу только в режиме чтения, но в будущем для NetBSD планируется реализовать и поддержку записи (для FreeBSD поддержку записи добавлять не намерены).
+https://www.opennet.ru/opennews/art.shtml?num=58463</description>
+    </item>
+    
+  </channel>
+</rss>

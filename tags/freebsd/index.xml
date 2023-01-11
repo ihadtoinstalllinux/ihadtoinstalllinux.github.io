@@ -6,7 +6,17 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен порт файловой системы HAMMER2 для NetBSD и FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-port-faylovoy-sistemy-hammer2-dlya-netbsd-i-freebsd-20230112-003507/</link>
+      <pubDate>Thu, 12 Jan 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-port-faylovoy-sistemy-hammer2-dlya-netbsd-i-freebsd-20230112-003507/</guid>
+      <description>Опубликованы начальные варианты портов файловой системы HAMMER2 для NetBSD и FreeBSD. В настоящее время порты пока поддерживают работу только в режиме чтения, но в будущем для NetBSD планируется реализовать и поддержку записи (для FreeBSD поддержку записи добавлять не намерены).
+https://www.opennet.ru/opennews/art.shtml?num=58463</description>
+    </item>
+    
     <item>
       <title>Выпуск Wifibox 0.11, окружение для использования WiFi-драйверов Linux во FreeBSD </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wifibox-0-11-okruzhenie-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20221231-163502/</link>
