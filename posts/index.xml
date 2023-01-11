@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 16:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dySAqrYTPso.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230111-163546/</link>
+      <pubDate>Wed, 11 Jan 2023 16:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230111-163546/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCE-уязвимость в NPM-пакете JsonWebToken, насчитывающем 10 млн загрузок в неделю</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rce-uyazvimost-v-npm-pakete-jsonwebtoken-naschityvayuschem-10-mln-zagruzok-v-nedelyu-20230111-163503/</link>
+      <pubDate>Wed, 11 Jan 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rce-uyazvimost-v-npm-pakete-jsonwebtoken-naschityvayuschem-10-mln-zagruzok-v-nedelyu-20230111-163503/</guid>
+      <description>В JavaScript-библиотеке JsonWebToken с реализацией технологии JSON Web Token (JWT) выявлена уязвимость (CVE-2022-23529), позволяющая добиться удалённого выполнения кода при верификации специально оформленного JWT-запроса. За последнюю неделю библиотека была загружена из каталога NPM более 10 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=58462</description>
+    </item>
+    
     <item>
       <title>В ходе аудита удалось подобрать 21% паролей сотрудников МВД США</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-hode-audita-udalos-podobrat-21-paroley-sotrudnikov-mvd-ssha-20230111-153503/</link>

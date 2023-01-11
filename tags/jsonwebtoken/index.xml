@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JsonWebToken on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/jsonwebtoken/</link>
+    <description>Recent content in JsonWebToken on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2023 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/jsonwebtoken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RCE-уязвимость в NPM-пакете JsonWebToken, насчитывающем 10 млн загрузок в неделю</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rce-uyazvimost-v-npm-pakete-jsonwebtoken-naschityvayuschem-10-mln-zagruzok-v-nedelyu-20230111-163503/</link>
+      <pubDate>Wed, 11 Jan 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rce-uyazvimost-v-npm-pakete-jsonwebtoken-naschityvayuschem-10-mln-zagruzok-v-nedelyu-20230111-163503/</guid>
+      <description>В JavaScript-библиотеке JsonWebToken с реализацией технологии JSON Web Token (JWT) выявлена уязвимость (CVE-2022-23529), позволяющая добиться удалённого выполнения кода при верификации специально оформленного JWT-запроса. За последнюю неделю библиотека была загружена из каталога NPM более 10 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=58462</description>
+    </item>
+    
+  </channel>
+</rss>
