@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 00:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 01:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n_ZV52VZs1c.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230114-013555/</link>
+      <pubDate>Sat, 14 Jan 2023 01:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230114-013555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ventoy 1.0.88, инструментария для загрузки произвольных систем с USB-носителей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ventoy-1-0-88-instrumentariya-dlya-zagruzki-proizvolnyh-sistem-s-usb-nositeley-20230114-013503/</link>
+      <pubDate>Sat, 14 Jan 2023 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ventoy-1-0-88-instrumentariya-dlya-zagruzki-proizvolnyh-sistem-s-usb-nositeley-20230114-013503/</guid>
+      <description>Опубликован выпуск инструментария Ventoy 1.0.88, предназначенного для создания загрузочных USB-носителей, включающих несколько операционных систем. Программа примечательна тем, что обеспечивает возможность загрузки ОС из неизменных ISO, WIM, IMG, VHD и EFI-образов, не требуя распаковки образа или переформатирования носителя. Например, достаточно просто скопировать на USB Flash с загрузчиком Ventoy интересующий набор iso-образов и Ventoy обеспечит возможность загрузки находящихся внутри операционных систем. В любой момент можно заменить или добавить новые iso-образы просто скопировав новые файлы, что удобно для тестирования и предварительного ознакомления с различными дистрибутивами и операционными системами.</description>
+    </item>
+    
     <item>
       <title>Выпуск минималистичного набора системных утилит Toybox 0.8.9</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-nabora-sistemnyh-utilit-toybox-0-8-9-20230114-003509/</link>
