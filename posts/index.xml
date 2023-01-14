@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 23:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в nftables, позволяющая повысить свои привилегии </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nftables-pozvolyayuschaya-povysit-svoi-privilegii-20230115-003507/</link>
+      <pubDate>Sun, 15 Jan 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nftables-pozvolyayuschaya-povysit-svoi-privilegii-20230115-003507/</guid>
+      <description>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE-2023-0179), потенциально позволяющая локальному пользователю поднять свои привилегии в системе и выполнить код на уровне ядра. Исследователями подготовлены прототипы эксплоитов (будут опубликованы в течение нескольких дней), позволяющие локальному пользователю поднять свои права до root в системе или получить сведения об адресах в стеке и куче.
+https://www.opennet.ru/opennews/art.shtml?num=58480</description>
+    </item>
+    
     <item>
       <title>AgL4yrTqDgc.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230114-233529/</link>
