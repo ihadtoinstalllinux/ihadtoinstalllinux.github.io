@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jan 2023 22:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 23:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ax1AsNVX2Qc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230116-233604/</link>
+      <pubDate>Mon, 16 Jan 2023 23:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230116-233604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Доступна система резервного копирования restic 0.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-restic-0-15-20230116-233507/</link>
+      <pubDate>Mon, 16 Jan 2023 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-restic-0-15-20230116-233507/</guid>
+      <description>Опубликован выпуск системы резервного копирования restic 0.15, обеспечивающей хранение резервных копий в зашифрованном виде в версионированном репозитории. Система изначально рассчитана на то, что резервные копии сохраняются в окружениях не заслуживающих доверия и попадание резервной копии в чужие руки не должно скомпрометировать систему. Возможно определение гибких правил для включения и исключения файлов и каталогов при создании резервной копии (формат правил напоминает rsync или gitignore). Поддерживается работа в Linux, macOS, Windows, FreeBSD и OpenBSD.</description>
+    </item>
+    
     <item>
       <title>XP_BKabWdjg.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230116-223510/</link>
