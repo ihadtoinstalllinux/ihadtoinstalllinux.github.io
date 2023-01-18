@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 11:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 13:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hmy7ZGa1I5o.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230118-133532/</link>
+      <pubDate>Wed, 18 Jan 2023 13:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230118-133532/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Две уязвимости в Git, способные привести к удалённому выполнению кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dve-uyazvimosti-v-git-sposobnye-privesti-k-udalennomu-vypolneniyu-koda-20230118-133503/</link>
+      <pubDate>Wed, 18 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dve-uyazvimosti-v-git-sposobnye-privesti-k-udalennomu-vypolneniyu-koda-20230118-133503/</guid>
+      <description>Опубликованы корректирующие выпуски распределённой системы управления исходными текстами Git 2.39.1, 2.38.3, 2.37.5, 2.36.4, 2.35.6, 2.34.6, 2.33.6, 2.32.5, 2.31.6 и 2.30.7, в которых устранены две уязвимости, позволяющие организовать выполнение своего кода на системе пользователя при использовании команды &amp;ldquo;git archive&amp;rdquo; и работе с не заслуживающими доверия внешними репозиториями. Уязвимости вызваны ошибками в коде форматирования коммитов и разборе файла &amp;ldquo;.gitattributes&amp;rdquo;, которые при обработке внешних репозиториев могут привести к записи в область памяти за пределами кучи и чтению произвольных данных из памяти.</description>
+    </item>
+    
     <item>
       <title>nfyMlfcBN1Q.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230118-113517/</link>
