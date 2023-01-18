@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 16:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>45D-KX2j__s.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230118-163545/</link>
+      <pubDate>Wed, 18 Jan 2023 16:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230118-163545/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Реализована возможность сборки Glibc при помощи инструментария LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/realizovana-vozmozhnost-sborki-glibc-pri-pomoschi-instrumentariya-llvm-20230118-163503/</link>
+      <pubDate>Wed, 18 Jan 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/realizovana-vozmozhnost-sborki-glibc-pri-pomoschi-instrumentariya-llvm-20230118-163503/</guid>
+      <description>Инженеры из компании Сollabora опубликовали отчёт о реализации проекта по обеспечению сборки системной библиотеки GNU C Library (glibc) с использованием инструментария LLVM (Clang, LLD, compiler-rt) вместо GCC. До последнего времени Glibc оставался одним из значительных компонентов дистрибутивов, поддерживающих сборку только при помощи GCC.
+https://www.opennet.ru/opennews/art.shtml?num=58500</description>
+    </item>
+    
     <item>
       <title>Выпуск git-совместимой системы управления версий Got 0.80</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-git-sovmestimoy-sistemy-upravleniya-versiy-got-0-80-20230118-143505/</link>

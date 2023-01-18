@@ -6,7 +6,17 @@
     <description>Recent content in Glibc on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Реализована возможность сборки Glibc при помощи инструментария LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/realizovana-vozmozhnost-sborki-glibc-pri-pomoschi-instrumentariya-llvm-20230118-163503/</link>
+      <pubDate>Wed, 18 Jan 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/realizovana-vozmozhnost-sborki-glibc-pri-pomoschi-instrumentariya-llvm-20230118-163503/</guid>
+      <description>Инженеры из компании Сollabora опубликовали отчёт о реализации проекта по обеспечению сборки системной библиотеки GNU C Library (glibc) с использованием инструментария LLVM (Clang, LLD, compiler-rt) вместо GCC. До последнего времени Glibc оставался одним из значительных компонентов дистрибутивов, поддерживающих сборку только при помощи GCC.
+https://www.opennet.ru/opennews/art.shtml?num=58500</description>
+    </item>
+    
     <item>
       <title>Выпуск системной библиотеки Glibc 2.36</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-36-20220802-153503/</link>
