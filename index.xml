@@ -6,7 +6,26 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 13:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2T2Lz3Jmedc.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230119-133600/</link>
+      <pubDate>Thu, 19 Jan 2023 13:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230119-133600/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в sudo, позволяющая изменить любой файл в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-sudo-pozvolyayuschaya-izmenit-lyuboy-fayl-v-sisteme-20230119-133503/</link>
+      <pubDate>Thu, 19 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-sudo-pozvolyayuschaya-izmenit-lyuboy-fayl-v-sisteme-20230119-133503/</guid>
+      <description>В пакете sudo, применяемом для организации выполнения команд от имени других пользователей, выявлена уязвимость (CVE-2023-22809), позволяющая локальному пользователю отредактировать любой файл в системе, что, в свою очередь, позволяет добиться получения прав root через изменение /etc/shadow или системных скриптов. Для эксплуатации уязвимости требуется, чтобы в файле sudoers пользователю было предоставлено право запускать утилиту sudoedit или &amp;ldquo;sudo&amp;rdquo; с флагом &amp;ldquo;-e&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=58507</description>
+    </item>
+    
     <item>
       <title>Выпуск GCompris 3.0, обучающего набора для детей от 2 до 10 лет</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gcompris-3-0-obuchayuschego-nabora-dlya-detey-ot-2-do-10-let-20230119-123507/</link>

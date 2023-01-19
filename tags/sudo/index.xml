@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sudo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sudo/</link>
+    <description>Recent content in sudo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sudo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в sudo, позволяющая изменить любой файл в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-sudo-pozvolyayuschaya-izmenit-lyuboy-fayl-v-sisteme-20230119-133503/</link>
+      <pubDate>Thu, 19 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-sudo-pozvolyayuschaya-izmenit-lyuboy-fayl-v-sisteme-20230119-133503/</guid>
+      <description>В пакете sudo, применяемом для организации выполнения команд от имени других пользователей, выявлена уязвимость (CVE-2023-22809), позволяющая локальному пользователю отредактировать любой файл в системе, что, в свою очередь, позволяет добиться получения прав root через изменение /etc/shadow или системных скриптов. Для эксплуатации уязвимости требуется, чтобы в файле sudoers пользователю было предоставлено право запускать утилиту sudoedit или &amp;ldquo;sudo&amp;rdquo; с флагом &amp;ldquo;-e&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=58507</description>
+    </item>
+    
+  </channel>
+</rss>
