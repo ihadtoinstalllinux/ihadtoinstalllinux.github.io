@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tree on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tree/</link>
+    <description>Recent content in tree on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчики SQLite развивают бэкенд HC-tree с поддержкой параллельных операций записи</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sqlite-razvivayut-bekend-hc-tree-s-podderzhkoy-parallelnyh-operaciy-zapisi-20230119-163503/</link>
+      <pubDate>Thu, 19 Jan 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-sqlite-razvivayut-bekend-hc-tree-s-podderzhkoy-parallelnyh-operaciy-zapisi-20230119-163503/</guid>
+      <description>Разработчики проекта SQLite начали тестирование экспериментального бэкенда HCtree, поддерживающего блокировку на уровне строк (row) и обеспечивающего высокий уровень распараллеливания при обработке запросов. Новый бэкенд нацелен на повышение эффективности использования SQLite в клиент-серверных системах, в которых приходится обрабатывать большое число одновременных запросов к БД на запись.
+https://www.opennet.ru/opennews/art.shtml?num=58508</description>
+    </item>
+    
+  </channel>
+</rss>
