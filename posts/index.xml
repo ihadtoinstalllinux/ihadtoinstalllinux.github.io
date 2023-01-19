@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 20:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 21:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian 12 перешёл на первую стадию заморозки перед релизом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-12-pereshel-na-pervuyu-stadiyu-zamorozki-pered-relizom-20230119-213502/</link>
+      <pubDate>Thu, 19 Jan 2023 21:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-12-pereshel-na-pervuyu-stadiyu-zamorozki-pered-relizom-20230119-213502/</guid>
+      <description>Разработчики Debian сообщили о достижении первой стадии заморозки пакетной базы Debian 12 &amp;ldquo;Bookworm&amp;rdquo;, которая подразумевает прекращение выполнения &amp;ldquo;transitions&amp;rdquo; (обновление пакетов, требующее корректировки зависимостей у других пакетов, которое приводит к временному удалению пакетов из Testing), а также прекращение обновления пакетов, необходимых для сборки (build-essential).
+https://www.opennet.ru/opennews/art.shtml?num=58511</description>
+    </item>
+    
     <item>
       <title>Выпуск инструмента применения групповых политик  gpupdate 0.9.12</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-instrumenta-primeneniya-gruppovyh-politik-gpupdate-0-9-12-20230119-203507/</link>
