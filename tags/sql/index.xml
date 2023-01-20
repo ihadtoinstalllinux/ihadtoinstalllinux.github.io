@@ -6,7 +6,17 @@
     <description>Recent content in SQL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 16:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Ruby on Rails устранена уязвимость, допускающая подстановку SQL-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ruby-on-rails-ustranena-uyazvimost-dopuskayuschaya-podstanovku-sql-koda-20230120-163502/</link>
+      <pubDate>Fri, 20 Jan 2023 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ruby-on-rails-ustranena-uyazvimost-dopuskayuschaya-podstanovku-sql-koda-20230120-163502/</guid>
+      <description>Опубликованы корректирующие обновления фреймворка Ruby on Rails 7.0.4.1, 6.1.7.1 и 6.0.6.1, в которых устранено 6 уязвимостей. Наиболее опасная уязвимость (CVE-2023-22794) может привести к выполнению заданных атакующим SQL-команд при использовании внешних данных в комментариях, обрабатываемых в ActiveRecord. Проблема вызвана отсутствием необходимого экранирования спецсимволов в комментариях перед их сохранением в СУБД.
+https://www.opennet.ru/opennews/art.shtml?num=58519</description>
+    </item>
+    
     <item>
       <title>Компания Microsoft опубликовала тестовый выпуск SQL Server 2022 для Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-opublikovala-testovyy-vypusk-sql-server-2022-dlya-linux-20220909-113506/</link>
