@@ -6,7 +6,25 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 11:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 13:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SaHegBCCr-U.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230120-133559/</link>
+      <pubDate>Fri, 20 Jan 2023 13:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230120-133559/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Предложен метод эксплуатации разыменования NULL-указателей в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predlozhen-metod-ekspluatacii-razymenovaniya-null-ukazateley-v-yadre-linux-20230120-133503/</link>
+      <pubDate>Fri, 20 Jan 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predlozhen-metod-ekspluatacii-razymenovaniya-null-ukazateley-v-yadre-linux-20230120-133503/</guid>
+      <description>Исследователи из команды Google Project Zero разработали метод эксплуатации уязвимостей в ядре Linux, вызванных разыменованием указателей NULL. До сих пор проблемам в ядре, связанным с разыменованием указателей NULL, не уделялось должного внимания, так как доведение таких проблем до атак, приводящих к повышению привилегий или выполнению своего кода, считалось нереалистичным (непривилегированным процессам запрещён маппинг в нижней области адресного пространства). Как правило подобные ошибки приводят к генерации ядром oops-предупреждений, после которых проблемные задачи завершаются и состояние восстанавливается без необходимости остановки работы системы.</description>
+    </item>
+    
     <item>
       <title>NZXI6HPd-8U.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230120-113554/</link>
