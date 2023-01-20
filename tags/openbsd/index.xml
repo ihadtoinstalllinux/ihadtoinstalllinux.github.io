@@ -6,7 +6,17 @@
     <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 01:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 20:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenBSD для sshd применена перекомпоновка во время загрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dlya-sshd-primenena-perekomponovka-vo-vremya-zagruzki-20230120-203508/</link>
+      <pubDate>Fri, 20 Jan 2023 20:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dlya-sshd-primenena-perekomponovka-vo-vremya-zagruzki-20230120-203508/</guid>
+      <description>В OpenBSD реализована техника защиты от эксплуатации уязвимостей, основанная на случайной перекомпоновке исполняемого файла sshd при каждой загрузке системы. Ранее подобная техника перекомпоновки применялась в отношении ядра и библиотек libc.so, libcrypto.so и ld.so, а теперь будет применена и для некоторых исполняемых файлов. В ближайшее время метод также планируется реализовать для ntpd и других серверных приложений. Изменение уже включено в состав ветки CURRENT и будет предложено в выпуске OpenBSD 7.3.
+https://www.opennet.ru/opennews/art.shtml?num=58520</description>
+    </item>
+    
     <item>
       <title>Проверка утилиты ping в OpenBSD выявила ошибку, присутствующую с 1998 года </title>
       <link>https://ihadtoinstalllinux.github.io/posts/proverka-utility-ping-v-openbsd-vyyavila-oshibku-prisutstvuyuschuyu-s-1998-goda-20221211-013503/</link>
