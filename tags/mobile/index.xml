@@ -6,7 +6,16 @@
     <description>Recent content in Mobile on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 02:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в API привела к утечке персональных данных 37 млн клиентов T-Mobile</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-api-privela-k-utechke-personalnyh-dannyh-37-mln-klientov-t-mobile-20230120-123506/</link>
+      <pubDate>Fri, 20 Jan 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-api-privela-k-utechke-personalnyh-dannyh-37-mln-klientov-t-mobile-20230120-123506/</guid>
+      <description>Компания T-Mobile раскрыла сведения об инциденте, в результате которого злоумышленники смогли загрузить персональные данные 37 млн клиентов. Для совершения атаки использовались недоработки в реализации API, доступного без авторизации. Вредоносная активность была обнаружена 5 января, разбор показал, что извлечение данных производилось с 25 ноября 2022 года. В руки атакующих попали такие данные как ФИО, адрес, email, номер телефона, дата рождения, номер учётной записи в T-Mobile и сведения о тарифах и оказываемых услугах.</description>
+    </item>
+    
     <item>
       <title>Доступна мобильная платформа KDE Plasma Mobile 22.11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-22-11-20221203-023503/</link>
