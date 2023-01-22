@@ -153,6 +153,18 @@
 </header>
 
 <article class="post-entry"> 
+  <header class="entry-header">
+    <h2>В X-сервере отключена обработка запросов от клиентов с иным порядком байтов
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В кодовую базу сервера X.org и DDX-компонента Xwayland принято изменение, по умолчанию блокирующее подключение клиентов с систем, имеющих иной порядок байтов. В качестве причины называется наличие потенциальных проблем с безопасностью в коде преобразования порядка байтов, который недостаточно протестирован и может оказаться слабым местом при организации атак на систему. При этом на практике преобразование порядка байтов последнее время используется крайне редко, так как рабочие станции на которых запускается X-сервер, как правило, оснащены процессорами с порядком байтов little-endian (от младшего к старшему байту), и подключение к ним X-клиентов с порядком big-endian, таких как платформа s390x (IBM zSystems), является большой редкостью....</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-01-09 17:35:07 +0500 +05'>January 9, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В X-сервере отключена обработка запросов от клиентов с иным порядком байтов" href="https://ihadtoinstalllinux.github.io/posts/v-x-servere-otklyuchena-obrabotka-zaprosov-ot-klientov-s-inym-poryadkom-baytov-20230109-173507/"></a>
+</article>
+
+<article class="post-entry"> 
 <figure class="entry-cover"><img loading="lazy" src="https://sun9-58.userapi.com/Bq_hKz1tKP4BDbGoIEUmTf15mlLJWvoCnwGXoA/fwOn8H6-8w4.jpg" alt="">
 </figure>
   <header class="entry-header">
@@ -205,19 +217,6 @@ https://www.opennet.ru/opennews/art.shtml?num=58452</p>
   </section>
   <footer class="entry-footer"><span title='2023-01-09 11:35:49 +0500 +05'>January 9, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to fdo0emy5OUo.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20230109-113549/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Обновление OpenWrt 22.03.3
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликовано обновление дистрибутива OpenWrt 22.03.3, ориентированного на применение в различных сетевых устройствах, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает множество различных платформ и архитектур и обладает системой сборки, позволяющей просто и удобно производить кросс-компиляцию, включая в состав сборки различные компоненты, что позволяет легко сформировать адаптированную под конкретные задачи готовую прошивку или образ диска с желаемым набором предустановленных пакетов. Сборки сформированы для 32 целевых платформ.
-https://www.opennet.ru/opennews/art.shtml?num=58433</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-01-09 11:35:02 +0500 +05'>January 9, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Обновление OpenWrt 22.03.3" href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-22-03-3-20230109-113502/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
