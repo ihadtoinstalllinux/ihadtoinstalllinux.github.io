@@ -6,7 +6,17 @@
     <description>Recent content in c on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Oct 2022 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Создатель C&#43;&#43; раскритиковал навязывание безопасных языков программирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdatel-c-raskritikoval-navyazyvanie-bezopasnyh-yazykov-programmirovaniya-20230122-143506/</link>
+      <pubDate>Sun, 22 Jan 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdatel-c-raskritikoval-navyazyvanie-bezopasnyh-yazykov-programmirovaniya-20230122-143506/</guid>
+      <description>Бьёрн Страуструп (Bjarne Stroustrup), создатель языка C++, опубликовал возражения против выводов, сделанных в отчёте АНБ, в котором организациям было рекомендовано отойти от использования языков программирования, таких как Си и Си++, перекладывающих управление памятью на разработчика, в пользу языков, таких как C#, Go, Java, Ruby, Rust и Swift, обеспечивающих автоматическое управление памятью или выполняющих проверки безопасной работы с памятью во время компиляции.
+https://www.opennet.ru/opennews/art.shtml?num=58527</description>
+    </item>
+    
     <item>
       <title>Проект LLVM развивает средства для безопасной работы с буферами в C&#43;&#43;</title>
       <link>https://ihadtoinstalllinux.github.io/posts/proekt-llvm-razvivaet-sredstva-dlya-bezopasnoy-raboty-s-buferami-v-c-20221006-133502/</link>
