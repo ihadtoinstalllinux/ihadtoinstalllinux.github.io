@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nolibc on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nolibc/</link>
+    <description>Recent content in nolibc on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 12:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nolibc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Си-библиотеке  nolibc, входящей в состав ядра Linux, реализована поддержка сигналов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-si-biblioteke-nolibc-vhodyaschey-v-sostav-yadra-linux-realizovana-podderzhka-signalov-20230123-123512/</link>
+      <pubDate>Mon, 23 Jan 2023 12:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-si-biblioteke-nolibc-vhodyaschey-v-sostav-yadra-linux-realizovana-podderzhka-signalov-20230123-123512/</guid>
+      <description>Для включения в состав ядра Linux предложены изменения, расширяющие возможности стандартной Си-библиотеки nolibc, входящей в состав исходных текстов ядра Linux (tools/include/nolibc). В случае принятия изменений библиотека будет расширена средствами для обработки сигналов, включающими функции sigaction() и signal().
+https://www.opennet.ru/opennews/art.shtml?num=58532</description>
+    </item>
+    
+  </channel>
+</rss>
