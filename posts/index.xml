@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 17:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен мультимедийный фреймворк GStreamer 1.22.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-multimediynyy-freymvork-gstreamer-1-22-0-20230124-183503/</link>
+      <pubDate>Tue, 24 Jan 2023 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-multimediynyy-freymvork-gstreamer-1-22-0-20230124-183503/</guid>
+      <description>После года разработки состоялся релиз GStreamer 1.22, кроссплатформенного набора компонентов для создания широкого спектра мультимедиа приложений, от медиаплееров и конвертеров аудио/видео файлов, до VoIP-приложений и систем потокового вещания. Код GStreamer распространяется под лицензией LGPLv2.1. Отдельно развиваются обновления плагинов gst-plugins-base, gst-plugins-good, gst-plugins-bad, gst-plugins-ugly, а также обвязка gst-libav и сервер потокового вещания gst-rtsp-server. На уровне API и ABI новый выпуск обратно совместим с веткой 1.0. Бинарные сборки в скором времени будут подготовлены для Android, iOS, macOS и Windows (в Linux рекомендуется использовать пакеты из дистрибутива).</description>
+    </item>
+    
     <item>
       <title>Microsoft выпустил открытый пакетный менеджер WinGet 1.4</title>
       <link>https://ihadtoinstalllinux.github.io/posts/microsoft-vypustil-otkrytyy-paketnyy-menedzher-winget-1-4-20230124-173507/</link>
