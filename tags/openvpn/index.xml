@@ -6,7 +6,17 @@
     <description>Recent content in OpenVPN on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Oct 2022 11:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 01:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен OpenVPN 2.6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-openvpn-2-6-0-20230126-013504/</link>
+      <pubDate>Thu, 26 Jan 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-openvpn-2-6-0-20230126-013504/</guid>
+      <description>После двух с половиной лет с момента публикации ветки 2.5 подготовлен релиз OpenVPN 2.6.0, пакета для создания виртуальных частных сетей, позволяющего организовать шифрованное соединение между двумя клиентскими машинами или обеспечить работу централизованного VPN-сервера для одновременной работы нескольких клиентов. Код OpenVPN распространяется под лицензией GPLv2, готовые бинарные пакеты формируются для Debian, Ubuntu, CentOS, RHEL и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=58549</description>
+    </item>
+    
     <item>
       <title>Выпуск OpenVPN 2.5.8</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openvpn-2-5-8-20221029-113502/</link>
