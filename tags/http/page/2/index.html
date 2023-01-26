@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в HTTP-сервере muhttpd, открываяющая доступ к файлам вне рабочего каталога
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В HTTP-сервере muhttpd, применяемом преимущественно в маршрутизаторах и точках доступа, выявлена уязвимость (CVE-2022-31793), позволяющая неаутентифицированному атакующему через отправку специально оформленного HTTP-запроса загрузить произвольные файлы, насколько это позволяют права доступа, под которыми выполняется HTTP-сервер (во многих устройствах muhttpd запускается с правами root). Например, атакующий может получить доступа к файлам с паролями, настройками беспроводного доступа, параметрами подключения к провайдеру и закрытыми ключами.
+https://www.opennet.ru/opennews/art.shtml?num=57601</p>
+  </section>
+  <footer class="entry-footer"><span title='2022-08-05 20:35:03 +0500 +05'>August 5, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в HTTP-сервере muhttpd, открываяющая доступ к файлам вне рабочего каталога" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-http-servere-muhttpd-otkryvayayuschaya-dostup-k-faylam-vne-rabochego-kataloga-20220805-203503/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Релиз http-сервера Apache 2.4.54 с устранением уязвимостей
     </h2>
   </header>
@@ -187,22 +200,10 @@ https://www.opennet.ru/opennews/art.shtml?num=56854</p>
   <footer class="entry-footer"><span title='2022-03-15 12:35:03 +0500 +05'>March 15, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Релиз http-сервера Apache 2.4.53 с устранением опасных уязвимостей" href="https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-53-s-ustraneniem-opasnyh-uyazvimostey-20220315-123503/"></a>
 </article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск http-сервера Lighttpd 1.4.64
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Состоялся релиз легковесного http-сервера lighttpd 1.4.64. В новой версии представлено 95 изменений, в том числе применены ранее запланированные изменения значений по умолчанию и проведена чистка от устаревшей функциональности.
-https://www.opennet.ru/opennews/art.shtml?num=56545</p>
-  </section>
-  <footer class="entry-footer"><span title='2022-01-20 12:35:03 +0500 +05'>January 20, 2022</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск http-сервера Lighttpd 1.4.64" href="https://ihadtoinstalllinux.github.io/posts/post20220120-123503/"></a>
-</article>
 <footer class="page-footer">
   <nav class="pagination">
     <a class="prev" href="https://ihadtoinstalllinux.github.io/tags/http/">« Prev Page</a>
+    <a class="next" href="https://ihadtoinstalllinux.github.io/tags/http/page/3/">Next Page »</a>
   </nav>
 </footer>
     </main>

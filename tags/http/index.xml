@@ -6,7 +6,17 @@
     <description>Recent content in http on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 16:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В U-boot добавлена поддержка загрузки с использованием протокола HTTP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-u-boot-dobavlena-podderzhka-zagruzki-s-ispolzovaniem-protokola-http-20230126-163507/</link>
+      <pubDate>Thu, 26 Jan 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-u-boot-dobavlena-podderzhka-zagruzki-s-ispolzovaniem-protokola-http-20230126-163507/</guid>
+      <description>В загрузчик U-boot, применяемый преимущественно на встраиваемых устройствах, интегрирован TCP-стек и реализована возможность удалённой загрузки с доставкой загрузочных образов, используя протокол HTTP. Ранее для удалённой загрузки по сети могли использоваться только протоколы на базе UDP, такие как TFTP и NFS. Предполагается, что поддержка загрузки по HTTP существенно упростит разработку встраиваемых систем, так как HTTP-серверы более распространены и привычны разработчикам.
+https://www.opennet.ru/opennews/art.shtml?num=58554</description>
+    </item>
+    
     <item>
       <title>Релиз http-сервера Apache 2.4.55 с устранением уязвимостей </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-55-s-ustraneniem-uyazvimostey-20230120-153503/</link>

@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 15:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 16:36:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_FLAApTBqjk.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230126-163607/</link>
+      <pubDate>Thu, 26 Jan 2023 16:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230126-163607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В U-boot добавлена поддержка загрузки с использованием протокола HTTP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-u-boot-dobavlena-podderzhka-zagruzki-s-ispolzovaniem-protokola-http-20230126-163507/</link>
+      <pubDate>Thu, 26 Jan 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-u-boot-dobavlena-podderzhka-zagruzki-s-ispolzovaniem-protokola-http-20230126-163507/</guid>
+      <description>В загрузчик U-boot, применяемый преимущественно на встраиваемых устройствах, интегрирован TCP-стек и реализована возможность удалённой загрузки с доставкой загрузочных образов, используя протокол HTTP. Ранее для удалённой загрузки по сети могли использоваться только протоколы на базе UDP, такие как TFTP и NFS. Предполагается, что поддержка загрузки по HTTP существенно упростит разработку встраиваемых систем, так как HTTP-серверы более распространены и привычны разработчикам.
+https://www.opennet.ru/opennews/art.shtml?num=58554</description>
+    </item>
+    
     <item>
       <title>Выпуск xine 1.2.13</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xine-1-2-13-20230126-153502/</link>
