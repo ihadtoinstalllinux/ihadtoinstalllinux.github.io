@@ -6,7 +6,25 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 21:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 22:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>q9P_BAuAm7Y.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230126-223517/</link>
+      <pubDate>Thu, 26 Jan 2023 22:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230126-223517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В Wine добавлена поддержка HDR для Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-wine-dobavlena-podderzhka-hdr-dlya-vulkan-20230126-223502/</link>
+      <pubDate>Thu, 26 Jan 2023 22:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-wine-dobavlena-podderzhka-hdr-dlya-vulkan-20230126-223502/</guid>
+      <description>В код Vulkan-драйвера для Wine добавлена поддержка Vulkan-расширения VK_EXT_hdr_metadata, предназначенного для обработки метаданных расширенного динамического диапазона (HDR), включающих сведения о первичных цветах, точке белого и диапазоне яркости, в составе виртуальных фреймбуферов (SwapChain) Vulkan. Предложенный патч для Wine необходим для работы с HDR в играх, работающих на основе графического API Vulkan, таких как Doom Eternal, а также в играх на основе графического API Direct3D с поддержкой HDR, использующих DXVK или VKD3D-Proton, которые &amp;ldquo;на лету&amp;rdquo; преобразуют вызовы Direct3D в системные вызовы Vulkan.</description>
+    </item>
+    
     <item>
       <title>Основой ИТ-инфраструктуры Россельхозбанка станет ОС Astra Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/osnovoy-it-infrastruktury-rosselhozbanka-stanet-os-astra-linux-20230126-213603/</link>
