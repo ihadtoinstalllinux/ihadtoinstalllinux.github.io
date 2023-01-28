@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carbonyl on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/carbonyl/</link>
+    <description>Recent content in Carbonyl on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jan 2023 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/carbonyl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен Carbonyl, консольный браузер на основе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-carbonyl-konsolnyy-brauzer-na-osnove-dvizhka-chromium-20230128-113507/</link>
+      <pubDate>Sat, 28 Jan 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-carbonyl-konsolnyy-brauzer-na-osnove-dvizhka-chromium-20230128-113507/</guid>
+      <description>Представлен новый консольный web-браузер Carbonyl, основанный на движке Chromium и способный отображать в терминале любые сайты, в том числе YouTube. Браузер поддерживает почти все Web API, включая WebGL, WebGPU и средства для воспроизведения видео, звука и анимации. Работа возможна как при прямом запуске терминала, так и при подключении через SSH. Обвязка вокруг движка Chromium написана на языках TypeScript, C++ и Rust.
+https://www.opennet.ru/opennews/art.shtml?num=58566</description>
+    </item>
+    
+  </channel>
+</rss>

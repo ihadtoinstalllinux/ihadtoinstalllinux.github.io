@@ -6,7 +6,17 @@
     <description>Recent content in Chromium on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен Carbonyl, консольный браузер на основе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-carbonyl-konsolnyy-brauzer-na-osnove-dvizhka-chromium-20230128-113507/</link>
+      <pubDate>Sat, 28 Jan 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-carbonyl-konsolnyy-brauzer-na-osnove-dvizhka-chromium-20230128-113507/</guid>
+      <description>Представлен новый консольный web-браузер Carbonyl, основанный на движке Chromium и способный отображать в терминале любые сайты, в том числе YouTube. Браузер поддерживает почти все Web API, включая WebGL, WebGPU и средства для воспроизведения видео, звука и анимации. Работа возможна как при прямом запуске терминала, так и при подключении через SSH. Обвязка вокруг движка Chromium написана на языках TypeScript, C++ и Rust.
+https://www.opennet.ru/opennews/art.shtml?num=58566</description>
+    </item>
+    
     <item>
       <title>В кодовой базе Chromium разрешено использование языка Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-kodovoy-baze-chromium-razresheno-ispolzovanie-yazyka-rust-20230113-113507/</link>
