@@ -6,7 +6,17 @@
     <description>Recent content in ARM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 17:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Зависимость времени выполнения инструкций от данных на CPU ARM и Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zavisimost-vremeni-vypolneniya-instrukciy-ot-dannyh-na-cpu-arm-i-intel-20230129-133505/</link>
+      <pubDate>Sun, 29 Jan 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zavisimost-vremeni-vypolneniya-instrukciy-ot-dannyh-na-cpu-arm-i-intel-20230129-133505/</guid>
+      <description>Эрик Биггерс (Eric Biggers), один из разработчиков шифра Adiantum и мэйнтейнер подсистемы ядра Linux fscrypt, предложил набор патчей для блокирования проблем с безопасностью, возникающих из-за особенности процессоров Intel, не гарантирующей постоянное время выполнения инструкций для разных обрабатываемых данных. В процессорах Intel проблема проявляется начиная с семейства Ice Lake. Аналогичная проблема наблюдается и в процессорах ARM.
+https://www.opennet.ru/opennews/art.shtml?num=58569</description>
+    </item>
+    
     <item>
       <title>Новые версии эмуляторов Box86 и Box64, позволяющих запускать x86-игры на системах ARM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-emulyatorov-box86-i-box64-pozvolyayuschih-zapuskat-x86-igry-na-sistemah-arm-20220418-173502/</link>
