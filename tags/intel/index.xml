@@ -6,7 +6,17 @@
     <description>Recent content in Intel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel прекратил разработку гипервизора HAXM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-prekratil-razrabotku-gipervizora-haxm-20230129-113507/</link>
+      <pubDate>Sun, 29 Jan 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-prekratil-razrabotku-gipervizora-haxm-20230129-113507/</guid>
+      <description>Компания Intel опубликовала новый выпуск движка виртуализации HAXM 7.8 (Hardware Accelerated Execution Manager), после чего перевела репоизиторий в архив и объявила о прекращении сопровождения проекта. Intel больше не будет принимать патчи и исправления, участвовать в разработке и формировать обновления. Лицам, желающим продолжить разработку, предложено создать форк и развивать его самостоятельно.
+https://www.opennet.ru/opennews/art.shtml?num=58568</description>
+    </item>
+    
     <item>
       <title>Компания Intel опубликовала Xe, новый Linux-драйвер для своих GPU</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-opublikovala-xe-novyy-linux-drayver-dlya-svoih-gpu-20221224-113503/</link>
