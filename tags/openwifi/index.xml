@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenWifi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openwifi/</link>
+    <description>Recent content in OpenWifi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 13:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openwifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен открытый Wi-Fi стек OpenWifi 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-otkrytyy-wi-fi-stek-openwifi-1-4-20230130-133508/</link>
+      <pubDate>Mon, 30 Jan 2023 13:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-otkrytyy-wi-fi-stek-openwifi-1-4-20230130-133508/</guid>
+      <description>Опубликован выпуск проекта OpenWifi 1.4, развивающего открытую реализацию полного стека Wi-Fi 802.11a/g/n, форма сигнала и модуляция в котором задаётся программно (SDR, Software Defined Radio). OpenWifi позволяет создать полностью подконтрольную реализацию всех компонентов беспроводного устройства, включая низкоуровневые слои, в обычных беспроводных адаптерах реализуемые на уровне недоступных для аудита чипов. Код программных компонентов, а также схемы и описания аппаратных блоков на языке Verilog для FPGA распространяются под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=58572</description>
+    </item>
+    
+  </channel>
+</rss>
