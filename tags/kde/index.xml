@@ -6,7 +6,16 @@
     <description>Recent content in KDE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 20:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 23.01</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-23-01-20230131-203508/</link>
+      <pubDate>Tue, 31 Jan 2023 20:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-23-01-20230131-203508/</guid>
+      <description>Опубликован выпуск мобильной платформы KDE Plasma Mobile 23.01, основанной на мобильной редакции рабочего стола Plasma 5, библиотеках KDE Frameworks 5, телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики в Plasma Mobile используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Одновременно подготовлен выпуск набора мобильных приложений Plasma Mobile Gear 23.01, который станет последним и в дальнейшем мобильные версии приложений KDE будут развиваться в основном составе KDE Gear. Для создания интерфейса приложений применяется Qt, набор компонентов Mauikit и фреймворк Kirigami из состава KDE Frameworks, позволяющий создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
     <item>
       <title>Тестирование рабочего стола KDE Plasma 5.27</title>
       <link>https://ihadtoinstalllinux.github.io/posts/testirovanie-rabochego-stola-kde-plasma-5-27-20230122-003507/</link>
