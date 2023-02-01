@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 11:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Xfce развивается поддержка Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-xfce-razvivaetsya-podderzhka-wayland-20230201-123506/</link>
+      <pubDate>Wed, 01 Feb 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-xfce-razvivaetsya-podderzhka-wayland-20230201-123506/</guid>
+      <description>Доступны экспериментальные выпуски панели xfce4-panel 4.19.0 и рабочего стола xfdesktop 4.19.0, в которых предложена начальная поддержка работы в окружениях на базе протокола Wayland. Поддержка реализована при помощи новой библиотеки libxfce4windowing, предлагающей слой для абстрагирования от графической подсистемы, способный работать поверх X11 и Wayland. В библиотеке libxfce4windowin реализованы компоненты управления окнами (экраны, корневые окна, виртуальные рабочие столы и т.п.), не привязанные к определённой оконной системе.
+https://www.opennet.ru/opennews/art.shtml?num=58580</description>
+    </item>
+    
     <item>
       <title>ibcYpQunjdE.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230201-113528/</link>
