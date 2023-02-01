@@ -6,7 +6,17 @@
     <description>Recent content in COSMIC on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Oct 2022 11:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 16:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прогресс в разработке пользовательского окружения COSMIC, написанного на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-polzovatelskogo-okruzheniya-cosmic-napisannogo-na-rust-20230201-163507/</link>
+      <pubDate>Wed, 01 Feb 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-razrabotke-polzovatelskogo-okruzheniya-cosmic-napisannogo-na-rust-20230201-163507/</guid>
+      <description>Компания System76, развивающая Linux-дистрибутив Pop!_OS, опубликовала отчёт о развитии нового пользовательского окружения COSMIC, написанного на языке Rust. Окружение развивается как универсальный проект, не привязанный к конкретному дистрибутиву, соответствующий спецификациям Freedesktop. Проектом также развивается композитный сервер cosmic-comp на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=58583</description>
+    </item>
+    
     <item>
       <title>Пользовательское окружение COSMIC будет использовать Iced вместо GTK</title>
       <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-budet-ispolzovat-iced-vmesto-gtk-20221004-113508/</link>
