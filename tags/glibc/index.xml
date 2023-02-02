@@ -6,7 +6,17 @@
     <description>Recent content in Glibc on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.37</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-37-20230202-103503/</link>
+      <pubDate>Thu, 02 Feb 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-37-20230202-103503/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.37, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 63 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=58585</description>
+    </item>
+    
     <item>
       <title>Реализована возможность сборки Glibc при помощи инструментария LLVM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/realizovana-vozmozhnost-sborki-glibc-pri-pomoschi-instrumentariya-llvm-20230118-163503/</link>
