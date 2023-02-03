@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 13:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OpenSSH 9.2 с устранением уязвимости, проявляющейся на этапе до аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openssh-9-2-s-ustraneniem-uyazvimosti-proyavlyayuscheysya-na-etape-do-autentifikaci-20230203-143508/</link>
+      <pubDate>Fri, 03 Feb 2023 14:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openssh-9-2-s-ustraneniem-uyazvimosti-proyavlyayuscheysya-na-etape-do-autentifikaci-20230203-143508/</guid>
+      <description>Опубликован релиз OpenSSH 9.2, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии устранена уязвимость, приводящая к двойному освобождению области памяти на стадии до прохождения аутентификации. Уязвимости подвержен только выпуск OpenSSH 9.1, в более ранних версиях проблема не проявляется.
+https://www.opennet.ru/opennews/art.shtml?num=58598</description>
+    </item>
+    
     <item>
       <title>7FxC6u9zvK0.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230203-133603/</link>
