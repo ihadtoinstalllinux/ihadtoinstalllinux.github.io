@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 16:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IJU55KNHM00.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230206-163606/</link>
+      <pubDate>Mon, 06 Feb 2023 16:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230206-163606/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в ImageMagick, приводящая к утечке содержимого локальных файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-imagemagick-privodyaschaya-k-utechke-soderzhimogo-lokalnyh-faylov-20230206-163505/</link>
+      <pubDate>Mon, 06 Feb 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-imagemagick-privodyaschaya-k-utechke-soderzhimogo-lokalnyh-faylov-20230206-163505/</guid>
+      <description>В пакете ImageMagick, который часто используется web-разработчиками для преобразования изображений, выявлена уязвимость CVE-2022-44268, которая может привести к утечке содержимого файлов в случае преобразования при помощи ImageMagick подготовленных атакующим PNG-изображений. Уязвимость угрожает системам, которые обрабатывают внешние изображения и затем дают возможность загрузить результаты преобразования.
+https://www.opennet.ru/opennews/art.shtml?num=58610</description>
+    </item>
+    
     <item>
       <title>Релиз медиацентра MythTV 33</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-mediacentra-mythtv-33-20230206-153503/</link>
