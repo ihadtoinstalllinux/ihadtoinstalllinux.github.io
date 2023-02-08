@@ -6,7 +6,17 @@
     <description>Recent content in OpenSSL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2022 22:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 17:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в OpenSSL и LibreSSL, приводящая к утечке содержимого памяти</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssl-i-libressl-privodyaschaya-k-utechke-soderzhimogo-pamyati-20230208-173506/</link>
+      <pubDate>Wed, 08 Feb 2023 17:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssl-i-libressl-privodyaschaya-k-utechke-soderzhimogo-pamyati-20230208-173506/</guid>
+      <description>Опубликована корректирующие выпуски библиотек OpenSSL (3.0.8, 1.1.1t) и LibreSSL (3.5.4, 3.6.2) в которых устранена опасная уязвимость (CVE-2023-0286), позволяющая добиться получения содержимого произвольных областей памяти процесса при обработке подконтрольного атакующему списка отозванных сертификатов (CRL) или токена с временной меткой.
+https://www.opennet.ru/opennews/art.shtml?num=58622</description>
+    </item>
+    
     <item>
       <title>Переполнение буфера в OpenSSL, эксплуатируемое при проверке сертификатов X.509 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-openssl-ekspluatiruemoe-pri-proverke-sertifikatov-x-509-20221101-223502/</link>
