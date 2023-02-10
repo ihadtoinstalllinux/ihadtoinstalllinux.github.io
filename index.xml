@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 11:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Работа над GTK5 начнётся в конце года. Намерение разработки GTK на языках, отличных от Си</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rabota-nad-gtk5-nachnetsya-v-konce-goda-namerenie-razrabotki-gtk-na-yazykah-otlichnyh-ot-s-20230210-123506/</link>
+      <pubDate>Fri, 10 Feb 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rabota-nad-gtk5-nachnetsya-v-konce-goda-namerenie-razrabotki-gtk-na-yazykah-otlichnyh-ot-s-20230210-123506/</guid>
+      <description>Разработчики библиотеки GTK планируют в конце года сформировать экспериментальную ветку 4.90, в которой будет развиваться функциональность для будущего выпуска GTK5. До начала работы над GTK5, помимо весеннего выпуска GTK 4.10, осенью планируется опубликовать выпуск GTK 4.12, в который войдут наработки, связанные с управлением цветом. В ветку GTK5 будут включены изменения нарушающие совместимость на уровне API, например, связанные с переводом в разряд устаревших некоторых виджетов, таких как старый диалог выбора файлов. Также обсуждается возможность прекращения в ветке GTK5 поддержки протокола X11 и оставления возможности работы только с использованием протокола Wayland.</description>
+    </item>
+    
     <item>
       <title>GB13wPC49IU.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230210-113520/</link>
