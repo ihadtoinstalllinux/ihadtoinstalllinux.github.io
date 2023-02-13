@@ -6,7 +6,17 @@
     <description>Recent content in OpenSSH on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 02:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прогресс в создании эксплоита для OpenSSH 9.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-sozdanii-eksploita-dlya-openssh-9-1-20230214-023507/</link>
+      <pubDate>Tue, 14 Feb 2023 02:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-sozdanii-eksploita-dlya-openssh-9-1-20230214-023507/</guid>
+      <description>Компания Qualys нашла способ обойти защиту malloc и double-free для.
+https://www.opennet.ru/opennews/art.shtml?num=58645</description>
+    </item>
+    
     <item>
       <title>Выпуск OpenSSH 9.2 с устранением уязвимости, проявляющейся на этапе до аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openssh-9-2-s-ustraneniem-uyazvimosti-proyavlyayuscheysya-na-etape-do-autentifikaci-20230203-143508/</link>
