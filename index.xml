@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 17:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 18:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в Git, приводящая к утечке и перезаписи данных</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-git-privodyaschaya-k-utechke-i-perezapisi-dannyh-20230215-183503/</link>
+      <pubDate>Wed, 15 Feb 2023 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-git-privodyaschaya-k-utechke-i-perezapisi-dannyh-20230215-183503/</guid>
+      <description>Опубликованы корректирующие выпуски распределённой системы управления исходными текстами Git 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7 и 2.30.8, в которых устранены две уязвимости, затрагивающие оптимизации при локальном клонировании и команду &amp;ldquo;git apply&amp;rdquo;. Проследить за выпуском обновлений пакетов в дистрибутивах можно на страницах Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD. Если установить обновление не представляется возможным, в качестве обходных мер рекомендуется избегать выполнения.
+https://www.opennet.ru/opennews/art.shtml?num=58655</description>
+    </item>
+    
     <item>
       <title>VK запускает разработку собственного открытого игрового движка </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vk-zapuskaet-razrabotku-sobstvennogo-otkrytogo-igrovogo-dvizhka-20230215-173506/</link>
