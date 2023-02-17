@@ -6,7 +6,16 @@
     <description>Recent content in MariaDB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2022 17:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 17:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стабильный выпуск СУБД MariaDB 10.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-11-20230217-173506/</link>
+      <pubDate>Fri, 17 Feb 2023 17:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/stabilnyy-vypusk-subd-mariadb-10-11-20230217-173506/</guid>
+      <description>Опубликован первый стабильный релиз новой ветки СУБД MariaDB 10.11 (10.11.2), в рамках которой развивается ответвление от MySQL, сохраняющее обратную совместимость и отличающееся интеграцией дополнительных движков хранения и расширенных возможностей. Развитие MariaDB курирует независимая организация MariaDB Foundation в соответствии с открытым и прозрачным процессом разработки, не зависящим от отдельных производителей. MariaDB поставляется вместо MySQL во многих дистрибутивах Linux (RHEL, SUSE, Fedora, openSUSE, Slackware, OpenMandriva, ROSA, Arch Linux, Debian) и внедрён в таких крупных проектах, как Wikipedia, Google Cloud SQL и Nimbuzz.</description>
+    </item>
+    
     <item>
       <title>Представлена новая значительная ветка СУБД MariaDB 11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-novaya-znachitelnaya-vetka-subd-mariadb-11-20221228-173503/</link>
