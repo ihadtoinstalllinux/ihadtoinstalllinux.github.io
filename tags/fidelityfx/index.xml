@@ -6,7 +6,16 @@
     <description>Recent content in FidelityFX on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 03:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fidelityfx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 09:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fidelityfx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMD опубликовал код технологии суперсэмплинга FidelityFX Super Resolution 2.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-tehnologii-supersemplinga-fidelityfx-super-resolution-2-2-20230219-093503/</link>
+      <pubDate>Sun, 19 Feb 2023 09:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-tehnologii-supersemplinga-fidelityfx-super-resolution-2-2-20230219-093503/</guid>
+      <description>Компания AMD объявила о доступности исходных текстов обновлённой реализации технологии суперсэмплинга FSR 2.2 (FidelityFX Super Resolution), использующей алгоритмы пространственного масштабирования и реконструкции деталей для снижения потери качества изображения при увеличении масштаба и преобразования в более высокое разрешение. Код написан на языке С++ и распространяется под лицензией MIT. Помимо базового API для языка C++ проектом обеспечена поддержка графических API DirectX 12 и Vulkan, а также шейдерных языков HLSL и GLSL. Предоставляется набор примеров и подробная документация.</description>
+    </item>
+    
     <item>
       <title>Компания AMD открыла реализацию технологии FidelityFX Super Resolution 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-realizaciyu-tehnologii-fidelityfx-super-resolution-2-0-20220623-033502/</link>
