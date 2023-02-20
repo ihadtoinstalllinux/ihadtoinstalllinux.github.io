@@ -6,7 +6,16 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 13:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз ядра Linux 6.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-6-2-20230220-153505/</link>
+      <pubDate>Mon, 20 Feb 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-6-2-20230220-153505/</guid>
+      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 6.2. Среди наиболее заметных изменений: разрешён приём кода под лицензией Copyleft-Next, улучшена реализация RAID5/6 в Btrfs, продолжена интеграция поддержки языка Rust, снижены накладные расходы при защите от атак Retbleed, добавлена возможность регулирования потребления памяти при обратной записи, для TCP добавлен механизм балансировки PLB (Protective Load Balancing), добавлен гибридный механизм защиты потока выполнения команд (FineIBT), в BPF появилась возможность определения собственных объектов и структур данных, в состав включена утилита rv (Runtime Verification), снижено энергопотребление в реализации блокировок RCU.</description>
+    </item>
+    
     <item>
       <title>-HxH86Abbp4.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230220-133604/</link>
