@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 13:36:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Командную оболочку Fish планируют переписать на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/komandnuyu-obolochku-fish-planiruyut-perepisat-na-yazyke-rust-20230221-153505/</link>
+      <pubDate>Tue, 21 Feb 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/komandnuyu-obolochku-fish-planiruyut-perepisat-na-yazyke-rust-20230221-153505/</guid>
+      <description>Петер Аммон (Peter Ammon), лидер команды разработчиков интерактивной командной оболочки Fish, опубликовал план перевода разработки проекта на язык Rust. Оболочку планируют не переписать с нуля, а постепенно, модуль за модулем, переводить с C++ на язык Rust. По мнению разработчиков Fish применение Rust позволит решить проблемы с многопоточностью, получить более современный и качественно выявляющий ошибки инструментарий, повысить безопасность работы с памятью и избавиться от ошибок, таких как обращение к памяти после её освобождения, при обработке строк, для которых в Fish используется тип wchar_t.</description>
+    </item>
+    
     <item>
       <title>-iqWmMrXNyg.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230221-133607/</link>
