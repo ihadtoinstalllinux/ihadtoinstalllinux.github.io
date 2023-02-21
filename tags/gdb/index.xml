@@ -6,7 +6,17 @@
     <description>Recent content in GDB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 13:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск отладчика GDB 13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otladchika-gdb-13-20230221-133503/</link>
+      <pubDate>Tue, 21 Feb 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otladchika-gdb-13-20230221-133503/</guid>
+      <description>Представлен релиз отладчика GDB 13.1 (первый выпуск серии 13.x, ветка 13.0 использовалась для разработки). GDB поддерживает отладку на уровне исходных текстов для широкого спектра языков программирования (Ada, C, C++, D, Fortran, Go, Objective-C, Modula-2, Pascal, Rust и т.д.) на различных аппаратных (i386, amd64, ARM, Power, Sparc, RISC-V и т.д.) и программных платформах (GNU/Linux, *BSD, Unix, Windows, macOS).
+https://www.opennet.ru/opennews/art.shtml?num=58682</description>
+    </item>
+    
     <item>
       <title>Выпуск отладчика GDB 12</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otladchika-gdb-12-20220502-123503/</link>
