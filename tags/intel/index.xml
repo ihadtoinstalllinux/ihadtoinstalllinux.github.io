@@ -6,7 +6,16 @@
     <description>Recent content in Intel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован план продвижения в ядро Linux  драйвера Xe для GPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-prodvizheniya-v-yadro-linux-drayvera-xe-dlya-gpu-intel-20230222-143508/</link>
+      <pubDate>Wed, 22 Feb 2023 14:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-prodvizheniya-v-yadro-linux-drayvera-xe-dlya-gpu-intel-20230222-143508/</guid>
+      <description>Дэниел Веттер (Daniel Vetter), инженер из компании Intel и один из сопровождающих подсистему DRM, опубликовал в списке рассылки разработчиков ядра Linux план продвижения патчей с реализацией драйвера Xe, предназначенного для использования с GPU на базе архитектуры Intel Xe, которая используется в видеокартах семейства Arc и интегрированной графике, начиная с процессоров Tiger Lake. Драйвер Xe позиционируется как основа для обеспечения поддержки новых чипов, не привязанная к коду для поддержки старых платформ. В течение 2023 года патчи планируется довести до пригодности тестирования энтузиастами, а также по возможности провести рецензирование разработчиками, не связанными с компанией Intel.</description>
+    </item>
+    
     <item>
       <title>Intel открыл код  реализации OpenCL, выполняемой на CPU</title>
       <link>https://ihadtoinstalllinux.github.io/posts/intel-otkryl-kod-realizacii-opencl-vypolnyaemoy-na-cpu-20230219-103503/</link>
