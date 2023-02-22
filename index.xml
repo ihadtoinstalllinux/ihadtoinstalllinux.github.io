@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 23:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Официальные редакции Ubuntu прекратят поддержку Flatpak в базовой поставке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oficialnye-redakcii-ubuntu-prekratyat-podderzhku-flatpak-v-bazovoy-postavke-20230223-003507/</link>
+      <pubDate>Thu, 23 Feb 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oficialnye-redakcii-ubuntu-prekratyat-podderzhku-flatpak-v-bazovoy-postavke-20230223-003507/</guid>
+      <description>Филипп Кевиш (Philipp Kewisch) из компании Canonical объявил о решении не предоставлять возможность установки пакетов в формате Flatpak в конфигурации по умолчанию официальных редакций Ubuntu. Решение согласовано с разработчиками имеющихся официальных редакций Ubuntu, в число которых входят Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin и Ubuntu Unity. Желающим использовать формат Flatpak потребуется отдельно установить пакет для его поддержки из репозитория (deb-пакет flatpak) и при необходимости активировать поддержку каталога Flathub.</description>
+    </item>
+    
     <item>
       <title>bXf57Z-fnh4.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230222-233527/</link>
