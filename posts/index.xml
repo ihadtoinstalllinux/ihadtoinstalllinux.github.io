@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 07:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 10:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cWRXCKiquE8.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230223-103512/</link>
+      <pubDate>Thu, 23 Feb 2023 10:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230223-103512/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>В GNOME Mutter будет прекращена поддержка старых версий OpenGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-mutter-budet-prekraschena-podderzhka-staryh-versiy-opengl-20230223-103503/</link>
+      <pubDate>Thu, 23 Feb 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-mutter-budet-prekraschena-podderzhka-staryh-versiy-opengl-20230223-103503/</guid>
+      <description>В кодовую базу композитного сервера Mutter, которая будет использована в выпуске GNOME 44, внесены изменения, убирающие поддержку старых версий OpenGL. Для работы Mutter будут необходимы драйверы с поддержкой как минимум OpenGL 3.1. При этом в Mutter будет сохранена поддержка OpenGL ES 2.0, что позволит сохранить возможность работы на старых видеокартах и на GPU, применяемых на ARM-платах. Предполагается, что удаление кода для поддержки устаревших версий OpenGL упрости сопровождение кодовой базы и высвободит ресурсы при тестирование новой функциональности.</description>
+    </item>
+    
     <item>
       <title>ic2IniJ7Et8.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230223-073554/</link>

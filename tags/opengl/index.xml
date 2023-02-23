@@ -6,7 +6,16 @@
     <description>Recent content in OpenGL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GNOME Mutter будет прекращена поддержка старых версий OpenGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-mutter-budet-prekraschena-podderzhka-staryh-versiy-opengl-20230223-103503/</link>
+      <pubDate>Thu, 23 Feb 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-mutter-budet-prekraschena-podderzhka-staryh-versiy-opengl-20230223-103503/</guid>
+      <description>В кодовую базу композитного сервера Mutter, которая будет использована в выпуске GNOME 44, внесены изменения, убирающие поддержку старых версий OpenGL. Для работы Mutter будут необходимы драйверы с поддержкой как минимум OpenGL 3.1. При этом в Mutter будет сохранена поддержка OpenGL ES 2.0, что позволит сохранить возможность работы на старых видеокартах и на GPU, применяемых на ARM-платах. Предполагается, что удаление кода для поддержки устаревших версий OpenGL упрости сопровождение кодовой базы и высвободит ресурсы при тестирование новой функциональности.</description>
+    </item>
+    
     <item>
       <title>Релиз Mesa 22.3, свободной реализации OpenGL и Vulkan </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-22-3-svobodnoy-realizacii-opengl-i-vulkan-20221201-153503/</link>
