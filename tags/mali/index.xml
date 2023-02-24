@@ -6,7 +6,17 @@
     <description>Recent content in Mali on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mali/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Collabora развивает PanCSF, новый Linux-драйвер для GPU Mali</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</link>
+      <pubDate>Fri, 24 Feb 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</guid>
+      <description>Компания Collabora представила, DRM-драйвер (Direct Rendering Manager) PanCSF, работающий на уровне ядра Linux. Изменения для использования нового драйвера в Mesa планируется опубликовать в ближайшее время. Драйвер нацелен на использование с 10 поколением GPU Mali (G710+), в котором применяется технология CSF (Сommand Stream Frontend), выносящая на сторону прошивки некоторые функции драйвера для снижения нагрузки на CPU и предлагающая новую модель организации выполнения работ на GPU.
+https://www.opennet.ru/opennews/art.shtml?num=58700</description>
+    </item>
+    
     <item>
       <title>Драйвер Panfrost сертифицирован на совместимость с OpenGL ES 3.1 для GPU Mali серии Valhall </title>
       <link>https://ihadtoinstalllinux.github.io/posts/drayver-panfrost-sertificirovan-na-sovmestimost-s-opengl-es-3-1-dlya-gpu-mali-serii-valhal-20220607-003502/</link>

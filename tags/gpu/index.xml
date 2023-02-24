@@ -6,7 +6,17 @@
     <description>Recent content in GPU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Collabora развивает PanCSF, новый Linux-драйвер для GPU Mali</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</link>
+      <pubDate>Fri, 24 Feb 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</guid>
+      <description>Компания Collabora представила, DRM-драйвер (Direct Rendering Manager) PanCSF, работающий на уровне ядра Linux. Изменения для использования нового драйвера в Mesa планируется опубликовать в ближайшее время. Драйвер нацелен на использование с 10 поколением GPU Mali (G710+), в котором применяется технология CSF (Сommand Stream Frontend), выносящая на сторону прошивки некоторые функции драйвера для снижения нагрузки на CPU и предлагающая новую модель организации выполнения работ на GPU.
+https://www.opennet.ru/opennews/art.shtml?num=58700</description>
+    </item>
+    
     <item>
       <title>Опубликован план продвижения в ядро Linux  драйвера Xe для GPU Intel</title>
       <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-prodvizheniya-v-yadro-linux-drayvera-xe-dlya-gpu-intel-20230222-143508/</link>

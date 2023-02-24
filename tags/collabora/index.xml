@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Collabora on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/collabora/</link>
+    <description>Recent content in Collabora on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/collabora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Collabora развивает PanCSF, новый Linux-драйвер для GPU Mali</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</link>
+      <pubDate>Fri, 24 Feb 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-collabora-razvivaet-pancsf-novyy-linux-drayver-dlya-gpu-mali-20230224-113506/</guid>
+      <description>Компания Collabora представила, DRM-драйвер (Direct Rendering Manager) PanCSF, работающий на уровне ядра Linux. Изменения для использования нового драйвера в Mesa планируется опубликовать в ближайшее время. Драйвер нацелен на использование с 10 поколением GPU Mali (G710+), в котором применяется технология CSF (Сommand Stream Frontend), выносящая на сторону прошивки некоторые функции драйвера для снижения нагрузки на CPU и предлагающая новую модель организации выполнения работ на GPU.
+https://www.opennet.ru/opennews/art.shtml?num=58700</description>
+    </item>
+    
+  </channel>
+</rss>
