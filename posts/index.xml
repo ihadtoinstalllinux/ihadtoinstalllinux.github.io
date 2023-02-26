@@ -6,7 +6,25 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Feb 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 13:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLJzc23poag.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20230226-133601/</link>
+      <pubDate>Sun, 26 Feb 2023 13:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20230226-133601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Началось продвижение поддержки Wayland в основной состав Wine</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-prodvizhenie-podderzhki-wayland-v-osnovnoy-sostav-wine-20230226-133505/</link>
+      <pubDate>Sun, 26 Feb 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-prodvizhenie-podderzhki-wayland-v-osnovnoy-sostav-wine-20230226-133505/</guid>
+      <description>Для включения в основной состав Wine предложен первый набор патчей, развиваемых проектом Wine-wayland для предоставления возможности использовать Wine в окружениях на базе протокола Wayland без применения XWayland и компонентов X11. Так как объём изменений достаточно велик для упрощения рецензирования и интеграции наработки Wine-wayland планируют переносить постепенно, разбив этот процесс на несколько этапов. На первом этапе для включения в Wine предложен код, охватывающий драйвер winewayland.drv и компоненты unixlib, а также подготовку к обработке системой сборки файлов с определениями протокола Wayland.</description>
+    </item>
+    
     <item>
       <title>В NPM выявлено 15 тысяч пакетов для фишинга и спама</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-npm-vyyavleno-15-tysyach-paketov-dlya-fishinga-i-spama-20230226-113506/</link>
