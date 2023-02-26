@@ -6,7 +6,17 @@
     <description>Recent content in NPM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 16:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В NPM выявлено 15 тысяч пакетов для фишинга и спама</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-npm-vyyavleno-15-tysyach-paketov-dlya-fishinga-i-spama-20230226-113506/</link>
+      <pubDate>Sun, 26 Feb 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-npm-vyyavleno-15-tysyach-paketov-dlya-fishinga-i-spama-20230226-113506/</guid>
+      <description>Зафиксирована атака на пользователей каталога NPM, в результате которой 20 февраля в репозитории NPM было размещено более 15 тысяч пакетов, в README-файлах которых присутствовали ссылки на фишинговые сайты или реферальные ссылки, за переходы по которым выплачиваются отчисления. В ходе анализа в пакетах было выявлено 190 уникальных фишинговых или рекламных ссылок, охватывающих 31 домен.
+https://www.opennet.ru/opennews/art.shtml?num=58710</description>
+    </item>
+    
     <item>
       <title>RCE-уязвимость в NPM-пакете JsonWebToken, насчитывающем 10 млн загрузок в неделю</title>
       <link>https://ihadtoinstalllinux.github.io/posts/rce-uyazvimost-v-npm-pakete-jsonwebtoken-naschityvayuschem-10-mln-zagruzok-v-nedelyu-20230111-163503/</link>
