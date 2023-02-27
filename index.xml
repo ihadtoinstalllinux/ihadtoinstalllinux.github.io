@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Feb 2023 23:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пользовательское окружение KDE Plasma переходит на Qt 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-kde-plasma-perehodit-na-qt-6-20230228-003503/</link>
+      <pubDate>Tue, 28 Feb 2023 00:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-kde-plasma-perehodit-na-qt-6-20230228-003503/</guid>
+      <description>Разработчики проекта KDE сообщили о намерении 28 февраля перевести master-ветку пользовательской оболочки KDE Plasma на библиотеку Qt 6. В связи с переводом некоторое время в ветке master могут наблюдаться отдельные проблемы и нарушения работы некоторых несущественных функций. Существующие конфигурации сборочного окружения kdesrc-build будут переведены на сборку ветки Plasma/5.27, в которой используется Qt5 (&amp;ldquo;branch-group kf5-qt5&amp;rdquo; в .kdesrc-buildrc). Для сборки с Qt6 в .kdesrc-buildrc следует указать &amp;ldquo;kf6-qt6&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=58717</description>
+    </item>
+    
     <item>
       <title>Ei33tl80eJ8.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230227-233535/</link>
