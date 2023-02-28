@@ -6,7 +6,17 @@
     <description>Recent content in Apache on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 10:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Apache OpenOffice 4.1.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-apache-openoffice-4-1-14-20230228-103503/</link>
+      <pubDate>Tue, 28 Feb 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-apache-openoffice-4-1-14-20230228-103503/</guid>
+      <description>Доступен корректирующий релиз офисного пакета Apache OpenOffice 4.1.14, в котором предложено 27 исправлений. Готовые пакеты подготовлены для Linux, Windows и macOS. В новом выпуске изменён метод кодирования и хранения мастер-пароля, поэтому пользователям перед установкой версии 4.1.14 рекомендовано сделать резервную копию профиля OpenOffice, так как в новом профиле будет нарушена совместимость с прошлыми выпусками.
+https://www.opennet.ru/opennews/art.shtml?num=58719</description>
+    </item>
+    
     <item>
       <title>Выпуск интегрированной среды разработки Apache NetBeans 17</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-17-20230225-103507/</link>
