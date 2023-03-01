@@ -6,7 +6,17 @@
     <description>Recent content in Debian on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 01:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 15:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Debian 12 запущен отдельный репозиторий с прошивками</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-debian-12-zapuschen-otdelnyy-repozitoriy-s-proshivkami-20230301-153503/</link>
+      <pubDate>Wed, 01 Mar 2023 15:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-debian-12-zapuschen-otdelnyy-repozitoriy-s-proshivkami-20230301-153503/</guid>
+      <description>Разработчики Debian объявили о тестировании нового репозитория non-free-firmware, в который из репозитория non-free перенесены пакеты с прошивками. Во втором альфа-выпуске инсталлятора Debian 12 &amp;ldquo;Bookworm&amp;rdquo; предоставлена возможность динамического запроса пакетов с прошивками из репозитория non-free-firmware. Наличие отдельного репозитория с прошивками позволяет обеспечить доступ к прошивкам без включения в установочных носителях общего репозитория non-free.
+https://www.opennet.ru/opennews/art.shtml?num=58728</description>
+    </item>
+    
     <item>
       <title>Пользовательская оболочка Lomiri (Unity8) принята в Debian</title>
       <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskaya-obolochka-lomiri-unity8-prinyata-v-debian-20230228-013502/</link>
