@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 11:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 12:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен VPN Rosenpass, устойчивый к атакам с использованием квантовых компьютеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-vpn-rosenpass-ustoychivyy-k-atakam-s-ispolzovaniem-kvantovyh-kompyuterov-20230304-123502/</link>
+      <pubDate>Sat, 04 Mar 2023 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-vpn-rosenpass-ustoychivyy-k-atakam-s-ispolzovaniem-kvantovyh-kompyuterov-20230304-123502/</guid>
+      <description>Группа немецких исследователей, разработчиков и криптографов опубликовала первый выпуск проекта Rosenpass, развивающего VPN и механизм обмена ключами, устойчивые ко взлому на квантовых компьютерах. В качестве транспорта используется VPN WireGuard со штатными алгоритмами шифрования и ключами, а Rosenpass дополняет его средствами обмена ключами, защищёнными от взлома на квантовых компьютерах (т.е. Rosenpass дополнительно защищает обмен ключами, не меняя алгоритмы работы и методы шифрования WireGuard). Rosenpass также может применяться отдельно от WireGuard в форме универсального инструментария для обмена ключами, подходящего для защиты других протоколов от атак на квантовых компьютерах.</description>
+    </item>
+    
     <item>
       <title>ZPktaCBqhdA.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20230304-113513/</link>
