@@ -6,7 +6,17 @@
     <description>Recent content in GNOME on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME Shell и Mutter завершили переход на GTK4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-shell-i-mutter-zavershili-perehod-na-gtk4-20230304-133502/</link>
+      <pubDate>Sat, 04 Mar 2023 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-shell-i-mutter-zavershili-perehod-na-gtk4-20230304-133502/</guid>
+      <description>Пользовательская оболочка GNOME Shell и композитный менеджер Mutter полностью переведены на использование библиотеки GTK4 и избавились от жёсткой зависимости от GTK3. Кроме того, зависимость gnome-desktop-3.0 заменена на gnome-desktop-4 и gnome-bg-4, а libnma на libnma4.
+https://www.opennet.ru/opennews/art.shtml?num=58744</description>
+    </item>
+    
     <item>
       <title>В GNOME Mutter будет прекращена поддержка старых версий OpenGL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-mutter-budet-prekraschena-podderzhka-staryh-versiy-opengl-20230223-103503/</link>

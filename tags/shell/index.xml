@@ -6,7 +6,17 @@
     <description>Recent content in shell on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 14:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 13:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME Shell и Mutter завершили переход на GTK4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-shell-i-mutter-zavershili-perehod-na-gtk4-20230304-133502/</link>
+      <pubDate>Sat, 04 Mar 2023 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-shell-i-mutter-zavershili-perehod-na-gtk4-20230304-133502/</guid>
+      <description>Пользовательская оболочка GNOME Shell и композитный менеджер Mutter полностью переведены на использование библиотеки GTK4 и избавились от жёсткой зависимости от GTK3. Кроме того, зависимость gnome-desktop-3.0 заменена на gnome-desktop-4 и gnome-bg-4, а libnma на libnma4.
+https://www.opennet.ru/opennews/art.shtml?num=58744</description>
+    </item>
+    
     <item>
       <title>Доступен ShellCheck 0.9, статический анализатор для shell-скриптов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-shellcheck-0-9-staticheskiy-analizator-dlya-shell-skriptov-20221227-143503/</link>
