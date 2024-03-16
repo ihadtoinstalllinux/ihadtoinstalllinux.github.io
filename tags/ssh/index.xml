@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSH on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ssh/</link>
+    <description>Recent content in SSH on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 12:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Использование SSH поверх UNIX-сокета вместо sudo для избавления от suid-файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</link>
+      <pubDate>Wed, 20 Dec 2023 12:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</guid>
+      <description>Тимоти Равье (Timothee Ravier) из компании Red Hat, мэйнтейнер проектов Fedora Silverblue и Fedora Kinoite, предложил способ ухода от применения утилиты sudo, использующей suid-бит для повышения привилегий. Вместо sudo для выполнения обычным пользователем команд с правами root предлагается задействовать утилиту ssh с локальным соединением к той же системе через UNIX-сокет и проверкой полномочий на основе SSH-ключей.
+https://www.opennet.ru/opennews/art.shtml?num=60317</description>
+    </item>
+    
+    <item>
+      <title>Terrapin - уязвимость в протоколе SSH, позволяющая снизить защиту соединения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/terrapin-uyazvimost-v-protokole-ssh-pozvolyayuschaya-snizit-zaschitu-soedineniya-20231219-013544/</link>
+      <pubDate>Tue, 19 Dec 2023 01:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/terrapin-uyazvimost-v-protokole-ssh-pozvolyayuschaya-snizit-zaschitu-soedineniya-20231219-013544/</guid>
+      <description>Группа исследователей из Рурского университета в Бохуме (Германия) представила новую технику MITM-атаки на SSH - Terrapin, эксплуатирующую уязвимость (CVE-2023-48795) в протоколе. Атакующий, способный организовать MITM-атаку, имеет возможность в процессе согласования соединения блокировать отправку сообщения с настройкой расширений протокола для снижения уровня защиты соединения. Прототип инструментария для совершения атаки опубликован на GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=60304</description>
+    </item>
+    
+    <item>
+      <title>Представлен SSH3, вариант протокола SSH, использующий HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-ssh3-variant-protokola-ssh-ispolzuyuschiy-http-3-20231217-143543/</link>
+      <pubDate>Sun, 17 Dec 2023 14:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-ssh3-variant-protokola-ssh-ispolzuyuschiy-http-3-20231217-143543/</guid>
+      <description>Доступен первый официальный выпуск экспериментальной реализации сервера и клиента для протокола SSH3, оформленного в форме надстройки над протоколом HTTP/3, использующей QUIC (на базе UDP) и TLS 1.3 для установки защищённого канала связи и механизмы HTTP для аутентификации пользователей. Проект разрабатывает Франсуа Мишель (François Michel), аспирант Лувенского католического университета (Бельгия), при участии Оливье Бонавентуры (Olivier Bonaventure), профессора того же университета, известного разработкой подсистемы Multipath TCP и кода сегментной маршрутизации IPv6 для ядра Linux, а также соавтора 10 RFC и черновиков более 60 сетевых спецификаций.</description>
+    </item>
+    
+    <item>
+      <title>Воссоздание RSA-ключей через анализ SSH-соединений к сбойным серверам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vossozdanie-rsa-klyuchey-cherez-analiz-ssh-soedineniy-k-sboynym-serveram-20231114-193600/</link>
+      <pubDate>Tue, 14 Nov 2023 19:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vossozdanie-rsa-klyuchey-cherez-analiz-ssh-soedineniy-k-sboynym-serveram-20231114-193600/</guid>
+      <description>Группа исследователей из Калифорнийского университета в Сан-Диего продемонстрировала возможность воссоздания закрытых хостовых RSA-ключей SSH-сервера, используя пассивный анализ трафика SSH. Атака может быть совершена на серверы, на которых в силу стечения обстоятельств или действий атакующего возникают сбои во время вычисления цифровой подписи при установке SSH-соединения. Сбои могут быть как программными (некорректное выполнение математических операций, повреждение памяти), так и аппаратными (ошибки при работе NVRAM и DRAM или сбои при перебоях с питанием).</description>
+    </item>
+    
+    <item>
+      <title>Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</link>
+      <pubDate>Thu, 20 Jul 2023 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</guid>
+      <description>Компания Qualys выявила удалённо эксплуатируемую уязвимость (CVE-2023-38408) в реализации ssh-agent из состава OpenSSH, позволяющую выполнить код в системе, предоставившей доступ к ssh-agent для хоста на другом конце ssh-соединения. Совершение атаки возможно только если пользователь подключился по ssh к системе, контролируемой злоумышленником, включив проброс сокета к ssh-agent по ssh при помощи опции &amp;ldquo;-A&amp;rdquo; или настройки ForwardAgent в файле конфигурации. Кроме того, для успешной атаки в системе жертвы должны присутствовать определённые библиотеки. Исследователями подготовлен прототип эксплоита, работа которого продемонстрирована в Ubuntu 22.</description>
+    </item>
+    
+    <item>
+      <title>GitHub поменял закрытый RSA-ключ для SSH после его попадания в публичный репозиторий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</link>
+      <pubDate>Sat, 25 Mar 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</guid>
+      <description>GitHub сообщил об инциденте, в результате которого закрытый RSA-ключ, используемый в качестве хостового ключа при доступе к репозиториям GitHub по SSH, по ошибке оказался опубликован в публично доступном репозитории. Утечка коснулась только ключа RSA, хостовые SSH-ключи ECDSA и Ed25519 продолжают оставаться безопасными. Попавший в открытый доступ хостовый SSH-ключ не позволяет получить доступ к инфраструктуре GitHub или данным пользователей, но может использоваться для перехвата Git-операций, производимых через SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58858</description>
+    </item>
+    
+  </channel>
+</rss>

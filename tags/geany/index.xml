@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geany on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/geany/</link>
+    <description>Recent content in Geany on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Oct 2023 16:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/geany/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна интегрированная среда разработки Geany 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-geany-2-0-20231020-163526/</link>
+      <pubDate>Fri, 20 Oct 2023 16:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-geany-2-0-20231020-163526/</guid>
+      <description>Опубликован выпуск проекта Geany 2.0, развивающего компактную и быструю среду редактирования кода, использующую минимальное число зависимостей и не привязанную к особенностям отдельных пользовательских окружений, таких как KDE или GNOME. Для сборки Geany требуется только наличие библиотеки GTK и её зависимостей (Pango, Glib и ATK). Код проекта распространяется под лицензией GPLv2+ и написан на языках Си и Си++ (на C++ код интегрированной библиотеки scintilla). Сборки формируются для BSD-систем, основных дистрибутивов Linux, macOS и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

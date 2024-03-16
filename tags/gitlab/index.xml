@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitLab on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gitlab/</link>
+    <description>Recent content in GitLab on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2024 12:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в GitLab, позволяющая записать файлы в произвольный каталог на сервере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zapisat-fayly-v-proizvolnyy-katalog-na-servere-20240126-123540/</link>
+      <pubDate>Fri, 26 Jan 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zapisat-fayly-v-proizvolnyy-katalog-na-servere-20240126-123540/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 16.8.1, 16.7.4, 16.6.6 и 16.5.8, в которых устранены 5 уязвимостей. Одной из проблем (CVE-2024-0402), которая проявляется начиная с выпуска GitLab 16.0, присвоен критический уровень опасности. Уязвимость позволяет неаутентифицированному пользователю записать файлы в любой каталог на сервере, насколько это позволяют права доступа, под которыми выполняется web-интерфейс GitLab.
+https://www.opennet.ru/opennews/art.shtml?num=60498</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в GitLab, позволяющие захватить учётную запись и выполнить команды под другим пользователем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gitlab-pozvolyayuschie-zahvatit-uchetnuyu-zapis-i-vypolnit-komandy-pod-drugi-20240112-133531/</link>
+      <pubDate>Fri, 12 Jan 2024 13:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gitlab-pozvolyayuschie-zahvatit-uchetnuyu-zapis-i-vypolnit-komandy-pod-drugi-20240112-133531/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 16.7.2, 16.6.4 и 16.5.6, в которых устранены две критические уязвимости. Первая уязвимость (CVE-2023-7028), которой присвоен максимальный уровень опасности (10 из 10), позволяет захватить чужую учётную запись через манипуляции с формой восстановления забытого пароля. Уязвимость вызвана возможностью отправки письма с кодом для сброса пароля на неподтверждённые email-адреса. Проблема проявляется начиная с выпуска GitLab 16.1.0, в котором появилась возможность отправки кода восстановления пароля на неверифицированный запасной email-адрес.</description>
+    </item>
+    
+    <item>
+      <title>Arch Linux перешёл на использование  GitLab для отслеживания ошибок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arch-linux-pereshel-na-ispolzovanie-gitlab-dlya-otslezhivaniya-oshibok-20231204-113541/</link>
+      <pubDate>Mon, 04 Dec 2023 11:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arch-linux-pereshel-na-ispolzovanie-gitlab-dlya-otslezhivaniya-oshibok-20231204-113541/</guid>
+      <description>Разработчики дистрибутива Arch Linux объявили о завершении миграции системы отслеживания ошибок на платформу GitLab и включении на обслуживающем проект сервере GitLab поддержки запросов на слияние (merge request). Модернизация системы отслеживания ошибок стала следующим шагом после перевода инфраструктуры для разработки пакетов с Subversion на Git и GitLab.
+https://www.opennet.ru/opennews/art.shtml?num=60229</description>
+    </item>
+    
+    <item>
+      <title>Критическая уязвимость в GitLab, позволяющая запустить pipeline-работы под другим пользователем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-pol-20230920-013507/</link>
+      <pubDate>Wed, 20 Sep 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-pol-20230920-013507/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 16.3.4 и 16.2.7 (Community Edition и Enterprise Edition), в которых устранена критическая уязвимость (CVE-2023-4998), позволяющая запустить работы в конвейере непрерывной интеграции (pipeline jobs) под произвольным пользователем через применение плановых политик сканирования безопасности. Выполнение своей работы в контексте другого пользователя позволяет атакующему получить доступ к внутренним репозиториям и закрытым проектам этого пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59782</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitLab 16, позволяющая прочитать файлы на сервере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-16-pozvolyayuschaya-prochitat-fayly-na-servere-20230524-163506/</link>
+      <pubDate>Wed, 24 May 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-16-pozvolyayuschaya-prochitat-fayly-na-servere-20230524-163506/</guid>
+      <description>В представленном 22 мая выпуске платформы для организации совместной разработки GitLab 16.0 выявлена критическая уязвимость (CVE-2023-2825), позволяющая неаутентифицированному пользователю получить содержимое любого файла на сервере, насколько это позволяют права доступа процесса, обрабатывающего запросы. Уязвимости присвоен наивысший уровень опасности (10 из 10). Проблема устранена в обновлении GitLab 16.0.1 и затрагивает только ветку 16.0. Информация об уязвимости передана в GitLab в рамках действующей на HackerOne программы выплаты вознаграждений за обнаружение уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59190</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitLab, позволяющее запустить код при сборке в CI любого проекта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschee-zapustit-kod-pri-sborke-v-ci-lyubogo-proekta-20230508-123505/</link>
+      <pubDate>Mon, 08 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschee-zapustit-kod-pri-sborke-v-ci-lyubogo-proekta-20230508-123505/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 15.11.2, 15.10.6 и 15.9.7, в которых устранена критическая уязвимость (CVE-2023-2478), позволяющая любому аутентифицированному пользователю через манипуляции с API GraphQL прикрепить собственный runner-обработчик (приложение для запуска задач при сборке кода проекта в системе непрерывной интеграции) к любому проекту на том же сервере. Подробности эксплуатации пока не приводятся. Информация об уязвимости передана в GitLab в рамках действующей на HackerOne программы выплаты вознаграждений за обнаружение уязвимостей.</description>
+    </item>
+    
+  </channel>
+</rss>

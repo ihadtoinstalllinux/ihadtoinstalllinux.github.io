@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>zip on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zip/</link>
+    <description>Recent content in zip on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2023 21:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака GPU.zip, позволяющая воссоздать данные, отрисовываемые GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-gpu-zip-pozvolyayuschaya-vossozdat-dannye-otrisovyvaemye-gpu-20230927-213504/</link>
+      <pubDate>Wed, 27 Sep 2023 21:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-gpu-zip-pozvolyayuschaya-vossozdat-dannye-otrisovyvaemye-gpu-20230927-213504/</guid>
+      <description>Группа исследователей из нескольких университетов США разработала новую технику атаки по сторонним каналам, позволяющую воссоздать визуальную информацию, обрабатываемую в GPU. При помощи предложенного метода, который получил название GPU.zip, атакующий может определить выводимую на экран информацию. Среди прочего атака может быть проведена через web-браузер, например, продемонстрировано, как открытая в Chrome вредоносная web-страница может получить информацию о пикселях, выводимых при отрисовке другой web-страницы, открытой в том же браузере.
+https://www.opennet.ru/opennews/art.shtml?num=59833</description>
+    </item>
+    
+  </channel>
+</rss>

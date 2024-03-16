@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nix on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nix/</link>
+    <description>Recent content in Nix on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 23:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива NixOS 23.05, использующего пакетный менеджер Nix </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nixos-23-05-ispolzuyuschego-paketnyy-menedzher-nix-20231130-233604/</link>
+      <pubDate>Thu, 30 Nov 2023 23:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nixos-23-05-ispolzuyuschego-paketnyy-menedzher-nix-20231130-233604/</guid>
+      <description>Представлен выпуск дистрибутива NixOS 23.11, основанного на пакетном менеджере Nix и предоставляющего ряд собственных разработок, упрощающих настройку и сопровождение системы. Например, в NixOS вся настройка системы происходит посредством единого файла системной конфигурации (configuration.nix), предоставляется возможность быстрого отката системы на предыдущую версию конфигурации, присутствует поддержка переключения между различными состояниями системы, поддерживается установка индивидуальных пакетов отдельными пользователями, есть возможность одновременного использования нескольких версий одной программы, обеспечены воспроизводимые сборки. Размер полного установочного образа с KDE 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива NixOS 23.05, использующего пакетный менеджер Nix </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nixos-23-05-ispolzuyuschego-paketnyy-menedzher-nix-20230601-153505/</link>
+      <pubDate>Thu, 01 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nixos-23-05-ispolzuyuschego-paketnyy-menedzher-nix-20230601-153505/</guid>
+      <description>Состоялся выпуск дистрибутива NixOS 23.05, основанного на пакетном менеджере Nix и предоставляющего ряд собственных разработок, упрощающих настройку и сопровождение системы. Например, в NixOS вся настройка системы происходит посредством единого файла системной конфигурации (configuration.nix), предоставляется возможность быстрого отката системы на предыдущую версию конфигурации, присутствует поддержка переключения между различными состояниями системы, поддерживается установка индивидуальных пакетов отдельными пользователями, есть возможность одновременного использования нескольких версий одной программы, обеспечены воспроизводимые сборки. Размер полного установочного образа с KDE 2.</description>
+    </item>
+    
+  </channel>
+</rss>

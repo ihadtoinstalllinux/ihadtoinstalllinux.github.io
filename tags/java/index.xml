@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/java/</link>
+    <description>Recent content in Java on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 17:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Треть Java-проектов на базе библиотеки Log4j продолжают использовать уязвимые версии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tret-java-proektov-na-baze-biblioteki-log4j-prodolzhayut-ispolzovat-uyazvimye-versii-20231214-173534/</link>
+      <pubDate>Thu, 14 Dec 2023 17:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tret-java-proektov-na-baze-biblioteki-log4j-prodolzhayut-ispolzovat-uyazvimye-versii-20231214-173534/</guid>
+      <description>Компания Veracode опубликовала результаты исследования актуальности критических уязвимостей в Java-библиотеке Log4j, выявленных в прошлом и позапрошлом годах. Изучив 38278 приложений, используемых в 3866 организациях, исследователи из Veracode обнаружили, что 38% из них используют уязвимые версии Log4j. Основной причиной продолжения применения устаревшего кода является встраивание в проекты старых библиотек или трудоёмкость миграции с уже неподдерживаемых веток на новые ветки, в которых нарушена обратная совместимость (судя по прошлому отчёту Veracode, 79% перенесённых в код проектов сторонних библиотек в последующем никогда не обновляются).</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</link>
+      <pubDate>Thu, 19 Oct 2023 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В октябрьском обновлении в сумме устранено 387 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59954</description>
+    </item>
+    
+    <item>
+      <title>Выпуск jsii 1.90, генератора кода C#, Go, Java и Python из TypeScript </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</link>
+      <pubDate>Sat, 07 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</guid>
+      <description>Компания Amazon опубликовала компилятор jsii 1.90, представляющий собой модификацию компилятора TypeScript, позволяющую извлечь из компилируемых модулей информацию об API и сгенерировать универсальное представление данного API для обращения к JavaScript-классам из приложений на различных языках программирования. Код проекта написан на TypeScript и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59884</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Java SE 21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-21-20230920-133506/</link>
+      <pubDate>Wed, 20 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-21-20230920-133506/</guid>
+      <description>После шести месяцев разработки компания Oracle выпустила платформу Java SE 21 (Java Platform, Standard Edition 21), в качестве эталонной реализации которой используется открытый проект OpenJDK. За исключением удаления некоторых устаревших возможностей в Java SE 21 сохранена обратная совместимость с прошлыми выпусками платформы Java - большинство ранее написанных Java-проектов без изменений будут работоспособны при запуске под управлением новой версии. Готовые для установки сборки Java SE 21 (JDK, JRE и Server JRE) подготовлены для Linux (x86_64, AArch64), Windows (x86_64) и macOS (x86_64, AArch64).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Java SE 20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-20-20230322-013503/</link>
+      <pubDate>Wed, 22 Mar 2023 01:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-java-se-20-20230322-013503/</guid>
+      <description>После шести месяцев разработки компания Oracle выпустила платформу Java SE 20 (Java Platform, Standard Edition 20), в качестве эталонной реализации которой используется открытый проект OpenJDK. За исключением удаления некоторых устаревших возможностей в Java SE 20 сохранена обратная совместимость с прошлыми выпусками платформы Java - большинство ранее написанных Java-проектов без изменений будут работоспособны при запуске под управлением новой версии. Готовые для установки сборки Java SE 20 (JDK, JRE и Server JRE) подготовлены для Linux (x86_64, AArch64), Windows (x86_64) и macOS (x86_64, AArch64).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ipmitool on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipmitool/</link>
+    <description>Recent content in ipmitool on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2023 00:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipmitool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub без предупреждения перевёл репозиторий ipmitool в режим только для чтения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-bez-preduprezhdeniya-perevel-repozitoriy-ipmitool-v-rezhim-tolko-dlya-chteniya-20230314-003502/</link>
+      <pubDate>Tue, 14 Mar 2023 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-bez-preduprezhdeniya-perevel-repozitoriy-ipmitool-v-rezhim-tolko-dlya-chteniya-20230314-003502/</guid>
+      <description>GitHub принудительно и без предварительного предупреждения перевёл репозитории проекта IPMI Tool в архивный режим, допускающий доступ только в режиме чтения. Также в режим только для чтения переведены все репозитории Александра Амелькина, сопровождающего ipmitool. Пакет ipmitool входит в состав RHEL, SUSE, Debian и других дистрибутивов Linux и является наиболее распространённым открытым инструментарием командной строки для управления, мониторинга и настройки серверов с BMC-контроллерами, поддерживающими стандарт IPMI (Intelligent Platform Management Interface).
+https://www.opennet.ru/opennews/art.shtml?num=58789</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xfce on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xfce/</link>
+    <description>Recent content in Xfce on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2024 12:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Xfce обновил планы, связанные с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</link>
+      <pubDate>Fri, 09 Feb 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</guid>
+      <description>Разработчики Xfce обновили страницу с планами, связанными с добавлением поддержки протокола Wayland. В план добавлено упоминание реализации начальной поддержки Wayland в базовых компонентах следующего значительного выпуска Xfce 4.20 с сохранением поддержки X11. Ранее вопрос сохранения обратной совместимости с X11 находится на стадии дискуссии, в которой не удавалось добиться консенсуса. Теперь решено, что поддержка X11 в обозримом будущем прекращена не будет.
+https://www.opennet.ru/opennews/art.shtml?num=60580</description>
+    </item>
+    
+  </channel>
+</rss>

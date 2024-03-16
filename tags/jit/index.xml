@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JIT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/jit/</link>
+    <description>Recent content in JIT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 16:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/jit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Python предложен JIT-компилятор, использующий технику copy-and-patch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</link>
+      <pubDate>Tue, 26 Dec 2023 16:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</guid>
+      <description>Брандт Букер (Brandt Bucher) из компании Microsoft, входящий в число core-разработчиков CPython и работающий команде, занимающейся увеличением производительности интерпретатора CPython, опубликовал реализацию JIT-компилятора для Python, использующую технику Copy-and-Patch. Публикация JIT приурочена к Рождеству и анонс написан в стихах.
+https://www.opennet.ru/opennews/art.shtml?num=60352</description>
+    </item>
+    
+    <item>
+      <title>Новый JIT-компилятор Maglev позволил поднять производительность Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-jit-kompilyator-maglev-pozvolil-podnyat-proizvoditelnost-chrome-20230604-123505/</link>
+      <pubDate>Sun, 04 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-jit-kompilyator-maglev-pozvolil-podnyat-proizvoditelnost-chrome-20230604-123505/</guid>
+      <description>Компания Google представила новый JIT-компилятор Maglev, постепенное включение которого начнётся для пользователей Chrome 114 5 июня. JIT-компилятор нацелен на быструю генерацию высокопроизводительного машинного кода для активно используемого кода на JavaScript. Включение Maglev позволило ускорить прохождение теста производительности Jetstream на 7.5%, а теста Speedometer на 5%.
+https://www.opennet.ru/opennews/art.shtml?num=59245</description>
+    </item>
+    
+  </channel>
+</rss>

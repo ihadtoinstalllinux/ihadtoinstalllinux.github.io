@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nftables on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nftables/</link>
+    <description>Recent content in nftables on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 13:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nftables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Локальная уязвимость в ядре Linux, эксплуатируемая через nftables </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lokalnaya-uyazvimost-v-yadre-linux-ekspluatiruemaya-cherez-nftables-20231226-133520/</link>
+      <pubDate>Tue, 26 Dec 2023 13:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lokalnaya-uyazvimost-v-yadre-linux-ekspluatiruemaya-cherez-nftables-20231226-133520/</guid>
+      <description>В подсистеме Netfilter выявлена уязвимость (CVE-2023-6817), потенциально позволяющая локальному пользователю повысить свои привилегии в системе. Проблема вызвана обращением к памяти после её освобождения (use-after-free) в модуле nf_tables, обеспечивающем работу пакетного фильтра nftables. Уязвимость проявляется начиная с версии ядра Linux 5.6. Исправление уязвимости предложено в тестовом выпуске ядра Linux 6.7-rc5 и перенесено в актуальные стабильные ветки 5.10.204, 5.15.143, 6.1.68 и 6.6.7.
+https://www.opennet.ru/opennews/art.shtml?num=60338</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пакетного фильтра nftables 1.0.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-8-20230715-153643/</link>
+      <pubDate>Sat, 15 Jul 2023 15:36:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-8-20230715-153643/</guid>
+      <description>Опубликован выпуск пакетного фильтра nftables 1.0.8, унифицирующего интерфейсы фильтрации пакетов для IPv4, IPv6, ARP и сетевых мостов (нацелен на замену iptables, ip6table, arptables и ebtables). В пакет nftables входят компоненты пакетного фильтра, работающие в пространстве пользователя, в то время как на уровне ядра работу обеспечивает подсистема nf_tables, входящая в состав ядра Linux начиная с выпуска 3.13. На уровне ядра предоставляется лишь общий интерфейс, не зависящий от конкретного протокола и предоставляющий базовые функции извлечения данных из пакетов, выполнения операций с данными и управления потоком.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, затрагивающие nftables и модуль tcindex</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-zatragivayuschie-nftables-i-modul-tcindex-20230709-003506/</link>
+      <pubDate>Sun, 09 Jul 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-zatragivayuschie-nftables-i-modul-tcindex-20230709-003506/</guid>
+      <description>В ядре Linux выявлены три уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=59409</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пакетного фильтра nftables 1.0.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-7-20230314-143503/</link>
+      <pubDate>Tue, 14 Mar 2023 14:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-nftables-1-0-7-20230314-143503/</guid>
+      <description>Опубликован выпуск пакетного фильтра nftables 1.0.7, унифицирующего интерфейсы фильтрации пакетов для IPv4, IPv6, ARP и сетевых мостов (нацелен на замену iptables, ip6table, arptables и ebtables). В пакет nftables входят компоненты пакетного фильтра, работающие в пространстве пользователя, в то время как на уровне ядра работу обеспечивает подсистема nf_tables, входящая в состав ядра Linux начиная с выпуска 3.13. На уровне ядра предоставляется лишь общий интерфейс, не зависящий от конкретного протокола и предоставляющий базовые функции извлечения данных из пакетов, выполнения операций с данными и управления потоком.</description>
+    </item>
+    
+  </channel>
+</rss>

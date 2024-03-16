@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mipsel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mipsel/</link>
+    <description>Recent content in Mipsel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 23:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mipsel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian прекращает поддержку архитектуры Mipsel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-arhitektury-mipsel-20230903-233542/</link>
+      <pubDate>Sun, 03 Sep 2023 23:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-arhitektury-mipsel-20230903-233542/</guid>
+      <description>Разработчики проекта Debian объявили об удалении порта для архитектуры mipsel из репозиториев unstable/experimental. Mipsel являлся одним из старейших поддерживаемых портов Debian, старше которого только порт для процессоров i386. Вероятно, что Debian 12 будет последним релизом с поддержкой mipsel. Изменение не касается архитектуры mips64, которая продолжает поддерживаться.
+https://www.opennet.ru/opennews/art.shtml?num=59709</description>
+    </item>
+    
+  </channel>
+</rss>

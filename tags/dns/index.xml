@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dns/</link>
+    <description>Recent content in DNS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2023 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quad9 выиграл апелляцию в разбирательстве с Sony о принуждении к блокировке через DNS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/quad9-vyigral-apellyaciyu-v-razbiratelstve-s-sony-o-prinuzhdenii-k-blokirovke-cherez-dns-20231209-143559/</link>
+      <pubDate>Sat, 09 Dec 2023 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/quad9-vyigral-apellyaciyu-v-razbiratelstve-s-sony-o-prinuzhdenii-k-blokirovke-cherez-dns-20231209-143559/</guid>
+      <description>Высший земельный суд Дрездена удовлетворил апелляцию компании Quad9 в деле, в ходе которого по требованию компании Sony Music было вынесено судебное предписание о блокировке пиратских сайтов на уровне публичных DNS-резолверов Quad9. В случае невыполнения требования о блокировке организации Quad9 грозил штраф в размере 250 тысяч евро. Решение суда высшей инстанции подвело черту под продолжающимися более двух лет попытками Quad9 обжаловать изначальное решение и недопустить образования судебного прецедента. Решение суда в Дрездене помечено окончательным и не подлежащим пересмотру.</description>
+    </item>
+    
+    <item>
+      <title>Изменение IP-адреса корневого DNS-сервера B</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izmenenie-ip-adresa-kornevogo-dns-servera-b-20231129-193545/</link>
+      <pubDate>Wed, 29 Nov 2023 19:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izmenenie-ip-adresa-kornevogo-dns-servera-b-20231129-193545/</guid>
+      <description>27 ноября 2023 года состоялось плановое изменение IPv4 и IPv6 адресов одного из 13-ти корневых серверов DNS.
+https://www.opennet.ru/opennews/art.shtml?num=60191</description>
+    </item>
+    
+    <item>
+      <title>DNS-сервер Trust-DNS переименован в Hickory и будет задействован в инфраструктуре Let&#39;s Encrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dns-server-trust-dns-pereimenovan-v-hickory-i-budet-zadeystvovan-v-infrastrukture-let-s-en-20231007-013505/</link>
+      <pubDate>Sat, 07 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dns-server-trust-dns-pereimenovan-v-hickory-i-budet-zadeystvovan-v-infrastrukture-let-s-en-20231007-013505/</guid>
+      <description>Автор DNS-сервера Trust-DNS объявил о переименовании проекта в Hickory DNS. В качестве причины смены имени называется желание сделать проект более привлекательным для пользователей, разработчиков и спонсоров, избежать пересечений при поиске с концепцией &amp;ldquo;Trusted DNS&amp;rdquo;, а также зарегистрировать товарный знак и защитить связанный с проектом бренд (имя Trust-DNS будет проблематично использовать как товарный знак, так как оно образовано из типовых слов, которые нельзя рассматривать как уникальные).
+https://www.opennet.ru/opennews/art.shtml?num=59883</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DNS-сервера KnotDNS 3.3.0 с поддержкой DNS поверх QUIC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-knotdns-3-3-0-s-podderzhkoy-dns-poverh-quic-20230829-013506/</link>
+      <pubDate>Tue, 29 Aug 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-knotdns-3-3-0-s-podderzhkoy-dns-poverh-quic-20230829-013506/</guid>
+      <description>Опубликован релиз KnotDNS 3.3.0, высокопроизводительного авторитативного DNS сервера (рекурсор выполнен в виде отдельного приложения), поддерживающего все современные возможности DNS. Проект разрабатывается чешским реестром имен CZ.NIC, написан на языке Си и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59676</description>
+    </item>
+    
+    <item>
+      <title>Атака MaginotDNS, позволяющая подменить данные в кэше DNS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-maginotdns-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20230815-013505/</link>
+      <pubDate>Tue, 15 Aug 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-maginotdns-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20230815-013505/</guid>
+      <description>Группа китайских исследователей раскрыла детали атаки MaginotDNS, позволяющей осуществить подстановку некорректных NS-записей в кэш DNS-серверов (отравление кэша), используемых одновременно для перенаправления запросов (forwarder) и рекурсивного определения имён (resolver). Успешное проведение атаки может привести к обращению к неверным DNS-серверам, отдающим ложные сведения о целевом домене, и подмене атакующим целиком DNS-зон, в том числе для доменов верхнего уровня ( .com, .net, .ru и т.п.).
+https://www.opennet.ru/opennews/art.shtml?num=59598</description>
+    </item>
+    
+  </channel>
+</rss>

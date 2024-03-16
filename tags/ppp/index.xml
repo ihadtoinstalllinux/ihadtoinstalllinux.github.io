@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ppp on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ppp/</link>
+    <description>Recent content in ppp on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2023 23:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ppp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск ppp 2.5.0, спустя 22 года после формирования прошлой ветки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ppp-2-5-0-spustya-22-goda-posle-formirovaniya-proshloy-vetki-20230405-233506/</link>
+      <pubDate>Wed, 05 Apr 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ppp-2-5-0-spustya-22-goda-posle-formirovaniya-proshloy-vetki-20230405-233506/</guid>
+      <description>Опубликован релиз пакета ppp 2.5.0 с реализацией поддержки протокола PPP (Point-to-Point Protocol), позволяющего организовать канал связи IPv4/IPv6, используя соединение через последовательные порты или подключения типа точка-точка (например, dial-up). В состав пакета входит фоновый процесс pppd, применяемый для согласования соединения, аутентификации и настройки сетевого интерфейса, а также вспомогательные утилиты pppstats и pppdump. Код проекта распространяется под лицензией BSD. В пакете официально обеспечена поддержка Linux и Solaris (без сопровождения имеется код для NeXTStep, FreeBSD, SunOS 4.</description>
+    </item>
+    
+  </channel>
+</rss>

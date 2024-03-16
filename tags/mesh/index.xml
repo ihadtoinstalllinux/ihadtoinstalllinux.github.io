@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mesh on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mesh/</link>
+    <description>Recent content in mesh on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2024 19:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mesh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meshtastic - реализация самодостаточной mesh-сети на базе передатчиков LoRa</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/meshtastic-realizaciya-samodostatochnoy-mesh-seti-na-baze-peredatchikov-lora-20240111-193510/</link>
+      <pubDate>Thu, 11 Jan 2024 19:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/meshtastic-realizaciya-samodostatochnoy-mesh-seti-na-baze-peredatchikov-lora-20240111-193510/</guid>
+      <description>Проект Meshtastic развивает открытую коммуникационную платформу для построения самодостаточной децентрализованной сети передачи сообщений, в которой каждая точка сети связывается через соседние точки, без использования централизованных маршрутизаторов. Для трансляции сигнала используются приёмопередатчики на базе протокола LoRa, позволяющие передавать данные в нелицензируемом диапазоне частот со скоростью несколько килобит в секунду на расстояния в десятки или даже сотни километров (пользователями Meshtastic установлен рекорд в 254 км).
+https://www.opennet.ru/opennews/art.shtml?num=60423</description>
+    </item>
+    
+  </channel>
+</rss>

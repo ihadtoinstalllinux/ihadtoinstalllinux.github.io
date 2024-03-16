@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mint on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mint/</link>
+    <description>Recent content in Mint on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 21:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Mint развивает новое приложение для чата после сворачивания IRC-клиента XChat</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linux-mint-razvivaet-novoe-prilozhenie-dlya-chata-posle-svorachivaniya-irc-klienta-xchat-20240306-213526/</link>
+      <pubDate>Wed, 06 Mar 2024 21:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linux-mint-razvivaet-novoe-prilozhenie-dlya-chata-posle-svorachivaniya-irc-klienta-xchat-20240306-213526/</guid>
+      <description>Разработчики дистрибутива Linux Mint объявили о разработке нового приложения Jargonaut, в рамках которого предпринята попытка создания простой реализации чата, основанной на использовании протокола IRC, но не являющейся IRC-клиентом в традиционном понимании. Jargonaut предоставляет простой интерфейс для общения пользователей в чате, абстрагированный от IRC. Код проекта написан на языке Python и распространяется под лицензией GPLv2. Для построения интерфейса задействована библиотека xapp, предоставляющая надстройку над GTK с элементами для унификации работы в различных пользовательских окружениях (Cinnamon, MATE и Xfce).</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Linux Mint 21.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-3-20240112-193513/</link>
+      <pubDate>Fri, 12 Jan 2024 19:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-3-20240112-193513/</guid>
+      <description>Представлен релиз дистрибутива Linux Mint 21.3, продолжающий развитие ветки на основе пакетной базы Ubuntu 22.04 LTS. Дистрибутив полностью совместим с Ubuntu, но существенно отличается подходом к организации интерфейса пользователя и подбором используемых по умолчанию приложений. Разработчики Linux Mint предоставляют десктоп-окружение, соответствующее классическим канонам организации рабочего стола, которое является более привычным для пользователей, не принимающих новые методы построения интерфейса GNOME 3. Для загрузки доступны сборки на базе оболочек MATE 1.26 (2.9 ГБ), Cinnamon 6.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в просмотрщике документов Xreader, развиваемом проектом Linux Mint</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-prosmotrschike-dokumentov-xreader-razvivaemom-proektom-linux-mint-20231227-143542/</link>
+      <pubDate>Wed, 27 Dec 2023 14:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-prosmotrschike-dokumentov-xreader-razvivaemom-proektom-linux-mint-20231227-143542/</guid>
+      <description>В программе для просмотра документов Xreader, развиваемой разработчиками дистрибутива Linux Mint, выявлены две уязвимости, которые могут привести к выполнению кода злоумышленника при открытии специально оформленных файлов в форматах EPUB и CBT. Уявзимости устранены в обновлениях Xreader 4.0.0, 3.8.5, 3.6.6, 3.2.3 и 2.6.5.
+https://www.opennet.ru/opennews/art.shtml?num=60355</description>
+    </item>
+    
+    <item>
+      <title>Опубликована сборка Linux Mint Edge 21.2 с новым ядром Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-sborka-linux-mint-edge-21-2-s-novym-yadrom-linux-20231003-113505/</link>
+      <pubDate>Tue, 03 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-sborka-linux-mint-edge-21-2-s-novym-yadrom-linux-20231003-113505/</guid>
+      <description>Разработчики дистрибутива Linux Mint объявили о публикации нового iso-образа &amp;ldquo;Edge&amp;rdquo;, который сформирован на основе июльского выпуска Linux Mint 21.2 с рабочим столом Cinnamon и отличается поставкой ядра Linux 6.2 вместо 5.15. Кроме того, в предложенном iso-образе возвращена поддержка режима UEFI SecureBoot.
+https://www.opennet.ru/opennews/art.shtml?num=59861</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Linux Mint Debian Edition 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-6-20230927-183506/</link>
+      <pubDate>Wed, 27 Sep 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-6-20230927-183506/</guid>
+      <description>Спустя полтора года с момента прошлого выпуска опубликован релиз альтернативной сборки дистрибутива Linux Mint - Linux Mint Debian Edition 6, выполненной на основе пакетной базы Debian (классический Linux Mint базируется на пакетной базе Ubuntu). Дистрибутив доступен в виде установочных iso-образов с десктоп-окружением Cinnamon 5.8.
+https://www.opennet.ru/opennews/art.shtml?num=59832</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Linux Mint 21.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-2-20230717-003506/</link>
+      <pubDate>Mon, 17 Jul 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-linux-mint-21-2-20230717-003506/</guid>
+      <description>Представлен релиз дистрибутива Linux Mint 21.2, продолжающий развитие ветки на основе пакетной базы Ubuntu 22.04 LTS. Дистрибутив полностью совместим с Ubuntu, но существенно отличается подходом к организации интерфейса пользователя и подбором используемых по умолчанию приложений. Разработчики Linux Mint предоставляют десктоп-окружение, соответствующее классическим канонам организации рабочего стола, которое является более привычным для пользователей, не принимающих новые методы построения интерфейса GNOME 3. Для загрузки доступны DVD-сборки на базе оболочек MATE 1.26 (2.8 ГБ), Cinnamon 5.</description>
+    </item>
+    
+  </channel>
+</rss>

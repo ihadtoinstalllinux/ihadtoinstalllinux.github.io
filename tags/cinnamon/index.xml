@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cinnamon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cinnamon/</link>
+    <description>Recent content in Cinnamon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cinnamon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пользовательского окружения Cinnamon 6.0 с начальной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-6-0-s-nachalnoy-podderzhkoy-wayland-20231130-143508/</link>
+      <pubDate>Thu, 30 Nov 2023 14:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-6-0-s-nachalnoy-podderzhkoy-wayland-20231130-143508/</guid>
+      <description>После 6 месяцев разработки сформирован релиз пользовательского окружения Cinnamon 6.0, в рамках которого сообществом разработчиков дистрибутива Linux Mint развивается форк оболочки GNOME Shell, файлового менеджера Nautilus и оконного менеджера Mutter, нацеленный на предоставление окружения в классическом стиле GNOME 2 с поддержкой удачных элементов взаимодействия из GNOME Shell. Cinnamon основывается на компонентах GNOME, но эти компоненты поставляются как периодически синхронизируемый форк, не связанный внешними зависимостями с GNOME. Смена номера версии на 6.</description>
+    </item>
+    
+    <item>
+      <title>Первые результаты портирования Cinnamon на Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervye-rezultaty-portirovaniya-cinnamon-na-wayland-20231027-013549/</link>
+      <pubDate>Fri, 27 Oct 2023 01:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervye-rezultaty-portirovaniya-cinnamon-na-wayland-20231027-013549/</guid>
+      <description>Разработчики проекта Linux Mint объявили о работе по адаптации пользовательской оболочки Cinnamon для функционирования в окружении на базе протокола Wayland. Экспериментальная поддержка Wayland появится в выпуске Cinnamon 6.0, запланированном на ноябрь, а опциональный сеанс с Cinnamon на базе Wayland будет предложен для тестирования в выпуске Linux Mint 21.3, который ожидается в декабре.
+https://www.opennet.ru/opennews/art.shtml?num=60002</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пользовательского окружения Cinnamon 5.8 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-5-8-20230608-133504/</link>
+      <pubDate>Thu, 08 Jun 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-5-8-20230608-133504/</guid>
+      <description>После 7 месяцев разработки сформирован релиз пользовательского окружения Cinnamon 5.8, в рамках которого сообществом разработчиков дистрибутива Linux Mint развивается форк оболочки GNOME Shell, файлового менеджера Nautilus и оконного менеджера Mutter, нацеленный на предоставление окружения в классическом стиле GNOME 2 с поддержкой удачных элементов взаимодействия из GNOME Shell. Cinnamon основывается на компонентах GNOME, но эти компоненты поставляются как периодически синхронизируемый форк, не связанный внешними зависимостями с GNOME. Новый выпуск Cinnamon будет предложен в дистрибутиве Linux Mint 21.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Cinnamon получил статус официальной редакции Ubuntu </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-cinnamon-poluchil-status-oficialnoy-redakcii-ubuntu-20230329-133515/</link>
+      <pubDate>Wed, 29 Mar 2023 13:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-cinnamon-poluchil-status-oficialnoy-redakcii-ubuntu-20230329-133515/</guid>
+      <description>Участники технического комитета, управляющего развитием Ubuntu, утвердили принятие дистрибутива Ubuntu Cinnamon, предлагающего пользовательское окружение Cinnamon, в число официальных редакций Ubuntu. На текущем этапе интеграции с инфраструктурой Ubuntu уже началось формирвование тестовых сборок Ubuntu Cinnamon и ведётся работа по организации тестирования в системе контроля качества. Если не будет выявлено серьёзных проблем, Ubuntu Cinnamon войдёт в число официально предлагаемых сборок начиная с выпуска Ubuntu 23.04.
+https://www.opennet.ru/opennews/art.shtml?num=58884</description>
+    </item>
+    
+  </channel>
+</rss>

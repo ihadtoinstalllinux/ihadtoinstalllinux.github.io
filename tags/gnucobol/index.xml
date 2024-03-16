@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GnuCOBOL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnucobol/</link>
+    <description>Recent content in GnuCOBOL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2023 16:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnucobol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск компилятора GnuCOBOL 3.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kompilyatora-gnucobol-3-2-20230802-163508/</link>
+      <pubDate>Wed, 02 Aug 2023 16:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kompilyatora-gnucobol-3-2-20230802-163508/</guid>
+      <description>Опубликован релиз компилятора GnuCOBOL 3.2, позволяющего транслировать программы на языке COBOL в представление на языке Си для последующей компиляции при помощи GCC или других Си-компиляторов. Компилятор поддерживается 19 диалектов языка COBOL, частично поддерживает спецификацию COBOL 2014 и проходит 9740 тестов из набора для проверки совместимости с COBOL 85. Для отладки программ предлагается интегрированный отладчик.
+https://www.opennet.ru/opennews/art.shtml?num=59540</description>
+    </item>
+    
+  </channel>
+</rss>

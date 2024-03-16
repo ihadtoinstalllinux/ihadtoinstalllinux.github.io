@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SMTP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smtp/</link>
+    <description>Recent content in SMTP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 22:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smtp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен SMTP-сервер chasquid 1.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-smtp-server-chasquid-1-13-20240207-223601/</link>
+      <pubDate>Wed, 07 Feb 2024 22:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-smtp-server-chasquid-1-13-20240207-223601/</guid>
+      <description>Представлен выпуск SMTP-сервера chasquid 1.13, при разработке которого акцент делается на простоту настройки и безопасность. Chasquid в основном рассчитан на использование в типовых проектах, в которых избыточна гибкость и функциональности Postfix и Exim. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60568</description>
+    </item>
+    
+    <item>
+      <title>Обновление Exim 4.97.1 с добавлением защиты от атаки SMTP Smuggling</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-exim-4-97-1-s-dobavleniem-zaschity-ot-ataki-smtp-smuggling-20231229-123546/</link>
+      <pubDate>Fri, 29 Dec 2023 12:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-exim-4-97-1-s-dobavleniem-zaschity-ot-ataki-smtp-smuggling-20231229-123546/</guid>
+      <description>Доступен корректирующий выпуск почтового сервера Exim 4.97.1, в котором включены изменения для защиты от атаки SMTP Smuggling, позволяющей расщепить одно сообщение на несколько разных сообщений через использование нестандартной последовательности для разделения писем. Изначально предполагалось, что проблема проявляется только в postfix и sendmail, но позднее выяснилось, что она затрагивает и Exim (CVE-2023-51766).
+https://www.opennet.ru/opennews/art.shtml?num=60362</description>
+    </item>
+    
+    <item>
+      <title>SMTP Smuggling - новая техника спуфинга почтовых сообщений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/smtp-smuggling-novaya-tehnika-spufinga-pochtovyh-soobscheniy-20231222-023506/</link>
+      <pubDate>Fri, 22 Dec 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/smtp-smuggling-novaya-tehnika-spufinga-pochtovyh-soobscheniy-20231222-023506/</guid>
+      <description>Исследователи из компании SEC Consult опубликовали новую технику спуфинга, вызванную расхождениями в следовании спецификации в различных реализациях протокола SMTP. Предложенная техника атаки позволяет расщепить одно сообщение на несколько разных сообщений при его передаче исходным SMTP-сервером на другой SMTP-сервер, по иному трактующий последовательность для разделения писем, передаваемых через одно соединение. Метод может использоваться для отправки фиктивных писем от имени других отправителей в почтовых сервисах, верифицирующих исходного отправителя.
+https://www.opennet.ru/opennews/art.shtml?num=60329</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenSMTPD 7.3.0p0, SMTP-сервера от проекта OpenBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</link>
+      <pubDate>Sat, 17 Jun 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</guid>
+      <description>Спустя два с половиной года с момента прошлого обновления сформирован выпуск переносимой редакции SMTP-сервера OpenSMTPD 7.3.0p0, развиваемого под эгидой проекта OpenBSD и нацеленного на создание простой замены Sendmail. Сервер поддерживает большую часть требований спецификации RFC 5321 и реализует ряд используемых повсеместно расширений протокола, таких как поддержка аутентификации пользователей (SMTP AUTH), TLS-шифрование трафика, уведомления о доставке DSN (Delivery Status Notification), расширенные коды статуса (Enhanced Status Codes), блокирование спама по &amp;ldquo;серым спискам&amp;rdquo; через интеграцию со spamd.</description>
+    </item>
+    
+    <item>
+      <title>Обновление SMTP-сервера Sendmail 8.17.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-smtp-servera-sendmail-8-17-2-20230604-013835/</link>
+      <pubDate>Sun, 04 Jun 2023 01:38:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-smtp-servera-sendmail-8-17-2-20230604-013835/</guid>
+      <description>Спустя почти два года с момента прошлого обновления сформирован релиз SMTP-сервера Sendmail 8.17.2. Кроме исправления ошибок, в новой версии улучшена поддержка email-адресов с символами национальных алфавитов (EAI, Email Address Internationalization), добавлена поддержка новых версий macOS, улучшено выполнение проверок DANE (DNS-based Authentication of Named Entities), для предотвращения проседания производительности параметр MaxMimeHeaderLength по умолчанию выставлен в значение 2048/1024.
+https://www.opennet.ru/opennews/art.shtml?num=59244</description>
+    </item>
+    
+  </channel>
+</rss>

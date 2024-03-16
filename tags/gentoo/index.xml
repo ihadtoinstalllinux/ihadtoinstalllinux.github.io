@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gentoo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gentoo/</link>
+    <description>Recent content in Gentoo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Feb 2024 21:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gentoo начал формирование бинарных пакетов для архитектуры x86-64-v3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gentoo-nachal-formirovanie-binarnyh-paketov-dlya-arhitektury-x86-64-v3-20240204-213509/</link>
+      <pubDate>Sun, 04 Feb 2024 21:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gentoo-nachal-formirovanie-binarnyh-paketov-dlya-arhitektury-x86-64-v3-20240204-213509/</guid>
+      <description>Разработчики проекта Gentoo объявили о введении в строй отдельного репозитория с бинарными пакетами, собранными с поддержкой третьей версии микроархитектуры x86-64 (x86-64-v3), применяемой в процессорах Intel примерно с 2015 года (начиная с Intel Haswell) и отличающейся наличием таких расширений, как AVX, AVX2, BMI2, FMA, LZCNT, MOVBE и SXSAVE. В репозитории предложен отдельный набор пакетов, формируемый параллельно с опубликованным в декабре репозиторием, в котором сборка выполнена для базовой архитектуры x86-64, которую можно использовать на любых 64-разрядных процессорах Intel и AMD.</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Gentoo объявил о доступности бинарных пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-gentoo-obyavil-o-dostupnosti-binarnyh-paketov-20231229-163530/</link>
+      <pubDate>Fri, 29 Dec 2023 16:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-gentoo-obyavil-o-dostupnosti-binarnyh-paketov-20231229-163530/</guid>
+      <description>Разработчики дистрибутива Gentoo Linux, изначально ориентированного на формирование окружения с использованием сборки программ из исходного кода, объявил о введении в строй репозитория готовых бинарных пакетов. Пакетный менеджер Portage уже много лет поддерживает установку бинарных пакетов, но до сих пор бинарные пакеты не предоставлялись централизованно - предполагалось, что дистрибутив распространяет метаданные для сборки, но пользователь может собрать бинарные пакеты на одной из своих систем и использовать их на других компьютерах.
+https://www.opennet.ru/opennews/art.shtml?num=60363</description>
+    </item>
+    
+  </channel>
+</rss>

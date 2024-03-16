@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Core on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/core/</link>
+    <description>Recent content in Core on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2024 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск минималистичного дистрибутива Tiny Core Linux 15.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-distributiva-tiny-core-linux-15-0-20240226-133542/</link>
+      <pubDate>Mon, 26 Feb 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-distributiva-tiny-core-linux-15-0-20240226-133542/</guid>
+      <description>Опубликован релиз минималистичного Linux дистрибутива Tiny Core Linux 15.0, который может работать на системах с 48 Мб ОЗУ. Графическое окружение дистрибутива построено на основе X-сервера Tiny X, тулкита FLTK и оконного менеджера FLWM. Дистрибутив загружается целиком в ОЗУ и работает из памяти. Загрузочный iso-образ занимает всего 18 МБ. Для 64-разрядных систем подготовлена сборка CorePure64, размером 24 МБ. Дополнительно поставляется сборка CorePlus (253 МБ), в которую входит ряд дополнительных пакетов, таких как набор оконных менеджеров (FLWM, JWM, IceWM, Fluxbox, Hackedbox, Openbox), инсталлятор с возможностью установки дополнительных расширений, а также готовый набор инструментов для обеспечения выхода в сеть, включая менеджер для настройки Wifi-соединений.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива для создания межсетевых экранов IPFire 2.27 Core 182</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-ipfire-2-27-core-182-20240104-163532/</link>
+      <pubDate>Thu, 04 Jan 2024 16:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-ipfire-2-27-core-182-20240104-163532/</guid>
+      <description>Опубликован выпуск дистрибутива для создания маршрутизаторов и межсетевых экранов IPFire 2.27 Core 182. IPFire отличается простым процессом установки и организацией настройки через интуитивно понятный web-интерфейс, изобилующий наглядными графиками. Размер установочного iso-образа составляет 423 МБ (x86_64, AArch64).
+https://www.opennet.ru/opennews/art.shtml?num=60389</description>
+    </item>
+    
+    <item>
+      <title>Доступна Real-time редакция Ubuntu, оптимизированная для процессоров Intel Core</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</link>
+      <pubDate>Thu, 27 Jul 2023 01:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</guid>
+      <description>Компания Canonical объявила о подготовке новых сборок Ubuntu, оптимизированных для выполнения задач в режиме реального времени на системах с процессорами Intel Core. Для повышения производительности и снижения влияния сторонней нагрузки на работу приложений, чувствительных к задержкам обработки и доставки данных, в сборках задействованы оптимизации, повышающие приоритет доступа к кэшу, памяти и сетевым операциям для приложений, работающих в режиме реального времени.
+https://www.opennet.ru/opennews/art.shtml?num=59501</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS CORE 13.0-U5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u5-20230602-143506/</link>
+      <pubDate>Fri, 02 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u5-20230602-143506/</guid>
+      <description>Представлен выпуск TrueNAS CORE 13.0-U5, дистрибутива для быстрого развёртывания сетевого хранилища (NAS, Network-Attached Storage), продолжающего развитие проекта FreeNAS. TrueNAS CORE 13 основан на кодовой базе FreeBSD 13, отличается интегрированной поддержкой ZFS и возможностью управления через веб-интерфейс, построенный с использованием Python-фреймворка Django. Для организации доступа к хранилищу поддерживается FTP, NFS, Samba, AFP, rsync и iSCSI, для повышения надежности хранения может применяться программный RAID (0,1,5), для авторизации клиентов реализована поддержка LDAP/Active Directory. Размер iso-образа 1 ГБ (x86_64).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск минималистичного дистрибутива Tiny Core Linux 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-distributiva-tiny-core-linux-14-20230413-123540/</link>
+      <pubDate>Thu, 13 Apr 2023 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-distributiva-tiny-core-linux-14-20230413-123540/</guid>
+      <description>Опубликован релиз минималистичного Linux дистрибутива Tiny Core Linux 14.0, который может работать на системах с 48 Мб ОЗУ. Графическое окружение дистрибутива построено на основе X-сервера Tiny X, тулкита FLTK и оконного менеджера FLWM. Дистрибутив загружается целиком в ОЗУ и работает из памяти. В новом выпуске произведено обновление системных компонентов, включая ядро Linux 6.1.2, glibc 2.36, gcc 12.2.0, binutils 2.39, e2fsprogs 1.46.5, util-linux 2.38.1, busybox 1.36.0.
+https://www.opennet.ru/opennews/art.shtml?num=58964</description>
+    </item>
+    
+  </channel>
+</rss>

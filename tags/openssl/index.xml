@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openssl/</link>
+    <description>Recent content in OpenSSL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 13:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OpenSSL 3.2.0 с клиентской поддержкой протокола QUIC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openssl-3-2-0-s-klientskoy-podderzhkoy-protokola-quic-20231124-133539/</link>
+      <pubDate>Fri, 24 Nov 2023 13:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openssl-3-2-0-s-klientskoy-podderzhkoy-protokola-quic-20231124-133539/</guid>
+      <description>После восьми месяцев разработки сформирован релиз библиотеки OpenSSL 3.2.0 с реализацией протоколов SSL/TLS и различных алгоритмов шифрования. Поддержка OpenSSL 3.2 будет осуществляться до 23 ноября 2025 года. Поддержка прошлых веток OpenSSL 3.1 и 3.0 LTS продлится до марта 2025 года и сентября 2026 года соответственно. Поддержка ветки 1.1.1 прекращена в сентябре этого года. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60174</description>
+    </item>
+    
+    <item>
+      <title>Выпуск криптографической библиотеки OpenSSL 3.1.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-1-0-20230315-133502/</link>
+      <pubDate>Wed, 15 Mar 2023 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-1-0-20230315-133502/</guid>
+      <description>После полутора лет разработки состоялся релиз библиотеки OpenSSL 3.1.0 с реализацией протоколов SSL/TLS и различных алгоритмов шифрования. Поддержка OpenSSL 3.1 будет осуществляться до марта 2025 года. Поддержка прошлых веток OpenSSL 3.0 и 1.1.1 продлится до сентября 2026 года и сентября 2023 года соответственно. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58797</description>
+    </item>
+    
+  </channel>
+</rss>

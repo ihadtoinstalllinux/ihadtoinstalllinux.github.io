@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libmicrohttpd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libmicrohttpd/</link>
+    <description>Recent content in libmicrohttpd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 13:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libmicrohttpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый стабильный выпуск библиотеки GNU libmicrohttpd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-biblioteki-gnu-libmicrohttpd-20240202-133558/</link>
+      <pubDate>Fri, 02 Feb 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-biblioteki-gnu-libmicrohttpd-20240202-133558/</guid>
+      <description>Проект GNU опубликовал выпуск библиотеки libmicrohttpd 1.0.0, который отмечен как первый стабильный релиз за 16 лет существования проекта. Библиотека написана на языке Си и представляет простой API для встраивания функциональности HTTP-сервера в приложения. Среди поддерживаемых платформ: GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, Android, macOS, Win32 и z/OS. Код распространяется под лицензией LGPL 2.1+. При сборке по умолчанию библиотека занимает около 200 КБ, а в минимальном режиме сборки - 32 КБ. В зависимостях используется только libc, а также libgnutls при опциональной сборке с поддержкой TLS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки GNU libmicrohttpd 0.9.77</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-gnu-libmicrohttpd-0-9-77-20230529-123505/</link>
+      <pubDate>Mon, 29 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-gnu-libmicrohttpd-0-9-77-20230529-123505/</guid>
+      <description>Проект GNU опубликовал выпуск библиотеки libmicrohttpd 0.9.77, представляющей простой API для встраивания функциональности HTTP-сервера в приложения. Среди поддерживаемых платформ: GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, Android, macOS, Win32 и z/OS. Библиотека распространяется под лицензией LGPL 2.1+. В собранном виде библиотека занимает около 32 КБ.
+https://www.opennet.ru/opennews/art.shtml?num=59211</description>
+    </item>
+    
+  </channel>
+</rss>

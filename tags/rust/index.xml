@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rust on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rust/</link>
+    <description>Recent content in Rust on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 13:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Arti 1.2, официальной реализации Tor на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-2-oficialnoy-realizacii-tor-na-yazyke-rust-20240305-133603/</link>
+      <pubDate>Tue, 05 Mar 2024 13:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-2-oficialnoy-realizacii-tor-na-yazyke-rust-20240305-133603/</guid>
+      <description>Разработчики сети Tor опубликовали выпуск проекта Arti 1.2.0, развивающего Tor-клиент, написанный на языке Rust. Ветка 1.x отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Код распространяется под лицензиями Apache 2.0 и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60729</description>
+    </item>
+    
+    <item>
+      <title>Код поддержки кодека VP9 в V4L2 для чипов Hantro и Rockchip переписан на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kod-podderzhki-kodeka-vp9-v-v4l2-dlya-chipov-hantro-i-rockchip-perepisan-na-rust-20240228-153537/</link>
+      <pubDate>Wed, 28 Feb 2024 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kod-podderzhki-kodeka-vp9-v-v4l2-dlya-chipov-hantro-i-rockchip-perepisan-na-rust-20240228-153537/</guid>
+      <description>Дэниел Алмейда (Daniel Almeida), занимающийся развитием видеокодеков в компании Collabora, представил для обсуждения разработчиками ядра Linux новую реализацию прослойки для использования аппаратных декодировщиков видео в формате VP9 в подсистеме V4L2, применяемой для организации доступа устройствам видеозахвата, таким как web-камеры и TV-тюнеры. Код прослойки полностью переписан на языке Rust и ориентирован на работу с драйверами rkvdec и hantro, предоставляющими доступ к аппаратным средствам ускорения декодирования видео, доступным в чипах Rockchip и Hantro.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.76</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-76-20240209-013545/</link>
+      <pubDate>Fri, 09 Feb 2024 01:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-76-20240209-013545/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.76, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=60575</description>
+    </item>
+    
+    <item>
+      <title>Google выделил миллион долларов на улучшение переносимости между С&#43;&#43; и Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-vydelil-million-dollarov-na-uluchshenie-perenosimosti-mezhdu-s-i-rust-20240205-233548/</link>
+      <pubDate>Mon, 05 Feb 2024 23:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-vydelil-million-dollarov-na-uluchshenie-perenosimosti-mezhdu-s-i-rust-20240205-233548/</guid>
+      <description>Компания Google предоставила организации Rust Foundation целевой грант, размером 1 млн долларов, который позволит профинансировать работу по улучшению взаимодействия кода на языке Rust с кодовыми базами, написанными на языке C++. Грант рассматривается как инвестиция, которая в будущем позволит расширить применение Rust в различных компонентах платформы Android.
+https://www.opennet.ru/opennews/art.shtml?num=60556</description>
+    </item>
+    
+    <item>
+      <title>Microsoft наймёт разработчиков для переписывания сервисов с C# на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</link>
+      <pubDate>Thu, 01 Feb 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</guid>
+      <description>Судя по опубликованной вакансии архитектора компания Microsoft намерена переписать с использованием языка Rust ключевые сервисы Microsoft 365, изначально написанные на языке C#. В объявлении упоминается создание новой команды разработчиков, которая будет заниматься внедрением Rust и его использованием качестве основы для модернизации глобально масштабируемых сервисов. Ранее компания Microsoft задействовала язык Rust для разработки компонентов ядра Windows 11.
+https://www.opennet.ru/opennews/art.shtml?num=60533</description>
+    </item>
+    
+    <item>
+      <title>Разработчики FreeBSD обсуждают использование языка Rust в базовой системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-freebsd-obsuzhdayut-ispolzovanie-yazyka-rust-v-bazovoy-sisteme-20240122-013550/</link>
+      <pubDate>Mon, 22 Jan 2024 01:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-freebsd-obsuzhdayut-ispolzovanie-yazyka-rust-v-bazovoy-sisteme-20240122-013550/</guid>
+      <description>Алан Сомерс (Alan Somers), разработчик новой реализации драйвера FUSE для FreeBSD и автор Rust-обвязок над некоторыми библиотеками FreeBSD, начал обсуждение процесса включения кода на языке Rust в состав базовой системы. В ходе дискуссии коммиттеров проекта были определены цена и преимущество внедрения. Ценой включения поддержки Rust станет удвоение времени сборки, а преимуществом - упрощение разработки некоторых утилит.
+https://www.opennet.ru/opennews/art.shtml?num=60473</description>
+    </item>
+    
+    <item>
+      <title>Опубликован embedded-hal 1.0, инструментарий для создания драйверов на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-embedded-hal-1-0-instrumentariy-dlya-sozdaniya-drayverov-na-yazyke-rust-20240114-133601/</link>
+      <pubDate>Sun, 14 Jan 2024 13:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-embedded-hal-1-0-instrumentariy-dlya-sozdaniya-drayverov-na-yazyke-rust-20240114-133601/</guid>
+      <description>Рабочая группа Rust Embedded, созданная для разработки технологий повышения качества и безопасности приложений, прошивок и драйверов к встраиваемым системам, представила первый выпуск фреймворка embedded-hal, предоставляющего набор программных интерфейсов для взаимодействия с периферией, обычно применяемой с микроконтроллерами (например, предоставляются типажи для работы с GPIO, UART, SPI и I2C). Наработки проекта написаны на языке Rust и распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60435</description>
+    </item>
+    
+    <item>
+      <title>В Arti 1.1.12, реализации Tor на Rust, началось тестирование onion-сервисов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arti-1-1-12-realizacii-tor-na-rust-nachalos-testirovanie-onion-servisov-20240110-203545/</link>
+      <pubDate>Wed, 10 Jan 2024 20:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arti-1-1-12-realizacii-tor-na-rust-nachalos-testirovanie-onion-servisov-20240110-203545/</guid>
+      <description>Разработчики анонимной сети Tor опубликовали выпуск проекта Arti 1.1.12, развивающего Tor-клиент, написанный на языке Rust. Ветка 1.x отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Код распространяется под лицензиями Apache 2.0 и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60416</description>
+    </item>
+    
+    <item>
+      <title>Ядро Maestro, написанное на Rust и частично совместимое с Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</link>
+      <pubDate>Thu, 04 Jan 2024 17:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</guid>
+      <description>Представлен проект по разработке на языке Rust легковесного Unix-подобного ядра, реализующего подмножество системных вызовов ядра Linux, достаточное для создания типовых рабочих окружений. Проект был создан в 2018 году и вначале использовал язык Си, но в 2020 году был полностью перезапущен с нуля с учётом накопленного опыта и перешёл на Rust для снижения вероятности совершения ошибок, возникающих при работе с памятью. Код ядра распространяется под лицензией MIT. Помимо ядра проектом на языке Rust также развиваются X11-сервер, пакетный менеджер, загрузчик, инсталлятор, набор утилит и другие компоненты, необходимые для построения операционной системы.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.75 и unikernel Hermit 0.6.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-75-i-unikernel-hermit-0-6-7-20231229-213530/</link>
+      <pubDate>Fri, 29 Dec 2023 21:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-75-i-unikernel-hermit-0-6-7-20231229-213530/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.75, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=60364</description>
+    </item>
+    
+    <item>
+      <title>В ядро Linux 6.8 намечено включение первого сетевого драйвера на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-8-namecheno-vklyuchenie-pervogo-setevogo-drayvera-na-yazyke-rust-20231218-133508/</link>
+      <pubDate>Mon, 18 Dec 2023 13:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-8-namecheno-vklyuchenie-pervogo-setevogo-drayvera-na-yazyke-rust-20231218-133508/</guid>
+      <description>В ветку net-next, в которой развиваются изменения для ядра Linux 6.8, включены изменения, добавляющие в состав ядра начальную Rust-обвязку над phylib, уровнем абстракции для поддержки сетевых плат, и использующий данную обвязку драйвер ax88796b_rust, обеспечивающий поддержку Ethernet-контроллера Asix AX88772A (100MBit). Драйвер включает 135 строк кода и позиционируется как простой рабочий пример для создания сетевых драйверов на языке Rust, готовый для использования с реальным оборудованием.
+https://www.opennet.ru/opennews/art.shtml?num=60303</description>
+    </item>
+    
+    <item>
+      <title>В Китае запущен спутник с real-time подсистемой ядра Linux, написанной на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kitae-zapuschen-sputnik-s-real-time-podsistemoy-yadra-linux-napisannoy-na-rust-20231214-013553/</link>
+      <pubDate>Thu, 14 Dec 2023 01:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kitae-zapuschen-sputnik-s-real-time-podsistemoy-yadra-linux-napisannoy-na-rust-20231214-013553/</guid>
+      <description>9 декабря в Китае был запущен спутник Tianyi-33, разработанный в рамках проекта Tiansuan и оснащённый бортовым компьютером, на котором задействовано модифицированное ядро Linux с компонентами для обеспечения работы в режиме реального времени, написанными на языке Rust с использованием абстракций и прослоек, предоставляемых подсистемой Rust for Linux. Операционная система оснащена двойным ядром RROS, сочетающим обычное ядро Linux, применяемое для решения задач общего назначения, с RTOS-ядром на языке Rust, предназначенным для выполнения задач в режиме жёсткого реального времени.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.73. Аудит RustVMM. Переписывание  Binder на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-audit-rustvmm-perepisyvanie-binder-na-rust-20231117-153551/</link>
+      <pubDate>Fri, 17 Nov 2023 15:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-audit-rustvmm-perepisyvanie-binder-na-rust-20231117-153551/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.74, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=60133</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Rust расширены возможности распараллеливания компиляции</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-rust-rasshireny-vozmozhnosti-rasparallelivaniya-kompilyacii-20231112-013531/</link>
+      <pubDate>Sun, 12 Nov 2023 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-rust-rasshireny-vozmozhnosti-rasparallelivaniya-kompilyacii-20231112-013531/</guid>
+      <description>Во фронтэнде компилятора Rust, выполняющем такие задачи, как синтаксический анализ, проверка типов и анализ заимствований, реализована поддержка параллельного выполнения, позволяющего существенно сократить время компиляции. Распараллеливание уже доступно в ночных сборках Rust и включается при помощи опции &amp;ldquo;-Z threads=8&amp;rdquo;. В стабильную ветку рассматриваемую возможность планируют включить в 2024 году.
+https://www.opennet.ru/opennews/art.shtml?num=60095</description>
+    </item>
+    
+    <item>
+      <title>Проект NGINX опубликовал инструментарий для разработки модулей на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-opublikoval-instrumentariy-dlya-razrabotki-moduley-na-yazyke-rust-20231013-133506/</link>
+      <pubDate>Fri, 13 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-opublikoval-instrumentariy-dlya-razrabotki-moduley-na-yazyke-rust-20231013-133506/</guid>
+      <description>Разработчики проекта NGINX представили инструментарий.
+https://www.opennet.ru/opennews/art.shtml?num=59923</description>
+    </item>
+    
+    <item>
+      <title>Google переписал на языке Rust прошивку pvmfm, используемую в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</link>
+      <pubDate>Tue, 10 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</guid>
+      <description>В рамках работы по усилению безопасности критически важных программных компонентов платформы Android компания Google переписала на языке Rust прошивку pvmfm, используемую для организации работы виртуальных машин, запускаемых гипервизором pVM из состава Android Virtualization Framework. Ранее прошивка была написана на языке Си и реализована поверх загрузчика U-Boot, в коде которого ранее находили уязвимости, вызванные проблемами при работе с памятью.
+https://www.opennet.ru/opennews/art.shtml?num=59900</description>
+    </item>
+    
+    <item>
+      <title>Открытие кода Rust-компилятора Ferrocene</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkrytie-koda-rust-kompilyatora-ferrocene-20231006-143506/</link>
+      <pubDate>Fri, 06 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkrytie-koda-rust-kompilyatora-ferrocene-20231006-143506/</guid>
+      <description>Компания Ferrous Systems объявила о начале преобразования Ferrocene, проприетарного дистрибутива с Rust-компилятором для критически важных систем, в открытый проект. Код Ferrocene опубликован под лицензиями Apache 2.0 и MIT. Ferrocene предоставляет инструментарий для разработки на языке Rust приложений для защиты информации и критически важных систем, требующих повышенной надёжности (Safety-Critical Systems), сбой в которых может угрожать жизни людей, нанести вред окружающей среде или привести к серьёзным повреждениям оборудования.
+https://www.opennet.ru/opennews/art.shtml?num=59881</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.73</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-20231006-013505/</link>
+      <pubDate>Fri, 06 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-20231006-013505/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.73, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59878</description>
+    </item>
+    
+    <item>
+      <title>Serpent OS переходит на применение языков Rust, TypeScript и Go в инструментарии и инфраструктуре</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</link>
+      <pubDate>Fri, 15 Sep 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</guid>
+      <description>Айки Доэрти (Ikey), основатель дистрибутива Solus, опубликовал заметку о последних тенденциях в разработке дистрибутива Serpent OS, на технологиях которого будет построен выпуск Solus 5. Основные моменты.
+https://www.opennet.ru/opennews/art.shtml?num=59756</description>
+    </item>
+    
+    <item>
+      <title>JetBrains представил IDE RustRover и прекратил разработку открытого плагина intellij-rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</link>
+      <pubDate>Thu, 14 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</guid>
+      <description>Компания JetBrains представила новую интегрированную среду разработку RustRover, ориентированную на написание приложений на языке Rust. Среда RustRover нацелена на повышение эффективности разработки на языке Rust, удовлетворение потребностей связанной с Rust экосистемы и первичную поддержку данного языка. Проект будет развиваться как коммерческий продукт, но похожее окружение можно сформировать на основе бесплатной community-версии среды IntelliJ IDEA с плагином intellij-rust. В настоящее время для тестирования без ограничений доступен пререлиз RustRover, сборки которого подготовлены для Linux, macOS и Windows.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск RustPython 0.3, реализации интерпретатора Python на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rustpython-0-3-realizacii-interpretatora-python-na-yazyke-rust-20230911-123505/</link>
+      <pubDate>Mon, 11 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rustpython-0-3-realizacii-interpretatora-python-na-yazyke-rust-20230911-123505/</guid>
+      <description>Доступен выпуск проекта RustPython 0.3, развивающего интерпретатор языка программирования Python, написанный на языке Rust и нацеленный на обеспечение совместимости с CPython 3.11 и более новыми выпусками. Проект основал в 2018 году Shing Lyu, один из разработчиков движка Servo и участник перевода CSS-движка Firefox на компоненты, написанные на языке Rust. Для оценки текущего состояния разработки можно использовать web-интерфейс с интерпретатором RustPython, скомпилированным в WebAssembly. Код распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59737</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора утилит GNU Coreutils 9.4 и его варианта на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-4-i-ego-varianta-na-yazyke-rust-20230904-133506/</link>
+      <pubDate>Mon, 04 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-4-i-ego-varianta-na-yazyke-rust-20230904-133506/</guid>
+      <description>Опубликована стабильная версия набора базовых системных утилит GNU Coreutils 9.4, в состав которого входят такие программы, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln, ls и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=59712</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный выпуск sudo-rs, реализации утилит sudo и su на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</link>
+      <pubDate>Wed, 30 Aug 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, опубликовала первый стабильный выпуск проекта Sudo-rs, развивающего написанные на языке Rust варианты утилит sudo и su, предназначенные для выполнения команд от имени других пользователей. Код проекта распространяется под лицензиями Apache 2.0 и MIT. Разработка Sudo-rs ведётся инженерами из компаний Ferrous Systems и Tweede Golf на средства, предоставленные Google, Cisco и Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Rust 1.72. Решение поставлять пакет serde_derive только в скомпилированном виде</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-72-reshenie-postavlyat-paket-serde-derive-tolko-v-skompilirovannom-vide-20230825-003504/</link>
+      <pubDate>Fri, 25 Aug 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-72-reshenie-postavlyat-paket-serde-derive-tolko-v-skompilirovannom-vide-20230825-003504/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.72, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59656</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.71 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-71-20230714-153508/</link>
+      <pubDate>Fri, 14 Jul 2023 15:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-71-20230714-153508/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.71, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59438</description>
+    </item>
+    
+    <item>
+      <title>Выпуск uutils 0.0.19, варианта GNU Coreutils на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-uutils-0-0-19-varianta-gnu-coreutils-na-yazyke-rust-20230606-133508/</link>
+      <pubDate>Tue, 06 Jun 2023 13:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-uutils-0-0-19-varianta-gnu-coreutils-na-yazyke-rust-20230606-133508/</guid>
+      <description>Доступен выпуск проекта uutils coreutils 0.0.19, развивающего аналог пакета GNU Coreutils, переписанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, способной работать в том числе на платформах Windows, Redox и Fuchsia. В отличие от GNU Coreutils реализация на Rust распространяется под пермиссивной лицензией MIT, вместо копилефт-лицензии GPL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.70 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-70-20230602-113506/</link>
+      <pubDate>Fri, 02 Jun 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-70-20230602-113506/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.70, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59233</description>
+    </item>
+    
+    <item>
+      <title>Представлен Crab, форк языка Rust, избавленный от бюрократии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-crab-fork-yazyka-rust-izbavlennyy-ot-byurokratii-20230531-003505/</link>
+      <pubDate>Wed, 31 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-crab-fork-yazyka-rust-izbavlennyy-ot-byurokratii-20230531-003505/</guid>
+      <description>В рамках проекта Crab (CrabLang) началось развитие форка языка Rust и пакетного менеджера Cargo (форк поставляется под именем Сrabgo). Лидером форка назван Трэвис Вагнер (Travis A. Wagner), не входящий в список 100 наиболее активных разработчиков Rust. В качестве причины создания форка упоминается недовольство усиления влияния корпораций на язык Rust и сомнительная политика организации Rust Foundation в отношении использования торговых марок.
+https://www.opennet.ru/opennews/art.shtml?num=59220</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал результат аудита используемых пакетов на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-rezultat-audita-ispolzuemyh-paketov-na-yazyke-rust-20230524-023505/</link>
+      <pubDate>Wed, 24 May 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-rezultat-audita-ispolzuemyh-paketov-na-yazyke-rust-20230524-023505/</guid>
+      <description>Компания Google опубликовала результаты аудита 389 crate-пакетов, используемых в проектах ChromiumOS и Fuchsia, в которых допускается разработка на языке Rust. Для использования в своих проектах предоставлен файл для проверки зависимостей при помощи команды cargo vet на предмет соответствия требованиям к безопасности, корректности и тестированию.
+https://www.opennet.ru/opennews/art.shtml?num=59187</description>
+    </item>
+    
+    <item>
+      <title>Пользовательское окружение COSMIC развивает новую панель, написанную на Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-razvivaet-novuyu-panel-napisannuyu-na-rust-20230516-113505/</link>
+      <pubDate>Tue, 16 May 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-razvivaet-novuyu-panel-napisannuyu-na-rust-20230516-113505/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала отчёт о развитии новой редакции пользовательского окружения COSMIC, переписанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Окружение развивается как универсальный проект, не привязанный к конкретному дистрибутиву и соответствующий спецификациям Freedesktop. Проектом также разрабатывает композитный сервер cosmic-comp на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=59137</description>
+    </item>
+    
+    <item>
+      <title>Проект по реализации утилит sudo и su на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-po-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230430-003505/</link>
+      <pubDate>Sun, 30 Apr 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-po-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230430-003505/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует продвижению HTTPS и развитию технологий для повышения защищённости интернета, представила проект Sudo-rs по созданию написанных на языке Rust реализаций утилит sudo и su, позволяющих выполнять команды от имени других пользователей. Под лицензиями Apache 2.0 и MIT уже опубликована предварительная версия Sudo-rs, пока не готовая к повсеместному использованию. Проект, работа над которым началась в декабре 2022 года, планируют завершить в сентябре 2023 года.</description>
+    </item>
+    
+    <item>
+      <title>Компания Microsoft добавит код на Rust в ядро Windows 11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</link>
+      <pubDate>Fri, 28 Apr 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</guid>
+      <description>Дэвид Вестон, вице-президент Microsoft, отвечающий за безопасность операционной системы Windows, в своём докладе на конференции BlueHat IL 2023 поделился информацией о развитии механизмов защиты Windows. Среди прочего упомянут прогресс в задействовании языка Rust для повышения безопасности ядра Windows. Более того, заявлено, что написанный Rust код будет добавлен ядро Windows 11 возможно уже через несколько месяцев или даже недель.
+https://www.opennet.ru/opennews/art.shtml?num=59044</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.69</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-69-20230421-013505/</link>
+      <pubDate>Fri, 21 Apr 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-69-20230421-013505/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.69, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59008</description>
+    </item>
+    
+    <item>
+      <title>Amazon опубликовал открытую криптографическую библиотеку для языка Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-opublikoval-otkrytuyu-kriptograficheskuyu-biblioteku-dlya-yazyka-rust-20230420-133507/</link>
+      <pubDate>Thu, 20 Apr 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-opublikoval-otkrytuyu-kriptograficheskuyu-biblioteku-dlya-yazyka-rust-20230420-133507/</guid>
+      <description>Компания Amazon представила криптографическую библиотеку aws-lc-rs, предназначенную для использования в приложениях на языке Rust и совместимую на уровне API с Rust-библиотекой ring. Код проекта распространяется под лицензиями Apache 2.0 и ISC. Библиотека поддерживает работу на платформах Linux (x86, x86-64, aarch64) и macOS (x86-64).
+https://www.opennet.ru/opennews/art.shtml?num=59004</description>
+    </item>
+    
+    <item>
+      <title>Изменение политики товарных знаков Rust Foundation</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izmenenie-politiki-tovarnyh-znakov-rust-foundation-20230413-233505/</link>
+      <pubDate>Thu, 13 Apr 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izmenenie-politiki-tovarnyh-znakov-rust-foundation-20230413-233505/</guid>
+      <description>Организация Rust Foundation, которая курирует связанную с языком Rust экосистему, поддерживает основных мэйнтейтнеров, занимающихся разработкой и принятием решений, а также отвечает за организацию финансирования проекта, опубликовала форму обратной связи для рецензирования новой политики товарных знаков, связанных с языком Rust и пакетным менеджером Cargo. По окончании опроса, который продлится до 16 апреля, Rust Foundation опубликует финальную версию новой политики организации. Фонд Rust был основан в 2021 году как автономная некоммерческая организация, созданная усилиями AWS, Microsoft, Google, Mozilla и Huawei; ему были переданы все торговые марки и активы инфраструктуры языка программирования Rust, разрабатываемого Mozilla с 2015 года.</description>
+    </item>
+    
+    <item>
+      <title>Новые выпуски вариантов coreutils и findutils, переписанных на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-vypuski-variantov-coreutils-i-findutils-perepisannyh-na-yazyke-rust-20230403-133505/</link>
+      <pubDate>Mon, 03 Apr 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-vypuski-variantov-coreutils-i-findutils-perepisannyh-na-yazyke-rust-20230403-133505/</guid>
+      <description>Доступен выпуск инструментария uutils coreutils 0.0.18, в рамках которого развивается аналог пакета GNU Coreutils, переписанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, способной работать в том числе на платформах Windows, Redox и Fuchsia. В отличие от GNU Coreutils реализация на Rust распростраеяется под пермиссивной лицензией MIT, вместо копилефт-лицензии GPL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск rPGP 0.10, реализации OpenPGP на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rpgp-0-10-realizacii-openpgp-na-yazyke-rust-20230328-143533/</link>
+      <pubDate>Tue, 28 Mar 2023 14:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rpgp-0-10-realizacii-openpgp-na-yazyke-rust-20230328-143533/</guid>
+      <description>Опубликован выпуск проекта rPGP 0.10, развивающего реализацию стандарта OpenPGP (RFC-2440, RFC-4880) на языке Rust, предоставляющую полный набор функций, определённых в спецификации Autocrypt 1.1, для шифрования электронной почты. Наиболее известным проектом, использующим rPGP является мессенджер Delta Chat, использующий email в качестве транспорта. Код проекта распространяется под лицензиями MIT и Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58880</description>
+    </item>
+    
+    <item>
+      <title>Инициатива по переработке инструментария для гипервизора Xen на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-pererabotke-instrumentariya-dlya-gipervizora-xen-na-yazyke-rust-20230318-113507/</link>
+      <pubDate>Sat, 18 Mar 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-pererabotke-instrumentariya-dlya-gipervizora-xen-na-yazyke-rust-20230318-113507/</guid>
+      <description>Разработчики платформы XCP-ng, развиваемой под крылом проекта Xen, опубликовали план по созданию на языке Rust замены различных компонентов программного стека Xen. Непосредственно гипервизор Xen пока перерабатывать не собираются, работа сосредоточена в основном на переделке отдельных компонентов инструментария.
+https://www.opennet.ru/opennews/art.shtml?num=58815</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Rust 1.68</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-68-20230310-113503/</link>
+      <pubDate>Fri, 10 Mar 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-68-20230310-113503/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.68, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=58770</description>
+    </item>
+    
+    <item>
+      <title>Для рецензирования предложен Linux-драйвер для GPU Apple AGX, написанный на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</link>
+      <pubDate>Wed, 08 Mar 2023 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</guid>
+      <description>В списке рассылки разработчиков ядра Linux предложена предварительная реализация драйвера drm-asahi для GPU Apple AGX серий G13 и G14, используемых в чипах Apple M1 и M2. Драйвер написан на языке Rust и дополнительно включает набор универсальных обвязок над подсистемой DRM (Direct Rendering Manager), которые можно использовать для разработки других графических драйверов на языке Rust. Опубликованный набор патчей пока предложен только для обсуждения разработчиками ядра (RFC), но может быть принят в основной состав после завершения рецензирования и устранения выявленных недочётов.</description>
+    </item>
+    
+  </channel>
+</rss>

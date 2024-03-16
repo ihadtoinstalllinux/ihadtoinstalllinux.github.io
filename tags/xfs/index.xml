@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xfs/</link>
+    <description>Recent content in XFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2023 18:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Отставка сопровождающего файловую систему XFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otstavka-soprovozhdayuschego-faylovuyu-sistemu-xfs-20230802-183532/</link>
+      <pubDate>Wed, 02 Aug 2023 18:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otstavka-soprovozhdayuschego-faylovuyu-sistemu-xfs-20230802-183532/</guid>
+      <description>Дэрик Вонг (Darrick Wong) объявил о снятия с себя полномочий сопровождающего файловую систему XFS в ядре Linux. По его словам он взял на себя непосильную ношу и выгорел, пытаясь совместить роль разработчика, рецензировщика, тестировщика, релиз-менеджера и контактного лица. Отмечается, что в подсистеме XFS хватает работы для 20 человек, но фактически ту же работу приходится выполнять вдвое меньшей командой.
+https://www.opennet.ru/opennews/art.shtml?num=59543</description>
+    </item>
+    
+    <item>
+      <title>В ядре Linux 6.3 всплыла проблема, приводящая к повреждению метаданных ФС XFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-3-vsplyla-problema-privodyaschaya-k-povrezhdeniyu-metadannyh-fs-xfs-20230527-023505/</link>
+      <pubDate>Sat, 27 May 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-3-vsplyla-problema-privodyaschaya-k-povrezhdeniyu-metadannyh-fs-xfs-20230527-023505/</guid>
+      <description>В опубликованном в конце апреля выпуске ядра Linux 6.3 выявлена ошибка, приводящая к повреждению метаданных файловой системы XFS. Проблема пока остаётся неисправленной и проявляется среди прочего в последнем обновлении 6.3.4. В более ранних ветках ядра, таких как 6.2, а также в находящейся в разработке ветке 6.4, проявление проблемы не зафиксировано. Вызвавшее проблему изменение и точные факторы проявления ошибки пока не определены. Пользователям XFS следует воздержаться от обновления ядра до ветки 6.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TPM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tpm/</link>
+    <description>Recent content in TPM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 01:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tpm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Ubuntu появится поддержка полнодискового шифрования, использующего TPM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-poyavitsya-podderzhka-polnodiskovogo-shifrovaniya-ispolzuyuschego-tpm-20230908-013506/</link>
+      <pubDate>Fri, 08 Sep 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-poyavitsya-podderzhka-polnodiskovogo-shifrovaniya-ispolzuyuschego-tpm-20230908-013506/</guid>
+      <description>Компания Canonical анонсировала появление в осеннем выпуске Ubuntu 23.10 экспериментальной поддержки шифрования дисков, не требующего ввода пароля разблокировки диска при загрузке, благодаря хранению информации для расшифровки ключей в TPM (Trusted Platform Module). Автоматическая разблокировка зашифрованного диска в привязке к аппаратному обеспечению и верифицированной загрузке упрощает внедрение шифрования дисков в корпоративных и совместно используемых системах, а также на удалённых серверах, на которых нет возможности после каждой перезагрузки вручную вводить пароль.
+https://www.opennet.ru/opennews/art.shtml?num=59728</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в эталонной реализации TPM 2.0, позволяющие получить доступ к данным в крипточипе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-etalonnoy-realizacii-tpm-2-0-pozvolyayuschie-poluchit-dostup-k-dannym-v-krip-20230307-133503/</link>
+      <pubDate>Tue, 07 Mar 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-etalonnoy-realizacii-tpm-2-0-pozvolyayuschie-poluchit-dostup-k-dannym-v-krip-20230307-133503/</guid>
+      <description>В коде с эталонной реализацией спецификации TPM 2.0 (Trusted Platform Module) выявлены уязвимости (CVE-2023-1017, CVE-2023-1018), приводящие к записи или чтению данных за границей выделенного буфера. Атака на реализации криптопроцессоров, использующих уязвимый код, может привести к извлечению или перезаписи хранящейся на стороне чипа информации, такой как криптографические ключи. Возможность перезаписи данных в прошивке TPM может быть использована атакующим для организации выполнения своего кода в контексте TPM, что, например, может быть использовано для реализации бэкдоров, работающих на стороне TPM и не определяемых из операционной системы.</description>
+    </item>
+    
+  </channel>
+</rss>

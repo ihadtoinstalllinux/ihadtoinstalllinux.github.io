@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PoCL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pocl/</link>
+    <description>Recent content in PoCL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 03:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pocl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз PoCL 5.0 с независимой реализацией стандарта OpenCL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-5-0-s-nezavisimoy-realizaciey-standarta-opencl-20231220-033536/</link>
+      <pubDate>Wed, 20 Dec 2023 03:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-5-0-s-nezavisimoy-realizaciey-standarta-opencl-20231220-033536/</guid>
+      <description>Опубликован релиз проекта PoCL 5.0 (Portable Computing Language OpenCL), развивающего реализацию стандарта OpenCL, независимую от производителей графических ускорителей и позволяющую использовать различные бэкенды для выполнения OpenCL-ядер на разных типах графических и центральных процессоров. Код проекта распространяется под лицензией MIT. Поддерживается работа на платформах X86_64, MIPS32, ARM v7, AMD HSA APU, NVIDIA GPU и различных специализированных ASIP (Application-Specific Instruction-set Processor) и TTA-процессорах (Transport Triggered Architecture) c архитектурой VLIW.
+https://www.opennet.ru/opennews/art.shtml?num=60316</description>
+    </item>
+    
+    <item>
+      <title>Релиз PoCL 4.0 с независимой реализацией стандарта OpenCL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-4-0-s-nezavisimoy-realizaciey-standarta-opencl-20230622-163506/</link>
+      <pubDate>Thu, 22 Jun 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-4-0-s-nezavisimoy-realizaciey-standarta-opencl-20230622-163506/</guid>
+      <description>Представлен релиз проекта PoCL 4.0 (Portable Computing Language OpenCL), развивающего реализацию стандарта OpenCL, независимую от производителей графических ускорителей и позволяющую использовать различные бэкенды для выполнения OpenCL-ядер на разных типах графических и центральных процессоров. Код проекта распространяется под лицензией MIT. Поддерживается работа на платформах X86_64, MIPS32, ARM v7, AMD HSA APU, NVIDIA GPU и различных специализированных ASIP (Application-Specific Instruction-set Processor) и TTA-процессорах (Transport Triggered Architecture) c архитектурой VLIW.
+https://www.opennet.ru/opennews/art.shtml?num=59331</description>
+    </item>
+    
+  </channel>
+</rss>

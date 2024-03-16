@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wi/</link>
+    <description>Recent content in Wi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 20:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenBSD-current добавлен новый wi-fi драйвер для чипов Mediatek</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-current-dobavlen-novyy-wi-fi-drayver-dlya-chipov-mediatek-20240223-203550/</link>
+      <pubDate>Fri, 23 Feb 2024 20:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-current-dobavlen-novyy-wi-fi-drayver-dlya-chipov-mediatek-20240223-203550/</guid>
+      <description>Клаудио Джекер (Claudio Jeker (claudio@)) добавил в ядро OpenBSD драйвер mwx с поддержкой беспроводных карт на базе чипов Mediatek MT7921 и MT7922, использующих стандарт 802.11ax. В текущем виде драйвер продолжает находиться на стадии разработки и пока не пригоден для использования на рабочих системах. Например, нормально работает сканирование сетей и приём пакетов (scan + rx), но временно не работает передача пакетов (tx). При разработке используется чип MT7921. Дополнительно заявлена поддержка чипа MT7922, но у разработчика пока нет на руках требуемого оборудования для проверки.</description>
+    </item>
+    
+    <item>
+      <title>Проблемы, приводящие к обходу аутентификации Wi-Fi в IWD и wpa_supplicant </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/problemy-privodyaschie-k-obhodu-autentifikacii-wi-fi-v-iwd-i-wpa-supplicant-20240219-003538/</link>
+      <pubDate>Mon, 19 Feb 2024 00:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/problemy-privodyaschie-k-obhodu-autentifikacii-wi-fi-v-iwd-i-wpa-supplicant-20240219-003538/</guid>
+      <description>В открытых пакетах IWD (Intel inet Wireless Daemon) и wpa_supplicant, используемых для организации подключения клиентских Linux-систем к беспроводной сети, выявлены уязвимости, приводящие к обходу механизмов аутентификации.
+https://www.opennet.ru/opennews/art.shtml?num=60623</description>
+    </item>
+    
+    <item>
+      <title>Определение контуров предметов за стеной через анализ сигнала Wi-Fi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opredelenie-konturov-predmetov-za-stenoy-cherez-analiz-signala-wi-fi-20230912-123506/</link>
+      <pubDate>Tue, 12 Sep 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opredelenie-konturov-predmetov-za-stenoy-cherez-analiz-signala-wi-fi-20230912-123506/</guid>
+      <description>Группа исследователей из калифорнийского университета в Санта-Барбаре разработала метод определения контуров неподвижных объектов за стеной, анализируя искажение сигнала Wi-Fi. Метод, который назван Wiffract, основан на определении изменений сигнала, возникающих из-за взаимодействия электромагнитных волн, исходящих от Wi-Fi-передатчика, с краями предметов.
+https://www.opennet.ru/opennews/art.shtml?num=59740</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в принтерах Canon, позволяющая узнать пароли Wi-Fi после сброса</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-printerah-canon-pozvolyayuschaya-uznat-paroli-wi-fi-posle-sbrosa-20230802-153506/</link>
+      <pubDate>Wed, 02 Aug 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-printerah-canon-pozvolyayuschaya-uznat-paroli-wi-fi-posle-sbrosa-20230802-153506/</guid>
+      <description>В принтерах Canon выявлена проблема с безопасностью, вызванная тем, что после выполнения сброса принтера к заводским настройкам, не производилась очистка памяти, в которой хранились параметры подключения к беспроводной сети. Проблеме подвержены 146 различных моделей струйных принтеров Canon для домашнего и офисного использования.
+https://www.opennet.ru/opennews/art.shtml?num=59539</description>
+    </item>
+    
+    <item>
+      <title>Атака MacStealer, позволяющая перехватывать трафик в Wi-Fi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-macstealer-pozvolyayuschaya-perehvatyvat-trafik-v-wi-fi-20230328-193741/</link>
+      <pubDate>Tue, 28 Mar 2023 19:37:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-macstealer-pozvolyayuschaya-perehvatyvat-trafik-v-wi-fi-20230328-193741/</guid>
+      <description>Мэти Ванхоф (Mathy Vanhoef), автор атаки KRACK на беспроводные сети и 12 уязвимостей в стандартах IEEE 802.11, раскрыл сведения о новой уязвимости (CVE-2022-47522) в технологии буферизации пакетов Wi-Fi, затрагивающей различные устройства (Cisco, Ubiquiti) и операционные системы (Linux, FreeBSD, iOS, Android). Дополнительно открыт доступ к инструментарию MacStealer для совершения атаки. Уязвимость позволяет обойти шифрование в беспроводной сети и может быть использована для перехвата трафика изолированных клиентов.
+https://www.opennet.ru/opennews/art.shtml?num=58881</description>
+    </item>
+    
+  </channel>
+</rss>

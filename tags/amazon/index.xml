@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amazon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/amazon/</link>
+    <description>Recent content in Amazon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 14:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon развивает Linux-окружение Vega для использования вместо Android на  Fire TV</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-razvivaet-linux-okruzhenie-vega-dlya-ispolzovaniya-vmesto-android-na-fire-tv-20231110-143534/</link>
+      <pubDate>Fri, 10 Nov 2023 14:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-razvivaet-linux-okruzhenie-vega-dlya-ispolzovaniya-vmesto-android-na-fire-tv-20231110-143534/</guid>
+      <description>По информации, полученной изданием LowPass из инсайдерских источников, компания Amazon разрабатывает окружение Vega на базе ядра Linux, которое планируют использовать на телеприставках Fire TV, умных экранах и прочих потребительских устройствах Amazon вместо ныне используемой прошивки Fire OS на базе платформы Android (актуальный выпуск Fire OS 7 основан на Android 9). Первые устройства на основе новой системы планируют выпустить в продажу в следующем году.
+https://www.opennet.ru/opennews/art.shtml?num=60086</description>
+    </item>
+    
+    <item>
+      <title>Доступен Finch 1.0, инструментарий для Linux-контейнеров от компании Amazon  </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-finch-1-0-instrumentariy-dlya-linux-konteynerov-ot-kompanii-amazon-20231102-003524/</link>
+      <pubDate>Thu, 02 Nov 2023 00:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-finch-1-0-instrumentariy-dlya-linux-konteynerov-ot-kompanii-amazon-20231102-003524/</guid>
+      <description>Компания Amazon опубликовала релиз проекта Finch 1.0, развивающего открытый инструментарий для сборки, публикации и запуска Linux-контейнеров в формате OCI (Open Container Initiative). Основной задачей проекта называется упрощение работы с Linux-контейнерами на хост-системах не на основе Linux. Версия 1.0 отмечена как первый стабильный релиз, пригодный для рабочих внедрений и повседневного использования на платформе macOS. Поддержку клиентов для Linux и Windows планируют добавить в следующих выпусках. Код Finch написан на языке Go и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск игрового движка Open 3D Engine 23.10, открытого компанией Amazon </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-10-otkrytogo-kompaniey-amazon-20231016-013505/</link>
+      <pubDate>Mon, 16 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-10-otkrytogo-kompaniey-amazon-20231016-013505/</guid>
+      <description>Некоммерческая организация Open 3D Foundation (O3DF) представила выпуск открытого игрового 3D-движка Open 3D Engine 23.10 (O3DE), пригодного для разработки современных игр класса AAA и высокоточных симуляторов, способных работать в режиме реального времени и обеспечивать качество кинематографического уровня. Код написан на С++ и опубликован под лицензией Apache 2.0. Имеется поддержка платформ Linux, Windows, macOS, iOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=59935</description>
+    </item>
+    
+    <item>
+      <title>Amazon и Google открыли код систем fuzzing-тестирования Snapchange и Buzzer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</link>
+      <pubDate>Mon, 15 May 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</guid>
+      <description>Компания Amazon открыла исходные тексты инструментария Snapchange с реализацией метода fuzzing-тестирования срезов памяти, позволяющего организовать проверку исполняемых файлов без их модификации и без наличия исходного кода приложения. Snapchange даёт возможность загрузить дамп физической памяти с производным исполняемым кодом и организовать при помощи гипервизора KVM циклическое выполнение присутствующего в дампе кода, перебирая различных комбинации входных данных, отслеживая возникающие сбои или аномалии и перезапуская проверку после очередной итерации, каждый раз сбрасывая срез памяти и регистров CPU в исходное состояние.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск игрового движка Open 3D Engine 23.05, открытого компанией Amazon </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-05-otkrytogo-kompaniey-amazon-20230505-133505/</link>
+      <pubDate>Fri, 05 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-05-otkrytogo-kompaniey-amazon-20230505-133505/</guid>
+      <description>Некоммерческая организация Open 3D Foundation (O3DF) представила выпуск открытого игрового 3D-движка Open 3D Engine 23.05 (O3DE), пригодного для разработки современных игр класса AAA и высокоточных симуляторов, способных работать в режиме реального времени и обеспечивать качество кинематографического уровня. Код написан на С++ и опубликован под лицензией Apache 2.0. Имеется поддержка платформ Linux, Windows, macOS, iOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=59078</description>
+    </item>
+    
+    <item>
+      <title>Amazon опубликовал открытую криптографическую библиотеку для языка Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-opublikoval-otkrytuyu-kriptograficheskuyu-biblioteku-dlya-yazyka-rust-20230420-133507/</link>
+      <pubDate>Thu, 20 Apr 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-opublikoval-otkrytuyu-kriptograficheskuyu-biblioteku-dlya-yazyka-rust-20230420-133507/</guid>
+      <description>Компания Amazon представила криптографическую библиотеку aws-lc-rs, предназначенную для использования в приложениях на языке Rust и совместимую на уровне API с Rust-библиотекой ring. Код проекта распространяется под лицензиями Apache 2.0 и ISC. Библиотека поддерживает работу на платформах Linux (x86, x86-64, aarch64) и macOS (x86-64).
+https://www.opennet.ru/opennews/art.shtml?num=59004</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Amazon Linux 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-amazon-linux-2023-20230316-233503/</link>
+      <pubDate>Thu, 16 Mar 2023 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-amazon-linux-2023-20230316-233503/</guid>
+      <description>Компания Amazon опубликовала первый стабильный выпуск нового дистрибутива общего назначения - Amazon Linux 2023 (LTS), оптимизированного для облачных окружений и поддерживающего интеграцию с инструментами и расширенными возможностями сервиса Amazon EC2. Дистрибутив пришёл на смену продукту Amazon Linux 2 и отличается уходом от использования в качестве основы CentOS в пользу пакетной базы Fedora Linux. Сборки формируются для архитектур x86_64 и ARM64 (Aarch64). Несмотря на первостепенную ориентацию на использование в AWS (Amazon Web Services), дистрибутив также поставляется в форме универсального образа виртуальной машины, который можно применять на локальной системе или в других облачных окружениях.</description>
+    </item>
+    
+  </channel>
+</rss>

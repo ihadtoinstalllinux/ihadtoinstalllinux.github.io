@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>systemd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/systemd/</link>
+    <description>Recent content in systemd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 12:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект postmarketOS представил сборки на базе systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-postmarketos-predstavil-sborki-na-baze-systemd-20240306-123519/</link>
+      <pubDate>Wed, 06 Mar 2024 12:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-postmarketos-predstavil-sborki-na-baze-systemd-20240306-123519/</guid>
+      <description>Разработчики проекта postmarketOS, развивающего дистрибутив Linux для смартфонов, базирующийся на пакетной базе Alpine Linux, стандартной Си-библиотеке Musl и наборе утилит BusyBox, объявили о предоставлении возможности использования системного менеджера systemd. В результате работы по реализации поддержки systemd, которая велась около года, подготовлен и доступен для тестирования прототип сборки, в которой вместо системы инициализации OpenRC задействован systemd.
+https://www.opennet.ru/opennews/art.shtml?num=60737</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системного менеджера systemd 255</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-255-20231207-153534/</link>
+      <pubDate>Thu, 07 Dec 2023 15:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-255-20231207-153534/</guid>
+      <description>После четырёх месяцев разработки представлен релиз системного менеджера systemd 255. Среди наиболее важных улучшений: поддержка экспорта накопителей через NVMe-TCP, компонент systemd-bsod для полноэкранного вывода сообщений об ошибках, утилита systemd-vmspawn для запуска виртуальных машин, утилита varlinkctl для управления сервисами Varlink, утилита systemd-pcrlock для анализа регистров TPM2 PCR и генерации правил доступа, модуль аутентификации pam_systemd_loadkey.so.
+https://www.opennet.ru/opennews/art.shtml?num=60248</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Devuan 5.0, форка Debian 12 без systemd </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</link>
+      <pubDate>Tue, 15 Aug 2023 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</guid>
+      <description>Представлен выпуск дистрибутива Devuan 5.0 &amp;ldquo;Daedalus&amp;rdquo;, форка Debian GNU/Linux, поставляемого без системного менеджера systemd. Новая ветка примечательна переходом на пакетную базу Debian 12 &amp;ldquo;Bullseye&amp;rdquo;. Для загрузки подготовлены Live-сборки и установочные iso-образы для архитектур i386, amd64, armel, armhf, arm64 и ppc64el.
+https://www.opennet.ru/opennews/art.shtml?num=59602</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системного менеджера systemd 254 с поддержкой мягкой перезагрузки </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-254-s-podderzhkoy-myagkoy-perezagruzki-20230728-213509/</link>
+      <pubDate>Fri, 28 Jul 2023 21:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-254-s-podderzhkoy-myagkoy-perezagruzki-20230728-213509/</guid>
+      <description>После пяти месяцев разработки представлен релиз системного менеджера systemd 254. Наиболее заметным изменением в новой версии стала поддержка режима мягкой перезагрузки (команда &amp;ldquo;systemctl soft-reboot&amp;rdquo;), который приводит к перезапуску только компонентов пространства пользователя, не трогая ядро Linux. В новом режиме при перезагрузке не применяются стадии инициализации оборудования, вызова загрузчика, запуска и загрузки ядра, инициализации драйверов, загрузки прошивок и обработки initrd, что позволяет заметно ускорить перезапуск и уменьшить время простоя во время обновления окружений, использующих готовые системные образы.</description>
+    </item>
+    
+    <item>
+      <title>Леннарт Поттеринг предложил добавить в systemd режим мягкой перезагрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predlozhil-dobavit-v-systemd-rezhim-myagkoy-perezagruzki-20230509-113507/</link>
+      <pubDate>Tue, 09 May 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predlozhil-dobavit-v-systemd-rezhim-myagkoy-perezagruzki-20230509-113507/</guid>
+      <description>Леннарт Поттеринг рассказал о подготовке к добавлению в системный менеджер systemd режима мягкой перезагрузки (&amp;ldquo;systemctl soft-reboot&amp;rdquo;), который приводит к перезапуску только компонентов пространства пользователя, не трогая ядро Linux. Предполагается, что по сравнению с обычной перезагрузкой мягкая перезагрузка сократит время простоя во время обновления окружений, использующих готовые системные образы.
+https://www.opennet.ru/opennews/art.shtml?num=59099</description>
+    </item>
+    
+  </channel>
+</rss>

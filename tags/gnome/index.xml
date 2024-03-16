@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GNOME on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnome/</link>
+    <description>Recent content in GNOME on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 14:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск библиотеки Libadwaita 1.5 для создания интерфейсов в стиле GNOME </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-5-dlya-sozdaniya-interfeysov-v-stile-gnome-20240316-143533/</link>
+      <pubDate>Sat, 16 Mar 2024 14:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-5-dlya-sozdaniya-interfeysov-v-stile-gnome-20240316-143533/</guid>
+      <description>Проект GNOME опубликовал выпуск библиотеки Libadwaita 1.5, включающей набор компонентов для стилевого оформления интерфейса пользователя, соответствующего рекомендациям GNOME HIG (Human Interface Guidelines). Библиотека включает в себя готовые виджеты и объекты для построения приложений, соответствующих общему стилю GNOME, интерфейс которых может адаптивно подстраиваться под экраны любого размера. Код библиотеки написан на языке Си и распространяется под лицензией LGPL 2.1+.
+https://www.opennet.ru/opennews/art.shtml?num=60793</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Phosh 0.37, GNOME-окружения для смартфонов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-37-gnome-okruzheniya-dlya-smartfonov-20240309-003520/</link>
+      <pubDate>Sat, 09 Mar 2024 00:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-37-gnome-okruzheniya-dlya-smartfonov-20240309-003520/</guid>
+      <description>Опубликован релиз Phosh 0.37, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намечено удаление из базовой поставки сеанса X11 для GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</link>
+      <pubDate>Thu, 07 Mar 2024 11:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил удаление пакета gnome-session-xsession, отвечающего за запуск сеанса GNOME на базе X-сервера. Изменение запланировано на выпуск Fedora 41, который будет сформирован осенью этого года. Из сеансов, поддерживаемых по умолчанию в Fedora Workstation 41, останется только Wayland, но пакеты для организации работы сеанса X11 по-прежнему можно будет установить из репозиториев.
+https://www.opennet.ru/opennews/art.shtml?num=60746</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Tails 6.0, перешедший на Debian 12 и GNOME 43</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-tails-6-0-pereshedshiy-na-debian-12-i-gnome-43-20240228-003554/</link>
+      <pubDate>Wed, 28 Feb 2024 00:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-tails-6-0-pereshedshiy-na-debian-12-i-gnome-43-20240228-003554/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 6.0 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60675</description>
+    </item>
+    
+    <item>
+      <title>Проект GNOME получил миллион евро на развитие</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gnome-poluchil-million-evro-na-razvitie-20231110-123542/</link>
+      <pubDate>Fri, 10 Nov 2023 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gnome-poluchil-million-evro-na-razvitie-20231110-123542/</guid>
+      <description>Организация GNOME Foundation объявила о получении миллиона евро от фонда Sovereign, учреждённого в Германии для стимулирования развития открытой цифровой инфраструктуры и экосистем с открытым исходным кодом. Фонд создан на средства, предоставленные Министерством экономики и защиты климата Германии, и курируется Федеральным агентством подрывных инноваций SPRIND. Полученные деньги планируют направить на модернизацию платформы GNOME, улучшение инструментария, расширение средств для людей с ограниченными возможностями и реализацию функций, представляющих общественный интерес (Public interest).
+https://www.opennet.ru/opennews/art.shtml?num=60084</description>
+    </item>
+    
+    <item>
+      <title>Назначен новый исполнительный директор GNOME Foundation</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-ispolnitelnyy-direktor-gnome-foundation-20231018-123532/</link>
+      <pubDate>Wed, 18 Oct 2023 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/naznachen-novyy-ispolnitelnyy-direktor-gnome-foundation-20231018-123532/</guid>
+      <description>Организация GNOME Foundation, курирующая разработку пользовательского окружения GNOME, объявила о назначении Холли Миллион (Holly Million) на пост исполнительного директора, который оставался с вакантным с августа прошлого года после ухода Нила МакГоверна (Neil McGovern). Исполнительный директор отвечает за управление и развитие GNOME Foundation как организацией, а также за взаимодействие с советом директоров, консультативным советом (Advisory Board) и членами организации.
+https://www.opennet.ru/opennews/art.shtml?num=59947</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в libcue, приводящая к выполнению кода при загрузке файлов в GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libcue-privodyaschaya-k-vypolneniyu-koda-pri-zagruzke-faylov-v-gnome-20231010-013505/</link>
+      <pubDate>Tue, 10 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libcue-privodyaschaya-k-vypolneniyu-koda-pri-zagruzke-faylov-v-gnome-20231010-013505/</guid>
+      <description>В библиотеке libcue, используемой для разбора метаданных cо сведениями о порядке и длительности звуковых треков, выявлена уязвимость (CVE-2023-43641), позволяющая организовать выполнение кода при обработке специально оформленных cue-файлов. Библиотека используется в некоторых мультимедийных проигрывателях и звуковых редакторах, включая Audacious, и может быть использована для компрометации системы при открытии в них непроверенных данных.
+https://www.opennet.ru/opennews/art.shtml?num=59896</description>
+    </item>
+    
+    <item>
+      <title>Для GNOME предложены изменения, нацеленные на прекращение поддержки X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-gnome-predlozheny-izmeneniya-nacelennye-na-prekraschenie-podderzhki-x11-20231009-103504/</link>
+      <pubDate>Mon, 09 Oct 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-gnome-predlozheny-izmeneniya-nacelennye-na-prekraschenie-podderzhki-x11-20231009-103504/</guid>
+      <description>Джордан Петридис (Jordan Petridis), входящий в команды, отвечающие за контроль качества и выпуск релизов GNOME, опубликовал запрос на изменение, удаляющее из пакета gnome-session systemd-таргеты для запуска в окружениях с X11. Отмечается, что это первый шаг на пути к отказу от поддержки протокола X11 в GNOME. Тем не менее, на текущей стадии остальная функциональность, необходимая для запуска сеанса X11, остаётся на месте (но намечена для удаления в следующем цикле разработки) и пользователи могут вернуть поддержку X11, добавив systemd-таргеты вручную.</description>
+    </item>
+    
+    <item>
+      <title>Опубликовано пользовательское окружение GNOME 45 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-gnome-45-20230921-023504/</link>
+      <pubDate>Thu, 21 Sep 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-gnome-45-20230921-023504/</guid>
+      <description>После шести месяцев разработки представлен выпуск десктоп-окружения GNOME 45. Для быстрой оценки возможностей GNOME 45 предложены специализированные Live-сборки на основе openSUSE и установочной образ, подготовленный в рамках инициативы GNOME OS. GNOME 45 также уже включён в состав экспериментальных сборок Ubuntu 23.10 и Fedora 39.
+https://www.opennet.ru/opennews/art.shtml?num=59794</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки Libadwaita 1.4 для создания интерфейсов в стиле GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-4-dlya-sozdaniya-interfeysov-v-stile-gnome-20230917-123506/</link>
+      <pubDate>Sun, 17 Sep 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-4-dlya-sozdaniya-interfeysov-v-stile-gnome-20230917-123506/</guid>
+      <description>Проект GNOME опубликовал выпуск библиотеки Libadwaita 1.4, включающей набор компонентов для стилевого оформления интерфейса пользователя, соответствующего рекомендациям GNOME HIG (Human Interface Guidelines). Библиотека включает в себя готовые виджеты и объекты для построения приложений, соответствующих общему стилю GNOME, интерфейс которых может адаптивно подстраиваться под экраны любого размера. Код библиотеки написан на языке Си и распространяется под лицензией LGPL 2.1+.
+https://www.opennet.ru/opennews/art.shtml?num=59767</description>
+    </item>
+    
+    <item>
+      <title>В GNOME 45 будет нарушена совместимость со старыми дополнениями</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-45-budet-narushena-sovmestimost-so-starymi-dopolneniyami-20230904-123508/</link>
+      <pubDate>Mon, 04 Sep 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-45-budet-narushena-sovmestimost-so-starymi-dopolneniyami-20230904-123508/</guid>
+      <description>В пользовательском окружении GNOME 45, релиз которого намечен на 25 сентября, изменена организация загрузки модулей в дополнениях к GNOME Shell, что приведёт к нарушению обратной совместимости и потребует внесения изменений в дополнения. Дополнения, разработанные для прошлых версий GNOME, не смогут работать в выпуске GNOME 45, а дополнения, адаптированные для работы в GNOME 45, не смогут устанавливаться в прошлых версиях GNOME. Для сохранения совместимости с разными выпусками GNOME разработчикам дополнений необходимо загрузить в каталог extensions.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>В GNOME планируют изменить модель управления окнами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-planiruyut-izmenit-model-upravleniya-oknami-20230728-133506/</link>
+      <pubDate>Fri, 28 Jul 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-planiruyut-izmenit-model-upravleniya-oknami-20230728-133506/</guid>
+      <description>Тобиас Бернард (Tobias Bernard) из команды, отвечающей за дизайн пользовательского интерфейса GNOME, обобщил результаты обсуждения разработчиками планов по модернизации управления окнами в GNOME. Отмечается, что используемая ныне по умолчанию модель управления окнами построена на концепциях 50-летней давности и требует для достижения комфортного окружения выполнения лишней работы, связанной с настройкой размера и перемещением окон.
+https://www.opennet.ru/opennews/art.shtml?num=59509</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Phosh 0.29, GNOME-окружения для смартфонов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-29-gnome-okruzheniya-dlya-smartfonov-20230708-013506/</link>
+      <pubDate>Sat, 08 Jul 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-29-gnome-okruzheniya-dlya-smartfonov-20230708-013506/</guid>
+      <description>Состоялся релиз Phosh 0.29.0, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+    </item>
+    
+    <item>
+      <title>Опубликовано пользовательское окружение GNOME 44</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-gnome-44-20230323-013504/</link>
+      <pubDate>Thu, 23 Mar 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-gnome-44-20230323-013504/</guid>
+      <description>После шести месяцев разработки представлен выпуск десктоп-окружения GNOME 44. Для быстрой оценки возможностей GNOME 44 предложены специализированные Live-сборки на основе openSUSE и установочной образ, подготовленный в рамках инициативы GNOME OS. GNOME 44 также уже включён в состав экспериментальных сборок Ubuntu 23.04 и Fedora 38.
+https://www.opennet.ru/opennews/art.shtml?num=58844</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки Libadwaita 1.3 для создания интерфейсов в стиле GNOME </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-3-dlya-sozdaniya-interfeysov-v-stile-gnome-20230320-013502/</link>
+      <pubDate>Mon, 20 Mar 2023 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libadwaita-1-3-dlya-sozdaniya-interfeysov-v-stile-gnome-20230320-013502/</guid>
+      <description>Проект GNOME опубликовал выпуск библиотеки Libadwaita 1.3, включающей набор компонентов для стилевого оформления интерфейса пользователя, соответствующего рекомендациям GNOME HIG (Human Interface Guidelines). Библиотека включает в себя готовые виджеты и объекты для построения приложений, соответствующих общему стилю GNOME, интерфейс которых может адаптивно подстраиваться под экраны любого размера. Код библиотеки написан на языке Си и распространяется под лицензией LGPL 2.1+.
+https://www.opennet.ru/opennews/art.shtml?num=58822</description>
+    </item>
+    
+  </channel>
+</rss>

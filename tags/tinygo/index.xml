@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tinygo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tinygo/</link>
+    <description>Recent content in Tinygo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tinygo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Tinygo 0.28, компилятора языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</link>
+      <pubDate>Mon, 12 Jun 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.28, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59281</description>
+    </item>
+    
+  </channel>
+</rss>

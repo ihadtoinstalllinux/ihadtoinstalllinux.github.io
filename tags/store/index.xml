@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Store on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/store/</link>
+    <description>Recent content in Store on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Ubuntu Snap Store выявлены вредоносные пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</link>
+      <pubDate>Sun, 01 Oct 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</guid>
+      <description>Компания Canonical объявила о временной приостановке использования в Snap Store автоматической системы проверки публикуемых пакетов из-за появления в репозитории пакетов с вредоносным кодом для кражи криптовалюты у пользователей. При этом непонятно ограничивается ли инцидент публикацией вредоносных пакетов сторонними авторами или имеют место какие-то проблемы с безопасностью непосредственно репозитория, так как ситуация в официальном анонсе характеризуется как &amp;ldquo;потенциальный инцидент с безопасностью&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59849</description>
+    </item>
+    
+    <item>
+      <title>Прогресс в продвижении нового менеджера приложений Ubuntu Store</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-prodvizhenii-novogo-menedzhera-prilozheniy-ubuntu-store-20230815-103504/</link>
+      <pubDate>Tue, 15 Aug 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-prodvizhenii-novogo-menedzhera-prilozheniy-ubuntu-store-20230815-103504/</guid>
+      <description>Разработчики Ubuntu намерены на следующей неделе задействовать по умолчанию в тестовых сборках Ubuntu 23.10 новый менеджер приложений Ubuntu Store, написанный языке Dart с использованием фреймворка Flutter и распространяемый под лицензией GPLv3. При этом в LTS-выпуске Ubuntu 24.04 по умолчанию будет оставлен классический менеджер приложений Ubuntu Software, основанный на GNOME Software (в выпуске Ubuntu 23.10 приложение Ubuntu Software сохранится в качестве опции).
+https://www.opennet.ru/opennews/art.shtml?num=59599</description>
+    </item>
+    
+  </channel>
+</rss>

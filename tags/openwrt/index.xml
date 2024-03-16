@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenWrt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openwrt/</link>
+    <description>Recent content in OpenWrt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 14:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenWrt развивает собственную аппаратную платформу</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openwrt-razvivaet-sobstvennuyu-apparatnuyu-platformu-20240110-143542/</link>
+      <pubDate>Wed, 10 Jan 2024 14:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openwrt-razvivaet-sobstvennuyu-apparatnuyu-platformu-20240110-143542/</guid>
+      <description>В канун 20-летия проекта разработчики дистрибутива OpenWrt выступили с инициативой создания развиваемого сообществом беспроводного маршрутизатора OpenWrt One (AP-24.X). В качестве основы OpenWrt One предлагается использовать начинку, схожую с платами Banana Pi (BPi-R4), которые комплектуются открытыми прошивками (за исключением прошивки беспроводного чипа), поставляются с U-Boot и поддерживаются в ядре Linux. Схемы для собственной сборки устройства будут поставляться под одной из открытых лицензий (точно лицензия пока не выбрана). Стоимость устройства не будет превышать 100 долларов.</description>
+    </item>
+    
+    <item>
+      <title>Обновление OpenWrt 23.05.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-23-05-2-20231117-033527/</link>
+      <pubDate>Fri, 17 Nov 2023 03:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-23-05-2-20231117-033527/</guid>
+      <description>Опубликовано обновление дистрибутива OpenWrt 23.05.2, ориентированного на применение в различных сетевых устройствах, таких как маршрутизаторы, коммутаторы и точки доступа. Выпуск OpenWrt 23.05.1 из-за выявления ошибки не был сформирован. OpenWrt поддерживает множество различных платформ и архитектур и обладает системой сборки, позволяющей просто и удобно производить кросс-компиляцию, включая в состав сборки различные компоненты, что позволяет легко сформировать адаптированную под конкретные задачи готовую прошивку или образ диска с желаемым набором предустановленных пакетов. Сборки сформированы для 36 целевых платформ.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован OpenWrt 23.05.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-openwrt-23-05-0-20231013-173504/</link>
+      <pubDate>Fri, 13 Oct 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-openwrt-23-05-0-20231013-173504/</guid>
+      <description>После года разработки представлен новый значительный выпуск дистрибутива OpenWrt 23.05.0, ориентированного на применение в различных сетевых устройствах, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает множество различных платформ и архитектур и обладает системой сборки, позволяющей просто и удобно производить кросс-компиляцию, включая в состав сборки различные компоненты, что позволяет легко сформировать адаптированную под конкретные задачи готовую прошивку или образ диска с желаемым набором предустановленных пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59926</description>
+    </item>
+    
+    <item>
+      <title>Обновление OpenWrt 22.03.5 и 21.02.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-22-03-5-i-21-02-7-20230505-123506/</link>
+      <pubDate>Fri, 05 May 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-22-03-5-i-21-02-7-20230505-123506/</guid>
+      <description>Опубликовано обновление дистрибутива OpenWrt 22.03.5 (выпуск 22.03.4 был пропущен), ориентированного на применение в различных сетевых устройствах, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает множество различных платформ и архитектур и обладает системой сборки, позволяющей просто и удобно производить кросс-компиляцию, включая в состав сборки различные компоненты, что позволяет легко сформировать адаптированную под конкретные задачи готовую прошивку или образ диска с желаемым набором предустановленных пакетов. Сборки сформированы для 35 целевых платформ.</description>
+    </item>
+    
+  </channel>
+</rss>

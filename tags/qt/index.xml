@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qt/</link>
+    <description>Recent content in Qt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2024 12:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в предлагаемой в Qt реализации протокола HTTP/2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-predlagaemoy-v-qt-realizacii-protokola-http-2-20240106-123550/</link>
+      <pubDate>Sat, 06 Jan 2024 12:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-predlagaemoy-v-qt-realizacii-protokola-http-2-20240106-123550/</guid>
+      <description>В библиотеке Qt выявлена уязвимость (CVE-2023-51714) в реализации протокола HTTP/2, позволяющая добиться записи своих данных за пределы выделенного буфера. Уязвимость вызвана целочисленным переполнением в коде разбора упакованных заголовков (HPack) и проявляется при получении более 4 ГБ суммарных данных HTTP-заголовков или 2 ГБ для одного заголовка. Проблема устранена в обновлениях Qt 5.15.17, 6.2.11, 6.5.4 и 6.6.2.
+https://www.opennet.ru/opennews/art.shtml?num=60395</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Lubuntu перейдёт на использование Qt 6 и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</link>
+      <pubDate>Sun, 10 Dec 2023 19:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</guid>
+      <description>Разработчики проекта Lubuntu опубликовали план перевода дистрибутива на Qt 6 и Wayland. Поддержка опционального сеанса на базе Wayland появится в выпуске Lubuntu 24.02, а в версии Lubuntu 24.10 данный сеанс будет задействован по умолчанию. Параллельно продолжается работа по интеграции поддержки Wayland и Qt 6 в пользовательское окружение LXQt, поставляемое в Lubuntu (актуальный выпуск LXQt 1.4 продолжает основываться на ветке Qt 5.15, но следующий выпуск LXQt обещают перевести на Qt 6).</description>
+    </item>
+    
+    <item>
+      <title>Увидела свет среда разработки Qt Creator 12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uvidela-svet-sreda-razrabotki-qt-creator-12-20231123-183549/</link>
+      <pubDate>Thu, 23 Nov 2023 18:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uvidela-svet-sreda-razrabotki-qt-creator-12-20231123-183549/</guid>
+      <description>Опубликован выпуск интегрированной среды разработки Qt Creator 12.0, предназначенной для создания кроссплатформенных приложений с использованием библиотеки Qt. Поддерживается как разработка классических программ на языке C++, так и использование языка QML, в котором для определения сценариев используется JavaScript, а структура и параметры элементов интерфейса задаются CSS-подобными блоками. Готовые сборки сформированы для Linux, Windows и maсOS.
+https://www.opennet.ru/opennews/art.shtml?num=60171</description>
+    </item>
+    
+    <item>
+      <title>Релиз фреймворка Qt 6.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-6-20231012-123505/</link>
+      <pubDate>Thu, 12 Oct 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-6-20231012-123505/</guid>
+      <description>Компания Qt Company опубликовала релиз фреймворка Qt 6.6, в котором продолжена работа по стабилизации и наращиванию функциональности ветки Qt 6. В Qt 6.6 обеспечена поддержка платформ Windows 10+, macOS 11+, Linux (Ubuntu 22.04, openSUSE 15.4, SUSE 15 SP4, RHEL 8.6/9.0), iOS 14+, Android 8+ (API 23+), webOS, WebAssembly, INTEGRITY и QNX. Исходные тексты компонентов Qt поставляются под лицензиями LGPLv3 и GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=59907</description>
+    </item>
+    
+    <item>
+      <title>Выпуск среды разработки Qt Creator 11 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-11-20230721-123528/</link>
+      <pubDate>Fri, 21 Jul 2023 12:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-11-20230721-123528/</guid>
+      <description>Опубликован выпуск интегрированной среды разработки Qt Creator 11.0, предназначенной для создания кроссплатформенных приложений с использованием библиотеки Qt. Поддерживается как разработка классических программ на языке C++, так и использование языка QML, в котором для определения сценариев используется JavaScript, а структура и параметры элементов интерфейса задаются CSS-подобными блоками. Готовые сборки сформированы для Linux, Windows и maсOS.
+https://www.opennet.ru/opennews/art.shtml?num=59472</description>
+    </item>
+    
+    <item>
+      <title>Релиз фреймворка Qt 6.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-5-20230403-163505/</link>
+      <pubDate>Mon, 03 Apr 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-qt-6-5-20230403-163505/</guid>
+      <description>Компания Qt Company опубликовала релиз фреймворка Qt 6.5, в котором продолжена работа по стабилизации и наращиванию функциональности ветки Qt 6. В Qt 6.5 обеспечена поддержка платформ Windows 10+, macOS 11+, Linux (Ubuntu 20.04, openSUSE 15.4, SUSE 15 SP4, RHEL 8.4/9.0), iOS 14+, Android 8+ (API 23+), webOS, WebAssembly, INTEGRITY и QNX. Исходные тексты компонентов Qt поставляются под лицензиями LGPLv3 и GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=58911</description>
+    </item>
+    
+    <item>
+      <title>Выпуск среды разработки Qt Creator 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-10-20230330-003510/</link>
+      <pubDate>Thu, 30 Mar 2023 00:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-qt-creator-10-20230330-003510/</guid>
+      <description>Опубликован выпуск интегрированной среды разработки Qt Creator 10.0, предназначенной для создания кроссплатформенных приложений с использованием библиотеки Qt. Поддерживается как разработка классических программ на языке C++, так и использование языка QML, в котором для определения сценариев используется JavaScript, а структура и параметры элементов интерфейса задаются CSS-подобными блоками. Готовые сборки сформированы для Linux, Windows и maсOS.
+https://www.opennet.ru/opennews/art.shtml?num=58887</description>
+    </item>
+    
+  </channel>
+</rss>

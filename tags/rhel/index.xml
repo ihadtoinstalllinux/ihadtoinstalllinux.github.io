@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RHEL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rhel/</link>
+    <description>Recent content in RHEL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 14:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hat удалит сервер X.org и связанные компоненты из RHEL 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-udalit-server-x-org-i-svyazannye-komponenty-iz-rhel-10-20231128-143600/</link>
+      <pubDate>Tue, 28 Nov 2023 14:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-udalit-server-x-org-i-svyazannye-komponenty-iz-rhel-10-20231128-143600/</guid>
+      <description>Компания Red Hat опубликовала план прекращения поддержки сервера X.org в дистрибутиве Red Hat Enterprise Linux 10. Изначально, X.org Server был объявлен устаревшим и намеченным на удаление в будущей ветке RHEL ещё год назад в примечании к выпуску RHEL 9.1. Возможность запуска X11-приложений в сеансе Wayland, обеспечиваемая при помощи DDX-сервера XWayland, будет сохранена. Первый выпуск ветки RHEL 10, в котором будет прекращена поставка X.org Server, запланирован на первую половину 2025 года.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива EuroLinux 9.3, совместимого с RHEL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-3-sovmestimogo-s-rhel-20231117-023515/</link>
+      <pubDate>Fri, 17 Nov 2023 02:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-3-sovmestimogo-s-rhel-20231117-023515/</guid>
+      <description>Состоялся релиз дистрибутива EuroLinux 9.3, подготовленного путём пересборки исходных текстов пакетов дистрибутива Red Hat Enterprise Linux 9.3 и полностью бинарно совместимого с ним. Изменения сводятся к ребрендингу и удалению специфичных для RHEL пакетов, в остальном дистрибутив полностью аналогичен RHEL 9.3. Ветка EuroLinux 9 будет поддерживаться до 30 июня 2032 года. Для загрузки подготовлены установочные образы, размером 864 МБ (boot), 10 ГБ (appstream) и 2 ГБ. Проектом предоставляются скрипты для миграции на.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован репозиторий OpenELA для создания дистрибутивов, совместимых с RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-repozitoriy-openela-dlya-sozdaniya-distributivov-sovmestimyh-s-rhel-20231103-133536/</link>
+      <pubDate>Fri, 03 Nov 2023 13:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-repozitoriy-openela-dlya-sozdaniya-distributivov-sovmestimyh-s-rhel-20231103-133536/</guid>
+      <description>Ассоциация OpenELA (Open Enterprise Linux Association), образованная в августе компаниями CIQ (Rocky Linux), Oracle и SUSE для объединения усилий по обеспечению совместимости с RHEL, объявила о готовности репозитория с пакетами, который можно использовать в качестве основы для создания дистрибутивов, полностью бинарно совместимых с Red Hat Enterprise Linux, идентичных по поведению (на уровне ошибок) с RHEL и пригодных для использования в качестве замены RHEL. Исходные тексты подготовленных пакетов распространяются бесплатно и без ограничений.</description>
+    </item>
+    
+    <item>
+      <title>Rocky Linux, Oracle и SUSE создали совместный репозиторий для RHEL-совместимых дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-sozdali-sovmestnyy-repozitoriy-dlya-rhel-sovmestimyh-distributiv-20230810-233505/</link>
+      <pubDate>Thu, 10 Aug 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-sozdali-sovmestnyy-repozitoriy-dlya-rhel-sovmestimyh-distributiv-20230810-233505/</guid>
+      <description>Компании CIQ (Rocky Linux), Oracle и SUSE объявили о создании ассоциации разработчиков дистрибутивов OpenELA (Open Enterprise Linux Association), нацеленной на совместную разработку пакетной базы, совместимой с Red Hat Enterprise Linux. Целью ассоциации является объединение усилий разработчиков дистрибутивов в работе по обеспечению совместимости с RHEL. Среди прочего, в рамках проекта создан совместно поддерживаемый общедоступный репозиторий с исходными текстами пакетов, который можно использовать для построения дистрибутивов, совместимых с RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59580</description>
+    </item>
+    
+    <item>
+      <title>Компания SUSE объявила о создании собственного форка RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-suse-obyavila-o-sozdanii-sobstvennogo-forka-rhel-20230711-233505/</link>
+      <pubDate>Tue, 11 Jul 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-suse-obyavila-o-sozdanii-sobstvennogo-forka-rhel-20230711-233505/</guid>
+      <description>Компания SUSE сообщила о создании собственного форка дистрибутива Red Hat Enterprise Linux. В следующие несколько лет в сопровождение проекта планируется инвестировать 10 млн долларов. Форк RHEL, упоминаемый под именем Liberty Linux, планируют развивать и поддерживать в качестве общедоступного проекта, курируемого отдельной некоммерческой организацией. Доступ к формируемому в рамках проекта альтернативному набору исходных текстов пакетов, совместимых с RHEL, будет бесплатен для всех желающих и открыт для совместной работы с другими похожими проектами.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Linux продолжит поддерживать совместимость с RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oracle-linux-prodolzhit-podderzhivat-sovmestimost-s-rhel-20230711-003506/</link>
+      <pubDate>Tue, 11 Jul 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oracle-linux-prodolzhit-podderzhivat-sovmestimost-s-rhel-20230711-003506/</guid>
+      <description>Компания Oracle заявила о готовности продолжать поддержание совместимости с Red Hat Enterprise Linux в своём дистрибутиве Oracle Linux, несмотря на ограничение компанией Red Hat публичного доступа к исходным текстам пакетов RHEL. Потеря доступа к эталонным исходным текстам пакетов повышает вероятность появления проблем с совместимостью, но компания Oracle готова устранять данные проблемы, если они затрагивают клиентов. Компания Oracle также приветствует создание производных дистрибутивов, как общественных, так и коммерческих, и готова сотрудничать с другими производителями дистрибутивов для облегчения совместной работы над Oracle Linux и сертификации продуктов Oracle для других дистрибутивов.</description>
+    </item>
+    
+    <item>
+      <title>Для RHEL 7 будут предоставленены дополнительные 4 года расширенной поддержки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-rhel-7-budut-predostavleneny-dopolnitelnye-4-goda-rasshirennoy-podderzhki-20230630-233506/</link>
+      <pubDate>Fri, 30 Jun 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-rhel-7-budut-predostavleneny-dopolnitelnye-4-goda-rasshirennoy-podderzhki-20230630-233506/</guid>
+      <description>Компания Red Hat объявила о расширении сервиса платной расширенной поддержки (ELS, Extended Life Cycle Support), в рамках которого выпускаются обновления с исправлением критических проблем после окончания базового 10-летнего цикла сопровождения. Для дистрибутива RHEL 6 поддержка ELS осуществлялась в течение трёх лет, а для ветки RHEL 7 расширена до четырёх лет. Таким образом для RHEL 7 возможный срок сопровождения составит 14 лет.
+https://www.opennet.ru/opennews/art.shtml?num=59358</description>
+    </item>
+    
+    <item>
+      <title>Red Hat ответил на критику изменений в распространении кода пакетов RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-otvetil-na-kritiku-izmeneniy-v-rasprostranenii-koda-paketov-rhel-20230627-113506/</link>
+      <pubDate>Tue, 27 Jun 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-otvetil-na-kritiku-izmeneniy-v-rasprostranenii-koda-paketov-rhel-20230627-113506/</guid>
+      <description>Майк МакГрэз (Mike McGrath), вице-президент компании Red Hat, отвечающий за разработку Fedora и CentOS, озвучил позицию компании в отношении прекращения публикации srpm-пакетов RHEL в репозитории git.centos.org и оставлении в качестве единственного публичного источника кода пакетов RHEL репозитория CentOS Stream. По словам МакГрэза компания Red Hat действует в соответствии с требованиями лицензии GPL, остаётся сторонником открытых процессов разработки и продолжает действовать во благо сообщества, открывая свой код и передавая изменения в upstream.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat увеличил лимит бесплатного использования RHEL с 16 до 240 систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-uvelichil-limit-besplatnogo-ispolzovaniya-rhel-s-16-do-240-sistem-20230625-113505/</link>
+      <pubDate>Sun, 25 Jun 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-uvelichil-limit-besplatnogo-ispolzovaniya-rhel-s-16-do-240-sistem-20230625-113505/</guid>
+      <description>Компания Red Hat изменила параметры программы Red Hat Developer, предоставляющей возможность бесплатного использования дистрибутива Red Hat Enterprise Linux в организациях, развивающих открытое ПО, и в окружениях индивидуальных разработчиков. Число окружений, разрешённых для установки в рамках инициативы Red Hat Developer, увеличено с 16 до 240 виртуальных или физических систем. Изменение пока не анонсировано официально, но отражено в web-интерфейсе для клиентов компании.
+https://www.opennet.ru/opennews/art.shtml?num=59341</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux и Rocky Linux перестроят свои процессы с учётом ограничения доступа к src-пакетам RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</link>
+      <pubDate>Fri, 23 Jun 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</guid>
+      <description>Проекты AlmaLinux и Rocky Linux, публикующие бинарно совместимые сборки Red Hat Enterprise Linux, опубликовали заявления c планом дальнейших действий после ограничения компанией Red Hat публичного доступа к исходным текстам пакетов RHEL. Для клиентов компания Red Hat оставила возможность загрузки кода пакетов через закрытый раздел сайта, на котором действует дополнительное пользовательское соглашение (EULA), запрещающее редистрибуцию RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59332</description>
+    </item>
+    
+    <item>
+      <title>CentOS Stream станет единственным публичным источником кода пакетов RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/centos-stream-stanet-edinstvennym-publichnym-istochnikom-koda-paketov-rhel-20230621-203505/</link>
+      <pubDate>Wed, 21 Jun 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/centos-stream-stanet-edinstvennym-publichnym-istochnikom-koda-paketov-rhel-20230621-203505/</guid>
+      <description>Компания Red Hat объявила об изменении подхода к публикации исходных текстов пакетов дистрибутива Red Hat Enterprise Linux и прекращении публикации кода пакетов в Git-репозитории git.centos.org. Единственным публично доступным источником исходных текстов пакетов RHEL теперь будет репозиторий CentOS Stream. Для клиентов и партнёров Red Hat будет оставлена возможность загрузки кода пакетов, соответствующих релизам RHEL, через клиентский портал компании, доступ к которому требует наличия учётной записи.
+https://www.opennet.ru/opennews/art.shtml?num=59323</description>
+    </item>
+    
+    <item>
+      <title>Red Hat прекратит подготовку rpm-пакетов с LibreOffice для RHEL и Fedora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-prekratit-podgotovku-rpm-paketov-s-libreoffice-dlya-rhel-i-fedora-20230602-233508/</link>
+      <pubDate>Fri, 02 Jun 2023 23:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-prekratit-podgotovku-rpm-paketov-s-libreoffice-dlya-rhel-i-fedora-20230602-233508/</guid>
+      <description>Маттиас Класен (Matthias Clasen), лидер Fedora Desktop Team и участник GNOME Release Team, сообщил о решении компании Red Hat прекратить поставку RPM-пакетов с LibreOffice в следующей значительной ветке дистрибутива Red Hat Enterprise Linux 10, а также ограничить своё участие в разработке пакетов с LibreOffice для Fedora, сопровождением которых ранее занимались работники Red Hat. Пользователям желающим установить LibreOffice будет предложено использовать пакеты в формате Flatpak.
+https://www.opennet.ru/opennews/art.shtml?num=59238</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива EuroLinux 9.2, совместимого с RHEL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-2-sovmestimogo-s-rhel-20230511-213507/</link>
+      <pubDate>Thu, 11 May 2023 21:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-eurolinux-9-2-sovmestimogo-s-rhel-20230511-213507/</guid>
+      <description>Состоялся релиз дистрибутива EuroLinux 9.2, подготовленного путём пересборки исходных текстов пакетов дистрибутива Red Hat Enterprise Linux 9.2 и полностью бинарно совместимого с ним. Изменения сводятся к ребрендингу и удалению специфичных для RHEL пакетов, в остальном дистрибутив полностью аналогичен RHEL 9.2. Ветка EuroLinux 9 будет поддерживаться до 30 июня 2032 года. Для загрузки подготовлены установочные образы, размером 864 МБ (boot), 8 ГБ (appstream) и 2 ГБ. Проектом предоставляются скрипты для миграции на.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sailfish on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sailfish/</link>
+    <description>Recent content in Sailfish on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 01:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sailfish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Запуск в Linux-дистрибутивах Android-окружения Aliendalvik из Sailfish</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zapusk-v-linux-distributivah-android-okruzheniya-aliendalvik-iz-sailfish-20231226-013539/</link>
+      <pubDate>Tue, 26 Dec 2023 01:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zapusk-v-linux-distributivah-android-okruzheniya-aliendalvik-iz-sailfish-20231226-013539/</guid>
+      <description>Джонас Дресслер (Jonas Dressler) из проекта GNOME, развивающий редакцию GNOME Shell для мобильных устройств, опубликовал наработки, позволяющие запустить окружение Aliendalvik (AppSupport) в обычных дистрибутивах Linux. Aliendalvik представляет собой прослойку для мобильной платформы Sailfish, обеспечивающую запуск приложений, написанных для платформы Android. В ходе проведение обратного инжинирига Aliendalvik подготовлены патчи к композитному серверу Мutter, скрипты и обвязки над звуковым сервером и системой ввода, необходимые для запуска Aliendalvik вне окружения платформы Sailfish.
+https://www.opennet.ru/opennews/art.shtml?num=60349</description>
+    </item>
+    
+  </channel>
+</rss>

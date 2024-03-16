@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EPYC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/epyc/</link>
+    <description>Recent content in EPYC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2023 21:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/epyc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ошибка в CPU AMD EPYC 7002 приводит к зависанию после 1044 дней работы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</link>
+      <pubDate>Sat, 03 Jun 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</guid>
+      <description>В поставляемой с 2018 года серии серверных процессоров AMD EPYC 7002 (&amp;ldquo;Rome&amp;rdquo;), построенных на базе микроархитектуры &amp;ldquo;Zen 2&amp;rdquo;, выявлена ошибка, в результате которой процессор зависает после 1044 дней работы без сброса состояния (перезагрузки системы). В качестве обходных путей блокирования проблемы рекомендуется отключить поддержку энергосберегающего режима CC6 или перезагружать сервер чаще, чем раз в 1044 дней (примерно 2 года 10 месяцев).
+https://www.opennet.ru/opennews/art.shtml?num=59243</description>
+    </item>
+    
+  </channel>
+</rss>

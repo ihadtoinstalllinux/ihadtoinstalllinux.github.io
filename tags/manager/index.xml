@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Manager on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/manager/</link>
+    <description>Recent content in Manager on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Sep 2023 19:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В deb-пакетах с Free Download Manager найден бэкдор, который оставался незамеченным три года</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-deb-paketah-s-free-download-manager-nayden-bekdor-kotoryy-ostavalsya-nezamechennym-tri-g-20230914-193505/</link>
+      <pubDate>Thu, 14 Sep 2023 19:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-deb-paketah-s-free-download-manager-nayden-bekdor-kotoryy-ostavalsya-nezamechennym-tri-g-20230914-193505/</guid>
+      <description>Исследователи из Лаборатории Касперского выявили вредоносный deb-пакет с менеджером загрузок Free Download Manager (FDM), распространяемый через репозиторий deb.fdmpkg.org, на который после взлома ссылался официальный сайт проекта. Вредоносный код, осуществлявший отправку конфиденциальной информации и учётных данных, вызывался через обработчик, запускаемый пакетным менеджером на стадии завершения установки пакета (postinst). Версия FDM с вредоносной вставкой была опубликована в январе 2020 года и распространялась через официальный сайт проекта (freedownloadmanager.org) как минимум до обновления сайта в 2022 году.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat упразднил должность Fedora Program Manager</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-uprazdnil-dolzhnost-fedora-program-manager-20230515-013506/</link>
+      <pubDate>Mon, 15 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-uprazdnil-dolzhnost-fedora-program-manager-20230515-013506/</guid>
+      <description>В рамках ранее объявленного сокращения 4% персонала, компания Red Hat упразднила должность Fedora Program Manager (исполнительный директор проекта Fedora) и уволила Бена Коттона (Ben Cotton), ранее занимавшего данный пост. Мотивы сокращения должности не сообщаются.
+https://www.opennet.ru/opennews/art.shtml?num=59133</description>
+    </item>
+    
+  </channel>
+</rss>

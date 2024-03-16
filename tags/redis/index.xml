@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redis/</link>
+    <description>Recent content in Redis on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 19:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление СУБД Redis 7.0.15 и 7.2.4 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-subd-redis-7-0-15-i-7-2-4-s-ustraneniem-uyazvimosti-20240110-193537/</link>
+      <pubDate>Wed, 10 Jan 2024 19:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-subd-redis-7-0-15-i-7-2-4-s-ustraneniem-uyazvimosti-20240110-193537/</guid>
+      <description>В корректирующих выпусках СУБД Redis 7.0.15 и 7.2.4 устранена опасная уязвимость (CVE-2023-41056), которая потенциально может привести к удалённому выполнению кода из-за записи данных в область за пределами выделенного буфера. Проблема проявляется начиная с выпуска Redis 7.0.9 и вызвана некорректным вычислением параметров буфера в функции sdsResize при выполнении запроса изменения размера.
+https://www.opennet.ru/opennews/art.shtml?num=60415</description>
+    </item>
+    
+    <item>
+      <title>Червь P2PInfect, атакующий серверы Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</link>
+      <pubDate>Fri, 21 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</guid>
+      <description>Исследователи из группы Unit 42 обнаружили новый червь P2PInfect, создающий свою P2P-сеть для распространения вредоносного ПО без применения централизованных управляющих серверов. После компрометации хост подключается к созданной P2P-сети, загружает образ с реализацией P2PInfect для необходимой операционной системы (поддерживается Linux и Windows) и переходит в режим сканирования других уязвимых хостов для совершения на них атаки и включения их в цепочку распространения червя. При сканировании выявляются уязвимые серверы Redis и проверяется наличие доступа по SSH.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Redis, Ghostscript, Asterisk и Parse Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</link>
+      <pubDate>Wed, 12 Jul 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</guid>
+      <description>Несколько недавно выявленных опасных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59430</description>
+    </item>
+    
+  </channel>
+</rss>

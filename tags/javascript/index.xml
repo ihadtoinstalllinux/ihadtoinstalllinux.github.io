@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 17:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 21.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</link>
+      <pubDate>Sat, 21 Oct 2023 17:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</guid>
+      <description>Состоялся релиз Node.js 21.0, платформы для выполнения сетевых приложений на языке JavaScript. Поддержка ветки Node.js 21.0 будет осуществляться в течение 6 месяцев. В ближайшие дни будет завершена стабилизация ветки Node.js 20, которая получит статус LTS и будет поддерживаться до апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.0 продлится до сентября 2025 года, а позапрошлой LTS-ветки 16.0 до апреля 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=59969</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Bun 1.0, более быстрая, чем Deno и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</link>
+      <pubDate>Mon, 11 Sep 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</guid>
+      <description>Представлен первый значительный выпуск платформы Bun, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript. Проект нацелен на использование в качестве прозрачной замены платформы Node.js, поддерживает используемые в Node.js механизмы работы с модулями и обработки зависимостей. Код проекта написан на языках Zig и С++, и распространяется под лицензией MIT. Для выполнения JavaScript задействован JavaScript-движок JavaScriptCore и компоненты проекта WebKit с дополнительными патчами.
+https://www.opennet.ru/opennews/art.shtml?num=59738</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 20.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</link>
+      <pubDate>Wed, 19 Apr 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</guid>
+      <description>Состоялся релиз Node.js 20.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 20.0 отнесён к веткам с длительным сроком поддержки, но данный статус будет присвоен только в октябре, после проведения стабилизации. Поддержка Node.js 20.x будет осуществляться до 30 апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.x продлится до апреля 2025 года, а позапрошлой LTS-ветки 16.x до сентября 2023 года. Сопровождение LTS-ветки 14.x будет прекращено 30 апреля, а промежуточной ветки Node.</description>
+    </item>
+    
+    <item>
+      <title>Cheerp 3.0, компилятор C/C&#43;&#43; в JavaScript, переведён на лицензии Apache 2.0 и LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</link>
+      <pubDate>Fri, 17 Mar 2023 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</guid>
+      <description>Представлен компилятор Cheerp 3.0, позволяющий скомпилировать любой код C/C++ в WebAssembly или JavaScript. Новая ветка примечательна переводом компилятора и сопутствующих библиотек на использование пермиссивных лицензий Apache 2.0 и LLVM, вместо ранее применяемой ограниченной лицензионной политики, предлагающей вариант с лицензией GPLv2 для некоммерческих проектов и проприетарную лицензию для коммерческих. Код компилятора основан на наработках LLVM и Clang, и включает дополнительные оптимизации для повышения производительности и уменьшения размера скомпилированного результата.
+https://www.opennet.ru/opennews/art.shtml?num=58807</description>
+    </item>
+    
+  </channel>
+</rss>

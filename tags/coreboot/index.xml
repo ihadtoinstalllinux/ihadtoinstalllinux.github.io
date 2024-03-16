@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coreboot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/coreboot/</link>
+    <description>Recent content in Coreboot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2024 12:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны загрузочные прошивки Coreboot 24.02 и Libreboot 20240225</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-zagruzochnye-proshivki-coreboot-24-02-i-libreboot-20240225-20240226-123509/</link>
+      <pubDate>Mon, 26 Feb 2024 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-zagruzochnye-proshivki-coreboot-24-02-i-libreboot-20240225-20240226-123509/</guid>
+      <description>Опубликован выпуск проекта CoreBoot 24.02, разрабатывающего свободную альтернативу проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В создании новой версии приняло участие 111 разработчиков, которые подготовили 814 изменений. Начиная с этого выпуска проект перешёл на новую схему наименования версий, использующую привязку к дате (год.месяц.обновление), так в феврале 2024 года вместо версии 4.23 сформирован выпуск 24.02, а на май намечен выпуск 24.05.
+https://www.opennet.ru/opennews/art.shtml?num=60666</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Coreboot 4.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-22-20231203-133511/</link>
+      <pubDate>Sun, 03 Dec 2023 13:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-22-20231203-133511/</guid>
+      <description>Доступен релиз проекта CoreBoot 4.22, в рамках которого разрабатывается свободная альтернатива проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В создании новой версии приняло участие 135 разработчиков, которые подготовили 977 изменений. Отмечается, что начиная со следующего выпуска проект перейдёт на новую схему наименования версий, использующую привязку к дате (год.месяц.обновление), например, в феврале 2024 года вместо версии 4.23 будет сформирован выпуск 24.02.00.
+https://www.opennet.ru/opennews/art.shtml?num=60224</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Coreboot 4.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-21-20230829-003505/</link>
+      <pubDate>Tue, 29 Aug 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-21-20230829-003505/</guid>
+      <description>Доступен релиз проекта CoreBoot 4.21, в рамках которого разрабатывается свободная альтернатива проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В создании новой версии приняло участие более 140 разработчиков, которые подготовили 1200 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59674</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Coreboot 4.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-20-20230520-003505/</link>
+      <pubDate>Sat, 20 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-4-20-20230520-003505/</guid>
+      <description>Доступен релиз проекта CoreBoot 4.20, в рамках которого разрабатывается свободная альтернатива проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В создании новой версии приняло участие более 170 разработчиков, которые подготовили 1625 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59159</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Libreboot 20230413, полностью свободного дистрибутива Coreboot </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230413-polnostyu-svobodnogo-distributiva-coreboot-20230414-123505/</link>
+      <pubDate>Fri, 14 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230413-polnostyu-svobodnogo-distributiva-coreboot-20230414-123505/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20230413. Следующему обновлению планируют присвоить статус официального стабильного релиза Libreboot. Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=58974</description>
+    </item>
+    
+  </channel>
+</rss>

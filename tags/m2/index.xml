@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>M2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/m2/</link>
+    <description>Recent content in M2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2024 19:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/m2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В открытом драйвере Asahi сертифицирвоана поддержка OpenGL 4.6 для чипов Apple M1 и M2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</link>
+      <pubDate>Thu, 15 Feb 2024 19:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</guid>
+      <description>В Asahi, открытом драйвере для GPU Apple AGX, обеспечена поддержка OpenGL 4.6 и OpenGL ES 3.2 для чипов Apple M1 и M2. Примечательно, что в родных графических драйверах для чипов M1 от Apple реализована только спецификация OpenGL 4.1, а поддержка OpenGL 4.6 первой появилась в открытом драйвере. Готовые пакеты с драйверами уже включены в состав репозиториев Fedora и доступны для использования в специализированной сборке Fedora Asahi Remix 39, предназначенной для установки на системы с ARM-чипами Apple.</description>
+    </item>
+    
+    <item>
+      <title>Открытый драйвер Asahi для чипов Apple M1 и M2 сертифицирован на совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</link>
+      <pubDate>Wed, 23 Aug 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Asahi для GPU AGX, поставляемого в чипах Apple M1 и M2, со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Kronos Conformance Test Suite) и включён в список сертифицированных драйверов.
+https://www.opennet.ru/opennews/art.shtml?num=59648</description>
+    </item>
+    
+  </channel>
+</rss>

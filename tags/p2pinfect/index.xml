@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P2PInfect on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/p2pinfect/</link>
+    <description>Recent content in P2PInfect on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/p2pinfect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Червь P2PInfect, атакующий серверы Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</link>
+      <pubDate>Fri, 21 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</guid>
+      <description>Исследователи из группы Unit 42 обнаружили новый червь P2PInfect, создающий свою P2P-сеть для распространения вредоносного ПО без применения централизованных управляющих серверов. После компрометации хост подключается к созданной P2P-сети, загружает образ с реализацией P2PInfect для необходимой операционной системы (поддерживается Linux и Windows) и переходит в режим сканирования других уязвимых хостов для совершения на них атаки и включения их в цепочку распространения червя. При сканировании выявляются уязвимые серверы Redis и проверяется наличие доступа по SSH.</description>
+    </item>
+    
+  </channel>
+</rss>

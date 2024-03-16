@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Face on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/face/</link>
+    <description>Recent content in Face on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 13:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/face/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В репозитории Hugging Face выявлены вредоносные AI-модели, выполняющие код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-hugging-face-vyyavleny-vredonosnye-ai-modeli-vypolnyayuschie-kod-20240229-133554/</link>
+      <pubDate>Thu, 29 Feb 2024 13:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-hugging-face-vyyavleny-vredonosnye-ai-modeli-vypolnyayuschie-kod-20240229-133554/</guid>
+      <description>Исследователи из компании JFrog выявили в репозитории Hugging Face вредоносные модели машинного обучения, установка которых может привести к выполнению кода атакующего для получения контроля за системой пользователя. Проблема вызвана тем, что некоторые форматы распространения моделей допускают встраивание исполняемого кода, например, модели, использующие формат &amp;ldquo;pickle&amp;rdquo;, могут включать сериализированные объекты на языке Python, а также код, выполняемый при загрузке файла, а модели Tensorflow Keras могут исполнять код через Lambda Layer.
+https://www.opennet.ru/opennews/art.shtml?num=60691</description>
+    </item>
+    
+  </channel>
+</rss>

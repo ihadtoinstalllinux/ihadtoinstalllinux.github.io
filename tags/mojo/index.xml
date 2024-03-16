@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mojo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mojo/</link>
+    <description>Recent content in Mojo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2024 21:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление инструментария для языка программирования Mojo </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-instrumentariya-dlya-yazyka-programmirovaniya-mojo-20240127-213558/</link>
+      <pubDate>Sat, 27 Jan 2024 21:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-instrumentariya-dlya-yazyka-programmirovaniya-mojo-20240127-213558/</guid>
+      <description>Разработчики языка программирования Mojo опубликовали выпуск инструментария Mojo SDK 0.7, позволяющего компилировать проекты на локальной системе. В состав Mojo SDK включены компоненты, необходимые для разработки приложений на языке Mojo, включая компилятор, runtime, интерактивную REPL-оболочку для сборки и запуска программ, отладчик, дополнение к редактору кода Visual Studio Code (VS Code) с поддержкой автодополнения ввода, форматирования кода и подсветки синтаксиса, модуль для интеграции с Jupyter для сборки и запуска Mojo notebook.
+https://www.opennet.ru/opennews/art.shtml?num=60509</description>
+    </item>
+    
+    <item>
+      <title>Доступен для тестирования инструментарий для языка программирования Mojo </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-instrumentariy-dlya-yazyka-programmirovaniya-mojo-20230912-013506/</link>
+      <pubDate>Tue, 12 Sep 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-instrumentariy-dlya-yazyka-programmirovaniya-mojo-20230912-013506/</guid>
+      <description>Разработчики языка программирования Mojo, открыли доступ к инструментарию Mojo SDK, позволяющему компилировать проекты на локальной системе (ранее для тестирования был предложен только online-интерфейс). Для загрузки подготовлена сборка Mojo SDK для платформы Linux (загрузка возможна только после регистрации на сайте проекта). Исходные компилятора и других наработок проекта планируют открыть после завершения проектирования внутренней архитектуры.
+https://www.opennet.ru/opennews/art.shtml?num=59739</description>
+    </item>
+    
+    <item>
+      <title>Создатель LLVM развивает новый язык программирования Mojo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdatel-llvm-razvivaet-novyy-yazyk-programmirovaniya-mojo-20230508-143504/</link>
+      <pubDate>Mon, 08 May 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdatel-llvm-razvivaet-novyy-yazyk-programmirovaniya-mojo-20230508-143504/</guid>
+      <description>Крис Латнер (Chris Lattner), основатель и главный архитектор LLVM, а также создатель языка программирования Swift, и Тим Дэвис (Tim Davis), бывший руководитель AI-проектов Google, таких как Tensorflow и JAX, представили новый язык программирования Mojo, сочетающий простоту применения для исследовательских разработок и быстрого создания прототипов с пригодностью для формирования высокопроизводительных конечных продуктов. Первое достигается благодаря использованию привычного синтаксиса языка Python, а второе за счёт возможности компиляции в машинный код, механизмов безопасной работы с памятью и задействованию средств для аппаратного ускорения вычислений.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenBGPD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openbgpd/</link>
+    <description>Recent content in OpenBGPD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbgpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск переносимой версии OpenBGPD 8.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-perenosimoy-versii-openbgpd-8-2-20231003-123506/</link>
+      <pubDate>Tue, 03 Oct 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-perenosimoy-versii-openbgpd-8-2-20231003-123506/</guid>
+      <description>Представлен выпуск переносимой редакции пакета маршрутизации OpenBGPD 8.2, развиваемого разработчиками проекта OpenBSD и адаптированного для использования во FreeBSD и Linux (заявлена поддержка Alpine, Debian, Fedora, RHEL/CentOS, Ubuntu). Для обеспечения переносимости использованы части кода из проектов OpenNTPD, OpenSSH и LibreSSL. Проект поддерживает большую часть спецификаций BGP 4 и соответствует требованиям RFC8212, но не пытается объять необъятное и обеспечивает главным образом поддержку наиболее востребованных и распространённых функций.
+https://www.opennet.ru/opennews/art.shtml?num=59862</description>
+    </item>
+    
+    <item>
+      <title>Выпуск переносимой версии OpenBGPD 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-perenosimoy-versii-openbgpd-8-0-20230506-143504/</link>
+      <pubDate>Sat, 06 May 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-perenosimoy-versii-openbgpd-8-0-20230506-143504/</guid>
+      <description>Представлен выпуск переносимой редакции пакета маршрутизации OpenBGPD 8.0, развиваемого разработчиками проекта OpenBSD и адаптированного для использования во FreeBSD и Linux (заявлена поддержка Alpine, Debian, Fedora, RHEL/CentOS, Ubuntu). Для обеспечения переносимости использованы части кода из проектов OpenNTPD, OpenSSH и LibreSSL. Проект поддерживает большую часть спецификаций BGP 4 и соответствует требованиям RFC8212, но не пытается объять необъятное и обеспечивает главным образом поддержку наиболее востребованных и распространённых функций.
+https://www.opennet.ru/opennews/art.shtml?num=59089</description>
+    </item>
+    
+  </channel>
+</rss>

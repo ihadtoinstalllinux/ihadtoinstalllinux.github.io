@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Solaris on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/solaris/</link>
+    <description>Recent content in Solaris on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2024 12:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/solaris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован дистрибутив Helios на базе Illumos. Поддержка Solaris 11.4 продлена до 2037 года</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-helios-na-baze-illumos-podderzhka-solaris-11-4-prodlena-do-2037-go-20240130-123525/</link>
+      <pubDate>Tue, 30 Jan 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-helios-na-baze-illumos-podderzhka-solaris-11-4-prodlena-do-2037-go-20240130-123525/</guid>
+      <description>В рамках подготовки к первому публичному выпуску под свободной лицензией MPL-2.0 открыты исходные тексты сборочного инструментария и специфичных компонентов дистрибутива Helios, развиваемого компанией Oxide Computer и применяемого для обеспечения работы программно управляемых облачных серверных стоек Oxide Rack. Весь программный стек платформы Oxide является открытым. Дистрибутив Helios построен на основе наработок проекта Illumos, продолжающего развитие ядра, сетевого стека, файловых систем, драйверов, библиотек и базового набора системных утилит OpenSolaris.
+https://www.opennet.ru/opennews/art.shtml?num=60519</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</link>
+      <pubDate>Thu, 19 Oct 2023 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В октябрьском обновлении в сумме устранено 387 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59954</description>
+    </item>
+    
+  </channel>
+</rss>

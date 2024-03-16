@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>day on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/day/</link>
+    <description>Recent content in day on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0-day уязвимость в Chrome и libvpx, затрагивающая кодировщик видео VP8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-chrome-i-libvpx-zatragivayuschaya-kodirovschik-video-vp8-20230928-133506/</link>
+      <pubDate>Thu, 28 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-chrome-i-libvpx-zatragivayuschaya-kodirovschik-video-vp8-20230928-133506/</guid>
+      <description>Компания Google опубликовала обновление браузера Chrome 117.0.5938.132, в котором устранена уязвимость (CVE-2023-5217) в библиотеке libvpx, приводящая к переполнению буфера при использовании функций кодирования в формате VP8. В отличие от недавно выявленной уязвимости в декодировщике изображений в формате WebP проблеме в кодировщике VP8 присвоен высокий, но не критический уровень опасности, т.е. проблема не позволяет обойти все уровни защиты браузера и для выполнения кода в системе за пределами sandbox-окружения требуется задействование ещё каких-то уязвимостей.</description>
+    </item>
+    
+    <item>
+      <title>Критическая 0-day уязвимость в Chrome и libwebp, эксплуатируемая через изображения WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</link>
+      <pubDate>Wed, 13 Sep 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</guid>
+      <description>Компания Google опубликовала обновление браузера Chrome 116.0.5845.187, в котором устранена критическая уязвимость (CVE-2023-4863), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость вызвана переполнением буфера в обработчике формата изображений WebP. Уязвимость позволяет выполнить свой код при обработке специально оформленных WebP-изображений. Опасность уязвимости усугубляет то, что в сети выявлен рабочий эксплоит, который уже применяется злоумышленниками для совершения атак (0-day).</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал отчёт о 0-day уязвимостях, выявленных в 2022 году  </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otchet-o-0-day-uyazvimostyah-vyyavlennyh-v-2022-godu-20230731-173508/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otchet-o-0-day-uyazvimostyah-vyyavlennyh-v-2022-godu-20230731-173508/</guid>
+      <description>Компания Google опубликовала отчёт о 0-day уязвимостях, эксплоиты для которых появились раньше, чем были разработаны исправления для связанного с ними уязвимого ПО. За 2022 год командой Project Zero была выявлена 41 подобная уязвимость, что на 40% меньше, чем было найдено в 2021 году (69 0-day уязвимостей). Несмотря на заметное снижение числа 0-day уязвимостей по сравнению с 2021 годом, их число продолжает превышать средние показатели предыдущих 6 лет.
+https://www.opennet.ru/opennews/art.shtml?num=59524</description>
+    </item>
+    
+    <item>
+      <title>На конференции OS DAY 2023 «Базальт СПО» представила централизованную службу сборки дистрибутивных решений — новые возможности для технологических партнеров и Alt Linux Team</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuyu-sluzhbu-sborki-distrib-20230629-213621/</link>
+      <pubDate>Thu, 29 Jun 2023 21:36:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuyu-sluzhbu-sborki-distrib-20230629-213621/</guid>
+      <description>«Базальт СПО» в восьмой раз стала соорганизатором научно-практической конференции OS DAY.
+https://www.basealt.ru/about/news/archive/view/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuju-sluzhbu-sborki-distributivnykh-reshenii-novye-vozmozhnosti-dlja-tekhnologicheskikh-partnerov-i-alt-linux-team</description>
+    </item>
+    
+    <item>
+      <title>НТЦ ИТ РОСА принял участие в конференции «OS DAY 2023. Экосистема Российских ОС»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-prinyal-uchastie-v-konferencii-os-day-2023-ekosistema-rossiyskih-os-20230628-213525/</link>
+      <pubDate>Wed, 28 Jun 2023 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-prinyal-uchastie-v-konferencii-os-day-2023-ekosistema-rossiyskih-os-20230628-213525/</guid>
+      <description>Эксперты компании рассмотрели актуальные для разработчиков ПО особенности методологии разработки, сопровождения и жизненного цикла дистрибутива РОСА. 22-23 июня в Москве прошла Х юбилейная научно-практическая конференция «OS DAY 2023. Экосистема Российских ОС». Участники мероприятия обсуждали актуальность создания единой среды разработки прикладного программного обеспечения, совместимого с российскими ОС, а также построение цифровой платформы на основе отечественных операционных […]
+https://www.rosalinux.ru/ntcz-it-rosa-prinyal-uchastie-v-konferenczii-os-day-2023-ekosistema-rossijskih-os/</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Cообщества ALT Linux Team представили инициативный проект мобильной операционной системы на Х научно-практической конференции OS DAY 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</link>
+      <pubDate>Thu, 22 Jun 2023 21:36:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</guid>
+      <description>Разработка новой мобильной операционной системы нацелена на создание современной, удобной, санкционно независимой мобильной ОС. Проект полностью открыт, исходные коды публикуются в процессе разработки.
+https://www.basealt.ru/about/news/archive/view/razrabotchiki-coobshchestva-alt-linux-team-predstavili-iniciativnyi-proekt-mobilnoi-operacionnoi-sistemy-na-kh-nauchno-prakticheskoi-konferencii-os-day-2023</description>
+    </item>
+    
+    <item>
+      <title>0-day уязвимость IPv6-стеке Linux, позволяющая удалённо вызвать крах ядра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-ipv6-steke-linux-pozvolyayuschaya-udalenno-vyzvat-krah-yadra-20230517-123504/</link>
+      <pubDate>Wed, 17 May 2023 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-ipv6-steke-linux-pozvolyayuschaya-udalenno-vyzvat-krah-yadra-20230517-123504/</guid>
+      <description>Раскрыты сведения о неисправленной (0-day) уязвимости (CVE-2023-2156) в ядре Linux, позволяющей остановить работу системы через отправку специально оформленных пакетов IPv6 (packet-of-death). Проблема проявляется только при включении поддержки протокола RPL (Routing Protocol for Low-Power and Lossy Networks), который в дистрибутивах по умолчанию отключён и применяется, главным образом, на встраиваемых устройствах, работающих в беспроводных сетях с большой потерей пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59146</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» — в оргкомитете Х юбилейной конференции «OS DAY. Экосистема российских ОС»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-v-orgkomitete-h-yubileynoy-konferencii-os-day-ekosistema-rossiyskih-os-20230428-213607/</link>
+      <pubDate>Fri, 28 Apr 2023 21:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-v-orgkomitete-h-yubileynoy-konferencii-os-day-ekosistema-rossiyskih-os-20230428-213607/</guid>
+      <description>«Базальт СПО» выступит соорганизатором юбилейной Х научно-практической конференции OS DAY 2023, которая состоится 22‑23 июня в Математическом институте им. В.А. Стеклова Российской академии наук в Москве.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-v-orgkomitete-kh-jubileinoi-konferencii-os-day-ehkosistema-rossiiskikh-os</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPsec on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipsec/</link>
+    <description>Recent content in IPsec on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Nov 2023 15:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipsec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в strongSwan IPsec, приводящая к удалённому выполнению кода </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-strongswan-ipsec-privodyaschaya-k-udalennomu-vypolneniyu-koda-20231123-153545/</link>
+      <pubDate>Thu, 23 Nov 2023 15:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-strongswan-ipsec-privodyaschaya-k-udalennomu-vypolneniyu-koda-20231123-153545/</guid>
+      <description>В strongSwan, VPN-пакете на базе протокола IPSec, применяемом в Linux, Android, FreeBSD и macOS, выявлена уязвимость (CVE-2023-41913), которую можно использовать для удалённого выполнения кода злоумышленника. Уязвимость вызвана ошибкой в процессе charon-tkm с реализацией протокола обмена ключами (IKE) на базе TKMv2 (Trusted Key Manager), приводящей к переполнению буфера при обработке специально оформленных значений схемы DH (Diffie–Hellman). Уязвимость проявляется только в системах, использующих charon-tkm и в выпусках strongSwan, начиная с 5.3.0. Проблема устранена в обновлении strongSwan 5.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenIKED 7.3, переносимой реализации протокола IKEv2 для IPsec</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openiked-7-3-perenosimoy-realizacii-protokola-ikev2-dlya-ipsec-20231120-103535/</link>
+      <pubDate>Mon, 20 Nov 2023 10:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openiked-7-3-perenosimoy-realizacii-protokola-ikev2-dlya-ipsec-20231120-103535/</guid>
+      <description>Проект OpenBSD опубликовал выпуск проекта OpenIKED 7.3, развивающего реализацию протокола IKEv2. Изначально, компоненты IKEv2 представляли собой неделимую часть IPsec-стека OpenBSD, но затем были выделены в отдельный переносимый пакет и теперь могут использоваться в других операционных системах. Работа OpenIKED проверена во FreeBSD, NetBSD, macOS и различных дистрибутивах Linux, включая Arch, Debian, Fedora и Ubuntu. Код написан на языке Си и распространяется под лицензией ISC.
+https://www.opennet.ru/opennews/art.shtml?num=60146</description>
+    </item>
+    
+  </channel>
+</rss>

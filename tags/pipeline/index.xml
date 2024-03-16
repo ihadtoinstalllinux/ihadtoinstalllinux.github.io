@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pipeline on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pipeline/</link>
+    <description>Recent content in pipeline on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 01:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Критическая уязвимость в GitLab, позволяющая запустить pipeline-работы под другим пользователем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-pol-20230920-013507/</link>
+      <pubDate>Wed, 20 Sep 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-pol-20230920-013507/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 16.3.4 и 16.2.7 (Community Edition и Enterprise Edition), в которых устранена критическая уязвимость (CVE-2023-4998), позволяющая запустить работы в конвейере непрерывной интеграции (pipeline jobs) под произвольным пользователем через применение плановых политик сканирования безопасности. Выполнение своей работы в контексте другого пользователя позволяет атакующему получить доступ к внутренним репозиториям и закрытым проектам этого пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59782</description>
+    </item>
+    
+  </channel>
+</rss>

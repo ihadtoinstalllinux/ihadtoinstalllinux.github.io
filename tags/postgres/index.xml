@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postgres on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/postgres/</link>
+    <description>Recent content in Postgres on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 18:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>СУБД Postgres Pro Enterprise 15 получила сертификат соответствия ФСТЭК РФ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-postgres-pro-enterprise-15-poluchila-sertifikat-sootvetstviya-fstek-rf-20230522-183506/</link>
+      <pubDate>Mon, 22 May 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-postgres-pro-enterprise-15-poluchila-sertifikat-sootvetstviya-fstek-rf-20230522-183506/</guid>
+      <description>Компания Postgres Professional выпустила первое обновление 15-й версии проприетарной СУБД Postgres Pro Certified для редакции Enterprise, основанной на кодовой базе PostgreSQL и включающей дополнительные возможности, такие как мультимастер репликацию, сжатие данных на уровне блоков, инкрементальное резервное копирование, встроенный пулер соединений, оптимизированное секционирование таблиц, улучшенный полнотекстовый поиск, автоматическую компиляцию и планирование запросов. Обновлённый выпуск сертифицированной версии поддерживает четыре версии ядра СУБД: 11.19.1, 13.10.2, 14.7.1 и 15.2.1. Сертификат соответствия ФСТЭК РФ №4063 переоформлен 4 мая 2023 года.</description>
+    </item>
+    
+  </channel>
+</rss>

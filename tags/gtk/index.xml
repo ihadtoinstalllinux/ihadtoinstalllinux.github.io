@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gtk/</link>
+    <description>Recent content in GTK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 02:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен графический тулкит GTK 4.14 с новыми движками для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</link>
+      <pubDate>Wed, 13 Mar 2024 02:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</guid>
+      <description>После семи месяцев разработки опубликован релиз многоплатформенного тулкита для создания графического интерфейса пользователя - GTK 4.14.0. GTK 4 развивается в рамках нового процесса разработки, который пытается предоставить разработчикам приложений стабильный и поддерживаемый в течение нескольких лет API, который можно использовать не опасаясь, что каждые полгода придётся переделывать приложения из-за изменения API в очередной ветке GTK.
+https://www.opennet.ru/opennews/art.shtml?num=60778</description>
+    </item>
+    
+    <item>
+      <title>Для GTK подготовлены новые движки отрисовки для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</link>
+      <pubDate>Mon, 29 Jan 2024 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</guid>
+      <description>Разработчики библиотеки GTK объявили о готовности двух новых движков отрисовки - &amp;ldquo;ngl&amp;rdquo; и &amp;ldquo;vulkan&amp;rdquo;, использующих графические API OpenGL (GL 3.3+ и GLES 3.0+) и Vulkan. Новые движки включены в состав экспериментального выпуска GTK 4.13.6. В экспериментальной ветки GTK движок ngl теперь используется по умолчанию, но в случае выявления значительных проблем в следующей стабильной ветке 4.14 будет возвращён старый движок отрисовки &amp;ldquo;gl&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60515</description>
+    </item>
+    
+    <item>
+      <title>Доступен графический тулкит GTK 4.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-12-20230807-143504/</link>
+      <pubDate>Mon, 07 Aug 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-12-20230807-143504/</guid>
+      <description>После пяти месяцев разработки опубликован релиз многоплатформенного тулкита для создания графического интерфейса пользователя - GTK 4.12.0. GTK 4 развивается в рамках нового процесса разработки, который пытается предоставить разработчикам приложений стабильный и поддерживаемый в течение нескольких лет API, который можно использовать не опасаясь, что каждые полгода придётся переделывать приложения из-за изменения API в очередной ветке GTK.
+https://www.opennet.ru/opennews/art.shtml?num=59561</description>
+    </item>
+    
+  </channel>
+</rss>

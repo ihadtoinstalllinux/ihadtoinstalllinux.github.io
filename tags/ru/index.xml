@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ru/</link>
+    <description>Recent content in RU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2024 13:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сбой в доменной зоне RU из-за ошибки при замене ключей DNSSEC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sboy-v-domennoy-zone-ru-iz-za-oshibki-pri-zamene-klyuchey-dnssec-20240131-133548/</link>
+      <pubDate>Wed, 31 Jan 2024 13:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sboy-v-domennoy-zone-ru-iz-za-oshibki-pri-zamene-klyuchey-dnssec-20240131-133548/</guid>
+      <description>30 января в 18:20 (MSK) пользователи столкнулись с массовым сбоем определения хостов в доменной зоне RU, вызванный ошибкой при смене ключей, используемых для заверения достоверности зоны RU через DNSSEC. В результате инцидента на DNS-серверах, применяющих DNSSEC для проверки достоверности данных, перестали определяться все домены в зоне &amp;ldquo;.ru&amp;rdquo;. Проблема затронула только пользователей, использующих DNS-резолверы провайдеров или публичные DNS-сервисы, такие как 8.8.8.8, верифицирующие достоверность запросов при помощи DNSSEC. Пользователей DNS-резолверов, на которых DNSSEC отключён, не пострадали.</description>
+    </item>
+    
+    <item>
+      <title>Зафиксирован перехват шифрованного трафика jabber.ru и xmpp.ru</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zafiksirovan-perehvat-shifrovannogo-trafika-jabber-ru-i-xmpp-ru-20231020-193515/</link>
+      <pubDate>Fri, 20 Oct 2023 19:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zafiksirovan-perehvat-shifrovannogo-trafika-jabber-ru-i-xmpp-ru-20231020-193515/</guid>
+      <description>Администратор Jabber-сервера jabber.ru (xmpp.ru) выявил атаку по расшифровке трафика пользователей (MITM), проводимую на протяжении от 90 дней до 6 месяцев в сетях немецких хостинг-провайдеров Hetzner и Linode, в которых размещён сервер проекта и вспомогательные VPS-окружения. Атака организована через перенаправление трафика на транзитный узел, подменяющий TLS-сертификат для XMPP-соединений, шифруемых с использование расширения STARTTLS.
+https://www.opennet.ru/opennews/art.shtml?num=59965</description>
+    </item>
+    
+  </channel>
+</rss>

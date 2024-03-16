@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>staging on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/staging/</link>
+    <description>Recent content in staging on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/staging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликованы Wine 9.4, Wine staging 9.4 и GE-Proton9-1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-9-4-wine-staging-9-4-i-ge-proton9-1-20240309-123516/</link>
+      <pubDate>Sat, 09 Mar 2024 12:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-9-4-wine-staging-9-4-i-ge-proton9-1-20240309-123516/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации Win32 API - Wine 9.4. С момента выпуска 9.3 было закрыто 25 отчётов об ошибках и внесено 321 изменение.
+https://www.opennet.ru/opennews/art.shtml?num=60758</description>
+    </item>
+    
+    <item>
+      <title>Релиз эмулятора DOSBox Staging 0.81</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-emulyatora-dosbox-staging-0-81-20240215-143510/</link>
+      <pubDate>Thu, 15 Feb 2024 14:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-emulyatora-dosbox-staging-0-81-20240215-143510/</guid>
+      <description>После двух лет разработки опубликован релиз проекта DOSBox Staging 0.81, развивающего мультиплатформенный эмулятор среды MS-DOS, написанный с использованием библиотеки SDL и ориентированный для запуска старых DOS-игр в Linux, Windows и macOS. DOSBox Staging развивается отдельной командой и не связан с оригинальным DOSBox, в котором последние годы отмечаются только незначительные изменения. Код написан на язык С++ и распространяется под лицензией GPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=60607</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы Wine 8.21, Wine staging 8.21 и VKD3D-Proton 2.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-8-21-wine-staging-8-21-i-vkd3d-proton-2-11-20231125-143621/</link>
+      <pubDate>Sat, 25 Nov 2023 14:36:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-8-21-wine-staging-8-21-i-vkd3d-proton-2-11-20231125-143621/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.21. С момента выпуска версии 8.20 было закрыто 29 отчётов об ошибках и внесено 321 изменение.
+https://www.opennet.ru/opennews/art.shtml?num=60177</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.17 и Wine staging 8.17</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-17-i-wine-staging-8-17-20230930-103505/</link>
+      <pubDate>Sat, 30 Sep 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-17-i-wine-staging-8-17-20230930-103505/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.17. С момента выпуска версии 8.16 было закрыто 19 отчётов об ошибках и внесено 287 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59847</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.15 и Wine staging 8.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-15-i-wine-staging-8-15-20230902-103504/</link>
+      <pubDate>Sat, 02 Sep 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-15-i-wine-staging-8-15-20230902-103504/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.15. С момента выпуска версии 8.14 было закрыто 19 отчётов об ошибках и внесено 229 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59701</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.5 и Wine staging 8.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-5-i-wine-staging-8-5-20230401-103506/</link>
+      <pubDate>Sat, 01 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-5-i-wine-staging-8-5-20230401-103506/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.5. С момента выпуска версии 8.4 было закрыт 21 отчёт об ошибках и внесено 361 изменение.
+https://www.opennet.ru/opennews/art.shtml?num=58905</description>
+    </item>
+    
+  </channel>
+</rss>

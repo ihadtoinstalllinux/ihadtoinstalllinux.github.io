@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nuitka on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nuitka/</link>
+    <description>Recent content in Nuitka on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2024 14:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nuitka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Nuitka 2.0, компилятора для языка Python </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-0-kompilyatora-dlya-yazyka-python-20240206-143535/</link>
+      <pubDate>Tue, 06 Feb 2024 14:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-0-kompilyatora-dlya-yazyka-python-20240206-143535/</guid>
+      <description>Доступен выпуск проекта Nuitka 2.0, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.11. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cython 3.0 и Nuitka 1.7, компиляторов для языка Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cython-3-0-i-nuitka-1-7-kompilyatorov-dlya-yazyka-python-20230720-103509/</link>
+      <pubDate>Thu, 20 Jul 2023 10:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cython-3-0-i-nuitka-1-7-kompilyatorov-dlya-yazyka-python-20230720-103509/</guid>
+      <description>После пяти лет разработки опубликован релиз проекта Cython 3.0, развивающего компилятор для языков Python и Cython. Компилятор транслирует Python-код в представление на языках C/C++ и предоставляет дополнительные возможности для взаимодействия кода на языках Python и Си. Cython наиболее востребован для создания Python-обвязок вокруг библиотек на языке Си и для создания модулей на Си, ускоряющих выполнение кода на языке Python. Код компилятора написан на языке Python и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Nuitka 1.6, компилятора для языка Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-6-kompilyatora-dlya-yazyka-python-20230612-143506/</link>
+      <pubDate>Mon, 12 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-6-kompilyatora-dlya-yazyka-python-20230612-143506/</guid>
+      <description>Доступен выпуск проекта Nuitka 1.6, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.11. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PXE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pxe/</link>
+    <description>Recent content in PXE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 00:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pxe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PixieFAIL - уязвимости в сетевом стеке прошивок UEFI, применяемом для PXE-загрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pixiefail-uyazvimosti-v-setevom-steke-proshivok-uefi-primenyaemom-dlya-pxe-zagruzki-20240118-003536/</link>
+      <pubDate>Thu, 18 Jan 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pixiefail-uyazvimosti-v-setevom-steke-proshivok-uefi-primenyaemom-dlya-pxe-zagruzki-20240118-003536/</guid>
+      <description>В UEFI-прошивках на основе открытой платформы TianoCore EDK2, обычно используемых на серверных системах, выявлено 9 уязвимостей, получивших собирательное кодовое имя PixieFAIL. Уязвимости присутствуют в сетевом стеке прошивок, применяемом для организации сетевой загрузки (PXE). Наиболее опасные уязвимости позволяют неаутентифицированному атакующему организовать удалённое выполнение своего кода на уровне прошивки в системах, допускающих PXE-загрузку с использованием сети IPv6.
+https://www.opennet.ru/opennews/art.shtml?num=60449</description>
+    </item>
+    
+  </channel>
+</rss>

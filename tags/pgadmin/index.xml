@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pgAdmin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pgadmin/</link>
+    <description>Recent content in pgAdmin on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pgadmin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз pgAdmin 4 7.0, интерфейса для управления СУБД PostgreSQL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pgadmin-4-7-0-interfeysa-dlya-upravleniya-subd-postgresql-20230415-133549/</link>
+      <pubDate>Sat, 15 Apr 2023 13:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pgadmin-4-7-0-interfeysa-dlya-upravleniya-subd-postgresql-20230415-133549/</guid>
+      <description>Опубликован релиз графического интерфейса для управления СУБД PostgreSQL - pgAdmin 4 7.0. В своё время четвёртая серия pgAdmin была переписана с нуля на языках Python и Javascript с задействованием отдельных runtime-компонентов для рабочего стола, написанных на C++ (pgAdmin III поставлялся в виде обособленного графического приложений, написанного на C++ с использованием wxWidgets). Приложение построено в виде встраиваемого фреймворка, возможности которого могут быть расширены через подключение модулей, при помощи которых может быть обеспечена поддержка сторонних надстроек над PostgreSQL.</description>
+    </item>
+    
+  </channel>
+</rss>

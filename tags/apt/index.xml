@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>APT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apt/</link>
+    <description>Recent content in APT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 17:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla ввела в строй APT-репозиторий с ночными сборками Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-apt-repozitoriy-s-nochnymi-sborkami-firefox-20231030-173600/</link>
+      <pubDate>Mon, 30 Oct 2023 17:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-apt-repozitoriy-s-nochnymi-sborkami-firefox-20231030-173600/</guid>
+      <description>Разработчики из компании Mozilla объявили о создании официального репозитория с deb-пакетами, позволяющими установить ночные сборки Firefox в Debian, Ubuntu, Linux Mint и других Debian-подобных дистрибутивах. Формируемые пакеты совместимы с традиционными сборками Firefox для Debian и Ubuntu, предлагаемыми для загрузки в архивах &amp;ldquo;.tar.bz2&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60019</description>
+    </item>
+    
+    <item>
+      <title>В пакетном менеджере APT 2.7 реализована поддержка снапшотов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-paketnom-menedzhere-apt-2-7-realizovana-podderzhka-snapshotov-20230503-133509/</link>
+      <pubDate>Wed, 03 May 2023 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-paketnom-menedzhere-apt-2-7-realizovana-podderzhka-snapshotov-20230503-133509/</guid>
+      <description>Сформирован выпуск экспериментальной ветки инструментария для управления пакетами APT 2.7 (Advanced Package Tool), на базе которой после стабилизации будет подготовлен стабильный выпуск 2.8, который будет интегрирован в Debian Testing и войдёт в релиз Debian 13, а также будет добавлен в пакетную базу Ubuntu. Кроме Debian и производных от него дистрибутивов, форк APT-RPM также применяется в некоторых дистрибутивах на основе пакетного менеджера rpm, таких как PCLinuxOS и ALT Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59070</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пакетного менеджера APT 2.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-apt-2-6-20230307-123502/</link>
+      <pubDate>Tue, 07 Mar 2023 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-apt-2-6-20230307-123502/</guid>
+      <description>Сформирован релиз инструментария для управления пакетами APT 2.6 (Advanced Package Tool), который вобрал изменения, накопленные в экспериментальной ветке 2.5. Кроме Debian и производных от него дистрибутивов, форк APT-RPM также применяется в некоторых дистрибутивах на основе пакетного менеджера rpm, таких как PCLinuxOS и ALT Linux. Новый выпуск интегрирован в ветку Unstable, в ближайшее время будет перенесён в ветку Debian Testing и войдёт в релиз Debian 12, а также будет добавлен в пакетную базу Ubuntu.</description>
+    </item>
+    
+  </channel>
+</rss>

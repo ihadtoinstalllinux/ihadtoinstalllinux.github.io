@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bcachefs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bcachefs/</link>
+    <description>Recent content in Bcachefs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 16:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bcachefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux 6.8 исправлены две серьёзные проблемы в bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-8-ispravleny-dve-sereznye-problemy-v-bcachefs-20240207-163538/</link>
+      <pubDate>Wed, 07 Feb 2024 16:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-8-ispravleny-dve-sereznye-problemy-v-bcachefs-20240207-163538/</guid>
+      <description>В файловой системе bcachefs, входящей в состав ядра Linux начиная с выпуска 6.7, при подготовке к релизу ядра 6.8 были обнаружены и исправлены две серьёзные проблемы (исправления войдут в состав выпуска 6.8-rc4). Первая проблема связана с некорректным функционированием блокировок при работе с директориями, из-за чего при удалении несуществующих подразделов (subvolume) первая попытка удаления могла завершиться ошибкой, а вторая - зависанием, из-за оставления неснятой блокировки.
+https://www.opennet.ru/opennews/art.shtml?num=60565</description>
+    </item>
+    
+    <item>
+      <title>Код Bcachefs принят в основной состав ядра Linux 6.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kod-bcachefs-prinyat-v-osnovnoy-sostav-yadra-linux-6-7-20231031-093520/</link>
+      <pubDate>Tue, 31 Oct 2023 09:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kod-bcachefs-prinyat-v-osnovnoy-sostav-yadra-linux-6-7-20231031-093520/</guid>
+      <description>Линус Торвальдс утвердил запрос на включение файловой системы Bcachefs в основной состав ядра Linux и добавил реализацию Bcachefs в репозиторий, в котором развивается ветка ядра 6.7, релиз которой ожидается в начале января. Добавленный в ядро патч включает около 95 тысяч строк кода. Проект уже более 10 лет развивает Кент Оверстрит (Kent Overstreet), который также разработал входящую в состав ядра систему кэширования блочных устройств на SSD-накопителях BCache.
+https://www.opennet.ru/opennews/art.shtml?num=60021</description>
+    </item>
+    
+    <item>
+      <title>В ветку ядра Linux-next добавлена реализация ФС Bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</link>
+      <pubDate>Wed, 20 Sep 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</guid>
+      <description>В состав ветки linux-next, в которой тестируются возможности для будущих выпусков ядра Linux, принят код файловой системы Bcachefs. Ранее, Кент Оверстрит (Kent Overstreet), автор Bcachefs и входящей в состав ядра Linux системы кэширования блочных устройств на SSD-накопителях BCache, отправил Линусу Торвальдсу poll-запрос на включение кода Bcachefs в основной состав ядра Linux, но Линус отклонил их и рекомендовал вначале оценить пригодность предложенных патчей в экспериментальной ветке Linux-next. В случае успешного рецензирования ФС Bcachefs может быть включена в состав ядра 6.</description>
+    </item>
+    
+    <item>
+      <title>Продвижение Bcachefs в состав ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodvizhenie-bcachefs-v-sostav-yadra-linux-20230619-133506/</link>
+      <pubDate>Mon, 19 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodvizhenie-bcachefs-v-sostav-yadra-linux-20230619-133506/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), автор входящей в состав ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59314</description>
+    </item>
+    
+  </channel>
+</rss>

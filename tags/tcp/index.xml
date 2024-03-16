@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TCP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tcp/</link>
+    <description>Recent content in TCP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 12:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро Linux 6.8 приняты патчи, ускоряющие TCP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-8-prinyaty-patchi-uskoryayuschie-tcp-20240114-123529/</link>
+      <pubDate>Sun, 14 Jan 2024 12:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-6-8-prinyaty-patchi-uskoryayuschie-tcp-20240114-123529/</guid>
+      <description>В состав кодовой базы, на основе которой формируется ядро Linux 6.8.
+https://www.opennet.ru/opennews/art.shtml?num=60433</description>
+    </item>
+    
+    <item>
+      <title>Удалённо эксплуатируемая уязвимость в драйвере NVMe-oF/TCP из состава ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-drayvere-nvme-of-tcp-iz-sostava-yadra-linux-20231016-143504/</link>
+      <pubDate>Mon, 16 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-drayvere-nvme-of-tcp-iz-sostava-yadra-linux-20231016-143504/</guid>
+      <description>В Linux-подсистеме nvmet-tcp (NVMe-oF/TCP), позволяющей обращаться к NVMe-накопителям по сети (NVM Express over Fabrics), используя протокол TCP, выявлена уязвимость (CVE-2023-5178), потенциально позволяющая удалённо выполнить свой код на уровне ядра или, при наличии локального доступа, поднять свои привилегии в системе. Исправление пока доступно в виде патча. Проблема проявляется с самой первой версии драйвера NVMe-oF/TCP (в отчёте об уязвимости упоминается ядро Linux 5.15, но поддержка NVMe-oF/TCP была добавлена в ядро 5.0). Уязвимости подвержены систем с включённым сервером.</description>
+    </item>
+    
+    <item>
+      <title>Google предложил Device Memory TCP для сетевой передачи данных между устройствами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</link>
+      <pubDate>Thu, 13 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</guid>
+      <description>Компания Google представила в списке разработчиков ядра Linux реализацию механизма Device memory TCP (devmem TCP), позволяющего напрямую по сети передавать данные из памяти одних устройств в память других устройств, без промежуточного копирования этих данных в буферы, размещённые в системной памяти хоста. Реализация пока находится на стадии RFC, т.е. выставлена для обсуждения и рецензирования сообществом, но не оформлена для передачи в основной состав ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59434</description>
+    </item>
+    
+  </channel>
+</rss>

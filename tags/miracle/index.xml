@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>miracle on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/miracle/</link>
+    <description>Recent content in miracle on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 23:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/miracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сотрудник Canonical представил miracle-wm, композитный менеджер на базе Wayland и Mir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</link>
+      <pubDate>Mon, 19 Feb 2024 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил первый выпуск нового композитного менеджера miracle-wm, который базируется на использовании протокола Wayland и компонентов для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3, композитного менеджера Hyprland и пользовательского окружения Sway. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=60626</description>
+    </item>
+    
+  </channel>
+</rss>

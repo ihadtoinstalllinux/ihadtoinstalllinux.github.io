@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>js on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/js/</link>
+    <description>Recent content in js on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2024 22:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в Node.js и libuv</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</link>
+      <pubDate>Fri, 16 Feb 2024 22:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</guid>
+      <description>Доступны корректирующие выпуски серверной JavaScript-платформы Node.js 21.6.2, 20.11.1, 18.19.1, в которых исправлено 8 уязвимостей, из которых 4 присвоен высокий уровень опасности.
+https://www.opennet.ru/opennews/art.shtml?num=60612</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 21.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</link>
+      <pubDate>Sat, 21 Oct 2023 17:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</guid>
+      <description>Состоялся релиз Node.js 21.0, платформы для выполнения сетевых приложений на языке JavaScript. Поддержка ветки Node.js 21.0 будет осуществляться в течение 6 месяцев. В ближайшие дни будет завершена стабилизация ветки Node.js 20, которая получит статус LTS и будет поддерживаться до апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.0 продлится до сентября 2025 года, а позапрошлой LTS-ветки 16.0 до апреля 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=59969</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Bun 1.0, более быстрая, чем Deno и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</link>
+      <pubDate>Mon, 11 Sep 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</guid>
+      <description>Представлен первый значительный выпуск платформы Bun, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript. Проект нацелен на использование в качестве прозрачной замены платформы Node.js, поддерживает используемые в Node.js механизмы работы с модулями и обработки зависимостей. Код проекта написан на языках Zig и С++, и распространяется под лицензией MIT. Для выполнения JavaScript задействован JavaScript-движок JavaScriptCore и компоненты проекта WebKit с дополнительными патчами.
+https://www.opennet.ru/opennews/art.shtml?num=59738</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>Выпуск СУБД AlaSQL 4.0, нацеленной на использование в браузерах и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-alasql-4-0-nacelennoy-na-ispolzovanie-v-brauzerah-i-node-js-20230506-133505/</link>
+      <pubDate>Sat, 06 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-alasql-4-0-nacelennoy-na-ispolzovanie-v-brauzerah-i-node-js-20230506-133505/</guid>
+      <description>Доступен выпуск СУБД AlaSQL 4.0, предназначенной для использования в web-приложениях в браузере, в мобильных приложениях на базе web-технологий или в серверных обработчиках на основе платформы Node.js. СУБД оформлена в виде JavaScript-библиотеки и позволяет использовать язык SQL. Поддерживается хранение данных в традиционных реляционных таблицах или в форме вложенных JSON-структур, не требующих жёсткого определения схемы хранения. Для манипуляции с данными из командной строки предоставляется утилита alasql. Код проекта написан на JavaScript и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 20.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</link>
+      <pubDate>Wed, 19 Apr 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</guid>
+      <description>Состоялся релиз Node.js 20.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 20.0 отнесён к веткам с длительным сроком поддержки, но данный статус будет присвоен только в октябре, после проведения стабилизации. Поддержка Node.js 20.x будет осуществляться до 30 апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.x продлится до апреля 2025 года, а позапрошлой LTS-ветки 16.x до сентября 2023 года. Сопровождение LTS-ветки 14.x будет прекращено 30 апреля, а промежуточной ветки Node.</description>
+    </item>
+    
+  </channel>
+</rss>

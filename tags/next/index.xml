@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>next on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/next/</link>
+    <description>Recent content in next on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 10:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/next/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ветку ядра Linux-next добавлена реализация ФС Bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</link>
+      <pubDate>Wed, 20 Sep 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</guid>
+      <description>В состав ветки linux-next, в которой тестируются возможности для будущих выпусков ядра Linux, принят код файловой системы Bcachefs. Ранее, Кент Оверстрит (Kent Overstreet), автор Bcachefs и входящей в состав ядра Linux системы кэширования блочных устройств на SSD-накопителях BCache, отправил Линусу Торвальдсу poll-запрос на включение кода Bcachefs в основной состав ядра Linux, но Линус отклонил их и рекомендовал вначале оценить пригодность предложенных патчей в экспериментальной ветке Linux-next. В случае успешного рецензирования ФС Bcachefs может быть включена в состав ядра 6.</description>
+    </item>
+    
+  </channel>
+</rss>

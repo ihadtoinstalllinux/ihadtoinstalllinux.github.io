@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNSSEC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dnssec/</link>
+    <description>Recent content in DNSSEC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Feb 2024 20:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dnssec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости KeyTrap и NSEC3, затрагивающие большинство реализаций DNSSEC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-keytrap-i-nsec3-zatragivayuschie-bolshinstvo-realizaciy-dnssec-20240214-203532/</link>
+      <pubDate>Wed, 14 Feb 2024 20:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-keytrap-i-nsec3-zatragivayuschie-bolshinstvo-realizaciy-dnssec-20240214-203532/</guid>
+      <description>В различных реализациях протокола DNSSEC выявлены две уязвимости, затрагивающие DNS-серверы BIND, PowerDNS, dnsmasq, Knot Resolver и Unbound. Уязвимости позволяют добиться отказа в обслуживании DNS-резолверов, выполняющих валидацию при помощи DNSSEC, через создание высокой нагрузки на CPU, мешающей обработке других запросов. Для совершения атаки достаточно отправить на DNS-резолвер, использующий DNSSEC, запрос, приводящий к обращению к специально оформленной DNS-зоне на сервере злоумышленника.
+https://www.opennet.ru/opennews/art.shtml?num=60599</description>
+    </item>
+    
+    <item>
+      <title>Сбой в доменной зоне RU из-за ошибки при замене ключей DNSSEC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sboy-v-domennoy-zone-ru-iz-za-oshibki-pri-zamene-klyuchey-dnssec-20240131-133548/</link>
+      <pubDate>Wed, 31 Jan 2024 13:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sboy-v-domennoy-zone-ru-iz-za-oshibki-pri-zamene-klyuchey-dnssec-20240131-133548/</guid>
+      <description>30 января в 18:20 (MSK) пользователи столкнулись с массовым сбоем определения хостов в доменной зоне RU, вызванный ошибкой при смене ключей, используемых для заверения достоверности зоны RU через DNSSEC. В результате инцидента на DNS-серверах, применяющих DNSSEC для проверки достоверности данных, перестали определяться все домены в зоне &amp;ldquo;.ru&amp;rdquo;. Проблема затронула только пользователей, использующих DNS-резолверы провайдеров или публичные DNS-сервисы, такие как 8.8.8.8, верифицирующие достоверность запросов при помощи DNSSEC. Пользователей DNS-резолверов, на которых DNSSEC отключён, не пострадали.</description>
+    </item>
+    
+    <item>
+      <title>Ошибка при обновлении ключей DNSSEC привела к нарушению работы доменной зоны NZ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-pri-obnovlenii-klyuchey-dnssec-privela-k-narusheniyu-raboty-domennoy-zony-nz-20230530-123505/</link>
+      <pubDate>Tue, 30 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-pri-obnovlenii-klyuchey-dnssec-privela-k-narusheniyu-raboty-domennoy-zony-nz-20230530-123505/</guid>
+      <description>Новозеландский регистратор InternetNZ, отвечающих за доменную зону &amp;ldquo;.NZ&amp;rdquo;, предупредил об инциденте, в результате которого возникли массовые сбои в разрешении доменных имён в зоне &amp;ldquo;.nz&amp;rdquo; и 15 связанных вторичных зонах, таких как &amp;ldquo;co.nz&amp;rdquo; и &amp;ldquo;net.nz&amp;rdquo;. Причиной сбоя стала ошибка, допущенная при ротации KSK-ключей (Key Signing Key), применяемых для цифровой подписи записей DNSKEY, содержащих ключи для подписи доменной зоны (ZSK, Zone Signing Key). После инцидента на DNS-серверах, применяющих DNSSEC для проверки достоверности данных, перестали определяться все домены в зоне &amp;ldquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

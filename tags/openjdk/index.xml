@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenJDK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openjdk/</link>
+    <description>Recent content in OpenJDK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 11:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openjdk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания JetBrains объявила о поддержке Wayland в IDE IntelliJ и OpenJDK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</link>
+      <pubDate>Thu, 31 Aug 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</guid>
+      <description>Компания JetBrains анонсировала реализацию поддержки протокола Wayland в платформе IntelliJ и построенных на её основе интегрированных средах разработки. Предложенные изменения имеют значение для всех разработчиков графических приложений на языке Java, так как охватывают и добавление поддержки Wayland в OpenJDK. После включения подготовленных изменений в один из будущих релизов OpenJDK, Java-программы смогут напрямую запускаться в окружениях на основе Wayland без задействования прослойки XWayland. Для тестирования уже доступен JetBrainsRuntime 21, форк OpenJDK 21 со встроенной поддержкой Wayland, используемый в продуктах JetBrains.</description>
+    </item>
+    
+  </channel>
+</rss>

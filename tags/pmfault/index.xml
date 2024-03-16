@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PMFault on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pmfault/</link>
+    <description>Recent content in PMFault on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2023 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pmfault/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака PMFault, позволяющая вывести из строя CPU на некоторых серверных системах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-pmfault-pozvolyayuschaya-vyvesti-iz-stroya-cpu-na-nekotoryh-servernyh-sistemah-20230517-003505/</link>
+      <pubDate>Wed, 17 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-pmfault-pozvolyayuschaya-vyvesti-iz-stroya-cpu-na-nekotoryh-servernyh-sistemah-20230517-003505/</guid>
+      <description>Исследователи из Бирмингемского университета, ранее известные разработкой атак Plundervolt и VoltPillager, выявили уязвимость (CVE-2022-43309) в некоторых серверных материнских платах, позволяющую физически вывести из строя CPU без возможности его последующего восстановления. Уязвимость, которая получила кодовое имя PMFault, может быть использована для повреждения серверов, к которым у атакующего нет физического доступа, но есть привилегированный доступ к операционной системе, полученный, например, в результате эксплуатации неисправленной уязвимости или перехвата учётных данных администратора.
+https://www.opennet.ru/opennews/art.shtml?num=59136</description>
+    </item>
+    
+  </channel>
+</rss>

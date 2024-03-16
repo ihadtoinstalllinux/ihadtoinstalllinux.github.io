@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LTS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lts/</link>
+    <description>Recent content in LTS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 04:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Ubuntu 22.04.4 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</link>
+      <pubDate>Fri, 23 Feb 2024 04:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.4 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.4 LTS, Kubuntu 22.04.4 LTS, Ubuntu MATE 22.04.4 LTS, Ubuntu Studio 22.04.4 LTS, Lubuntu 22.04.4 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Прекращение поддержки LTS-ядра Linux 4.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prekraschenie-podderzhki-lts-yadra-linux-4-14-20240111-133552/</link>
+      <pubDate>Thu, 11 Jan 2024 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prekraschenie-podderzhki-lts-yadra-linux-4-14-20240111-133552/</guid>
+      <description>Грег Кроа-Хартман (Greg Kroah-Hartman), отвечающий за поддержку стабильной ветки ядра Linux, объявил о публикации финального выпуска ядра Linux 4.14.336, который станет последним в данной серии. Ветка 4.14 была опубликована в ноябре 2017 года и сопровождалась 6 лет. Продукты, поставляемые с ядром 4.14, рекомендуется перевести на более актуальные LTS-выпуски.
+https://www.opennet.ru/opennews/art.shtml?num=60420</description>
+    </item>
+    
+    <item>
+      <title>Время поддержки LTS-релизов Ubuntu увеличено до 10 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vremya-podderzhki-lts-relizov-ubuntu-uvelicheno-do-10-let-20231024-213600/</link>
+      <pubDate>Tue, 24 Oct 2023 21:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vremya-podderzhki-lts-relizov-ubuntu-uvelicheno-do-10-let-20231024-213600/</guid>
+      <description>Компания Canonical объявила о предоставлении 10-летнего срока формирования обновлений для LTS-выпусков Ubuntu, а также для базовых пакетов с ядром Linux, изначально поставляемых в данных LTS-ветках. Таким образом LTS-выпуск Ubuntu 22.04 и используемое в нём ядро Linux 5.15 будут поддерживаться до апреля 2032 года, обновления для следующего LTS-релиза Ubuntu 24.04 будут формироваться до 2034 года. Ранее решения об аналогичных продлениях срока поддержки c 8 до 10 лет отдельно принимались для выпусков Ubuntu 14.</description>
+    </item>
+    
+    <item>
+      <title>Сокращение срока поддержки LTS-ядер Linux и проблема с выгоранием сопровождающих</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sokraschenie-sroka-podderzhki-lts-yader-linux-i-problema-s-vygoraniem-soprovozhdayuschih-20230920-173504/</link>
+      <pubDate>Wed, 20 Sep 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sokraschenie-sroka-podderzhki-lts-yader-linux-i-problema-s-vygoraniem-soprovozhdayuschih-20230920-173504/</guid>
+      <description>Разработчики ядра Linux намерены ограничиться двухлетним циклом выпуска обновлений для LTS-веток ядра Linux. Формально время сопровождения LTS-веток и сейчас составляет 2 года, но последние пять лет, срок выпуска обновлений продлевался до 6 лет в случае, если ядро продолжает быть востребованным и представители индустрии готовы оказать поддержку разработчиков, осуществляющих сопровождение.
+https://www.opennet.ru/opennews/art.shtml?num=59791</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 22.04.3 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</link>
+      <pubDate>Fri, 11 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.3 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.3 LTS, Kubuntu 22.04.3 LTS, Ubuntu MATE 22.04.3 LTS, Ubuntu Studio 22.04.3 LTS, Lubuntu 22.04.3 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутива Ubuntu 20.04.6 LTS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-ubuntu-20-04-6-lts-20230323-233505/</link>
+      <pubDate>Thu, 23 Mar 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-ubuntu-20-04-6-lts-20230323-233505/</guid>
+      <description>Опубликовано обновление дистрибутива Ubuntu 20.04.6 LTS. В состав выпуска включены только накопившиеся обновления пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Версии ядра и программ соответствуют версии 20.04.5.
+https://www.opennet.ru/opennews/art.shtml?num=58851</description>
+    </item>
+    
+  </channel>
+</rss>

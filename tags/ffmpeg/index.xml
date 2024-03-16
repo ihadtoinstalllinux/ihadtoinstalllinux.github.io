@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FFmpeg on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ffmpeg/</link>
+    <description>Recent content in FFmpeg on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2024 17:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в реализации JPEG XL из состава FFmpeg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-realizacii-jpeg-xl-iz-sostava-ffmpeg-20240130-173519/</link>
+      <pubDate>Tue, 30 Jan 2024 17:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-realizacii-jpeg-xl-iz-sostava-ffmpeg-20240130-173519/</guid>
+      <description>Раскрыты сведения о двух уязвимостях в поставляемом в пакете FFmpeg декодировщике формата JPEG XL, которые могут привести к выполнению кода злоумышленника при обработке в FFmpeg специально оформленных изображений. Проблемы были устранены в выпуске FFmpeg 6.1, но так как поддержка JPEG XL включена начиная с ветки 6.1, уязвимость затрагивает только системы, использующие экспериментальные сборки FFmpeg 6.1 или переносящие из них изменения.
+https://www.opennet.ru/opennews/art.shtml?num=60521</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мультимедиа-пакета FFmpeg 6.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-multimedia-paketa-ffmpeg-6-1-20231111-143604/</link>
+      <pubDate>Sat, 11 Nov 2023 14:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-multimedia-paketa-ffmpeg-6-1-20231111-143604/</guid>
+      <description>После десяти месяцев разработки доступен мультимедиа-пакет FFmpeg 6.1, включающий набор приложений и коллекцию библиотек для операций над различными мультимедиа-форматами (запись, преобразование и декодирование звуковых и видеоформатов). Пакет распространяется под лицензиями LGPL и GPL, разработка FFmpeg ведётся смежно с проектом MPlayer.
+https://www.opennet.ru/opennews/art.shtml?num=60093</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Containers on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/containers/</link>
+    <description>Recent content in Containers on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 16:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Kata Containers 3.2 с изоляцией на основе виртуализации </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kata-containers-3-2-s-izolyaciey-na-osnove-virtualizacii-20231024-163537/</link>
+      <pubDate>Tue, 24 Oct 2023 16:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kata-containers-3-2-s-izolyaciey-na-osnove-virtualizacii-20231024-163537/</guid>
+      <description>Опубликован выпуск проекта Kata Containers 3.2, развивающего стек для организации выполнения контейнеров с использованием изоляции на базе полноценных механизмов виртуализации. Проект создан компаниями Intel и Hyper путём объединения технологий Clear Containers и runV. Код проекта написан на языках Go и Rust, и распространяется под лицензией Apache 2.0. Развитие проекта курирует рабочая группа, созданная под эгидой независимой организации OpenStack Foundation, в которой участвуют такие компании, как Canonical, China Mobile, Dell/EMC, EasyStack, Google, Huawei, NetApp, Red Hat, SUSE и ZTE.</description>
+    </item>
+    
+    <item>
+      <title>Форк LXD будет развиваться под эгидой сообщества Linux Containers</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fork-lxd-budet-razvivatsya-pod-egidoy-soobschestva-linux-containers-20230807-213506/</link>
+      <pubDate>Mon, 07 Aug 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fork-lxd-budet-razvivatsya-pod-egidoy-soobschestva-linux-containers-20230807-213506/</guid>
+      <description>Разработка созданного несколько дней назад форка системы управления контейнерами LXD перешла под крыло сообщества Linux Containers, которое ранее курировало разработку LXD. Форк будет развиваться под именем Incus в репозитории github.com/lxc/incus. Для разработки Incus будет использоваться та же инфраструктура, что ранее использовалась для LXD. Целью проекта называется предоставление управляемой независимым сообществом альтернативы проекту LXD, развиваемому компанией Canonical.
+https://www.opennet.ru/opennews/art.shtml?num=59564</description>
+    </item>
+    
+    <item>
+      <title>LXD будет развиваться компаний Canonical отдельно от проекта Linux Containers</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lxd-budet-razvivatsya-kompaniy-canonical-otdelno-ot-proekta-linux-containers-20230706-023506/</link>
+      <pubDate>Thu, 06 Jul 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lxd-budet-razvivatsya-kompaniy-canonical-otdelno-ot-proekta-linux-containers-20230706-023506/</guid>
+      <description>Команда проекта Linux Containers, развивающая инструментарий для организации работы изолированных контейнеров LXC, менеджер контейнеров LXD, виртуальную ФС LXCFS, инструментарий сборки образов distrobuilder, библиотеку libresource и runtime lxcri, объявила, что менеджер контейнеров LXD отныне будет отдельно разрабатываться компанией Canonical. Компания Canonical, которая является создателем и основным разработчиком LXD, после 8 лет разработки в составе Linux Containers, решила, что LXD более оптимально развивать как корпоративный проект, а не проект независимого сообщества. Разработка остальных проектов Linux Containers останется без изменений.</description>
+    </item>
+    
+  </channel>
+</rss>

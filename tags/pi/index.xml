@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pi/</link>
+    <description>Recent content in Pi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 20:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект PiDP-10 развивает клон мэйнфрейма PDP-10 на базе платы Raspberry Pi 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</link>
+      <pubDate>Thu, 14 Mar 2024 20:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</guid>
+      <description>Энтузиасты ретрокомпьютеров опубликовали проект PiDP-10, нацеленный на создание рабочей реконструкции мэйнфрейма DEC PDP-10 KA10 , образца 1968 года. Для устройства изготовлен новый пластиковый корпус управляющей панели, оснащённый 124 ламповыми индикаторами и 74 переключателями. Вычислительные составляющие и программное окружение воссозданы при помощи платы Raspberry Pi 5 с дистрибутивом Raspberry Pi OS, основанным на Debian, и инструментария SIMH, который поддерживает полную симуляцию PDP-10, включая воспроизведение известных ошибок.
+https://www.opennet.ru/opennews/art.shtml?num=60785</description>
+    </item>
+    
+    <item>
+      <title>Подготовлена редакция дистрибутива MX Linux для плат Raspberry Pi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</link>
+      <pubDate>Sun, 31 Dec 2023 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</guid>
+      <description>Представлен новый вариант легковесного дистрибутива MX Linux, сформированный для плат Raspberry Pi. Сборка протестирована на платах Raspberry Pi 4, 400 и 5. Для установки требуется 16 ГБ свободного пространства на карте памяти или загрузка с USB-накопителя. Размер сжатого системного образа 2.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60372</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+    <item>
+      <title>Анонсирована плата Raspberry Pi 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovana-plata-raspberry-pi-5-20230928-203508/</link>
+      <pubDate>Thu, 28 Sep 2023 20:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovana-plata-raspberry-pi-5-20230928-203508/</guid>
+      <description>Спустя более четырёх лет с момента создания платы Raspberry Pi 4 организация Raspberry Pi Foundation представила плату нового поколения - Raspberry Pi 5, которая поступит в продажу в конце октября по цене $60 за вариант с 4 ГБ ОЗУ и $80 за вариант с 8 ГБ ОЗУ. Для сравнения плата Raspberry Pi 4 с 2 ГБ ОЗУ продавалась за $35, 4 ГБ ОЗУ - $55, а 8 ГБ ОЗУ - $75, но при этом заявлено, что производительность платы Raspberry Pi 5 в 2-3 раза выше Raspberry Pi 4.</description>
+    </item>
+    
+  </channel>
+</rss>

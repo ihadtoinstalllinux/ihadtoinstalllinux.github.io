@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LXQt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lxqt/</link>
+    <description>Recent content in LXQt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 22:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lxqt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Рабочий стол LXQt признан полностью готовым для использования Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rabochiy-stol-lxqt-priznan-polnostyu-gotovym-dlya-ispolzovaniya-wayland-20240309-223519/</link>
+      <pubDate>Sat, 09 Mar 2024 22:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rabochiy-stol-lxqt-priznan-polnostyu-gotovym-dlya-ispolzovaniya-wayland-20240309-223519/</guid>
+      <description>Разработчики пользовательского окружения LXQt сообщили о 100% готовности рабочего стола к использованию Wayland. В кодовую базу LXQt внесены изменения, переводящие PCManFM-Qt на использование компонента layer-shell-qt, что позволяет организовать функционирование рабочего стола в окружениях на базе Wayland без дополнительных хаков, обходным путём реализующих совместимость с некоторыми композитными менеджерами, такими как LabWC.
+https://www.opennet.ru/opennews/art.shtml?num=60762</description>
+    </item>
+    
+    <item>
+      <title>Опубликован план перевода LXQt на Qt6 и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-perevoda-lxqt-na-qt6-i-wayland-20240219-163510/</link>
+      <pubDate>Mon, 19 Feb 2024 16:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-perevoda-lxqt-na-qt6-i-wayland-20240219-163510/</guid>
+      <description>Разработчики пользовательского окружения LXQt (Qt Lightweight Desktop Environment) рассказали о процессе перехода на использование библиотеки Qt6 и протокола Wayland. Миграция всех составных частей LXQt на Qt6 в настоящее время рассматривается как первичная задача, которой уделено всё внимание проекта. После завершения миграции поддержка Qt5 будет прекращена.
+https://www.opennet.ru/opennews/art.shtml?num=60625</description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения LXQt 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-lxqt-1-4-20231105-233847/</link>
+      <pubDate>Sun, 05 Nov 2023 23:38:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-lxqt-1-4-20231105-233847/</guid>
+      <description>Представлен релиз пользовательского окружения LXQt 1.4 (Qt Lightweight Desktop Environment), развиваемого объединённой командой разработчиков проектов LXDE и Razor-qt. Интерфейс LXQt продолжает следовать идеям классической организации рабочего стола, привнося современное оформление и приёмы, увеличивающие удобство работы. LXQt позиционируется как легковесное, модульное, быстрое и удобное продолжение развития рабочих столов Razor-qt и LXDE, вобравшее лучшие черты обеих оболочек. Код размещён на GitHub и поставляется под лицензиями GPL 2.0+ и LGPL 2.1+. Появление готовых сборок ожидается для Ubuntu (LXQt по умолчанию предлагается в Lubuntu), Arch Linux, Fedora, openSUSE, Mageia, FreeBSD, ROSA и ALT Linux.</description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения LXQt 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-lxqt-1-3-20230415-233506/</link>
+      <pubDate>Sat, 15 Apr 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-lxqt-1-3-20230415-233506/</guid>
+      <description>Представлен релиз пользовательского окружения LXQt 1.3 (Qt Lightweight Desktop Environment), развиваемого объединённой командой разработчиков проектов LXDE и Razor-qt. Интерфейс LXQt продолжает следовать идеям классической организации рабочего стола, привнося современное оформление и приёмы, увеличивающие удобство работы. LXQt позиционируется как легковесное, модульное, быстрое и удобное продолжение развития рабочих столов Razor-qt и LXDE, вобравшее лучшие черты обеих оболочек. Код размещён на GitHub и поставляется под лицензиями GPL 2.0+ и LGPL 2.1+. Появление готовых сборок ожидается для Ubuntu (LXQt по умолчанию предлагается в Lubuntu), Arch Linux, Fedora, openSUSE, Mageia, FreeBSD, ROSA и ALT Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

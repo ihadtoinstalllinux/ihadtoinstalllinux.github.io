@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mesa on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mesa/</link>
+    <description>Recent content in Mesa on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mesa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Mesa 24.0, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</link>
+      <pubDate>Fri, 02 Feb 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.0.0. Первый выпуск ветки Mesa 24.0.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.0.1.
+https://www.opennet.ru/opennews/art.shtml?num=60537</description>
+    </item>
+    
+    <item>
+      <title>В Mesa-драйвере radv реализована поддержка расширений Vulkan для кодирования видео h.265</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</link>
+      <pubDate>Tue, 19 Dec 2023 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, сообщил о реализации в radv, поставляемом в Mesa Vulkan-драйвере для GPU AMD, возможности использования Vulkan-расширений для аппаратного ускорения кодирования видео. Для формата видео h.265 реализация уже успешно проходит все тесты CTS (Compatibility Test Suite), а для формата h.264 остаётся один непройденный тест. Кроме того, сообщается о добавлении в FFmpeg начальной поддержки использования Vulkan для кодирования видео в форматах h.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.3, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</link>
+      <pubDate>Fri, 01 Dec 2023 00:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.3.0. Первый выпуск ветки Mesa 23.3.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.3.1.
+https://www.opennet.ru/opennews/art.shtml?num=60210</description>
+    </item>
+    
+    <item>
+      <title>В Mesa принят код NVK, открытого Vulkan-драйвера для видеокарт NVIDIA </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</link>
+      <pubDate>Sat, 05 Aug 2023 10:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</guid>
+      <description>В основную ветку проекта Mesa принят код NVK, открытого драйвера с реализацией графического API Vulkan для видеокарт NVIDIA. Драйвер создан командой, в которую входят Карол Хербст (Karol Herbst, разработчик Nouveau из Red Hat), Дэвид Эйрли (David Airlie, мэйнтейнер подсистемы DRM из Red Hat) и Джейсон Экстранд (Jason Ekstrand, активный разработчик Mesa из Collabora).
+https://www.opennet.ru/opennews/art.shtml?num=59555</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</link>
+      <pubDate>Fri, 12 May 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.1.0. Первый выпуск ветки Mesa 23.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=59122</description>
+    </item>
+    
+  </channel>
+</rss>

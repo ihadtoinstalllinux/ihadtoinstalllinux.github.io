@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>time on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/time/</link>
+    <description>Recent content in time on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 01:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Debian 13 будет задействован 64-разрядный тип time_t на 32-разрядных архитектурах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-13-budet-zadeystvovan-64-razryadnyy-tip-time-t-na-32-razryadnyh-arhitekturah-20240205-013542/</link>
+      <pubDate>Mon, 05 Feb 2024 01:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-13-budet-zadeystvovan-64-razryadnyy-tip-time-t-na-32-razryadnyh-arhitekturah-20240205-013542/</guid>
+      <description>Разработчики Debian опубликовали план перевода всех пакетов на использование 64-разрядного типа time_t в портах дистрибутива для 32-разрядных архитектур. Изменения войдут в состав дистрибутива Debian 13 &amp;ldquo;Trixie&amp;rdquo;, в котором будет полностью решена проблема 2038 года.
+https://www.opennet.ru/opennews/art.shtml?num=60551</description>
+    </item>
+    
+    <item>
+      <title>В Китае запущен спутник с real-time подсистемой ядра Linux, написанной на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kitae-zapuschen-sputnik-s-real-time-podsistemoy-yadra-linux-napisannoy-na-rust-20231214-013553/</link>
+      <pubDate>Thu, 14 Dec 2023 01:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kitae-zapuschen-sputnik-s-real-time-podsistemoy-yadra-linux-napisannoy-na-rust-20231214-013553/</guid>
+      <description>9 декабря в Китае был запущен спутник Tianyi-33, разработанный в рамках проекта Tiansuan и оснащённый бортовым компьютером, на котором задействовано модифицированное ядро Linux с компонентами для обеспечения работы в режиме реального времени, написанными на языке Rust с использованием абстракций и прослоек, предоставляемых подсистемой Rust for Linux. Операционная система оснащена двойным ядром RROS, сочетающим обычное ядро Linux, применяемое для решения задач общего назначения, с RTOS-ядром на языке Rust, предназначенным для выполнения задач в режиме жёсткого реального времени.</description>
+    </item>
+    
+    <item>
+      <title>Доступна Real-time редакция Ubuntu, оптимизированная для процессоров Intel Core</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</link>
+      <pubDate>Thu, 27 Jul 2023 01:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</guid>
+      <description>Компания Canonical объявила о подготовке новых сборок Ubuntu, оптимизированных для выполнения задач в режиме реального времени на системах с процессорами Intel Core. Для повышения производительности и снижения влияния сторонней нагрузки на работу приложений, чувствительных к задержкам обработки и доставки данных, в сборках задействованы оптимизации, повышающие приоритет доступа к кэшу, памяти и сетевым операциям для приложений, работающих в режиме реального времени.
+https://www.opennet.ru/opennews/art.shtml?num=59501</description>
+    </item>
+    
+  </channel>
+</rss>

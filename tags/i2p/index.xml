@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>I2P on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/i2p/</link>
+    <description>Recent content in I2P on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/i2p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск реализации анонимной сети I2P 2.4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-4-0-20231220-153506/</link>
+      <pubDate>Wed, 20 Dec 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-4-0-20231220-153506/</guid>
+      <description>Состоялся релиз анонимной сети I2P 2.4.0 и C++-клиента i2pd 2.50.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=60318</description>
+    </item>
+    
+    <item>
+      <title>Выпуск qBittorrent 4.6 с поддержкой I2P</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-qbittorrent-4-6-s-podderzhkoy-i2p-20231023-133525/</link>
+      <pubDate>Mon, 23 Oct 2023 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-qbittorrent-4-6-s-podderzhkoy-i2p-20231023-133525/</guid>
+      <description>Опубликован выпуск торрент-клиента qBittorrent 4.6, написанного с использованием тулкита Qt и развиваемого в качестве открытой альтернативы µTorrent, приближенной к нему по интерфейсу и функциональности. Среди возможностей qBittorrent: интегрированный поисковый движок, возможность подписки на RSS, поддержка многих BEP-расширений, удалённое управление через web-интерфейс, режим последовательной загрузки в заданном порядке, расширенные настройки для торрентов, пиров и трекеров, планировщик пропускной способности и IP-фильтр, интерфейс для создания торрентов, поддержка UPnP и NAT-PMP. Код проекта написан на языке С++ и распространяется под лицензией GPLv2+.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск реализации анонимной сети I2P 2.3.0 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-3-0-s-ustraneniem-uyazvimosti-20230701-113507/</link>
+      <pubDate>Sat, 01 Jul 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-3-0-s-ustraneniem-uyazvimosti-20230701-113507/</guid>
+      <description>Состоялся релиз анонимной сети I2P 2.3.0 и C++-клиента i2pd 2.48.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=59362</description>
+    </item>
+    
+    <item>
+      <title>Выпуск реализации анонимной сети I2P 2.2.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-2-0-20230314-163502/</link>
+      <pubDate>Tue, 14 Mar 2023 16:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-realizacii-anonimnoy-seti-i2p-2-2-0-20230314-163502/</guid>
+      <description>Состоялся релиз анонимной сети I2P 2.2.0 и C++-клиента i2pd 2.47.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=58792</description>
+    </item>
+    
+  </channel>
+</rss>

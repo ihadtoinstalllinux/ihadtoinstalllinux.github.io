@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/snap/</link>
+    <description>Recent content in Snap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/snap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Ubuntu Snap Store выявлены вредоносные пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</link>
+      <pubDate>Sun, 01 Oct 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</guid>
+      <description>Компания Canonical объявила о временной приостановке использования в Snap Store автоматической системы проверки публикуемых пакетов из-за появления в репозитории пакетов с вредоносным кодом для кражи криптовалюты у пользователей. При этом непонятно ограничивается ли инцидент публикацией вредоносных пакетов сторонними авторами или имеют место какие-то проблемы с безопасностью непосредственно репозитория, так как ситуация в официальном анонсе характеризуется как &amp;ldquo;потенциальный инцидент с безопасностью&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59849</description>
+    </item>
+    
+    <item>
+      <title>В Ubuntu 23.10 появится новый менеджер приложений, ориентированный на пакеты Snap </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-23-10-poyavitsya-novyy-menedzher-prilozheniy-orientirovannyy-na-pakety-snap-20230707-173504/</link>
+      <pubDate>Fri, 07 Jul 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-23-10-poyavitsya-novyy-menedzher-prilozheniy-orientirovannyy-na-pakety-snap-20230707-173504/</guid>
+      <description>В состав осеннего выпуска Ubuntu 23.10 планируют включить новый графический интерфейс установки приложений App Store (Software App), отдающий приоритет пакетам в формате Snap и ориентированный на первичную поддержку данного формата. При этом новое приложение также имеет возможность работы с репозиториями в формате DEB и установки отдельных deb-пакетов из локальных файлов. Код приложения написан на языке Dart с использованием фреймворка Flutter и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59396</description>
+    </item>
+    
+    <item>
+      <title>unsnap - инструментарий для миграции Ubuntu со Snap на Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</link>
+      <pubDate>Sun, 02 Jul 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</guid>
+      <description>Проект unsnap развивает утилиту для перевода систем на базе Ubuntu с использования пакетов snap на пакеты в формате flatpak. Утилита не только заменяет пакетный менеджер snap на flatpak, но также подбирает и устанавливает flatpak-аналоги для уже установленных в системе snap-пакетов. В идеальном случае пользователь может получить полностью аналогичный набор приложений, но установленный в формате flatpak. Код написан на shell и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59366</description>
+    </item>
+    
+    <item>
+      <title>Canonical готовит вариант Ubuntu Desktop, содержащий только пакеты Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/canonical-gotovit-variant-ubuntu-desktop-soderzhaschiy-tolko-pakety-snap-20230531-133506/</link>
+      <pubDate>Wed, 31 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/canonical-gotovit-variant-ubuntu-desktop-soderzhaschiy-tolko-pakety-snap-20230531-133506/</guid>
+      <description>Разработчики из компании Canonical намерены в следующем году начать поставку дополнительных сборок Ubuntu Desktop, основанных на платформе Ubuntu Core и включающих только приложения, оформленные с использование пакетов в формате Snap. Похожая, но основанная на пакетах Flatpak, компоновка дистрибутива для рабочих станций, уже применяется такими проектами, как Fedora Silverblue и Endless OS. Первые экспериментальные сборки нового варианта Ubuntu Desktop планируют подготовить весной следующего года, в процессе формирования Ubuntu 23.04 LTS. Поставка классических сборок Ubuntu Desktop с deb-пакетами будет продолжена без изменений.</description>
+    </item>
+    
+  </channel>
+</rss>
