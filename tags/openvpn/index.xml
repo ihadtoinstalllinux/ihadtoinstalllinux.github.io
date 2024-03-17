@@ -6,7 +6,17 @@
     <description>Recent content in OpenVPN on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Определение сеансов OpenVPN в транзитном трафике</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opredelenie-seansov-openvpn-v-tranzitnom-trafike-20240317-133550/</link>
+      <pubDate>Sun, 17 Mar 2024 13:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opredelenie-seansov-openvpn-v-tranzitnom-trafike-20240317-133550/</guid>
+      <description>Группа исследователей из Мичиганского университета опубликовала результаты исследования возможности идентификации (VPN Fingerprinting) соединений к серверам на базе OpenVPN при мониторинге транзитного трафика. В итоге было выявлено три способа идентификации протокола OpenVPN среди других сетевых пакетов, которые могут использоваться в системах инспектирования трафика для блокирования виртуальных сетей на базе OpenVPN.
+https://www.opennet.ru/opennews/art.shtml?num=60795</description>
+    </item>
+    
     <item>
       <title>Обновление OpenVPN 2.6.9 с изменением лицензии</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openvpn-2-6-9-s-izmeneniem-licenzii-20240214-003542/</link>
