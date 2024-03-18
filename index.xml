@@ -6,7 +6,17 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 23:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 00:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Buildah и Podman, позволяющая обойти изоляцию контейнера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-buildah-i-podman-pozvolyayuschaya-oboyti-izolyaciyu-konteynera-20240319-003535/</link>
+      <pubDate>Tue, 19 Mar 2024 00:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-buildah-i-podman-pozvolyayuschaya-oboyti-izolyaciyu-konteynera-20240319-003535/</guid>
+      <description>В пакетах Buildah и Podman выявлена уязвимость (CVE-2024-1753), позволяющая получить полный доступ к файловой системе хост-окружения на стадии сборки контейнера, запускаемого с правами root. На системах с включённым SELinux доступ к хостовой ФС ограничивается режимом только чтения. Исправление пока доступно в виде патча.
+https://www.opennet.ru/opennews/art.shtml?num=60805</description>
+    </item>
+    
     <item>
       <title>PwFBMb7RBag.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20240318-233603/</link>
