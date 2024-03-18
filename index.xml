@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 14:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 15:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компилятор GnuCOBOL достиг зрелости. Первый выпуск среды разработки SuperBOL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompilyator-gnucobol-dostig-zrelosti-pervyy-vypusk-sredy-razrabotki-superbol-20240318-153523/</link>
+      <pubDate>Mon, 18 Mar 2024 15:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompilyator-gnucobol-dostig-zrelosti-pervyy-vypusk-sredy-razrabotki-superbol-20240318-153523/</guid>
+      <description>Фабрис Ле Фессант (Fabrice Le Fessant) подвёл итоги 20-летной разработки свободного компилятора GnuCOBOL, позволяющего транслировать программы на языке COBOL в представление на языке Си для последующей компиляции при помощи GCC или других Си-компиляторов. По мнению Фабриса проект достиг зрелости, готовности к использованию в промышленных системах и способности конкурировать с проприетарными решениями. Из конкурентных преимуществ GnuCOBOL отмечается поддержка 19 диалектов языка COBOL, высокая производительность и кросс-платформенность, позволяющая использовать инструментарий на различных системах, включая Linux, BSD, macOS, Windows, Android и многие проприетаные Unix-подобные ОС.</description>
+    </item>
+    
     <item>
       <title>Компания xAI, созданная Илоном Маском, открыла большую языковую модель Grok</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-xai-sozdannaya-ilonom-maskom-otkryla-bolshuyu-yazykovuyu-model-grok-20240318-143535/</link>
