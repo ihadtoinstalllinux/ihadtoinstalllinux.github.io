@@ -6,7 +6,16 @@
     <description>Recent content in Microsoft on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2024 12:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 16:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft открыл код хранилища Garnet, совместимого с Redis </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</link>
+      <pubDate>Tue, 19 Mar 2024 16:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</guid>
+      <description>Компания Microsoft открыла исходные тексты NoSQL-системы Garnet, рассчитанной на создание кэширующих хранилищ и совместимой с существующими клиентскими библиотеками для хранилища Redis. Garnet поддерживает создание масштабируемых кластеров для кэширования данных, в которых может использоваться репликация, миграция ключей и сегментирование данных между узлами кластера. Проект написан на языке C# с ядром хранения на C++, открыт под лицензией MIT и может работать на всех платформах, поддерживаемых в .NET (первичными платформами заявлены Linux и Windows).</description>
+    </item>
+    
     <item>
       <title>Mozilla, Google, Microsoft и Apple разработали тест производительности браузеров Speedometer 3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/mozilla-google-microsoft-i-apple-razrabotali-test-proizvoditelnosti-brauzerov-speedometer-20240312-123534/</link>
