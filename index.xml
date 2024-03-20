@@ -6,7 +6,16 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2024 11:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 12:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака на протоколы на основе UDP, приводящая к зацикливанию обмена пакетами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-protokoly-na-osnove-udp-privodyaschaya-k-zaciklivaniyu-obmena-paketami-20240320-123542/</link>
+      <pubDate>Wed, 20 Mar 2024 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-protokoly-na-osnove-udp-privodyaschaya-k-zaciklivaniyu-obmena-paketami-20240320-123542/</guid>
+      <description>Координационный центр CERT (компьютерная группа реагирования на чрезвычайные ситуации), опубликовал предупреждение о серии уязвимостей в реализациях различных прикладных протоколов, использующих в качестве транспорта протокол UDP. Уязвимости могут использоваться для организации отказа в обслуживании из-за возможности зацикливания обмена пакетами между двумя хостами. Например, атакующие могут добиться исчерпания доступной пропускной способности сети, блокирования работы сетевых сервисов (например, через создание высокой нагрузки и превышение ограничения интенсивности запросов) и реализации усилителей трафика для DDoS-атак.</description>
+    </item>
+    
     <item>
       <title>7HYvrhVrfYw.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20240320-113602/</link>
