@@ -6,7 +6,16 @@
     <description>Recent content in Fedora on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2024 11:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 15:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>СУБД Redis переходит на проприетарную лицензию. Обсуждение удаления Redis из Fedora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</link>
+      <pubDate>Thu, 21 Mar 2024 15:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</guid>
+      <description>Компания Redis Ltd объявила об изменении лицензии на СУБД Redis, относящейся к классу NoSQL-систем. Начиная с выпуска Redis 7.4 код проекта будет распространяться под двумя проприетарными лицензиями RSALv2 (Redis Source Available License v2) и SSPLv1 (Server Side Public License v1), вместо ранее применявшейся лицензии BSD. Ранее под проприетарной лицензией поставлялся только код дополнительных модулей, в которых предлагались расширенные возможности для корпоративных пользователей (RediSearch, RedisGraph, RedisJSON, RedisML, RedisBloom и т.п.). Отныне проприетарная лицензия будет применяться и к основной кодовой базе СУБД.</description>
+    </item>
+    
     <item>
       <title>В Fedora 41 намечено удаление из базовой поставки сеанса X11 для GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</link>
