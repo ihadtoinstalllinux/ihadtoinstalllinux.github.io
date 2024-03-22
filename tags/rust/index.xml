@@ -6,7 +6,17 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 19:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Mar 2024 16:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Rust 1.77</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-77-20240322-163554/</link>
+      <pubDate>Fri, 22 Mar 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-77-20240322-163554/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.77, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=60827</description>
+    </item>
+    
     <item>
       <title>Red Hat представил Nova, драйвер для GPU NVIDIA, написанный на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</link>
