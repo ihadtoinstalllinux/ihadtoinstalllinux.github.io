@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vitastor on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vitastor/</link>
+    <description>Recent content in Vitastor on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 01:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vitastor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован выпуск SDS Vitastor 1.5.0 с поддержкой кластерной ФС</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-vypusk-sds-vitastor-1-5-0-s-podderzhkoy-klasternoy-fs-20240324-013516/</link>
+      <pubDate>Sun, 24 Mar 2024 01:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-vypusk-sds-vitastor-1-5-0-s-podderzhkoy-klasternoy-fs-20240324-013516/</guid>
+      <description>Опубликован выпуск 1.5.0 программной системы хранения данных Vitastor с поддержкой кластерной файловой системы (VitastorFS). Vitastor - распределённая блочная программная система хранения данных, то есть, хранилище образов виртуальных машин или дисков контейнеров, развиваемая автором с 2019 года. Начиная с выпуска 1.5.0, это также и кластерная файловая система. VitastorFS монтируется по протоколу NFS 3.0 с локально или удалённо запускаемого сервера/серверов.
+https://www.opennet.ru/opennews/art.shtml?num=60835</description>
+    </item>
+    
+  </channel>
+</rss>
