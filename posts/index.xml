@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 16:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2024 18:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый альфа-выпуск etcd-оператора для Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</link>
+      <pubDate>Sat, 23 Mar 2024 18:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</guid>
+      <description>Опубликована первая альфа-версия проекта etcd-operator, развивающего инструментарий для упрощения развёртывания распределённого хранилища etcd в окружении Kubernetes и управления кластерами etcd. Инструментарий может решать такие задачи, как развёртывание узлов, настройка, управление, масштабирование и восстановление в случае сбоев. Конфигурация задаётся в формате YAML. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60833</description>
+    </item>
+    
     <item>
       <title>Imi-3BUCo9o.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20240323-163550/</link>
