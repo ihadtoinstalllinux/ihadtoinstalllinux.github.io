@@ -6,7 +6,17 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 02:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 16:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>После TrueNAS CORE 13.3 ветка на основе FreeBSD будет переведена в режим сопровождения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</link>
+      <pubDate>Mon, 25 Mar 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</guid>
+      <description>Компания iXsystems объявила о планах по дальнейшей разработке дистрибутива для быстрого развёртывания сетевого хранилища TrueNAS CORE, продолжающего развитие проекта FreeNAS. В июне планируется сформировать выпуск TrueNAS CORE 13.3 на основе FreeBSD 13.3 (прошлый выпуск был сформирован в 2021 году на основе FreeBSD 13.0), OpenZFS 2.2.3 и Samba 4.19. В дальнейшем разработка будет сосредоточена только на дистрибутиве TrueNAS SCALE, в котором используется ядро Linux и пакетная база Debian.
+https://www.opennet.ru/opennews/art.shtml?num=60843</description>
+    </item>
+    
     <item>
       <title>Релиз FreeBSD 13.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-3-20240306-023529/</link>
