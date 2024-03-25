@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Эксперимент с использованием SQLite в качестве контейнера для архивирования файлов
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Проект Pack предпринял попытку создания формата для архивирования файлов, построенного на базе библиотеки SQLite и алгоритма сжатия ZSTD (Zstandard). Подготовленный прототип, написанный на языке Pascal и распространяемый под лицензией Apache 2.0, обогнал по скорости создания архивов наиболее распространённые архиваторы, при том, что его работа сводилась к чтению данных, сжатию библиотекой libzstd и выполнению SQL-операций по добавлению сжатых данных в файл с БД SQLite.
+https://www.opennet.ru/opennews/art.shtml?num=60842</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-03-25 15:35:17 +0500 +05'>March 25, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Эксперимент с использованием SQLite в качестве контейнера для архивирования файлов" href="https://ihadtoinstalllinux.github.io/posts/eksperiment-s-ispolzovaniem-sqlite-v-kachestve-konteynera-dlya-arhivirovaniya-faylov-20240325-153517/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Выпуск DuckDB 0.10.0, варианта SQLite для аналитических запросов
     </h2>
   </header>
@@ -185,18 +198,6 @@ https://www.opennet.ru/opennews/art.shtml?num=60035</p>
   </section>
   <footer class="entry-footer"><span title='2023-09-29 16:35:06 +0500 +05'>September 29, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Выпуск DuckDB 0.9.0, варианта SQLite для аналитических запросов" href="https://ihadtoinstalllinux.github.io/posts/vypusk-duckdb-0-9-0-varianta-sqlite-dlya-analiticheskih-zaprosov-20230929-163506/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Проекты CBS и sqld развивают облачный и серверный варианты SQLite
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Разработчики SQLite развивают экспериментальный VFS-модуль CBS (Cloud Backed SQLite), позволяющий хранить содержимое базы данных не в локальном файле, а во внешнем облачном хранилище. Для хранения используется специально оптимизированный для внешнего хранения формат базы, позволяющий загружать данные из внешнего хранилища динамически по мере необходимости, без предварительного копирования всей БД на локальную систему. Из облачных хранилищ в настоящее время поддерживаются Azure Blob Storage и Google Cloud Storage. На использование CBS могут быть переведены любые приложения, поддерживающие работу с обычным SQLite....</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-07-12 22:35:04 +0500 +05'>July 12, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Проекты CBS и sqld развивают облачный и серверный варианты SQLite" href="https://ihadtoinstalllinux.github.io/posts/proekty-cbs-i-sqld-razvivayut-oblachnyy-i-servernyy-varianty-sqlite-20230712-223504/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

@@ -6,7 +6,17 @@
     <description>Recent content in SQLite on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2024 14:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 15:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эксперимент с использованием SQLite в качестве контейнера для архивирования файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-ispolzovaniem-sqlite-v-kachestve-konteynera-dlya-arhivirovaniya-faylov-20240325-153517/</link>
+      <pubDate>Mon, 25 Mar 2024 15:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-ispolzovaniem-sqlite-v-kachestve-konteynera-dlya-arhivirovaniya-faylov-20240325-153517/</guid>
+      <description>Проект Pack предпринял попытку создания формата для архивирования файлов, построенного на базе библиотеки SQLite и алгоритма сжатия ZSTD (Zstandard). Подготовленный прототип, написанный на языке Pascal и распространяемый под лицензией Apache 2.0, обогнал по скорости создания архивов наиболее распространённые архиваторы, при том, что его работа сводилась к чтению данных, сжатию библиотекой libzstd и выполнению SQL-операций по добавлению сжатых данных в файл с БД SQLite.
+https://www.opennet.ru/opennews/art.shtml?num=60842</description>
+    </item>
+    
     <item>
       <title>Выпуск DuckDB 0.10.0, варианта SQLite для аналитических запросов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-duckdb-0-10-0-varianta-sqlite-dlya-analiticheskih-zaprosov-20240218-143536/</link>

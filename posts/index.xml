@@ -6,7 +6,17 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 13:36:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 15:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эксперимент с использованием SQLite в качестве контейнера для архивирования файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-ispolzovaniem-sqlite-v-kachestve-konteynera-dlya-arhivirovaniya-faylov-20240325-153517/</link>
+      <pubDate>Mon, 25 Mar 2024 15:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-ispolzovaniem-sqlite-v-kachestve-konteynera-dlya-arhivirovaniya-faylov-20240325-153517/</guid>
+      <description>Проект Pack предпринял попытку создания формата для архивирования файлов, построенного на базе библиотеки SQLite и алгоритма сжатия ZSTD (Zstandard). Подготовленный прототип, написанный на языке Pascal и распространяемый под лицензией Apache 2.0, обогнал по скорости создания архивов наиболее распространённые архиваторы, при том, что его работа сводилась к чтению данных, сжатию библиотекой libzstd и выполнению SQL-операций по добавлению сжатых данных в файл с БД SQLite.
+https://www.opennet.ru/opennews/art.shtml?num=60842</description>
+    </item>
+    
     <item>
       <title>4RmpE-i0k-E.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20240325-133631/</link>
