@@ -6,7 +6,17 @@
     <description>Recent content in Musl on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 18:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/musl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 11:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/musl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.09 с поддержкой Си-библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</link>
+      <pubDate>Mon, 25 Mar 2024 11:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</guid>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.09, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.
+https://www.opennet.ru/opennews/art.shtml?num=60839</description>
+    </item>
+    
     <item>
       <title>Выпуск стандартной Си-библиотеки Musl 1.2.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-standartnoy-si-biblioteki-musl-1-2-5-20240301-183532/</link>
