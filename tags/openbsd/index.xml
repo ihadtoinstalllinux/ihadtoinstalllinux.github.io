@@ -6,7 +6,16 @@
     <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 20:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 17:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в NFS-сервере FreeBSD и OpenBSD, приводящая к удалённому выполнению кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</link>
+      <pubDate>Mon, 25 Mar 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</guid>
+      <description>В реализации NFS-сервера, применяемого BSD-системах, выявлена критическая уязвимость (CVE-2024-29937), позволяющая добиться удалённого выполнения своего кода с правами root на сервере. Проблема проявляется во всех выпусках OpenBSD и FreeBSD, вплоть до OpenBSD 7.4 и FreeBSD 14.0-RELEASE. Детальная информация об уязвимости пока не раскрывается, известно только то, что проблема вызвана логической ошибкой, не связанной с повреждением памяти. Отмечается, что уязвимость легко может быть эксплуатирована и использована для атаки на системы, в которых применяется NFS, но судя по видеодемонстрации уязвимость позволяет получить полный доступ к коревой ФС сервера и требует для эксплуатации наличия прав для монтирования разделов по NFS.</description>
+    </item>
+    
     <item>
       <title>В OpenBSD-current добавлен новый wi-fi драйвер для чипов Mediatek</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-current-dobavlen-novyy-wi-fi-drayver-dlya-chipov-mediatek-20240223-203550/</link>
