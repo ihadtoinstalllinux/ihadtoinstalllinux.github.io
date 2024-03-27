@@ -6,7 +6,26 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 12:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 13:36:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I5WzY4Opg4A.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20240327-133634/</link>
+      <pubDate>Wed, 27 Mar 2024 13:36:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20240327-133634/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, позволяющие поднять свои привилегии через nf_tables и ksmbd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-pozvolyayuschie-podnyat-svoi-privilegii-cherez-nf-tables-i-ksmbd-20240327-133530/</link>
+      <pubDate>Wed, 27 Mar 2024 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-pozvolyayuschie-podnyat-svoi-privilegii-cherez-nf-tables-i-ksmbd-20240327-133530/</guid>
+      <description>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE-2024-1086), позволяющая локальному пользователю выполнить код на уровне ядра и поднять свои привилегии в системе. Проблема вызвана двойным освобождением памяти (double-free) в модуле nf_tables, обеспечивающем работу пакетного фильтра nftables. Выявивший уязвимость исследователь безопасности разработал и опубликовал рабочий прототип эксплоита, применимый к ядрам Linux начиная с выпуска 3.15 и заканчивая 6.8-rc1.
+https://www.opennet.ru/opennews/art.shtml?num=60860</description>
+    </item>
+    
     <item>
       <title>Обновление ОС Qubes 4.2.1, использующей виртуализацию для изоляции приложений </title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-os-qubes-4-2-1-ispolzuyuschey-virtualizaciyu-dlya-izolyacii-prilozheniy-20240327-123524/</link>
