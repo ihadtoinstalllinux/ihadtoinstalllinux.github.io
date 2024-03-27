@@ -6,7 +6,16 @@
     <description>Recent content in Tails on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Tails 6.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-1-20240327-233505/</link>
+      <pubDate>Wed, 27 Mar 2024 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-1-20240327-233505/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 6.1 (The Amnesic Incognito Live System), основанного на пакетной базе Debian 12, поставляемого с рабочим столом GNOME 43 и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.</description>
+    </item>
+    
     <item>
       <title>Дистрибутив Tails 6.0, перешедший на Debian 12 и GNOME 43</title>
       <link>https://ihadtoinstalllinux.github.io/posts/distributiv-tails-6-0-pereshedshiy-na-debian-12-i-gnome-43-20240228-003554/</link>
