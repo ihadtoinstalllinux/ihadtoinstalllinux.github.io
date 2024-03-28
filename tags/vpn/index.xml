@@ -6,7 +6,16 @@
     <description>Recent content in VPN on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2024 18:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 19:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск VPN Lanemu 0.11.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-vpn-lanemu-0-11-6-20240328-193541/</link>
+      <pubDate>Thu, 28 Mar 2024 19:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-vpn-lanemu-0-11-6-20240328-193541/</guid>
+      <description>Состоялся выпуск Lanemu P2P VPN 0.11.6 - реализации децентрализованной виртуальной частной сети, работающей по принципу Peer-To-Peer, при котором участники подключены друг к другу, а не через центральный сервер. Участники сети могут находить друг друга через BitTorrent-трекер или BitTorrent DHT, либо через других участников сети (peer exchange). Приложение является бесплатным и открытым аналогом VPN Hamachi, написано на языке Java (c отдельными компонентами на языке Си) и распространяется под лицензией GNU LGPL 3.</description>
+    </item>
+    
     <item>
       <title>В ядро DragonFly BSD добавлена поддержка VPN WireGuard </title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-dragonfly-bsd-dobavlena-podderzhka-vpn-wireguard-20240210-183551/</link>
