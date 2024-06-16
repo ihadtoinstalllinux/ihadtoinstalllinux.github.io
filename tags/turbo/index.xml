@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>turbo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/turbo/</link>
+    <description>Recent content in turbo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/turbo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Фреймворк Turbo прекращает использование языка TypeScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/freymvork-turbo-prekraschaet-ispolzovanie-yazyka-typescript-20230908-123505/</link>
+      <pubDate>Fri, 08 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/freymvork-turbo-prekraschaet-ispolzovanie-yazyka-typescript-20230908-123505/</guid>
+      <description>Давид Хейнемейер Ханссон (David Heinemeier Hansson), автогонщик и автор веб-фреймворка Ruby on Rails, объявил о прекращении поддержки языка программирования TypeScript в коде развиваемого им проекта Turbo и переходе на использование чистого JavaScript начиная с выпуска Turbo 8, без задействования строгой типизации. Уход от использования TypeScript во фреймворке Turbo не повлияет на возможность применения TypeScript в клиентском коде или подключение библиотек, написанных на TypeScript.
+https://www.opennet.ru/opennews/art.shtml?num=59729</description>
+    </item>
+    
+    <item>
+      <title>Доступна библиотека libjpeg-turbo 3.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-biblioteka-libjpeg-turbo-3-0-20230704-113509/</link>
+      <pubDate>Tue, 04 Jul 2023 11:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-biblioteka-libjpeg-turbo-3-0-20230704-113509/</guid>
+      <description>Спустя пять лет с момента формирования ветки 2.x представлен релиз libjpeg-turbo 3.0.0, высокопроизводительной библиотеки для кодирования и декодирования изображений в формате JPEG. Libjpeg-turbo представляет собой совместимый на уровне API/ABI форк классической библиотеки libjpeg, нацеленный на обеспечение максимальной скорости кодирования и декодирования. Кроме стандартного libjpeg API библиотека предоставляет собственный TurboJPEG API и ряд расширений с моделями представления цвета, дающих возможность сжимать изображения в 32-разрядные пиксельные буферы (RGBX, XBGR) или декодировать из них.</description>
+    </item>
+    
+  </channel>
+</rss>

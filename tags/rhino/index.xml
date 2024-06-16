@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rhino on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rhino/</link>
+    <description>Recent content in Rhino on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2024 11:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rhino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск непрерывно обновляемого дистрибутива Rhino Linux 2024.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2024-1-20240529-113514/</link>
+      <pubDate>Wed, 29 May 2024 11:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2024-1-20240529-113514/</guid>
+      <description>Представлен выпуск дистрибутива Rhino Linux 2024.1, реализующего вариант Ubuntu с моделью непрерывной доставки обновлений, позволяющий получить доступ к наиболее свежим версиям программ. Новые версии в основном переносятся из devel-веток репозиториев Ubuntu, в которых производится сборка пакетов с новыми версиями приложений, синхронизированных с Debian Sid и Unstable. Компоненты рабочего стола, ядро Linux, загрузочные заставки, темы оформления, браузер Firefox и развиваемые проектом утилиты распространяются через отдельный репозиторий Pacstall. Установочные образы, которые могут загружаться в Live-режиме, подготовлены для архитектур x86_64 (2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск непрерывно обновляемого дистрибутива Rhino Linux 2023.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2023-4-20231221-143524/</link>
+      <pubDate>Thu, 21 Dec 2023 14:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2023-4-20231221-143524/</guid>
+      <description>Представлен выпуск дистрибутива Rhino Linux 2023.4, реализующего вариант Ubuntu с моделью непрерывной доставки обновлений, позволяющий получить доступ к наиболее свежим версиям программ. Новые версии в основном переносятся из devel-веток репозиториев Ubuntu, в которых производится сборка пакетов с новыми версиями приложений, синхронизированных с Debian Sid и Unstable. Компоненты рабочего стола, ядро Linux, загрузочные заставки, темы оформления, браузер Firefox и развиваемые проектом утилиты распространяются через отдельный репозиторий Pacstall. Установочные образы, которые могут загружаться в Live-режиме, подготовлены для архитектур x86_64 (2 ГБ) и ARM64 (1.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск непрерывно обновляемого дистрибутива Rhino Linux 2023.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2023-3-20231002-143506/</link>
+      <pubDate>Mon, 02 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nepreryvno-obnovlyaemogo-distributiva-rhino-linux-2023-3-20231002-143506/</guid>
+      <description>Представлен выпуск дистрибутива Rhino Linux 2023.3, реализующего вариант Ubuntu с моделью непрерывной доставки обновлений, позволяющий получить доступ к наиболее свежим версиям программ. Новые версии в основном переносятся из devel-веток репозиториев Ubuntu, в которых производится сборка пакетов с новыми версиями приложений, синхронизированных с Debian Sid и Unstable. Компоненты рабочего стола, ядро Linux, загрузочные заставки, темы оформления, браузер Firefox и развиваемые проектом утилиты распространяются через отдельный репозиторий Pacstall. Установочные образы, которые могут загружаться в Live-режиме, подготовлены для архитектур x86_64 (2 ГБ) и ARM64 (1.</description>
+    </item>
+    
+    <item>
+      <title>Доступен непрерывно обновляемый дистрибутив Rhino Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nepreryvno-obnovlyaemyy-distributiv-rhino-linux-20230808-173503/</link>
+      <pubDate>Tue, 08 Aug 2023 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nepreryvno-obnovlyaemyy-distributiv-rhino-linux-20230808-173503/</guid>
+      <description>Представлен первый стабильный выпуск дистрибутива Rhino Linux, реализующего модель непрерывной доставки обновлений для предоставления доступа к наиболее свежим версиям программ. Новые версии приложений в основном переносятся из devel-веток репозиториев Ubuntu, в которых производится сборка пакетов с новыми версиями приложений, синхронизированных с Debian Sid и Unstable. Установочные образы, которые могут загружаться в Live-режиме, подготовлены для архитектур x86_64 (2 ГБ) и ARM64 (1.9 ГБ). Отдельно доступны сборки для ARM-устройств PineTab, PineTab2, PinePhone и Raspberry Pi.</description>
+    </item>
+    
+  </channel>
+</rss>

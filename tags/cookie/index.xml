@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cookie on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cookie/</link>
+    <description>Recent content in Cookie on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 10:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cookie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google отложил прекращение поддержки сторонних Cookie в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otlozhil-prekraschenie-podderzhki-storonnih-cookie-v-chrome-20240425-103552/</link>
+      <pubDate>Thu, 25 Apr 2024 10:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otlozhil-prekraschenie-podderzhki-storonnih-cookie-v-chrome-20240425-103552/</guid>
+      <description>Компания Google объявила об очередной корректировке планов по прекращению в браузере Chrome поддержки сторонних Cookie, выставляемых при обращении к сайтам, отличным от домена текущей страницы. Изначально поддержку сторонних Cookie планировалось прекратить до 2022 года, потом срок прекращения поддержки был сдвинут до середины 2023 года, после чего был ещё раз перенесён на чётвёртый квартал 2024 года. Из-за необходимости дополнительных согласований и неготовности экосистемы, решено не отключать поддержку сторонних Cookie и в 2024 году.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Chrome 118. Подготовка к блокировке сторонних Cookie в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-118-podgotovka-k-blokirovke-storonnih-cookie-v-chrome-20231014-233504/</link>
+      <pubDate>Sat, 14 Oct 2023 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-chrome-118-podgotovka-k-blokirovke-storonnih-cookie-v-chrome-20231014-233504/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 118. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Firefox тестируют автозакрытие запросов использования Cookie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-avtozakrytie-zaprosov-ispolzovaniya-cookie-20230419-163507/</link>
+      <pubDate>Wed, 19 Apr 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-avtozakrytie-zaprosov-ispolzovaniya-cookie-20230419-163507/</guid>
+      <description>В ночных сборках Firefox, на базе которых 6 июня будет сформирован выпуск Firefox 114, появилась настройка для автоматического закрытия всплывающих диалогов, показываемых на сайтах для получения подтверждения о возможности сохранения идентификаторов в Cookie в соответствии с требованиями по защите персональных данных в Европейском Союзе (GDPR). Так как подобные всплывающие баннеры отвлекают внимание, перекрывают содержимое и требуют траты времени пользователя на закрытие, разработчики Firefox решили встроить в браузер возможность автоматического отклонения запроса.</description>
+    </item>
+    
+  </channel>
+</rss>

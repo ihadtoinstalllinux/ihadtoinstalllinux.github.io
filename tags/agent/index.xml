@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>agent on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/agent/</link>
+    <description>Recent content in agent on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jul 2023 02:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</link>
+      <pubDate>Thu, 20 Jul 2023 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</guid>
+      <description>Компания Qualys выявила удалённо эксплуатируемую уязвимость (CVE-2023-38408) в реализации ssh-agent из состава OpenSSH, позволяющую выполнить код в системе, предоставившей доступ к ssh-agent для хоста на другом конце ssh-соединения. Совершение атаки возможно только если пользователь подключился по ssh к системе, контролируемой злоумышленником, включив проброс сокета к ssh-agent по ssh при помощи опции &amp;ldquo;-A&amp;rdquo; или настройки ForwardAgent в файле конфигурации. Кроме того, для успешной атаки в системе жертвы должны присутствовать определённые библиотеки. Исследователями подготовлен прототип эксплоита, работа которого продемонстрирована в Ubuntu 22.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rs/</link>
+    <description>Recent content in rs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2023 16:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый стабильный выпуск sudo-rs, реализации утилит sudo и su на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</link>
+      <pubDate>Wed, 30 Aug 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, опубликовала первый стабильный выпуск проекта Sudo-rs, развивающего написанные на языке Rust варианты утилит sudo и su, предназначенные для выполнения команд от имени других пользователей. Код проекта распространяется под лицензиями Apache 2.0 и MIT. Разработка Sudo-rs ведётся инженерами из компаний Ferrous Systems и Tweede Golf на средства, предоставленные Google, Cisco и Amazon Web Services.</description>
+    </item>
+    
+  </channel>
+</rss>

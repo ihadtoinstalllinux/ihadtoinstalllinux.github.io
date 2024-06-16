@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/os/</link>
+    <description>Recent content in OS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2024 21:36:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS Day 2024: архитектура операционных систем и вопрос безопасности ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/os-day-2024-arhitektura-operacionnyh-sistem-i-vopros-bezopasnosti-po-20240614-213645/</link>
+      <pubDate>Fri, 14 Jun 2024 21:36:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/os-day-2024-arhitektura-operacionnyh-sistem-i-vopros-bezopasnosti-po-20240614-213645/</guid>
+      <description>20-21 июня года в Москве в новом здании РЭУ им. Г.В. Плеханова пройдет XI научно-практическая конференция OS DAY 2024. Она будет посвящена архитектурным и инженерным решениям в создании российских операционных систем, обеспечивающим безопасность программного обеспечения на различных уровнях. Вместе с разработчиками операционных систем в конференции примут участие производители аппаратных платформ, а также представители заказчиков программно-аппаратных […]
+https://rosa.ru/os-day-2024-arhitektura-operaczionnyh-sistem-i-vopros-bezopasnosti-po/</description>
+    </item>
+    
+    <item>
+      <title>Google добавит в Chrome OS технологию облачного выполнения классических приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-dobavit-v-chrome-os-tehnologiyu-oblachnogo-vypolneniya-klassicheskih-prilozheniy-20240606-123602/</link>
+      <pubDate>Thu, 06 Jun 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-dobavit-v-chrome-os-tehnologiyu-oblachnogo-vypolneniya-klassicheskih-prilozheniy-20240606-123602/</guid>
+      <description>Компания Google объявила о поглощении фирмы Cameyo, развивающей сервис удалённой работы с приложениями (VAD - Virtual App Delivery), позволяющий вынести выполнение программ в облако, которое может предоставляться как сторонним поставщиком, так и запускаться на своих серверах. В качестве причины поглощения упоминается намерение интегрировать в экосистему ChromeOS технологии Cameyo, обеспечивающие возможность работы с приложениями, созданными для других платформ. Например, для пользователей Chrome OS предоставляется возможность запуска приложений, созданных для платформы Windows, а для платформ, отличных от Linux, доступна поддержка облачного запуска Linux-приложений.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 125 с новыми AI-инструментами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-125-s-novymi-ai-instrumentami-20240605-153601/</link>
+      <pubDate>Wed, 05 Jun 2024 15:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-125-s-novymi-ai-instrumentami-20240605-153601/</guid>
+      <description>Представлен релиз операционной системы Chrome OS 125, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 125. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
+    <item>
+      <title>Начальный прототип нового инсталлятора для GNOME OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalnyy-prototip-novogo-installyatora-dlya-gnome-os-20240525-113505/</link>
+      <pubDate>Sat, 25 May 2024 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalnyy-prototip-novogo-installyatora-dlya-gnome-os-20240525-113505/</guid>
+      <description>Параллельно с переводом дистрибутива GNOME OS на использование компонента systemd-sysupdate для организации атомарного обновления системы, началась разработка нового инсталлятора для GNOME OS. Разработка пока находится на стадии начального прототипа, в качестве основы в котором задействованы опубликованные в апреле макеты интерфейса, подготовленные дизайнерами проекта GNOME. На текущем этапе развития основное внимание пока уделяется общей архитектуре и определению внутренней логики работы, например, организации навигации и заданию порядка отображения страниц при подготовке к установке.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мобильной платформы /e/OS 2.0, развиваемой создателем Mandrake Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-2-0-razvivaemoy-sozdatelem-mandrake-linux-20240518-133534/</link>
+      <pubDate>Sat, 18 May 2024 13:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-2-0-razvivaemoy-sozdatelem-mandrake-linux-20240518-133534/</guid>
+      <description>Доступен выпуск мобильной платформы /e/OS 2.0, нацеленной на сохранение конфиденциальности пользовательских данных. Платформа основана Гаэлем Дювалем (Gaël Duval), создателем дистрибутива Mandrake Linux. Проект предоставляет прошивки для многих популярных моделей смартфонов, а также под брендами Murena One, Murena 2, Murena Fairphone 4/5, Murena Teracube 2e и Murena Pixel 5 предлагает редакции смартфонов OnePlus, Fairphone, Teracube и Pixel с предустановленной прошивкой /e/OS. Платформой поддерживается 250 смартфонов.
+https://www.opennet.ru/opennews/art.shtml?num=61201</description>
+    </item>
+    
+    <item>
+      <title>GNOME OS переходит на организацию атомарных обновлений при помощи systemd-sysupdate</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</link>
+      <pubDate>Wed, 15 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</guid>
+      <description>Разработчики GNOME OS, экспериментального дистрибутива для разработчиков и тестировщиков GNOME, позволяющего оценить состояние разработки среды рабочего стола, ознакомиться с появляющимися новыми возможностями и протестировать работу своих приложений в находящихся в разработке ветках GNOME, объявили о переходе на использование компонента systemd-sysupdate для организации атомарного обновления системы. Целью изменения является желание адаптировать ночные сборки GNOME OS для проведения ежедневного контроля качества разработки GNOME.
+https://www.opennet.ru/opennews/art.shtml?num=61181</description>
+    </item>
+    
+    <item>
+      <title>Выпуск атомарно обновляемого дистрибутива Endless OS 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-atomarno-obnovlyaemogo-distributiva-endless-os-6-0-20240515-133600/</link>
+      <pubDate>Wed, 15 May 2024 13:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-atomarno-obnovlyaemogo-distributiva-endless-os-6-0-20240515-133600/</guid>
+      <description>Представлен выпуск дистрибутива Endless OS 6.0, нацеленного на создание простой в работе системы, в которой можно быстро подобрать приложения на свой вкус. Приложения распространяются в виде самодостаточных пакетов в формате Flatpak. Размер предлагаемых загрузочных образов составляет от 1.2 до 23 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=61174</description>
+    </item>
+    
+    <item>
+      <title>Google экспериментирует с запуском Chromium OS в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</link>
+      <pubDate>Tue, 14 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</guid>
+      <description>Компания Google продемонстрировала партнёрам на закрытом мероприятии проект FerroChrome, в рамках которого подготовлена специальная сборка операционной системы Chromium OS, предназначенная для запуска в виртуальной машине на устройствах с платформой Android. При демонстрации интерфейс Chromium OS выводился на большой экран, подключённый к смартфону Pixel 8. Предполагается, что возможность запуска Chromium OS может применяться для создания полнофункционального рабочего окружения, которое можно использовать при подключении смартфона к монитору, клавиатуре и мыши.
+https://www.opennet.ru/opennews/art.shtml?num=61171</description>
+    </item>
+    
+    <item>
+      <title>Представлен Raspberry Pi Connect, сервис для подключения к Raspberry Pi OS из браузера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-raspberry-pi-connect-servis-dlya-podklyucheniya-k-raspberry-pi-os-iz-brauzera-20240508-143507/</link>
+      <pubDate>Wed, 08 May 2024 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-raspberry-pi-connect-servis-dlya-podklyucheniya-k-raspberry-pi-os-iz-brauzera-20240508-143507/</guid>
+      <description>Разработчики проекта Raspberry Pi представили сервис Raspberry Pi Connect, предназначенный для удалённого подключения к рабочему столу дистрибутива Raspberry Pi OS через web-браузер. Сервис может использоваться в окружениях Raspberry Pi OS для плат Raspberry Pi 4, Raspberry Pi 400 и Raspberry Pi 5, построенных на базе Debian 12 и переведённых на графический стек на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=61137</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 124</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-124-20240505-153536/</link>
+      <pubDate>Sun, 05 May 2024 15:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-124-20240505-153536/</guid>
+      <description>Представлен релиз операционной системы Chrome OS 124, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 124. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система RISC OS 5.30</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-risc-os-5-30-20240428-223558/</link>
+      <pubDate>Sun, 28 Apr 2024 22:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-risc-os-5-30-20240428-223558/</guid>
+      <description>Сообщество RISC OS Open представило выпуск операционной системы RISC OS 5.30, оптимизированной для создания встраиваемых решений на базе плат с процессорами ARM. Выпуск основан на исходных текстах RISC OS, открытых в 2018 году компанией RISC OS Developments (ROD) под лицензией Apache 2.0. Сборки RISC OS сформированы для плат Raspberry Pi, PineA64, BeagleBoard, Iyonix, PandaBoard, Wandboard, RiscPC / A7000, OMAP 5 и Titanium. Размер сборки для Raspberry Pi составляет 157 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Главной темой конференции OS DAY 2024 станут архитектурные аспекты безопасности операционных систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/glavnoy-temoy-konferencii-os-day-2024-stanut-arhitekturnye-aspekty-bezopasnosti-operacionn-20240419-213629/</link>
+      <pubDate>Fri, 19 Apr 2024 21:36:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/glavnoy-temoy-konferencii-os-day-2024-stanut-arhitekturnye-aspekty-bezopasnosti-operacionn-20240419-213629/</guid>
+      <description>XI научно-практическая конференция OS DAY состоится 20-21 июня 2024 года. Она будет посвящена архитектурным и инженерным решениям, обеспечивающим безопасность операционных систем.
+https://www.basealt.ru/about/news/archive/view/glavnoi-temoi-konferencii-os-day-2024-stanut-arkhitekturnye-aspekty-bezopasnosti-operacionnykh-sistem</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 123</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-123-20240413-163514/</link>
+      <pubDate>Sat, 13 Apr 2024 16:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-123-20240413-163514/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 123, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 123. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
+    <item>
+      <title>Инициативой OS Zone аннулировано 54 патента, направленных против открытого ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativoy-os-zone-annulirovano-54-patenta-napravlennyh-protiv-otkrytogo-po-20240411-193513/</link>
+      <pubDate>Thu, 11 Apr 2024 19:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativoy-os-zone-annulirovano-54-patenta-napravlennyh-protiv-otkrytogo-po-20240411-193513/</guid>
+      <description>Организации Open Invention Network (OIN) и Unified Patents объявили об успешном развитии совместной инициативы Open Source Zone (OS Zone), созданной в 2019 году после патентной агрессии компании Rothschild Patent Imaging против проекта GNOME. С тех пор, кроме патента, в нарушении которого обвинялись разработчики GNOME, участники OS Zone смогли добиться признания недействительным ещё 53 патента, так или иначе нацеленных против открытого ПО.
+https://www.opennet.ru/opennews/art.shtml?num=60969</description>
+    </item>
+    
+    <item>
+      <title>Новые сборки дистрибутива Raspberry Pi OS. Разгон плат Raspberry Pi 5 до 3.14 GHz</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</link>
+      <pubDate>Mon, 18 Mar 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали обновлённые сборки дистрибутива Raspberry Pi OS 2024-03-15 (Raspbian), основанного на пакетной базе Debian 12. Для плат Raspberry Pi 4/5 по умолчанию используется композитный менеджер Wayfire на базе протокола Wayland, а для остальных плат - X-сервер с оконным менеджером Openbox. Для управления звуком применяется мультимедийный сервер Pipewire. В репозитории доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=60798</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 122</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-122-20240310-023552/</link>
+      <pubDate>Sun, 10 Mar 2024 02:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-122-20240310-023552/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 122, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 122. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 122 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17.1, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</link>
+      <pubDate>Fri, 08 Mar 2024 02:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17.1, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ. Отмечается, что прошлый выпуск Zorin OS 17 был загружен более 500 тысяч раз, при том, что 78% от всех загрузок пришлось на пользователей платформ Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft переименовал дистрибутив CBL-Mariner в Azure Linux и опубликовал Azure Sphere OS 24.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</link>
+      <pubDate>Wed, 06 Mar 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</guid>
+      <description>Компания Microsoft переименовала дистрибутив CBL-Mariner в Azure Linux. Ранее имя Azure Linux использовалось для специализированной сборки, устанавливаемой в Azure Kubernetes Service (AKS), а общая платформа для создания дистрибутивов развивалась под именем CBL-Mariner (Common Base Linux Mariner). Несколько дней назад Microsoft переименовал репозиторий CBL-Mariner в azurelinux, поменял названия утилит и заменил упоминание CBL-Mariner в документации на Azure Linux. После этого был сформирован первый выпуск платформы с новым именем - Azure Linux 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мобильной платформы /e/OS 1.20, развиваемой создателем Mandrake Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-1-20-razvivaemoy-sozdatelem-mandrake-linux-20240229-183604/</link>
+      <pubDate>Thu, 29 Feb 2024 18:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-1-20-razvivaemoy-sozdatelem-mandrake-linux-20240229-183604/</guid>
+      <description>Представлен выпуск мобильной платформы /e/OS 1.20, нацеленной на сохранение конфиденциальности пользовательских данных. Платформа основана Гаэлем Дювалем (Gaël Duval), создателем дистрибутива Mandrake Linux. Проект предоставляет прошивки для многих популярных моделей смартфонов, а также под брендами Murena One, Murena Fairphone 3+/4 и Murena Teracube 2e предлагает редакции смартфонов OnePlus One, Fairphone 3+/4 и Teracube 2e с предустановленной прошивкой /e/OS. Всего официально поддерживается 224 смартфона.
+https://www.opennet.ru/opennews/art.shtml?num=60697</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 121</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-121-20240208-173551/</link>
+      <pubDate>Thu, 08 Feb 2024 17:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-121-20240208-173551/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 121, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 121. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 120 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 120</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-120-20240109-153540/</link>
+      <pubDate>Tue, 09 Jan 2024 15:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-120-20240109-153540/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 120, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 120. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 120 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</link>
+      <pubDate>Thu, 21 Dec 2023 20:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60328</description>
+    </item>
+    
+    <item>
+      <title>Выпуск атомарно обновляемого дистрибутива Endless OS 5.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-atomarno-obnovlyaemogo-distributiva-endless-os-5-1-20231207-233548/</link>
+      <pubDate>Thu, 07 Dec 2023 23:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-atomarno-obnovlyaemogo-distributiva-endless-os-5-1-20231207-233548/</guid>
+      <description>После десяти месяцев разработки Представлен выпуск дистрибутива Endless OS 5.1, нацеленного на создание простой в работе системы, в которой можно быстро подобрать приложения на свой вкус. Приложения распространяются в виде самодостаточных пакетов в формате Flatpak. Размер предлагаемых загрузочных образов составляет от 1.1 до 18 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60251</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мобильной платформы /e/OS 1.17, развиваемой создателем Mandrake Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-1-17-razvivaemoy-sozdatelem-mandrake-linux-20231201-163549/</link>
+      <pubDate>Fri, 01 Dec 2023 16:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-e-os-1-17-razvivaemoy-sozdatelem-mandrake-linux-20231201-163549/</guid>
+      <description>Представлен выпуск мобильной платформы /e/OS 1.17, нацеленной на сохранение конфиденциальности пользовательских данных. Платформа основана Гаэлем Дювалем (Gaël Duval), создателем дистрибутива Mandrake Linux. Проект предоставляет прошивки для многих популярных моделей смартфонов, а также под брендами Murena One, Murena Fairphone 3+/4 и Murena Teracube 2e предлагает редакции смартфонов OnePlus One, Fairphone 3+/4 и Teracube 2e с предустановленной прошивкой /e/OS. Всего официально поддерживается 246 смартфонов.
+https://www.opennet.ru/opennews/art.shtml?num=60216</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 119</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-119-20231116-133523/</link>
+      <pubDate>Thu, 16 Nov 2023 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-119-20231116-133523/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 119, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 119. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 119 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 118</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-118-20231019-123546/</link>
+      <pubDate>Thu, 19 Oct 2023 12:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-118-20231019-123546/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 118, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 118. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 118 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Elementary OS 7.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-elementary-os-7-1-20231005-023506/</link>
+      <pubDate>Thu, 05 Oct 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-elementary-os-7-1-20231005-023506/</guid>
+      <description>Представлен выпуск дистрибутива Elementary OS 7.1, позиционируемого в качестве быстрой, открытой и уважающей конфиденциальность альтернативы Windows и macOS. Основное внимание в проекте уделяется качественному дизайну, нацеленному на создание простой в использовании системы, потребляющей минимальные ресурсы и обеспечивающей высокую скорость запуска. Пользователям предлагается собственное окружение рабочего стола Pantheon. Для загрузки подготовлены загрузочные iso-образы (3 ГБ), доступные для архитектуры amd64 (для бесплатной загрузки с сайта проекта в поле с суммой пожертвования необходимо ввести 0).</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 23.5 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-5-dlya-linux-chrome-os-i-macos-20230928-123505/</link>
+      <pubDate>Thu, 28 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-5-dlya-linux-chrome-os-i-macos-20230928-123505/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 23.5, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 23.0 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=59837</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 117</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-117-20230927-113504/</link>
+      <pubDate>Wed, 27 Sep 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-117-20230927-113504/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 117, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 117. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 117 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Serpent OS переходит на применение языков Rust, TypeScript и Go в инструментарии и инфраструктуре</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</link>
+      <pubDate>Fri, 15 Sep 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</guid>
+      <description>Айки Доэрти (Ikey), основатель дистрибутива Solus, опубликовал заметку о последних тенденциях в разработке дистрибутива Serpent OS, на технологиях которого будет построен выпуск Solus 5. Основные моменты.
+https://www.opennet.ru/opennews/art.shtml?num=59756</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 116</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-116-20230827-143505/</link>
+      <pubDate>Sun, 27 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-116-20230827-143505/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 116, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 116. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 116 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 23.0 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-0-dlya-linux-chrome-os-i-macos-20230816-223506/</link>
+      <pubDate>Wed, 16 Aug 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-0-dlya-linux-chrome-os-i-macos-20230816-223506/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 23.0, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 23.0 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=59616</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 16.3, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</link>
+      <pubDate>Thu, 27 Jul 2023 22:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.3, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме пакетов в формате deb и репозиториев Ubuntu по умолчанию включена поддержка форматов Flatpak, AppImage и Snap с возможностью установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 115</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-115-20230721-133536/</link>
+      <pubDate>Fri, 21 Jul 2023 13:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-115-20230721-133536/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 115, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 115. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 115 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>По данным сервиса StatCounter доля Linux-дистрибутивов достигла 3%, а Chrome OS - 4%</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/po-dannym-servisa-statcounter-dolya-linux-distributivov-dostigla-3-a-chrome-os-4-20230712-013506/</link>
+      <pubDate>Wed, 12 Jul 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/po-dannym-servisa-statcounter-dolya-linux-distributivov-dostigla-3-a-chrome-os-4-20230712-013506/</guid>
+      <description>По данным рейтинга StatCounter, осуществляющего мониторинг общемировой статистики использования web-браузеров, доля десктоп-дистрибутивов Linux впервые превысила 3%. В январе доля Linux составляла 2.91%, феврале - 2.94%, марте 2.85%, апреле - 2.83%, мае - 2.70%, июне - 3.08%. C учётом того, что доля основанной на ядре Linux операционной системы Chrome в июне выросла до 4.15%, общая доля настольных Linux-систем достигла отметки в 7.23%. Доля FreeBSD оценивается в 0.01%. Статистика собрана на основании счётчика, размещённого на 1.</description>
+    </item>
+    
+    <item>
+      <title>Сформирован выпуск Linux-дистрибутива Peppermint OS на базе Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</link>
+      <pubDate>Sun, 02 Jul 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</guid>
+      <description>Объявлено о релизе Linux-дистрибутива Peppermint OS, построенном на основе пакетной базы Debian GNU/Linux (изначально Peppermint OS основывался на Ubuntu, но потом перешёл на Debian). В ближайшее время также планируется сформировать сборки на основе Devuan, поставляемые без системного менеджера systemd. Дистрибутив предлагает пользовательское окружение на основе рабочего стола Xfce и файлового менеджера Thunar. Особенностью дистрибутива является ориентация на создание гибридного окружения, в котором локально установленные программы сосуществуют с web-приложениями, открываемыми в отдельных окнах без элементов интерфейса браузера (например, с Gmail можно работать как с обычным приложением).</description>
+    </item>
+    
+    <item>
+      <title>На конференции OS DAY 2023 «Базальт СПО» представила централизованную службу сборки дистрибутивных решений — новые возможности для технологических партнеров и Alt Linux Team</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuyu-sluzhbu-sborki-distrib-20230629-213621/</link>
+      <pubDate>Thu, 29 Jun 2023 21:36:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuyu-sluzhbu-sborki-distrib-20230629-213621/</guid>
+      <description>«Базальт СПО» в восьмой раз стала соорганизатором научно-практической конференции OS DAY.
+https://www.basealt.ru/about/news/archive/view/na-konferencii-os-day-2023-bazalt-spo-predstavila-centralizovannuju-sluzhbu-sborki-distributivnykh-reshenii-novye-vozmozhnosti-dlja-tekhnologicheskikh-partnerov-i-alt-linux-team</description>
+    </item>
+    
+    <item>
+      <title>НТЦ ИТ РОСА принял участие в конференции «OS DAY 2023. Экосистема Российских ОС»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-prinyal-uchastie-v-konferencii-os-day-2023-ekosistema-rossiyskih-os-20230628-213525/</link>
+      <pubDate>Wed, 28 Jun 2023 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-prinyal-uchastie-v-konferencii-os-day-2023-ekosistema-rossiyskih-os-20230628-213525/</guid>
+      <description>Эксперты компании рассмотрели актуальные для разработчиков ПО особенности методологии разработки, сопровождения и жизненного цикла дистрибутива РОСА. 22-23 июня в Москве прошла Х юбилейная научно-практическая конференция «OS DAY 2023. Экосистема Российских ОС». Участники мероприятия обсуждали актуальность создания единой среды разработки прикладного программного обеспечения, совместимого с российскими ОС, а также построение цифровой платформы на основе отечественных операционных […]
+https://www.rosalinux.ru/ntcz-it-rosa-prinyal-uchastie-v-konferenczii-os-day-2023-ekosistema-rossijskih-os/</description>
+    </item>
+    
+    <item>
+      <title>Доступен InkBox OS 2.0, дистрибутив для электронных книг Kobo и Kindle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-inkbox-os-2-0-distributiv-dlya-elektronnyh-knig-kobo-i-kindle-20230627-213506/</link>
+      <pubDate>Tue, 27 Jun 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-inkbox-os-2-0-distributiv-dlya-elektronnyh-knig-kobo-i-kindle-20230627-213506/</guid>
+      <description>Представлен выпуск операционной системы InkBox OS 2.0, нацеленной на замену штатных прошивок электронных книг Kobo и Kindle. Системные компоненты InkBox OS 2.0 построены на основе дистрибутива Alpine Linux 3.10, а в качестве пользовательского окружения задействована развиваемая тем же проектом оболочка InkBox с интерфейсом для чтения электронных книг и управления домашней библиотекой. Интерфейс пользователя оптимизирован для работы на экранах на основе электронной бумаги. Код оболочки написан на языке С++ с использованием фреймворка Qt и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Cообщества ALT Linux Team представили инициативный проект мобильной операционной системы на Х научно-практической конференции OS DAY 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</link>
+      <pubDate>Thu, 22 Jun 2023 21:36:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</guid>
+      <description>Разработка новой мобильной операционной системы нацелена на создание современной, удобной, санкционно независимой мобильной ОС. Проект полностью открыт, исходные коды публикуются в процессе разработки.
+https://www.basealt.ru/about/news/archive/view/razrabotchiki-coobshchestva-alt-linux-team-predstavili-iniciativnyi-proekt-mobilnoi-operacionnoi-sistemy-na-kh-nauchno-prakticheskoi-konferencii-os-day-2023</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 114</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-114-20230608-123505/</link>
+      <pubDate>Thu, 08 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-114-20230608-123505/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 114, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 114. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 114 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Проект разработки  документации для Serpent OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-razrabotki-dokumentacii-dlya-serpent-os-20230524-003505/</link>
+      <pubDate>Wed, 24 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-razrabotki-dokumentacii-dlya-serpent-os-20230524-003505/</guid>
+      <description>Айки Доэрти (Ikey) объявил о начале работы над сайтом документации дистрибутива Seprent OS. Для развёртывания используются Markdown и Docusaurus. Страницы документации размещены на GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=59185</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 113</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-113-20230510-143509/</link>
+      <pubDate>Wed, 10 May 2023 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-113-20230510-143509/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 113, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 113. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 113 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Компания VMware опубликовала Linux-дистрибутив Photon OS 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</link>
+      <pubDate>Tue, 02 May 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</guid>
+      <description>Опубликован релиз Linux-дистрибутива Photon OS 5.0, нацеленного на предоставление минималистичного хостового окружения для запуска приложений в изолированных контейнерах. Проект развивается компанией VMware и заявлен как пригодный для развёртывания промышленных приложений, включающий дополнительные элементы для усиления безопасности и предлагающий расширенные оптимизации для окружений VMware vSphere, Microsoft Azure, Amazon Elastic Compute и Google Compute Engine. Исходные тексты разработанных для Photon OS компонентов поставляются под лицензией GPLv2 (за исключением библиотеки libtdnf, которая открыта под лицензией LGPLv2.</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» — в оргкомитете Х юбилейной конференции «OS DAY. Экосистема российских ОС»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-v-orgkomitete-h-yubileynoy-konferencii-os-day-ekosistema-rossiyskih-os-20230428-213607/</link>
+      <pubDate>Fri, 28 Apr 2023 21:36:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-v-orgkomitete-h-yubileynoy-konferencii-os-day-ekosistema-rossiyskih-os-20230428-213607/</guid>
+      <description>«Базальт СПО» выступит соорганизатором юбилейной Х научно-практической конференции OS DAY 2023, которая состоится 22‑23 июня в Математическом институте им. В.А. Стеклова Российской академии наук в Москве.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-v-orgkomitete-kh-jubileinoi-konferencii-os-day-ehkosistema-rossiiskikh-os</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа /e/OS 1.10, развиваемая создателем Mandrake Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-e-os-1-10-razvivaemaya-sozdatelem-mandrake-linux-20230420-153506/</link>
+      <pubDate>Thu, 20 Apr 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-e-os-1-10-razvivaemaya-sozdatelem-mandrake-linux-20230420-153506/</guid>
+      <description>Представлен выпуск мобильной платформы /e/OS 1.10, нацеленной на сохранение конфиденциальности пользовательских данных. Платформа основана Гаэлем Дювалем (Gaël Duval), создателем дистрибутива Mandrake Linux. Проект предоставляет прошивки для многих популярных моделей смартфонов, а также под брендами Murena One, Murena Fairphone 3+/4 и Murena Galaxy S9 предлагает редакции смартфонов OnePlus One, Fairphone 3+/4 и Samsung Galaxy S9 с предустановленной прошивкой /e/OS. Всего официально поддерживается 227 смартфонов.
+https://www.opennet.ru/opennews/art.shtml?num=59005</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 112</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-112-20230407-143504/</link>
+      <pubDate>Fri, 07 Apr 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-112-20230407-143504/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 112, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 112. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 112 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 111</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-111-20230310-123502/</link>
+      <pubDate>Fri, 10 Mar 2023 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-111-20230310-123502/</guid>
+      <description>Доступен релиз операционной системы Chrome OS 111, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 111. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Исходные тексты распространяются под свободной лицензией Apache 2.0. Сборка Chrome OS 111 доступна для большинства актуальных моделей Chromebook. Для использования на обычных компьютерах предлагается редакция Chrome OS Flex.</description>
+    </item>
+    
+  </channel>
+</rss>

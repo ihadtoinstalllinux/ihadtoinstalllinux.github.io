@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>auto on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/auto/</link>
+    <description>Recent content in auto on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2024 12:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/auto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск оптимизатора энергопотребления и производительности auto-cpufreq 2.2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-optimizatora-energopotrebleniya-i-proizvoditelnosti-auto-cpufreq-2-2-0-20240215-123525/</link>
+      <pubDate>Thu, 15 Feb 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-optimizatora-energopotrebleniya-i-proizvoditelnosti-auto-cpufreq-2-2-0-20240215-123525/</guid>
+      <description>Опубликован релиз утилиты auto-cpufreq 2.2.0, предназначенной для автоматической оптимизации скорости работы CPU и энергопотребления в системе. Утилита отслеживает состояние аккумулятора ноутбука, нагрузки на CPU, температуры CPU и активности в системе, и в зависимости от ситуации и выбранных опций динамически активирует режимы энергосбережения или высокой производительности. Поддерживается работа на устройствах с процессорами Intel, AMD и ARM. Для управления может использоваться графический интерфейс на базе GTK или консольная утилита. Код написан на языке Python и распространяется под лицензией LGPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск оптимизатора энергопотребления и производительности auto-cpufreq 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-optimizatora-energopotrebleniya-i-proizvoditelnosti-auto-cpufreq-2-0-20231001-024046/</link>
+      <pubDate>Sun, 01 Oct 2023 02:40:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-optimizatora-energopotrebleniya-i-proizvoditelnosti-auto-cpufreq-2-0-20231001-024046/</guid>
+      <description>После четырёх лет разработки представлен релиз утилиты auto-cpufreq 2.0, предназначенной для автоматической оптимизации скорости работы CPU и энергопотребления в системе. Утилита отслеживает состояние аккумулятора ноутбука, нагрузки на CPU, температуры CPU и активности в системе, и в зависимости от ситуации и выбранных опций динамически активирует режимы энергосбережения или высокой производительности. Например, auto-cpufreq может использоваться для автоматического продления времени автономной работы ноутбуков без постоянного урезания каких-то возможностей. Поддерживается работа на устройствах с процессорами Intel, AMD и ARM.</description>
+    </item>
+    
+  </channel>
+</rss>

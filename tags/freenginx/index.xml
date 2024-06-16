@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FreeNginx on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/freenginx/</link>
+    <description>Recent content in FreeNginx on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 00:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freenginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новые версии nginx 1.25.5 и форка FreeNginx 1.26.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-nginx-1-25-5-i-forka-freenginx-1-26-0-20240417-003525/</link>
+      <pubDate>Wed, 17 Apr 2024 00:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-nginx-1-25-5-i-forka-freenginx-1-26-0-20240417-003525/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.5, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61003</description>
+    </item>
+    
+    <item>
+      <title>Представлен FreeNginx, форк Nginx, созданный из-за несогласия с политикой компании F5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-freenginx-fork-nginx-sozdannyy-iz-za-nesoglasiya-s-politikoy-kompanii-f5-20240215-033546/</link>
+      <pubDate>Thu, 15 Feb 2024 03:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-freenginx-fork-nginx-sozdannyy-iz-za-nesoglasiya-s-politikoy-kompanii-f5-20240215-033546/</guid>
+      <description>Максим Дунин, один из ключевых разработчиков Nginx, объявил о создании нового форка - FreeNginx. В отличие от проекта Angie, также создавшего ответвление от Nginx, новый форк будет разрабатываться исключительно как некоммерческий проект, развиваемый сообществом. FreeNginx позиционируется как основной потомок Nginx - &amp;ldquo;с учётом деталей - скорее, форк остался у F5&amp;rdquo;. Целью FreeNginx объявлено обеспечение разработки Nginx, свободной от произвольного корпоративного вмешательства.
+https://www.opennet.ru/opennews/art.shtml?num=60603</description>
+    </item>
+    
+  </channel>
+</rss>

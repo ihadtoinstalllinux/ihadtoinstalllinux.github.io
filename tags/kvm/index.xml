@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KVM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kvm/</link>
+    <description>Recent content in KVM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 19:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VirtualBox адаптирован для работы поверх гипервизора KVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</link>
+      <pubDate>Thu, 08 Feb 2024 19:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</guid>
+      <description>Компания Cyberus Technology открыла код бэкенда VirtualBox KVM, позволяющего использовать в системе виртуализации VirtualBox встроенный в ядро Linux гипервизор KVM вместо поставляемого в VirtualBox модуля ядра vboxdrv. Бэкенд обеспечивает выполнение виртуальных машин гипервизором KVM с полным сохранением традиционной модели управления и интерфейса VirtualBox. Поддерживается запуск в KVM существующих конфигураций виртуальных машин, созданных для VirtualBox. Код написан на языках С и С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60572</description>
+    </item>
+    
+  </channel>
+</rss>

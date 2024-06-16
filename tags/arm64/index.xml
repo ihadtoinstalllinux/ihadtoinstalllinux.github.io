@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ARM64 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arm64/</link>
+    <description>Recent content in ARM64 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 14:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla начала формирование ночных сборок Firefox для Linux-систем на архитектуре ARM64 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-formirovanie-nochnyh-sborok-firefox-dlya-linux-sistem-na-arhitekture-arm64-20240420-143546/</link>
+      <pubDate>Sat, 20 Apr 2024 14:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-formirovanie-nochnyh-sborok-firefox-dlya-linux-sistem-na-arhitekture-arm64-20240420-143546/</guid>
+      <description>Разработчики из компании Mozilla объявили о публикации официальных бинарных deb-пакетов и установочных tar-архивов, позволяющих установить ночные сборки Firefox в Linux-дистрибутивах на системах с архитектурой ARM64 (AArch64). Пакеты можно получить как через традиционную страницу загрузки, так и из специализированного APT-репозитория, созданного для Debian, Ubuntu, Linux Mint и других Debian-подобных дистрибутивов. После завершения внедрения автоматизированного тестирования ARM64-сборок в системе непрерывной интеграции планируется начать публиковать подобные сборки для бета-версий и релизов.
+https://www.opennet.ru/opennews/art.shtml?num=61037</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Hangover 9.0, пакета для запуска Windows-приложений на системах ARM64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</link>
+      <pubDate>Fri, 19 Jan 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</guid>
+      <description>Опубликована новая ветка проекта Hangover, позволяющего запускать 32-разрядные Windows-приложения, собранные для архитектур x86 (i386) и ARM32, в окружениях на базе архитектуры ARM64 (Aarch64). В разработке находится реализация варианта Hangover для архитектуры RISC-V. Выпуск основан на кодовой базе Wine 9.0, что отражено в номере версии. Наработки проекта распространяются под лицензией LGPL-2.1.
+https://www.opennet.ru/opennews/art.shtml?num=60462</description>
+    </item>
+    
+  </channel>
+</rss>

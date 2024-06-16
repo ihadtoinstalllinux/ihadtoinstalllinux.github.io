@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bazzite on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bazzite/</link>
+    <description>Recent content in Bazzite on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Aug 2023 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bazzite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Bazzite 1.0, редакции Fedora Silverblue для любителей компьютерных игр</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bazzite-1-0-redakcii-fedora-silverblue-dlya-lyubiteley-kompyuternyh-igr-20230821-143505/</link>
+      <pubDate>Mon, 21 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bazzite-1-0-redakcii-fedora-silverblue-dlya-lyubiteley-kompyuternyh-igr-20230821-143505/</guid>
+      <description>Представлен первый выпуск проекта Bazzite, развивающего специализированную сборку Fedora Linux 38, оптимизированную для запуска компьютерных игр. Сборка основана на технологиях Fedora Silverblue, использует для формирования базовой системы OSTree-репоизитории ublue-os без разделения на отдельные пакеты, а обновление производит в атомарном режиме через замену системного образа. Установочный образ сформирован для архитектуры x86_64 (685 MB).
+https://www.opennet.ru/opennews/art.shtml?num=59635</description>
+    </item>
+    
+  </channel>
+</rss>

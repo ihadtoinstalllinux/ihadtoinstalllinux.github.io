@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VLC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vlc/</link>
+    <description>Recent content in VLC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 01:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vlc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск медиаплеера VLC 3.0.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-21-20240606-013527/</link>
+      <pubDate>Thu, 06 Jun 2024 01:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-21-20240606-013527/</guid>
+      <description>Опубликован выпуск медиапроигрывателя VLC 3.0.21, в котором устранена потенциальная уязвимость (CVE не присвоен), приводящая к записи данных в область памяти за границей буфера при разборе некорректно оформленных данных в обработчике MMS (Microsoft Media Server). Уязвимость теоретически может быть эксплуатирована при попытке загрузки контента с вредоносных серверов, используя URL &amp;ldquo;mms://&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61319</description>
+    </item>
+    
+    <item>
+      <title>VLC преодолел рубеж в 5 миллиардов загрузок и приступил к разработке VLC 4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vlc-preodolel-rubezh-v-5-milliardov-zagruzok-i-pristupil-k-razrabotke-vlc-4-0-20240312-173547/</link>
+      <pubDate>Tue, 12 Mar 2024 17:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vlc-preodolel-rubezh-v-5-milliardov-zagruzok-i-pristupil-k-razrabotke-vlc-4-0-20240312-173547/</guid>
+      <description>Проект VideoLAN преодолел рубеж в пять миллиардов загрузок видеоплеера VLC, зафиксированных системой сбора статистики, работающей на серверах проекта с февраля 2005 года. Около 4.4 миллиардов загрузок приходится на сборку VLC для платформы Windows, 369 млн - macOS, 245 млн - Android, 71 млн - iOS и 6.7 млн на архив с исходными текстами. Опубликованные данные не учитывают загрузку VLC для Linux, так как большинство Linux-пользователей VLC получает данный видеоплеер через штатные репозитории своих дистрибутивов.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск медиаплеера VLC 3.0.20 с устранением уязвимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-20-s-ustraneniem-uyazvimosti-20231031-153519/</link>
+      <pubDate>Tue, 31 Oct 2023 15:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-20-s-ustraneniem-uyazvimosti-20231031-153519/</guid>
+      <description>Доступен внеплановый корректирующий выпуск медиапроигрывателя VLC 3.0.20, в котором устранена потенциальная уязвимость (CVE не присвоен), приводящая к записи данных в область памяти за границей буфера при разборе некорректно оформленных сетевых пакетов в обработчике потоков MMSH (Microsoft Media Server over HTTP). Уязвимость теоретически может быть эксплуатирована при попытке загрузки контента с вредоносных серверов, используя URL &amp;ldquo;mms://&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60024</description>
+    </item>
+    
+    <item>
+      <title>Выпуск медиаплеера VLC 3.0.19</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-19-20231009-123505/</link>
+      <pubDate>Mon, 09 Oct 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-19-20231009-123505/</guid>
+      <description>Опубликован выпуск медиапроигрывателя VLC 3.0.19, в котором для систем с GPU Intel и NVIDIA реализована поддержка технологии суперсэмплинга (Super Resolution), использующей алгоритмы пространственного масштабирования и реконструкции деталей для снижения потери качества изображения при увеличении масштаба и отображении с более высоким разрешением. Среди других изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59893</description>
+    </item>
+    
+  </channel>
+</rss>

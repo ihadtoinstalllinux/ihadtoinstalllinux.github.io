@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GhostBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghostbsd/</link>
+    <description>Recent content in GhostBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 23:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghostbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GhostBSD 24.04.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-24-04-1-20240521-233600/</link>
+      <pubDate>Tue, 21 May 2024 23:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-24-04-1-20240521-233600/</guid>
+      <description>Опубликован релиз десктоп-ориентированного дистрибутива GhostBSD 24.04.1, построенного на базе FreeBSD 14-STABLE и предлагающего пользовательское окружение MATE. Отдельно сообществом формируются неофициальные сборки с Xfce. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64 (2.6 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=61226</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GhostBSD 24.01.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-24-01-1-20240215-003539/</link>
+      <pubDate>Thu, 15 Feb 2024 00:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-24-01-1-20240215-003539/</guid>
+      <description>Опубликован релиз десктоп-ориентированного дистрибутива GhostBSD 24.01.1, построенного на базе FreeBSD 14-STABLE и предлагающего пользовательское окружение MATE. Отдельно сообществом формируются неофициальные сборки с Xfce. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64 (2.5 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=60600</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GhostBSD 23.10.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-23-10-1-20231030-163541/</link>
+      <pubDate>Mon, 30 Oct 2023 16:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ghostbsd-23-10-1-20231030-163541/</guid>
+      <description>Опубликован релиз десктоп-ориентированного дистрибутива GhostBSD 23.10.1, построенного на базе FreeBSD 13-STABLE и предлагающего пользовательское окружение MATE. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64 (2.5 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=60020</description>
+    </item>
+    
+  </channel>
+</rss>

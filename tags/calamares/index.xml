@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Calamares on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/calamares/</link>
+    <description>Recent content in Calamares on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 12:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/calamares/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubuntu переходит на использование инсталлятора Calamares</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kubuntu-perehodit-na-ispolzovanie-installyatora-calamares-20240205-123547/</link>
+      <pubDate>Mon, 05 Feb 2024 12:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kubuntu-perehodit-na-ispolzovanie-installyatora-calamares-20240205-123547/</guid>
+      <description>Разработчики Kubuntu Linux анонсировали работу по переводу дистрибутива на использование инсталлятора Calamares, не зависящего от конкретных дистрибутивов Linux и применяющего библиотеку Qt для создания интерфейса пользователя. Применение Calamares позволит задействовать единый графический стек в окружении на основе KDE. Из официальных редакций Ubuntu на инсталлятор Calamares ранее уже перешли Lubuntu и UbuntuDDE. Кроме замены инсталлятора из проводимых проектом работ также отмечена подготовка весеннего выпуска Kubuntu 24.04 LTS, который станет последим выпуском на базе KDE 5, и начало разработки тестовой версии с KDE 6, которая послужит основой для осеннего выпуска Kubuntu 24.</description>
+    </item>
+    
+    <item>
+      <title>Релиз фреймворка для создания установщиков Calamares 3.3.0 с поддержкой Qt6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-dlya-sozdaniya-ustanovschikov-calamares-3-3-0-s-podderzhkoy-qt6-20231212-213537/</link>
+      <pubDate>Tue, 12 Dec 2023 21:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freymvorka-dlya-sozdaniya-ustanovschikov-calamares-3-3-0-s-podderzhkoy-qt6-20231212-213537/</guid>
+      <description>Спустя пять с половиной лет с момента формирования ветки 3.2.x опубликован релиз инструментария для построения инсталляторов Calamares 3.3.0, не зависящего от конкретных дистрибутивов Linux. Разработчикам дистрибутивов предоставлено несколько десятков готовых модулей c реализацией различных возможностей, востребованных в инсталляторах. Код написан на языке С++, графический интерфейс основан на библиотеке Qt (используется QML), для разработки модулей могут применяться языки C++ и Python.
+https://www.opennet.ru/opennews/art.shtml?num=60277</description>
+    </item>
+    
+    <item>
+      <title>Asahi Linux переходит на использование инсталлятора Calamares</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/asahi-linux-perehodit-na-ispolzovanie-installyatora-calamares-20230910-183505/</link>
+      <pubDate>Sun, 10 Sep 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/asahi-linux-perehodit-na-ispolzovanie-installyatora-calamares-20230910-183505/</guid>
+      <description>Гектор Мартин (Hector Martin), основатель проекта по портированию Linux для работы на компьютерах Mac, оснащённых ARM-чипами Apple M1 и M2, объявил о переводе редакций дистрибутива Asahi Linux, основанных на Fedora и Arch Linux, на использование инсталлятора Calamares, не зависящего от конкретных дистрибутивов Linux и применяющего библиотеку Qt для создания интерфейса пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59734</description>
+    </item>
+    
+  </channel>
+</rss>

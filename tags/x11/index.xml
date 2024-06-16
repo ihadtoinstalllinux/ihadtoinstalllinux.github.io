@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>X11 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x11/</link>
+    <description>Recent content in X11 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 13:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 41 предложено перевести инсталлятор на Wayland и удалить X11-пакеты из сборок с GNOME </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</link>
+      <pubDate>Sat, 08 Jun 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</guid>
+      <description>В выпуске Fedora 41 предложено перевести инсталлятор Anaconda на использование протокола Wayland. В настоящее время Anaconda использует протокол X11, что не позволяет избавиться в установочных носителях от зависимостей, обеспечивающих поддержку X11.
+https://www.opennet.ru/opennews/art.shtml?num=61336</description>
+    </item>
+    
+    <item>
+      <title>Выпуск XWayland 24.1.0, компонента для запуска X11-приложений в Wayland-окружениях </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-24-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20240517-003552/</link>
+      <pubDate>Fri, 17 May 2024 00:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-24-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20240517-003552/</guid>
+      <description>Доступен выпуск XWayland 24.1.0, DDX-компонента (Device-Dependent X), обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=61187</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намечено удаление из базовой поставки сеанса X11 для GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</link>
+      <pubDate>Thu, 07 Mar 2024 11:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил удаление пакета gnome-session-xsession, отвечающего за запуск сеанса GNOME на базе X-сервера. Изменение запланировано на выпуск Fedora 41, который будет сформирован осенью этого года. Из сеансов, поддерживаемых по умолчанию в Fedora Workstation 41, останется только Wayland, но пакеты для организации работы сеанса X11 по-прежнему можно будет установить из репозиториев.
+https://www.opennet.ru/opennews/art.shtml?num=60746</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 утверждено прекращение поддержки сеанса KDE на базе X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-utverzhdeno-prekraschenie-podderzhki-seansa-kde-na-baze-x11-20231103-183523/</link>
+      <pubDate>Fri, 03 Nov 2023 18:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-utverzhdeno-prekraschenie-podderzhki-seansa-kde-na-baze-x11-20231103-183523/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил план поставки новой ветки пользовательского окружения KDE Plasma 6 в весеннем выпуске Fedora 40. Кроме обновления версии KDE переход на новую ветку определяет прекращение поддержки сеанса на основе протокола X11 и оставление только сеанса на базе протокола Wayland, поддержка запуска X11-приложений в котором будет предоставлена при помощи DDX-сервера XWayland. Продолжение поставки в Fedora 40 окружения KDE Plasma 5 с сеансом X11 признано нецелесообразным из-за отсутствия ресурсов на самостоятельное сопровождение отдельной устаревшей ветки в условиях переключения основного проекта KDE на развитие Plasma 6 и перевода KDE 5 в разряд устаревших.</description>
+    </item>
+    
+    <item>
+      <title>Для GNOME предложены изменения, нацеленные на прекращение поддержки X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-gnome-predlozheny-izmeneniya-nacelennye-na-prekraschenie-podderzhki-x11-20231009-103504/</link>
+      <pubDate>Mon, 09 Oct 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-gnome-predlozheny-izmeneniya-nacelennye-na-prekraschenie-podderzhki-x11-20231009-103504/</guid>
+      <description>Джордан Петридис (Jordan Petridis), входящий в команды, отвечающие за контроль качества и выпуск релизов GNOME, опубликовал запрос на изменение, удаляющее из пакета gnome-session systemd-таргеты для запуска в окружениях с X11. Отмечается, что это первый шаг на пути к отказу от поддержки протокола X11 в GNOME. Тем не менее, на текущей стадии остальная функциональность, необходимая для запуска сеанса X11, остаётся на месте (но намечена для удаления в следующем цикле разработки) и пользователи могут вернуть поддержку X11, добавив systemd-таргеты вручную.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 планируют прекратить поддержу X11 в окружении KDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-prekratit-podderzhu-x11-v-okruzhenii-kde-20230914-153506/</link>
+      <pubDate>Thu, 14 Sep 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-prekratit-podderzhu-x11-v-okruzhenii-kde-20230914-153506/</guid>
+      <description>Разработчики проекта Fedora намерены перейти на использование пользовательского окружения KDE Plasma 6 в весеннем выпуске Fedora 40. Отмечается, что переход на KDE 6 позволит полностью прекратить поддержку сеанса на основе протокола X11, оставив только возможность использования Wayland. Поддержка запуска X11-приложений в сеансе на основе Wayland будет предоставлена при помощи DDX-сервера XWayland. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=59751</description>
+    </item>
+    
+    <item>
+      <title>Выпуск XWayland 23.1.0, компонента для запуска X11-приложений в Wayland-окружениях </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-23-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20230323-143506/</link>
+      <pubDate>Thu, 23 Mar 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-23-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20230323-143506/</guid>
+      <description>Доступен выпуск XWayland 23.1.0, DDX-компонента (Device-Dependent X), обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=58847</description>
+    </item>
+    
+  </channel>
+</rss>

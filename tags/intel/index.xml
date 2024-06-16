@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/intel/</link>
+    <description>Recent content in Intel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 12:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В KDE повышена эффективность кэширования и включено ускорение отрисовки курсора на GPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-effektivnost-keshirovaniya-i-vklyucheno-uskorenie-otrisovki-kursora-na-gpu-20240608-123602/</link>
+      <pubDate>Sat, 08 Jun 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-effektivnost-keshirovaniya-i-vklyucheno-uskorenie-otrisovki-kursora-na-gpu-20240608-123602/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Среди наиболее заметных изменений.
+https://www.opennet.ru/opennews/art.shtml?num=61335</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал компилятор ISPC 1.24, реализующий модель распараллеливания SPMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-kompilyator-ispc-1-24-realizuyuschiy-model-rasparallelivaniya-spmd-20240527-233534/</link>
+      <pubDate>Mon, 27 May 2024 23:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-kompilyator-ispc-1-24-realizuyuschiy-model-rasparallelivaniya-spmd-20240527-233534/</guid>
+      <description>Компания Intel опубликовала компилятор ISPC 1.24 (Implicit SPMD Program Compiler), обеспечивающий сборку кода на языке Си с расширениями для поддержи метода параллельного программирования SPMD (Single Program, Multiple Data), при котором несколько экземпляров одной программы выполняются параллельно с разными наборами входных данных. Код проекта написан на языке С++ и распространяется под лицензией BSD. Поддерживается работа в Linux, Windows, macOS, Linux и FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=61253</description>
+    </item>
+    
+    <item>
+      <title>Новый вариант атаки BHI на CPU Intel, позволяющий обойти защиту в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-variant-ataki-bhi-na-cpu-intel-pozvolyayuschiy-oboyti-zaschitu-v-yadre-linux-20240411-133512/</link>
+      <pubDate>Thu, 11 Apr 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-variant-ataki-bhi-na-cpu-intel-pozvolyayuschiy-oboyti-zaschitu-v-yadre-linux-20240411-133512/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета.
+https://www.opennet.ru/opennews/art.shtml?num=60963</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в процессорах Intel Atom, приводящая к утечке информации из регистров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-atom-privodyaschaya-k-utechke-informacii-iz-registrov-20240314-163604/</link>
+      <pubDate>Thu, 14 Mar 2024 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-atom-privodyaschaya-k-utechke-informacii-iz-registrov-20240314-163604/</guid>
+      <description>Компания Intel раскрыла сведения о микроархитектурной уязвимости (CVE-2023-28746) в процессорах Intel Atom (E-core), позволяющей определить данные, используемые процессом, до этого выполнявшемся на том же ядре CPU. Уязвимость, которая получила кодовое имя RFDS (Register File Data Sampling), вызвана возможностью определения остаточной информации из регистровых файлов (RF, Register File) процессора, которые используются для совместного хранения содержимого регистров во всех задачах на том же ядре CPU.
+https://www.opennet.ru/opennews/art.shtml?num=60787</description>
+    </item>
+    
+    <item>
+      <title>GhostRace - атака на механизм спекулятивного выполнения в процессорах Intel, AMD, ARM и IBM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</link>
+      <pubDate>Wed, 13 Mar 2024 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета и компании IBM разработала новый вариант атаки на механизм спекулятивного выполнения в современных процессорах, получивший кодовое имя GhostRace (CVE-2024-2193). Проблема проявляется в процессорах, производимых компаниями Intel, AMD, ARM и IBM. Для демонстрации принципов проведения атаки опубликован прототип эксплоита, позволяющий извлекать данные из памяти ядра Linux с производительностью 12 Кб в секунду при уровне надёжности, типичном для атак класса Spectre. При проведении атак на системы виртуализации, атакующий из гостевой системы может определить содержимое памяти хост-окружения или других гостевых систем.</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал программу 3D-визуализации OSPRay Studio 1.0 и движок  3D-рендеринга OSPRay 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</link>
+      <pubDate>Sun, 25 Feb 2024 15:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</guid>
+      <description>Компания Intel опубликовала выпуск проекта OSPRay Studio 1.0, развивающего приложение для интерактивной 3D-визуализации при помощи движка распределённой трассировки лучей OSPRay. Среди прочего, программа может использоваться для высокоточного рендеринга сложных сцен и обработки очень больших сцен, требующих распределённого выполнения вычислений в кластере из нескольких компьютеров. Код приложения написан на языке С++ и распространяется под лицензией Apache 2.0. Для отрисовки на экран используется OpenGL и библиотека GLFW.
+https://www.opennet.ru/opennews/art.shtml?num=60661</description>
+    </item>
+    
+    <item>
+      <title>Опрос Intel показал, что выгорание и документация являются основными проблемами открытого ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opros-intel-pokazal-chto-vygoranie-i-dokumentaciya-yavlyayutsya-osnovnymi-problemami-otkry-20240221-123507/</link>
+      <pubDate>Wed, 21 Feb 2024 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opros-intel-pokazal-chto-vygoranie-i-dokumentaciya-yavlyayutsya-osnovnymi-problemami-otkry-20240221-123507/</guid>
+      <description>Доступны результаты опроса разработчиков открытого ПО, проведённого компанией Intel. На вопрос об основных проблемах открытого ПО 45% участников отметили выгорание сопровождающих, 41% - обратили внимание на проблемы с качеством и наличием документации, 37% - выделили поддержание устойчивого развития, 32% - организацию взаимодействия с сообществом, 31% - недостаточное финансирование, 30% - накапливание технического долга (участники не доводят работу до конца), 27% - контроль качества.
+https://www.opennet.ru/opennews/art.shtml?num=60634</description>
+    </item>
+    
+    <item>
+      <title>SLAM - атака на CPU Intel, AMD и ARM, позволяющая определить содержимое памяти</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</link>
+      <pubDate>Wed, 06 Dec 2023 22:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета представила новую технику атаки SLAM (Spectre Linear Address Masking), предлагающую новый способ эксплуатации микроархитектурных уязвимостей класса Spectre, в котором утечка данных происходит при трансляции неканонических адресов, а для обхода проверок каноничности привлекаются предоставляемые в новых процессорах расширения для маскировки линейных адресов. Исследователями опубликован инструментарий с реализацией метода и предложена демонстрация, показывающая как можно извлечь из памяти ядра данные, соответствующие определённой маске (показано как за несколько десятков секунд в Ubuntu выделить из памяти ядра строку с хэшем пароля пользователя root).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость Reptar, затрагивающая процессоры Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-reptar-zatragivayuschaya-processory-intel-20231115-123538/</link>
+      <pubDate>Wed, 15 Nov 2023 12:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-reptar-zatragivayuschaya-processory-intel-20231115-123538/</guid>
+      <description>Тэвис Орманди (Tavis Ormandy), исследователь безопасности из компании Google, выявил новую уязвимость (CVE-2023-23583) в процессорах Intel, получившую кодовое имя Reptar и в основном представляющую опасность для облачных систем, в которых выполняются виртуальные машины разных пользователей. Уязвимость позволяет вызвать зависание или аварийную остановку работы системы при выполнении в непривилегированных гостевых системах определённых операций. Для тестирования своих систем опубликована утилита, создающая условия для проявления уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=60116</description>
+    </item>
+    
+    <item>
+      <title>Intel выпустил движок распределённой трассировки лучей OSPRay 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-vypustil-dvizhok-raspredelennoy-trassirovki-luchey-ospray-3-0-20231020-013538/</link>
+      <pubDate>Fri, 20 Oct 2023 01:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-vypustil-dvizhok-raspredelennoy-trassirovki-luchey-ospray-3-0-20231020-013538/</guid>
+      <description>Компания Intel опубликовала масштабируемый движок 3D-рендеринга OSPRay 3.0, предназначенный для реалистичной высококачественной визуализации методом трассировки лучей. Движок развивается как часть более крупного проекта Intel Rendering Framework, нацеленного на разработку средств программной визуализации научных расчётов SDVis (Software Defined Visualization), включающих библиотеку трассировки лучей Embree, систему фотореалистичной отрисовки GLuRay, библиотеку для устранения шумов на изображениях oidn (Open Image Denoise) и систему программной растеризации OpenSWR. Код написан на языке С++ и опубликован под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Компания Intel присоединилась к разработке CentOS Stream </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-prisoedinilas-k-razrabotke-centos-stream-20230924-013506/</link>
+      <pubDate>Sun, 24 Sep 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-prisoedinilas-k-razrabotke-centos-stream-20230924-013506/</guid>
+      <description>Компания Red Hat приветствовала присоединение Intel к разработке дистрибутива CentOS Stream. Intel подключился к рабочим группам CentOS Stream, курирующим вопросы, связанные с поддержкой процессорных архитектур и наборов инструкций, виртуализации и создания решений для больших инфраструктур. Ожидается, что участие Intel повысит эффективность поддержки новейших аппаратных архитектур, а также позволит увеличить производительность продуктов Red Hat на системах с процессорами Intel и реализовать в RHEL поддержку таких технологий Intel, как QAT (QuickAssist Technology).</description>
+    </item>
+    
+    <item>
+      <title>Downfall - атака на CPU Intel, приводящая к утечке данных из других процессов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</link>
+      <pubDate>Wed, 09 Aug 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</guid>
+      <description>Даниэль Могими (Daniel Moghimi) из компании Google, занимающийся исследовательской деятельностью в Калифорнийском университете в Сан-Диего, выявил новую уязвимость (CVE-2022-40982) в системе спекулятивного выполнения инструкций процессоров Intel, позволяющую определить содержимое векторных регистров XMM, YMM и ZMM, до этого использованных в других процессах при выполнении инструкций AVX (Advanced Vector Extensions) на том же ядре CPU. Уязвимости присвоено имя Downfall, а техника атаки названа Gather Data Sampling (GDS).
+https://www.opennet.ru/opennews/art.shtml?num=59571</description>
+    </item>
+    
+    <item>
+      <title>Доступна Real-time редакция Ubuntu, оптимизированная для процессоров Intel Core</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</link>
+      <pubDate>Thu, 27 Jul 2023 01:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</guid>
+      <description>Компания Canonical объявила о подготовке новых сборок Ubuntu, оптимизированных для выполнения задач в режиме реального времени на системах с процессорами Intel Core. Для повышения производительности и снижения влияния сторонней нагрузки на работу приложений, чувствительных к задержкам обработки и доставки данных, в сборках задействованы оптимизации, повышающие приоритет доступа к кэшу, памяти и сетевым операциям для приложений, работающих в режиме реального времени.
+https://www.opennet.ru/opennews/art.shtml?num=59501</description>
+    </item>
+    
+    <item>
+      <title>Intel и Blockade Labs опубликовали модель для синтеза 3D-изображений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-i-blockade-labs-opublikovali-model-dlya-sinteza-3d-izobrazheniy-20230622-153506/</link>
+      <pubDate>Thu, 22 Jun 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-i-blockade-labs-opublikovali-model-dlya-sinteza-3d-izobrazheniy-20230622-153506/</guid>
+      <description>Компании Intel и Blockade Labs совместно разработали модель машинного обучения LDM3D (Latent Diffusion Model for 3D) для генерации изображений и связанных с ними карт глубины на основе текстового описания на естественном языке. Разработка напоминает систему синтеза изображений Stable Diffusion, но позволяет формировать трёхмерный визуальный контент, такой как сферические панорамные изображения, которые можно просматривать в режиме 360 градусов. С практической стороны модель может применяться в играх и системах виртуальной реальности для интерактивного формирования трёхмерных окружений.</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал открытый моноширинный шрифт One Mono</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-otkrytyy-monoshirinnyy-shrift-one-mono-20230608-153505/</link>
+      <pubDate>Thu, 08 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-otkrytyy-monoshirinnyy-shrift-one-mono-20230608-153505/</guid>
+      <description>Компания Intel опубликовала открытый моноширинный шрифт One Mono, предназначенный для использования в эмуляторах терминалов и редакторах кода. Исходные компоненты шрифта распространяются под лицензией OFL 1.1 (Open Font License), позволяющей неограниченно модифицировать шрифт, использовать его в том числе для коммерческих целей, печати и на сайтах в Web. Для загрузки подготовлены файлы в форматах TrueType (TTF), OpenType (OTF), UFO (исходные файлы), WOFF и WOFF2, подходящие для загрузки в редакторах кода, таких как VSCode и Sublime Text, а также для использования в Web.</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал библиотеку устранения шума на изображениях Open Image Denoise 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-biblioteku-ustraneniya-shuma-na-izobrazheniyah-open-image-denoise-2-0-20230525-203505/</link>
+      <pubDate>Thu, 25 May 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-biblioteku-ustraneniya-shuma-na-izobrazheniyah-open-image-denoise-2-0-20230525-203505/</guid>
+      <description>Компания Intel опубликовала выпуск проекта oidn 2.0 (Open Image Denoise), развивающего коллекцию фильтров для устранения шумов на изображениях, подготовленных с использованием систем рендеринга на основе трассировки лучей. Open Image Denoise развивается как часть более крупного проекта oneAPI Rendering Toolkit, нацеленного на разработку средств программной визуализации научных расчётов (SDVis (Software Defined Visualization), включающих библиотеку трассировки лучей Embree, систему фотореалистичной отрисовки GLuRay, платформу распределённой трассировки лучей OSPRay и систему программной растеризации OpenSWR. Код написан на языке С++ и опубликован под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Intel развивает упрощённую архитектуру x86S, работающую только в 64-разрядном режиме</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-razvivaet-uproschennuyu-arhitekturu-x86s-rabotayuschuyu-tolko-v-64-razryadnom-rezhim-20230520-233505/</link>
+      <pubDate>Sat, 20 May 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-razvivaet-uproschennuyu-arhitekturu-x86s-rabotayuschuyu-tolko-v-64-razryadnom-rezhim-20230520-233505/</guid>
+      <description>Компания Intel представила упрощённую процессорную архитектуру x86S (x86 Simplification), реализующую только 64-разрядный режим и избавленную от поддержки устаревших концепций. Поддержка 16- и 32-разрядных операционных систем в x86S прекращена, но их можно будет запускаться при помощи виртуализации. Возможность запуска 32-разрядных приложений в окружении 64-разрядной ОС сохранится.
+https://www.opennet.ru/opennews/art.shtml?num=59164</description>
+    </item>
+    
+    <item>
+      <title>Утечка закрытых ключей Intel, используемых для заверения прошивок MSI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-zakrytyh-klyuchey-intel-ispolzuemyh-dlya-zavereniya-proshivok-msi-20230507-053644/</link>
+      <pubDate>Sun, 07 May 2023 05:36:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-zakrytyh-klyuchey-intel-ispolzuemyh-dlya-zavereniya-proshivok-msi-20230507-053644/</guid>
+      <description>В ходе атаки на информационные системы компании MSI злоумышленникам удалось загрузить более 500 ГБ внутренних данных компании, содержащих среди прочего исходные тексты прошивок и сопутствующих инструментов для их сборки. Совершившие атаку потребовали 4 млн долларов за неразглашение, но компания MSI отказалась и некоторые данные были опубликованы в открытом доступе.
+https://www.opennet.ru/opennews/art.shtml?num=59092</description>
+    </item>
+    
+    <item>
+      <title>Выпуск кодировщика видео SVT-AV1 1.5, развиваемого компанией Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-svt-av1-1-5-razvivaemogo-kompaniey-intel-20230502-133506/</link>
+      <pubDate>Tue, 02 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-svt-av1-1-5-razvivaemogo-kompaniey-intel-20230502-133506/</guid>
+      <description>Опубликован выпуск библиотеки SVT-AV1 1.5 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в современных CPU Intel средства аппаратного распараллеливания вычислений. Проект создвн компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработкуа ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в процессорах Intel, приводящая к утечке данных по сторонним каналам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-privodyaschaya-k-utechke-dannyh-po-storonnim-kanalam-20230428-183505/</link>
+      <pubDate>Fri, 28 Apr 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-privodyaschaya-k-utechke-dannyh-po-storonnim-kanalam-20230428-183505/</guid>
+      <description>Группа исследователей из китайских и американских университетов выявила новую уязвимость в процессорах Intel, приводящую к утечке по сторонним каналам информации о результате спекулятивного выполнения операций, которую можно использовать, например, для организации скрытого канала связи между процессами или определения утечек при совершении атак класса Meltdown.
+https://www.opennet.ru/opennews/art.shtml?num=59029</description>
+    </item>
+    
+  </channel>
+</rss>

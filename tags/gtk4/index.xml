@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTK4 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gtk4/</link>
+    <description>Recent content in GTK4 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 02:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Перекодировщик видео HandBrake 1.8.0 перешёл на использование GTK4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perekodirovschik-video-handbrake-1-8-0-pereshel-na-ispolzovanie-gtk4-20240521-023512/</link>
+      <pubDate>Tue, 21 May 2024 02:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perekodirovschik-video-handbrake-1-8-0-pereshel-na-ispolzovanie-gtk4-20240521-023512/</guid>
+      <description>Опубликован релиз инструмента для многопоточного перекодирования видеофайлов из одного формата в другой - HandBrake 1.8.0. Программа доступна как в варианте, работающем в режиме командной строки, так и в виде GUI-интерфейса. Код проекта написан на языке Си (для Windows GUI реализован на .NET) и распространяется под лицензией GPL. Бинарные сборки подготовлены для Linux (Flatpak), macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=61219</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slint on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/slint/</link>
+    <description>Recent content in Slint on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 18:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/slint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован инструментарий для создания графических интерфейсов Slint 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-sozdaniya-graficheskih-interfeysov-slint-1-0-20230406-183505/</link>
+      <pubDate>Thu, 06 Apr 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-dlya-sozdaniya-graficheskih-interfeysov-slint-1-0-20230406-183505/</guid>
+      <description>Опубликован первый значительный выпуск инструментария для построения графических интерфейсов Slint, который подвёл итог трех лет работы над проектом. Версия 1.0 позиционируется как готовая для начала применения в рабочих проектах. Инструментарий написан на языке Rust и поставляется под лицензией GPLv3 или коммерческой лицензией (для использования в проприетарных продуктах без открытия кода). Инструментарий может использоваться как для создания графических приложений для стационарных систем, так и для разработки интерфейсов встраиваемых устройств. Проект развивают Оливье Гоффарт (Olivier Goffart) и Саймон Хаусманн (Simon Hausmann), бывшие разработчики KDE, работавшие над Qt в компании Trolltech.</description>
+    </item>
+    
+  </channel>
+</rss>

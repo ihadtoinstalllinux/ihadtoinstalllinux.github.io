@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sudo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sudo/</link>
+    <description>Recent content in sudo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jun 2024 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sudo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системного менеджера systemd 256 с утилитой run0 для замены sudo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</link>
+      <pubDate>Wed, 12 Jun 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</guid>
+      <description>После полугода разработки представлен релиз системного менеджера systemd 256. Ключевые изменения: утилита run0 для замены sudo, утилита importctl для работы с дисковыми образами, возможность версионированного доступа к ресурсам, концепция капсул для запуска дополнительных сервисных менеджеров, режим перенаправления логов systemd-journald в произвольный сокет, в systemd-networkd, systemd-machined, bootctl, systemd-creds и systemd-hostnamed добавлена поддержка протокола Varlink, предложены генератор юнитов &amp;ldquo;systemd-ssh-generator&amp;rdquo; и утилита &amp;ldquo;systemd-ssh-proxy&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61234</description>
+    </item>
+    
+    <item>
+      <title>Леннарт Поттеринг представил run0, замену sudo, интегрированную в systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</link>
+      <pubDate>Tue, 30 Apr 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</guid>
+      <description>Леннарт Поттеринг представил утилиту run0, позволяющую выполнять процессы под идентификаторами других пользователей. Новая утилита позиционируется как более безопасная замена программы sudo, реализованная в форме надстройки над командой systemd-run и позволяющая избавиться от применения исполняемого файла с флагом SUID. Утилита run0 включена в состав выпуска systemd 256, который находится на стадии кандидата в релизы.
+https://www.opennet.ru/opennews/art.shtml?num=61088</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал собственную реализацию утилиты sudo для Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</link>
+      <pubDate>Fri, 09 Feb 2024 15:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</guid>
+      <description>Компания Microsoft представила собственную реализацию утилиты sudo, предназначенную для организации выборочного выполнения команд в терминале с правами администратора. Утилита включена в тестовые сборки Windows 11 Insider Preview Build 26052 (активируется в секции настроек &amp;ldquo;Developer Features&amp;rdquo;), войдёт в состав следующего обновления Windows 11 и в будущем возможно будет портирована для Windows 10. Код утилиты планируют открыть под лицензией MIT (в настоящий момент доступен только каркас репозитория и обвязка на PowerShell).
+https://www.opennet.ru/opennews/art.shtml?num=60581</description>
+    </item>
+    
+    <item>
+      <title>Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</link>
+      <pubDate>Fri, 22 Dec 2023 22:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</guid>
+      <description>Исследователи из Вустерского политехнического института (США) представили новый тип атаки Mayhem, использующий метод искажения битов в динамической оперативной памяти Rowhammer для изменения значений переменных в стеке, применяемых в программе в качестве флагов для принятия решения об успешности аутентификации и прохождения проверок безопасности. Практические примеры применения атаки продемонстрированы для обхода аутентификации в SUDO, OpenSSH и MySQL, а также для изменения результата проверок, связанных с безопасностью, в библиотеке OpenSSL.
+https://www.opennet.ru/opennews/art.shtml?num=60334</description>
+    </item>
+    
+    <item>
+      <title>Использование SSH поверх UNIX-сокета вместо sudo для избавления от suid-файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</link>
+      <pubDate>Wed, 20 Dec 2023 12:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</guid>
+      <description>Тимоти Равье (Timothee Ravier) из компании Red Hat, мэйнтейнер проектов Fedora Silverblue и Fedora Kinoite, предложил способ ухода от применения утилиты sudo, использующей suid-бит для повышения привилегий. Вместо sudo для выполнения обычным пользователем команд с правами root предлагается задействовать утилиту ssh с локальным соединением к той же системе через UNIX-сокет и проверкой полномочий на основе SSH-ключей.
+https://www.opennet.ru/opennews/art.shtml?num=60317</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный выпуск sudo-rs, реализации утилит sudo и su на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</link>
+      <pubDate>Wed, 30 Aug 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-sudo-rs-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230830-163507/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, опубликовала первый стабильный выпуск проекта Sudo-rs, развивающего написанные на языке Rust варианты утилит sudo и su, предназначенные для выполнения команд от имени других пользователей. Код проекта распространяется под лицензиями Apache 2.0 и MIT. Разработка Sudo-rs ведётся инженерами из компаний Ferrous Systems и Tweede Golf на средства, предоставленные Google, Cisco и Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>Проект по реализации утилит sudo и su на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-po-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230430-003505/</link>
+      <pubDate>Sun, 30 Apr 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-po-realizacii-utilit-sudo-i-su-na-yazyke-rust-20230430-003505/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует продвижению HTTPS и развитию технологий для повышения защищённости интернета, представила проект Sudo-rs по созданию написанных на языке Rust реализаций утилит sudo и su, позволяющих выполнять команды от имени других пользователей. Под лицензиями Apache 2.0 и MIT уже опубликована предварительная версия Sudo-rs, пока не готовая к повсеместному использованию. Проект, работа над которым началась в декабре 2022 года, планируют завершить в сентябре 2023 года.</description>
+    </item>
+    
+  </channel>
+</rss>

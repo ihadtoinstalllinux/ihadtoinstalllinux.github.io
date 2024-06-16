@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WebGPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/webgpu/</link>
+    <description>Recent content in WebGPU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 16:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/webgpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Chrome будет включена поддержка WebGPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-chrome-budet-vklyuchena-podderzhka-webgpu-20230406-163505/</link>
+      <pubDate>Thu, 06 Apr 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-chrome-budet-vklyuchena-podderzhka-webgpu-20230406-163505/</guid>
+      <description>Компания Google объявила о включении по умолчанию поддержки графического API WebGPU и языка шейдеров WGSL (WebGPU Shading Language) в ветке Chrome 113, релиз которой намечен на 2 мая. WebGPU предоставляет схожий с Vulkan, Metal и Direct3D 12 программный интерфейс для выполнения операций на стороне GPU, таких как рендеринг и вычисления, а также позволяет использовать язык шейдров для написания программ, работающих на стороне GPU. Реализация WebGPU будет включена вначале только в сборках для ChromeOS, macOS и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

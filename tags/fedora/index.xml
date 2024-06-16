@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fedora on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fedora/</link>
+    <description>Recent content in Fedora on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 01:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 41 планируют добавить AI-инструменты и расширить поддержку GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</link>
+      <pubDate>Sun, 16 Jun 2024 01:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, рассказал о некоторых возможностях, которые планируют добавить в следующий выпуск Fedora Workstation.
+https://www.opennet.ru/opennews/art.shtml?num=61374</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 предложено перевести инсталлятор на Wayland и удалить X11-пакеты из сборок с GNOME </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</link>
+      <pubDate>Sat, 08 Jun 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</guid>
+      <description>В выпуске Fedora 41 предложено перевести инсталлятор Anaconda на использование протокола Wayland. В настоящее время Anaconda использует протокол X11, что не позволяет избавиться в установочных носителях от зависимостей, обеспечивающих поддержку X11.
+https://www.opennet.ru/opennews/art.shtml?num=61336</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива blendOS 4, поддерживающего пакеты из Arch, Fedora, Debian, CentOS и Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</link>
+      <pubDate>Thu, 06 Jun 2024 22:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</guid>
+      <description>Представлен релиз дистрибутива blendOS 4, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Помимо пакетов из дистрибутива Arch Linux, который задействован в базовом окружении, и универсальных пакетов в формате Flatpak, предоставляется возможность установки пакетов из Fedora 39, Debian 13 (ветка testing), CentOS Stream и Ubuntu 22.04 (пакеты устанавливаются в основанных на данных дистрибутивах контейнерах). Кроме того, в blendOS предоставляется окружение для установки и запуска Android-приложений из каталогов Google Play и F-Droid.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намерены удалить network-scripts и разрешить обновление атомарных редакций без пароля</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namereny-udalit-network-scripts-i-razreshit-obnovlenie-atomarnyh-redakciy-bez-20240601-013509/</link>
+      <pubDate>Sat, 01 Jun 2024 01:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namereny-udalit-network-scripts-i-razreshit-obnovlenie-atomarnyh-redakciy-bez-20240601-013509/</guid>
+      <description>В выпуске Fedora 41 предложено удалить пакет network-scripts, обеспечивающий поддержку классических скриптов для настройки сети, основанные на использовании команд ifup и ifdown. Подобные скрипты объявлены устаревшими с 2018 года. В качестве причины удаления называются планы по удалению ISC dhcp, сопровождение которого было прекращено в конце 2022 года.
+https://www.opennet.ru/opennews/art.shtml?num=61283</description>
+    </item>
+    
+    <item>
+      <title>В Fedora одобрена поставка в пакете asahi-installer исполняемых файлов для macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</link>
+      <pubDate>Thu, 30 May 2024 02:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил предоставление исключения из правил, дающего возможность поставлять в составе пакета с инсталлятором asahi-installer исполняемого файла и библиотеки, собранных для платформы macOS. Исключение предоставлено по просьбе разработчиков редакции Fedora Asahi Remix, предназначенной для установки на компьютеры Mac, оснащённые ARM-чипами AppleSilicon.
+https://www.opennet.ru/opennews/art.shtml?num=61270</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 одобрена поставка сборки с композитным менеджером Miracle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-odobrena-postavka-sborki-s-kompozitnym-menedzherom-miracle-20240520-223559/</link>
+      <pubDate>Mon, 20 May 2024 22:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-odobrena-postavka-sborki-s-kompozitnym-menedzherom-miracle-20240520-223559/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил создание официальных ISO-образов с графическим окружением на основе композитного менеджера Miracle, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Spin-редакцию Fedora с Miracle начнут поставлять начиная с выпуска Fedora Linux 41.
+https://www.opennet.ru/opennews/art.shtml?num=61216</description>
+    </item>
+    
+    <item>
+      <title>Проект ALDOS развивает вариант Fedora без systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</link>
+      <pubDate>Wed, 15 May 2024 10:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</guid>
+      <description>Представлен выпуск мексиканского дистрибутива ALDOS 1.4.18, предлагающего пользовательское окружение в классическом стиле, рассчитанное на минимальное потребление ресурсов и способность работы на маломощных системах. Дистрибутив основан на технологиях Fedora Linux, но поставляется без системного менеджера systemd, вместо которого для инициализации и запуска сервисов задействована система Upstart, для координации работы с устройствами - Eudev, а для управления сеансами elogind. Размер установочного образа 1.9 ГБ. Актуальная ветка дистрибутива ALDOS 1.4 будет сопровождаться до конца сентября 2029 года.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Fedora Asahi Remix 40, дистрибутив для ARM-чипов Apple </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-40-distributiv-dlya-arm-chipov-apple-20240508-153524/</link>
+      <pubDate>Wed, 08 May 2024 15:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-40-distributiv-dlya-arm-chipov-apple-20240508-153524/</guid>
+      <description>Представлен дистрибутив Fedora Asahi Remix 40, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 40 базируется на пакетной базе Fedora Linux 40 и оснащён инсталлятором Calamares. Это второй выпуск, опубликованный после перехода проекта Asahi с Arch на Fedora, который помог команде Asahi Linux сфокусировать усилия на обратном инжиниринге оборудования, не расходуя ресурсы на поддержку дистрибутива, которым теперь занимается рабочая группа Fedora Asahi SIG.
+https://www.opennet.ru/opennews/art.shtml?num=61138</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 предложено сформировать официальную сборку с  композитным менеджером Miracle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-sformirovat-oficialnuyu-sborku-s-kompozitnym-menedzherom-miracle-20240425-013549/</link>
+      <pubDate>Thu, 25 Apr 2024 01:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-sformirovat-oficialnuyu-sborku-s-kompozitnym-menedzherom-miracle-20240425-013549/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek), разработчик из компании Canonical.
+https://www.opennet.ru/opennews/art.shtml?num=61065</description>
+    </item>
+    
+    <item>
+      <title>Проект Fedora представил ноутбук Fedora Slimbook 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-noutbuk-fedora-slimbook-2-20240424-023532/</link>
+      <pubDate>Wed, 24 Apr 2024 02:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-noutbuk-fedora-slimbook-2-20240424-023532/</guid>
+      <description>Проект Fedora представил ультрабук Fedora Slimbook 2, доступный в вариантах с 14- и 16-дюймовыми экранами. Устройство является модернизированным вариантом прошлых моделей, поставляемых с 14- и 16-дюймовыми экранами. Отличия проявляются в задействовании нового поколения CPU Intel 13 Gen i7, использовании графической карты NVIDIA RTX 4000 в варианте c 16-дюймовым экраном и доступности для заказа серебристого и чёрного корпуса из алюминиевого и магниевого сплава. Ноутбук подготовлен совместно с испанским поставщиком оборудования Slimbook.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Fedora Linux 40</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-40-20240423-203557/</link>
+      <pubDate>Tue, 23 Apr 2024 20:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-40-20240423-203557/</guid>
+      <description>Представлен релиз дистрибутива Fedora Linux 40. Для загрузки подготовлены продукты Fedora Workstation, Fedora Server, Fedora CoreOS, Fedora Cloud Base, Fedora IoT Edition и Live-сборки, поставляемые в форме спинов c десктоп-окружениями KDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway. Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64). Публикация сборок Fedora Silverblue задерживается.
+https://www.opennet.ru/opennews/art.shtml?num=61052</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 утверждён переход на пакетный менеджер DNF5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-utverzhden-perehod-na-paketnyy-menedzher-dnf5-20240411-073542/</link>
+      <pubDate>Thu, 11 Apr 2024 07:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-utverzhden-perehod-na-paketnyy-menedzher-dnf5-20240411-073542/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил задействование по умолчанию пакетного менеджера DNF5 в осеннем выпуске Fedora 41. Пакеты dnf, libdnf и dnf-cutomatic будут заменены в Fedora 41 на инструментарий DNF5 и новую библиотеку libdnf5, а символическая ссылка /usr/bin/dnf начнёт указывать на исполняемый файл dnf5.
+https://www.opennet.ru/opennews/art.shtml?num=60955</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Fedora Linux 40 перешёл на стадию бета-тестирования </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-40-pereshel-na-stadiyu-beta-testirovaniya-20240327-023516/</link>
+      <pubDate>Wed, 27 Mar 2024 02:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-40-pereshel-na-stadiyu-beta-testirovaniya-20240327-023516/</guid>
+      <description>Началось тестирование бета-версии дистрибутива Fedora Linux 40. Бета-выпуск ознаменовал переход на финальную стадию тестирования, при которой допускается только исправление критических ошибок. Релиз запланирован на 23 апреля. Выпуск охватывает Fedora Workstation, Fedora Server, Fedora Silverblue, Fedora IoT, Fedora CoreOS, Fedora Cloud Base, Fedora Onyx и Live-сборки, поставляемые в форме спинов c пользовательскими окружениями K предложилиDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway . Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64).</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намечен переход на пакетный менеджер DNF5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namechen-perehod-na-paketnyy-menedzher-dnf5-20240326-023524/</link>
+      <pubDate>Tue, 26 Mar 2024 02:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namechen-perehod-na-paketnyy-menedzher-dnf5-20240326-023524/</guid>
+      <description>В выпуске Fedora 41 предложено перевести дистрибутив по умолчанию на пакетный менеджер DNF5. Изначально, переход на DNF5 планировалось произвести в выпуске Fedora 39, но миграция была отложена из-за неготовности инструментария. Несмотря на то, что полный паритет в функциональности со старым инструментарием всё ещё не достигнут, разработчики считают, что дистрибутив готов к миграции, а недостающие возможности можно реализовать позднее. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.</description>
+    </item>
+    
+    <item>
+      <title>СУБД Redis переходит на проприетарную лицензию. Обсуждение удаления Redis из Fedora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</link>
+      <pubDate>Thu, 21 Mar 2024 15:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</guid>
+      <description>Компания Redis Ltd объявила об изменении лицензии на СУБД Redis, относящейся к классу NoSQL-систем. Начиная с выпуска Redis 7.4 код проекта будет распространяться под двумя проприетарными лицензиями RSALv2 (Redis Source Available License v2) и SSPLv1 (Server Side Public License v1), вместо ранее применявшейся лицензии BSD. Ранее под проприетарной лицензией поставлялся только код дополнительных модулей, в которых предлагались расширенные возможности для корпоративных пользователей (RediSearch, RedisGraph, RedisJSON, RedisML, RedisBloom и т.п.). Отныне проприетарная лицензия будет применяться и к основной кодовой базе СУБД.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намечено удаление из базовой поставки сеанса X11 для GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</link>
+      <pubDate>Thu, 07 Mar 2024 11:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namecheno-udalenie-iz-bazovoy-postavki-seansa-x11-dlya-gnome-20240307-113523/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил удаление пакета gnome-session-xsession, отвечающего за запуск сеанса GNOME на базе X-сервера. Изменение запланировано на выпуск Fedora 41, который будет сформирован осенью этого года. Из сеансов, поддерживаемых по умолчанию в Fedora Workstation 41, останется только Wayland, но пакеты для организации работы сеанса X11 по-прежнему можно будет установить из репозиториев.
+https://www.opennet.ru/opennews/art.shtml?num=60746</description>
+    </item>
+    
+    <item>
+      <title>Представлено семейство атомарно обновляемых дистрибутивов Fedora Atomic Desktops</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavleno-semeystvo-atomarno-obnovlyaemyh-distributivov-fedora-atomic-desktops-20240210-013509/</link>
+      <pubDate>Sat, 10 Feb 2024 01:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavleno-semeystvo-atomarno-obnovlyaemyh-distributivov-fedora-atomic-desktops-20240210-013509/</guid>
+      <description>Проект Fedora объявил об унификации именования пользовательских сборок дистрибутива Fedora Linux, в которых применяется атомарная модель обновления и монолитная компоновка системы. Подобные варианты дистрибутива выделены в отдельное семейство Fedora Atomic Desktops, сборки в котором будут именоваться &amp;ldquo;Fedora название_рабочего_стола Atomic&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60582</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Nobara 39, редакции Fedora с патчами для игр и обработки контента</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nobara-39-redakcii-fedora-s-patchami-dlya-igr-i-obrabotki-kontenta-20231227-133512/</link>
+      <pubDate>Wed, 27 Dec 2023 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nobara-39-redakcii-fedora-s-patchami-dlya-igr-i-obrabotki-kontenta-20231227-133512/</guid>
+      <description>Представлен выпуск дистрибутива Nobara 39, основанного на пакетной базе Fedora Linux 39 и включающего дополнительные исправления, решающие известные проблемы, проявляющиеся при запуске компьютерных игр, потоковом вещании и выполнении задач, связанных с созданием контента. Для загрузки подготовлены шесть установочных образов: официальный с KDE (3.6 ГБ), дополнительные с GNOME (3.5 ГБ) и KDE (3.5 ГБ), а также варианты данных образов с проприетарными драйверами NVIDIA. Официальный образ включает собственную тему оформления, а дополнительные образы предлагают исходное оформление GNOME и KDE.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora намерены объединить содержимое каталогов /usr/bin и /usr/sbin</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-namereny-obedinit-soderzhimoe-katalogov-usr-bin-i-usr-sbin-20231224-213559/</link>
+      <pubDate>Sun, 24 Dec 2023 21:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-namereny-obedinit-soderzhimoe-katalogov-usr-bin-i-usr-sbin-20231224-213559/</guid>
+      <description>В выпуске Fedora 40 предложено объединить содержимое каталогов /usr/bin и /usr/sbin, заменив каталог /usr/sbin на символическую ссылку, указывающую на /usr/bin. Преобразование /bin и /sbin в символические ссылки на /usr/bin и /usr/sbin было выполнено в 2012 году в Fedora 17. После сосредоточения всех исполняемых файлов в одном месте упоминание каталога /usr/sbin будет удалено из переменной окружения PATH. Предложение пока находится на стадии обсуждения и не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Fedora Asahi Remix 39, дистрибутив для ARM-чипов Apple</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-39-distributiv-dlya-arm-chipov-apple-20231220-023538/</link>
+      <pubDate>Wed, 20 Dec 2023 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-39-distributiv-dlya-arm-chipov-apple-20231220-023538/</guid>
+      <description>Представлен дистрибутив Fedora Asahi Remix 39, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 39 базируется на пакетной базе Fedora Linux 39 и оснащён инсталлятором Calamares. Это первый выпуск, опубликованный после перехода проекта Asahi с Arch на Fedora. Разработкой Fedora Asahi Remix занимается группа Fedora Asahi SIG и переход поможет команде Asahi Linux сфокусировать усилия на обратном инжиниринге оборудования, не расходуя ресурсы на поддержку дистрибутива.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 намечена реализация второй стадии внедрения универсальных образов ядра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-namechena-realizaciya-vtoroy-stadii-vnedreniya-universalnyh-obrazov-yadra-20231206-113524/</link>
+      <pubDate>Wed, 06 Dec 2023 11:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-namechena-realizaciya-vtoroy-stadii-vnedreniya-universalnyh-obrazov-yadra-20231206-113524/</guid>
+      <description>В выпуске Fedora Linux 40 планируют реализовать вторую стадию перехода на модернизированный процесс загрузки, предложенный Леннартом Поттерингом. Отличия от классической загрузки сводятся к использованию вместо образа initrd, формируемого на локальной системе при установке пакета с ядром, унифицированного образа ядра UKI (Unified Kernel Image), генерируемого в инфраструктуре дистрибутива и заверенного цифровой подписью дистрибутива. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=60244</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 планируют включить изоляцию системных сервисов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-vklyuchit-izolyaciyu-sistemnyh-servisov-20231121-013605/</link>
+      <pubDate>Tue, 21 Nov 2023 01:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-vklyuchit-izolyaciyu-sistemnyh-servisov-20231121-013605/</guid>
+      <description>В выпуске Fedora 40 предложено включить настройки изоляции для включаемых по умолчанию системных сервисов systemd, а также сервисов с важными приложениями, такими как PostgreSQL, Apache httpd, Nginx и MariaDB. Предполагается, что изменение позволит значительно повысить защищённость дистрибутива в конфигурации по умолчанию и даст возможность блокировать неизвестные уязвимости в системных сервисах. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora. Предложение также может быть отклонено в процессе рецензирования сообществом.</description>
+    </item>
+    
+    <item>
+      <title>Проект Fedora представил новый вариант ноутбука Fedora Slimbook</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-novyy-variant-noutbuka-fedora-slimbook-20231111-223534/</link>
+      <pubDate>Sat, 11 Nov 2023 22:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-novyy-variant-noutbuka-fedora-slimbook-20231111-223534/</guid>
+      <description>Проект Fedora представил новый вариант ультрабука Fedora Slimbook, оснащённый 14-дюймовым экраном. Устройство является более компактным и лёгким вариантом первой модели, поставляемой с 16-дюймовым экраном. Отличия также имеются в клавиатуре (нет боковых цифровых клавиш и более привычные клавиши управления курсором), видеокарте (Intel Iris X 4K вместо NVIDIA GeForce RTX 3050 Ti) и аккумуляторе (99WH вместо 82WH). Ноутбук подготовлен совместно с испанским поставщиком оборудования Slimbook.
+https://www.opennet.ru/opennews/art.shtml?num=60094</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Fedora Linux 39</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-39-20231107-193526/</link>
+      <pubDate>Tue, 07 Nov 2023 19:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-39-20231107-193526/</guid>
+      <description>Представлен релиз дистрибутива Fedora Linux 39. Для загрузки подготовлены продукты Fedora Workstation, Fedora Server, Fedora CoreOS, Fedora Cloud Base, Fedora IoT Edition и Live-сборки, поставляемые в форме спинов c десктоп-окружениями KDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway. Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64). Публикация сборок Fedora Silverblue задерживается.
+https://www.opennet.ru/opennews/art.shtml?num=60069</description>
+    </item>
+    
+    <item>
+      <title>20 лет с момента первого выпуска Fedora Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/20-let-s-momenta-pervogo-vypuska-fedora-linux-20231106-163525/</link>
+      <pubDate>Mon, 06 Nov 2023 16:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/20-let-s-momenta-pervogo-vypuska-fedora-linux-20231106-163525/</guid>
+      <description>Проект Fedora празднует 20 лет с момента первого релиза проекта, опубликованного 6 ноября 2003 года. Проект был сформирован после разделения компанией Red Hat дистрибутива Red Hat Linux на два проекта - развиваемый при участии сообщества Fedora Linux и коммерческий Red Hat Enterprise Linux. Fedora Linux был ориентирован на интенсивную разработку новых Linux-технологий, раннее продвижение новшеств и использование короткого цикла разработки для оперативного доведения новых значительных выпусков до пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=60058</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 утверждено прекращение поддержки сеанса KDE на базе X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-utverzhdeno-prekraschenie-podderzhki-seansa-kde-na-baze-x11-20231103-183523/</link>
+      <pubDate>Fri, 03 Nov 2023 18:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-utverzhdeno-prekraschenie-podderzhki-seansa-kde-na-baze-x11-20231103-183523/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил план поставки новой ветки пользовательского окружения KDE Plasma 6 в весеннем выпуске Fedora 40. Кроме обновления версии KDE переход на новую ветку определяет прекращение поддержки сеанса на основе протокола X11 и оставление только сеанса на базе протокола Wayland, поддержка запуска X11-приложений в котором будет предоставлена при помощи DDX-сервера XWayland. Продолжение поставки в Fedora 40 окружения KDE Plasma 5 с сеансом X11 признано нецелесообразным из-за отсутствия ресурсов на самостоятельное сопровождение отдельной устаревшей ветки в условиях переключения основного проекта KDE на развитие Plasma 6 и перевода KDE 5 в разряд устаревших.</description>
+    </item>
+    
+    <item>
+      <title>Инициатива Fedora Atomic Desktop</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-fedora-atomic-desktop-20231018-113546/</link>
+      <pubDate>Wed, 18 Oct 2023 11:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-fedora-atomic-desktop-20231018-113546/</guid>
+      <description>Сопровождающие официальные редакции дистрибутива Fedora Linux, в которых применяется атомарное обновление системы, выступили с инициативой использования единого имени Fedora Atomic Desktop для сборок, начинка которых не разделяется на отдельные пакеты и обновляется атомарно. Для наименования атомарных редакций предлагается использовать имя &amp;ldquo;Fedora название_рабочего_стола Atomic&amp;rdquo;, например, атомарная сборка с Xfce будет распространяться как Fedora Xfce Atomic.
+https://www.opennet.ru/opennews/art.shtml?num=59946</description>
+    </item>
+    
+    <item>
+      <title>Проект Fedora представил ноутбук Fedora Slimbook</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-noutbuk-fedora-slimbook-20231011-193505/</link>
+      <pubDate>Wed, 11 Oct 2023 19:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-fedora-predstavil-noutbuk-fedora-slimbook-20231011-193505/</guid>
+      <description>Проект Fedora представил ультрабук Fedora Slimbook, подготовленный совместно с испанским поставщиком оборудования Slimbook. Устройство оптимизировано для работы дистрибутива Fedora Linux и специально тестируется для достижения высокого уровня стабильности окружения и совместимости программного обеспечения с оборудованием. Начальная стоимость устройства заявлена в 1799 евро, при этом 3% выручки от продажи устройств планируют направлять в качестве пожертвования организации GNOME Foundation.
+https://www.opennet.ru/opennews/art.shtml?num=59910</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Fedora Linux 39 перешёл на стадию бета-тестирования </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-39-pereshel-na-stadiyu-beta-testirovaniya-20230922-013504/</link>
+      <pubDate>Fri, 22 Sep 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-39-pereshel-na-stadiyu-beta-testirovaniya-20230922-013504/</guid>
+      <description>Началось тестирование бета-версии дистрибутива Fedora Linux 39. Бета-выпуск ознаменовал переход на финальную стадию тестирования, при которой допускается только исправление критических ошибок. Релиз запланирован на 17 октября. Выпуск охватывает Fedora Workstation, Fedora Server, Fedora Silverblue, Fedora IoT, Fedora CoreOS, Fedora Cloud Base, Fedora Onyx и Live-сборки, поставляемые в форме спинов c пользовательскими окружениями KDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway . Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64).</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 40 планируют прекратить поддержу X11 в окружении KDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-prekratit-podderzhu-x11-v-okruzhenii-kde-20230914-153506/</link>
+      <pubDate>Thu, 14 Sep 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-40-planiruyut-prekratit-podderzhu-x11-v-okruzhenii-kde-20230914-153506/</guid>
+      <description>Разработчики проекта Fedora намерены перейти на использование пользовательского окружения KDE Plasma 6 в весеннем выпуске Fedora 40. Отмечается, что переход на KDE 6 позволит полностью прекратить поддержку сеанса на основе протокола X11, оставив только возможность использования Wayland. Поддержка запуска X11-приложений в сеансе на основе Wayland будет предоставлена при помощи DDX-сервера XWayland. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=59751</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Bazzite 1.0, редакции Fedora Silverblue для любителей компьютерных игр</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bazzite-1-0-redakcii-fedora-silverblue-dlya-lyubiteley-kompyuternyh-igr-20230821-143505/</link>
+      <pubDate>Mon, 21 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bazzite-1-0-redakcii-fedora-silverblue-dlya-lyubiteley-kompyuternyh-igr-20230821-143505/</guid>
+      <description>Представлен первый выпуск проекта Bazzite, развивающего специализированную сборку Fedora Linux 38, оптимизированную для запуска компьютерных игр. Сборка основана на технологиях Fedora Silverblue, использует для формирования базовой системы OSTree-репоизитории ublue-os без разделения на отдельные пакеты, а обновление производит в атомарном режиме через замену системного образа. Установочный образ сформирован для архитектуры x86_64 (685 MB).
+https://www.opennet.ru/opennews/art.shtml?num=59635</description>
+    </item>
+    
+    <item>
+      <title>Проект Asahi переводит свой дистрибутив для ARM-чипов Apple на Fedora Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-asahi-perevodit-svoy-distributiv-dlya-arm-chipov-apple-na-fedora-linux-20230803-003542/</link>
+      <pubDate>Thu, 03 Aug 2023 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-asahi-perevodit-svoy-distributiv-dlya-arm-chipov-apple-na-fedora-linux-20230803-003542/</guid>
+      <description>Проект Asahi, нацеленный на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипами, разработанными компанией Apple, объявил о переходе на новую основу для своего дистрибутива. До сих пор тестовые выпуски Asahi Linux базировались на пакетной базе Arch Linux. До конца августа 2023 года проект планирует перейти с Arch Linux ARM на редакцию Fedora Linux - Fedora Asahi Remix, разработкой которой занимается группа Fedora Asahi SIG. Сборки и инсталлятор Fedora Asahi Remix уже доступны для тестирования.</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Fedora рассматривают возможность включения телеметрии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-fedora-rassmatrivayut-vozmozhnost-vklyucheniya-telemetrii-20230707-143506/</link>
+      <pubDate>Fri, 07 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-fedora-rassmatrivayut-vozmozhnost-vklyucheniya-telemetrii-20230707-143506/</guid>
+      <description>Ифе Молони (Aoife Moloney) из команды развития платформы Fedora (Community Platform Engineering Team) и	Майкл Катандзаро (Michael Catanzaro), разработчик браузера Epiphany и WebKitGTK из компании Red Hat, предложили включить в Fedora Workstation 40 механизм сбора телеметрии, учитывающий интересы пользователей по обеспечению конфиденциальности. Предполагается, что собираемая информация о системах даст возможность лучше понять предпочтения пользователей и учесть их при принятии решений, связанных с развитием дистрибутива, определением приоритетов в разработке и повышением удобства работы.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora Workstation 39 планируют задействовать новый инсталлятор на основе web-интерфейса </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-workstation-39-planiruyut-zadeystvovat-novyy-installyator-na-osnove-web-interfeys-20230627-173505/</link>
+      <pubDate>Tue, 27 Jun 2023 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-workstation-39-planiruyut-zadeystvovat-novyy-installyator-na-osnove-web-interfeys-20230627-173505/</guid>
+      <description>В выпуске Fedora 39 предложено.
+https://www.opennet.ru/opennews/art.shtml?num=59348</description>
+    </item>
+    
+    <item>
+      <title>Red Hat прекратит подготовку rpm-пакетов с LibreOffice для RHEL и Fedora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-prekratit-podgotovku-rpm-paketov-s-libreoffice-dlya-rhel-i-fedora-20230602-233508/</link>
+      <pubDate>Fri, 02 Jun 2023 23:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-prekratit-podgotovku-rpm-paketov-s-libreoffice-dlya-rhel-i-fedora-20230602-233508/</guid>
+      <description>Маттиас Класен (Matthias Clasen), лидер Fedora Desktop Team и участник GNOME Release Team, сообщил о решении компании Red Hat прекратить поставку RPM-пакетов с LibreOffice в следующей значительной ветке дистрибутива Red Hat Enterprise Linux 10, а также ограничить своё участие в разработке пакетов с LibreOffice для Fedora, сопровождением которых ранее занимались работники Red Hat. Пользователям желающим установить LibreOffice будет предложено использовать пакеты в формате Flatpak.
+https://www.opennet.ru/opennews/art.shtml?num=59238</description>
+    </item>
+    
+    <item>
+      <title>Red Hat упразднил должность Fedora Program Manager</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-uprazdnil-dolzhnost-fedora-program-manager-20230515-013506/</link>
+      <pubDate>Mon, 15 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-uprazdnil-dolzhnost-fedora-program-manager-20230515-013506/</guid>
+      <description>В рамках ранее объявленного сокращения 4% персонала, компания Red Hat упразднила должность Fedora Program Manager (исполнительный директор проекта Fedora) и уволила Бена Коттона (Ben Cotton), ранее занимавшего данный пост. Мотивы сокращения должности не сообщаются.
+https://www.opennet.ru/opennews/art.shtml?num=59133</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 39 предложено опубликовать атомарно обновляемую сборку Fedora Onyx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-39-predlozheno-opublikovat-atomarno-obnovlyaemuyu-sborku-fedora-onyx-20230501-003507/</link>
+      <pubDate>Mon, 01 May 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-39-predlozheno-opublikovat-atomarno-obnovlyaemuyu-sborku-fedora-onyx-20230501-003507/</guid>
+      <description>Джошуа Стробл (Joshua Strobl), ключевой разработчик проекта Budgie, опубликовал предложение о включении в число официальных сборок Fedora Onyx, атомарно обновляемого варианта Fedora Linux с пользовательским окружением Budgie, дополняющего классическую сборку Fedora Budgie Spin и напоминающего редакции Fedora Silverblue, Fedora Sericea и Fedora Kinoite, поставляемые с GNOME, Sway и KDE. Редакцию Fedora Onyx предлагают поставлять начиная с выпуска Fedora Linux 39, но предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Fedora Linux 38</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-38-20230418-203509/</link>
+      <pubDate>Tue, 18 Apr 2023 20:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-fedora-linux-38-20230418-203509/</guid>
+      <description>Представлен релиз дистрибутива Fedora Linux 38. Для загрузки подготовлены продукты Fedora Workstation, Fedora Server, Fedora CoreOS, Fedora Cloud Base, Fedora IoT Edition и Live-сборки, поставляемые в форме спинов c десктоп-окружениями KDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway. Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64). Публикация сборок Fedora Silverblue задерживается.
+https://www.opennet.ru/opennews/art.shtml?num=58995</description>
+    </item>
+    
+    <item>
+      <title>В Fedora рассматривают возможность применения шифрования ФС по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-rassmatrivayut-vozmozhnost-primeneniya-shifrovaniya-fs-po-umolchaniyu-20230404-163503/</link>
+      <pubDate>Tue, 04 Apr 2023 16:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-rassmatrivayut-vozmozhnost-primeneniya-shifrovaniya-fs-po-umolchaniyu-20230404-163503/</guid>
+      <description>Оуэн Тейлор (Owen Taylor), создатель GNOME Shell и библиотеки Pango, входящий в рабочую группу по развитию Fedora для рабочих станций, выставил на обсуждение план шифрования по умолчанию системных разделов и домашних каталогов пользователей в Fedora Workstation. Из плюсов перехода к шифрованию по умолчанию называется защита данных в случае кражи ноутбука, защита от атак на оставленные без присмотра устройства, поддержание конфиденциальности и целостности из коробки без необходимости совершения лишних манипуляций.
+https://www.opennet.ru/opennews/art.shtml?num=58916</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Fedora Linux 38 перешёл на стадию бета-тестирования </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-38-pereshel-na-stadiyu-beta-testirovaniya-20230315-123503/</link>
+      <pubDate>Wed, 15 Mar 2023 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-38-pereshel-na-stadiyu-beta-testirovaniya-20230315-123503/</guid>
+      <description>Началось тестирование бета-версии дистрибутива Fedora Linux 38. Бета-выпуск ознаменовал переход на финальную стадию тестирования, при которой допускается только исправление критических ошибок. Релиз запланирован на 18 апреля. Выпуск охватывает Fedora Workstation, Fedora Server, Fedora Silverblue, Fedora IoT, Fedora CoreOS, Fedora Cloud Base и Live-сборки, поставляемые в форме спинов c пользовательскими окружениями KDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway . Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64).</description>
+    </item>
+    
+  </channel>
+</rss>

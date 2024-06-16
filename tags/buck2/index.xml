@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buck2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/buck2/</link>
+    <description>Recent content in Buck2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Apr 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/buck2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook опубликовал систему сборки Buck2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-sistemu-sborki-buck2-20230407-153504/</link>
+      <pubDate>Fri, 07 Apr 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-sistemu-sborki-buck2-20230407-153504/</guid>
+      <description>Facebook представил новую сборочную систему Buck2, ориентированную на организацию сборки проектов из очень крупных репозиториев, включающих код на разных языках программирования. Ключевыми отличиями новой реализации от ранее применявшейся в Facebook системы Buck является использование языка Rust вместо Java и существенное увеличение эффективности и производительности сборочного процесса (во внутренних тестах в той же инфраструктуре Buck2 выполняет сборочные задания быстрее Buck в два раза). Код распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58933</description>
+    </item>
+    
+  </channel>
+</rss>

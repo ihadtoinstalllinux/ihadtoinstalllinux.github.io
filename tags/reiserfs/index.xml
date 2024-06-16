@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReiserFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/reiserfs/</link>
+    <description>Recent content in ReiserFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 13:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/reiserfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ханс Райзер прокомментировал перевод ReiserFS в разряд устаревших</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/hans-rayzer-prokommentiroval-perevod-reiserfs-v-razryad-ustarevshih-20240119-133524/</link>
+      <pubDate>Fri, 19 Jan 2024 13:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/hans-rayzer-prokommentiroval-perevod-reiserfs-v-razryad-ustarevshih-20240119-133524/</guid>
+      <description>В списке рассылки разработчиков ядра Linux опубликованы письма, полученные одним из разработчиков в ходе переписки с Хансом Райзером (Hans Reiser), в 2008 году приговорённым к пожизненному заключению за убийство своей жены в результате ссоры с последующей попыткой сокрытия преступления (в 2027 году Ханс сможет подать ходатайство на условно-досрочное освобождение).
+https://www.opennet.ru/opennews/art.shtml?num=60461</description>
+    </item>
+    
+    <item>
+      <title>Файловая система ReiserFS объявлена устаревшей в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/faylovaya-sistema-reiserfs-obyavlena-ustarevshey-v-yadre-linux-20230831-223506/</link>
+      <pubDate>Thu, 31 Aug 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/faylovaya-sistema-reiserfs-obyavlena-ustarevshey-v-yadre-linux-20230831-223506/</guid>
+      <description>В кодовую базу, на основе которой формируется ядро Linux 6.6, принято изменение, переводящее реализацию файловой системы ReiserFS из категории поддерживаемых в разряд устаревших (Obsolete). Ранее вопрос об удалении файловой системы ReiserFS из ядра Linux обсуждался в феврале 2022 года и привёл к добавлению в ядро 5.18 примечания об устаревании (Deprecate) ReiserFS, намерении прекратить её поддержку до 2025 года и рекомендации перевести существующие окружения на btrfs, xfs или ext4. В качестве причины перевода ReiserFS в разряд устаревших было заявлено желание снизить трудозатраты на сопровождение общих для файловых систем изменений, связанных с поддержкой нового API для монтирования, iomap и фолиантов.</description>
+    </item>
+    
+  </channel>
+</rss>

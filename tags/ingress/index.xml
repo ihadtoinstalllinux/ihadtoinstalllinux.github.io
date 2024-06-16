@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ingress on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ingress/</link>
+    <description>Recent content in ingress on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 11:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ingress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в ingress-nginx, позволяющие скомпрометировать кластеры Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</link>
+      <pubDate>Mon, 06 Nov 2023 11:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</guid>
+      <description>В развиваемом проектом Kubernetes ingress-контроллере ingress-nginx выявлены три уязвимости, позволяющие в конфигурации по умолчанию получить доступ к настройкам объекта Ingress, в которых, среди прочего, хранятся и учётные данные для обращения к серверам Kubernetes, позволяющие получить привилегированный доступ к кластеру. Проблемы проявляются только в ingress-контроллере ingress-nginx от проекта Kubernetes и не затрагивает контроллер kubernetes-ingress, развиваемый разработчиками NGINX.
+https://www.opennet.ru/opennews/art.shtml?num=60055</description>
+    </item>
+    
+  </channel>
+</rss>

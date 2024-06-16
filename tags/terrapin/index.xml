@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Terrapin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/terrapin/</link>
+    <description>Recent content in Terrapin on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 01:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/terrapin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terrapin - уязвимость в протоколе SSH, позволяющая снизить защиту соединения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/terrapin-uyazvimost-v-protokole-ssh-pozvolyayuschaya-snizit-zaschitu-soedineniya-20231219-013544/</link>
+      <pubDate>Tue, 19 Dec 2023 01:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/terrapin-uyazvimost-v-protokole-ssh-pozvolyayuschaya-snizit-zaschitu-soedineniya-20231219-013544/</guid>
+      <description>Группа исследователей из Рурского университета в Бохуме (Германия) представила новую технику MITM-атаки на SSH - Terrapin, эксплуатирующую уязвимость (CVE-2023-48795) в протоколе. Атакующий, способный организовать MITM-атаку, имеет возможность в процессе согласования соединения блокировать отправку сообщения с настройкой расширений протокола для снижения уровня защиты соединения. Прототип инструментария для совершения атаки опубликован на GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=60304</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Steam on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/steam/</link>
+    <description>Recent content in Steam on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2024 02:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Arch Linux улучшили совместимость c Windows-играми, запускаемыми в Wine и Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</link>
+      <pubDate>Thu, 11 Apr 2024 02:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</guid>
+      <description>Разработчики Arch Linux объявили о внесении изменения, нацеленного на улучшение совместимости c Windows-играми, запускаемыми через Wine или Steam (используется Proton). По аналогии с изменением в выпуске Fedora 39, параметр sysctl vm.max_map_count, определяющий максимально доступное процессу число областей маппинга памяти, по умолчанию увеличен с 65530 до 1048576. Изменение включено в состав пакета filesystem 2024.04.07-1.
+https://www.opennet.ru/opennews/art.shtml?num=60950</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve открыла код инструментария Steam Audio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-otkryla-kod-instrumentariya-steam-audio-20240220-123535/</link>
+      <pubDate>Tue, 20 Feb 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-otkryla-kod-instrumentariya-steam-audio-20240220-123535/</guid>
+      <description>Компания Valve объявила об открытии исходного кода инструментария для работы с объёмным звуком Steam Audio SDK и всех связанных с ним плагинов. Код написан на языке С++ и опубликован под лицензией Apache 2.0, позволяющей адаптировать Steam Audio для своих потребностей и задействовать модифицированные версии в различных продуктах, в том числе в коммерческих, без необходимости открытия исходных текстов внесённых изменений. Заинтересованные в развитии Steam Audio разработчики из сообщества также получили возможность участия в разработке и передачи своих изменений в проект.</description>
+    </item>
+    
+    <item>
+      <title>75% игр из Steam могут использоваться для игры в окружении Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/75-igr-iz-steam-mogut-ispolzovatsya-dlya-igry-v-okruzhenii-linux-20230705-023640/</link>
+      <pubDate>Wed, 05 Jul 2023 02:36:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/75-igr-iz-steam-mogut-ispolzovatsya-dlya-igry-v-okruzhenii-linux-20230705-023640/</guid>
+      <description>Из 13306 игр, представленных в каталоге Steam, 75% (около 10 тысяч).
+https://www.opennet.ru/opennews/art.shtml?num=59382</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск клиента Steam c переделанным интерфейсом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-klienta-steam-c-peredelannym-interfeysom-20230615-143531/</link>
+      <pubDate>Thu, 15 Jun 2023 14:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-klienta-steam-c-peredelannym-interfeysom-20230615-143531/</guid>
+      <description>Компания Valve представила новый значительный выпуск клиента сервиса доставки игр Steam для Linux. Число игр для Linux, доступных в каталоге Steam, доведено до 11132. По данным сервиса Steam Database пользователи Linux запускают через Steam 1252 игры.
+https://www.opennet.ru/opennews/art.shtml?num=59300</description>
+    </item>
+    
+    <item>
+      <title>Nintendo добилась удаления эмулятора Dolphin из каталога Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nintendo-dobilas-udaleniya-emulyatora-dolphin-iz-kataloga-steam-20230601-193507/</link>
+      <pubDate>Thu, 01 Jun 2023 19:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nintendo-dobilas-udaleniya-emulyatora-dolphin-iz-kataloga-steam-20230601-193507/</guid>
+      <description>Компания Valve удалила страницу (архивная копия) предстоящего релиза эмулятора Dolphin на платформе Steam после получения письма от юристов компании Nintendo в котором упоминалось нарушение в проекте действующего в США Законе об авторском праве в цифровую эпоху (письмо было не официальным требованием, а просьбой и предложением обсудить ситуацию, если возникнут вопросы). Проект Dolphin распространяется под лицензией GPLv2+ и развивает эмулятор игровых консолей Nintendo GameCube и Wii, позволяющий запускать подготовленные для указанных консолей игры на обычном ПК в режиме full HD.</description>
+    </item>
+    
+  </channel>
+</rss>

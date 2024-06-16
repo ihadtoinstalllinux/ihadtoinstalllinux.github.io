@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OPAL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opal/</link>
+    <description>Recent content in OPAL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 02:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Cryptsetup 2.7 с поддержкой аппаратного дискового шифрования OPAL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cryptsetup-2-7-s-podderzhkoy-apparatnogo-diskovogo-shifrovaniya-opal-20240125-023556/</link>
+      <pubDate>Thu, 25 Jan 2024 02:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cryptsetup-2-7-s-podderzhkoy-apparatnogo-diskovogo-shifrovaniya-opal-20240125-023556/</guid>
+      <description>Опубликован набор утилит Cryptsetup 2.7, предназначенных для настройки шифрования дисковых разделов в Linux при помощи модуля dm-crypt. Поддерживается работа с разделами dm-crypt, LUKS, LUKS2, BITLK, loop-AES и TrueCrypt/VeraCrypt. В состав также входят утилиты veritysetup и integritysetup для настройки средств контроля целостности данных на основе модулей dm-verity и dm-integrity.
+https://www.opennet.ru/opennews/art.shtml?num=60493</description>
+    </item>
+    
+  </channel>
+</rss>

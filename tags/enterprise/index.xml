@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Enterprise on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/enterprise/</link>
+    <description>Recent content in Enterprise on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2024 13:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/enterprise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 8.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-10-20240525-133541/</link>
+      <pubDate>Sat, 25 May 2024 13:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-10-20240525-133541/</guid>
+      <description>Следом за выпуском Red Hat Enterprise Linux 9.4 опубликовано обновление прошлой ветки Red Hat Enterprise Linux 8.10, которая сопровождается параллельно с веткой RHEL 9.x и будет поддерживаться как минимум до 2029 года. Установочные сборки подготовлены для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64, но доступны для загрузки только зарегистрированным пользователям Red Hat Customer Portal (также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков).
+https://www.opennet.ru/opennews/art.shtml?num=61247</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitHub Enterprise Server, дающая права администратора без аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</link>
+      <pubDate>Tue, 21 May 2024 11:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</guid>
+      <description>В корректирующих обновлениях платформы GitHub Enterprise Server 3.12.4, 3.11.10, 3.10.12 и 3.9.15, предназначенной для развёртывания на собственном оборудовании обособленного окружения для совместной разработки на основе технологий GitHub, выявлена уязвимость (CVE-2024-4985), позволяющая получить доступ с правами администратора без прохождения аутентификации. Проблема проявляется только в конфигурациях с единой точкой входа на основе технологии SAML, в которых включено шифрование сообщений от провайдеров идентификации (&amp;ldquo;encrypted assertions&amp;rdquo;). По умолчанию данный режим отключён, но преподносится как дополнительная возможность для усиления безопасности, активируемая в настройках &amp;ldquo;Settings/Authentication/Require encrypted assertions&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 9.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-4-20240502-143553/</link>
+      <pubDate>Thu, 02 May 2024 14:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-4-20240502-143553/</guid>
+      <description>Компания Red Hat опубликовала релиз дистрибутива Red Hat Enterprise Linux 9.4. Готовые установочные образы доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64).
+https://www.opennet.ru/opennews/art.shtml?num=61100</description>
+    </item>
+    
+    <item>
+      <title>Изменения в подготовке промежуточных выпусков Red Hat Enterprise Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izmeneniya-v-podgotovke-promezhutochnyh-vypuskov-red-hat-enterprise-linux-20240221-003536/</link>
+      <pubDate>Wed, 21 Feb 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izmeneniya-v-podgotovke-promezhutochnyh-vypuskov-red-hat-enterprise-linux-20240221-003536/</guid>
+      <description>Компания Red Hat объявила о об изменении процесса подготовки промежуточных выпусков дистрибутива Red Hat Enterprise Linux. Начиная с версии RHEL 9.5 пакеты для будущего промежуточного обновления будут выпускаться раньше с использованием непрерывного цикла публикации, без привязки к релизу. Полный релиз будет сопровождаться обновлением документации, установочных носителей и образов виртуальных машин.
+https://www.opennet.ru/opennews/art.shtml?num=60632</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 8.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-9-20231119-143525/</link>
+      <pubDate>Sun, 19 Nov 2023 14:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-9-20231119-143525/</guid>
+      <description>Следом за выпуском Red Hat Enterprise Linux 9.3 опубликовано обновление прошлой ветки Red Hat Enterprise Linux 8.9, которая сопровождается параллельно с веткой RHEL 9.x и будет поддерживаться как минимум до 2029 года. Установочные сборки подготовлены для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64, но доступны для загрузки только зарегистрированным пользователям Red Hat Customer Portal (также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков).
+https://www.opennet.ru/opennews/art.shtml?num=60142</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 9.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-3-20231113-223522/</link>
+      <pubDate>Mon, 13 Nov 2023 22:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-3-20231113-223522/</guid>
+      <description>Компания Red Hat опубликовала релиз дистрибутива Red Hat Enterprise Linux 9.3 (новая ветка была анонсирована на прошлой неделе, но примечания к релизу были размещены только вчера, а до этого на сайте оставался признак бета-версии). Обновление прошлой ветки RHEL 8.9 ожидается 15 ноября. Готовые установочные образы доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64).</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux отошёл от полного клонирования Red Hat Enterprise Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-otoshel-ot-polnogo-klonirovaniya-red-hat-enterprise-linux-20230714-113508/</link>
+      <pubDate>Fri, 14 Jul 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-otoshel-ot-polnogo-klonirovaniya-red-hat-enterprise-linux-20230714-113508/</guid>
+      <description>Проект AlmaLinux объявил об изменении стратегии развития - дистрибутив больше не будет полностью клонировать Red Hat Enterprise Linux и станет допускать наличие незначительных расхождений в поведении (будет допускаться применение/отсутствие каких-то отдельных патчей). При этом проект сохранит бинарную совместимость на уровне ABI и по-прежнему сможет использоваться в качестве замены RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59439</description>
+    </item>
+    
+    <item>
+      <title>ОС «Альт Сервер» 10 прошла испытания на совместимость с почтовыми серверами TEGU FreeWare, TEGU Professional и TEGU Enterprise</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/os-alt-server-10-proshla-ispytaniya-na-sovmestimost-s-pochtovymi-serverami-tegu-freeware-t-20230706-213536/</link>
+      <pubDate>Thu, 06 Jul 2023 21:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/os-alt-server-10-proshla-ispytaniya-na-sovmestimost-s-pochtovymi-serverami-tegu-freeware-t-20230706-213536/</guid>
+      <description>Операционная система «Альт Сервер» 10 компании «Базальт СПО» успешно прошла испытания на совместимость с почтовыми серверами TEGU FreeWare, TEGU Professional, TEGU Enterprise компании ООО «Лаборатория МБК».
+https://www.basealt.ru/about/news/archive/view/os-alt-server-10-proshla-ispytanija-na-sovmestimost-s-pochtovymi-serverami-tegu-freeware-tegu-professional-i-tegu-enterprise</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив SUSE Linux Enterprise 15 SP5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-suse-linux-enterprise-15-sp5-20230621-133505/</link>
+      <pubDate>Wed, 21 Jun 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-suse-linux-enterprise-15-sp5-20230621-133505/</guid>
+      <description>После года разработки компания SUSE представила релиз дистрибутива SUSE Linux Enterprise 15 SP5. На основе платформы SUSE Linux Enterprise сформированы такие продукты, как SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, SUSE Manager и SUSE Linux Enterprise High Performance Computing. Дистрибутив можно загрузить и использовать бесплатно, но доступ к получению обновлений и исправлений ограничен 60-дневным пробным периодом. Выпуск доступен в сборках для архитектур aarch64, ppc64le, s390x и x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=59319</description>
+    </item>
+    
+    <item>
+      <title>СУБД Postgres Pro Enterprise 15 получила сертификат соответствия ФСТЭК РФ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-postgres-pro-enterprise-15-poluchila-sertifikat-sootvetstviya-fstek-rf-20230522-183506/</link>
+      <pubDate>Mon, 22 May 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-postgres-pro-enterprise-15-poluchila-sertifikat-sootvetstviya-fstek-rf-20230522-183506/</guid>
+      <description>Компания Postgres Professional выпустила первое обновление 15-й версии проприетарной СУБД Postgres Pro Certified для редакции Enterprise, основанной на кодовой базе PostgreSQL и включающей дополнительные возможности, такие как мультимастер репликацию, сжатие данных на уровне блоков, инкрементальное резервное копирование, встроенный пулер соединений, оптимизированное секционирование таблиц, улучшенный полнотекстовый поиск, автоматическую компиляцию и планирование запросов. Обновлённый выпуск сертифицированной версии поддерживает четыре версии ядра СУБД: 11.19.1, 13.10.2, 14.7.1 и 15.2.1. Сертификат соответствия ФСТЭК РФ №4063 переоформлен 4 мая 2023 года.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 8.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-8-20230521-013506/</link>
+      <pubDate>Sun, 21 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-8-8-20230521-013506/</guid>
+      <description>Следом за выпуском Red Hat Enterprise Linux 9.2 опубликовано обновление прошлой ветки Red Hat Enterprise Linux 8.8, которая сопровождается параллельно с веткой RHEL 9.x и будет поддерживаться как минимум до 2029 года. Установочные сборки подготовлены для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64, но доступны для загрузки только зарегистрированным пользователям Red Hat Customer Portal (также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Исходные тексты rpm-пакетов Red Hat Enterprise Linux 8 распространяются через Git-репозиторий CentOS.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Red Hat Enterprise Linux 9.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-2-20230511-173504/</link>
+      <pubDate>Thu, 11 May 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-red-hat-enterprise-linux-9-2-20230511-173504/</guid>
+      <description>Компания Red Hat опубликовала релиз дистрибутива Red Hat Enterprise Linux 9.2. Готовые установочные образы доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64). Исходные тексты rpm-пакетов Red Hat Enterprise Linux 9 размещены в Git-репозитории CentOS. Одновременно представлено обновление прошлой ветки RHEL 8.8, релиз которого планируется выпустить в ближайшие дни (в настоящее время доступна только бета-версия).</description>
+    </item>
+    
+    <item>
+      <title>Третий прототип платформы ALP, идущей на смену SUSE Linux Enterprise</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tretiy-prototip-platformy-alp-iduschey-na-smenu-suse-linux-enterprise-20230404-173504/</link>
+      <pubDate>Tue, 04 Apr 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tretiy-prototip-platformy-alp-iduschey-na-smenu-suse-linux-enterprise-20230404-173504/</guid>
+      <description>Компания SUSE опубликовала третий прототип платформы ALP &amp;ldquo;Piz Bernina&amp;rdquo; (Adaptable Linux Platform), позиционируемой как продолжение развития дистрибутива SUSE Linux Enterprise. Ключевым отличием ALP является разделение базовой основы дистрибутива на две части: урезанную &amp;ldquo;host OS&amp;rdquo; для работы поверх оборудования и слой для поддержки приложений, ориентированный на запуск в контейнерах и виртуальных машинах. ALP изначально развивается с использованием открытого процесса разработки, при котором промежуточные сборки и результаты тестирования публично доступны всем желающим.</description>
+    </item>
+    
+  </channel>
+</rss>

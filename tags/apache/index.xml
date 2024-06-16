@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apache/</link>
+    <description>Recent content in Apache on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна интегрированная среда разработки Apache NetBeans 22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-apache-netbeans-22-20240530-143506/</link>
+      <pubDate>Thu, 30 May 2024 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-apache-netbeans-22-20240530-143506/</guid>
+      <description>Представлен выпуск интегрированной среды разработки Apache NetBeans 22, которая предоставляет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy. Готовые сборки в ближайшее время будут сформированы для Linux (snap, flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=61273</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-серверов Lighttpd 1.4.76 и Apache httpd 2.4.59</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-serverov-lighttpd-1-4-76-i-apache-httpd-2-4-59-20240414-153600/</link>
+      <pubDate>Sun, 14 Apr 2024 15:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-serverov-lighttpd-1-4-76-i-apache-httpd-2-4-59-20240414-153600/</guid>
+      <description>Опубликован релиз легковесного http-сервера lighttpd 1.4.76, ориентированного на сочетание высокой производительности, безопасности, соответствия стандартам и гибкости настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60990</description>
+    </item>
+    
+    <item>
+      <title>Четыре уязвимости в Apache OpenOffice</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chetyre-uyazvimosti-v-apache-openoffice-20231229-113520/</link>
+      <pubDate>Fri, 29 Dec 2023 11:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chetyre-uyazvimosti-v-apache-openoffice-20231229-113520/</guid>
+      <description>В недавно представленном выпуске офисного пакета Apache OpenOffice 4.1.15 без лишней огласки (информация раскрыта через несколько дней после релиза и изначально сведения об уязвимостях не упоминались в списке изменений) устранены четыре уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=60361</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Apache OpenOffice 4.1.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-apache-openoffice-4-1-15-20231228-003540/</link>
+      <pubDate>Thu, 28 Dec 2023 00:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-apache-openoffice-4-1-15-20231228-003540/</guid>
+      <description>Доступен корректирующий релиз офисного пакета Apache OpenOffice 4.1.15, в котором предложено 14 исправлений. Готовые пакеты подготовлены для Linux, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60356</description>
+    </item>
+    
+    <item>
+      <title>Доступна интегрированная среда разработки Apache NetBeans 20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-apache-netbeans-20-20231202-163545/</link>
+      <pubDate>Sat, 02 Dec 2023 16:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-integrirovannaya-sreda-razrabotki-apache-netbeans-20-20231202-163545/</guid>
+      <description>Представлен выпуск интегрированной среды разработки Apache NetBeans 20, которая предоставляет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy. Готовые сборки сформированы для Linux (snap, flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60220</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.58  с устранением DoS-уязвимостей в HTTP/2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-58-s-ustraneniem-dos-uyazvimostey-v-http-2-20231022-013604/</link>
+      <pubDate>Sun, 22 Oct 2023 01:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-58-s-ustraneniem-dos-uyazvimostey-v-http-2-20231022-013604/</guid>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.58, в котором представлено 33 изменения и устранены три уязвимости, две из которых связаны с возможностью осуществления DoS-атаки на системы, использующие протокол HTTP/2.
+https://www.opennet.ru/opennews/art.shtml?num=59971</description>
+    </item>
+    
+    <item>
+      <title>Выпуск распределённого хранилища Apache Pinot 1.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-raspredelennogo-hranilischa-apache-pinot-1-0-20230920-113505/</link>
+      <pubDate>Wed, 20 Sep 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-raspredelennogo-hranilischa-apache-pinot-1-0-20230920-113505/</guid>
+      <description>Организации Apache Software Foundation представила выпук распределённого OLAP-хранилища Apache Pinot 1.0, предназначенного для выполнения аналитических запросов. Изначально проект Pinot был разработан компанией LinkedIn и в 2015 году передан для дальней совместной разработки фонду Apache. Хранилище ориентировано на работу в условиях постоянного добавления новых данных и рассчитано на обеспечение минимальных и предсказуемых задержек, позволяющих использовать хранилище для обработки запросов в реальном времени. Код проекта написан на Java и распространяется под лицензией Apache.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск интегрированной среды разработки Apache NetBeans 19</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-19-20230904-143506/</link>
+      <pubDate>Mon, 04 Sep 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-19-20230904-143506/</guid>
+      <description>Состоялся выпуск интегрированной среды разработки Apache NetBeans 19, которая предоставляет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy. Готовые сборки сформированы для Linux (snap, flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=59713</description>
+    </item>
+    
+    <item>
+      <title>Выпуск интегрированной среды разработки Apache NetBeans 18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-18-20230602-163506/</link>
+      <pubDate>Fri, 02 Jun 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-apache-netbeans-18-20230602-163506/</guid>
+      <description>Организации Apache Software Foundation представила интегрированную среду разработки Apache NetBeans 18, которая предоставляет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript и Groovy. Готовые сборки сформированы для Linux (snap, flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=59237</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Apache OpenMeetings, позволяющая получить доступ к любым записям и обсуждениям</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-apache-openmeetings-pozvolyayuschaya-poluchit-dostup-k-lyubym-zapisyam-i-obsu-20230513-103505/</link>
+      <pubDate>Sat, 13 May 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-apache-openmeetings-pozvolyayuschaya-poluchit-dostup-k-lyubym-zapisyam-i-obsu-20230513-103505/</guid>
+      <description>В сервере для проведения web-конференций Apache OpenMeetings устранена.
+https://www.opennet.ru/opennews/art.shtml?num=59129</description>
+    </item>
+    
+    <item>
+      <title>67% публичных серверов Apache Superset используют ключ доступа из примера настроек</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/67-publichnyh-serverov-apache-superset-ispolzuyut-klyuch-dostupa-iz-primera-nastroek-20230426-113507/</link>
+      <pubDate>Wed, 26 Apr 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/67-publichnyh-serverov-apache-superset-ispolzuyut-klyuch-dostupa-iz-primera-nastroek-20230426-113507/</guid>
+      <description>Исследователи из компании Horizon3 обратили внимание на проблемы с безопасностью в большинстве установок платформы анализа и визуализации данных Apache Superset. На 2124 из 3176 изученных публичных серверов с Apache Superset выявлено использование типового ключа шифрования, указанного по умолчанию в примере файла конфигурации. Данный ключ используется в Python-библиотеке Flask для генерации сессионных Cookie, что позволяет знающему ключ атакующему сформировать фиктивные параметры сеанса, подключиться к web-интерфейсу Apache Superset и загрузить данные из привязанных БД или организовать выполнение кода с правами Apache Superset.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Apache OpenOffice</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-apache-openoffice-20230325-123504/</link>
+      <pubDate>Sat, 25 Mar 2023 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-apache-openoffice-20230325-123504/</guid>
+      <description>Раскрыты сведения о двух уязвимостях в офисном пакете Apache OpenOffice. Проблемы были устранены в выпуске Apache OpenOffice 4.1.14 под видом не связанных с безопасностью ошибок (сведения об уязвимости раскрыты спустя месяц после выпуска OpenOffice 4.1.14).
+https://www.opennet.ru/opennews/art.shtml?num=58861</description>
+    </item>
+    
+    <item>
+      <title>Выпуск облачной платформы Apache CloudStack 4.18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-oblachnoy-platformy-apache-cloudstack-4-18-20230321-153505/</link>
+      <pubDate>Tue, 21 Mar 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-oblachnoy-platformy-apache-cloudstack-4-18-20230321-153505/</guid>
+      <description>Состоялся релиз облачной платформы Apache CloudStack 4.18, позволяющей автоматизировать развертывание, настройку и поддержание приватной, гибридной или публичной cloud-инфраструктуры (IaaS, инфраструктура как сервис). Платформа CloudStack была передана Фонду Apache компанией Citrix, которая получила проект после поглощения компании Cloud.com. Установочные пакеты подготовлены для CentOS, Ubuntu и openSUSE.
+https://www.opennet.ru/opennews/art.shtml?num=58835</description>
+    </item>
+    
+    <item>
+      <title>Cheerp 3.0, компилятор C/C&#43;&#43; в JavaScript, переведён на лицензии Apache 2.0 и LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</link>
+      <pubDate>Fri, 17 Mar 2023 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</guid>
+      <description>Представлен компилятор Cheerp 3.0, позволяющий скомпилировать любой код C/C++ в WebAssembly или JavaScript. Новая ветка примечательна переводом компилятора и сопутствующих библиотек на использование пермиссивных лицензий Apache 2.0 и LLVM, вместо ранее применяемой ограниченной лицензионной политики, предлагающей вариант с лицензией GPLv2 для некоммерческих проектов и проприетарную лицензию для коммерческих. Код компилятора основан на наработках LLVM и Clang, и включает дополнительные оптимизации для повышения производительности и уменьшения размера скомпилированного результата.
+https://www.opennet.ru/opennews/art.shtml?num=58807</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.56 с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-56-s-ustraneniem-uyazvimostey-20230308-103503/</link>
+      <pubDate>Wed, 08 Mar 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-56-s-ustraneniem-uyazvimostey-20230308-103503/</guid>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.56, в котором представлено 6 изменений и устранено 2 уязвимости, связанные с возможностью проведения атак класса &amp;ldquo;HTTP Request Smuggling&amp;rdquo; на системы фронтэнд-бэкенд, позволяющих вклиниваться в содержимое запросов других пользователей, обрабатываемых в том же потоке между фронтэндом и бэкендом.
+https://www.opennet.ru/opennews/art.shtml?num=58761</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DietPi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dietpi/</link>
+    <description>Recent content in DietPi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 10:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dietpi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление OpenWrt 23.05.3 и DietPi 9.2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-23-05-3-i-dietpi-9-2-20240325-103533/</link>
+      <pubDate>Mon, 25 Mar 2024 10:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openwrt-23-05-3-i-dietpi-9-2-20240325-103533/</guid>
+      <description>Опубликовано обновление дистрибутива OpenWrt 23.05.3, ориентированного на применение в различных сетевых устройствах, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает множество различных платформ и архитектур и обладает системой сборки, позволяющей просто и удобно производить кросс-компиляцию, включая в состав сборки различные компоненты, что позволяет легко сформировать адаптированную под конкретные задачи готовую прошивку или образ диска с желаемым набором предустановленных пакетов. Сборки сформированы для 35 целевых платформ.
+https://www.opennet.ru/opennews/art.shtml?num=60838</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутива для одноплатных ПК DietPi 9.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-dlya-odnoplatnyh-pk-dietpi-9-1-20240225-013521/</link>
+      <pubDate>Sun, 25 Feb 2024 01:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-dlya-odnoplatnyh-pk-dietpi-9-1-20240225-013521/</guid>
+      <description>Опубликован выпуск специализированного дистрибутива DietPi 9.1, предназначенного для использования на одноплатных ПК на базе архитектур ARM и RISC-V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Дистрибутив построен на пакетной базе Debian и доступен в сборках для более, чем 50 плат. DietPi также может применяться для создания компактных окружений для виртуальных машин и обычных ПК на базе архитектуры x86_64.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DietPi 9.0, дистрибутива для одноплатных ПК </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-9-0-distributiva-dlya-odnoplatnyh-pk-20240122-113539/</link>
+      <pubDate>Mon, 22 Jan 2024 11:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-9-0-distributiva-dlya-odnoplatnyh-pk-20240122-113539/</guid>
+      <description>Опубликован выпуск специализированного дистрибутива DietPi 9.0, предназначенного для использования на одноплатных ПК на базе архитектур ARM и RISC-V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Дистрибутив построен на пакетной базе Debian и доступен в сборках для более, чем 50 плат. DietPi также может применяться для создания компактных окружений для виртуальных машин и обычных ПК на базе архитектуры x86_64.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DietPi 8.25, дистрибутива для одноплатных ПК </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-8-25-distributiva-dlya-odnoplatnyh-pk-20231220-013521/</link>
+      <pubDate>Wed, 20 Dec 2023 01:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-8-25-distributiva-dlya-odnoplatnyh-pk-20231220-013521/</guid>
+      <description>Опубликован выпуск специализированного дистрибутива DietPi 8.25, предназначенного для использования на одноплатных ПК на базе архитектур ARM и RISC-V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Дистрибутив построен на пакетной базе Debian и доступен в сборках для более, чем 50 плат. DietPi также может применяться для создания компактных окружений для виртуальных машин и обычных ПК на базе архитектуры x86_64.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DietPi 8.17, дистрибутива для одноплатных ПК </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-8-17-distributiva-dlya-odnoplatnyh-pk-20230516-133505/</link>
+      <pubDate>Tue, 16 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dietpi-8-17-distributiva-dlya-odnoplatnyh-pk-20230516-133505/</guid>
+      <description>Опубликован выпуск специализированного дистрибутива DietPi 8.17, предназначенного для использования на одноплатных ПК на базе архитектур ARM и RISC-V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Дистрибутив построен на пакетной базе Debian и доступен в сборках для более, чем 50 плат. DietPi также может применяться для создания компактных окружений для виртуальных машин и обычных ПК на базе архитектуры x86_64.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/git/</link>
+    <description>Recent content in Git on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2024 16:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск git-совместимой системы управления версиями Got 0.100</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-git-sovmestimoy-sistemy-upravleniya-versiyami-got-0-100-20240605-163538/</link>
+      <pubDate>Wed, 05 Jun 2024 16:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-git-sovmestimoy-sistemy-upravleniya-versiyami-got-0-100-20240605-163538/</guid>
+      <description>Разработчики проекта OpenBSD опубликовали выпуск системы управления версиями Got 0.100 (Game of Trees), при разработке которой основной акцент делается на простоте устройства и использования. Для хранения версионированных данных Got использует хранилище, совместимое с дисковым форматом репозиториев Git, что позволяет работать с репозиторием при помощи инструментариев Got и Git. Например, при помощи Git можно выполнять работы, не реализованные в Got. Код распространяется под свободной лицензией ISC.
+https://www.opennet.ru/opennews/art.shtml?num=61316</description>
+    </item>
+    
+    <item>
+      <title>Пять уязвимостей в Git, среди которых одна критическая и две опасные</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pyat-uyazvimostey-v-git-sredi-kotoryh-odna-kriticheskaya-i-dve-opasnye-20240516-033513/</link>
+      <pubDate>Thu, 16 May 2024 03:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pyat-uyazvimostey-v-git-sredi-kotoryh-odna-kriticheskaya-i-dve-opasnye-20240516-033513/</guid>
+      <description>Опубликованы корректирующие выпуски распределённой системы управления исходными текстами Git 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2 и 2.39.4, в которых устранены пять уязвимостей. Наиболее серьёзная уязвимость (CVE-2024-32002), которой присвоен критический уровень опасности, позволяет добиться выполнения кода злоумышленника при выполнении клонирования командой &amp;ldquo;git clone&amp;rdquo; репозитория, подконтрольного атакующему.
+https://www.opennet.ru/opennews/art.shtml?num=61180</description>
+    </item>
+    
+    <item>
+      <title>Проект gittuf развивает систему криптографической защиты репозиториев Git</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gittuf-razvivaet-sistemu-kriptograficheskoy-zaschity-repozitoriev-git-20240510-233544/</link>
+      <pubDate>Fri, 10 May 2024 23:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gittuf-razvivaet-sistemu-kriptograficheskoy-zaschity-repozitoriev-git-20240510-233544/</guid>
+      <description>Доступен выпуск проекта gittuf 0.4, развивающего иерархическую систему верификации содержимого репозиториев Git, позволяющую минимизировать риски в ситуации компрометации отдельных разработчиков, имеющих доступ к репозиторию. Gittuf предоставляет дополнительный слой безопасности к Git и набор утилит для управления ключами всех разработчиков, имеющих доступ к репозиторию, и расстановки правил доступа к веткам, тегам и отдельным файлам. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0. Проект находится на стадии активного развития и имеет качество альфа-выпуска, подходящего для экспериментов, но пока не готового для рабочих внедрений.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления исходными текстами Git 2.45</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-45-20240501-013536/</link>
+      <pubDate>Wed, 01 May 2024 01:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-45-20240501-013536/</guid>
+      <description>После двух месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.45. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов. Код Git распространяется под лицензией GPLv2+.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления исходными текстами Git 2.44</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-44-20240224-153547/</link>
+      <pubDate>Sat, 24 Feb 2024 15:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-44-20240224-153547/</guid>
+      <description>После трёх месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.44. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов. Код Git распространяется под лицензией GPLv2+.</description>
+    </item>
+    
+    <item>
+      <title>Доступна система управления исходными текстами Git 2.43</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-43-20231122-173507/</link>
+      <pubDate>Wed, 22 Nov 2023 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-43-20231122-173507/</guid>
+      <description>После трёх месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.43. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=60150</description>
+    </item>
+    
+    <item>
+      <title>Mozilla переводит разработку Firefox с Mercurial на Git</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</link>
+      <pubDate>Mon, 06 Nov 2023 23:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</guid>
+      <description>Разработчики из компании Mozilla объявили о решении прекратить использование для разработки Firefox системы управления версиями Mercurial в пользу Git. До сих пор проект предоставлял возможность использования Mercurial или Git на выбор разработчиков, но в основном репозитории применялся Mercurial. В связи с тем, что обеспечение поддержки сразу двух систем создаёт большую нагрузку на команды, отвечающие за сопровождение инфраструктуры, в будущем решено ограничиться применением для разработки только Git. При этом Mozilla продолжит использование сервисов Bugzilla, moz-phab, Phabricator и Lando.</description>
+    </item>
+    
+    <item>
+      <title>Доступна система управления исходными текстами Git 2.42</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-42-20230822-133507/</link>
+      <pubDate>Tue, 22 Aug 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-42-20230822-133507/</guid>
+      <description>После двух с половиной месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.42. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=59639</description>
+    </item>
+    
+    <item>
+      <title>Доступна система управления исходными текстами Git 2.41</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-41-20230602-133504/</link>
+      <pubDate>Fri, 02 Jun 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-ishodnymi-tekstami-git-2-41-20230602-133504/</guid>
+      <description>После трёх месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.41. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=59234</description>
+    </item>
+    
+    <item>
+      <title>Arch Linux мигрирует на Git и реструктуризирует репозитории</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arch-linux-migriruet-na-git-i-restrukturiziruet-repozitorii-20230516-123507/</link>
+      <pubDate>Tue, 16 May 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arch-linux-migriruet-na-git-i-restrukturiziruet-repozitorii-20230516-123507/</guid>
+      <description>Разработчики дистрибутива Arch Linux предупредили пользователей о проведении с 19 по 21 мая работ по переводу инфраструктуры для разработки пакетов с Subversion на Git и GitLab. В дни миграции будет приостановлена публикация обновлений пакетов в репозиториях и ограничен доступ к первичным зеркалам при помощи rsync и HTTP. После завершения миграции доступ к SVN-репозиториям будет закрыт, а зеркало на базе svn2git прекратит обновляться.
+https://www.opennet.ru/opennews/art.shtml?num=59138</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Git, позволяющие перезаписать файлы или выполнить свой код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-git-pozvolyayuschie-perezapisat-fayly-ili-vypolnit-svoy-kod-20230426-133505/</link>
+      <pubDate>Wed, 26 Apr 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-git-pozvolyayuschie-perezapisat-fayly-ili-vypolnit-svoy-kod-20230426-133505/</guid>
+      <description>Опубликованы корректирующие выпуски распределённой системы управления исходными текстами Git 2.40.1, 2.39.3, 2.38.5, 2.37.7, 2.36.6, 2.35.8.
+https://www.opennet.ru/opennews/art.shtml?num=59033</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления исходными текстами Git 2.40</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-40-20230314-123502/</link>
+      <pubDate>Tue, 14 Mar 2023 12:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-ishodnymi-tekstami-git-2-40-20230314-123502/</guid>
+      <description>После трёх месяцев разработки опубликован выпуск распределенной системы управления исходными текстами Git 2.40. Git является одной из самых популярных, надёжных и высокопроизводительных систем управления версиями, предоставляющей гибкие средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, также возможно удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов.
+https://www.opennet.ru/opennews/art.shtml?num=58790</description>
+    </item>
+    
+  </channel>
+</rss>

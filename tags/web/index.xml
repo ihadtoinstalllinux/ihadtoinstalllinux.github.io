@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>web on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/web/</link>
+    <description>Recent content in web on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2024 16:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск web-браузера Chrome 126 со встроенным OCR-движком</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-126-so-vstroennym-ocr-dvizhkom-20240613-163529/</link>
+      <pubDate>Thu, 13 Jun 2024 16:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-126-so-vstroennym-ocr-dvizhkom-20240613-163529/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 126. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Chrome 125</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-125-20240519-233507/</link>
+      <pubDate>Sun, 19 May 2024 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-125-20240519-233507/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 125. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>После многолетнего забвения опубликован минималистичный web-браузер Dillo 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</link>
+      <pubDate>Sun, 05 May 2024 10:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</guid>
+      <description>Опубликован релиз минималистичного web-браузера Dillo 3.1, написанного на языке С/C++ с использованием библиотеки FLTK. Браузер отличается небольшим размером (исполняемый файл около мегабайта при статической сборке) и минимальным потреблением памяти, при наличии графического интерфейса с поддержкой вкладок и закладок, поддержке HTTPS и базового набора web-стандартов (есть поддержка HTML 4.01 и CSS, но нет JavaScript). Функциональность Dillo может расширяться через плагины, например, имеется плагин для протоколов IPFS и Gemini.
+https://www.opennet.ru/opennews/art.shtml?num=61119</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Min 1.32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-min-1-32-20240428-003601/</link>
+      <pubDate>Sun, 28 Apr 2024 00:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-min-1-32-20240428-003601/</guid>
+      <description>Опубликована новая версия браузера Min 1.32, предлагающего минималистичный интерфейс, построенный вокруг манипуляций с адресной строкой. Браузер создан с использованием платформы Electron, позволяющей создавать обособленные приложения на основе движка Chromium и платформы Node.js. Интерфейс Min написан на JavaScript, CSS и HTML. Код распространяется под лицензией Apache 2.0. Сборки сформированы для Linux, macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=61079</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Chrome 124</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-124-20240418-163559/</link>
+      <pubDate>Thu, 18 Apr 2024 16:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-124-20240418-163559/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 124. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Проект по интеграции с Qt web-движка Servo, развиваемого на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-po-integracii-s-qt-web-dvizhka-servo-razvivaemogo-na-yazyke-rust-20240411-113505/</link>
+      <pubDate>Thu, 11 Apr 2024 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-po-integracii-s-qt-web-dvizhka-servo-razvivaemogo-na-yazyke-rust-20240411-113505/</guid>
+      <description>Компания KDAB объявила о разработке компонента Servo WebView для Qt, использующего браузерный движок Servo вместо модуля Qt WebEngine (на базе Chromium) для отображения web-контента в QML-приложениях. Предполагается, что проект поможет сократить поверхность атак на Qt-приложения, использующие API WebView, за счёт применения компонента, в котором благодаря языку Rust минимизировано возникновение уязвимостей, вызванных ошибками при работе с памятью. Код Servo WebView для Qt распространяется под лицензией MPL-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60961</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера CENO 2.1, использующего P2P-сеть для доступа к сайтам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</link>
+      <pubDate>Thu, 04 Apr 2024 02:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</guid>
+      <description>После года разработки опубликован выпуск мобильного web-браузера CENO 2.1.0, предназначенного для организации доступа к информации в условиях невозможности прямого доступа к информации, например, при отключения сегментов интернета от глобальной сети в результате сбоев или действий злоумышленников. Браузер построен на основе движка GeckoView (применяется в Firefox для Android), расширенного возможностью обмена данными через децентрализованную P2P-сеть, в которой пользователи участвуют в перенаправлении трафика к внешним шлюзам, обеспечивающим доступ к информации. Наработки проекта распространяются под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Chrome 123</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-123-20240320-163529/</link>
+      <pubDate>Wed, 20 Mar 2024 16:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-123-20240320-163529/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 123. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Релиз браузерного движка WebKitGTK 2.44.0 и web-браузера Epiphany 46</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-brauzernogo-dvizhka-webkitgtk-2-44-0-i-web-brauzera-epiphany-46-20240317-203517/</link>
+      <pubDate>Sun, 17 Mar 2024 20:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-brauzernogo-dvizhka-webkitgtk-2-44-0-i-web-brauzera-epiphany-46-20240317-203517/</guid>
+      <description>Представлен выпуск новой стабильной ветки WebKitGTK 2.44.0, порта браузерного движка WebKit для платформы GTK. WebKitGTK позволяет использовать все возможности WebKit через GNOME-ориентированный программный интерфейс на основе GObject и может применяться для интеграции средств обработки web-контента в любые приложения, от использования в специализированных HTML/CSS-парсерах, до создания полнофункциональных web-браузеров. Из известных проектов, использующих WebKitGTK, можно отметить штатный браузер GNOME (Epiphany). Ранее WebKitGTK применялся в браузере Midori, но после перехода проекта в руки Astian Foundation старый вариант Midori на WebKitGTK был заброшен и создан принципиально другой продукт с тем же названием Midori.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Wolvic 1.6, web-браузер для устройств виртуальной реальности </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-wolvic-1-6-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20240223-143559/</link>
+      <pubDate>Fri, 23 Feb 2024 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-wolvic-1-6-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20240223-143559/</guid>
+      <description>Доступен релиз web-браузера Wolvic 1.6, предназначенного для использования в системах дополненной и виртуальной реальности. Проект продолжает развитие браузера Firefox Reality, ранее развивавшегося компанией Mozilla. После стагнации кодовой базы Firefox Reality в рамках проекта Wolvic его разработку продолжила компания Igalia, известная своим участием в разработке таких свободных проектов, как GNOME, GTK, WebKitGTK, Epiphany, GStreamer, Wine, Mesa и freedesktop.org. Код Wolvic написан на языках Java и C++, и распространяется под лицензией MPLv2. Готовые сборки сформированы для платформы Android.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Chrome 122</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-122-20240222-123553/</link>
+      <pubDate>Thu, 22 Feb 2024 12:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-122-20240222-123553/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 122. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Chrome 121</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-121-20240124-173558/</link>
+      <pubDate>Wed, 24 Jan 2024 17:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-121-20240124-173558/</guid>
+      <description>Компания Google опубликовала релиз web-браузера Chrome 121. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей при поиске RLZ-параметров. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+    </item>
+    
+    <item>
+      <title>Google удалил API Web Integrity, воспринятый как попытку продвижения подобия DRM для Web</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-udalil-api-web-integrity-vosprinyatyy-kak-popytku-prodvizheniya-podobiya-drm-dlya-w-20231103-173530/</link>
+      <pubDate>Fri, 03 Nov 2023 17:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-udalil-api-web-integrity-vosprinyatyy-kak-popytku-prodvizheniya-podobiya-drm-dlya-w-20231103-173530/</guid>
+      <description>Компания Google прислушалась к критике и прекратила продвижение API Web Environment Integrity, а также.
+https://www.opennet.ru/opennews/art.shtml?num=60042</description>
+    </item>
+    
+    <item>
+      <title>Представлен web-браузер Midori 11, переведённый на наработки проекта Floorp </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-web-brauzer-midori-11-perevedennyy-na-narabotki-proekta-floorp-20231101-003511/</link>
+      <pubDate>Wed, 01 Nov 2023 00:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-web-brauzer-midori-11-perevedennyy-na-narabotki-proekta-floorp-20231101-003511/</guid>
+      <description>Компания Astian, в 2019 году поглотившая проект Midori, представила новую ветку web-браузера Midori 11, перешедшего на движок Mozilla Gecko, применяемый в Firefox. Из основных целей разработки Midori упоминается забота о конфиденциальности пользователя и легковесность - разработчики поставили перед собой задачу сделать браузер, наиболее нетребовательный к ресурсам среди продуктов на движке Firefox и пригодный для работы даже на устаревших системах. Код проекта распространяется под лицензией MPLv2. Сборки подготовлены для Linux, Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Увидел свет Wolvic 1.5, web-браузер для устройств виртуальной реальности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uvidel-svet-wolvic-1-5-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20230926-013505/</link>
+      <pubDate>Tue, 26 Sep 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uvidel-svet-wolvic-1-5-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20230926-013505/</guid>
+      <description>Опубликован релиз web-браузера Wolvic 1.5, предназначенного для использования в системах дополненной и виртуальной реальности. Проект продолжает развитие браузера Firefox Reality, ранее развивавшегося компанией Mozilla. После стагнации кодовой базы Firefox Reality в рамках проекта Wolvic его разработку продолжила компания Igalia, известная своим участием в разработке таких свободных проектов, как GNOME, GTK, WebKitGTK, Epiphany, GStreamer, Wine, Mesa и freedesktop.org. Код Wolvic написан на языках Java и C++, и распространяется под лицензией MPLv2. Готовые сборки сформированы для платформы Android.</description>
+    </item>
+    
+    <item>
+      <title>Доступен web-браузер qutebrowser 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-web-brauzer-qutebrowser-3-0-20230819-113505/</link>
+      <pubDate>Sat, 19 Aug 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-web-brauzer-qutebrowser-3-0-20230819-113505/</guid>
+      <description>Опубликован релиз web-браузера qutebrowser 3.0, предоставляющего минимальный графический интерфейс, не отвлекающий от просмотра содержимого, и систему навигации в стиле текстового редактора Vim, построенную целиком на клавиатурных комбинациях. Код написан на языке Python с использованием PyQt5 и QtWebEngine. Исходные тексты распространяются под лицензией GPLv3. Применение Python не сказывается на производительности, так как отрисовка и разбор контента осуществляется силами движка Blink и библиотеки Qt.
+https://www.opennet.ru/opennews/art.shtml?num=59629</description>
+    </item>
+    
+    <item>
+      <title>Google продвигает API Web Integrity, подрывающий открытый характер Web</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-prodvigaet-api-web-integrity-podryvayuschiy-otkrytyy-harakter-web-20230725-203506/</link>
+      <pubDate>Tue, 25 Jul 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-prodvigaet-api-web-integrity-podryvayuschiy-otkrytyy-harakter-web-20230725-203506/</guid>
+      <description>Компания Google опубликовала черновой вариант спецификации Web Environment Integrity и работает над включением её реализации в кодовую базу Chromium и движка Blink. API Web Environment Integrity позволяет владельцам сайтов удостовериться, что окружение клиента заслуживает доверия, в плане защиты пользовательских данных, соблюдения интеллектуальной собственности и взаимодействия с реальным человеком.
+https://www.opennet.ru/opennews/art.shtml?num=59495</description>
+    </item>
+    
+    <item>
+      <title>В Fedora Workstation 39 планируют задействовать новый инсталлятор на основе web-интерфейса </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-workstation-39-planiruyut-zadeystvovat-novyy-installyator-na-osnove-web-interfeys-20230627-173505/</link>
+      <pubDate>Tue, 27 Jun 2023 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-workstation-39-planiruyut-zadeystvovat-novyy-installyator-na-osnove-web-interfeys-20230627-173505/</guid>
+      <description>В выпуске Fedora 39 предложено.
+https://www.opennet.ru/opennews/art.shtml?num=59348</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Wolvic 1.4, web-браузер для устройств виртуальной реальности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-wolvic-1-4-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20230620-133506/</link>
+      <pubDate>Tue, 20 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-wolvic-1-4-web-brauzer-dlya-ustroystv-virtualnoy-realnosti-20230620-133506/</guid>
+      <description>Опубликован релиз web-браузера Wolvic 1.4, предназначенного для использования в системах дополненной и виртуальной реальности. Проект продолжает развитие браузера Firefox Reality, ранее развивавшегося компанией Mozilla. После стагнации кодовой базы Firefox Reality в рамках проекта Wolvic его разработку продолжила компания Igalia, известная своим участием в разработке таких свободных проектов, как GNOME, GTK, WebKitGTK, Epiphany, GStreamer, Wine, Mesa и freedesktop.org. Код Wolvic написан на языках Java и C++, и распространяется под лицензией MPLv2. Готовые сборки сформированы для платформы Android.</description>
+    </item>
+    
+    <item>
+      <title>Проект Kera Desktop развивает пользовательское окружение на базе web-технологий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-kera-desktop-razvivaet-polzovatelskoe-okruzhenie-na-baze-web-tehnologiy-20230611-003505/</link>
+      <pubDate>Sun, 11 Jun 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-kera-desktop-razvivaet-polzovatelskoe-okruzhenie-na-baze-web-tehnologiy-20230611-003505/</guid>
+      <description>После 10 лет разработки опубликован первый альфа-выпуск пользовательского окружения Kera Desktop, развиваемого с использованием web-технологий. Окружение предоставляет типовые возможности управления окнами, панель, меню и виртуальные рабочие столы. Первый выпуск ограничен поддержкой запуска только web-приложений (PWA), но в дальнейшем планируют добавить возможность запуска обычных программ и создания специализированного дистрибутива с рабочим столом Kera, основанного на пакетной базе Fedora Linux. Код проекта написан на JavaScript, не использует сторонние фреймворки и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Nyxt 3.0.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-nyxt-3-0-0-20230520-133506/</link>
+      <pubDate>Sat, 20 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-nyxt-3-0-0-20230520-133506/</guid>
+      <description>После двух лет разработки опубликован выпуск web-браузера Nyxt 3.0.0, предоставляющего обширные возможности по настройке и изменению поведения любых аспектов работы. Концептуально Nyxt напоминает Emacs и Vim, и вместо готового набора настроек даёт возможность менять саму логику работы, используя язык Lisp. Пользователь может переопределить или перенастроить любые классы, методы, переменные и функции. Код проекта написан на языке Lisp и распространяется под лицензией BSD. Интерфейс может быть собран с GTK или Qt. Готовые сборки сформированыДля повышения эффективности рабочего процесса браузер оптимизирован для управления с клавиатуры и поддерживает типовые клавиатурные комбинации Emacs, vi и CUA.</description>
+    </item>
+    
+    <item>
+      <title>Представлен web-браузер Opera One, идущий на смену нынешнему браузеру Opera</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-web-brauzer-opera-one-iduschiy-na-smenu-nyneshnemu-brauzeru-opera-20230425-203506/</link>
+      <pubDate>Tue, 25 Apr 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-web-brauzer-opera-one-iduschiy-na-smenu-nyneshnemu-brauzeru-opera-20230425-203506/</guid>
+      <description>Началось тестирование нового web-браузера Opera One, который после стабилизации придёт на смену нынешнему браузеру Opera. Opera One продолжает использовать движок Chromium и отличается полностью переработанной модульной архитектурой, многопоточной организацией отрисовки и новыми возможностями по группировке вкладок. Сборки Opera One подготовлены для Linux (deb, rpm, snap), Windows и MacOS.
+https://www.opennet.ru/opennews/art.shtml?num=59030</description>
+    </item>
+    
+    <item>
+      <title>Tor и Mullvad VPN подготовили новый web-браузер Mullvad Browser</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</link>
+      <pubDate>Mon, 03 Apr 2023 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</guid>
+      <description>Проект Tor и VPN-провайдер Mullvad представили совместно развиваемый web-браузер Mullvad Browser, ориентированный на защиту конфиденциальности пользователя. Технически Mullvad Browser основан на движке Firefox и включает почти все изменения из Tor Browser, отличаясь главным образом тем, что не использует сеть Tor и отправляет запросы напрямую (вариант Tor Browser без Tor). Предполагается, что Mullvad Browser может быть интересен пользователям которые не хотят работать через сеть Tor, но желают получить доступные в Tor Browser механизмы повышения конфиденциальности, блокирования отслеживания посещений и защиты от идентификации пользователя.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Polemarch 3.0, web-интерфейса для управления инфраструктурой</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polemarch-3-0-web-interfeysa-dlya-upravleniya-infrastrukturoy-20230322-123506/</link>
+      <pubDate>Wed, 22 Mar 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polemarch-3-0-web-interfeysa-dlya-upravleniya-infrastrukturoy-20230322-123506/</guid>
+      <description>Состоялся выпуск Polemarch 3.0.0, web-интерфейса для управления серверной инфраструктурой на базе Ansible. Код проекта написан на языках Python и JavaScript с использованием фреймворков Django и Celery. Проект распространяется под лицензией AGPLv3. Для запуска системы достаточно установить пакет и запустить 1 сервис. Для промышленного применения рекомендуется дополнительно использовать MySQL/PostgreSQL и Redis/RabbitMQ+Redis (кэш и брокер MQ). Для каждой версии формируется образ Docker.
+https://www.opennet.ru/opennews/art.shtml?num=58838</description>
+    </item>
+    
+    <item>
+      <title>Релиз браузерного движка WebKitGTK 2.40.0 и web-браузера Epiphany 44</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-brauzernogo-dvizhka-webkitgtk-2-40-0-i-web-brauzera-epiphany-44-20230318-003502/</link>
+      <pubDate>Sat, 18 Mar 2023 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-brauzernogo-dvizhka-webkitgtk-2-40-0-i-web-brauzera-epiphany-44-20230318-003502/</guid>
+      <description>Представлен выпуск новой стабильной ветки WebKitGTK 2.40.0, порта браузерного движка WebKit для платформы GTK. WebKitGTK позволяет использовать все возможности WebKit через GNOME-ориентированный программный интерфейс на основе GObject и может применяться для интеграции средств обработки web-контента в любые приложения, от использования в специализированных HTML/CSS-парсерах, до создания полнофункциональных web-браузеров. Из известных проектов, использующих WebKitGTK, можно отметить штатный браузер GNOME (Epiphany). Ранее WebKitGTK применялся в браузере Midori, но после перехода проекта в руки Astian Foundation старый вариант Midori на WebKitGTK был заброшен и путём создания ответвления от браузера Wexond создан принципиально другой продукт с тем же названием Midori, но на основе платформы Electron и React.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fuchsia on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fuchsia/</link>
+    <description>Recent content in Fuchsia on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 16:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fuchsia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для включения в Mesa передан начальный код для поддержки ОС Fuchsia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-vklyucheniya-v-mesa-peredan-nachalnyy-kod-dlya-podderzhki-os-fuchsia-20240608-163509/</link>
+      <pubDate>Sat, 08 Jun 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-vklyucheniya-v-mesa-peredan-nachalnyy-kod-dlya-podderzhki-os-fuchsia-20240608-163509/</guid>
+      <description>Сотрудники Google предложили для включения в состав Mesa код с реализацией начальной поддержки сборки в операционной системе Fuchsia. Изменения пока затрагивают только вспомогательные библиотеки Mesa (src/util). Например, поддержка Fuchsia добавлена в функции работы со временем, динамической загрузки библитек, определения операционной системы и работы с потоками.
+https://www.opennet.ru/opennews/art.shtml?num=61338</description>
+    </item>
+    
+    <item>
+      <title>Отменена программа развития ОС Fuchsia для рабочих станций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otmenena-programma-razvitiya-os-fuchsia-dlya-rabochih-stanciy-20240116-123550/</link>
+      <pubDate>Tue, 16 Jan 2024 12:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otmenena-programma-razvitiya-os-fuchsia-dlya-rabochih-stanciy-20240116-123550/</guid>
+      <description>Из репозитория проекта Chromium удалены компоненты, необходимые для сборки браузера Chrome для операционной системы Fuchsia. Отмечается, что поддержка Fuchsia в Chrome была экспериментом, который теперь прекращён. Отдельно указано, что причиной прекращения поддержки является сворачивание программы по развитию Fuchsia для рабочих станций. Поддержка браузерных компонентов WebEngine и WebRunner для Fuchsia будет продолжена, но отдельный полноценный браузер Chrome поставляться не будет. Вероятно дальнейшее развитие Fuchsia будет сосредоточено только на потребительских устройствах, таких как системы домашней автоматизации, умные фоторамки и колонки.</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал обновление операционной системы Fuchsia 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-obnovlenie-operacionnoy-sistemy-fuchsia-14-20231202-213549/</link>
+      <pubDate>Sat, 02 Dec 2023 21:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-obnovlenie-operacionnoy-sistemy-fuchsia-14-20231202-213549/</guid>
+      <description>Компания Google опубликовала выпуск операционной системы Fuchsia 14, на базе которого сформированы предварительные обновления прошивок для фоторамок Google Nest Hub и Nest Hub Max. ОС Fuchsia развивается компаний Google c 2016 года с учётом недостатков в области масштабирования и обеспечения безопасности, имеющихся в платформе Android.
+https://www.opennet.ru/opennews/art.shtml?num=60221</description>
+    </item>
+    
+  </channel>
+</rss>

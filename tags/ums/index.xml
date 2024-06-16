@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UMS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ums/</link>
+    <description>Recent content in UMS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2023 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ums/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление X.Org Server 21.1.10 с устранением уязвимостей. Удаление поддержки UMS из ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</link>
+      <pubDate>Wed, 13 Dec 2023 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.10 и DDX-компонента (Device-Dependent X) xwayland 23.2.3, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены две уязвимости. Первая уязвимость может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60280</description>
+    </item>
+    
+  </channel>
+</rss>

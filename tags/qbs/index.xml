@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qbs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qbs/</link>
+    <description>Recent content in Qbs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qbs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск сборочного инструментария Qbs 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sborochnogo-instrumentariya-qbs-2-0-20230426-003507/</link>
+      <pubDate>Wed, 26 Apr 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sborochnogo-instrumentariya-qbs-2-0-20230426-003507/</guid>
+      <description>Представлен выпуск сборочного инструментария Qbs 2.0. Для сборки Qbs в числе зависимостей требуется Qt, хотя сам Qbs рассчитан на организацию сборки любых проектов. Qbs использует упрощённый вариант языка QML для определения сценариев сборки проекта, что позволяет определять достаточно гибкие правила сборки, в которых могут подключаться внешние модули, использоваться функции на JavaScript и создаваться произвольные правила сборки.
+https://www.opennet.ru/opennews/art.shtml?num=59032</description>
+    </item>
+    
+  </channel>
+</rss>

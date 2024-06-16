@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>serde on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/serde/</link>
+    <description>Recent content in serde on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/serde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Rust 1.72. Решение поставлять пакет serde_derive только в скомпилированном виде</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-72-reshenie-postavlyat-paket-serde-derive-tolko-v-skompilirovannom-vide-20230825-003504/</link>
+      <pubDate>Fri, 25 Aug 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-72-reshenie-postavlyat-paket-serde-derive-tolko-v-skompilirovannom-vide-20230825-003504/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.72, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=59656</description>
+    </item>
+    
+  </channel>
+</rss>

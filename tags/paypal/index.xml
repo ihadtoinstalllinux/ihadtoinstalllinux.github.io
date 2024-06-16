@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PayPal on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/paypal/</link>
+    <description>Recent content in PayPal on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/paypal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PayPal открыл код СУБД JunoDB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/paypal-otkryl-kod-subd-junodb-20230521-133506/</link>
+      <pubDate>Sun, 21 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/paypal-otkryl-kod-subd-junodb-20230521-133506/</guid>
+      <description>Компания PayPal открыла исходные тексты отказоустойчивой СУБД JunoDB, манипулирующей данными в формате ключ-значение. Система изначально спроектирована с оглядкой на высокую безопасность, горизонтальную масштабируемость, отказоустойчивость и способность обрабатывать сотни тысяч одновременных соединений с предсказуемыми задержками. В PayPal практически все сервисы, от входа пользователей до обработки финансовых транзакций, завязаны на JunoDB. Код проекта написан на языке Go (клиентская библиотека на Java) и распространяется под лицензией Apache 2.0. При дальнейшей разработке будут приниматься исправления, улучшения и изменения от сообщества.</description>
+    </item>
+    
+  </channel>
+</rss>

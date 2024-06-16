@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PostgreSQL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2024 14:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Оценка изменения производительности СУБД PostgreSQL за последние 15 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ocenka-izmeneniya-proizvoditelnosti-subd-postgresql-za-poslednie-15-let-20240422-143530/</link>
+      <pubDate>Mon, 22 Apr 2024 14:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ocenka-izmeneniya-proizvoditelnosti-subd-postgresql-za-poslednie-15-let-20240422-143530/</guid>
+      <description>Райан Маркус (Ryan Marcus), разработчик экспериментального оптимизатора Bao для PostgreSQL, в котором используется машинное обучение для оптимизации выполнения запросов, опубликовал результаты тестирования производительности штатного оптимизатора запросов PostgreSQL. Тестирование охватывало ветки PostgreSQL, начиная с 8.4 (2009 год) и заканчивая 16 (2023 год). Производительность измерялась при помощи коллекции JOB (join order benchmark), включающей более 100 сложных запросов с большим числом операций JOIN, нацеленных на проверку различных аспектов работы оптимизатора запросов.
+https://www.opennet.ru/opennews/art.shtml?num=61042</description>
+    </item>
+    
+    <item>
+      <title>Рейтинг популярности СУБД. PostgreSQL назван СУБД 2023 года </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reyting-populyarnosti-subd-postgresql-nazvan-subd-2023-goda-20240104-153605/</link>
+      <pubDate>Thu, 04 Jan 2024 15:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reyting-populyarnosti-subd-postgresql-nazvan-subd-2023-goda-20240104-153605/</guid>
+      <description>Издание DB-Engines обновило свой рейтинг популярности СУБД и присудило звание СУБД 2023 года проекту PostgreSQL, который за год продемонстрировал наибольших рост популярности из 417 отслеживаемых систем. Второе место присуждено облачной платформе Databricks, которая за год поднялась с 19 на 17 место в рейтиге, а третье место занял движок Google BigQuery, который поднялся с 21 на 19 место в рейтинге.
+https://www.opennet.ru/opennews/art.shtml?num=60388</description>
+    </item>
+    
+    <item>
+      <title>Релиз СУБД PostgreSQL 16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-subd-postgresql-16-20230915-133527/</link>
+      <pubDate>Fri, 15 Sep 2023 13:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-subd-postgresql-16-20230915-133527/</guid>
+      <description>После 11 месяцев разработки опубликована новая стабильная ветка СУБД PostgreSQL 16. Обновления для новой ветки будут выходить в течение пяти лет до ноября 2028 года. Поддержка PostgreSQL 11.x, самой старой из поддерживаемых веток, будет прекращена 9 ноября.
+https://www.opennet.ru/opennews/art.shtml?num=59758</description>
+    </item>
+    
+    <item>
+      <title>Выпуск pg_ivm 1.6, реализации инкрементального обновления представлений для PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pg-ivm-1-6-realizacii-inkrementalnogo-obnovleniya-predstavleniy-dlya-postgresql-20230905-143505/</link>
+      <pubDate>Tue, 05 Sep 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pg-ivm-1-6-realizacii-inkrementalnogo-obnovleniya-predstavleniy-dlya-postgresql-20230905-143505/</guid>
+      <description>Опубликован выпуск проекта pg_ivm 1.0, развивающего расширение с реализацией механизма инкрементального обновления представлений (IVM, Incremental View Maintenance) для СУБД PostgreSQL. Код написан на языке Си и распространяется пол лицензией PostgreSQL. Поддерживается работа с ветками PostgreSQL 13, 14 и 15. В новой версии в IVM добавлена поддержка выражения EXISTS и предоставлена возможность использования подзапросов, использующих EXISTS в блоке WHERE.
+https://www.opennet.ru/opennews/art.shtml?num=59716</description>
+    </item>
+    
+    <item>
+      <title>В CVE опубликованы отчёты о ложных уязвимостях в curl, PostgreSQL и других проектах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</link>
+      <pubDate>Wed, 30 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</guid>
+      <description>Дэниел Cтенберг (Daniel Stenberg), автор утилиты для получения и отправки данных по сети curl, предупредил пользователей о публикации организацией MITRE, отвечающей за ведение базы данных общеизвестных уязвимостей, отчёта с информацией о ложной критической уязвимости. Проблеме присвоен CVE-идентификатор CVE-2020-19909 и выставлен уровень опасности 9.8 из 10, свойственный для удалённо эксплуатируемых уязвимостей, приводящих к выполнению кода с повышенными привилегиями.
+https://www.opennet.ru/opennews/art.shtml?num=59683</description>
+    </item>
+    
+    <item>
+      <title>26 июля состоится открытый вебинар про использование 1С с PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/26-iyulya-sostoitsya-otkrytyy-vebinar-pro-ispolzovanie-1s-s-postgresql-20230719-153506/</link>
+      <pubDate>Wed, 19 Jul 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/26-iyulya-sostoitsya-otkrytyy-vebinar-pro-ispolzovanie-1s-s-postgresql-20230719-153506/</guid>
+      <description>26 июля в 11:00 состоится вебинар &amp;ldquo;1С на Postgres Pro&amp;rdquo;, на котором технический консультант Postgres Professional Андрей Забелин и ИТ-директор Софтлайн Аутсорсинг Константин Сумкин расскажут о возможностях Postgres Pro для платформы 1С, резервном копировании и восстановлении данных, оптимизации производительности 1С на Postgres Pro, внедрении различных сборок Postgres Pro для баз 1С, анализе конфигурации PostgreSQL для решаемых задач и многом другом. После выступлений докладчиков участники смогут получить ответы на свои вопросы. Участие &amp;amp;#8212.</description>
+    </item>
+    
+    <item>
+      <title>Для PostgreSQL представлен движок хранения OrioleDB, обходящийся без операции VACUUM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-postgresql-predstavlen-dvizhok-hraneniya-orioledb-obhodyaschiysya-bez-operacii-vacuum-20230717-143510/</link>
+      <pubDate>Mon, 17 Jul 2023 14:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-postgresql-predstavlen-dvizhok-hraneniya-orioledb-obhodyaschiysya-bez-operacii-vacuum-20230717-143510/</guid>
+      <description>Стартап OrioleData опубликовал новый движок хранения для СУБД PostgreSQL - OrioleDB, нацеленный на предоставление быстрого и компактного хранилища, не приводящего со временем к раздутию файлов с БД и не требующего использования периодически запускаемого процесса VACUUM для сборки мусора. Движок написан на языке Си, распространяется под лицензией PostgreSQL и реализован в форме подключаемого расширения, не требующего внесения изменений в основную кодовую базу PostgreSQL. В текущем виде движок находится на стадии бета-тестирования и пока не рекомендован для рабочих внедрений.</description>
+    </item>
+    
+    <item>
+      <title>Утилита pg_easy_replicate, упрощающая перенос БД между серверами PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utilita-pg-easy-replicate-uproschayuschaya-perenos-bd-mezhdu-serverami-postgresql-20230621-153505/</link>
+      <pubDate>Wed, 21 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utilita-pg-easy-replicate-uproschayuschaya-perenos-bd-mezhdu-serverami-postgresql-20230621-153505/</guid>
+      <description>Опубликована утилита pg_easy_replicate, позволяющая легко настроить логическую репликацию данных между двумя СУБД PostgreSQL. Утилита может оказаться полезной для минимизации времени простоя при переносе базы данных на другой сервер или переходе на новую значительную ветку PostgreSQL. Также pg_easy_replicate может применяться для упрощения проведения экспериментов и нагрузочных тестов с синхронизированной копией рабочей БД на другом сервере. Код проекта написан на языке Ruby и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59321</description>
+    </item>
+    
+    <item>
+      <title>Релиз pgAdmin 4 7.0, интерфейса для управления СУБД PostgreSQL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pgadmin-4-7-0-interfeysa-dlya-upravleniya-subd-postgresql-20230415-133549/</link>
+      <pubDate>Sat, 15 Apr 2023 13:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pgadmin-4-7-0-interfeysa-dlya-upravleniya-subd-postgresql-20230415-133549/</guid>
+      <description>Опубликован релиз графического интерфейса для управления СУБД PostgreSQL - pgAdmin 4 7.0. В своё время четвёртая серия pgAdmin была переписана с нуля на языках Python и Javascript с задействованием отдельных runtime-компонентов для рабочего стола, написанных на C++ (pgAdmin III поставлялся в виде обособленного графического приложений, написанного на C++ с использованием wxWidgets). Приложение построено в виде встраиваемого фреймворка, возможности которого могут быть расширены через подключение модулей, при помощи которых может быть обеспечена поддержка сторонних надстроек над PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный выпуск FerretDB, реализации MongoDB на базе СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230404-153504/</link>
+      <pubDate>Tue, 04 Apr 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230404-153504/</guid>
+      <description>Опубликован выпуск проекта FerretDB 1.0, позволяющего заменить документо-ориентированную СУБД MongoDB на PostgreSQL без внесения изменений в код приложений. FerretDB реализован как прокси-сервер, транслирующий обращения к MongoDB в SQL-запросы к PostgreSQL, что позволяет использовать PostgreSQL в качестве фактического хранилища. Версия 1.0 отмечена как первый стабильный выпуск, готовый для повсеместного использования. Код написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58915</description>
+    </item>
+    
+  </channel>
+</rss>

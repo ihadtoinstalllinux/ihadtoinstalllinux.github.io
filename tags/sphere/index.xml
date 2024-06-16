@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sphere on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sphere/</link>
+    <description>Recent content in Sphere on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 15:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft переименовал дистрибутив CBL-Mariner в Azure Linux и опубликовал Azure Sphere OS 24.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</link>
+      <pubDate>Wed, 06 Mar 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</guid>
+      <description>Компания Microsoft переименовала дистрибутив CBL-Mariner в Azure Linux. Ранее имя Azure Linux использовалось для специализированной сборки, устанавливаемой в Azure Kubernetes Service (AKS), а общая платформа для создания дистрибутивов развивалась под именем CBL-Mariner (Common Base Linux Mariner). Несколько дней назад Microsoft переименовал репозиторий CBL-Mariner в azurelinux, поменял названия утилит и заменил упоминание CBL-Mariner в документации на Azure Linux. После этого был сформирован первый выпуск платформы с новым именем - Azure Linux 2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nintendo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nintendo/</link>
+    <description>Recent content in Nintendo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 21:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nintendo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Подготовлены сборки Ubuntu 24.04 для загрузки на игровой приставке Nintendo Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</link>
+      <pubDate>Mon, 20 May 2024 21:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</guid>
+      <description>Проект Switchroot объявил о готовности сборки Ubuntu 24.04, предназначенной для загрузки на игровых консолях Nintendo Switch на базе SoC Tegra X1 (Switch 2017, Switch 2019, Switch Lite и Switch OLED). Помимо Ubuntu проектом Switchroot также предоставляются предназначенные для загрузки на Nintendo Switch сборки Fedora 39, Lakka 5.0 и LineageOS 18.1. Загрузка производится с SD-карты при помощи загрузчика hekate (для обхода блокировки применяется RCM). Развиваемые проектом дополнительные компоненты распространяются под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Компания Nintendo добилась блокировки 8535 репозиториев с форками эмулятора Yuzu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-nintendo-dobilas-blokirovki-8535-repozitoriev-s-forkami-emulyatora-yuzu-20240504-143517/</link>
+      <pubDate>Sat, 04 May 2024 14:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-nintendo-dobilas-blokirovki-8535-repozitoriev-s-forkami-emulyatora-yuzu-20240504-143517/</guid>
+      <description>Компания Nintendo отправила в GitHub требование о блокировке 8535 репозиториев с форками эмулятора Yuzu. Требование отправлено на основании действующего в США Законе об авторском праве в цифровую эпоху (DMCA). Проекты обвиняются в обходе технологий защиты, применяемых в приставках Nintendo Switch. В настоящее время GitHub уже выполнил требования Nintendo и заблокировал репозитории с форками Yuzu.
+https://www.opennet.ru/opennews/art.shtml?num=61115</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Yuzu согласились закрыть проект и выплатить Nintendo компенсацию в 2.4 млн долларов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-yuzu-soglasilis-zakryt-proekt-i-vyplatit-nintendo-kompensaciyu-v-2-4-mln-dol-20240305-103517/</link>
+      <pubDate>Tue, 05 Mar 2024 10:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-yuzu-soglasilis-zakryt-proekt-i-vyplatit-nintendo-kompensaciyu-v-2-4-mln-dol-20240305-103517/</guid>
+      <description>Компания Tropic Haze LLC, представляющая разработчиков открытого эмулятора Yuzu, достигла соглашения c Nintendo о прекращении судебного разбирательства в обмен на полное сворачивание разработки эмулятора, закрытие всех связанных с ним ресурсов и выплаты компенсации, размером 2.4 млн долларов. Помимо Yuzu, эмулятора игровой приставки Nintendo Switch, прекращение разработки также затронуло Citra, эмулятор приставки Nintendo 3DS, развиваемый той же командой разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=60726</description>
+    </item>
+    
+    <item>
+      <title>Компания Nintendo подала в суд иск против разработчиков эмулятора Yuzu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-nintendo-podala-v-sud-isk-protiv-razrabotchikov-emulyatora-yuzu-20240301-023535/</link>
+      <pubDate>Fri, 01 Mar 2024 02:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-nintendo-podala-v-sud-isk-protiv-razrabotchikov-emulyatora-yuzu-20240301-023535/</guid>
+      <description>Компания Nintendo инициировала судебный иск против компании Tropic Haze LLC, курирующей разработку открытого проекта Yuzu, развивающего эмулятор игровой приставки Nintendo Switch. Nintendo требует выплаты компенсации ущерба, нанесённого в результате запуска пиратских игр с использованием эмулятора, и судебного запрета на разработку, продвижение и распространение эмулятора Yuzu, позволяющего запускать игры вне устройств Nintendo Switch.
+https://www.opennet.ru/opennews/art.shtml?num=60683</description>
+    </item>
+    
+    <item>
+      <title>Nintendo добилась удаления эмулятора Dolphin из каталога Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nintendo-dobilas-udaleniya-emulyatora-dolphin-iz-kataloga-steam-20230601-193507/</link>
+      <pubDate>Thu, 01 Jun 2023 19:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nintendo-dobilas-udaleniya-emulyatora-dolphin-iz-kataloga-steam-20230601-193507/</guid>
+      <description>Компания Valve удалила страницу (архивная копия) предстоящего релиза эмулятора Dolphin на платформе Steam после получения письма от юристов компании Nintendo в котором упоминалось нарушение в проекте действующего в США Законе об авторском праве в цифровую эпоху (письмо было не официальным требованием, а просьбой и предложением обсудить ситуацию, если возникнут вопросы). Проект Dolphin распространяется под лицензией GPLv2+ и развивает эмулятор игровых консолей Nintendo GameCube и Wii, позволяющий запускать подготовленные для указанных консолей игры на обычном ПК в режиме full HD.</description>
+    </item>
+    
+    <item>
+      <title>Nintendo потребовала заблокировать проект Lockpick, что остановило разработку эмулятора Skyline Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nintendo-potrebovala-zablokirovat-proekt-lockpick-chto-ostanovilo-razrabotku-emulyatora-sk-20230507-123507/</link>
+      <pubDate>Sun, 07 May 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nintendo-potrebovala-zablokirovat-proekt-lockpick-chto-ostanovilo-razrabotku-emulyatora-sk-20230507-123507/</guid>
+      <description>Компания Nintendo отправила в GitHub требование о блокировке репозиториев Lockpick и Lockpick_RCM, а также около 80 их форков. Требование отправлено на основании действующего в США Законе об авторском праве в цифровую эпоху (DMCA). Проекты обвиняются в нарушении интеллектуальной собственности Nintendo и обходе технологий защиты, применяемых в приставках Nintendo Switch. В настоящее время заявка находится на рассмотрении в GitHub и блокировка пока не применена (удаление производится через сутки после отправки предупреждения авторам).</description>
+    </item>
+    
+  </channel>
+</rss>

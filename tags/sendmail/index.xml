@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sendmail on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sendmail/</link>
+    <description>Recent content in Sendmail on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jun 2023 01:38:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sendmail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление SMTP-сервера Sendmail 8.17.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-smtp-servera-sendmail-8-17-2-20230604-013835/</link>
+      <pubDate>Sun, 04 Jun 2023 01:38:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-smtp-servera-sendmail-8-17-2-20230604-013835/</guid>
+      <description>Спустя почти два года с момента прошлого обновления сформирован релиз SMTP-сервера Sendmail 8.17.2. Кроме исправления ошибок, в новой версии улучшена поддержка email-адресов с символами национальных алфавитов (EAI, Email Address Internationalization), добавлена поддержка новых версий macOS, улучшено выполнение проверок DANE (DNS-based Authentication of Named Entities), для предотвращения проседания производительности параметр MaxMimeHeaderLength по умолчанию выставлен в значение 2048/1024.
+https://www.opennet.ru/opennews/art.shtml?num=59244</description>
+    </item>
+    
+  </channel>
+</rss>

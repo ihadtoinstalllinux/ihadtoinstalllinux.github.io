@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cascade on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cascade/</link>
+    <description>Recent content in Cascade on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 19:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cascade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен инструментарий Cascade, позволивший выявить 29 уязвимостей в процессорах RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-instrumentariy-cascade-pozvolivshiy-vyyavit-29-uyazvimostey-v-processorah-risc-20231024-193539/</link>
+      <pubDate>Tue, 24 Oct 2023 19:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-instrumentariy-cascade-pozvolivshiy-vyyavit-29-uyazvimostey-v-processorah-risc-20231024-193539/</guid>
+      <description>Исследователи из Швейцарской высшей технической школы Цюриха разработали систему fuzzing-тестирования Cascade, нацеленную на выявление ошибок и уязвимостей в процессорах на базе архитектуры RISC-V. Инструментарий уже позволил выявить 37 ошибок в процессорах, из которых 29 были классифицированы как ранее неизвестные уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=59986</description>
+    </item>
+    
+  </channel>
+</rss>

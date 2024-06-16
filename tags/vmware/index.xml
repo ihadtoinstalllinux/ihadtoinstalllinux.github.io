@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VMware on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vmware/</link>
+    <description>Recent content in VMware on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 01:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VMware Workstation Pro стал бесплатен для персонального использования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vmware-workstation-pro-stal-besplaten-dlya-personalnogo-ispolzovaniya-20240515-013530/</link>
+      <pubDate>Wed, 15 May 2024 01:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vmware-workstation-pro-stal-besplaten-dlya-personalnogo-ispolzovaniya-20240515-013530/</guid>
+      <description>Компания Broadcom, в ноябре прошлого года поглотившая бизнес VMware, изменила условия распространения VMware Workstation Pro, проприетарного программного комплекса виртуализации для рабочих станций, поставляемого для Linux и Windows. Гипервизор VMware Workstation Pro теперь распространяется бесплатно при использовании в персональных целях (для загрузки требуется регистрация на сайте support.broadcom.com). При использовании в коммерческих проектах как и раньше требуется покупка лицензии.
+https://www.opennet.ru/opennews/art.shtml?num=61172</description>
+    </item>
+    
+    <item>
+      <title>Прекращено распространение бесплатных версий VMware vSphere Hypervisor </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prekrascheno-rasprostranenie-besplatnyh-versiy-vmware-vsphere-hypervisor-20240213-193547/</link>
+      <pubDate>Tue, 13 Feb 2024 19:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prekrascheno-rasprostranenie-besplatnyh-versiy-vmware-vsphere-hypervisor-20240213-193547/</guid>
+      <description>В след за прекращением продажи бессрочных лицензий, компания Broadcom, в ноябре прошлого года поглотившая бизнес VMware, прекратила распространение бесплатных версий VMware vSphere Hypervisor (ESXi 7.x и 8.x). Бесплатные версии были ограничены числом задействованных процессорных ядер и размером памяти, а также не включали расширенные возможности. Тем не менее, базовая функциональность в них присутствовала, что делало их востребованными для небольших, персональных и экспериментальных внедрений. Альтернативных продуктов не предоставлено.
+https://www.opennet.ru/opennews/art.shtml?num=60595</description>
+    </item>
+    
+    <item>
+      <title>Компания VMware опубликовала Linux-дистрибутив Photon OS 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</link>
+      <pubDate>Tue, 02 May 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</guid>
+      <description>Опубликован релиз Linux-дистрибутива Photon OS 5.0, нацеленного на предоставление минималистичного хостового окружения для запуска приложений в изолированных контейнерах. Проект развивается компанией VMware и заявлен как пригодный для развёртывания промышленных приложений, включающий дополнительные элементы для усиления безопасности и предлагающий расширенные оптимизации для окружений VMware vSphere, Microsoft Azure, Amazon Elastic Compute и Google Compute Engine. Исходные тексты разработанных для Photon OS компонентов поставляются под лицензией GPLv2 (за исключением библиотеки libtdnf, которая открыта под лицензией LGPLv2.</description>
+    </item>
+    
+  </channel>
+</rss>

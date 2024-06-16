@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Louvre on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/louvre/</link>
+    <description>Recent content in Louvre on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2024 13:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/louvre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новая версия Louvre 1.2, библиотеки для разработки композитных серверов на базе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-louvre-1-2-biblioteki-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20240215-133527/</link>
+      <pubDate>Thu, 15 Feb 2024 13:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-louvre-1-2-biblioteki-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20240215-133527/</guid>
+      <description>Доступен выпуск библиотеки Louvre 1.2.0, предоставляющей компоненты для разработки композитных серверов на базе протокола Wayland. Библиотека берёт на себя выполнение всех низкоуровневых операций, включая управления графическими буферами, взаимодействие с подсистемами ввода и графическими API в Linux, и также предлагает готовые реализации различных расширений протокола Wayland. Созданный на базе Louvre композитный сервер, потребляет заметно меньше ресурсов и демонстрирует более высокую производительность, по сравнению с Weston и Sway. Код написан на языке С++ и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Доступна Louvre 1.0, библиотека для разработки композитных серверов на базе Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-louvre-1-0-biblioteka-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20231120-203520/</link>
+      <pubDate>Mon, 20 Nov 2023 20:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-louvre-1-0-biblioteka-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20231120-203520/</guid>
+      <description>Разработчики проекта Cuarzo OS представили первый выпуск библиотеки Louvre, предоставляющей компоненты для разработки композитных серверов на базе протокола Wayland. Код написан на языке С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60149</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IGL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/igl/</link>
+    <description>Recent content in IGL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/igl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook открыл код графической библиотеки IGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-graficheskoy-biblioteki-igl-20230708-003504/</link>
+      <pubDate>Sat, 08 Jul 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-graficheskoy-biblioteki-igl-20230708-003504/</guid>
+      <description>Facebook опубликовал код новой графической библиотеки IGL (Intermediate Graphics Library), предоставляющей универсальный низкоуровневый API для управления GPU. Предложенный API охватывает типовую функциональность GPU и позволяет создавать кросс-платформенные приложения, способные работать поверх графических API OpenGL, Metal и Vulkan на системах с Android, iOS, Linux, macOS и Windows. Библиотека также может применяться для отрисовки в Web с использованием WebGL, при компиляции приложения в промежуточный код WebAssembly. Код библиотеки написан на языке С++ и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

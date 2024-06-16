@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZLUDA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zluda/</link>
+    <description>Recent content in ZLUDA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2024 01:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zluda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован инструментарий ZLUDA, позволяющий запускать CUDA-приложения на GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</link>
+      <pubDate>Tue, 13 Feb 2024 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</guid>
+      <description>Проект ZLUDA подготовил открытую реализацию технологии CUDA для GPU AMD, позволяющую выполнять немодифицированные CUDA-приложения с производительностью, близкой к производительности приложений, выполняемых без прослоек. Опубликованный инструментарий обеспечивает бинарную совместимость с существующими CUDA-приложениями, собранными при помощи компилятора CUDA для GPU NVIDIA. Реализация работает поверх развиваемого компанией AMD стека ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Код проекта написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0. Поддерживается работа в Linux и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

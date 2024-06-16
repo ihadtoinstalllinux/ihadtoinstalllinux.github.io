@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thunderbird on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/thunderbird/</link>
+    <description>Recent content in Thunderbird on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Thunderbird добавят реализацию протокола Microsoft Exchange на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</link>
+      <pubDate>Sat, 20 Apr 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</guid>
+      <description>Разработчики почтового клиента Thunderbird объявили о начале интеграции в кодовую базу компонентов, написанных на языке Rust. В следующий значительный выпуск Thunderbird, релиз которого ожидается в июле этого года, войдёт код с реализацией почтового протокола Microsoft Exchange Web Services (EWS), реализованный на языке Rust. Поддержка доступа к календарю и адресной книге Microsoft Exchange будет добавлена позднее. Встроенная реализация позволит обойтись без установки сторонних дополнений, через которые до сих пор обеспечивалась поддержка Microsoft Exchange.</description>
+    </item>
+    
+    <item>
+      <title>Реклама программы-вымогателя под видом почтового клиента Thunderbird</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reklama-programmy-vymogatelya-pod-vidom-pochtovogo-klienta-thunderbird-20231003-133506/</link>
+      <pubDate>Tue, 03 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reklama-programmy-vymogatelya-pod-vidom-pochtovogo-klienta-thunderbird-20231003-133506/</guid>
+      <description>Разработчики проекта Thunderbird предупредили пользователей о появлении в рекламной сети Google объявлений, предлагающих установить готовые сборки почтового клиента Thunderbird. На деле под видом Thunderbird распространялось вредоносное ПО, которое после установки собирало и отправляло на внешний сервер конфиденциальную и личную информацию с систем пользователей, после чего злоумышленники вымогали деньги за то, чтобы не разглашать полученные сведения (например, не подлежащие разглашению корпоративные данные). Кроме Thunderbird зафиксирована реклама аналогичных вредоносных сборок Discord, Microsoft Teams и Adobe Reader.</description>
+    </item>
+    
+    <item>
+      <title>Обновление почтового клиента Thunderbird 115.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-pochtovogo-klienta-thunderbird-115-1-20230804-013557/</link>
+      <pubDate>Fri, 04 Aug 2023 01:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-pochtovogo-klienta-thunderbird-115-1-20230804-013557/</guid>
+      <description>Доступен выпуск почтового клиента Thunderbird 102.2.0, в котором по умолчанию скрыта панель для быстрой фильтрации сообщений, показываемая над списком сообщений. Для показа данной панели необходимо нажать кнопку &amp;ldquo;Quick Filter&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59549</description>
+    </item>
+    
+    <item>
+      <title>Выпуск почтового клиента Thunderbird 115 c переделанным интерфейсом пользователя</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pochtovogo-klienta-thunderbird-115-c-peredelannym-interfeysom-polzovatelya-20230712-143505/</link>
+      <pubDate>Wed, 12 Jul 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pochtovogo-klienta-thunderbird-115-c-peredelannym-interfeysom-polzovatelya-20230712-143505/</guid>
+      <description>Спустя год после публикации прошлого значительного выпуска опубликован релиз почтового клиента Thunderbird 115, развиваемого силами сообщества и основанного на технологиях Mozilla. Новый выпуск отнесён к категории версий с длительным сроком поддержки, обновления для которых выпускаются в течение года. Thunderbird 115 основан на кодовой базе ESR-выпуска Firefox 115.
+https://www.opennet.ru/opennews/art.shtml?num=59421</description>
+    </item>
+    
+    <item>
+      <title>Почтовый клиент Thunderbird представил новый логотип</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pochtovyy-klient-thunderbird-predstavil-novyy-logotip-20230525-103505/</link>
+      <pubDate>Thu, 25 May 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pochtovyy-klient-thunderbird-predstavil-novyy-logotip-20230525-103505/</guid>
+      <description>Разработчики проекта Thunderbird представили новый логотип, который подготовил дизайнер Джон Хигс (Jon Hicks), ранее разработавший логотипы Firefox и Mozilla. Новый логотип выполнен в едином стиле с логотипом Firefox и подчёркивает связь c проектами Mozilla. Новый логотип планируют начать поставлять в выпуске Thunderbird 115, запланированном на 4 июля. Кроме логотипа в Thunderbird 115 будет значительно переработан интерфейс пользователя и появится новый режим оформления боковой панели, более понятный начинающим пользователям (возможность возврата старой панели будет сохранена).</description>
+    </item>
+    
+    <item>
+      <title>Проект Thunderbird опубликовал финансовые показатели за 2022 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-thunderbird-opublikoval-finansovye-pokazateli-za-2022-god-20230511-023508/</link>
+      <pubDate>Thu, 11 May 2023 02:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-thunderbird-opublikoval-finansovye-pokazateli-za-2022-god-20230511-023508/</guid>
+      <description>Разработчики почтового клиента Thunderbird опубликовали финансовый отчёт за 2022 год. За год проект получил пожертвования в размере 6.4 млн долларов (в 2019 году было собрано $1.5 млн, в 2020 - $2.3 млн, в 2021 - 2.8 млн), что позволяет самостоятельно успешно развиваться.
+https://www.opennet.ru/opennews/art.shtml?num=59114</description>
+    </item>
+    
+  </channel>
+</rss>

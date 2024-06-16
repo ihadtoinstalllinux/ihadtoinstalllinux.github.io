@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P2P on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/p2p/</link>
+    <description>Recent content in P2P on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 13:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Nebula 1.9, системы для создания оверлейных P2P-сетей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nebula-1-9-sistemy-dlya-sozdaniya-overleynyh-p2p-setey-20240509-133603/</link>
+      <pubDate>Thu, 09 May 2024 13:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nebula-1-9-sistemy-dlya-sozdaniya-overleynyh-p2p-setey-20240509-133603/</guid>
+      <description>Опубликован выпуск проекта Nebula 1.9, предлагающего инструментарий для построения защищённых оверлейных сетей, позволяющих объединить территориально разделённые хосты в отдельную изолированную сеть, работающую поверх глобальной сети. Проект предназначен для создания своих собственных оверлейных сетей для любых нужд, например, для объединения корпоративных компьютеров в разных офисах, серверов в разных ЦОД или виртуальных окружений у разных облачных провайдеров. Код написан на языке Go и распространяется под лицензией MIT. Проект основан компанией Slack, развивающей одноимённый корпоративный мессенджер.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера CENO 2.1, использующего P2P-сеть для доступа к сайтам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</link>
+      <pubDate>Thu, 04 Apr 2024 02:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</guid>
+      <description>После года разработки опубликован выпуск мобильного web-браузера CENO 2.1.0, предназначенного для организации доступа к информации в условиях невозможности прямого доступа к информации, например, при отключения сегментов интернета от глобальной сети в результате сбоев или действий злоумышленников. Браузер построен на основе движка GeckoView (применяется в Firefox для Android), расширенного возможностью обмена данными через децентрализованную P2P-сеть, в которой пользователи участвуют в перенаправлении трафика к внешним шлюзам, обеспечивающим доступ к информации. Наработки проекта распространяются под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск P2P VPN 0.11.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-p2p-vpn-0-11-3-20231013-013507/</link>
+      <pubDate>Fri, 13 Oct 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-p2p-vpn-0-11-3-20231013-013507/</guid>
+      <description>Состоялся выпуск P2P VPN 0.11.3 - реализации децентрализованной виртуальной частной сети, работающей по принципу Peer-To-Peer, при котором участники подключены друг к другу, а не через центральный сервер. Участники сети могут находить друг друга через BitTorrent-трекер или BitTorrent DHT, либо через других участников сети (peer exchange). Приложение является бесплатным и открытым аналогом VPN Hamachi, написано на языке Java (c отдельными компонентами на языке Си) и распространяется под лицензией GNU LGPL 3.0.</description>
+    </item>
+    
+    <item>
+      <title>Опубликована P2P-платформа GNUnet 0.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-p2p-platforma-gnunet-0-20-20230924-233506/</link>
+      <pubDate>Sun, 24 Sep 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-p2p-platforma-gnunet-0-20-20230924-233506/</guid>
+      <description>Представлен выпуск фреймворка GNUnet 0.20, предназначенного для построения защищённых децентрализованных P2P-сетей. Создаваемые при помощи GNUnet сети не имеют единой точки отказа и способны гарантировать неприкосновенность частной информации пользователей, в том числе исключить возможные злоупотребления со стороны спецслужб и администраторов, имеющих доступ к узлам сети.
+https://www.opennet.ru/opennews/art.shtml?num=59811</description>
+    </item>
+    
+    <item>
+      <title>Продолжение разработки и выпуск P2P VPN 0.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodolzhenie-razrabotki-i-vypusk-p2p-vpn-0-10-20230822-103504/</link>
+      <pubDate>Tue, 22 Aug 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodolzhenie-razrabotki-i-vypusk-p2p-vpn-0-10-20230822-103504/</guid>
+      <description>Состоялся выпуск P2P VPN 0.10 - реализации децентрализованной виртуальной частной сети, работающей по принципу Peer-To-Peer, при котором участники подключены друг к другу, а не через центральный сервер. Участники сети могут находить друг друга через BitTorrent-трекер, либо через других участников сети. Проект продолжает разработку оригинального приложения P2PVPN (автор Вольфганг Гинолас), которое не обновлялось с 2010 года. Исходный код P2P VPN написан на Java и частично на языке Си, и распространяется под лицензией LPGL 3.</description>
+    </item>
+    
+    <item>
+      <title>В OBS Studio добавлена поддержка WebRTC с возможностью вещания в режиме P2P</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</link>
+      <pubDate>Tue, 13 Jun 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</guid>
+      <description>В кодовую базу OBS Studio, пакета для потокового вещания, композитинга и записи видео, приняты изменения с реализацией поддержки технологии WebRTC, которая может применяться вместо протокола RTMP для потокового видеовещания без промежуточного сервера, при котором содержимое в режиме P2P напрямую передаётся в браузер пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59283</description>
+    </item>
+    
+  </channel>
+</rss>

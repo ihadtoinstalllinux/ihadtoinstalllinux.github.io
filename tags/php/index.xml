@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PHP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/php/</link>
+    <description>Recent content in PHP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2024 14:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в PHP, позволяющая выполнить код при работе в режиме CGI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-php-pozvolyayuschaya-vypolnit-kod-pri-rabote-v-rezhime-cgi-20240607-143531/</link>
+      <pubDate>Fri, 07 Jun 2024 14:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-php-pozvolyayuschaya-vypolnit-kod-pri-rabote-v-rezhime-cgi-20240607-143531/</guid>
+      <description>В PHP выявлена уязвимость (CVE-2024-4577), позволяющая добиться выполнения своего кода на сервере или просмотра исходного кода PHP-скрипта в случае использования PHP в режиме CGI на платформе Windows (конфигурации с mod_php, php-fpm и FastCGI уязвимости не подвержены). Проблема устранена в выпусках PHP 8.3.8, 8.2.20 и 8.1.29.
+https://www.opennet.ru/opennews/art.shtml?num=61332</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Glibc, эксплуатируемая через скрипты на PHP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ekspluatiruemaya-cherez-skripty-na-php-20240420-233546/</link>
+      <pubDate>Sat, 20 Apr 2024 23:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ekspluatiruemaya-cherez-skripty-na-php-20240420-233546/</guid>
+      <description>В стандартной Си-библиотеке Glibc выявлена уязвимость (CVE-2024-2961), приводящая к переполнению буфера при преобразовании специально оформленных строк в кодировке ISO-2022-CN-EXT функцией iconv(). Выявивший проблему исследователь планирует 10 мая выступить на конференции OffensiveCon с докладом, в анонсе которого упоминается возможность эксплуатации уязвимости через приложения на языке PHP. Заявлено, что проблема затрагивает всю экосистему PHP и некоторые приложения.
+https://www.opennet.ru/opennews/art.shtml?num=61033</description>
+    </item>
+    
+    <item>
+      <title>Релиз языка программирования PHP 8.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-yazyka-programmirovaniya-php-8-3-20231123-233535/</link>
+      <pubDate>Thu, 23 Nov 2023 23:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-yazyka-programmirovaniya-php-8-3-20231123-233535/</guid>
+      <description>После года разработки представлен релиз языка программирования PHP 8.3. Новая ветка включает серию новых возможностей, а также несколько изменений, нарушающих совместимость.
+https://www.opennet.ru/opennews/art.shtml?num=60172</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>Началось альфа-тестирование PHP 8.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-php-8-3-20230609-163504/</link>
+      <pubDate>Fri, 09 Jun 2023 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-alfa-testirovanie-php-8-3-20230609-163504/</guid>
+      <description>Представлен первый альфа-выпуск новой ветки языка программирования PHP 8.3. Релиз намечен на 23 ноября. Основные новшества, уже доступные для тестирования или планируемые к реализации в PHP 8.3.
+https://www.opennet.ru/opennews/art.shtml?num=59270</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск проекта PXP, развивающего расширенный диалект языка PHP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-proekta-pxp-razvivayuschego-rasshirennyy-dialekt-yazyka-php-20230516-203504/</link>
+      <pubDate>Tue, 16 May 2023 20:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-proekta-pxp-razvivayuschego-rasshirennyy-dialekt-yazyka-php-20230516-203504/</guid>
+      <description>Опубликован первый тестовый выпуск реализации языка программирования PXP, расширяющего PHP поддержкой новых синтаксических конструкций и расширенных возможностей runtime-библиотеки. Написанный на PXP код транслируется в обычные PHP-скрипты, выполняемые при помощи штатного интерпретатора PHP. Так как PXP лишь дополняет PHP, он совместим со всеми существующим PHP-кодом. Из особенностей PXP отмечается расширения системы типов PHP для лучшего представления данных и применения статического анализа, а также поставка расширенной библиотеки классов для упрощения написания безопасного кода.</description>
+    </item>
+    
+    <item>
+      <title>Перехвачен контроль над 14 PHP-библиотками в репозитории Packagist</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perehvachen-kontrol-nad-14-php-bibliotkami-v-repozitorii-packagist-20230504-123505/</link>
+      <pubDate>Thu, 04 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perehvachen-kontrol-nad-14-php-bibliotkami-v-repozitorii-packagist-20230504-123505/</guid>
+      <description>Администраторы репозитория пакетов Packagist раскрыли сведения об атаке, в результате которой был захвачен контроль над учётными записями сопровождающих 14 PHP-библиотек, в числе которых такие популярные пакеты, как instantiator (526 млн установок всего, 8 млн установок за месяц, 323 зависимых пакета), sql-formatter (94 млн установок всего, 800 тысяч за месяц, 109 зависимых пакетов), doctrine-cache-bundle (73 млн установок всего, 500 тысяч за месяц, 348 зависимых пакетов) и rcode-detector-decoder (20 млн установок всего, 400 тысяч за месяц, 66 зависимых пакетов).</description>
+    </item>
+    
+  </channel>
+</rss>

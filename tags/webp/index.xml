@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WebP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/webp/</link>
+    <description>Recent content in WebP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2023 02:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/webp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление LibreOffice с устранением уязвимости, эксплуатируемой через изображения WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-libreoffice-s-ustraneniem-uyazvimosti-ekspluatiruemoy-cherez-izobrazheniya-webp-20230927-023506/</link>
+      <pubDate>Wed, 27 Sep 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-libreoffice-s-ustraneniem-uyazvimosti-ekspluatiruemoy-cherez-izobrazheniya-webp-20230927-023506/</guid>
+      <description>Организация The Document Foundation.
+https://www.opennet.ru/opennews/art.shtml?num=59823</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 117.0.1 с устранением уязвимости в WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-117-0-1-s-ustraneniem-uyazvimosti-v-webp-20230913-033504/</link>
+      <pubDate>Wed, 13 Sep 2023 03:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-117-0-1-s-ustraneniem-uyazvimosti-v-webp-20230913-033504/</guid>
+      <description>Доступен корректирующий выпуск Firefox 117.0.1, в котором устранена уязвимость и исправлено несколько проблем. Отчёт с информацией об уязвимости пока не открывается, но внесённые в код исправления свидетельствуют о том, что устранена критическая уязвимость (CVE-2023-4863) в библиотеке libwebp, позволяющая выполнить код при обработке специально оформленных изображений в формате WebP.
+https://www.opennet.ru/opennews/art.shtml?num=59747</description>
+    </item>
+    
+    <item>
+      <title>Критическая 0-day уязвимость в Chrome и libwebp, эксплуатируемая через изображения WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</link>
+      <pubDate>Wed, 13 Sep 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</guid>
+      <description>Компания Google опубликовала обновление браузера Chrome 116.0.5845.187, в котором устранена критическая уязвимость (CVE-2023-4863), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость вызвана переполнением буфера в обработчике формата изображений WebP. Уязвимость позволяет выполнить свой код при обработке специально оформленных WebP-изображений. Опасность уязвимости усугубляет то, что в сети выявлен рабочий эксплоит, который уже применяется злоумышленниками для совершения атак (0-day).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mir on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mir/</link>
+    <description>Recent content in Mir on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 22:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован miracle-wm 0.2, композитный менеджер на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</link>
+      <pubDate>Fri, 19 Apr 2024 22:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил второй выпуск композитного менеджера miracle-wm, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3 и пользовательского окружения Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=61032</description>
+    </item>
+    
+    <item>
+      <title>Сотрудник Canonical представил miracle-wm, композитный менеджер на базе Wayland и Mir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</link>
+      <pubDate>Mon, 19 Feb 2024 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил первый выпуск нового композитного менеджера miracle-wm, который базируется на использовании протокола Wayland и компонентов для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3, композитного менеджера Hyprland и пользовательского окружения Sway. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=60626</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дисплейного сервера Mir 2.14. Пользовательское окружение Miriway</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-14-polzovatelskoe-okruzhenie-miriway-20230719-163507/</link>
+      <pubDate>Wed, 19 Jul 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-displeynogo-servera-mir-2-14-polzovatelskoe-okruzhenie-miriway-20230719-163507/</guid>
+      <description>Представлен релиз дисплейного сервера Mir 2.14, разработка которого продолжается компанией Canonical, несмотря на отказ от развития оболочки Unity и редакции Ubuntu для смартфонов. Mir остаётся востребован в проектах Canonical и теперь позиционируется как решение для встраиваемых устройств и интернета вещей (IoT). Mir может использоваться в качестве композитного сервера для Wayland, что позволяет запускать в окружениях на базе Mir любые приложения, использующие Wayland (например, собранные с GTK3/4, Qt5/6 или SDL2). Пакеты для установки подготовлены для Ubuntu 22.</description>
+    </item>
+    
+  </channel>
+</rss>

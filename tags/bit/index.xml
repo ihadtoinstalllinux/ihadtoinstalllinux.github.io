@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bit/</link>
+    <description>Recent content in Bit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 13:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Fluent Bit, затрагивающая многих облачных провайдеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-fluent-bit-zatragivayuschaya-mnogih-oblachnyh-provayderov-20240522-133530/</link>
+      <pubDate>Wed, 22 May 2024 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-fluent-bit-zatragivayuschaya-mnogih-oblachnyh-provayderov-20240522-133530/</guid>
+      <description>В открытом проекте Fluent Bit выявлена уязвимость (CVE-2024-4323), позволяющая удалённо добиться повреждения памяти, что можно использовать для вызова отказа в обслуживании, утечки данных и потенциально выполнения своего кода на сервере. Проблема, которой присвоено кодовое имя &amp;ldquo;Linguistic Lumberjack&amp;rdquo;, имеет критический уровень опасности (9.8 из 10). Уязвимость проявляется начиная с версии 2.0.7 и устранена в корректирующих обновлениях 2.2.3 и 3.0.4.
+https://www.opennet.ru/opennews/art.shtml?num=61229</description>
+    </item>
+    
+  </channel>
+</rss>

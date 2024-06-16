@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zed on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zed/</link>
+    <description>Recent content in Zed on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 13:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт редактор Zed, поддерживающий совместное написание кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-redaktor-zed-podderzhivayuschiy-sovmestnoe-napisanie-koda-20240125-133509/</link>
+      <pubDate>Thu, 25 Jan 2024 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-redaktor-zed-podderzhivayuschiy-sovmestnoe-napisanie-koda-20240125-133509/</guid>
+      <description>Объявлено об открытии исходных текстов многопользовательского редактора кода Zed, развиваемого под руководством Натана Собо (Nathan Sobo), автора проекта Atom (основа VS Code) при участии команды бывших разработчиков редактора Atom, платформы Electron и библиотеки для разбора синтаксиса Tree-sitter. Исходные тексты серверной части, обеспечивающей координацию многопользовательского редактирования, открыты под лицензией AGPLv3, а самого редактора - под лицензией GPLv3. Для формирования интерфейса пользователя задействована собственная библиотека GPUI, открытая под лицензией Apache 2.0. Код проекта развивается на языке Rust.</description>
+    </item>
+    
+  </channel>
+</rss>

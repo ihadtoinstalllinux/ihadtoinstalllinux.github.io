@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zfs/</link>
+    <description>Recent content in ZFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2023 01:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз OpenZFS 2.2, реализации ZFS для Linux и FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</link>
+      <pubDate>Sat, 14 Oct 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</guid>
+      <description>После более двух лет разработки опубликован релиз проекта OpenZFS 2.2, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. Проект получил известность как &amp;ldquo;ZFS on Linux&amp;rdquo; и ранее ограничивался разработкой модуля для ядра Linux, но после переноса поддержки FreeBSD был признан основной реализацией OpenZFS и переименован.
+https://www.opennet.ru/opennews/art.shtml?num=59930</description>
+    </item>
+    
+    <item>
+      <title>В инсталляторе Ubuntu 23.10 будет возвращена поддержка ZFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-installyatore-ubuntu-23-10-budet-vozvraschena-podderzhka-zfs-20230914-163504/</link>
+      <pubDate>Thu, 14 Sep 2023 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-installyatore-ubuntu-23-10-budet-vozvraschena-podderzhka-zfs-20230914-163504/</guid>
+      <description>В Ubuntu 23.10 в инсталляторах, применяемых для установки серверной и настольной редакций дистрибтива, появится поддержка установки системы с использованием файловой системы ZFS на корневом разделе. В Ubuntu Desktop подобная возможность присутствовала и ранее, но была убрана в Ubuntu Desktop 23.04 из-за задействования нового инсталлятора, написанного на языке Dart и использующего пользовательский интерфейс на базе фреймворка Flutter.
+https://www.opennet.ru/opennews/art.shtml?num=59755</description>
+    </item>
+    
+  </channel>
+</rss>

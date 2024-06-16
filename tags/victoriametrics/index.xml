@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VictoriaMetrics on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/victoriametrics/</link>
+    <description>Recent content in VictoriaMetrics on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2023 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/victoriametrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск VictoriaMetrics 1.94, СУБД для построения систем мониторинга</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-victoriametrics-1-94-subd-dlya-postroeniya-sistem-monitoringa-20231005-143505/</link>
+      <pubDate>Thu, 05 Oct 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-victoriametrics-1-94-subd-dlya-postroeniya-sistem-monitoringa-20231005-143505/</guid>
+      <description>Доступен выпуск платформы VictoriaMetrics 1.94.0, предоставляющей СУБД для хранения и обработки данных в форме временного ряда (запись образует время и набор соответствующих этому времени значений, например, полученных через периодический опрос состояния датчиков или сбор метрик), оптимизированную для решения задач мониторинга. Проект конкурирует с такими решениями, как InfluxDB, TimescaleDB, Thanos, Cortex и Uber M3, и отличается более высокой производительностью. СУБД может использоваться в качестве долговременного хранилища данных, подключённого к Prometheus и Grafana, а также в форме прозрачной замены InfluxDB.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Browser on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/browser/</link>
+    <description>Recent content in Browser on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2024 22:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Tails 6.3 и браузера Tor Browser 13.0.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-3-i-brauzera-tor-browser-13-0-15-20240516-223533/</link>
+      <pubDate>Thu, 16 May 2024 22:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-3-i-brauzera-tor-browser-13-0-15-20240516-223533/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 6.3 (The Amnesic Incognito Live System), основанного на пакетной базе Debian 12, поставляемого с рабочим столом GNOME 43 и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Tails 5.21 и браузера Tor Browser 13.0.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-21-i-brauzera-tor-browser-13-0-8-20231222-193539/</link>
+      <pubDate>Fri, 22 Dec 2023 19:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-5-21-i-brauzera-tor-browser-13-0-8-20231222-193539/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.21 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60332</description>
+    </item>
+    
+    <item>
+      <title>Новые версии браузеров SeaMonkey 2.53.18, Qutebrowser 3.1.0 и Tor Browser 13.0.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-brauzerov-seamonkey-2-53-18-qutebrowser-3-1-0-i-tor-browser-13-0-6-20231211-113555/</link>
+      <pubDate>Mon, 11 Dec 2023 11:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-brauzerov-seamonkey-2-53-18-qutebrowser-3-1-0-i-tor-browser-13-0-6-20231211-113555/</guid>
+      <description>Состоялся выпуск набора интернет-приложений SeaMonkey 2.53.18, который объединяет в рамках одного продукта web-браузер, почтовый клиент, систему агрегации новостных лент (RSS/Atom) и WYSIWYG-редактор html-страниц Composer. В форме предустановленных дополнений предлагаются IRC-клиент Chatzilla, набор средств для web-разработчиков DOM Inspector и календарь-планировщик Lightning. В новый выпуск перенесены исправления и изменения из актуальной кодовой базы Firefox (SeaMonkey 2.53 основан на браузерном движке Firefox 60.8 с портированием связанных с безопасностью исправлений и некоторых улучшений из актуальных веток Firefox).</description>
+    </item>
+    
+    <item>
+      <title>Результаты аудита Tor Browser и компонентов инфраструктуры Tor</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rezultaty-audita-tor-browser-i-komponentov-infrastruktury-tor-20231026-233553/</link>
+      <pubDate>Thu, 26 Oct 2023 23:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rezultaty-audita-tor-browser-i-komponentov-infrastruktury-tor-20231026-233553/</guid>
+      <description>Разработчики анонимной сети Tor опубликовали результаты аудита браузера Tor Browser и развиваемых проектом инструментариев OONI Probe, rdsys, BridgeDB и Conjure, применяемых для обхода цензурирования. Аудит проводился компанией Cure53 с ноября 2022 года по апрель 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=59999</description>
+    </item>
+    
+    <item>
+      <title>Релиз Tor Browser 13.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-tor-browser-13-0-20231013-153504/</link>
+      <pubDate>Fri, 13 Oct 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-tor-browser-13-0-20231013-153504/</guid>
+      <description>Сформирован значительный релиз специализированного браузера Tor Browser 13.0, в котором осуществлён переход на ESR-ветку Firefox 115. Браузер сосредоточен на обеспечении анонимности, безопасности и приватности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно, что не позволяет отследить реальный IP-адрес пользователя (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск браузеров SeaMonkey 2.53.17 и Tor Browser 12.5.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-brauzerov-seamonkey-2-53-17-i-tor-browser-12-5-2-20230804-093518/</link>
+      <pubDate>Fri, 04 Aug 2023 09:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-brauzerov-seamonkey-2-53-17-i-tor-browser-12-5-2-20230804-093518/</guid>
+      <description>Состоялся выпуск набора интернет-приложений SeaMonkey 2.53.17, который объединяет в рамках одного продукта web-браузер, почтовый клиент, систему агрегации новостных лент (RSS/Atom) и WYSIWYG-редактор html-страниц Composer. В форме предустановленных дополнений предлагаются IRC-клиент Chatzilla, набор средств для web-разработчиков DOM Inspector и календарь-планировщик Lightning. В новый выпуск перенесены исправления и изменения из актуальной кодовой базы Firefox (SeaMonkey 2.53 основан на браузерном движке Firefox 60.8 с портированием связанных с безопасностью исправлений и некоторых улучшений из актуальных веток Firefox).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tor Browser 12.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-5-20230623-143507/</link>
+      <pubDate>Fri, 23 Jun 2023 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-5-20230623-143507/</guid>
+      <description>После 8 месяцев разработки представлен значительный выпуск специализированного браузера Tor Browser 12.5, в котором продолжено развитие функциональности на базе ESR-ветки Firefox 102. Браузер сосредоточен на обеспечении анонимности, безопасности и приватности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно, что не позволяет отследить реальный IP-адрес пользователя (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tor Browser 12.0.7 и дистрибутива Tails 5.14 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-7-i-distributiva-tails-5-14-20230614-003505/</link>
+      <pubDate>Wed, 14 Jun 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-7-i-distributiva-tails-5-14-20230614-003505/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.14 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=59288</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tor Browser 12.0.6 и дистрибутива Tails 5.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-6-i-distributiva-tails-5-13-20230517-113504/</link>
+      <pubDate>Wed, 17 May 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-6-i-distributiva-tails-5-13-20230517-113504/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.13 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=59145</description>
+    </item>
+    
+    <item>
+      <title>Проект Pulse Browser развивает экспериментальный форк Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pulse-browser-razvivaet-eksperimentalnyy-fork-firefox-20230504-133505/</link>
+      <pubDate>Thu, 04 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pulse-browser-razvivaet-eksperimentalnyy-fork-firefox-20230504-133505/</guid>
+      <description>Доступен для тестирования новый web-браузер Pulse Browser, построенный на кодовой базе Firefox и экспериментирующий с идеями по повышению удобства работы и построению минималистичного интерфейса. Сборки формируются для платформ Linux, Windows и macOS. Код распространяется под лицензией MPL 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59076</description>
+    </item>
+    
+    <item>
+      <title>Tor и Mullvad VPN подготовили новый web-браузер Mullvad Browser</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</link>
+      <pubDate>Mon, 03 Apr 2023 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</guid>
+      <description>Проект Tor и VPN-провайдер Mullvad представили совместно развиваемый web-браузер Mullvad Browser, ориентированный на защиту конфиденциальности пользователя. Технически Mullvad Browser основан на движке Firefox и включает почти все изменения из Tor Browser, отличаясь главным образом тем, что не использует сеть Tor и отправляет запросы напрямую (вариант Tor Browser без Tor). Предполагается, что Mullvad Browser может быть интересен пользователям которые не хотят работать через сеть Tor, но желают получить доступные в Tor Browser механизмы повышения конфиденциальности, блокирования отслеживания посещений и защиты от идентификации пользователя.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tor Browser 12.0.4 и дистрибутива Tails 5.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-4-i-distributiva-tails-5-11-20230321-123505/</link>
+      <pubDate>Tue, 21 Mar 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-12-0-4-i-distributiva-tails-5-11-20230321-123505/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 5.11 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=58832</description>
+    </item>
+    
+  </channel>
+</rss>

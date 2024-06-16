@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>welcome on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/welcome/</link>
+    <description>Recent content in welcome on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Aug 2023 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в приложении openSUSE-welcome, позволяющая выполнить код под другим пользователем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozhenii-opensuse-welcome-pozvolyayuschaya-vypolnit-kod-pod-drugim-polzova-20230824-123507/</link>
+      <pubDate>Thu, 24 Aug 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozhenii-opensuse-welcome-pozvolyayuschaya-vypolnit-kod-pod-drugim-polzova-20230824-123507/</guid>
+      <description>В приложении openSUSE-welcome, применяемом в дистрибутиве openSUSE для ознакомления новых пользователей с особенностями системы, выявлена уязвимость (CVE-2023-32184), позволяющая выполнить код с правами другого пользователя. Приложение openSUSE-welcome запускается автоматически после первого входа пользователя в систему и в случае выбора графического окружения Xfce предлагает возможность включения альтернативных вариантов раскладки элементов на рабочем столе. Обработчик, выполняющий выбор раскладки, некорректно обрабатывал временные файлы, что позволяло другому пользователю организовать выполнение своего кода с правами жертвы, перешедшего к выбору раскладки рабочего стола Xfce.</description>
+    </item>
+    
+  </channel>
+</rss>
