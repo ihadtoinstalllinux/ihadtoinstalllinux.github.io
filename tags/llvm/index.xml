@@ -6,7 +6,17 @@
     <description>Recent content in LLVM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2024 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 01:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Tinygo 0.32, компилятор языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</link>
+      <pubDate>Wed, 19 Jun 2024 01:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.32, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61396</description>
+    </item>
+    
     <item>
       <title>Доступен набор компиляторов LLVM 18 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-kompilyatorov-llvm-18-20240307-163544/</link>
