@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MemTag on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/memtag/</link>
+    <description>Recent content in MemTag on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 11:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/memtag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TikTag - атака на механизм спекулятивного выполнения в CPU ARM, позволяющая обойти защиту MemTag</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tiktag-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-cpu-arm-pozvolyayuschaya-oboyti-zas-20240618-113551/</link>
+      <pubDate>Tue, 18 Jun 2024 11:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tiktag-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-cpu-arm-pozvolyayuschaya-oboyti-zas-20240618-113551/</guid>
+      <description>Группа исследователей из Сеульского университета и компании Samsung разработала технику атаки на процессоры ARM, получившую кодовое имя TikTag, которую можно использовать для обхода аппаратного механизма защиты MemTag (MTE, Memory Tagging Extension), присутствующего в чипах на базе архитектуры ARMv8.5-A. Атака позволяет определить содержимое тегов TikTag для произвольных адресов памяти из-за утечек данных, возникающих в результате спекулятивного выполнения инструкций CPU.
+https://www.opennet.ru/opennews/art.shtml?num=61389</description>
+    </item>
+    
+  </channel>
+</rss>
