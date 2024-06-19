@@ -6,7 +6,16 @@
     <description>Recent content in SysLinuxOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2023 10:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/syslinuxos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 01:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/syslinuxos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск SysLinuxOS 12.4, дистрибутива для системных администраторов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-syslinuxos-12-4-distributiva-dlya-sistemnyh-administratorov-20240620-013511/</link>
+      <pubDate>Thu, 20 Jun 2024 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-syslinuxos-12-4-distributiva-dlya-sistemnyh-administratorov-20240620-013511/</guid>
+      <description>Состоялся выпуск дистрибутива SysLinuxOS 12.4, построенного на пакетной базе Debian 12 и нацеленного на предоставление загрузочного live-окружения, оптимизированного для системных интеграторов и администраторов. Для загрузки подготовлены сборки с рабочими столами GNOME (4.8 ГБ) и MATE (5 ГБ). Окружение работает в Live-режиме, но поддерживает и установку на диск при помощи инсталлятора Calamares. В новом выпуске ядро Linux обновлено до версии 6.7, а пакетная база синхронизирована с Debian 12.4. Улучшена организация меню в GNOME и MATE.</description>
+    </item>
+    
     <item>
       <title>Выпуск SysLinuxOS 12.1, дистрибутива для системных администраторов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-syslinuxos-12-1-distributiva-dlya-sistemnyh-administratorov-20230913-103506/</link>
