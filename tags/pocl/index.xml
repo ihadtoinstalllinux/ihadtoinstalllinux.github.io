@@ -6,7 +6,17 @@
     <description>Recent content in PoCL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2023 03:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pocl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 13:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pocl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз PoCL 6.0 с независимой реализацией стандарта OpenCL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-6-0-s-nezavisimoy-realizaciey-standarta-opencl-20240619-133524/</link>
+      <pubDate>Wed, 19 Jun 2024 13:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-6-0-s-nezavisimoy-realizaciey-standarta-opencl-20240619-133524/</guid>
+      <description>Опубликован релиз проекта PoCL 6.0 (Portable Computing Language OpenCL), развивающего реализацию стандарта OpenCL, независимую от производителей графических ускорителей и позволяющую использовать различные бэкенды для выполнения OpenCL-ядер на разных типах графических и центральных процессоров. Код проекта распространяется под лицензией MIT. Поддерживается работа на платформах X86_64, MIPS32, ARM v7, AMD HSA APU, NVIDIA GPU и различных специализированных ASIP (Application-Specific Instruction-set Processor) и TTA-процессорах (Transport Triggered Architecture) c архитектурой VLIW.
+https://www.opennet.ru/opennews/art.shtml?num=61399</description>
+    </item>
+    
     <item>
       <title>Релиз PoCL 5.0 с независимой реализацией стандарта OpenCL </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-pocl-5-0-s-nezavisimoy-realizaciey-standarta-opencl-20231220-033536/</link>
