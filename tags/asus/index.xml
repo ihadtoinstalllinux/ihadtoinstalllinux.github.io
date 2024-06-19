@@ -6,7 +6,17 @@
     <description>Recent content in ASUS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/asus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 11:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/asus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в маршрутизаторах ASUS, допускающие удалённый доступ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-marshrutizatorah-asus-dopuskayuschie-udalennyy-dostup-20240619-113534/</link>
+      <pubDate>Wed, 19 Jun 2024 11:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-marshrutizatorah-asus-dopuskayuschie-udalennyy-dostup-20240619-113534/</guid>
+      <description>В различных моделях беспроводных маршрутизаторов ASUS выявлено 8 уязвимостей, двум из которых присвоен критический уровень опасности (9.8 из 10). Подробности об эксплуатации проблем пока не приводятся, известно лишь, что первая критическая уязвимость (CVE-2024-3080) позволяет удалённо подключиться к устройству без прохождения аутентификации. Вторая критическая уязвимость (CVE-2024-3912) позволяет неаутентифицированному атакующему загрузить произвольную прошивку, что можно использовать для удалённого выполнения любых cистемных команд на устройстве.
+https://www.opennet.ru/opennews/art.shtml?num=61397</description>
+    </item>
+    
     <item>
       <title>Уязвимости в сетевых устройствах Juniper, ASUS, D-Link, Tenda и NETGEAR</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-setevyh-ustroystvah-juniper-asus-d-link-tenda-i-netgear-20230919-003504/</link>
