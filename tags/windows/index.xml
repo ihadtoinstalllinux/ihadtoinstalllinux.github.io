@@ -6,7 +6,17 @@
     <description>Recent content in Windows on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2024 21:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 17:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект ExectOS развивает открытую ОС, нацеленную на совместимость с приложениями Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</link>
+      <pubDate>Thu, 20 Jun 2024 17:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</guid>
+      <description>Проект ExectOS предпринял попытку создания с нуля новой операционной системы, оснащённой микроядром с архитектурой XT, созданной по мотивам ядра Windows NT. Компоненты ядра в ExectOS отделены от подсистемы, обеспечивающей работу драйверов устройств, что позволяет обновлять основное ядро без необходимости перекомпиляции драйверов для нового ядра. Код проекта написан на языке С и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61412</description>
+    </item>
+    
     <item>
       <title>РОСА Центр управления 1.2 поможет мигрировать с Windows на российские ОС</title>
       <link>https://ihadtoinstalllinux.github.io/posts/rosa-centr-upravleniya-1-2-pomozhet-migrirovat-s-windows-na-rossiyskie-os-20240617-213518/</link>
