@@ -6,7 +6,16 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jun 2024 13:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 11:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X Window System исполнилось 40 лет, а FreeBSD - 31 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</link>
+      <pubDate>Thu, 20 Jun 2024 11:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</guid>
+      <description>Исполнилось 40 лет с момента объявления Робертом Шеффлером о создании протокола X Window System. Путь от выпуска X1 до X11 протокол прошёл всего за три года, после чего состояние X11 стабилизировалось и со временем лишь обрастает расширениями, но не меняет своей сути. Например, в качестве расширений в своё время были представлены такие распространённые возможности как XVideo, X Font Server, XKB, Xinerama, XCB, Multi-Pointer X, Present, DRI2, DRI3, RandR, X Input и т.</description>
+    </item>
+    
     <item>
       <title>Релиз FreeBSD 14.1 с улучшенным звуковым стеком и поддержкой cloud-init</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-1-s-uluchshennym-zvukovym-stekom-i-podderzhkoy-cloud-init-20240604-133519/</link>
