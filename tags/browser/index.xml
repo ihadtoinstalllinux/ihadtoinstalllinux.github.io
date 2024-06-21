@@ -6,7 +6,16 @@
     <description>Recent content in Browser on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 22:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 14:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Tor Browser 13.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-13-5-20240621-143511/</link>
+      <pubDate>Fri, 21 Jun 2024 14:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tor-browser-13-5-20240621-143511/</guid>
+      <description>После 8 месяцев разработки представлен значительный выпуск специализированного браузера Tor Browser 13.5, в котором продолжено развитие функциональности на базе ESR-ветки Firefox 115. Браузер сосредоточен на обеспечении анонимности, безопасности и приватности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно, что не позволяет отследить реальный IP-адрес пользователя (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix).</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Tails 6.3 и браузера Tor Browser 13.0.15</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-3-i-brauzera-tor-browser-13-0-15-20240516-223533/</link>
