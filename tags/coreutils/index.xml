@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>coreutils on iHADtoinstalllinux</title>
+    <title>Coreutils on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/coreutils/</link>
-    <description>Recent content in coreutils on iHADtoinstalllinux</description>
+    <description>Recent content in Coreutils on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Mar 2024 01:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreutils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 20:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreutils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эксперимент по переводу Gentoo на использование варианта Coreutils на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-perevodu-gentoo-na-ispolzovanie-varianta-coreutils-na-yazyke-rust-20240621-203602/</link>
+      <pubDate>Fri, 21 Jun 2024 20:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-perevodu-gentoo-na-ispolzovanie-varianta-coreutils-na-yazyke-rust-20240621-203602/</guid>
+      <description>Опубликованы результаты эксперимента по замене пакета GNU Coreutils на uutils в системном окружении Gentoo, с целью проверить возможность собирать и устанавливать в таком окружении пакеты при помощи пакетного менеджера Portage, завязанного на возможности Coreutils. Проект uutils coreutils развивает кроссплатформенную альтернативу пакета GNU Coreutils, написанную на языке Rust, распространяемую под пермиссивной лицензией MIT (вместо копилефт-лицензии GPL) и способную работать не только в Linux.
+https://www.opennet.ru/opennews/art.shtml?num=61418</description>
+    </item>
+    
     <item>
       <title>Выпуск набора утилит GNU Coreutils 9.5 и его варианта на языке Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-5-i-ego-varianta-na-yazyke-rust-20240329-013519/</link>
