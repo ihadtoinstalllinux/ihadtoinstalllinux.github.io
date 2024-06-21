@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>oF on iHADtoinstalllinux</title>
+    <title>of on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/of/</link>
-    <description>Recent content in oF on iHADtoinstalllinux</description>
+    <description>Recent content in of on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 23:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/of/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 17:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/of/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</link>
+      <pubDate>Fri, 21 Jun 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</guid>
+      <description>Стефан Шперлинг (Stefan Sperling), мейнтейнер стека протоколов 802.11 в OpenBSD и автор системы управления версиями Got (Game of Trees), объявил о работе по созданию нового хостинга Git-репозиториев Game of Trees Hub, построенного с использованием инструментария Got и развёрнутого на операционной системе OpenBSD. В Got предоставляется возможность размещения на своём оборудовании сервера и web-интерфейса для удалённого доступа к репозиториям, но остаётся большая категория пользователей которые не желают самостоятельно заниматься сопровождением личных Git-серверов и готовы воспользоваться для размещения кода внешним сервисом.</description>
+    </item>
+    
     <item>
       <title>Выпуск fheroes2 1.1.0, открытого движка Heroes of Might and Magic 2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-fheroes2-1-1-0-otkrytogo-dvizhka-heroes-of-might-and-magic-2-20240523-233521/</link>

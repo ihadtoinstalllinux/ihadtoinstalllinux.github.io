@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в NFS-сервере FreeBSD и OpenBSD, приводящая к удалённому выполнению кода
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В реализации NFS-сервера, применяемого BSD-системах, выявлена критическая уязвимость (CVE-2024-29937), позволяющая добиться удалённого выполнения своего кода с правами root на сервере. Проблема проявляется во всех выпусках OpenBSD и FreeBSD, вплоть до OpenBSD 7.4 и FreeBSD 14.0-RELEASE. Детальная информация об уязвимости пока не раскрывается, известно только то, что проблема вызвана логической ошибкой, не связанной с повреждением памяти. Отмечается, что уязвимость легко может быть эксплуатирована и использована для атаки на системы, в которых применяется NFS, но судя по видеодемонстрации уязвимость позволяет получить полный доступ к коревой ФС сервера и требует для эксплуатации наличия прав для монтирования разделов по NFS....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-03-25 17:36:04 +0500 +05'>March 25, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в NFS-сервере FreeBSD и OpenBSD, приводящая к удалённому выполнению кода" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>В OpenBSD-current добавлен новый wi-fi драйвер для чипов Mediatek
     </h2>
   </header>
@@ -185,18 +197,6 @@ https://www.opennet.ru/opennews/art.shtml?num=60231</p>
   </section>
   <footer class="entry-footer"><span title='2023-12-04 16:35:14 +0500 +05'>December 4, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to В языке системного программирования Hare реализована поддержка OpenBSD" href="https://ihadtoinstalllinux.github.io/posts/v-yazyke-sistemnogo-programmirovaniya-hare-realizovana-podderzhka-openbsd-20231204-163514/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск OpenBSD 7.4
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.4. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства....</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-10-17 00:35:05 +0500 +05'>October 17, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск OpenBSD 7.4" href="https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-4-20231017-003505/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

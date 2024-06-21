@@ -6,7 +6,16 @@
     <description>Recent content in Hub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hub/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 17:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</link>
+      <pubDate>Fri, 21 Jun 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</guid>
+      <description>Стефан Шперлинг (Stefan Sperling), мейнтейнер стека протоколов 802.11 в OpenBSD и автор системы управления версиями Got (Game of Trees), объявил о работе по созданию нового хостинга Git-репозиториев Game of Trees Hub, построенного с использованием инструментария Got и развёрнутого на операционной системе OpenBSD. В Got предоставляется возможность размещения на своём оборудовании сервера и web-интерфейса для удалённого доступа к репозиториям, но остаётся большая категория пользователей которые не желают самостоятельно заниматься сопровождением личных Git-серверов и готовы воспользоваться для размещения кода внешним сервисом.</description>
+    </item>
+    
     <item>
       <title>Docker Hub начал блокировать доступ из России</title>
       <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-nachal-blokirovat-dostup-iz-rossii-20240530-163518/</link>
