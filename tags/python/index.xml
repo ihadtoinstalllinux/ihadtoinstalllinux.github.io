@@ -6,7 +6,17 @@
     <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 01:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Python-пакете Js2Py, загружаемого более миллиона раз в месяц</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</link>
+      <pubDate>Sun, 23 Jun 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</guid>
+      <description>В Python-пакете Js2Py, который был загружен в прошлом месяце 1.2 млн раз, выявлена уязвимость (CVE-2024-28397), позволяющая обойти sandbox-изоляцию и выполнить код в системе при обработке специально оформленных данных на JavaScript. Уязвимость может использоваться для атаки на программы, применяющие Js2Py для выполнения JavaScript-кода. Исправление пока доступно только в виде патча. Для проверки возможности атаки подготовлен прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=61421</description>
+    </item>
+    
     <item>
       <title>Выпуск Python-библиотеки для научных вычислений NumPy 2.0.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-python-biblioteki-dlya-nauchnyh-vychisleniy-numpy-2-0-0-20240616-133549/</link>
