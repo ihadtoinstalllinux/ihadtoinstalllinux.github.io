@@ -6,7 +6,16 @@
     <description>Recent content in Emacs on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление текстового редактора GNU Emacs 29.4 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tekstovogo-redaktora-gnu-emacs-29-4-s-ustraneniem-uyazvimosti-20240623-113557/</link>
+      <pubDate>Sun, 23 Jun 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tekstovogo-redaktora-gnu-emacs-29-4-s-ustraneniem-uyazvimosti-20240623-113557/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.4. Код проекта написан на языках Си и Lisp и распространяется под лицензией GPLv3. GNU Emacs 29.4 преподносится как внеплановый экстренный выпуск с устранением уязвимости (CVE не назначен). Детали об уязвимости пока не раскрываются, указано лишь, что для её блокирования запрещено исполнять произвольные shell-команды при включении режима Org. Судя по всему уязвимость позволяет добиться выполнения кода при открытии определённого контента в Emacs или при просмотре специально оформленных сообщений во входящем в состав Emacs почтовом/RSS/NNTP-клиенте Gnus.</description>
+    </item>
+    
     <item>
       <title>Выпуск текстового редактора GNU Emacs 29.3 с устранением уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-3-s-ustraneniem-uyazvimostey-20240325-123549/</link>
