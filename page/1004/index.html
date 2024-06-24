@@ -151,6 +151,19 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Обход ограничений SELinux, связанных с загрузкой модулей ядра
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Выявлена возможность обхода запрета загрузки модулей ядра, реализуемого через SELinux. Блокировка модулей в SELinux основывалась на ограничении доступа к системному вызову finit_module, позволяющему загрузить модуль из файла и применяемому в таких утилитах, как insmod. При этом правила SELinux не рассматривали системный вызов init_module, который также может применяться для загрузки модулей ядра напрямую из буфера в памяти.
+https://www.opennet.ru/opennews/art.shtml?num=59248</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-06-05 13:35:06 +0500 +05'>June 5, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Обход ограничений SELinux, связанных с загрузкой модулей ядра" href="https://ihadtoinstalllinux.github.io/posts/obhod-ogranicheniy-selinux-svyazannyh-s-zagruzkoy-moduley-yadra-20230605-133506/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Первый выпуск Blink, высокопроизводительного эмулятора систем x86-64
     </h2>
   </header>
@@ -198,20 +211,6 @@ https://www.opennet.ru/opennews/art.shtml?num=59241</p>
   </section>
   <footer class="entry-footer"><span title='2023-06-05 09:35:05 +0500 +05'>June 5, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Релиз оконного менеджера IceWM 3.4.0 " href="https://ihadtoinstalllinux.github.io/posts/reliz-okonnogo-menedzhera-icewm-3-4-0-20230605-093505/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-65.userapi.com/P8isWZX0tmuMGIzv1PhFQwqu3P3cGMR2aVptow/x054cj4x02E.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>x054cj4x02E.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2023-06-05 07:35:37 +0500 +05'>June 5, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to x054cj4x02E.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20230605-073537/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
