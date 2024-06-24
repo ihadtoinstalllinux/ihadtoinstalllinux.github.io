@@ -6,7 +6,17 @@
     <description>Recent content in GRUB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 00:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/grub/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 10:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/grub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slackware Linux переходит на использование загрузчика GNU GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</link>
+      <pubDate>Mon, 24 Jun 2024 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</guid>
+      <description>Патрик Фолькердинг (Patrick Volkerding), основатель и бессменный лидер (BDFL) проекта Slackware Linux, начал перевод дистрибутива на использование загрузчика GNU GRUB (Grand Unified Bootloader) вместо ранее применявшихся устаревших загрузчиков LILO и ELILO. GNU GRUB поддерживает спецификацию Multiboot и может использоваться для загрузки различных операционных систем, как напрямую, так и в режиме chainloading.
+https://www.opennet.ru/opennews/art.shtml?num=61429</description>
+    </item>
+    
     <item>
       <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>

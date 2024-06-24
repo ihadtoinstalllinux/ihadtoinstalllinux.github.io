@@ -6,7 +6,17 @@
     <description>Recent content in GNU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 10:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slackware Linux переходит на использование загрузчика GNU GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</link>
+      <pubDate>Mon, 24 Jun 2024 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</guid>
+      <description>Патрик Фолькердинг (Patrick Volkerding), основатель и бессменный лидер (BDFL) проекта Slackware Linux, начал перевод дистрибутива на использование загрузчика GNU GRUB (Grand Unified Bootloader) вместо ранее применявшихся устаревших загрузчиков LILO и ELILO. GNU GRUB поддерживает спецификацию Multiboot и может использоваться для загрузки различных операционных систем, как напрямую, так и в режиме chainloading.
+https://www.opennet.ru/opennews/art.shtml?num=61429</description>
+    </item>
+    
     <item>
       <title>Обновление текстового редактора GNU Emacs 29.4 с устранением уязвимости</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tekstovogo-redaktora-gnu-emacs-29-4-s-ustraneniem-uyazvimosti-20240623-113557/</link>
