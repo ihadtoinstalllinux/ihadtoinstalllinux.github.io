@@ -6,7 +6,17 @@
     <description>Recent content in Intel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2024 12:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 18:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в UEFI-прошивках Phoenix, затрагивающая многие устройства с CPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</link>
+      <pubDate>Mon, 24 Jun 2024 18:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</guid>
+      <description>В UEFI-прошивках Phoenix SecureCore, используемых на многих ноутбуках, ПК и серверах с процессорами Intel, выявлена уязвимость (CVE-2024-0762), позволяющая при наличии доступа к системе добиться выполнения кода на уровне прошивки. Уязвимость может использоваться после успешного совершения атаки на систему для оставления в прошивке бэкдора, работающего над операционной системой, обходящего механизмы обеспечения безопасности ОС, незаметного для программ определения вредоносного ПО и сохраняющего своё присутствие после переустановки ОС.
+https://www.opennet.ru/opennews/art.shtml?num=61432</description>
+    </item>
+    
     <item>
       <title>В KDE повышена эффективность кэширования и включено ускорение отрисовки курсора на GPU Intel</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-effektivnost-keshirovaniya-i-vklyucheno-uskorenie-otrisovki-kursora-na-gpu-20240608-123602/</link>

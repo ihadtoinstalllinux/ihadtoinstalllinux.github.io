@@ -6,7 +6,17 @@
     <description>Recent content in UEFI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jan 2024 16:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 18:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в UEFI-прошивках Phoenix, затрагивающая многие устройства с CPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</link>
+      <pubDate>Mon, 24 Jun 2024 18:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</guid>
+      <description>В UEFI-прошивках Phoenix SecureCore, используемых на многих ноутбуках, ПК и серверах с процессорами Intel, выявлена уязвимость (CVE-2024-0762), позволяющая при наличии доступа к системе добиться выполнения кода на уровне прошивки. Уязвимость может использоваться после успешного совершения атаки на систему для оставления в прошивке бэкдора, работающего над операционной системой, обходящего механизмы обеспечения безопасности ОС, незаметного для программ определения вредоносного ПО и сохраняющего своё присутствие после переустановки ОС.
+https://www.opennet.ru/opennews/art.shtml?num=61432</description>
+    </item>
+    
     <item>
       <title>Удалённая уязвимость в прослойке Shim, позволяющая обойти UEFI Secure Boot</title>
       <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-prosloyke-shim-pozvolyayuschaya-oboyti-uefi-secure-boot-20240126-163601/</link>
