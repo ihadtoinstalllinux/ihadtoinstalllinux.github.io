@@ -6,7 +6,17 @@
     <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 19:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 02:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Firefox 127.0.2 с устранением проблемы с YouTube</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</link>
+      <pubDate>Wed, 26 Jun 2024 02:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</guid>
+      <description>Доступен корректирующий выпуск Firefox 127.0.2, в котором устранены проблемы с зависанием воспроизведения видео с YouTube при смене позиции в потоке. Проблема вызвана ошибочным формированием потока в формате VP9 на стороне YouTube и проявляется, среди прочего, для видео VP9 с качеством выше 1080p.
+https://www.opennet.ru/opennews/art.shtml?num=61441</description>
+    </item>
+    
     <item>
       <title>В ночные сборки Firefox добавлена поддержка вертикальных вкладок</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-nochnye-sborki-firefox-dobavlena-podderzhka-vertikalnyh-vkladok-20240625-193515/</link>
