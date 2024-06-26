@@ -6,7 +6,16 @@
     <description>Recent content in OS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 16:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jun 2024 01:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Chrome OS 126</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-126-20240627-013606/</link>
+      <pubDate>Thu, 27 Jun 2024 01:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-126-20240627-013606/</guid>
+      <description>Представлен релиз операционной системы Chrome OS 126, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 126. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
     <item>
       <title>Обновление Bliss OS, сборки Android для ПК и ноутбуков</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-bliss-os-sborki-android-dlya-pk-i-noutbukov-20240619-163601/</link>

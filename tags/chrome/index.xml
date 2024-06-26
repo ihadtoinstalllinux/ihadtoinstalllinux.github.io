@@ -6,7 +6,16 @@
     <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2024 16:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jun 2024 01:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Chrome OS 126</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-126-20240627-013606/</link>
+      <pubDate>Thu, 27 Jun 2024 01:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-126-20240627-013606/</guid>
+      <description>Представлен релиз операционной системы Chrome OS 126, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 126. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
     <item>
       <title>Выпуск web-браузера Chrome 126 со встроенным OCR-движком</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-chrome-126-so-vstroennym-ocr-dvizhkom-20240613-163529/</link>
