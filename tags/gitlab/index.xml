@@ -6,7 +6,16 @@
     <description>Recent content in GitLab on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2024 13:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jun 2024 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в GitLab, позволяющая запустить pipeline-работы под другим пользователем </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-polzovatelem-20240627-123551/</link>
+      <pubDate>Thu, 27 Jun 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschaya-zapustit-pipeline-raboty-pod-drugim-polzovatelem-20240627-123551/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 17.1.1, 17.0.3, 16.11.5, 16.10.8, 16.9.9, 16.8.8, 16.7.8 и 16.6.8, в которых устранены 14 уязвимостей. Одной из проблем (СVE-2024-5655), которая проявляется начиная с выпуска GitLab 15.8, присвоен критический уровень опасности. Уязвимость позволяет запустить работы в конвейере непрерывной интеграции (pipeline jobs) под произвольным пользователем. Выполнение своей работы в контексте другого пользователя позволяет атакующему получить доступ к внутренним репозиториям и закрытым проектам этого пользователя.</description>
+    </item>
+    
     <item>
       <title>GitLab заблокировал BPC, браузерное дополнение для обхода Paywall</title>
       <link>https://ihadtoinstalllinux.github.io/posts/gitlab-zablokiroval-bpc-brauzernoe-dopolnenie-dlya-obhoda-paywall-20240415-133513/</link>
