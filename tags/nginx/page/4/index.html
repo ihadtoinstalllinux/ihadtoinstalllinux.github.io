@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость конфигураций Nginx с некорректными настройками блока alias
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Некоторые серверы с nginx остаются уязвимы для техники Nginx Alias Traversal, которая была предложена на конференции Blackhat ещё в 2018 году и позволяет получить доступ к файлам и каталогам, размещённым вне корневого каталога, заданного в директиве “alias”. Проблема проявляется только в конфигурациях с директивой “alias”, размещённой внутри блока “location”, параметр которой не завершается на символ “/”.
+https://www.opennet.ru/opennews/art.shtml?num=59383</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-07-05 22:35:06 +0500 +05'>July 5, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость конфигураций Nginx с некорректными настройками блока alias" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-konfiguraciy-nginx-s-nekorrektnymi-nastroykami-bloka-alias-20230705-223506/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Выпускт nginx 1.25.1    
     </h2>
   </header>
@@ -187,22 +200,10 @@ https://www.opennet.ru/opennews/art.shtml?num=59186</p>
   <footer class="entry-footer"><span title='2023-04-12 10:35:07 +0500 +05'>April 12, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Выпуск nginx 1.24.0 " href="https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-24-0-20230412-103507/"></a>
 </article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск nginx 1.23.4 с включением по умолчанию TLSv1.3
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Сформирован выпуск основной ветки nginx 1.23.4, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.22.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.23.x будет сформирована стабильная ветка 1.24.
-https://www.opennet.ru/opennews/art.shtml?num=58882</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-03-29 01:35:07 +0500 +05'>March 29, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск nginx 1.23.4 с включением по умолчанию TLSv1.3" href="https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-23-4-s-vklyucheniem-po-umolchaniyu-tlsv1-3-20230329-013507/"></a>
-</article>
 <footer class="page-footer">
   <nav class="pagination">
     <a class="prev" href="https://ihadtoinstalllinux.github.io/tags/nginx/page/3/">« Prev Page</a>
+    <a class="next" href="https://ihadtoinstalllinux.github.io/tags/nginx/page/5/">Next Page »</a>
   </nav>
 </footer>
     </main>
