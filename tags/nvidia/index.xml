@@ -6,7 +6,16 @@
     <description>Recent content in NVIDIA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 01:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 14:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 555.58</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-555-58-20240628-143603/</link>
+      <pubDate>Fri, 28 Jun 2024 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-555-58-20240628-143603/</guid>
+      <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 555.58. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 550.x стала седьмой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+    </item>
+    
     <item>
       <title>В Fedora 41 планируют добавить AI-инструменты и расширить поддержку GPU NVIDIA</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</link>
