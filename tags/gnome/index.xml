@@ -6,7 +6,17 @@
     <description>Recent content in GNOME on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2024 13:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 18:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GNOME реализована возможность сборки только с Wayland и улучшена поддержка планшетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-realizovana-vozmozhnost-sborki-tolko-s-wayland-i-uluchshena-podderzhka-planshetov-20240629-183524/</link>
+      <pubDate>Sat, 29 Jun 2024 18:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-realizovana-vozmozhnost-sborki-tolko-s-wayland-i-uluchshena-podderzhka-planshetov-20240629-183524/</guid>
+      <description>В кодовую базу GNOME Shell и композитного менеджера Mutter приняты изменения, позволяющие осуществить сборку без поддержки X11, оставив только компоненты для Wayland. Изменение выполнено в рамках развиваемой последние два года инициативы по переводу X11 в разряд необязательных зависимостей (до сих пор Mutter не мог быть собран только как композитный сервер Wayland, без привязок к X11).
+https://www.opennet.ru/opennews/art.shtml?num=61462</description>
+    </item>
+    
     <item>
       <title>В Fedora 41 предложено перевести инсталлятор на Wayland и удалить X11-пакеты из сборок с GNOME </title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</link>
