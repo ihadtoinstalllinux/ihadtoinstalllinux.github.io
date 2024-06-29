@@ -6,7 +6,16 @@
     <description>Recent content in KWin on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 13:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kwin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 13:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kwin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В KDE решены проблемы с производительностью KWin на старом оборудовании</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-resheny-problemy-s-proizvoditelnostyu-kwin-na-starom-oborudovanii-20240629-133522/</link>
+      <pubDate>Sat, 29 Jun 2024 13:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-resheny-problemy-s-proizvoditelnostyu-kwin-na-starom-oborudovanii-20240629-133522/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Из интересных изменений можно отметить проведение работы по устранению в композитном менеджере проблем, приводящих при использовании сеанса на базе Wayland к снижению производительности на старом оборудовании с GPU Intel. Исправление, устраняющее проседание производительности при использовании тройной буферизации, включено в состав корректирующего выпуска KDE Plasma 6.1.1. Кроме того, в KWin обеспечен автоматический переход на программную отрисовку на системах со старыми GPU, на которых не поддерживаются необходимые операции OpenGL.</description>
+    </item>
+    
     <item>
       <title>Композитный менеджер Theseus Ship 6.0, нацеленный на использование в KDE вместо KWin</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompozitnyy-menedzher-theseus-ship-6-0-nacelennyy-na-ispolzovanie-v-kde-vmesto-kwin-20240228-133551/</link>
