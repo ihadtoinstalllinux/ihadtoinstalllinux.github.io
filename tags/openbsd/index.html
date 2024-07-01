@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Из OpenBSD удалена утилита dhclient в пользу фонового процесса dhcpleased
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Тэо де Раадт (Theo de Raadt) внёс в кодовую базу OpenBSD-current, на основе которой формируется следующий значительный релиз, изменение, удаляющее DHCP-клиент dhclient. Вместо dhclient предлагается использовать постоянно запущенный фоновый процесс dhcpleased, поставляющийся начиная с OpenBSD 6.9 и использующий утилиту ifconfig для включения автоконфигурации сетевых интерфейсов через DHCP (включается через запуск “ifconfig $if autoconf” или добавление “inet autoconf” в /etc/hostname.$if). Начиная с OpenBSD 7.0 фоновый процесс dhcpleased был включён по умолчанию, а утилита dhclient переведена в разряд опций....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-07-01 15:35:59 +0500 +05'>July 1, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Из OpenBSD удалена утилита dhclient в пользу фонового процесса dhcpleased" href="https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got
     </h2>
   </header>
@@ -185,18 +197,6 @@ https://www.opennet.ru/opennews/art.shtml?num=61011</p>
   </section>
   <footer class="entry-footer"><span title='2024-04-17 14:35:48 +0500 +05'>April 17, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Проект OpenBSD перешёл на использование формата PAX для tar-архивов" href="https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-pereshel-na-ispolzovanie-formata-pax-dlya-tar-arhivov-20240417-143548/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск OpenBSD 7.5
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.5. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства....</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-04-05 15:35:24 +0500 +05'>April 5, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск OpenBSD 7.5" href="https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-5-20240405-153524/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

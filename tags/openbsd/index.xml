@@ -6,7 +6,16 @@
     <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2024 17:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 15:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Из OpenBSD удалена утилита dhclient в пользу фонового процесса dhcpleased</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</link>
+      <pubDate>Mon, 01 Jul 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) внёс в кодовую базу OpenBSD-current, на основе которой формируется следующий значительный релиз, изменение, удаляющее DHCP-клиент dhclient. Вместо dhclient предлагается использовать постоянно запущенный фоновый процесс dhcpleased, поставляющийся начиная с OpenBSD 6.9 и использующий утилиту ifconfig для включения автоконфигурации сетевых интерфейсов через DHCP (включается через запуск &amp;ldquo;ifconfig $if autoconf&amp;rdquo; или добавление &amp;ldquo;inet autoconf&amp;rdquo; в /etc/hostname.$if). Начиная с OpenBSD 7.0 фоновый процесс dhcpleased был включён по умолчанию, а утилита dhclient переведена в разряд опций.</description>
+    </item>
+    
     <item>
       <title>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got</title>
       <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</link>
