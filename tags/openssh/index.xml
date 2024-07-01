@@ -6,7 +6,17 @@
     <description>Recent content in OpenSSH on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2024 13:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 16:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в OpenSSH, позволяющая удалённо выполнить код с правами root на серверах с Glibc</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</link>
+      <pubDate>Mon, 01 Jul 2024 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</guid>
+      <description>Компания Qualys выявила критическую уязвимость (CVE-2024-6387) в OpenSSH, позволяющую добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость, которая получила кодовое имя regreSSHion, проявляется начиная с версии OpenSSH 8.5 на системах со стандартной библиотекой Glibc.
+https://www.opennet.ru/opennews/art.shtml?num=61470</description>
+    </item>
+    
     <item>
       <title>В OpenSSH добавлена встроенная защита от атак по подбору паролей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-vstroennaya-zaschita-ot-atak-po-podboru-paroley-20240607-133527/</link>

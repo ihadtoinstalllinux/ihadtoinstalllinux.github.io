@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Исследователи из Вустерского политехнического института (США) представили новый тип атаки Mayhem, использующий метод искажения битов в динамической оперативной памяти Rowhammer для изменения значений переменных в стеке, применяемых в программе в качестве флагов для принятия решения об успешности аутентификации и прохождения проверок безопасности. Практические примеры применения атаки продемонстрированы для обхода аутентификации в SUDO, OpenSSH и MySQL, а также для изменения результата проверок, связанных с безопасностью, в библиотеке OpenSSL.
+https://www.opennet.ru/opennews/art.shtml?num=60334</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-12-22 22:35:55 +0500 +05'>December 22, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH" href="https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Релиз OpenSSH 9.6 c устранением уязвимостей
     </h2>
   </header>
@@ -186,18 +199,6 @@ https://www.opennet.ru/opennews/art.shtml?num=59579</p>
   </section>
   <footer class="entry-footer"><span title='2023-08-10 21:35:05 +0500 +05'>August 10, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Релиз OpenSSH 9.4" href="https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-4-20230810-213505/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Компания Qualys выявила удалённо эксплуатируемую уязвимость (CVE-2023-38408) в реализации ssh-agent из состава OpenSSH, позволяющую выполнить код в системе, предоставившей доступ к ssh-agent для хоста на другом конце ssh-соединения. Совершение атаки возможно только если пользователь подключился по ssh к системе, контролируемой злоумышленником, включив проброс сокета к ssh-agent по ssh при помощи опции “-A” или настройки ForwardAgent в файле конфигурации. Кроме того, для успешной атаки в системе жертвы должны присутствовать определённые библиотеки. Исследователями подготовлен прототип эксплоита, работа которого продемонстрирована в Ubuntu 22....</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-07-20 02:35:46 +0500 +05'>July 20, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent" href="https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Компания Qualys выявила удалённо эксплуатируемую уязвимость (CVE-2023-38408) в реализации ssh-agent из состава OpenSSH, позволяющую выполнить код в системе, предоставившей доступ к ssh-agent для хоста на другом конце ssh-соединения. Совершение атаки возможно только если пользователь подключился по ssh к системе, контролируемой злоумышленником, включив проброс сокета к ssh-agent по ssh при помощи опции “-A” или настройки ForwardAgent в файле конфигурации. Кроме того, для успешной атаки в системе жертвы должны присутствовать определённые библиотеки. Исследователями подготовлен прототип эксплоита, работа которого продемонстрирована в Ubuntu 22....</p>
+  </section>
+  <footer class="entry-footer"><span title='2023-07-20 02:35:46 +0500 +05'>July 20, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent" href="https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Обновление OpenSSH 9.3 с устранением проблем с безопасностью
     </h2>
   </header>
