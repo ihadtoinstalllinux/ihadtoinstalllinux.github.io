@@ -6,7 +6,16 @@
     <description>Recent content in s on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 12:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 14:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NS-сервера домена .top прекратили обслуживание запросов валидации Let&#39;s Encrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</link>
+      <pubDate>Mon, 01 Jul 2024 14:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</guid>
+      <description>Пользователи некоммерческого удостоверяющего центра Let&amp;rsquo;s Encrypt, контролируемого сообществом и предоставляющего сертификаты безвозмездно всем желающим, при получении сертификатов столкнулись с невозможностью подтверждения прав на домены в зоне &amp;ldquo;.top&amp;rdquo; через DNS. С 25 июня DNS-серверы, отвечающие за домен первого уровня &amp;ldquo;.top&amp;rdquo;, перестали принимать запросы от резолверов проекта Lets Encrypt, используемых в процессе проверки методом DNS-01, которая, например, требуется для получения сертификатов с масками, позволяющими охватить в одном сертификате группу поддоменов (например, *.example.com).</description>
+    </item>
+    
     <item>
       <title>Let&#39;s Encrypt перешёл на NTP-сервер ntpd-rs, написанный на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</link>
