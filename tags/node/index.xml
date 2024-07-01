@@ -6,7 +6,16 @@
     <description>Recent content in Node on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 12:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Раздутый отчёт об уязвимости вынудил разработчика node-ip перевести репозиторий в архивный режим</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</link>
+      <pubDate>Mon, 01 Jul 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</guid>
+      <description>Фёдор Индутный (Fedor Indutny), автор платформы Io.js (форк Node.js), входящий в технический комитет, управляющий разработкой Node.js, попытался привлечь внимание к проблеме с назначением CVE-идентификаторов некорректным отчётам об уязвимостям, не соответствующим действительности или неадекватно представляющим уровень опасности. Номер CVE, применяемый для идентификации уязвимости, присваивается без должной проверки и без консультации с разработчиками уязвимых программ, что приводит к появлению злоупотреблений, в которых под видом опасных уязвимостей преподносятся несущественные ошибки, на деле не представляющие угрозу безопасности.</description>
+    </item>
+    
     <item>
       <title>Доступна JavaScript-платформа Node.js 22.0.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupna-javascript-platforma-node-js-22-0-0-20240425-123511/</link>
