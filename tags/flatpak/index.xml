@@ -6,7 +6,17 @@
     <description>Recent content in Flatpak on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2024 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 13:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 42 намерены реализовать телеметрию и изменить модель доступа к дискам и flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</link>
+      <pubDate>Tue, 02 Jul 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</guid>
+      <description>В выпуск Fedora Workstation 42, намеченный на весну следующего года, предложено добавить компоненты для сбора и отправки метрик, которые позволят изучить реальные предпочтения пользователей и учесть их при принятии решений, связанных с развитием дистрибутива, определением приоритетов в разработке и повышением удобства работы пользователей. Предложение пока находится на стадии обсуждения и не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=61478</description>
+    </item>
+    
     <item>
       <title>Уязвимость во flatpak, позволяющая обойти  sandbox-изоляцию</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</link>
