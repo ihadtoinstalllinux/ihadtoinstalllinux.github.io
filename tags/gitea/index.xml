@@ -6,7 +6,16 @@
     <description>Recent content in Gitea on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Feb 2024 02:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 15:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gitea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна платформа совместной разработки Forgejo 8.0, отделившаяся от Gitea</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-sovmestnoy-razrabotki-forgejo-8-0-otdelivshayasya-ot-gitea-20240803-153537/</link>
+      <pubDate>Sat, 03 Aug 2024 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-sovmestnoy-razrabotki-forgejo-8-0-otdelivshayasya-ot-gitea-20240803-153537/</guid>
+      <description>Опубликован выпуск платформы совместной разработки Forgejo 8.0, которая с февраля полностью отделилась в самодостаточный проект от системы Gitea (ранее Forgejo развивался в форме синхронизированного форка). Проект позволяет развернуть на своих серверах систему для совместной работы с репозиториями Git, напоминающую по решаемым задачам GitHub, Bitbucket и Gitlab. Форк был создан в 2022 году после попыток коммерциализации Gitea и перехода управления в руки коммерческой компании. В Forgejo было продолжено применение принципов независимого управления и сохранена подконтрольность сообществу.</description>
+    </item>
+    
     <item>
       <title>Платформа совместной разработки Forgejo полностью отделилась от Gitea</title>
       <link>https://ihadtoinstalllinux.github.io/posts/platforma-sovmestnoy-razrabotki-forgejo-polnostyu-otdelilas-ot-gitea-20240217-023546/</link>
