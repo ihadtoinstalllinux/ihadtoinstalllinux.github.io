@@ -6,7 +6,16 @@
     <description>Recent content in Apple on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2024 23:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 17:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple опубликовал открытую библиотеку гомоморфного шифрования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/apple-opublikoval-otkrytuyu-biblioteku-gomomorfnogo-shifrovaniya-20240803-173600/</link>
+      <pubDate>Sat, 03 Aug 2024 17:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/apple-opublikoval-otkrytuyu-biblioteku-gomomorfnogo-shifrovaniya-20240803-173600/</guid>
+      <description>Компания Apple объявила о создании открытой библиотеки с реализацией методов гомоморфного шифрования на языке Swift. Библиотека позволяет создавать приложения, обрабатывающие данные, доступные только в зашифрованном виде, без промежуточной расшифровки ни на одном из этапов вычислений. На выходе выдаётся зашифрованный результат, который аналогичен шифрованию результата выполнения тех же вычислений над исходными незашифрованными данными. Код проекта распространяется под лицензией Apache 2.0. Реализация основана на схеме BFV (Brakerski-Fan-Vercauteren), которая, в свою очередь, основана на задаче обучения с ошибками в кольце (RLWE), защищённой от криптоанализа квантовыми компьютерами.</description>
+    </item>
+    
     <item>
       <title>Представлен новый видеодрайвер для чипа Apple M1, поддерживающий Vulkan 1.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-novyy-videodrayver-dlya-chipa-apple-m1-podderzhivayuschiy-vulkan-1-3-20240605-233550/</link>
