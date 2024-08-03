@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rsync on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rsync/</link>
+    <description>Recent content in Rsync on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 02:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rsync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск утилиты для синхронизации файлов Rsync 3.3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-sinhronizacii-faylov-rsync-3-3-0-20240407-023603/</link>
+      <pubDate>Sun, 07 Apr 2024 02:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-sinhronizacii-faylov-rsync-3-3-0-20240407-023603/</guid>
+      <description>После полутора лет разработки опубликован релиз Rsync 3.3.0, утилиты для синхронизации файлов и резервного копирования, позволяющей минимизировать трафик за счёт инкрементального копирования изменений. В качестве транспорта могут быть использованы ssh, rsh или собственный протокол rsync. Поддерживается организация работы анонимных rsync-серверов, оптимально подходящих для обеспечения синхронизации зеркал.
+https://www.opennet.ru/opennews/art.shtml?num=60941</description>
+    </item>
+    
+  </channel>
+</rss>

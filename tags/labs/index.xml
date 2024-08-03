@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Labs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/labs/</link>
+    <description>Recent content in Labs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/labs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel и Blockade Labs опубликовали модель для синтеза 3D-изображений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-i-blockade-labs-opublikovali-model-dlya-sinteza-3d-izobrazheniy-20230622-153506/</link>
+      <pubDate>Thu, 22 Jun 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-i-blockade-labs-opublikovali-model-dlya-sinteza-3d-izobrazheniy-20230622-153506/</guid>
+      <description>Компании Intel и Blockade Labs совместно разработали модель машинного обучения LDM3D (Latent Diffusion Model for 3D) для генерации изображений и связанных с ними карт глубины на основе текстового описания на естественном языке. Разработка напоминает систему синтеза изображений Stable Diffusion, но позволяет формировать трёхмерный визуальный контент, такой как сферические панорамные изображения, которые можно просматривать в режиме 360 градусов. С практической стороны модель может применяться в играх и системах виртуальной реальности для интерактивного формирования трёхмерных окружений.</description>
+    </item>
+    
+  </channel>
+</rss>

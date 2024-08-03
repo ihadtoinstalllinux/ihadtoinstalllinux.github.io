@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Azure on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/azure/</link>
+    <description>Recent content in Azure on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 15:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft переименовал дистрибутив CBL-Mariner в Azure Linux и опубликовал Azure Sphere OS 24.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</link>
+      <pubDate>Wed, 06 Mar 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</guid>
+      <description>Компания Microsoft переименовала дистрибутив CBL-Mariner в Azure Linux. Ранее имя Azure Linux использовалось для специализированной сборки, устанавливаемой в Azure Kubernetes Service (AKS), а общая платформа для создания дистрибутивов развивалась под именем CBL-Mariner (Common Base Linux Mariner). Несколько дней назад Microsoft переименовал репозиторий CBL-Mariner в azurelinux, поменял названия утилит и заменил упоминание CBL-Mariner в документации на Azure Linux. После этого был сформирован первый выпуск платформы с новым именем - Azure Linux 2.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft анонсировал открытие кода Azure RTOS и передачу проекта сообществу Eclipse</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</link>
+      <pubDate>Sun, 26 Nov 2023 21:36:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</guid>
+      <description>Компания Microsoft объявила об открытии под пермиссивной лицензией MIT исходных текстов операционной системы реального времени Azure RTOS, которая была получена после поглощения компании Express Logic в 2019 году и до этого более 20 лет поставлялась под именем ThreadX. Утверждается, что во всём мире рассматриваемая ОС была установлена на более чем 12 миллиардов устройств, среди которых потребительская электроника, промышленные системы, медицинские устройства, принтеры, WiFi чипы и даже бортовые системы космических аппаратов.</description>
+    </item>
+    
+  </channel>
+</rss>

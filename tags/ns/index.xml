@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ns/</link>
+    <description>Recent content in NS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 14:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NS-сервера домена .top прекратили обслуживание запросов валидации Let&#39;s Encrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</link>
+      <pubDate>Mon, 01 Jul 2024 14:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</guid>
+      <description>Пользователи некоммерческого удостоверяющего центра Let&amp;rsquo;s Encrypt, контролируемого сообществом и предоставляющего сертификаты безвозмездно всем желающим, при получении сертификатов столкнулись с невозможностью подтверждения прав на домены в зоне &amp;ldquo;.top&amp;rdquo; через DNS. С 25 июня DNS-серверы, отвечающие за домен первого уровня &amp;ldquo;.top&amp;rdquo;, перестали принимать запросы от резолверов проекта Lets Encrypt, используемых в процессе проверки методом DNS-01, которая, например, требуется для получения сертификатов с масками, позволяющими охватить в одном сертификате группу поддоменов (например, *.example.com).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LibrePCB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/librepcb/</link>
+    <description>Recent content in LibrePCB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/librepcb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система проектирования печатных плат LibrePCB 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-proektirovaniya-pechatnyh-plat-librepcb-1-0-20230926-133506/</link>
+      <pubDate>Tue, 26 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-proektirovaniya-pechatnyh-plat-librepcb-1-0-20230926-133506/</guid>
+      <description>Представлен выпуск свободного пакета для автоматизации проектирования печатных плат LibrePCB 1.0.0, который помечен как первый полноценный выпуск, избавленный от ограничений, мешавших созданию достаточно сложных печатных плат. LibrePCB позиционируется как интуитивно понятный пакет для быстрой разработки плат, который отстаёт по функциональности от KiCad, но гораздо проще в работе и при этом учитывает для только потребности начинающих, но и профессиональных инженеров. Программа поставляется в сборках для Linux (Flatpak, Snap, AppImage), FreeBSD, macOS и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

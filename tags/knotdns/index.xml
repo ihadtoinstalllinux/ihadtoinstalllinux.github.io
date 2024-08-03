@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KnotDNS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/knotdns/</link>
+    <description>Recent content in KnotDNS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2023 01:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/knotdns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DNS-сервера KnotDNS 3.3.0 с поддержкой DNS поверх QUIC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-knotdns-3-3-0-s-podderzhkoy-dns-poverh-quic-20230829-013506/</link>
+      <pubDate>Tue, 29 Aug 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-knotdns-3-3-0-s-podderzhkoy-dns-poverh-quic-20230829-013506/</guid>
+      <description>Опубликован релиз KnotDNS 3.3.0, высокопроизводительного авторитативного DNS сервера (рекурсор выполнен в виде отдельного приложения), поддерживающего все современные возможности DNS. Проект разрабатывается чешским реестром имен CZ.NIC, написан на языке Си и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59676</description>
+    </item>
+    
+  </channel>
+</rss>

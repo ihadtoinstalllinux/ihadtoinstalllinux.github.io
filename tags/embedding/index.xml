@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Embedding on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/embedding/</link>
+    <description>Recent content in Embedding on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2023 14:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт код Jina Embedding, модели для векторного представления смысла текста</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-jina-embedding-modeli-dlya-vektornogo-predstavleniya-smysla-teksta-20231026-143606/</link>
+      <pubDate>Thu, 26 Oct 2023 14:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-jina-embedding-modeli-dlya-vektornogo-predstavleniya-smysla-teksta-20231026-143606/</guid>
+      <description>Компания Jina открыла под лицензией Apache 2.0 модель машинного обучения для векторного представления текста - jina-embeddings-v2. Модель позволяет преобразовать произвольный текст, включающий до 8192 знаков, в небольшую последовательность вещественных чисел, образующих вектор, сопоставленный с исходным текстом и воспроизводящий его семантику (смысл). Jina Embedding стала первой открытой моделью машинного обучения, обладающей характеристиками, не уступающими пропретарной модели векторизации текста от проекта OpenAI (text-embedding-ada-002), также способной обрабатывать тексты, насчитывающие до 8192 токенов.
+https://www.opennet.ru/opennews/art.shtml?num=59996</description>
+    </item>
+    
+  </channel>
+</rss>

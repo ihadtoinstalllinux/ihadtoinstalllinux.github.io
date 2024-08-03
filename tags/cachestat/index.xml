@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cachestat on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cachestat/</link>
+    <description>Recent content in cachestat on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2023 01:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cachestat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux 6.5 появится системный вызов cachestat</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-5-poyavitsya-sistemnyy-vyzov-cachestat-20230714-013505/</link>
+      <pubDate>Fri, 14 Jul 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-5-poyavitsya-sistemnyy-vyzov-cachestat-20230714-013505/</guid>
+      <description>В кодовую базу, на основе которой формируется ядро Linux 6.5, принято изменение с реализацией нового системного вызова &amp;ldquo;cachestat&amp;rdquo;, позволяющего программам в пространстве пользователя запрашивать более детальную статистику из страничного кэша на стороне ядра.
+https://www.opennet.ru/opennews/art.shtml?num=59435</description>
+    </item>
+    
+  </channel>
+</rss>

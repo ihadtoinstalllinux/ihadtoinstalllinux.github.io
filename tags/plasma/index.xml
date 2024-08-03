@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Plasma on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/plasma/</link>
+    <description>Recent content in Plasma on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2024 02:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/plasma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Тестирование среды рабочего стола KDE Plasma 6.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/testirovanie-sredy-rabochego-stola-kde-plasma-6-1-20240525-023559/</link>
+      <pubDate>Sat, 25 May 2024 02:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/testirovanie-sredy-rabochego-stola-kde-plasma-6-1-20240525-023559/</guid>
+      <description>Доступна для тестирования бета-версия среды рабочего стола Plasma 6.1. Протестировать новый выпуск можно через Live-сборку от проекта openSUSE и сборки от проекта KDE Neon Testing edition. Пакеты для различных дистрибутивов можно найти на данной странице. Релиз ожидается 18 июня.
+https://www.opennet.ru/opennews/art.shtml?num=61245</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Nitrux 3.4.0. NX Desktop не будут переводить на KDE Plasma 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-nitrux-3-4-0-nx-desktop-ne-budut-perevodit-na-kde-plasma-6-20240401-213530/</link>
+      <pubDate>Mon, 01 Apr 2024 21:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-nitrux-3-4-0-nx-desktop-ne-budut-perevodit-na-kde-plasma-6-20240401-213530/</guid>
+      <description>Опубликован выпуск дистрибутива Nitrux 3.4.0, построенного на пакетной базе Debian, технологиях KDE и системе инициализации OpenRC. Проект предлагает собственный рабочий стол NX Desktop, который представляет собой надстройку над KDE Plasma. На основе библиотеки Maui для дистрибутива развивается набор типовых пользовательских приложений, которые можно использовать как на настольных системах, так и на мобильных устройствах. Для установки дополнительных приложений продвигается система самодостаточных пакетов AppImages. Размер полного загрузочного образа составляет 3.4 ГБ. Наработки проекта распространяются под свободными лицензиями.</description>
+    </item>
+    
+    <item>
+      <title>Корректирующий выпуск KDE Plasma 6.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/korrektiruyuschiy-vypusk-kde-plasma-6-0-1-20240306-133604/</link>
+      <pubDate>Wed, 06 Mar 2024 13:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/korrektiruyuschiy-vypusk-kde-plasma-6-0-1-20240306-133604/</guid>
+      <description>Спустя неделю после релиза KDE 6.0 опубликован первый корректирующий выпуск среды рабочего стола KDE Plasma 6.0.1, в котором по горячим следам устранено более сотни ошибок. Среди исправленных проблем.
+https://www.opennet.ru/opennews/art.shtml?num=60738</description>
+    </item>
+    
+    <item>
+      <title>Доступна мобильная платформа KDE Plasma Mobile 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-6-20240302-233515/</link>
+      <pubDate>Sat, 02 Mar 2024 23:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-mobilnaya-platforma-kde-plasma-mobile-6-20240302-233515/</guid>
+      <description>Разработчики проекта KDE Plasma Mobile представили редакцию пользовательской среды KDE Plasma 6 для мобильных устройств, переведённую на Qt 6 и набор библиотек KDE Frameworks 6. Поддержка телефонии в Plasma Mobile базируется на телефонном стеке ModemManager и коммуникационном фреймворке Telepathy. Для вывода графики используется композитный сервер kwin_wayland, а для обработки звука применяется PulseAudio. Готове сборки KDE Plasma Mobile 6 можно загрузить из тестового репозитория дистрибутива postmarketOS.
+https://www.opennet.ru/opennews/art.shtml?num=60714</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива KaOS 2024.01, укомплектованный KDE Plasma 6-RC2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-kaos-2024-01-ukomplektovannyy-kde-plasma-6-rc2-20240205-133546/</link>
+      <pubDate>Mon, 05 Feb 2024 13:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-kaos-2024-01-ukomplektovannyy-kde-plasma-6-rc2-20240205-133546/</guid>
+      <description>Опубликован выпуск KaOS 2024.01, дистрибутива с непрерывной моделью обновления, нацеленного на предоставление рабочего стола на основе свежих выпусков KDE и приложений, использующих Qt. Из специфичных для дистрибутива особенностей оформления можно отметить размещение вертикальной панели в правой стороне экрана. Дистрибутив развивается с оглядкой на Arch Linux, но поддерживает собственный независимый репозиторий, насчитывающий более 1500 пакетов, а также предлагает ряд собственных графических утилит. В качестве файловой системы по умолчанию применяется XFS. Сборки публикуются для систем x86_64 (3.</description>
+    </item>
+    
+    <item>
+      <title>Для OpenBSD реализована возможность использования рабочего стола KDE Plasma</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-vozmozhnost-ispolzovaniya-rabochego-stola-kde-plasma-20240109-123551/</link>
+      <pubDate>Tue, 09 Jan 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-vozmozhnost-ispolzovaniya-rabochego-stola-kde-plasma-20240109-123551/</guid>
+      <description>Рафаэль Садовский (Rafael Sadowski) объявил о доступности пользовательского окружения KDE Plasma 5.27 для установки в OpenBSD-current, формировании готовых для установки пакетов kde-plasma и kde-plasma-extra, и намерении обеспечить поддержку KDE Plasma в весеннем выпуске OpenBSD 7.5. После прекращения поддержки KDE4 в OpenBSD так и не была перенесена возможность использования новой ветки рабочего стола KDE Plasma 5. Пакеты с приложениями KDE Gears 5 и библиотеками KDE Frameworks 5 достаточно давно доступны в портах OpenBSD, но сама оболочка до настоящего времени оставалась неработоспособной.</description>
+    </item>
+    
+    <item>
+      <title>Для Kubuntu 22.04 предложены пакеты с KDE Plasma 5.27</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-kubuntu-22-04-predlozheny-pakety-s-kde-plasma-5-27-20231019-143505/</link>
+      <pubDate>Thu, 19 Oct 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-kubuntu-22-04-predlozheny-pakety-s-kde-plasma-5-27-20231019-143505/</guid>
+      <description>Разработчики дистрибутива Kubuntu объявили о предоставлении возможности перехода на свежую стабильную версию пользовательского окружения KDE в LTS-ветке дистрибутива Kubuntu 22.04. Для установки предложены пакеты с KDE Plasma 5.27, KDE Frameworks 5.110 и KDE Gear 23.08, которые бэкпортированы из Kubuntu 23.10. В штатной поставке Kubuntu 22.04 LTS предлагались выпуски KDE Plasma 5.24 и KDE Gear 21.12.
+https://www.opennet.ru/opennews/art.shtml?num=59956</description>
+    </item>
+    
+    <item>
+      <title>В KDE Plasma 6 намечено удаление некоторых возможностей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-namecheno-udalenie-nekotoryh-vozmozhnostey-20230728-013508/</link>
+      <pubDate>Fri, 28 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-namecheno-udalenie-nekotoryh-vozmozhnostey-20230728-013508/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал обзор функциональности, которую планируется удалить в выпуске KDE Plasma 6, намеченном на осень 2023 года. В основном удалению подлежат устаревшие возможности, которые мешают развитию KDE и не работают должным образом. Удаление подобных компонентов позволит высвободить ресурсы для продвижения новшеств.
+https://www.opennet.ru/opennews/art.shtml?num=59508</description>
+    </item>
+    
+    <item>
+      <title>Представлена операционная система РОСА Мобайл на базе KDE Plasma Mobile</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-operacionnaya-sistema-rosa-mobayl-na-baze-kde-plasma-mobile-20230719-173507/</link>
+      <pubDate>Wed, 19 Jul 2023 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlena-operacionnaya-sistema-rosa-mobayl-na-baze-kde-plasma-mobile-20230719-173507/</guid>
+      <description>Компания НТЦ ИТ РОСА представила мобильную операционную систему РОСА Мобайл (ROSA MOBILE), поддерживающую установку на российский смартфон Ayya T1. Пользовательский интерфейс РОСА Мобайл построен на основе открытой платформы KDE Plasma Mobile, развиваемой с использованием мобильной редакции рабочего стола Plasma 5, библиотек KDE Frameworks 5, телефонного стека ModemManager и коммуникационного фреймворка Telepathy. Мобильные приложения задействованы из набора Plasma Mobile Gear и базируются на библиотеке Qt, наборе компонентов Mauikit и фреймворке Kirigami, позволяющем создавать универсальные интерфейсы, пригодные для смартфонов, планшетов и ПК.</description>
+    </item>
+    
+    <item>
+      <title>Сформированы сборки KDE Neon с пользовательским окружением KDE Plasma 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-kde-neon-s-polzovatelskim-okruzheniem-kde-plasma-6-20230705-013504/</link>
+      <pubDate>Wed, 05 Jul 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-kde-neon-s-polzovatelskim-okruzheniem-kde-plasma-6-20230705-013504/</guid>
+      <description>Разработчики проекта KDE Neon, формирующего Live-сборки с актуальными версиями программ и компонентов KDE, представили новые экспериментальные сборки KDE neon unstable edition, предлагающие для ознакомления пользовательское окружение на базе оболочки KDE Plasma 6. В текущем виде пользовательское окружение в сборках KDE Neon с Plasma 6 почти не отличимо от сборок с Plasma 5.
+https://www.opennet.ru/opennews/art.shtml?num=59381</description>
+    </item>
+    
+    <item>
+      <title>В KDE Plasma 6 будут включены по умолчанию Wayland и плавающая панель</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-budut-vklyucheny-po-umolchaniyu-wayland-i-plavayuschaya-panel-20230511-203506/</link>
+      <pubDate>Thu, 11 May 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-budut-vklyucheny-po-umolchaniyu-wayland-i-plavayuschaya-panel-20230511-203506/</guid>
+      <description>Разработчики проекта KDE приняли решение изменить некоторые настройки по умолчанию в грядущем выпуске KDE Plasma 6, который ожидается ожидается осенью 2023 года. Среди наиболее важных решений.
+https://www.opennet.ru/opennews/art.shtml?num=59120</description>
+    </item>
+    
+  </channel>
+</rss>

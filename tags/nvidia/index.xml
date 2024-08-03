@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NVIDIA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nvidia/</link>
+    <description>Recent content in NVIDIA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 01:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA подытожила планы по переводу Linux-драйверов на открытые модули ядра по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-podytozhila-plany-po-perevodu-linux-drayverov-na-otkrytye-moduli-yadra-po-umolchani-20240719-013557/</link>
+      <pubDate>Fri, 19 Jul 2024 01:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-podytozhila-plany-po-perevodu-linux-drayverov-na-otkrytye-moduli-yadra-po-umolchani-20240719-013557/</guid>
+      <description>Инженеры из компании NVIDIA опубликовали заметку, резюмирующую планы в отношении перевода проприетарных драйверов NVIDIA на использование по умолчанию открытых модулей ядра Linux для GPU, начиная с микроархитектуры Turing (GeForce GTX 1600 и RTX 2000). Используемые в драйверах NVIDIA модули для ядра Linux были открыты весной 2022 года под лицензиями MIT и GPLv2, а план по использованию их по умолчанию был анонсирован два месяца назад. Речь только о переключении основного пакета драйверов по умолчанию на уже существующие открытые модули, которые ранее поставлялись в качестве опции.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 555.58</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-555-58-20240628-143603/</link>
+      <pubDate>Fri, 28 Jun 2024 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-555-58-20240628-143603/</guid>
+      <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 555.58. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 550.x стала седьмой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 планируют добавить AI-инструменты и расширить поддержку GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</link>
+      <pubDate>Sun, 16 Jun 2024 01:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, рассказал о некоторых возможностях, которые планируют добавить в следующий выпуск Fedora Workstation.
+https://www.opennet.ru/opennews/art.shtml?num=61374</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в проприетарных драйверах NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-proprietarnyh-drayverah-nvidia-20240608-153541/</link>
+      <pubDate>Sat, 08 Jun 2024 15:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-proprietarnyh-drayverah-nvidia-20240608-153541/</guid>
+      <description>Компания NVIDIA раскрыла сведения о серии уязвимостей в проприетарных драйверах к GPU и VGPU, которые устранены в недавно выпущенных обновлениях 550.90.07, 535.183.01 и 470.256.02.
+https://www.opennet.ru/opennews/art.shtml?num=61337</description>
+    </item>
+    
+    <item>
+      <title>Представитель NVIDIA ответил на вопросы, связанные с переводом драйверов на открытые модули ядра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavitel-nvidia-otvetil-na-voprosy-svyazannye-s-perevodom-drayverov-na-otkrytye-moduli-20240514-133514/</link>
+      <pubDate>Tue, 14 May 2024 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavitel-nvidia-otvetil-na-voprosy-svyazannye-s-perevodom-drayverov-na-otkrytye-moduli-20240514-133514/</guid>
+      <description>Энди Ритгер (Andy Ritger), возглавляющий разработку драйверов для Unix-подобных ОС в компании NVIDIA, ответил на вопросы, заданные в связи с переводом проприетарных драйверов NVIDIA на использование по умолчанию открытых модулей ядра Linux на системах с GPU на базе микроархитектур, начиная с Turing.
+https://www.opennet.ru/opennews/art.shtml?num=61166</description>
+    </item>
+    
+    <item>
+      <title>Прогноз погоды на рабочем столе, поддержка драйверов NVIDIA 550 серии, больше совместимых сканеров — обновление операционной системы «Альт Рабочая станция К» 10.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prognoz-pogody-na-rabochem-stole-podderzhka-drayverov-nvidia-550-serii-bolshe-sovmestimyh-20240513-213642/</link>
+      <pubDate>Mon, 13 May 2024 21:36:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prognoz-pogody-na-rabochem-stole-podderzhka-drayverov-nvidia-550-serii-bolshe-sovmestimyh-20240513-213642/</guid>
+      <description>В новой версии добавлен погодный виджет. Открыть прогноз на ближайшие часы и дни можно одним кликом мыши. Дополнена линейка драйверов для видеокарт NVIDIA, обновлена среда рабочего стола KDE Plasma.
+https://www.basealt.ru/about/news/archive/view/prognoz-pogody-na-rabochem-stole-podderzhka-draiverov-nvidia-550-serii-bolshe-sovmestimykh-skanerov-obnovlenie-operacionnoi-sistemy-alt-rabochaja-stancija-k-103</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA начнёт использовать открытые модули ядра для GPU, начиная с Turing </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</link>
+      <pubDate>Sun, 12 May 2024 10:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</guid>
+      <description>Компания NVIDIA объявила, что в грядущем выпуске проприетарных драйверов NVIDIA 560 на системах с GPU на базе Turing (GeForce RTX 2000) и более новых микроархитектур по умолчанию будут задействованы открытые модули ядра Linux. Код модулей был открыт в 2022 году под лицензиями MIT и GPLv2, и обновляется синхронно с каждым новым выпуском проприетарных драйверов. При этом, несмотря на наличие открытых модулей при установке проприетарных драйверов NVIDIA до сих пор продолжали использоваться проприетарные варианты модулей, основанные на общей кодовой базе с открытыми, но отличающиеся и развивающиеся отдельно.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat представил Nova, драйвер для GPU NVIDIA, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</link>
+      <pubDate>Thu, 21 Mar 2024 19:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</guid>
+      <description>Компания Red Hat начала работу над проектом Nova, развивающим новый открытый драйвер для GPU NVIDIA, в которых операции инициализации и управления GPU вынесены в прошивку и выполняются отдельным микроконтроллером GSP (GPU System Processor). Новый драйвер оформлен в виде модуля для ядра Linux и использует подсистему DRM (Direct Rendering Manager). Проект позиционируется как продолжение развитие драйвера Nouveau для GPU с GSP-прошивками, используемыми начиная с серии NVIDIA GeForce RTX 2000 на базе микроархитектуры Turing, и в долгосрочной перспективе может заменить Nouveau.</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA препятствует разработке транслирующих прослоек для запуска CUDA на других платформах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-prepyatstvuet-razrabotke-transliruyuschih-prosloek-dlya-zapuska-cuda-na-drugih-plat-20240305-003516/</link>
+      <pubDate>Tue, 05 Mar 2024 00:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-prepyatstvuet-razrabotke-transliruyuschih-prosloek-dlya-zapuska-cuda-na-drugih-plat-20240305-003516/</guid>
+      <description>Разбор легальности создания альтернативных реализаций технологии CUDA, таких как недавно опубликованный пакет ZLUDA 3, позволяющий запускать CUDA-приложения на GPU AMD, показал, что начиная с выпуска CUDA Toolkit 11.5 компания NVIDIA добавила в пользовательское соглашение (EULA) пункт, запрещающий обратный инжиниринг, декомпиляцию и дизассемлирвоание любых частей вывода, генерируемого инструментарием CUDA, выполняемого с целью трансляции подобных выводимых артефактов для платформ, отличных от NVIDIA. Перекомпиляция исходного кода CUDA-программ, поддерживаемая инструментами для перевода CUDA-программ на API AMD ROCm и Intel OpenAPI, не подпадает под запрет.</description>
+    </item>
+    
+    <item>
+      <title>NVK и Zink существенно улучшили ситуацию с открытыми драйверами для GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvk-i-zink-suschestvenno-uluchshili-situaciyu-s-otkrytymi-drayverami-dlya-gpu-nvidia-20240301-113514/</link>
+      <pubDate>Fri, 01 Mar 2024 11:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvk-i-zink-suschestvenno-uluchshili-situaciyu-s-otkrytymi-drayverami-dlya-gpu-nvidia-20240301-113514/</guid>
+      <description>Компания Сollabora объявила о доведении открытого драйвера NVK для видеокарт NVIDIA до готовности к повседневному использованию широким кругом пользователей и сертификации данного драйвера в консорциуме Khronos, занимающемся разработкой графических стандартов. Драйвер признан полностью совместимым со спецификацией Vulkan 1.3, успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов.
+https://www.opennet.ru/opennews/art.shtml?num=60699</description>
+    </item>
+    
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 550.54.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-550-54-14-20240224-133556/</link>
+      <pubDate>Sat, 24 Feb 2024 13:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-550-54-14-20240224-133556/</guid>
+      <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 550.54.14. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 545.x стала шестой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+    </item>
+    
+    <item>
+      <title>В NVK, открытом драйвере для видеокарт NVIDIA, обеспечена поддержка Vulkan 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nvk-otkrytom-drayvere-dlya-videokart-nvidia-obespechena-podderzhka-vulkan-1-0-20231121-003512/</link>
+      <pubDate>Tue, 21 Nov 2023 00:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nvk-otkrytom-drayvere-dlya-videokart-nvidia-obespechena-podderzhka-vulkan-1-0-20231121-003512/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера NVK для видеокарт NVIDIA со спецификацией Vulkan 1.0. Драйвер успешно прошёл все тесты из набора CTS (Kronos Conformance Test Suite) и включён в список сертифицированных драйверов. Сертификация пройдена для GPU NVIDIA на базе микроархитектуры Turing (TITAN RTX, GeForce RTX 2060/2070/2080, GeForce GTX 1660, Quadro RTX 3000-8000, Quadro T1000/T2000). Проверка была выполнена в окружении с ядром Linux 6.5, X.Org X Server 1.</description>
+    </item>
+    
+    <item>
+      <title>В драйвер nouveau добавлена поддержка GSP-прошивок NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayver-nouveau-dobavlena-podderzhka-gsp-proshivok-nvidia-20231107-133513/</link>
+      <pubDate>Tue, 07 Nov 2023 13:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayver-nouveau-dobavlena-podderzhka-gsp-proshivok-nvidia-20231107-133513/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, объявил о принятии в кодовую базу, на основе которой формируется выпуск ядра 6.7, изменений, обеспечивающих начальную поддержку прошивки GSP-RM в модуле ядра Nouveau. Прошивка GSP-RM используется в GPU NVIDIA RTX 20+ для выноса операций инициализации и управления GPU на сторону отдельного микроконтроллера GSP (GPU System Processor). Изменения добавляют в Nouveau возможность работы через обращение к прошивке, вместо прямого программирования операций взаимодействия с оборудованием, что значительно упрощает добавление поддержки новых GPU NVIDIA благодаря использованию уже готовых вызовов для инициализации и управления энергопотреблением.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 545.29.02</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-545-29-02-20231101-013553/</link>
+      <pubDate>Wed, 01 Nov 2023 01:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-545-29-02-20231101-013553/</guid>
+      <description>Компания NVIDIA представила выпуск новой ветки проприетарного драйвера NVIDIA 545.29.02. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 545.x стала шестой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, опубликованы на GitHub. Прошивки и используемые в пространстве пользователя библиотеки, такие как стеки CUDA, OpenGL и Vulkan, остаются проприетарными.</description>
+    </item>
+    
+    <item>
+      <title>Представлен TuxClocker 1.0, интерфейс для разгона видеокарт NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-tuxclocker-1-0-interfeys-dlya-razgona-videokart-nvidia-20230927-143506/</link>
+      <pubDate>Wed, 27 Sep 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-tuxclocker-1-0-interfeys-dlya-razgona-videokart-nvidia-20230927-143506/</guid>
+      <description>После четырёх с половиной лет разработки опубликован выпуск проекта TuxClocker 1.0, предоставляющего инструменты для оверклокинга (overclock) и мониторинга за работой видеокарт. TuxClocker состоит из фонового процесса, управляющего тактовой частотой, напряжением и параметрами системы охлаждения видеокарты, а также графического интерфейса на базе библиотеки Qt. Код написан на С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59829</description>
+    </item>
+    
+    <item>
+      <title>В Mesa принят код NVK, открытого Vulkan-драйвера для видеокарт NVIDIA </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</link>
+      <pubDate>Sat, 05 Aug 2023 10:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</guid>
+      <description>В основную ветку проекта Mesa принят код NVK, открытого драйвера с реализацией графического API Vulkan для видеокарт NVIDIA. Драйвер создан командой, в которую входят Карол Хербст (Karol Herbst, разработчик Nouveau из Red Hat), Дэвид Эйрли (David Airlie, мэйнтейнер подсистемы DRM из Red Hat) и Джейсон Экстранд (Jason Ekstrand, активный разработчик Mesa из Collabora).
+https://www.opennet.ru/opennews/art.shtml?num=59555</description>
+    </item>
+    
+    <item>
+      <title>Pixar, Adobe, Apple, Autodesk и NVIDIA начали совместное продвижение платформы OpenUSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pixar-adobe-apple-autodesk-i-nvidia-nachali-sovmestnoe-prodvizhenie-platformy-openusd-20230802-143508/</link>
+      <pubDate>Wed, 02 Aug 2023 14:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pixar-adobe-apple-autodesk-i-nvidia-nachali-sovmestnoe-prodvizhenie-platformy-openusd-20230802-143508/</guid>
+      <description>Компании Pixar, Adobe, Apple, Autodesk и NVIDIA объявили о создании альянса AOUSD (Alliance for OpenUSD), сосредоточенном на совместном продвижении технологии OpenUSD (Universal Scene Description), её развитии и разработке связанных с ней стандартов. Альянс создан на независимой площадке под эгидой фонда Joint Development Foundation, курируемого организацией Linux Foundation.
+https://www.opennet.ru/opennews/art.shtml?num=59538</description>
+    </item>
+    
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 535.43.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-535-43-03-20230615-013505/</link>
+      <pubDate>Thu, 15 Jun 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-535-43-03-20230615-013505/</guid>
+      <description>Компания NVIDIA представила выпуск новой ветки проприетарного драйвера NVIDIA 535.43.03. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 535.x стала пятой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, опубликованы на GitHub. Прошивки и используемые в пространстве пользователя библиотеки, такие как стеки CUDA, OpenGL и Vulkan, остаются проприетарными.</description>
+    </item>
+    
+    <item>
+      <title>Компания NVIDIA опубликовала код RTX Remix Runtime</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-nvidia-opublikovala-kod-rtx-remix-runtime-20230413-013507/</link>
+      <pubDate>Thu, 13 Apr 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-nvidia-opublikovala-kod-rtx-remix-runtime-20230413-013507/</guid>
+      <description>Компания NVIDIA открыла исходные тексты runtime-компонентов платформы моддинга RTX Remix, позволяющей добавлять в существующие классические компьютерные игры на базе API DirectX 8 и 9 поддержку рендеринга с симуляцией поведения света на основе трассировки пути, повышать качество текстур при помощи методов машинного обучения, подключать подготовленные пользователем игровые ресурсы (ассеты) и применять технологию DLSS для реалистичного масштабирования изображений для увеличения разрешения без потери качества. Код написан на языке С++ и открыт под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 530.41.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-530-41-03-20230324-003505/</link>
+      <pubDate>Fri, 24 Mar 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-530-41-03-20230324-003505/</guid>
+      <description>Компания NVIDIA представила выпуск новой ветки проприетарного драйвера NVIDIA 530.41.03. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 530.x стала четвёртой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из состава NVIDIA 530.41.03, а также используемые в них общие компоненты, не привязанные к операционной системе, опубликованы на GitHub. Прошивки и используемые в пространстве пользователя библиотеки, такие как стеки CUDA, OpenGL и Vulkan, остаются проприетарными.</description>
+    </item>
+    
+  </channel>
+</rss>

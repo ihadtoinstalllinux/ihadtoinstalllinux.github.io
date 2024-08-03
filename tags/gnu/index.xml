@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GNU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnu/</link>
+    <description>Recent content in GNU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 12:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Построение полной по Тьюрингу вычислительной среды при помощи утилит GNU find и mkdir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/postroenie-polnoy-po-tyuringu-vychislitelnoy-sredy-pri-pomoschi-utilit-gnu-find-i-mkdir-20240731-123559/</link>
+      <pubDate>Wed, 31 Jul 2024 12:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/postroenie-polnoy-po-tyuringu-vychislitelnoy-sredy-pri-pomoschi-utilit-gnu-find-i-mkdir-20240731-123559/</guid>
+      <description>Японский разработчик Keigo Oka продемонстрировал, что на основе утилит GNU find и mkdir можно сформировать вычислительную среду, являющуюся полной по Тьюрингу, т.е. позволяющую реализовать на нём любую вычислимую функцию и воссоздать себя. Ранее возможность создания подобной среды была продемонстрирована для утилит sed и awk. Для подтверждения полноты по Тьюрингу предоставлены реализации на связке из find и mkdir игры Fizz buzz и клеточного автомата, действующего по &amp;ldquo;правилу 110&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61635</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Automake 1.17, инструментария для генерации сборочных файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-automake-1-17-instrumentariya-dlya-generacii-sborochnyh-faylov-20240712-193602/</link>
+      <pubDate>Fri, 12 Jul 2024 19:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-automake-1-17-instrumentariya-dlya-generacii-sborochnyh-faylov-20240712-193602/</guid>
+      <description>Спустя шесть лет с момента прошлого выпуска опубликован релиз Automake 1.17, утилиты для автоматической генерации make-файлов, соответствующих стандартам кодирования проекта GNU. В новой версии параметр AM_PATH_PYTHON изменён для использования в качестве приоритетной ветки Python 3 вместо Python 2, в случае наличия обеих веток в системе. Добавлено определение версий Python новее 3.9. В скрипте py-compile прекращена поддержка выпусков Python 0.x и 1.x, в качестве минимальной заявлена версия Python 2.0, выпущенная в 2000 году.</description>
+    </item>
+    
+    <item>
+      <title>В Debian GNU/Hurd обеспечена сборка 71% пакетов Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-gnu-hurd-obespechena-sborka-71-paketov-debian-20240710-123540/</link>
+      <pubDate>Wed, 10 Jul 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-gnu-hurd-obespechena-sborka-71-paketov-debian-20240710-123540/</guid>
+      <description>Разработчики проекта Hurd объявили обеспечении возможности сборки в дистрибутиве Debian GNU/Hurd 71% пакетов архива Debian. В прошлом году этот показатель составлял 58%. Из других достижений GNU/Hurd отмечается портирование ядра Mach для архитектуры AArch64 и принятие патчей, позволяющих использовать GCC для сборки программ GNU/Hurd для AArch64. В настоящее время порт пока не обеспечивает всю желаемую функциональность, но уже может использоваться для запуска простых приложений. В ядре GNU Mach реализована экспериментальная поддержка симметричной многопоточности (SMP).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Mes 0.27, инструментария для самодостаточной сборки дистрибутивов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-27-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20240707-023506/</link>
+      <pubDate>Sun, 07 Jul 2024 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-27-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20240707-023506/</guid>
+      <description>Опубликован выпуск инструментария GNU Mes 0.27, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов. Инструментарий решает задачу верифицированной начальной сборки компилятора в дистрибутивах, разрывая цепочку цикличной пересборки (для сборки компилятора требуются исполняемые файлы уже собранного компилятора, а бинарные сборки компилятора являются потенциальным источником скрытых закладок, что не позволяет полностью гарантировать целостность сборок из эталонных исходных текстов).
+https://www.opennet.ru/opennews/art.shtml?num=61501</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора утилит GNU findutils 4.10.0 с возобновлением поддержки Си-библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-findutils-4-10-0-s-vozobnovleniem-podderzhki-si-biblioteki-musl-20240703-133551/</link>
+      <pubDate>Wed, 03 Jul 2024 13:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-findutils-4-10-0-s-vozobnovleniem-podderzhki-si-biblioteki-musl-20240703-133551/</guid>
+      <description>Проект GNU опубликовал выпуск пакета findutils 4.10.0, включающего реализации утилит для организации поиска файлов в системе, таких как find, updatedb и locate, updatedb. В составе findutils также развивается утилита xargs, предназначенная для построения команд, выполняемых с данными из стандартного ввода, обычно формируемых при помощи утилиты find.
+https://www.opennet.ru/opennews/art.shtml?num=61479</description>
+    </item>
+    
+    <item>
+      <title>Доступен язык программирования GNU Guile 3.0.10 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-gnu-guile-3-0-10-20240624-123540/</link>
+      <pubDate>Mon, 24 Jun 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-gnu-guile-3-0-10-20240624-123540/</guid>
+      <description>Опубликован релиз GNU Guile 3.0.10, свободной реализации функционального языка программирования Scheme, поддерживающей возможность встраивания кода в приложения на других языках программирования. Guile может быть использован как язык для разработки расширений для приложений, определения конфигурации или разработки компонентов для связи различных примитивов, предоставляемых приложением. Guile является официальным языком разработки расширений для операционной системы GNU.
+https://www.opennet.ru/opennews/art.shtml?num=61430</description>
+    </item>
+    
+    <item>
+      <title>Slackware Linux переходит на использование загрузчика GNU GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</link>
+      <pubDate>Mon, 24 Jun 2024 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</guid>
+      <description>Патрик Фолькердинг (Patrick Volkerding), основатель и бессменный лидер (BDFL) проекта Slackware Linux, начал перевод дистрибутива на использование загрузчика GNU GRUB (Grand Unified Bootloader) вместо ранее применявшихся устаревших загрузчиков LILO и ELILO. GNU GRUB поддерживает спецификацию Multiboot и может использоваться для загрузки различных операционных систем, как напрямую, так и в режиме chainloading.
+https://www.opennet.ru/opennews/art.shtml?num=61429</description>
+    </item>
+    
+    <item>
+      <title>Обновление текстового редактора GNU Emacs 29.4 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tekstovogo-redaktora-gnu-emacs-29-4-s-ustraneniem-uyazvimosti-20240623-113557/</link>
+      <pubDate>Sun, 23 Jun 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-tekstovogo-redaktora-gnu-emacs-29-4-s-ustraneniem-uyazvimosti-20240623-113557/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.4. Код проекта написан на языках Си и Lisp и распространяется под лицензией GPLv3. GNU Emacs 29.4 преподносится как внеплановый экстренный выпуск с устранением уязвимости (CVE не назначен). Детали об уязвимости пока не раскрываются, указано лишь, что для её блокирования запрещено исполнять произвольные shell-команды при включении режима Org. Судя по всему уязвимость позволяет добиться выполнения кода при открытии определённого контента в Emacs или при просмотре специально оформленных сообщений во входящем в состав Emacs почтовом/RSS/NNTP-клиенте Gnus.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск платёжной системы GNU Taler 0.11, развиваемой проектом GNU </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-11-razvivaemoy-proektom-gnu-20240607-153545/</link>
+      <pubDate>Fri, 07 Jun 2024 15:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-11-razvivaemoy-proektom-gnu-20240607-153545/</guid>
+      <description>Проект GNU представил выпуск свободной системы электронных платежей GNU Taler 0.11, предоставляющей анонимность покупателям, но сохраняющей возможность идентификации продавцов для обеспечения прозрачности предоставления налоговой отчётности. Система не позволяет отследить информацию о том, куда пользователь тратит деньги, но предоставляет средства для отслеживания поступления средств (отправитель остаётся анонимным), что решает свойственные BitCoin проблемы с налоговым аудитом. Код написан на Python и распространяется под лицензиями AGPLv3 и LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61334</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU nano 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-nano-8-0-20240502-013546/</link>
+      <pubDate>Thu, 02 May 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-nano-8-0-20240502-013546/</guid>
+      <description>Состоялся релиз консольного текстового редактора GNU nano 8.0, предлагаемого в качестве редактора по умолчанию во многих пользовательских дистрибутивах, разработчики которых считают vim слишком сложным для освоения.
+https://www.opennet.ru/opennews/art.shtml?num=61101</description>
+    </item>
+    
+    <item>
+      <title>Выпуск платёжной системы GNU Taler 0.10, развиваемой проектом GNU </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-10-razvivaemoy-proektom-gnu-20240416-123527/</link>
+      <pubDate>Tue, 16 Apr 2024 12:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-platezhnoy-sistemy-gnu-taler-0-10-razvivaemoy-proektom-gnu-20240416-123527/</guid>
+      <description>После полутора лет разработки проект GNU представил выпуск свободной системы электронных платежей GNU Taler 0.10, предоставляющей анонимность покупателям, но сохраняющей возможность идентификации продавцов для обеспечения прозрачности предоставления налоговой отчётности. Система не позволяет отследить информацию о том, куда пользователь тратит деньги, но предоставляет средства для отслеживания поступления средств (отправитель остаётся анонимным), что решает свойственные BitCoin проблемы с налоговым аудитом. Код написан на Python и распространяется под лицензиями AGPLv3 и LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60997</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления пакетами GNU Stow 2.4, использующей символические ссылки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-paketami-gnu-stow-2-4-ispolzuyuschey-simvolicheskie-ssylki-20240410-233558/</link>
+      <pubDate>Wed, 10 Apr 2024 23:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-paketami-gnu-stow-2-4-ispolzuyuschey-simvolicheskie-ssylki-20240410-233558/</guid>
+      <description>Спустя почти 5 лет с момента прошлого выпуска представлен релиз системы управления символическими ссылками GNU Stow 2.4, использующей символические ссылки для разделения по отдельным каталогам содержимого программ и связанных с ними данных. Stow может оказаться полезен для установки и интеграции в систему программ, собранных из исходных текстов, или для управления файлами конфигурации. Код Stow написан на языке Perl и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60947</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора утилит GNU Coreutils 9.5 и его варианта на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-5-i-ego-varianta-na-yazyke-rust-20240329-013519/</link>
+      <pubDate>Fri, 29 Mar 2024 01:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-5-i-ego-varianta-na-yazyke-rust-20240329-013519/</guid>
+      <description>Опубликована стабильная версия набора базовых системных утилит GNU Coreutils 9.5, в состав которого входят такие программы, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln, ls и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=60872</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 29.3 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-3-s-ustraneniem-uyazvimostey-20240325-123549/</link>
+      <pubDate>Mon, 25 Mar 2024 12:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-3-s-ustraneniem-uyazvimostey-20240325-123549/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.3. Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана, который передал пост лидера проекта Джону Вигли (John Wiegley) осенью 2015 года. Код проекта написан на языках Си и Lisp и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60840</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный выпуск библиотеки GNU libmicrohttpd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-biblioteki-gnu-libmicrohttpd-20240202-133558/</link>
+      <pubDate>Fri, 02 Feb 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-biblioteki-gnu-libmicrohttpd-20240202-133558/</guid>
+      <description>Проект GNU опубликовал выпуск библиотеки libmicrohttpd 1.0.0, который отмечен как первый стабильный релиз за 16 лет существования проекта. Библиотека написана на языке Си и представляет простой API для встраивания функциональности HTTP-сервера в приложения. Среди поддерживаемых платформ: GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, Android, macOS, Win32 и z/OS. Код распространяется под лицензией LGPL 2.1+. При сборке по умолчанию библиотека занимает около 200 КБ, а в минимальном режиме сборки - 32 КБ. В зависимостях используется только libc, а также libgnutls при опциональной сборке с поддержкой TLS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cygwin 3.5.0, GNU-окружения для Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</link>
+      <pubDate>Thu, 01 Feb 2024 19:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</guid>
+      <description>Компания Red Hat опубликовала стабильный релиз пакета Cygwin 3.5.0, включающего DLL-библиотеку для эмуляции базового Linux API в Windows, позволяющую с минимальными изменениями собирать созданные для Linux программы. В пакет также входят непосредственно собранные для выполнения в Windows стандартные Unix-утилиты, серверные приложения, компиляторы, библиотеки и заголовочные файлы.
+https://www.opennet.ru/opennews/art.shtml?num=60535</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.39 и набора утилит GNU Binutils 2.42</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</link>
+      <pubDate>Thu, 01 Feb 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.39, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=60534</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в утилите GNU split, приводящая к переполнению буфера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-gnu-split-privodyaschaya-k-perepolneniyu-bufera-20240124-123551/</link>
+      <pubDate>Wed, 24 Jan 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-gnu-split-privodyaschaya-k-perepolneniyu-bufera-20240124-123551/</guid>
+      <description>В утилите split, поставляемой в пакете GNU coreutils и применяемой для разделения больших файлов на части, выявлена уязвимость (CVE-2024-0684), приводящая к переполнению буфера при обработке длинных строк (несколько сотен байт), в случае использования в split опции &amp;ldquo;&amp;ndash;line-bytes&amp;rdquo; (&amp;quot;-C&amp;quot;). Уязвимость была выявлена в ходе анализа сбоев, возникающих при использовании утилиты split для разделения данных, передаваемых при помощи QR-кодов.
+https://www.opennet.ru/opennews/art.shtml?num=60490</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы распознавания текста GNU Ocrad 0.29</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-raspoznavaniya-teksta-gnu-ocrad-0-29-20240121-113551/</link>
+      <pubDate>Sun, 21 Jan 2024 11:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-raspoznavaniya-teksta-gnu-ocrad-0-29-20240121-113551/</guid>
+      <description>После двух лет разработки сформирован релиз системы распознавания текста Ocrad 0.29 (Optical Character Recognition), развиваемой под эгидой проекта GNU. Ocrad может применяться как в форме библиотеки для интеграции функций OCR в другие приложения, так и в форме обособленной утилиты, которая на основе переданного на вход изображения выдаёт текст в UTF-8 или 8-битных кодировках.
+https://www.opennet.ru/opennews/art.shtml?num=60471</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 29.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-2-20240118-233507/</link>
+      <pubDate>Thu, 18 Jan 2024 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-2-20240118-233507/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.2. Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана, который передал пост лидера проекта Джону Вигли (John Wiegley) осенью 2015 года. Код проекта написан на языках Си и Lisp и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60458</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU inetutils 2.5 с устранением уязвимости в suid-приложениях</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-inetutils-2-5-s-ustraneniem-uyazvimosti-v-suid-prilozheniyah-20231230-123556/</link>
+      <pubDate>Sat, 30 Dec 2023 12:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-inetutils-2-5-s-ustraneniem-uyazvimosti-v-suid-prilozheniyah-20231230-123556/</guid>
+      <description>После 14 месяцев разработки сформирован релиз набора GNU inetutils 2.5 с коллекцией сетевых программ, большая часть которых перенесена из BSD-систем. В частности, в состав входят inetd и syslogd, серверы и клиенты для ftp, telnet, rsh, rlogin, tftp и talk, а также типовые утилиты, такие как ping, ping6, traceroute, whois, hostname, dnsdomainname, ifconfig, logger и т.п.
+https://www.opennet.ru/opennews/art.shtml?num=60366</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Autoconf 2.72</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-autoconf-2-72-20231223-113548/</link>
+      <pubDate>Sat, 23 Dec 2023 11:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-autoconf-2-72-20231223-113548/</guid>
+      <description>Опубликован выпуск пакета GNU Autoconf 2.72, в котором поставляется набор M4-макросов для создания скриптов автоконфигурации для сборки приложений в различных Unix-подобных системах (на основе подготовленного шаблона выполняется генерация скрипта &amp;ldquo;configure&amp;rdquo;).
+https://www.opennet.ru/opennews/art.shtml?num=60337</description>
+    </item>
+    
+    <item>
+      <title>Релиз загрузочного менеджера GNU GRUB 2.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-zagruzochnogo-menedzhera-gnu-grub-2-12-20231221-163532/</link>
+      <pubDate>Thu, 21 Dec 2023 16:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-zagruzochnogo-menedzhera-gnu-grub-2-12-20231221-163532/</guid>
+      <description>После двух с половиной лет разработки представлен стабильный релиз модульного многоплатформенного менеджера загрузки GNU GRUB 2.12 (GRand Unified Bootloader). GRUB поддерживает широкий спектр платформ, включая обычные ПК с BIOS, платформы IEEE-1275 (оборудование на базе PowerPC/Sparc64), EFI-системы, системы с процессорами RISC-V, Loongson, Itanium, ARM, ARM64, LoongArch и ARCS (SGI), устройства, использующие свободный пакет CoreBoot.
+https://www.opennet.ru/opennews/art.shtml?num=60327</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Mes 0.26, инструментария для самодостаточной сборки дистрибутивов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-26-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231204-013602/</link>
+      <pubDate>Mon, 04 Dec 2023 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-26-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231204-013602/</guid>
+      <description>Опубликован выпуск инструментария GNU Mes 0.26, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов.
+https://www.opennet.ru/opennews/art.shtml?num=60228</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Mes 0.25, инструментария для самодостаточной сборки дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-25-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231112-133543/</link>
+      <pubDate>Sun, 12 Nov 2023 13:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-25-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231112-133543/</guid>
+      <description>После полутора лет разработки состоялся выпуск инструментария GNU Mes 0.25, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов.
+https://www.opennet.ru/opennews/art.shtml?num=60097</description>
+    </item>
+    
+    <item>
+      <title>Новая версия интерпретатора GNU Awk 5.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-interpretatora-gnu-awk-5-3-20231103-003523/</link>
+      <pubDate>Fri, 03 Nov 2023 00:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-interpretatora-gnu-awk-5-3-20231103-003523/</guid>
+      <description>После года разработки представлен новый выпуск реализации языка программирования AWK от проекта GNU - Gawk 5.3.0. AWK был разработан в 70-х годах прошлого века и не претерпел значительных изменений с середины 80-х годов, в которых был определен основной костяк языка, что позволило на протяжении последних десятилетий сохранить первозданную стабильность и простоту языка. Несмотря на преклонный возраст, AWK до сих пор активно используется администраторами для выполнения рутинных работ, связанных с разбором различного рода текстовых файлов и генерацией несложной результирующей статистики.</description>
+    </item>
+    
+    <item>
+      <title>Проекту GNU исполнилось 40 лет </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proektu-gnu-ispolnilos-40-let-20230927-093504/</link>
+      <pubDate>Wed, 27 Sep 2023 09:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proektu-gnu-ispolnilos-40-let-20230927-093504/</guid>
+      <description>27 сентября 1983 года назад Ричард Столлман основал проект GNU (Gnu&amp;rsquo;s Not Unix), нацеленный на разработку системных компонентов для создания свободного аналога Unix, позволяющих полностью обойтись без проприетарного ПО. GNU образует содружество свободных проектов, двигающихся к общей цели и развиваемых в соответствии с единой идеологией и философией.
+https://www.opennet.ru/opennews/art.shtml?num=59825</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора утилит GNU Coreutils 9.4 и его варианта на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-4-i-ego-varianta-na-yazyke-rust-20230904-133506/</link>
+      <pubDate>Mon, 04 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-coreutils-9-4-i-ego-varianta-na-yazyke-rust-20230904-133506/</guid>
+      <description>Опубликована стабильная версия набора базовых системных утилит GNU Coreutils 9.4, в состав которого входят такие программы, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln, ls и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=59712</description>
+    </item>
+    
+    <item>
+      <title>Debian GNU/Linux исполнилось 30 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-gnu-linux-ispolnilos-30-let-20230816-093505/</link>
+      <pubDate>Wed, 16 Aug 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-gnu-linux-ispolnilos-30-let-20230816-093505/</guid>
+      <description>Проект Debian празднует своё тридцатилетие. Дистрибутив был впервые анонсирован Яном Мёрдоком (Ian Murdock) 16 августа 1993 года в списке рассылки comp.os.linux.development. Первичной задачей проекта была разработка дистрибутива, развиваемого в соответствии с духом полной открытости, свойственной Linux и GNU, а также стремление к техническому совершенству и надёжности.
+https://www.opennet.ru/opennews/art.shtml?num=59605</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 29.1 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-1-s-podderzhkoy-wayland-20230801-133507/</link>
+      <pubDate>Tue, 01 Aug 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-1-s-podderzhkoy-wayland-20230801-133507/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.1 (первый выпуск серии 29.x, ветка 29.0 использовалась для разработки). Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана, который передал пост лидера проекта Джону Вигли (John Wiegley) осенью 2015 года. Код проекта написан на зыках Си и Lisp и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59530</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.38 и набора утилит GNU Binutils 2.41</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</link>
+      <pubDate>Tue, 01 Aug 2023 11:37:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.38, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=59529</description>
+    </item>
+    
+    <item>
+      <title>Неофициальный GNU Boot переименован после требования прекратить использование чужого имени</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/neoficialnyy-gnu-boot-pereimenovan-posle-trebovaniya-prekratit-ispolzovanie-chuzhogo-imeni-20230731-123508/</link>
+      <pubDate>Mon, 31 Jul 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/neoficialnyy-gnu-boot-pereimenovan-posle-trebovaniya-prekratit-ispolzovanie-chuzhogo-imeni-20230731-123508/</guid>
+      <description>Адриан Бурмо (Adrien Bourmault), основатель проекта GNU Boot, направил Лии Роу (Leah Rowe), развивающей дистрибутив Libreboot, требование прекратить использование имени GNU Boot для распространения своей сборки. Две недели назад Лия опубликовала урезанную сборку Libreboot под именем GNU Boot, снабдив её пометкой &amp;ldquo;неофициальная&amp;rdquo;. В претензии указано, что Лия не является мэйнтейнером GNU Boot и не имеет право публиковать релизы от имени данного проекта. При желании участвовать в разработке следовало прислать патчи для рецезирования, а не создавать свой релиз.</description>
+    </item>
+    
+    <item>
+      <title>Представлен GNU Boot, форк загрузочной прошивки Libreboot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</link>
+      <pubDate>Tue, 18 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</guid>
+      <description>Лия Роу (Leah Rowe), основной разработчик и основатель дистрибутива Libreboot, представила первый выпуск новой загрузочной прошивки GNU Boot, представляющей собой форк Libreboot, адаптированный для соответствия требованиям Фонда СПО к полностью свободным дистрибутивам. GNU Boot планируют развивать в составе проекта GNU в качестве свободного системного окружения, которое можно использовать вместо проприетарных прошивок, обеспечивающих загрузку (полностью свободный дистрибутив CoreBoot). Сопровождение GNU Boot, как и Libreboot, будет обеспечивать Лия Роу.
+https://www.opennet.ru/opennews/art.shtml?num=59456</description>
+    </item>
+    
+    <item>
+      <title>Debian прекращает поддержку порта GNU/kFreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</link>
+      <pubDate>Sat, 15 Jul 2023 06:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</guid>
+      <description>Порты kfreebsd-amd64 и kfreebsd-i386 удалены из архива портов Debian (debian-ports). Тем не менее, пакеты GNU/kFreeBSD ещё можно.
+https://www.opennet.ru/opennews/art.shtml?num=59441</description>
+    </item>
+    
+    <item>
+      <title>Проект GNU GMP заблокировал доступ с IP-адресов Microsoft из-за DoS-аттаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</link>
+      <pubDate>Sat, 17 Jun 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</guid>
+      <description>Torbjörn Granlund, создатель математической библиотеки GNU GMP (GNU Multiple Precision Arithmetic Library) предупредил пользователей о блокировке доступа к серверам, обслуживающим репозиторий проекта, для всего диапазона IP-адресов компании Microsoft.
+https://www.opennet.ru/opennews/art.shtml?num=59310</description>
+    </item>
+    
+    <item>
+      <title>Релиз Debian GNU/Hurd 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-debian-gnu-hurd-2023-20230612-203507/</link>
+      <pubDate>Mon, 12 Jun 2023 20:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-debian-gnu-hurd-2023-20230612-203507/</guid>
+      <description>Представлен выпуск дистрибутива Debian GNU/Hurd 2023, сочетающего программное окружение Debian c ядром GNU/Hurd. Репозиторий Debian GNU/Hurd включает примерно 65% пакетов от общего размера архива Debian, в том числе портированы Firefox и Xfce. Установочные сборки сформированы (364МБ) только для архитектуры i386. Для ознакомления с дистрибутивом без установки подготовлены готовые образы (4.9ГБ) для виртуальных машин.
+https://www.opennet.ru/opennews/art.shtml?num=59282</description>
+    </item>
+    
+    <item>
+      <title>Выпуск uutils 0.0.19, варианта GNU Coreutils на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-uutils-0-0-19-varianta-gnu-coreutils-na-yazyke-rust-20230606-133508/</link>
+      <pubDate>Tue, 06 Jun 2023 13:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-uutils-0-0-19-varianta-gnu-coreutils-na-yazyke-rust-20230606-133508/</guid>
+      <description>Доступен выпуск проекта uutils coreutils 0.0.19, развивающего аналог пакета GNU Coreutils, переписанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, способной работать в том числе на платформах Windows, Redox и Fuchsia. В отличие от GNU Coreutils реализация на Rust распространяется под пермиссивной лицензией MIT, вместо копилефт-лицензии GPL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки GNU libmicrohttpd 0.9.77</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-gnu-libmicrohttpd-0-9-77-20230529-123505/</link>
+      <pubDate>Mon, 29 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-gnu-libmicrohttpd-0-9-77-20230529-123505/</guid>
+      <description>Проект GNU опубликовал выпуск библиотеки libmicrohttpd 0.9.77, представляющей простой API для встраивания функциональности HTTP-сервера в приложения. Среди поддерживаемых платформ: GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, Android, macOS, Win32 и z/OS. Библиотека распространяется под лицензией LGPL 2.1+. В собранном виде библиотека занимает около 32 КБ.
+https://www.opennet.ru/opennews/art.shtml?num=59211</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы инициализации GNU Shepherd 0.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-gnu-shepherd-0-10-20230514-003504/</link>
+      <pubDate>Sun, 14 May 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-gnu-shepherd-0-10-20230514-003504/</guid>
+      <description>Доступен сервисный менеджер GNU Shepherd 0.10 (бывший dmd), который развивается разработчиками дистрибутива GNU Guix System в качестве альтернативы системе инициализации SysV-init, поддерживающей зависимости. Управляющий демон и утилиты Shepherd написаны на языке Guile (одна из реализаций языка Scheme), который также используется для определения настроек и параметров запуска сервисов. Shepherd уже применяется в дистрибутиве GNU Guix System и нацелен также на использование в GNU/Hurd, но может работать в любой POSIX-совместимой ОС, для которой доступен язык Guile.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора базовых системных утилит GNU Coreutils 9.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-bazovyh-sistemnyh-utilit-gnu-coreutils-9-2-20230321-113507/</link>
+      <pubDate>Tue, 21 Mar 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-bazovyh-sistemnyh-utilit-gnu-coreutils-9-2-20230321-113507/</guid>
+      <description>Доступна стабильная версия набора базовых системных утилит GNU Coreutils 9.2, в состав которого входят такие программы, как sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln, ls и т.д.
+https://www.opennet.ru/opennews/art.shtml?num=58831</description>
+    </item>
+    
+    <item>
+      <title>Релиз системы для математических расчётов GNU Octave 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-dlya-matematicheskih-raschetov-gnu-octave-8-20230312-013502/</link>
+      <pubDate>Sun, 12 Mar 2023 01:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-dlya-matematicheskih-raschetov-gnu-octave-8-20230312-013502/</guid>
+      <description>Состоялся релиз системы для выполнения математических расчётов GNU Octave 8.1.0 (первый релиз ветки 8.x), предоставляющей интерпретируемый язык, во многом совместимый с Matlab. GNU Octave может использоваться для решения линейных задач, нелинейных и дифференциальных уравнений, вычислений с использованием комплексных чисел и матриц, визуализации данных, проведения математических экспериментов.
+https://www.opennet.ru/opennews/art.shtml?num=58779</description>
+    </item>
+    
+  </channel>
+</rss>

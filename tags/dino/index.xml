@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dino on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dino/</link>
+    <description>Recent content in Dino on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 10:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в мессенджере Dino, позволяющая обойти проверку отправителя</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-messendzhere-dino-pozvolyayuschaya-oboyti-proverku-otpravitelya-20230324-103504/</link>
+      <pubDate>Fri, 24 Mar 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-messendzhere-dino-pozvolyayuschaya-oboyti-proverku-otpravitelya-20230324-103504/</guid>
+      <description>Опубликованы корректирующие выпуски коммуникационного клиента Dino 0.4.2, 0.3.2 и 0.2.3, поддерживающего чат, аудиовызовы, видеовызовы, видеоконференции и обмен текстовыми сообщениями с использованием протокола Jabber/XMPP. В обновлениях устранена уязвимость (CVE-2023-28686), позволяющая неавторизированному пользователю через отправку специально оформленного сообщения организовать добавление, изменение или удаление записей в персональных закладках другого пользователя без необходимости совершения жертвой каких-то действий. Кроме того, уязвимость позволяет изменить отображение групповых чатов или принудительно подключить или отключить пользователя от определённого группового чата, а также ввести пользователя в заблуждение для получения доступа к конфиденциальной информации.</description>
+    </item>
+    
+  </channel>
+</rss>

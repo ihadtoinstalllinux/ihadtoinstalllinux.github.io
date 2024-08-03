@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ubuntu on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2024 17:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз прошивки Ubuntu Touch OTA-5 Focal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-5-focal-20240730-173533/</link>
+      <pubDate>Tue, 30 Jul 2024 17:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-5-focal-20240730-173533/</guid>
+      <description>После шести месяцев разработки проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, представил прошивку OTA-5 Focal (over-the-air). Это четвёртый выпуск Ubuntu Touch, основанный на пакетной базе Ubuntu 20.04. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
+https://www.opennet.ru/opennews/art.shtml?num=61630</description>
+    </item>
+    
+    <item>
+      <title>Релиз Multipass 1.14, инструментария для развёртывания Ubuntu в виртуальных машинах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-multipass-1-14-instrumentariya-dlya-razvertyvaniya-ubuntu-v-virtualnyh-mashinah-20240726-093540/</link>
+      <pubDate>Fri, 26 Jul 2024 09:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-multipass-1-14-instrumentariya-dlya-razvertyvaniya-ubuntu-v-virtualnyh-mashinah-20240726-093540/</guid>
+      <description>Компания Canonical опубликовала выпуск инструментария multipass 1.14, предназначенного для упрощения установки различных версий Ubuntu в виртуальных машинах, запускаемых в системах виртуализации Linux, Windows и macOS. Multipass позволяет разработчику одной командой без дополнительных настроек запустить нужную версию Ubuntu в виртуальной машине, например, для экспериментов или проверки работы своего приложения. Для запуска виртуальной машины в Linux используется KVM, в Windows - Hyper-V, а в macOS - HyperKit. Также возможно использование для выполнения виртуальных машин VirtualBox.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Ubuntu Sway Remix 24.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-24-04-20240626-163604/</link>
+      <pubDate>Wed, 26 Jun 2024 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-24-04-20240626-163604/</guid>
+      <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 24.04 LTS, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 24.04, созданной с оглядкой как на опытных пользователей GNU/Linux, так и новичков, желающих попробовать окружение мозаичных оконных менеджеров без необходимости в их долгой настройке. Для загрузки подготовлены сборки для архитектур amd64 и arm64 (Raspberry Pi).
+https://www.opennet.ru/opennews/art.shtml?num=61443</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива blendOS 4, поддерживающего пакеты из Arch, Fedora, Debian, CentOS и Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</link>
+      <pubDate>Thu, 06 Jun 2024 22:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</guid>
+      <description>Представлен релиз дистрибутива blendOS 4, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Помимо пакетов из дистрибутива Arch Linux, который задействован в базовом окружении, и универсальных пакетов в формате Flatpak, предоставляется возможность установки пакетов из Fedora 39, Debian 13 (ветка testing), CentOS Stream и Ubuntu 22.04 (пакеты устанавливаются в основанных на данных дистрибутивах контейнерах). Кроме того, в blendOS предоставляется окружение для установки и запуска Android-приложений из каталогов Google Play и F-Droid.</description>
+    </item>
+    
+    <item>
+      <title>Компания Canonical опубликовала монолитный дистрибутив Ubuntu Core 24 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-opublikovala-monolitnyy-distributiv-ubuntu-core-24-20240604-173553/</link>
+      <pubDate>Tue, 04 Jun 2024 17:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-opublikovala-monolitnyy-distributiv-ubuntu-core-24-20240604-173553/</guid>
+      <description>Компания Canonical представила релиз Ubuntu Core 24, компактного варианта дистрибутива Ubuntu, адаптированного для применения на устройствах интернета вещей (IoT), в контейнерах, потребительском и промышленном оборудовании. Ubuntu Core поставляется в форме неделимого монолитного образа базовой системы, в котором не применяется разбивка на отдельные deb-пакеты. Образы Ubuntu Core 24, состав которых синхронизирован с пакетной базой Ubuntu 24.04, подготовлены для систем x86_64 и ARM64 (в анонсе также заявлена поддержка RISC-V, но сборки пока недоступны).</description>
+    </item>
+    
+    <item>
+      <title>Компания Canonical опубликовала Real-time Ubuntu 24.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-opublikovala-real-time-ubuntu-24-04-20240530-203603/</link>
+      <pubDate>Thu, 30 May 2024 20:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-opublikovala-real-time-ubuntu-24-04-20240530-203603/</guid>
+      <description>Компания Canonical объявила о готовности сборок Real-time Ubuntu 24.04, оптимизированных для выполнения задач в режиме реального времени. В сборках задействовано ядро Linux 6.8 с патчами RT (&amp;ldquo;Realtime-Preempt&amp;rdquo;, PREEMPT_RT или &amp;ldquo;-rt&amp;rdquo;), обеспечивающими снижение задержек и позволяющими добиться предсказуемого времени обработки событий. В сборки дополнительно включены оптимизации, нацеленные на повышение производительности и снижение задержек на платах Raspberry Pi 4 и 5, и системах на базе процессоров Intel Core, поддерживающих технологии TCC (Time Coordinated Computing) и TSN (Time-Sensitive Networking).</description>
+    </item>
+    
+    <item>
+      <title>Сформированы сборки Ubuntu 24.04 для миниатюрной RISC-V-платы Milk-V Mars</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-ubuntu-24-04-dlya-miniatyurnoy-risc-v-platy-milk-v-mars-20240529-103550/</link>
+      <pubDate>Wed, 29 May 2024 10:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-ubuntu-24-04-dlya-miniatyurnoy-risc-v-platy-milk-v-mars-20240529-103550/</guid>
+      <description>Компания Canonical объявила о подготовке отдельных сборок Ubuntu 24.04, специально оптимизированных для работы на плате Milk-V Mars, оснащённой 4-ядерным 64-разрядным процессором StarFive JH7110 (1.5GHz) на базе архитектуры RISC-V (RV64GC). Отмечается, что это первая миниатюрная плата на базе архитектуры RISC-V, по размеру сопоставимая с кредитной картой (размер платы 85 x 56 мм). Плата также примечательна относительно низкой для плат RISC-V стоимостью - в минимальной конфигурации с ОЗУ 2 ГБ плата продаётся по цене 39 долларов (при заказе через Aliexpress цена выше и составляет 8500 руб).</description>
+    </item>
+    
+    <item>
+      <title>Подготовлены сборки Ubuntu 24.04 для загрузки на игровой приставке Nintendo Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</link>
+      <pubDate>Mon, 20 May 2024 21:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</guid>
+      <description>Проект Switchroot объявил о готовности сборки Ubuntu 24.04, предназначенной для загрузки на игровых консолях Nintendo Switch на базе SoC Tegra X1 (Switch 2017, Switch 2019, Switch Lite и Switch OLED). Помимо Ubuntu проектом Switchroot также предоставляются предназначенные для загрузки на Nintendo Switch сборки Fedora 39, Lakka 5.0 и LineageOS 18.1. Загрузка производится с SD-карты при помощи загрузчика hekate (для обхода блокировки применяется RCM). Развиваемые проектом дополнительные компоненты распространяются под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пакетного менеджера pacstall 5.0, развивающего аналог AUR для Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacstall-5-0-razvivayuschego-analog-aur-dlya-ubuntu-20240508-133523/</link>
+      <pubDate>Wed, 08 May 2024 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacstall-5-0-razvivayuschego-analog-aur-dlya-ubuntu-20240508-133523/</guid>
+      <description>Доступен выпуск пакетного менеджера pacstall 5.0, развивающего аналог концепции AUR для Ubuntu Linux и собственный репозиторий, в котором присутствует 518 пакетов, позволяющих установить в текущем окружении Ubuntu наиболее свежие версии интересующих программ, параллельно с имеющимися в системе программами. Пакеты оформляются в формате pacscript, похожем на PKGBUILD в AUR и также включающем сведения о загрузке, зависимостях, сборке и установке. Код утилиты написан на Shell и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61136</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Ubuntu 24.04 LTS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-ubuntu-24-04-lts-20240425-213556/</link>
+      <pubDate>Thu, 25 Apr 2024 21:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-ubuntu-24-04-lts-20240425-213556/</guid>
+      <description>Состоялся релиз дистрибутива Ubuntu 24.04 &amp;ldquo;Noble Numbat&amp;rdquo;, который отнесён к категории выпусков с длительным сроком поддержки (LTS), обновления для которых формируются в течение 12 лет (5 лет - общедоступные, плюс ещё 7 лет для пользователей сервиса Ubuntu Pro). Установочные образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
+https://www.opennet.ru/opennews/art.shtml?num=61069</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск Ubuntu 24.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-24-04-20240412-153543/</link>
+      <pubDate>Fri, 12 Apr 2024 15:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-24-04-20240412-153543/</guid>
+      <description>Представлен бета-выпуск дистрибутива Ubuntu 24.04 &amp;ldquo;Noble Numbat&amp;rdquo;, после формирования которого произведена полная заморозка пакетной базы, и разработчики перешли к итоговому тестированию и исправлению ошибок. Релиз запланирован на 25 апреля. Ветка 24.04 отнесена к категории выпусков с длительным сроком поддержки (LTS), обновления для которых формируются в течение 12 лет (5 лет - общедоступные, плюс ещё 7 лет для пользователей сервиса Ubuntu Pro). Готовые тестовые образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.</description>
+    </item>
+    
+    <item>
+      <title>Доступна система конфигурации сети Netplan 1.0, используемая в Ubuntu </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-konfiguracii-seti-netplan-1-0-ispolzuemaya-v-ubuntu-20240405-163603/</link>
+      <pubDate>Fri, 05 Apr 2024 16:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-konfiguracii-seti-netplan-1-0-ispolzuemaya-v-ubuntu-20240405-163603/</guid>
+      <description>После семи лет разработки опубликован релиз инструментария Netplan 1.0, развивающего формат для хранения настроек сетевых интерфейсов и связанные с ним утилиты для управления сетевыми конфигурациями. Netplan обеспечивает хранение параметров в формате YAML и предоставляет бэкенды, абстрагирующие доступ к конфигурации для NetworkManager и systemd-networkd. Код проекта написан на языках Python и C, и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60932</description>
+    </item>
+    
+    <item>
+      <title>Начиная с Ubuntu 14.04 время поддержки LTS-релизов будет увеличено до 12 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachinaya-s-ubuntu-14-04-vremya-podderzhki-lts-relizov-budet-uvelicheno-do-12-let-20240326-013540/</link>
+      <pubDate>Tue, 26 Mar 2024 01:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachinaya-s-ubuntu-14-04-vremya-podderzhki-lts-relizov-budet-uvelicheno-do-12-let-20240326-013540/</guid>
+      <description>Компания Canonical объявила о введении 12 летнего срока формирования обновлений для LTS-выпусков Ubuntu. Продление коснётся всех актуальных LTS-выпусков, начиная с Ubuntu 14.04, поддержка которого должна была истечь в апреле этого года, но теперь продлена до апреля 2026 года. Обновления для Ubuntu 24.04 будут формироваться до 2036 года, Ubuntu 22.04 - 2034, Ubuntu 20.04 - 2032 и т.п. Обновления как и раньше будут общедоступны в течение 5 лет после релиза, а остальные 7 лет будут предоставляться только пользователям сервиса Ubuntu Pro.</description>
+    </item>
+    
+    <item>
+      <title>На соревновании Pwn2Own 2024 продемонстрированы взломы Ubuntu, Firefox, Chrome, Docker и VirtualBox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</link>
+      <pubDate>Sat, 23 Mar 2024 02:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</guid>
+      <description>Подведены итоги двух дней соревнований Pwn2Own 2024, ежегодно проводимых в рамках конференции CanSecWest в Ванкувере. Рабочие техники эксплуатации ранее неизвестных уязвимостей были разработаны для Ubuntu Desktop, Windows 11, Docker, Oracle VirtualBox, VMWare Workstation, Adobe Reader, Firefox, Chrome, Edge и автомобиля Tesla. Всего были продемонстрированы 23 успешные атаки, эксплуатирующие 29 ранее неизвестных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60830</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 22.04.4 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</link>
+      <pubDate>Fri, 23 Feb 2024 04:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.4 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.4 LTS, Kubuntu 22.04.4 LTS, Ubuntu MATE 22.04.4 LTS, Ubuntu Studio 22.04.4 LTS, Lubuntu 22.04.4 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Сценарий атаки на обработчик не установленных приложений в Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/scenariy-ataki-na-obrabotchik-ne-ustanovlennyh-prilozheniy-v-ubuntu-20240215-023602/</link>
+      <pubDate>Thu, 15 Feb 2024 02:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/scenariy-ataki-na-obrabotchik-ne-ustanovlennyh-prilozheniy-v-ubuntu-20240215-023602/</guid>
+      <description>Исследователи из компании Aqua Security обратили внимание на возможность совершения атаки на пользователей дистрибутива Ubuntu, используя особенности реализации обработчика &amp;ldquo;command-not-found&amp;rdquo;, выдающего подсказку в случае попытки запуска отсутствующей в системе программы. Проблема в том, что при оценке запускаемых команд, которые отсутствуют в системе, &amp;ldquo;command-not-found&amp;rdquo; использует при выборе рекомендации не только пакеты из штатных репозиториев, но snap-пакеты из каталога snapcraft.io.
+https://www.opennet.ru/opennews/art.shtml?num=60602</description>
+    </item>
+    
+    <item>
+      <title>Представлена новая модель формирования релизов Ubuntu Touch </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-novaya-model-formirovaniya-relizov-ubuntu-touch-20240212-173549/</link>
+      <pubDate>Mon, 12 Feb 2024 17:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlena-novaya-model-formirovaniya-relizov-ubuntu-touch-20240212-173549/</guid>
+      <description>Проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, объявил о переходе на новую модель формирования релизов. Вместо выпусков в форме &amp;ldquo;OTA-номер имя_ветки&amp;rdquo; новые версии прошивки Ubuntu Touch решено выпускать с использованием схемы &amp;ldquo;год.месяц.обновление&amp;rdquo;, где год и месяц соответствуют времени значительного релиза, основанного на новой ветке Ubuntu. Номер обновления соответствует промежуточному выпуску, включающему только исправления и мелкие улучшения. Значительные релизы планируют публиковать раз в полгода, а промежуточные - каждые два месяца.</description>
+    </item>
+    
+    <item>
+      <title>Релиз прошивки Ubuntu Touch OTA-4 Focal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-4-focal-20240130-213559/</link>
+      <pubDate>Tue, 30 Jan 2024 21:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-4-focal-20240130-213559/</guid>
+      <description>После трёх месяцев разработки проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, представил прошивку OTA-4 Focal (over-the-air). Это четвёртый выпуск Ubuntu Touch, основанный на пакетной базе Ubuntu 20.04 (старые выпуски базировались на Ubuntu 16.04). Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
+https://www.opennet.ru/opennews/art.shtml?num=60523</description>
+    </item>
+    
+    <item>
+      <title>Релиз прошивки Ubuntu Touch OTA-3 Focal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-3-focal-20231108-213555/</link>
+      <pubDate>Wed, 08 Nov 2023 21:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proshivki-ubuntu-touch-ota-3-focal-20231108-213555/</guid>
+      <description>Проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, представил прошивку OTA-3 Focal (over-the-air). Это третий выпуск Ubuntu Touch, основанный на пакетной базе Ubuntu 20.04 (старые выпуски базировались на Ubuntu 16.04). Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
+https://www.opennet.ru/opennews/art.shtml?num=60076</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Ubuntu Sway Remix 23.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-23-10-20231030-153554/</link>
+      <pubDate>Mon, 30 Oct 2023 15:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-23-10-20231030-153554/</guid>
+      <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 23.10, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 23.10, созданной с оглядкой как на опытных пользователей GNU/Linux, так и новичков, желающих попробовать окружение мозаичных оконных менеджеров без необходимости в их долгой настройке. Для загрузки подготовлены сборки для архитектур amd64 и arm64 (Raspberry Pi).
+https://www.opennet.ru/opennews/art.shtml?num=60017</description>
+    </item>
+    
+    <item>
+      <title>Время поддержки LTS-релизов Ubuntu увеличено до 10 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vremya-podderzhki-lts-relizov-ubuntu-uvelicheno-do-10-let-20231024-213600/</link>
+      <pubDate>Tue, 24 Oct 2023 21:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vremya-podderzhki-lts-relizov-ubuntu-uvelicheno-do-10-let-20231024-213600/</guid>
+      <description>Компания Canonical объявила о предоставлении 10-летнего срока формирования обновлений для LTS-выпусков Ubuntu, а также для базовых пакетов с ядром Linux, изначально поставляемых в данных LTS-ветках. Таким образом LTS-выпуск Ubuntu 22.04 и используемое в нём ядро Linux 5.15 будут поддерживаться до апреля 2032 года, обновления для следующего LTS-релиза Ubuntu 24.04 будут формироваться до 2034 года. Ранее решения об аналогичных продлениях срока поддержки c 8 до 10 лет отдельно принимались для выпусков Ubuntu 14.</description>
+    </item>
+    
+    <item>
+      <title>Инцидент с подстановкой непристойных выражений в инсталлятор Ubuntu 23.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/incident-s-podstanovkoy-nepristoynyh-vyrazheniy-v-installyator-ubuntu-23-10-20231013-103504/</link>
+      <pubDate>Fri, 13 Oct 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/incident-s-podstanovkoy-nepristoynyh-vyrazheniy-v-installyator-ubuntu-23-10-20231013-103504/</guid>
+      <description>Вскоре после релиза Ubuntu 23.10 пользователи столкнулись с невозможностью загрузить сборки десктоп-редакции дистрибутива, которые были удалены с загрузочных серверов в связи экстренной заменой установочных образов. Замена была вызвана инцидентом, в результате которого злоумышленнику удалось добиться включения в файлы с переводами сообщений инсталлятора на украинский язык оскорбительных антисемитских выражений и нецензурной брани. Инициировано разбирательство, каким образом предложенные вредоносные переводы смогли пройти проверку и попасть в финальные установочные сборки Ubuntu.
+https://www.opennet.ru/opennews/art.shtml?num=59922</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Ubuntu 23.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-23-10-20231013-003504/</link>
+      <pubDate>Fri, 13 Oct 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-23-10-20231013-003504/</guid>
+      <description>Опубликован релиз дистрибутива Ubuntu 23.10 &amp;ldquo;Mantic Minotaur&amp;rdquo;, который отнесён к промежуточным выпускам, обновления для которых формируются в течение 9 месяцев (поддержка будет осуществляться до июля 2024 года). Готовые установочные образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
+https://www.opennet.ru/opennews/art.shtml?num=59921</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu ограничит доступ к user namespace</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-ogranichit-dostup-k-user-namespace-20231010-023504/</link>
+      <pubDate>Tue, 10 Oct 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-ogranichit-dostup-k-user-namespace-20231010-023504/</guid>
+      <description>Компания Canonical объявила о внесении в Ubuntu 23.10 изменений, ограничивающих доступ пользователей к пространствам имён идентификаторов пользователя (user namespace), что позволит повысить защищённость систем, использующих контейнерную изоляцию, от уязвимостей, для эксплуатации которых необходимы манипуляции с user namespace. По данным Google, 44% эксплоитов, участвующих в программе по выплате денежных вознаграждений за выявление уязвимостей в ядре Linux, требуют наличия возможности создания пространств имён идентификаторов пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59897</description>
+    </item>
+    
+    <item>
+      <title>В Ubuntu Snap Store выявлены вредоносные пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</link>
+      <pubDate>Sun, 01 Oct 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-snap-store-vyyavleny-vredonosnye-pakety-20231001-003505/</guid>
+      <description>Компания Canonical объявила о временной приостановке использования в Snap Store автоматической системы проверки публикуемых пакетов из-за появления в репозитории пакетов с вредоносным кодом для кражи криптовалюты у пользователей. При этом непонятно ограничивается ли инцидент публикацией вредоносных пакетов сторонними авторами или имеют место какие-то проблемы с безопасностью непосредственно репозитория, так как ситуация в официальном анонсе характеризуется как &amp;ldquo;потенциальный инцидент с безопасностью&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59849</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск Ubuntu 23.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-23-10-20230922-183503/</link>
+      <pubDate>Fri, 22 Sep 2023 18:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-23-10-20230922-183503/</guid>
+      <description>Представлен бета-выпуск дистрибутива Ubuntu 23.10 &amp;ldquo;Mantic Minotaur&amp;rdquo;, после формирования которого произведена полная заморозка пакетной базы, и разработчики перешли к итоговому тестированию и исправлению ошибок. Релиз, который отнесён к промежуточным выпускам, обновления для которых формируются в течение 9 месяцев, запланирован на 12 октября. Готовые тестовые образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
+https://www.opennet.ru/opennews/art.shtml?num=59800</description>
+    </item>
+    
+    <item>
+      <title>В инсталляторе Ubuntu 23.10 будет возвращена поддержка ZFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-installyatore-ubuntu-23-10-budet-vozvraschena-podderzhka-zfs-20230914-163504/</link>
+      <pubDate>Thu, 14 Sep 2023 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-installyatore-ubuntu-23-10-budet-vozvraschena-podderzhka-zfs-20230914-163504/</guid>
+      <description>В Ubuntu 23.10 в инсталляторах, применяемых для установки серверной и настольной редакций дистрибтива, появится поддержка установки системы с использованием файловой системы ZFS на корневом разделе. В Ubuntu Desktop подобная возможность присутствовала и ранее, но была убрана в Ubuntu Desktop 23.04 из-за задействования нового инсталлятора, написанного на языке Dart и использующего пользовательский интерфейс на базе фреймворка Flutter.
+https://www.opennet.ru/opennews/art.shtml?num=59755</description>
+    </item>
+    
+    <item>
+      <title>В Ubuntu появится поддержка полнодискового шифрования, использующего TPM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-poyavitsya-podderzhka-polnodiskovogo-shifrovaniya-ispolzuyuschego-tpm-20230908-013506/</link>
+      <pubDate>Fri, 08 Sep 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-poyavitsya-podderzhka-polnodiskovogo-shifrovaniya-ispolzuyuschego-tpm-20230908-013506/</guid>
+      <description>Компания Canonical анонсировала появление в осеннем выпуске Ubuntu 23.10 экспериментальной поддержки шифрования дисков, не требующего ввода пароля разблокировки диска при загрузке, благодаря хранению информации для расшифровки ключей в TPM (Trusted Platform Module). Автоматическая разблокировка зашифрованного диска в привязке к аппаратному обеспечению и верифицированной загрузке упрощает внедрение шифрования дисков в корпоративных и совместно используемых системах, а также на удалённых серверах, на которых нет возможности после каждой перезагрузки вручную вводить пароль.
+https://www.opennet.ru/opennews/art.shtml?num=59728</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы ближайшие планы развития Ubuntu Desktop</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-blizhayshie-plany-razvitiya-ubuntu-desktop-20230826-013505/</link>
+      <pubDate>Sat, 26 Aug 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-blizhayshie-plany-razvitiya-ubuntu-desktop-20230826-013505/</guid>
+      <description>Компания Canonical опубликовала обзор развития дистрибутива Ubuntu Desktop. В статье также упомянуто, что сборками Ubuntu для рабочих столов пользуется более 6 млн активных пользователей (данные на основе месячных срезов статистики доставки обновлений). Судя по рейтингу Stack Overflow дистрибутивом Ubuntu Desktop пользуется 27.28% из 87 тысяч опрошенных разработчиков (для сравнения Debian используют 8.39% опрошенных, Arch Linux - 8.06%, Fedora - 4.37%, RHEL - 2.14%, Chrome OS - 1.88%, BSD - 0.96%). Среди активных Linux-пользователей игрового сервиса Steam, доля Ubuntu 22.</description>
+    </item>
+    
+    <item>
+      <title>Для Debian и Ubuntu создан репозиторий с самыми свежими версиями ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-debian-i-ubuntu-sozdan-repozitoriy-s-samymi-svezhimi-versiyami-yadra-linux-20230825-143505/</link>
+      <pubDate>Fri, 25 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-debian-i-ubuntu-sozdan-repozitoriy-s-samymi-svezhimi-versiyami-yadra-linux-20230825-143505/</guid>
+      <description>Stéphane Graber, лидер проекта Linux Containers, член управляющего технического совета Ubuntu и участник команд, отвечающих за выпуск релизов Ubuntu объявил о создании репозитория Zabbly, в котором будут публиковаться пакеты со свежими выпусками ядра Linux для Debian и LTS-выпусков Ubuntu. Представленный репозиторий позволит использовать в Ubuntu более новые версии ядра, чем предлагаемые в пакетах, поставляемых через штатную систему обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=59662</description>
+    </item>
+    
+    <item>
+      <title>Прогресс в продвижении нового менеджера приложений Ubuntu Store</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/progress-v-prodvizhenii-novogo-menedzhera-prilozheniy-ubuntu-store-20230815-103504/</link>
+      <pubDate>Tue, 15 Aug 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/progress-v-prodvizhenii-novogo-menedzhera-prilozheniy-ubuntu-store-20230815-103504/</guid>
+      <description>Разработчики Ubuntu намерены на следующей неделе задействовать по умолчанию в тестовых сборках Ubuntu 23.10 новый менеджер приложений Ubuntu Store, написанный языке Dart с использованием фреймворка Flutter и распространяемый под лицензией GPLv3. При этом в LTS-выпуске Ubuntu 24.04 по умолчанию будет оставлен классический менеджер приложений Ubuntu Software, основанный на GNOME Software (в выпуске Ubuntu 23.10 приложение Ubuntu Software сохранится в качестве опции).
+https://www.opennet.ru/opennews/art.shtml?num=59599</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 22.04.3 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</link>
+      <pubDate>Fri, 11 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.3 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.3 LTS, Kubuntu 22.04.3 LTS, Ubuntu MATE 22.04.3 LTS, Ubuntu Studio 22.04.3 LTS, Lubuntu 22.04.3 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu сократит время устранения уязвимостей в пакетах с ядром Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-sokratit-vremya-ustraneniya-uyazvimostey-v-paketah-s-yadrom-linux-20230802-133507/</link>
+      <pubDate>Wed, 02 Aug 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-sokratit-vremya-ustraneniya-uyazvimostey-v-paketah-s-yadrom-linux-20230802-133507/</guid>
+      <description>Клебер Соуза (Kleber Souza), инженер из компании Canonucal, занимающийся сопровождением пакетов с ядром Linux для Ubuntu, объявил о переходе на новый цикл подготовки обновлений ядра. Новый цикл, который получил кодовое обозначение &amp;ldquo;4/2&amp;rdquo;, предусматривает формирование дополнительных SU-обновлений пакетов с ядром (Security Update), включающих исправления неотложных проблем и уязвимостей, отмеченных как опасные и критические.
+https://www.opennet.ru/opennews/art.shtml?num=59535</description>
+    </item>
+    
+    <item>
+      <title>Опубликована прошивка Ubuntu Touch OTA-2 Focal</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-proshivka-ubuntu-touch-ota-2-focal-20230730-113509/</link>
+      <pubDate>Sun, 30 Jul 2023 11:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-proshivka-ubuntu-touch-ota-2-focal-20230730-113509/</guid>
+      <description>Проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, опубликовал прошивку OTA-2 Focal (over-the-air). Это второй выпуск Ubuntu Touch, основанный на пакетной базе Ubuntu 20.04 (старые выпуски базировались на Ubuntu 16.04). Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
+https://www.opennet.ru/opennews/art.shtml?num=59519</description>
+    </item>
+    
+    <item>
+      <title>Применение в Ubuntu своих патчей к OverlayFS привело к появлению уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/primenenie-v-ubuntu-svoih-patchey-k-overlayfs-privelo-k-poyavleniyu-uyazvimostey-20230727-113653/</link>
+      <pubDate>Thu, 27 Jul 2023 11:36:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/primenenie-v-ubuntu-svoih-patchey-k-overlayfs-privelo-k-poyavleniyu-uyazvimostey-20230727-113653/</guid>
+      <description>В поставляемых в Ubuntu пакетах с ядром Linux выявлены уязвимости, вызванные внесением специфичных для Ubuntu патчей в реализацию модуля OverlayFS. Уязвимости позволяют повысить свои привилегии в системе и по оценке выявивших проблемы исследователей могут быть эксплуатированы примерно в 40% установок Ubuntu. Уязвимости проявляются только в пакетах с ядром для Ubuntu и устранены в обновлениях, выпущенных 26 июля (Ubuntu 23.04, 22.04, 20.04, 18.04, 16.04, 14.04 и др.).
+https://www.opennet.ru/opennews/art.shtml?num=59502</description>
+    </item>
+    
+    <item>
+      <title>Доступна Real-time редакция Ubuntu, оптимизированная для процессоров Intel Core</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</link>
+      <pubDate>Thu, 27 Jul 2023 01:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-real-time-redakciya-ubuntu-optimizirovannaya-dlya-processorov-intel-core-20230727-013512/</guid>
+      <description>Компания Canonical объявила о подготовке новых сборок Ubuntu, оптимизированных для выполнения задач в режиме реального времени на системах с процессорами Intel Core. Для повышения производительности и снижения влияния сторонней нагрузки на работу приложений, чувствительных к задержкам обработки и доставки данных, в сборках задействованы оптимизации, повышающие приоритет доступа к кэшу, памяти и сетевым операциям для приложений, работающих в режиме реального времени.
+https://www.opennet.ru/opennews/art.shtml?num=59501</description>
+    </item>
+    
+    <item>
+      <title>В Ubuntu 23.10 появится новый менеджер приложений, ориентированный на пакеты Snap </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-23-10-poyavitsya-novyy-menedzher-prilozheniy-orientirovannyy-na-pakety-snap-20230707-173504/</link>
+      <pubDate>Fri, 07 Jul 2023 17:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-ubuntu-23-10-poyavitsya-novyy-menedzher-prilozheniy-orientirovannyy-na-pakety-snap-20230707-173504/</guid>
+      <description>В состав осеннего выпуска Ubuntu 23.10 планируют включить новый графический интерфейс установки приложений App Store (Software App), отдающий приоритет пакетам в формате Snap и ориентированный на первичную поддержку данного формата. При этом новое приложение также имеет возможность работы с репозиториями в формате DEB и установки отдельных deb-пакетов из локальных файлов. Код приложения написан на языке Dart с использованием фреймворка Flutter и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59396</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DeltaTouch 1.0.0, клиента Delta Chat для Ubuntu Touch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</link>
+      <pubDate>Tue, 04 Jul 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</guid>
+      <description>Вышла первая версия мессенджера DeltaTouch для платформы Ubuntu Touch, применяющего технологию Delta Chat для использования email в качестве транспорта вместо собственных серверов (chat-over-email, специализированный почтовый клиент, работающий как мессенджер). Исходные тексты написаны на С++ и распространяются под лицензией GPLv3. Сборки DeltaTouch доступны для загрузки в каталоге OpenStore для веток Ubuntu Touch на базе Ubuntu 16.04 и 20.04.
+https://www.opennet.ru/opennews/art.shtml?num=59376</description>
+    </item>
+    
+    <item>
+      <title>unsnap - инструментарий для миграции Ubuntu со Snap на Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</link>
+      <pubDate>Sun, 02 Jul 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</guid>
+      <description>Проект unsnap развивает утилиту для перевода систем на базе Ubuntu с использования пакетов snap на пакеты в формате flatpak. Утилита не только заменяет пакетный менеджер snap на flatpak, но также подбирает и устанавливает flatpak-аналоги для уже установленных в системе snap-пакетов. В идеальном случае пользователь может получить полностью аналогичный набор приложений, но установленный в формате flatpak. Код написан на shell и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59366</description>
+    </item>
+    
+    <item>
+      <title>Canonical готовит вариант Ubuntu Desktop, содержащий только пакеты Snap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/canonical-gotovit-variant-ubuntu-desktop-soderzhaschiy-tolko-pakety-snap-20230531-133506/</link>
+      <pubDate>Wed, 31 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/canonical-gotovit-variant-ubuntu-desktop-soderzhaschiy-tolko-pakety-snap-20230531-133506/</guid>
+      <description>Разработчики из компании Canonical намерены в следующем году начать поставку дополнительных сборок Ubuntu Desktop, основанных на платформе Ubuntu Core и включающих только приложения, оформленные с использование пакетов в формате Snap. Похожая, но основанная на пакетах Flatpak, компоновка дистрибутива для рабочих станций, уже применяется такими проектами, как Fedora Silverblue и Endless OS. Первые экспериментальные сборки нового варианта Ubuntu Desktop планируют подготовить весной следующего года, в процессе формирования Ubuntu 23.04 LTS. Поставка классических сборок Ubuntu Desktop с deb-пакетами будет продолжена без изменений.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Ubuntu Sway Remix 23.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-23-04-20230421-233503/</link>
+      <pubDate>Fri, 21 Apr 2023 23:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-sway-remix-23-04-20230421-233503/</guid>
+      <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 23.04, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 23.04, созданной с оглядкой как на опытных пользователей GNU/Linux, так и новичков, желающих попробовать окружение мозаичных оконных менеджеров без необходимости в их долгой настройке. Для загрузки подготовлены сборки для архитектур amd64 и arm64 (Raspberry Pi).
+https://www.opennet.ru/opennews/art.shtml?num=59011</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Ubuntu 23.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-23-04-20230420-203506/</link>
+      <pubDate>Thu, 20 Apr 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntu-23-04-20230420-203506/</guid>
+      <description>Опубликован релиз дистрибутива Ubuntu 23.04 &amp;ldquo;Lunar Lobster&amp;rdquo;, который отнесён к промежуточным выпускам, обновления для которых формируются в течение 9 месяцев (поддержка будет осуществляться до января 2024 года). Установочные образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
+https://www.opennet.ru/opennews/art.shtml?num=59007</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск Ubuntu 23.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-23-04-20230331-144024/</link>
+      <pubDate>Fri, 31 Mar 2023 14:40:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-ubuntu-23-04-20230331-144024/</guid>
+      <description>Представлен бета-выпуск дистрибутива Ubuntu 23.04 &amp;ldquo;Lunar Lobster&amp;rdquo;, после формирования которого произведена полная заморозка пакетной базы, и разработчики перешли к итоговому тестированию и исправлению ошибок. Релиз, который отнесён к промежуточным выпускам, обновления для которых формируются в течение 9 месяцев, запланирован на 27 апреля. Готовые тестовые образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
+https://www.opennet.ru/opennews/art.shtml?num=58898</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Cinnamon получил статус официальной редакции Ubuntu </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-cinnamon-poluchil-status-oficialnoy-redakcii-ubuntu-20230329-133515/</link>
+      <pubDate>Wed, 29 Mar 2023 13:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-cinnamon-poluchil-status-oficialnoy-redakcii-ubuntu-20230329-133515/</guid>
+      <description>Участники технического комитета, управляющего развитием Ubuntu, утвердили принятие дистрибутива Ubuntu Cinnamon, предлагающего пользовательское окружение Cinnamon, в число официальных редакций Ubuntu. На текущем этапе интеграции с инфраструктурой Ubuntu уже началось формирвование тестовых сборок Ubuntu Cinnamon и ведётся работа по организации тестирования в системе контроля качества. Если не будет выявлено серьёзных проблем, Ubuntu Cinnamon войдёт в число официально предлагаемых сборок начиная с выпуска Ubuntu 23.04.
+https://www.opennet.ru/opennews/art.shtml?num=58884</description>
+    </item>
+    
+    <item>
+      <title>Опубликована прошивка Ubuntu Touch OTA-1 Focal, переведённая на Ubuntu 20.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-proshivka-ubuntu-touch-ota-1-focal-perevedennaya-na-ubuntu-20-04-20230327-223505/</link>
+      <pubDate>Mon, 27 Mar 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-proshivka-ubuntu-touch-ota-1-focal-perevedennaya-na-ubuntu-20-04-20230327-223505/</guid>
+      <description>Проект UBports, который взял в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical, опубликовал обновление прошивки OTA-1 Focal (over-the-air). Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri. Представленное обновление подвело итог почти трёхлетней работе по портированию Ubuntu Touch на Ubuntu 20.04 (прошлые выпуски базировались на Ubuntu 16.04). Обновление Ubuntu Touch OTA-1 Focal сформировано для смартфонов Fairphone 4, Google Pixel 3a, Vollaphone 22, Vollaphone X и Vollaphone.</description>
+    </item>
+    
+    <item>
+      <title>На соревновании Pwn2Own 2023 продемонстрировано 5 взломов Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2023-prodemonstrirovano-5-vzlomov-ubuntu-20230325-183505/</link>
+      <pubDate>Sat, 25 Mar 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2023-prodemonstrirovano-5-vzlomov-ubuntu-20230325-183505/</guid>
+      <description>Подведены итоги трёх дней соревнований Pwn2Own 2023, ежегодно проводимых в рамках конференции CanSecWest в Ванкувере. Рабочие техники эксплуатации ранее неизвестных уязвимостей были продемонстрированы для Ubuntu Desktop, Apple macOS, Oracle VirtualBox, VMWare Workstation, Microsoft Windows 11, Microsoft Teams, Microsoft SharePoint и автомобиля Tesla. Всего было продемонстрировано 27 успешных атак, эксплуатирующих ранее неизвестные уязвимости. При проведении атак использовались самые свежие стабильные выпуски приложений, браузеров и операционных систем со всеми доступными обновлениями и в конфигурации по умолчанию.</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутива Ubuntu 20.04.6 LTS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-ubuntu-20-04-6-lts-20230323-233505/</link>
+      <pubDate>Thu, 23 Mar 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-ubuntu-20-04-6-lts-20230323-233505/</guid>
+      <description>Опубликовано обновление дистрибутива Ubuntu 20.04.6 LTS. В состав выпуска включены только накопившиеся обновления пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Версии ядра и программ соответствуют версии 20.04.5.
+https://www.opennet.ru/opennews/art.shtml?num=58851</description>
+    </item>
+    
+  </channel>
+</rss>

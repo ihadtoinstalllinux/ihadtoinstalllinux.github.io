@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SDL3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sdl3/</link>
+    <description>Recent content in SDL3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2024 14:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sdl3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В библиотеке SDL3 отложили переход на Wayland по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-sdl3-otlozhili-perehod-na-wayland-po-umolchaniyu-20240326-143603/</link>
+      <pubDate>Tue, 26 Mar 2024 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-sdl3-otlozhili-perehod-na-wayland-po-umolchaniyu-20240326-143603/</guid>
+      <description>Разработчики библиотеки SDL (Simple DirectMedia Layer), нацеленной на упрощение написания игр и мультимедийных приложений, отменили изменение, переводящее ветку SDL3 на использование по умолчанию протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. В качестве причины упоминается наличие проблем, нерешённых в экосистеме Wayland, связанных с блокировкой поверхностей и реализацией FIFO (vsync). Указанные проблемы приводят к снижению производительности и не могут быть полноценно решены без реализации дополнительных протоколов fifo-v1 и commit-timing-v1.</description>
+    </item>
+    
+  </channel>
+</rss>

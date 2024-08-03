@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Backup on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/backup/</link>
+    <description>Recent content in Backup on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2024 17:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз инструмента резервного копирования nxs-backup 3.9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-9-0-20240718-173507/</link>
+      <pubDate>Thu, 18 Jul 2024 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-9-0-20240718-173507/</guid>
+      <description>Опубликован релиз инструмента резервного копирования nxs-backup 3.9.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД: MySQL, PostgreSQL, MongoDB, Redis. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61572</description>
+    </item>
+    
+    <item>
+      <title>Доступна система резервного копирования nxs-backup 3.7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-nxs-backup-3-7-0-20240605-183507/</link>
+      <pubDate>Wed, 05 Jun 2024 18:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-nxs-backup-3-7-0-20240605-183507/</guid>
+      <description>Опубликован выпуск инструментария резервного копирования nxs-backup 3.7.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД: MySQL, PostgreSQL, MongoDB, Redis. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61315</description>
+    </item>
+    
+    <item>
+      <title>Релиз системы резервного копирования nxs-backup 3.4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-rezervnogo-kopirovaniya-nxs-backup-3-4-0-20240411-103507/</link>
+      <pubDate>Thu, 11 Apr 2024 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-rezervnogo-kopirovaniya-nxs-backup-3-4-0-20240411-103507/</guid>
+      <description>Опубликован выпуск инструментария резервного копирования nxs-backup 3.4.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД. Код проекта распространяется под лицензией GPLv3. Начиная с ветки nxs-backup 3.x код проекта полностью переписан на языке Go (ранее использовался язык Python) с целью повышения производительности и расширения функциональности.
+https://www.opennet.ru/opennews/art.shtml?num=60957</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Proxmox Backup Server 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</link>
+      <pubDate>Fri, 01 Dec 2023 15:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.1, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=60214</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox Backup Server 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</link>
+      <pubDate>Wed, 28 Jun 2023 21:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.0, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=59353</description>
+    </item>
+    
+  </channel>
+</rss>

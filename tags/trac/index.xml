@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trac on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/trac/</link>
+    <description>Recent content in Trac on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2023 22:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/trac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система управления проектами Trac 1.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-proektami-trac-1-6-20230924-223505/</link>
+      <pubDate>Sun, 24 Sep 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-upravleniya-proektami-trac-1-6-20230924-223505/</guid>
+      <description>После четырёх лет разработки представлен новый стабильный выпуск системы управления проектами Trac 1.6 (ветка 1.5 была экспериментальной), предоставляющей web-интерфейс для работы с репозиториями Subversion и ​Git, встроенный Wiki, систему отслеживания ошибок и раздел планирования функциональности для новых версий. Код написан на языке Python и распространяется под лицензией BSD. Для хранения данных могут применяться СУБД ​SQLite, ​PostgreSQL и ​MySQL/MariaDB.
+https://www.opennet.ru/opennews/art.shtml?num=59808</description>
+    </item>
+    
+  </channel>
+</rss>

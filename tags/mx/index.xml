@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mx/</link>
+    <description>Recent content in MX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 10:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива MX Linux 23.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-3-20240520-103515/</link>
+      <pubDate>Mon, 20 May 2024 10:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-3-20240520-103515/</guid>
+      <description>Опубликован релиз легковесного дистрибутива MX Linux 23.3, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки (x86_64, i386) с рабочим столом Xfce (2.1 ГБ), а также 64-разрядные сборки с рабочим столом KDE (2.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован AV Linux MX-23.2, дистрибутив для создания аудио- и видеоконтента</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-av-linux-mx-23-2-distributiv-dlya-sozdaniya-audio-i-videokontenta-20240407-143603/</link>
+      <pubDate>Sun, 07 Apr 2024 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-av-linux-mx-23-2-distributiv-dlya-sozdaniya-audio-i-videokontenta-20240407-143603/</guid>
+      <description>Cостоялся выпуск дистрибутива AV Linux 23.2, содержащий подборку приложений для создания/обработки мультимедийного контента. Дистрибутив основан на пакетной базе MX Linux и репозитории KXStudio с коллекцией приложений для обработки звука и дополнительные пакеты собственной сборки (Polyphone, Shuriken, Simple Screen Recorder и т.п.). Дистрибутив может функционировать в Live-режиме и доступен для архитектуры x86_64 (5.4 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=60942</description>
+    </item>
+    
+    <item>
+      <title>Доступны дистрибутивы MX Linux 23.2 и AV Linux 23.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-distributivy-mx-linux-23-2-i-av-linux-23-1-20240122-203600/</link>
+      <pubDate>Mon, 22 Jan 2024 20:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-distributivy-mx-linux-23-2-i-av-linux-23-1-20240122-203600/</guid>
+      <description>Опубликован релиз легковесного дистрибутива MX Linux 23.2, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки (x86_64, i386) с рабочим столом Xfce (2.3 ГБ), а также 64-разрядные сборки с рабочим столом KDE (2.</description>
+    </item>
+    
+    <item>
+      <title>Подготовлена редакция дистрибутива MX Linux для плат Raspberry Pi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</link>
+      <pubDate>Sun, 31 Dec 2023 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</guid>
+      <description>Представлен новый вариант легковесного дистрибутива MX Linux, сформированный для плат Raspberry Pi. Сборка протестирована на платах Raspberry Pi 4, 400 и 5. Для установки требуется 16 ГБ свободного пространства на карте памяти или загрузка с USB-накопителя. Размер сжатого системного образа 2.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60372</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива MX Linux 23.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-1-20231016-133505/</link>
+      <pubDate>Mon, 16 Oct 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-1-20231016-133505/</guid>
+      <description>Опубликован релиз легковесного дистрибутива MX Linux 23.1, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки (x86_64, i386) с рабочим столом Xfce (2.1 ГБ), а также 64-разрядные сборки с рабочим столом KDE (2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива MX Linux 23</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-20230801-173601/</link>
+      <pubDate>Tue, 01 Aug 2023 17:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-mx-linux-23-20230801-173601/</guid>
+      <description>Опубликован релиз легковесного дистрибутива MX Linux 23, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собственного репозитория. В дистрибутиве используется система инициализации sysVinit и собственные инструменты для настройки и развёртывания системы. Для загрузки доступны 32- и 64-разрядные сборки (1.8 ГБ, x86_64, i386) с рабочим столом Xfce (2.2 ГБ), а также 64-разрядные сборки с рабочим столом KDE (2.</description>
+    </item>
+    
+  </channel>
+</rss>

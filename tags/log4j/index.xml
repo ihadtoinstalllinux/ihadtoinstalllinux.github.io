@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Log4j on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/log4j/</link>
+    <description>Recent content in Log4j on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 17:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/log4j/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Треть Java-проектов на базе библиотеки Log4j продолжают использовать уязвимые версии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tret-java-proektov-na-baze-biblioteki-log4j-prodolzhayut-ispolzovat-uyazvimye-versii-20231214-173534/</link>
+      <pubDate>Thu, 14 Dec 2023 17:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tret-java-proektov-na-baze-biblioteki-log4j-prodolzhayut-ispolzovat-uyazvimye-versii-20231214-173534/</guid>
+      <description>Компания Veracode опубликовала результаты исследования актуальности критических уязвимостей в Java-библиотеке Log4j, выявленных в прошлом и позапрошлом годах. Изучив 38278 приложений, используемых в 3866 организациях, исследователи из Veracode обнаружили, что 38% из них используют уязвимые версии Log4j. Основной причиной продолжения применения устаревшего кода является встраивание в проекты старых библиотек или трудоёмкость миграции с уже неподдерживаемых веток на новые ветки, в которых нарушена обратная совместимость (судя по прошлому отчёту Veracode, 79% перенесённых в код проектов сторонних библиотек в последующем никогда не обновляются).</description>
+    </item>
+    
+  </channel>
+</rss>

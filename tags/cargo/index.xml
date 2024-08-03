@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cargo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cargo/</link>
+    <description>Recent content in Cargo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 00:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cargo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в пакетном менеджере Cargo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketnom-menedzhere-cargo-20230804-003506/</link>
+      <pubDate>Fri, 04 Aug 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketnom-menedzhere-cargo-20230804-003506/</guid>
+      <description>В пакетном менеджере Cargo, применяемом для управления пакетами и сборки проектов на языке Rust, выявлена уязвимость (CVE-2023-38497), вызванная отсутствием учёта значения umask в процессе извлечения файлов из пакетов на Unix-подобных системах, что приводит к установке для извлечённых файлов исходных прав доступа, указанных в архиве.
+https://www.opennet.ru/opennews/art.shtml?num=59548</description>
+    </item>
+    
+  </channel>
+</rss>

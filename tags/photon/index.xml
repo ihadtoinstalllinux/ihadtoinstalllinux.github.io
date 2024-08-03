@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/photon/</link>
+    <description>Recent content in Photon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 01:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/photon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания VMware опубликовала Linux-дистрибутив Photon OS 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</link>
+      <pubDate>Tue, 02 May 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-vmware-opublikovala-linux-distributiv-photon-os-5-0-20230502-013508/</guid>
+      <description>Опубликован релиз Linux-дистрибутива Photon OS 5.0, нацеленного на предоставление минималистичного хостового окружения для запуска приложений в изолированных контейнерах. Проект развивается компанией VMware и заявлен как пригодный для развёртывания промышленных приложений, включающий дополнительные элементы для усиления безопасности и предлагающий расширенные оптимизации для окружений VMware vSphere, Microsoft Azure, Amazon Elastic Compute и Google Compute Engine. Исходные тексты разработанных для Photon OS компонентов поставляются под лицензией GPLv2 (за исключением библиотеки libtdnf, которая открыта под лицензией LGPLv2.</description>
+    </item>
+    
+  </channel>
+</rss>

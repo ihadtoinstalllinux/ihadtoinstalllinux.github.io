@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UDP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/udp/</link>
+    <description>Recent content in UDP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 12:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/udp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака на протоколы на основе UDP, приводящая к зацикливанию обмена пакетами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-protokoly-na-osnove-udp-privodyaschaya-k-zaciklivaniyu-obmena-paketami-20240320-123542/</link>
+      <pubDate>Wed, 20 Mar 2024 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-protokoly-na-osnove-udp-privodyaschaya-k-zaciklivaniyu-obmena-paketami-20240320-123542/</guid>
+      <description>Координационный центр CERT (компьютерная группа реагирования на чрезвычайные ситуации), опубликовал предупреждение о серии уязвимостей в реализациях различных прикладных протоколов, использующих в качестве транспорта протокол UDP. Уязвимости могут использоваться для организации отказа в обслуживании из-за возможности зацикливания обмена пакетами между двумя хостами. Например, атакующие могут добиться исчерпания доступной пропускной способности сети, блокирования работы сетевых сервисов (например, через создание высокой нагрузки и превышение ограничения интенсивности запросов) и реализации усилителей трафика для DDoS-атак.</description>
+    </item>
+    
+  </channel>
+</rss>

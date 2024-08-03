@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YouTube on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/youtube/</link>
+    <description>Recent content in YouTube on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 02:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Firefox 127.0.2 с устранением проблемы с YouTube</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</link>
+      <pubDate>Wed, 26 Jun 2024 02:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</guid>
+      <description>Доступен корректирующий выпуск Firefox 127.0.2, в котором устранены проблемы с зависанием воспроизведения видео с YouTube при смене позиции в потоке. Проблема вызвана ошибочным формированием потока в формате VP9 на стороне YouTube и проявляется, среди прочего, для видео VP9 с качеством выше 1080p.
+https://www.opennet.ru/opennews/art.shtml?num=61441</description>
+    </item>
+    
+    <item>
+      <title>Звукозаписывающие компании добились блокировки сайта проекта Youtube-dl </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zvukozapisyvayuschie-kompanii-dobilis-blokirovki-sayta-proekta-youtube-dl-20230810-013506/</link>
+      <pubDate>Thu, 10 Aug 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zvukozapisyvayuschie-kompanii-dobilis-blokirovki-sayta-proekta-youtube-dl-20230810-013506/</guid>
+      <description>Немецкий провайдер Uberspace, обеспечивающий хостинг проекта youtube-dl, заблокировал сайт youtube-dl.org после поступления судебного требования о блокировке, которого добились звукозаписывающие компании Sony Entertainment, Warner Music Group и Universal Music. Альтернативная страница проекта ytdl-org.github.io и репозиторий на GitHub остаются доступными. Решение не распространяется на регистратора домена youtube-dl.org, поэтому проект Youtube-dl в любое время может перенести сайт на другой хостинг.
+https://www.opennet.ru/opennews/art.shtml?num=59576</description>
+    </item>
+    
+  </channel>
+</rss>

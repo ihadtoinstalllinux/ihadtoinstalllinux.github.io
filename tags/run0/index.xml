@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>run0 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/run0/</link>
+    <description>Recent content in run0 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jun 2024 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/run0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системного менеджера systemd 256 с утилитой run0 для замены sudo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</link>
+      <pubDate>Wed, 12 Jun 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</guid>
+      <description>После полугода разработки представлен релиз системного менеджера systemd 256. Ключевые изменения: утилита run0 для замены sudo, утилита importctl для работы с дисковыми образами, возможность версионированного доступа к ресурсам, концепция капсул для запуска дополнительных сервисных менеджеров, режим перенаправления логов systemd-journald в произвольный сокет, в systemd-networkd, systemd-machined, bootctl, systemd-creds и systemd-hostnamed добавлена поддержка протокола Varlink, предложены генератор юнитов &amp;ldquo;systemd-ssh-generator&amp;rdquo; и утилита &amp;ldquo;systemd-ssh-proxy&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61234</description>
+    </item>
+    
+    <item>
+      <title>Леннарт Поттеринг представил run0, замену sudo, интегрированную в systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</link>
+      <pubDate>Tue, 30 Apr 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</guid>
+      <description>Леннарт Поттеринг представил утилиту run0, позволяющую выполнять процессы под идентификаторами других пользователей. Новая утилита позиционируется как более безопасная замена программы sudo, реализованная в форме надстройки над командой systemd-run и позволяющая избавиться от применения исполняемого файла с флагом SUID. Утилита run0 включена в состав выпуска systemd 256, который находится на стадии кандидата в релизы.
+https://www.opennet.ru/opennews/art.shtml?num=61088</description>
+    </item>
+    
+  </channel>
+</rss>

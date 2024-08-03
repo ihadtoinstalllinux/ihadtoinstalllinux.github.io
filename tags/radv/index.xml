@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>radv on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/radv/</link>
+    <description>Recent content in radv on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 11:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/radv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Mesa-драйвере radv реализована поддержка расширений Vulkan для кодирования видео h.265</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</link>
+      <pubDate>Tue, 19 Dec 2023 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, сообщил о реализации в radv, поставляемом в Mesa Vulkan-драйвере для GPU AMD, возможности использования Vulkan-расширений для аппаратного ускорения кодирования видео. Для формата видео h.265 реализация уже успешно проходит все тесты CTS (Compatibility Test Suite), а для формата h.264 остаётся один непройденный тест. Кроме того, сообщается о добавлении в FFmpeg начальной поддержки использования Vulkan для кодирования видео в форматах h.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>flood on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flood/</link>
+    <description>Recent content in flood on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 16:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака Continuation flood, приводящая к проблемам на серверах, использующих HTTP/2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-continuation-flood-privodyaschaya-k-problemam-na-serverah-ispolzuyuschih-http-2-0-20240404-163545/</link>
+      <pubDate>Thu, 04 Apr 2024 16:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-continuation-flood-privodyaschaya-k-problemam-na-serverah-ispolzuyuschih-http-2-0-20240404-163545/</guid>
+      <description>Раскрыты сведения об методе атаки &amp;ldquo;Continuation flood&amp;rdquo;, затрагивающем различные реализации протокола HTTP/2, среди которых Apache httpd, Apache Traffic Server, Node.js, oghttp, Go net/http2, Envoy, oghttp и nghttp2. Уязвимость может использоваться для совершения атак на серверы с поддержкой HTTP/2.0 и в зависимости от реализации приводит к исчерпанию памяти (прекращение обработки запросов или аварийное завершение процессов) или созданию высокой нагрузки на CPU (замедление обработки запросов). По мнению обнаружившего уязвимость исследователя, выявленная проблема более опасна, чем найденная в прошлом году уязвимость &amp;ldquo;Rapid Reset&amp;rdquo;, использованная для совершения крупнейших на то время DDoS-атак.</description>
+    </item>
+    
+  </channel>
+</rss>

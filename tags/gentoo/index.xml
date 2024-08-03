@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gentoo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gentoo/</link>
+    <description>Recent content in Gentoo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 16:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прекращена разработка Funtoo Linux, развивавшегося создателем Gentoo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prekraschena-razrabotka-funtoo-linux-razvivavshegosya-sozdatelem-gentoo-20240731-163550/</link>
+      <pubDate>Wed, 31 Jul 2024 16:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prekraschena-razrabotka-funtoo-linux-razvivavshegosya-sozdatelem-gentoo-20240731-163550/</guid>
+      <description>Дэниель Роббинс (Daniel Robbins), основатель дистрибутива Gentoo, отстранившийся от проекта в 2009 году, объявил о прекращении разработки дистрибутива Funtoo Linux, который он развивал с 2006 года, как проект для дальнейшего усовершенствования имеющихся в Gentoo технологий. В качестве причины закрытия проекта упоминается потеря интереса и желание посвятить своё время другим вещам. Для передачи управления в другие руки в сообществе не нашлось достойного кандидата, поэтому решено просто свернуть проект, но желающие могут продолжить его разработку через создание форка.</description>
+    </item>
+    
+    <item>
+      <title>Эксперимент по переводу Gentoo на использование варианта Coreutils на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-perevodu-gentoo-na-ispolzovanie-varianta-coreutils-na-yazyke-rust-20240621-203602/</link>
+      <pubDate>Fri, 21 Jun 2024 20:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-perevodu-gentoo-na-ispolzovanie-varianta-coreutils-na-yazyke-rust-20240621-203602/</guid>
+      <description>Опубликованы результаты эксперимента по замене пакета GNU Coreutils на uutils в системном окружении Gentoo, с целью проверить возможность собирать и устанавливать в таком окружении пакеты при помощи пакетного менеджера Portage, завязанного на возможности Coreutils. Проект uutils coreutils развивает кроссплатформенную альтернативу пакета GNU Coreutils, написанную на языке Rust, распространяемую под пермиссивной лицензией MIT (вместо копилефт-лицензии GPL) и способную работать не только в Linux.
+https://www.opennet.ru/opennews/art.shtml?num=61418</description>
+    </item>
+    
+    <item>
+      <title>Проект Gentoo запретил принятие изменений, подготовленных при помощи AI-инструментов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-zapretil-prinyatie-izmeneniy-podgotovlennyh-pri-pomoschi-ai-instrumentov-20240417-103525/</link>
+      <pubDate>Wed, 17 Apr 2024 10:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-zapretil-prinyatie-izmeneniy-podgotovlennyh-pri-pomoschi-ai-instrumentov-20240417-103525/</guid>
+      <description>Управляющий совет дистрибутива Gentoo Linux утвердил правила, запрещающие принятие в Gentoo любого контента, созданного с использованием AI-инструментов, обрабатывающих запросы на естественном языке, таких как ChatGPT, Bard и GitHub Copilot. Подобные инструменты не должны использоваться при написании кода компонентов Gentoo, создании ebuild, подготовке документации и отправке отчётов об ошибках.
+https://www.opennet.ru/opennews/art.shtml?num=61006</description>
+    </item>
+    
+    <item>
+      <title>Проект Gentoo перешёл под крыло организации SPI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-pereshel-pod-krylo-organizacii-spi-20240411-173605/</link>
+      <pubDate>Thu, 11 Apr 2024 17:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-pereshel-pod-krylo-organizacii-spi-20240411-173605/</guid>
+      <description>Разработчики дистрибутива Gentoo объявили о переходе проекта под покровительство некоммерческой организации SPI (Software in the Public Interest), которой делегированы решения не связанных с технологиями административных задач, что позволит обойтись без поддержания своего юридического лица, избавиться от административной рутины и увеличить привлекательность для передачи пожертвований коммерческими компаниями, так как подобные пожертвования дадут возможность получить налоговый вычет в США.
+https://www.opennet.ru/opennews/art.shtml?num=60967</description>
+    </item>
+    
+    <item>
+      <title>Gentoo начал формирование бинарных пакетов для архитектуры x86-64-v3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gentoo-nachal-formirovanie-binarnyh-paketov-dlya-arhitektury-x86-64-v3-20240204-213509/</link>
+      <pubDate>Sun, 04 Feb 2024 21:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gentoo-nachal-formirovanie-binarnyh-paketov-dlya-arhitektury-x86-64-v3-20240204-213509/</guid>
+      <description>Разработчики проекта Gentoo объявили о введении в строй отдельного репозитория с бинарными пакетами, собранными с поддержкой третьей версии микроархитектуры x86-64 (x86-64-v3), применяемой в процессорах Intel примерно с 2015 года (начиная с Intel Haswell) и отличающейся наличием таких расширений, как AVX, AVX2, BMI2, FMA, LZCNT, MOVBE и SXSAVE. В репозитории предложен отдельный набор пакетов, формируемый параллельно с опубликованным в декабре репозиторием, в котором сборка выполнена для базовой архитектуры x86-64, которую можно использовать на любых 64-разрядных процессорах Intel и AMD.</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Gentoo объявил о доступности бинарных пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-gentoo-obyavil-o-dostupnosti-binarnyh-paketov-20231229-163530/</link>
+      <pubDate>Fri, 29 Dec 2023 16:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-gentoo-obyavil-o-dostupnosti-binarnyh-paketov-20231229-163530/</guid>
+      <description>Разработчики дистрибутива Gentoo Linux, изначально ориентированного на формирование окружения с использованием сборки программ из исходного кода, объявил о введении в строй репозитория готовых бинарных пакетов. Пакетный менеджер Portage уже много лет поддерживает установку бинарных пакетов, но до сих пор бинарные пакеты не предоставлялись централизованно - предполагалось, что дистрибутив распространяет метаданные для сборки, но пользователь может собрать бинарные пакеты на одной из своих систем и использовать их на других компьютерах.
+https://www.opennet.ru/opennews/art.shtml?num=60363</description>
+    </item>
+    
+  </channel>
+</rss>

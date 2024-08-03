@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firefox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/firefox/</link>
+    <description>Recent content in Firefox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2024 22:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Firefox 128</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-128-20240709-223600/</link>
+      <pubDate>Tue, 09 Jul 2024 22:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-128-20240709-223600/</guid>
+      <description>Состоялся релиз web-браузера Firefox 128. Firefox 128 отнесён к категории веток с длительным сроком поддержки (ESR), обновления для которых выпускаются в течение года. Кроме того, сформировано обновление прошлой ветки с длительным сроком поддержки - 115.13.0 (в дальнейшем ожидается ещё два обновления 115.14 и 115.15). На стадию бета-тестирования переведена ветка Firefox 129, релиз которой намечен на 6 августа.
+https://www.opennet.ru/opennews/art.shtml?num=61511</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 127.0.2 с устранением проблемы с YouTube</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</link>
+      <pubDate>Wed, 26 Jun 2024 02:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-2-s-ustraneniem-problemy-s-youtube-20240626-023531/</guid>
+      <description>Доступен корректирующий выпуск Firefox 127.0.2, в котором устранены проблемы с зависанием воспроизведения видео с YouTube при смене позиции в потоке. Проблема вызвана ошибочным формированием потока в формате VP9 на стороне YouTube и проявляется, среди прочего, для видео VP9 с качеством выше 1080p.
+https://www.opennet.ru/opennews/art.shtml?num=61441</description>
+    </item>
+    
+    <item>
+      <title>В ночные сборки Firefox добавлена поддержка вертикальных вкладок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnye-sborki-firefox-dobavlena-podderzhka-vertikalnyh-vkladok-20240625-193515/</link>
+      <pubDate>Tue, 25 Jun 2024 19:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnye-sborki-firefox-dobavlena-podderzhka-vertikalnyh-vkladok-20240625-193515/</guid>
+      <description>В ночные сборки Firefox, на базе которых 6 августа будет сформирован релиз Firefox 129, добавлена новая реализация боковой панели и возможность вертикального размещения вкладок, что позволяет выделить дополнительное экранное пространство для просмотра содержимого сайтов на широкоформатных экранах (с апреля вертикальные вкладки тестировались в отдельных сборках larch, а теперь доступны в штатных ночных сборках). Для включения вертикальных вкладок следует активировать параметры sidebar.revamp и sidebar.verticalTabs на странице about:config. Боковая панель может отображаться как в развёрнутом, так и в свёрнутом виде.</description>
+    </item>
+    
+    <item>
+      <title>В Firefox предложен для тестирования встроенный AI-ассистент</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhen-dlya-testirovaniya-vstroennyy-ai-assistent-20240625-013552/</link>
+      <pubDate>Tue, 25 Jun 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhen-dlya-testirovaniya-vstroennyy-ai-assistent-20240625-013552/</guid>
+      <description>Компания Mozilla анонсировала проведение экспериментов по интеграции в Firefox чатбота, использующего большие языковые модели для взаимодействия с пользователем на естественном языке. Тестирование чатбота начнётся на этой неделе в ночных сборках Firefox.
+https://www.opennet.ru/opennews/art.shtml?num=61434</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 127.0.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-0-1-20240620-123538/</link>
+      <pubDate>Thu, 20 Jun 2024 12:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-127-0-0-1-20240620-123538/</guid>
+      <description>Доступен корректирующий выпуск Firefox 127.0.1, в котором исправлено несколько проблем.
+https://www.opennet.ru/opennews/art.shtml?num=61409</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 127</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-127-20240611-213559/</link>
+      <pubDate>Tue, 11 Jun 2024 21:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-127-20240611-213559/</guid>
+      <description>Состоялся релиз web-браузера Firefox 127 и сформировано обновление ветки с длительным сроком поддержки - 115.12.0. На стадию бета-тестирования переведена ветка Firefox 128, релиз которой намечен на 9 июля.
+https://www.opennet.ru/opennews/art.shtml?num=61353</description>
+    </item>
+    
+    <item>
+      <title>Mozilla добавит в Firefox 130 AI-возможность для генерации описаний изображений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-dobavit-v-firefox-130-ai-vozmozhnost-dlya-generacii-opisaniy-izobrazheniy-20240603-143506/</link>
+      <pubDate>Mon, 03 Jun 2024 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-dobavit-v-firefox-130-ai-vozmozhnost-dlya-generacii-opisaniy-izobrazheniy-20240603-143506/</guid>
+      <description>Разработчики Firefox поделились планами по расширению использования в браузере возможностей на основе механизмов машинного обучения. Начиная с выпуска Firefox 130, намеченного на 3 сентября, в браузер будет включена функциональность для автоматической генерации текстовых описаний изображений. Тестирование реализации уже началось в ночных сборках Firefox, в которых подобная функциональность встроена в PDF-просмотршик. На первом этапе для тестирования работы алгоритма описание генерируется только при добавлении новых изображений в качестве подсказки, но в дальнейшем его планируют применить и для существующих изображений.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 126.0.1. Преобразования в компании Mozilla</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-126-0-1-preobrazovaniya-v-kompanii-mozilla-20240528-203549/</link>
+      <pubDate>Tue, 28 May 2024 20:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-126-0-1-preobrazovaniya-v-kompanii-mozilla-20240528-203549/</guid>
+      <description>Доступен корректирующий выпуск Firefox 126.0.1, в котором исправлено несколько проблем.
+https://www.opennet.ru/opennews/art.shtml?num=61259</description>
+    </item>
+    
+    <item>
+      <title>Опубликован список идей по развитию Firefox над которыми ведётся работа</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-spisok-idey-po-razvitiyu-firefox-nad-kotorymi-vedetsya-rabota-20240523-013556/</link>
+      <pubDate>Thu, 23 May 2024 01:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-spisok-idey-po-razvitiyu-firefox-nad-kotorymi-vedetsya-rabota-20240523-013556/</guid>
+      <description>Менеджер по взаимодействию с сообществом из компании Mozilla опубликовал список будущих улучшений в Firefox, к реализации которых уже приступили разработчики.
+https://www.opennet.ru/opennews/art.shtml?num=61231</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Firefox тестируют виджет с прогнозом погоды</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-vidzhet-s-prognozom-pogody-20240518-193551/</link>
+      <pubDate>Sat, 18 May 2024 19:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-vidzhet-s-prognozom-pogody-20240518-193551/</guid>
+      <description>В ночные сборки Firefox, на базе которых 9 июля будет сформирован выпуск Firefox 128, добавлен виджет для показа прогноза погоды на странице, появляющейся при открытия новой вкладки. Для включения виджета в about:config предусмотрены настройки browser.newtabpage.activity-stream.showWeather и browser.newtabpage.activity-stream.system.showWeather.
+https://www.opennet.ru/opennews/art.shtml?num=61207</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 126</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-126-20240514-193517/</link>
+      <pubDate>Tue, 14 May 2024 19:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-126-20240514-193517/</guid>
+      <description>Состоялся релиз web-браузера Firefox 126 и сформировано обновление ветки с длительным сроком поддержки - 115.11.0. На стадию бета-тестирования переведена ветка Firefox 127, релиз которой намечен на 11 июня.
+https://www.opennet.ru/opennews/art.shtml?num=61169</description>
+    </item>
+    
+    <item>
+      <title>В Firefox предложена дополнительная защита от отслеживания с использованием редиректов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhena-dopolnitelnaya-zaschita-ot-otslezhivaniya-s-ispolzovaniem-redirektov-20240512-153525/</link>
+      <pubDate>Sun, 12 May 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhena-dopolnitelnaya-zaschita-ot-otslezhivaniya-s-ispolzovaniem-redirektov-20240512-153525/</guid>
+      <description>В ночные сборки Firefox, на базе которых 11 июня будет сформирован выпуск Firefox 127, добавлен новый механизм защиты от отслеживания перемещений пользователей - &amp;ldquo;Bounce Tracking Protection&amp;rdquo;, расширяющий возможности по блокированию отслеживания посетителей с использованием редиректов на другие страницы.
+https://www.opennet.ru/opennews/art.shtml?num=61157</description>
+    </item>
+    
+    <item>
+      <title>Число дополнений для Android-версии Firefox превысило 1000</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chislo-dopolneniy-dlya-android-versii-firefox-prevysilo-1000-20240503-103548/</link>
+      <pubDate>Fri, 03 May 2024 10:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chislo-dopolneniy-dlya-android-versii-firefox-prevysilo-1000-20240503-103548/</guid>
+      <description>Компания Mozilla сообщила о преодолении рубежа в 1000 дополнений, доступных для Android-версии Firefox в каталоге AMO (addons.mozilla.org). В декабре 2023 года, после введения в строй инфраструктуры дополнений для Android-версии Firefox, в каталоге насчитывалось 489 дополнений. Менее чем за пять месяцев число дополнений, портированных для Android-версии Firefox, удвоилось.
+https://www.opennet.ru/opennews/art.shtml?num=61106</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 125.0.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-125-0-3-20240430-023535/</link>
+      <pubDate>Tue, 30 Apr 2024 02:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-125-0-3-20240430-023535/</guid>
+      <description>Доступен корректирующий выпуск Firefox 125.0.3, в котором исправлено несколько проблем.
+https://www.opennet.ru/opennews/art.shtml?num=61090</description>
+    </item>
+    
+    <item>
+      <title>Движок Servo прошёл тесты Acid2. Сrash Reporter в Firefox переписан на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dvizhok-servo-proshel-testy-acid2-srash-reporter-v-firefox-perepisan-na-rust-20240427-013518/</link>
+      <pubDate>Sat, 27 Apr 2024 01:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dvizhok-servo-proshel-testy-acid2-srash-reporter-v-firefox-perepisan-na-rust-20240427-013518/</guid>
+      <description>Разработчики браузерного движка Servo, написанного на языке Rust, объявили о достижении проектом уровня, позволяющего успешно пройти тесты Acid2, применяемые для проверки поддержки web-стандартов в web-браузерах. Тесты Acid2 созданы в 2005 году и оценивают базовые возможности CSS и HTML4, а также корректность поддержки изображений PNG с прозрачным фоном и URL-схемы &amp;ldquo;data:&amp;rdquo;. Из недавних изменений в Servo упоминается синхронизация CSS-движка Stylo с кодовой базой Firefox, улучшение отрисовки и обработки шрифтов, показ заставки для тега ‹video›, подготовка демонстрации Servo WebView для Qt.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 125.0.2. Проблема с появлением вкладки с адресом  0.0.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-125-0-2-problema-s-poyavleniem-vkladki-s-adresom-0-0-0-1-20240423-213533/</link>
+      <pubDate>Tue, 23 Apr 2024 21:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-125-0-2-problema-s-poyavleniem-vkladki-s-adresom-0-0-0-1-20240423-213533/</guid>
+      <description>Доступен корректирующий выпуск Firefox 125.0.2, в котором отключена представленная в ветке Firefox 125 функция блокировки загрузки файлов с URL, не заслуживающих доверия. В некоторых ситуациях указанная функциональность приводила к загрузке других файлов, вместо запрошенных (например, при включённой настройке &amp;ldquo;dom.block_download_insecure&amp;rdquo; попытка загрузки CSV-файла приводила к загрузке файла с HTML-текстом станицы). Режим блокировки опасных загрузок планируют доработать и повторно активировать в одном из следующих выпусков.
+https://www.opennet.ru/opennews/art.shtml?num=61053</description>
+    </item>
+    
+    <item>
+      <title>Mozilla начала формирование ночных сборок Firefox для Linux-систем на архитектуре ARM64 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-formirovanie-nochnyh-sborok-firefox-dlya-linux-sistem-na-arhitekture-arm64-20240420-143546/</link>
+      <pubDate>Sat, 20 Apr 2024 14:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-formirovanie-nochnyh-sborok-firefox-dlya-linux-sistem-na-arhitekture-arm64-20240420-143546/</guid>
+      <description>Разработчики из компании Mozilla объявили о публикации официальных бинарных deb-пакетов и установочных tar-архивов, позволяющих установить ночные сборки Firefox в Linux-дистрибутивах на системах с архитектурой ARM64 (AArch64). Пакеты можно получить как через традиционную страницу загрузки, так и из специализированного APT-репозитория, созданного для Debian, Ubuntu, Linux Mint и других Debian-подобных дистрибутивов. После завершения внедрения автоматизированного тестирования ARM64-сборок в системе непрерывной интеграции планируется начать публиковать подобные сборки для бета-версий и релизов.
+https://www.opennet.ru/opennews/art.shtml?num=61037</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 125</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-125-20240416-223531/</link>
+      <pubDate>Tue, 16 Apr 2024 22:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-125-20240416-223531/</guid>
+      <description>Состоялся релиз web-браузера Firefox 125 и сформировано обновление ветки с длительным сроком поддержки - 115.10.0. Из-за наличия выявленных на поздней стадии проблем сборка 125.0 была отменена, и в качестве релиза объявлен выпуск 125.0.1. На стадию бета-тестирования переведена ветка Firefox 126, релиз которой намечен на 14 мая.
+https://www.opennet.ru/opennews/art.shtml?num=61000</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 125 отложен на несколько дней</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-125-otlozhen-na-neskolko-dney-20240416-203516/</link>
+      <pubDate>Tue, 16 Apr 2024 20:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-125-otlozhen-na-neskolko-dney-20240416-203516/</guid>
+      <description>Разработчики Mozilla приняли решение отложить релиз Firefox 125 на несколько дней из-за выявления критической ошибки на поздней стадии подготовки релиза. В настоящее время по зеркалам начало распространяться обновление Firefox 125.0.1, которое в ближайшие дни будет объявлено релизом.
+https://www.opennet.ru/opennews/art.shtml?num=61001</description>
+    </item>
+    
+    <item>
+      <title>В Firefox добавлена поддержка машинного перевода выделенных фрагментов текста</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-podderzhka-mashinnogo-perevoda-vydelennyh-fragmentov-teksta-20240411-083600/</link>
+      <pubDate>Thu, 11 Apr 2024 08:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-podderzhka-mashinnogo-perevoda-vydelennyh-fragmentov-teksta-20240411-083600/</guid>
+      <description>В ночных сборках Firefox, на базе которых 14 мая будет сформирован выпуск Firefox 126, появилась возможность автоматизированного машинного перевода фрагментов текста, выделенных на странице (ранее поддерживался только перевод страницы целиком). Функция перевода вызывается через контекстное меню, показываемое при нажатии правой кнопки мыши на выделенном блоке текста. Для активации перевода фрагментов в about:config добавлена настройка browser.translations.select.enable, которая по умолчанию отключена.
+https://www.opennet.ru/opennews/art.shtml?num=60956</description>
+    </item>
+    
+    <item>
+      <title>На соревновании Pwn2Own 2024 продемонстрированы взломы Ubuntu, Firefox, Chrome, Docker и VirtualBox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</link>
+      <pubDate>Sat, 23 Mar 2024 02:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</guid>
+      <description>Подведены итоги двух дней соревнований Pwn2Own 2024, ежегодно проводимых в рамках конференции CanSecWest в Ванкувере. Рабочие техники эксплуатации ранее неизвестных уязвимостей были разработаны для Ubuntu Desktop, Windows 11, Docker, Oracle VirtualBox, VMWare Workstation, Adobe Reader, Firefox, Chrome, Edge и автомобиля Tesla. Всего были продемонстрированы 23 успешные атаки, эксплуатирующие 29 ранее неизвестных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60830</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 124</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-124-20240319-193551/</link>
+      <pubDate>Tue, 19 Mar 2024 19:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-124-20240319-193551/</guid>
+      <description>Состоялся релиз web-браузера Firefox 124 и сформировано обновление ветки с длительным сроком поддержки - 115.9.0. На стадию бета-тестирования переведена ветка Firefox 125, релиз которой намечен на 16 апреля.
+https://www.opennet.ru/opennews/art.shtml?num=60811</description>
+    </item>
+    
+    <item>
+      <title>Планы в отношении поддержки в Firefox второй и третьей версий манифеста Chrome </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/plany-v-otnoshenii-podderzhki-v-firefox-vtoroy-i-tretey-versiy-manifesta-chrome-20240314-143519/</link>
+      <pubDate>Thu, 14 Mar 2024 14:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/plany-v-otnoshenii-podderzhki-v-firefox-vtoroy-i-tretey-versiy-manifesta-chrome-20240314-143519/</guid>
+      <description>Разработчики из компании Mozilla обновили информацию о планах, связанных с поддержкой в Firefox второй и третьей версий манифеста Chrome. Компания Google в июне этого года намерена прекратить поддержку дополнений, использующих вторую версию манифеста, в тестовых выпусках Chrome 127 (Dev, Canary и Beta). В стабильной ветке поддержка второй версии манифеста будет прекращена не раньше июля.
+https://www.opennet.ru/opennews/art.shtml?num=60786</description>
+    </item>
+    
+    <item>
+      <title>В Firefox появится группировка вкладок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-poyavitsya-gruppirovka-vkladok-20240309-133548/</link>
+      <pubDate>Sat, 09 Mar 2024 13:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-poyavitsya-gruppirovka-vkladok-20240309-133548/</guid>
+      <description>Лаура Чемберс (Laura Chambers), недавно утверждённая на должность руководителя (CEO) компании Mozilla Corporation, сообщила о назначении разработчиков, которые займутся реализацией функции группировки вкладок в Firefox. Работе по добавлению поддержки группировки вкладок назначен повышенный приоритет.
+https://www.opennet.ru/opennews/art.shtml?num=60759</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 123.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-123-0-1-20240305-233536/</link>
+      <pubDate>Tue, 05 Mar 2024 23:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-123-0-1-20240305-233536/</guid>
+      <description>Доступен корректирующий выпуск Firefox 123.0.1, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60733</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 123</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-123-20240220-213602/</link>
+      <pubDate>Tue, 20 Feb 2024 21:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-123-20240220-213602/</guid>
+      <description>Состоялся релиз web-браузера Firefox 123 и сформировано обновление ветки с длительным сроком поддержки - 115.8.0. На стадию бета-тестирования переведена ветка Firefox 124, релиз которой намечен на 19 марта.
+https://www.opennet.ru/opennews/art.shtml?num=60631</description>
+    </item>
+    
+    <item>
+      <title>Mozilla уволит около 60 сотрудников и сосредоточит внимание на AI-технологиях в Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-uvolit-okolo-60-sotrudnikov-i-sosredotochit-vnimanie-na-ai-tehnologiyah-v-firefox-20240214-133513/</link>
+      <pubDate>Wed, 14 Feb 2024 13:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-uvolit-okolo-60-sotrudnikov-i-sosredotochit-vnimanie-na-ai-tehnologiyah-v-firefox-20240214-133513/</guid>
+      <description>Следом за назначением нового руководителя, компания Mozilla намерена уволить около 60 сотрудников и изменить стратегию развития продуктов. С учётом того, что по публичным отчётам в компании Mozilla работает от 500 до 1000 человек, увольнения коснутся 5-10% персонала. Это четвёртая массовая волна увольнений - в 2020 году было уволено 320 (250 + 70) работников, а в 2017 - 50.
+https://www.opennet.ru/opennews/art.shtml?num=60598</description>
+    </item>
+    
+    <item>
+      <title>Во вкладках Firefox появится функция предпросмотра эскиза сайта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vo-vkladkah-firefox-poyavitsya-funkciya-predprosmotra-eskiza-sayta-20240212-153537/</link>
+      <pubDate>Mon, 12 Feb 2024 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vo-vkladkah-firefox-poyavitsya-funkciya-predprosmotra-eskiza-sayta-20240212-153537/</guid>
+      <description>В ночных сборках Firefox, на базе которых 19 марта будет сформирован выпуск Firefox 124, добавлена возможность отображения эскизов страниц при наведения курсора на вкладки. Помимо эскиза в информационный блок о вкладке также добавлено упоминание показанной во вкладке ссылки. При этом показ ссылки во всплывающей над вкладкой подсказке появится уже в версии Firefox 123, намеченной на 20 февраля.
+https://www.opennet.ru/opennews/art.shtml?num=60589</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 122.0.1. Представлен сервис Mozilla Monitor Plus</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-122-0-1-predstavlen-servis-mozilla-monitor-plus-20240206-223527/</link>
+      <pubDate>Tue, 06 Feb 2024 22:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-122-0-1-predstavlen-servis-mozilla-monitor-plus-20240206-223527/</guid>
+      <description>Доступен корректирующий выпуск Firefox 122.0.1, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60561</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 122</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-122-20240123-233520/</link>
+      <pubDate>Tue, 23 Jan 2024 23:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-122-20240123-233520/</guid>
+      <description>Состоялся релиз web-браузера Firefox 122 и сформировано обновление ветки с длительным сроком поддержки - 115.7.0. На стадию бета-тестирования переведена ветка Firefox 123, релиз которой намечен на 20 февраля.
+https://www.opennet.ru/opennews/art.shtml?num=60483</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 121.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-121-0-1-20240110-003527/</link>
+      <pubDate>Wed, 10 Jan 2024 00:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-121-0-1-20240110-003527/</guid>
+      <description>Доступен корректирующий выпуск Firefox 121.0.1, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60408</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 121</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-121-20231219-203548/</link>
+      <pubDate>Tue, 19 Dec 2023 20:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-121-20231219-203548/</guid>
+      <description>Состоялся релиз web-браузера Firefox 121 и сформировано обновление ветки с длительным сроком поддержки - 115.6.0. На стадию бета-тестирования переведена ветка Firefox 122, релиз которой намечен на 23 января.
+https://www.opennet.ru/opennews/art.shtml?num=60310</description>
+    </item>
+    
+    <item>
+      <title>Mozilla ввела в строй каталог дополнений для Android-версии Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-katalog-dopolneniy-dlya-android-versii-firefox-20231215-133629/</link>
+      <pubDate>Fri, 15 Dec 2023 13:36:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-katalog-dopolneniy-dlya-android-versii-firefox-20231215-133629/</guid>
+      <description>Компания Mozilla объявила о готовности инфраструктуры и каталога дополнений для Android-версии Firefox. Firefox для Android стал первым мобильным браузером, для которого доступна полноценная открытая экосистема дополнений.
+https://www.opennet.ru/opennews/art.shtml?num=60293</description>
+    </item>
+    
+    <item>
+      <title>Корректирующие обновления Firefox 120.0.1 и Chrome 119.0.6045.199</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/korrektiruyuschie-obnovleniya-firefox-120-0-1-i-chrome-119-0-6045-199-20231130-203526/</link>
+      <pubDate>Thu, 30 Nov 2023 20:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/korrektiruyuschie-obnovleniya-firefox-120-0-1-i-chrome-119-0-6045-199-20231130-203526/</guid>
+      <description>Доступен корректирующий выпуск Firefox 120.0.1, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60207</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 120</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-120-20231122-013606/</link>
+      <pubDate>Wed, 22 Nov 2023 01:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-120-20231122-013606/</guid>
+      <description>Состоялся релиз web-браузера Firefox 120 и сформировано обновление ветки с длительным сроком поддержки - 115.5.0. На стадию бета-тестирования переведена ветка Firefox 121, релиз которой намечен на 19 декабря.
+https://www.opennet.ru/opennews/art.shtml?num=60160</description>
+    </item>
+    
+    <item>
+      <title>Mozilla переводит разработку Firefox с Mercurial на Git</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</link>
+      <pubDate>Mon, 06 Nov 2023 23:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</guid>
+      <description>Разработчики из компании Mozilla объявили о решении прекратить использование для разработки Firefox системы управления версиями Mercurial в пользу Git. До сих пор проект предоставлял возможность использования Mercurial или Git на выбор разработчиков, но в основном репозитории применялся Mercurial. В связи с тем, что обеспечение поддержки сразу двух систем создаёт большую нагрузку на команды, отвечающие за сопровождение инфраструктуры, в будущем решено ограничиться применением для разработки только Git. При этом Mozilla продолжит использование сервисов Bugzilla, moz-phab, Phabricator и Lando.</description>
+    </item>
+    
+    <item>
+      <title>В Firefox добавлена возможность вырезания параметров отслеживания из URL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-vozmozhnost-vyrezaniya-parametrov-otslezhivaniya-iz-url-20231105-123525/</link>
+      <pubDate>Sun, 05 Nov 2023 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-vozmozhnost-vyrezaniya-parametrov-otslezhivaniya-iz-url-20231105-123525/</guid>
+      <description>В ночных сборках Firefox, на базе которых 19 декабря будет сформирован выпуск Firefox 121, в контекстном меню появилась новая опция, позволяющая скопировать URL выбранной ссылки в буфер обмена, предварительно вырезав из него опции, которые используются для отслеживания переходов между сайтами. Например, при копировании ссылки будут удалены параметры mc_eid и fbclid, применяемые при переходе со страниц Facebook.
+https://www.opennet.ru/opennews/art.shtml?num=60049</description>
+    </item>
+    
+    <item>
+      <title>Mozilla ввела в строй APT-репозиторий с ночными сборками Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-apt-repozitoriy-s-nochnymi-sborkami-firefox-20231030-173600/</link>
+      <pubDate>Mon, 30 Oct 2023 17:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-apt-repozitoriy-s-nochnymi-sborkami-firefox-20231030-173600/</guid>
+      <description>Разработчики из компании Mozilla объявили о создании официального репозитория с deb-пакетами, позволяющими установить ночные сборки Firefox в Debian, Ubuntu, Linux Mint и других Debian-подобных дистрибутивах. Формируемые пакеты совместимы с традиционными сборками Firefox для Debian и Ubuntu, предлагаемыми для загрузки в архивах &amp;ldquo;.tar.bz2&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60019</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 119</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-119-20231025-013511/</link>
+      <pubDate>Wed, 25 Oct 2023 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-119-20231025-013511/</guid>
+      <description>Состоялся релиз web-браузера Firefox 119 и сформировано обновление ветки с длительным сроком поддержки - 115.4.0. На стадию бета-тестирования переведена ветка Firefox 120, релиз которой намечен на 21 ноября.
+https://www.opennet.ru/opennews/art.shtml?num=59989</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Chrome и Firefox рассматривают возможность прекращения поддержки видеокодека Theora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-chrome-i-firefox-rassmatrivayut-vozmozhnost-prekrascheniya-podderzhki-videok-20231024-123523/</link>
+      <pubDate>Tue, 24 Oct 2023 12:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-chrome-i-firefox-rassmatrivayut-vozmozhnost-prekrascheniya-podderzhki-videok-20231024-123523/</guid>
+      <description>Компания Google намерена удалить из кодовой базы Chrome поддержку свободного видеокодека Theora, созданного организацией Xiph.org Foundation на основе кодека VP3 и поддерживаемого в Firefox и Chrome c 2009 года. При этом кодек Theora никогда не поддерживался в Chrome для Android и в браузерах на базе WebKit, таких как Safari. Аналогичное предложение по удалению Theora рассматривается разработчиками Firefox.
+https://www.opennet.ru/opennews/art.shtml?num=59981</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Firefox появилась поддержка машинного перевода на русский и украинский языки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-poyavilas-podderzhka-mashinnogo-perevoda-na-russkiy-i-ukrainskiy-20231023-143524/</link>
+      <pubDate>Mon, 23 Oct 2023 14:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-poyavilas-podderzhka-mashinnogo-perevoda-na-russkiy-i-ukrainskiy-20231023-143524/</guid>
+      <description>В ночных сборках Firefox, на базе которых 21 ноября будет сформирован выпуск Firefox 120, расширен список языковых моделей во встроенной системе машинного перевода, включённой по умолчанию, начиная с выпуска Firefox 118. Помимо изначально доступных моделей для английского, болгарского, датского, немецкого, французского, испанского, польского, итальянского и португальского языков, для тестирования предложены модели для русского, украинского, эстонского, финского, исландского, каталонского, норвежского, персидского, чешского и венгерского языков.
+https://www.opennet.ru/opennews/art.shtml?num=59978</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 118.0.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-118-0-2-20231011-113505/</link>
+      <pubDate>Wed, 11 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-118-0-2-20231011-113505/</guid>
+      <description>Доступен корректирующий выпуск Firefox 118.0.2, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=59903</description>
+    </item>
+    
+    <item>
+      <title>В Firefox и Cloudflare включена поддержка ECH для скрытия домена в HTTPS-трафике </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</link>
+      <pubDate>Wed, 04 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</guid>
+      <description>Компания Mozilla объявила о включении для пользователей стабильной ветки Firefox поддержки механизма ECH (Encrypted Client Hello), продолжающего развитие технологии ESNI (Encrypted Server Name Indication) и предназначенного для шифрования информации о параметрах TLS-сеансов, таких как запрошенное доменное имя. Изначально код для работы с ECH был добавлен в выпуск Firefox 85, но был отключён по умолчанию. В Chrome поддержку ECH начали постепенно включать, начиная с выпуска Chrome 115.
+https://www.opennet.ru/opennews/art.shtml?num=59869</description>
+    </item>
+    
+    <item>
+      <title>В Firefox 119 будет изменено поведение при восстановлении сеанса</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-119-budet-izmeneno-povedenie-pri-vosstanovlenii-seansa-20231003-143506/</link>
+      <pubDate>Tue, 03 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-119-budet-izmeneno-povedenie-pri-vosstanovlenii-seansa-20231003-143506/</guid>
+      <description>В следующем выпуске Firefox решено изменить некоторые настройки, связанные с восстановлением прерванного сеанса после выхода из браузера. В отличие от прошлых выпусков между сеансами начнут сохраняться сведения не только об активных вкладках, но и о недавно закрытых вкладках, что позволит восстанавливать случайно закрытые вкладки после перезапуска и просматривать их список в режиме Firfox View. По умолчанию будут сохраняться данные о 25 последних вкладках, открытых за последние 7 дней. Также будут учитываться данные о вкладках в закрытых окнах и обрабатываться список закрытых вкладок в контестке сразу всех окон, а не только текущего окна.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 118</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-118-20230926-193504/</link>
+      <pubDate>Tue, 26 Sep 2023 19:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-118-20230926-193504/</guid>
+      <description>Состоялся релиз web-браузера Firefox 118 и сформировано обновление ветки с длительным сроком поддержки - 115.3.0. На стадию бета-тестирования переведена ветка Firefox 119, релиз которой намечен на 24 октября.
+https://www.opennet.ru/opennews/art.shtml?num=59821</description>
+    </item>
+    
+    <item>
+      <title>В адресной строке Firefox 119 изменится отображение сайтов, открытых по HTTP и HTTPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</link>
+      <pubDate>Wed, 20 Sep 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</guid>
+      <description>В выпуске Firefox 119, намеченном на 24 октября, будет изменена индикация защищённых и незащищённых соединений к сайту. При открытии сайтов с использованием HTTPS в адресной строке будет убрано отображение префикса &amp;ldquo;https://&amp;rdquo;, а для сайтов, открытых по HTTP без шифрования соединения, начнёт показываться префикс &amp;ldquo;http://&amp;rdquo; и помимо пиктограммы с перечёркнутым замком появится отдельное текстовое примечание &amp;ldquo;Not Secure&amp;rdquo;. Например, при открытии &amp;ldquo;https://www.opennet.ru&amp;rdquo; будет показываться &amp;ldquo;www.opennet.ru&amp;rdquo;, а при открытии &amp;ldquo;httр://www.opennet.ru&amp;rdquo; - &amp;ldquo;Not Secure httр://www.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 117.0.1 с устранением уязвимости в WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-117-0-1-s-ustraneniem-uyazvimosti-v-webp-20230913-033504/</link>
+      <pubDate>Wed, 13 Sep 2023 03:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-117-0-1-s-ustraneniem-uyazvimosti-v-webp-20230913-033504/</guid>
+      <description>Доступен корректирующий выпуск Firefox 117.0.1, в котором устранена уязвимость и исправлено несколько проблем. Отчёт с информацией об уязвимости пока не открывается, но внесённые в код исправления свидетельствуют о том, что устранена критическая уязвимость (CVE-2023-4863) в библиотеке libwebp, позволяющая выполнить код при обработке специально оформленных изображений в формате WebP.
+https://www.opennet.ru/opennews/art.shtml?num=59747</description>
+    </item>
+    
+    <item>
+      <title>В Firefox появится дополнительная защита от скрытой идентификации пользователей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-poyavitsya-dopolnitelnaya-zaschita-ot-skrytoy-identifikacii-polzovateley-20230903-113506/</link>
+      <pubDate>Sun, 03 Sep 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-poyavitsya-dopolnitelnaya-zaschita-ot-skrytoy-identifikacii-polzovateley-20230903-113506/</guid>
+      <description>Торин Оукенпантс (Thorin Oakenpants), автор проекта arkenfox, предлагающего набор надстроек и изменений конфигурации к Firefox для усиления защиты и конфиденциальности пользователей, рассказал о развитии в Firefox новых средств для противодействия скрытой идентификации пользователей (fingerprinting).
+https://www.opennet.ru/opennews/art.shtml?num=59706</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 117</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-117-20230829-213505/</link>
+      <pubDate>Tue, 29 Aug 2023 21:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-117-20230829-213505/</guid>
+      <description>Состоялся релиз web-браузера Firefox 117 и сформированы обновления веток с длительным сроком поддержки - 115.2.0 и 102.15.0. На стадию бета-тестирования переведена ветка Firefox 118, релиз которой намечен на 26 сентября.
+https://www.opennet.ru/opennews/art.shtml?num=59682</description>
+    </item>
+    
+    <item>
+      <title>В Firefox реализована возможность импорта дополнений из других браузеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-realizovana-vozmozhnost-importa-dopolneniy-iz-drugih-brauzerov-20230824-003506/</link>
+      <pubDate>Thu, 24 Aug 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-realizovana-vozmozhnost-importa-dopolneniy-iz-drugih-brauzerov-20230824-003506/</guid>
+      <description>Для Firefox развивается возможность импорта дополнений из других браузеров, работающая по аналогии с тем, как реализованы функции импорта закладок, настроек, сохранённых паролей и истории посещений. В качестве эксперимента функция импорта дополнений уже включена для небольшого процента пользователей Firefox 116. Остальные могут активировать данную функцию через параметр &amp;ldquo;browser.migrate.chrome.extensions.enabled&amp;rdquo; в about:config, после чего в диалоге импорта данных из других браузеров (&amp;ldquo;Import Data&amp;rdquo; на странице about:preferences#general) появится опция для переноса дополнений.
+https://www.opennet.ru/opennews/art.shtml?num=59650</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 116.0.3 с устранением зависаний при обращении к Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-116-0-3-s-ustraneniem-zavisaniy-pri-obraschenii-k-google-20230817-113508/</link>
+      <pubDate>Thu, 17 Aug 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-116-0-3-s-ustraneniem-zavisaniy-pri-obraschenii-k-google-20230817-113508/</guid>
+      <description>Доступен корректирующий выпуск Firefox 116.0.3, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=59618</description>
+    </item>
+    
+    <item>
+      <title>Mozilla анонсировала полноценную экосистему дополнений для Android-версии Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-anonsirovala-polnocennuyu-ekosistemu-dopolneniy-dlya-android-versii-firefox-20230812-013505/</link>
+      <pubDate>Sat, 12 Aug 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-anonsirovala-polnocennuyu-ekosistemu-dopolneniy-dlya-android-versii-firefox-20230812-013505/</guid>
+      <description>Разработчики из компании Mozilla анонсировали скорую реализацию поддержки в мобильной версии браузера всех имеющихся для Firefox дополнений, представленных в каталоге addons.mozilla.org (AMO). Данная возможность сделает Firefox для Android первым мобильным браузером, поддерживающим полноценную открытую экосистему дополнений. Задуманное планируется реализовать до конца года (точная дата реализации полной поддержки дополнений будет объявлена в начале сентября).
+https://www.opennet.ru/opennews/art.shtml?num=59588</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 116</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-116-20230801-203851/</link>
+      <pubDate>Tue, 01 Aug 2023 20:38:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-116-20230801-203851/</guid>
+      <description>Состоялся релиз web-браузера Firefox 116 и сформированы обновления ветки с длительным сроком поддержки - 115.1.0 и 102.14.0. На стадию бета-тестирования переведена ветка Firefox 117, релиз которой намечен на 29 августа.
+https://www.opennet.ru/opennews/art.shtml?num=59533</description>
+    </item>
+    
+    <item>
+      <title>В Firefox 116 будет удалён интерфейс about:performance</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-116-budet-udalen-interfeys-about-performance-20230712-173505/</link>
+      <pubDate>Wed, 12 Jul 2023 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-116-budet-udalen-interfeys-about-performance-20230712-173505/</guid>
+      <description>Разработчики из компании Mozilla приняли решение удалить служебную страницу &amp;ldquo;about:performance&amp;rdquo;, позволяющую отслеживать создаваемую при обработке различных страниц нагрузку на CPU и потребление памяти. Решение обусловлено появлением начиная с выпуска Firefox 78 похожего по назначению интерфейса &amp;ldquo;about:processes&amp;rdquo;, который дублирует функциональность &amp;ldquo;about:performance&amp;rdquo;, но рассматривается как более удобный и предоставляющий больше информации.
+https://www.opennet.ru/opennews/art.shtml?num=59429</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 115</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-115-20230704-203505/</link>
+      <pubDate>Tue, 04 Jul 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-115-20230704-203505/</guid>
+      <description>Состоялся релиз web-браузера Firefox 115. Выпуск Firefox 115 отнесён к категории веток с длительным сроком поддержки (ESR), обновления для которых выпускаются в течение года. Кроме того, сформировано обновление прошлой ветки с длительным сроком поддержки - 102.13.0 (в дальнейшем ожидается ещё два обновления 102.14 и 102.15). На стадию бета-тестирования в ближайшее время будет переведена ветка Firefox 116, релиз которой намечен на 1 августа.
+https://www.opennet.ru/opennews/art.shtml?num=59371</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 114</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-114-20230606-203505/</link>
+      <pubDate>Tue, 06 Jun 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-114-20230606-203505/</guid>
+      <description>Состоялся релиз web-браузера Firefox 114 и сформировано обновление ветки с длительным сроком поддержки - 102.12.0. На стадию бета-тестирования в ближайшее время будет переведена ветка Firefox 115, релиз которой намечен на 4 июля.
+https://www.opennet.ru/opennews/art.shtml?num=59254</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Firefox включена поддержка машинного перевода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-vklyuchena-podderzhka-mashinnogo-perevoda-20230531-123505/</link>
+      <pubDate>Wed, 31 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-vklyuchena-podderzhka-mashinnogo-perevoda-20230531-123505/</guid>
+      <description>В ночных сборках Firefox, на базе которых 4 июля будет сформирован выпуск Firefox 115, включена по умолчанию система автоматизированного машинного перевода с одного языка на другой. В работе не используются внешние облачные сервисы - перевод выполняется на локальной системе пользователя. Для управления включением системы перевода в about:config можно использовать настройку &amp;ldquo;browser.translations.enable&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59221</description>
+    </item>
+    
+    <item>
+      <title>Mozilla внедрила в Firefox показ навязчивой всплывающей рекламы VPN</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vnedrila-v-firefox-pokaz-navyazchivoy-vsplyvayuschey-reklamy-vpn-20230527-013506/</link>
+      <pubDate>Sat, 27 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vnedrila-v-firefox-pokaz-navyazchivoy-vsplyvayuschey-reklamy-vpn-20230527-013506/</guid>
+      <description>Компания Mozilla встроила в Firefox показ рекламы платного сервиса Mozilla VPN, реализованной в форме всплывающего окна, перекрывающего содержимое произвольных открытых вкладок и до закрытия рекламного блока блокирующего работу с текущей страницей. После волны недовольства пользователей показ рекламы в браузере был отключён.
+https://www.opennet.ru/opennews/art.shtml?num=59203</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 113</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-113-20230509-233505/</link>
+      <pubDate>Tue, 09 May 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-113-20230509-233505/</guid>
+      <description>Состоялся релиз web-браузера Firefox 113 и сформировано обновление ветки с длительным сроком поддержки - 102.11.0. На стадию бета-тестирования переведена ветка Firefox 114, релиз которой намечен на 6 июня.
+https://www.opennet.ru/opennews/art.shtml?num=59106</description>
+    </item>
+    
+    <item>
+      <title>Проект Pulse Browser развивает экспериментальный форк Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pulse-browser-razvivaet-eksperimentalnyy-fork-firefox-20230504-133505/</link>
+      <pubDate>Thu, 04 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pulse-browser-razvivaet-eksperimentalnyy-fork-firefox-20230504-133505/</guid>
+      <description>Доступен для тестирования новый web-браузер Pulse Browser, построенный на кодовой базе Firefox и экспериментирующий с идеями по повышению удобства работы и построению минималистичного интерфейса. Сборки формируются для платформ Linux, Windows и macOS. Код распространяется под лицензией MPL 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59076</description>
+    </item>
+    
+    <item>
+      <title>Mozilla купила компанию Fakespot и намерена интегрировать её наработки в Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-kupila-kompaniyu-fakespot-i-namerena-integrirovat-ee-narabotki-v-firefox-20230503-003507/</link>
+      <pubDate>Wed, 03 May 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-kupila-kompaniyu-fakespot-i-namerena-integrirovat-ee-narabotki-v-firefox-20230503-003507/</guid>
+      <description>Компания Mozilla объявила о покупке стартапа Fakespot, развивающего браузерное дополнение, использующее систему машинного обучения для выявления фейковых отзывов, накрученных рейтингов, продавцов-мошенников и обманных скидок на сайтах торговых площадок, таких как Amazon, eBay, Walmart, Shopify, Sephora и Best Buy. Дополнение доступно для браузеров Chrome и Firefox, а также для мобильных платформ iOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=59065</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 112.0.2 с устранением утечки памяти</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-112-0-2-s-ustraneniem-utechki-pamyati-20230425-233506/</link>
+      <pubDate>Tue, 25 Apr 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-112-0-2-s-ustraneniem-utechki-pamyati-20230425-233506/</guid>
+      <description>Доступен корректирующий выпуск Firefox 112.0.2, в котором устранены три проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=59031</description>
+    </item>
+    
+    <item>
+      <title>В ночных сборках Firefox тестируют автозакрытие запросов использования Cookie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-avtozakrytie-zaprosov-ispolzovaniya-cookie-20230419-163507/</link>
+      <pubDate>Wed, 19 Apr 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nochnyh-sborkah-firefox-testiruyut-avtozakrytie-zaprosov-ispolzovaniya-cookie-20230419-163507/</guid>
+      <description>В ночных сборках Firefox, на базе которых 6 июня будет сформирован выпуск Firefox 114, появилась настройка для автоматического закрытия всплывающих диалогов, показываемых на сайтах для получения подтверждения о возможности сохранения идентификаторов в Cookie в соответствии с требованиями по защите персональных данных в Европейском Союзе (GDPR). Так как подобные всплывающие баннеры отвлекают внимание, перекрывают содержимое и требуют траты времени пользователя на закрытие, разработчики Firefox решили встроить в браузер возможность автоматического отклонения запроса.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 112.0.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-112-0-1-20230418-013505/</link>
+      <pubDate>Tue, 18 Apr 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-112-0-1-20230418-013505/</guid>
+      <description>Доступен корректирующий выпуск Firefox 112.0.1, в котором устранена ошибка, приводившая к смещению времени Cookie на далёкое будущее после обновления Firefox, что, в свою очередь, могло вызвать ошибочную очистку Cookie.
+https://www.opennet.ru/opennews/art.shtml?num=58989</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 112</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-112-20230411-193506/</link>
+      <pubDate>Tue, 11 Apr 2023 19:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-112-20230411-193506/</guid>
+      <description>Состоялся релиз web-браузера Firefox 112. Кроме того, сформировано обновление ветки с длительным сроком поддержки - 102.10.0. На стадию бета-тестирования в ближайшее время будет переведена ветка Firefox 113, релиз которой намечен на 9 мая.
+https://www.opennet.ru/opennews/art.shtml?num=58949</description>
+    </item>
+    
+    <item>
+      <title>Firefox избавлен от применения XUL Layout в интерфейсе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/firefox-izbavlen-ot-primeneniya-xul-layout-v-interfeyse-20230402-103506/</link>
+      <pubDate>Sun, 02 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/firefox-izbavlen-ot-primeneniya-xul-layout-v-interfeyse-20230402-103506/</guid>
+      <description>После девяти лет работы из кодовой базы Firefox удалены последние компоненты формирования интерфейса, в которых использовалось пространство имён XUL. Таким образом, за единичными исключениями, для отрисовки пользовательского интерфейса Firefox теперь применяются обычные web-технологии (главным образом CSS flexbox), а не специфичные XUL-обработчики (-moz-box, -moz-inline-box, -moz-grid, -moz-stack, -moz-popup). В качестве исключения XUL продолжает использоваться для отображения системных меню и всплывающих панелей (‹xul:menupopup› и ‹xul:panel›), но в будущем для подобной функциональности планируют задействовать API Popover.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Firefox 111</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-111-20230314-193503/</link>
+      <pubDate>Tue, 14 Mar 2023 19:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-111-20230314-193503/</guid>
+      <description>Состоялся релиз web-браузера Firefox 111. Кроме того, сформировано обновление ветки с длительным сроком поддержки - 102.9.0. На стадию бета-тестирования в ближайшее время будет переведена ветка Firefox 112, релиз которой намечен на 11 апреля.
+https://www.opennet.ru/opennews/art.shtml?num=58793</description>
+    </item>
+    
+  </channel>
+</rss>

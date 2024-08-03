@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redis/</link>
+    <description>Recent content in Redis on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 15:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск СУБД Redis 7.4, переведённый на проприетарные лицензии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-4-perevedennyy-na-proprietarnye-licenzii-20240731-153550/</link>
+      <pubDate>Wed, 31 Jul 2024 15:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-4-perevedennyy-na-proprietarnye-licenzii-20240731-153550/</guid>
+      <description>Опубликован релиз СУБД Redis 7.4, относящейся к классу NoSQL-систем. Redis предоставляет функции для хранения данных в формате ключ/значение, расширенные поддержкой структурированных форматов данных, таких как списки, хэши и множества, а также возможностью выполнения на стороне сервера скриптов-обработчиков на языке Lua. В отличие от систем хранения в оперативной памяти, таких как Memcached, Redis хранит БД не только в памяти, но на диске, что гарантирует сохранность БД в случае аварийного завершения работы.</description>
+    </item>
+    
+    <item>
+      <title>Проект Redka развивает реализацию протокола и API Redis поверх SQLite </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-redka-razvivaet-realizaciyu-protokola-i-api-redis-poverh-sqlite-20240415-123549/</link>
+      <pubDate>Mon, 15 Apr 2024 12:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-redka-razvivaet-realizaciyu-protokola-i-api-redis-poverh-sqlite-20240415-123549/</guid>
+      <description>Опубликованы первые выпуски проекта Redka, нацеленного на предоставление RESP-протокола и API, совместимых с СУБД Redis, но реализованных поверх библиотеки SQLite. Задействование SQLite дополнительно позволяет обращаться к данным при помощи языка SQL, например, для формирования отчётов или анализа данных. Поддерживается использование ACID-транзакций. Redka может запускаться в форме сервера, принимающего запросы по сети, или использоваться в виде модуля для языка Go. Код проекта написан на языке Go и распространяется под лицензией BSD.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Redict 7.3.0, форка СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-redict-7-3-0-forka-subd-redis-20240404-013540/</link>
+      <pubDate>Thu, 04 Apr 2024 01:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-redict-7-3-0-forka-subd-redis-20240404-013540/</guid>
+      <description>Дрю ДеВолт (Drew DeVault), автор пользовательского окружения Sway, языка программирования Hare, почтового клиента Aerc и платформы совместной разработки SourceHut, представил выпуск проекта Redict 7.3.0, развивающего форк СУБД Redis. Redict ответвился от Redis 7.2.4, последней версии, распространяемой под лицензией BSD. Изменения, развиваемые проектом Redict, распространяются под лицензией LGPLv3.0, но заимствованный из Redis код остаётся под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60919</description>
+    </item>
+    
+    <item>
+      <title>Amazon, Google, Oracle, Ericsson и Snap основали Valkey, форк СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</link>
+      <pubDate>Thu, 28 Mar 2024 23:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</guid>
+      <description>Организация Linux Foundation объявила о создании проекта Valkey, который продолжит развитие открытой кодовой базы СУБД Redis, распространяемой под лицензией BSD. Проект будет развиваться под эгидой организации Linux Foundation на независимой площадке с привлечением сообщества разработчиков и компаний, заинтересованных в продолжении сохранения открытой кодовой базы Redis. К работе над проектом уже присоединились такие компании, как Amazon Web Services (AWS), Google Cloud, Oracle, Ericsson и Snap Inc.
+https://www.opennet.ru/opennews/art.shtml?num=60871</description>
+    </item>
+    
+    <item>
+      <title>Основан проект Redict, который будет развивать форк СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/osnovan-proekt-redict-kotoryy-budet-razvivat-fork-subd-redis-20240321-223549/</link>
+      <pubDate>Thu, 21 Mar 2024 22:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/osnovan-proekt-redict-kotoryy-budet-razvivat-fork-subd-redis-20240321-223549/</guid>
+      <description>В ответ на изменение лицензии на СУБД Redis создан форк, который будет распространяться под именем Redict и продолжит развитие кодовой базы, соответствующей выпуску Redis 7.2.4, последнему под лицензией BSD. Redict можно будет использовать как прозрачную замену Redis 7.2.4, но совместимости с будущими версиями Redis, которые будут формироваться под проприетарной лицензией не гарантируется.
+https://www.opennet.ru/opennews/art.shtml?num=60823</description>
+    </item>
+    
+    <item>
+      <title>СУБД Redis переходит на проприетарную лицензию. Обсуждение удаления Redis из Fedora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</link>
+      <pubDate>Thu, 21 Mar 2024 15:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-redis-perehodit-na-proprietarnuyu-licenziyu-obsuzhdenie-udaleniya-redis-iz-fedora-20240321-153600/</guid>
+      <description>Компания Redis Ltd объявила об изменении лицензии на СУБД Redis, относящейся к классу NoSQL-систем. Начиная с выпуска Redis 7.4 код проекта будет распространяться под двумя проприетарными лицензиями RSALv2 (Redis Source Available License v2) и SSPLv1 (Server Side Public License v1), вместо ранее применявшейся лицензии BSD. Ранее под проприетарной лицензией поставлялся только код дополнительных модулей, в которых предлагались расширенные возможности для корпоративных пользователей (RediSearch, RedisGraph, RedisJSON, RedisML, RedisBloom и т.п.). Отныне проприетарная лицензия будет применяться и к основной кодовой базе СУБД.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft открыл код хранилища Garnet, совместимого с Redis </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</link>
+      <pubDate>Tue, 19 Mar 2024 16:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</guid>
+      <description>Компания Microsoft открыла исходные тексты NoSQL-системы Garnet, рассчитанной на создание кэширующих хранилищ и совместимой с существующими клиентскими библиотеками для хранилища Redis. Garnet поддерживает создание масштабируемых кластеров для кэширования данных, в которых может использоваться репликация, миграция ключей и сегментирование данных между узлами кластера. Проект написан на языке C# с ядром хранения на C++, открыт под лицензией MIT и может работать на всех платформах, поддерживаемых в .NET (первичными платформами заявлены Linux и Windows).</description>
+    </item>
+    
+    <item>
+      <title>Обновление СУБД Redis 7.0.15 и 7.2.4 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-subd-redis-7-0-15-i-7-2-4-s-ustraneniem-uyazvimosti-20240110-193537/</link>
+      <pubDate>Wed, 10 Jan 2024 19:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-subd-redis-7-0-15-i-7-2-4-s-ustraneniem-uyazvimosti-20240110-193537/</guid>
+      <description>В корректирующих выпусках СУБД Redis 7.0.15 и 7.2.4 устранена опасная уязвимость (CVE-2023-41056), которая потенциально может привести к удалённому выполнению кода из-за записи данных в область за пределами выделенного буфера. Проблема проявляется начиная с выпуска Redis 7.0.9 и вызвана некорректным вычислением параметров буфера в функции sdsResize при выполнении запроса изменения размера.
+https://www.opennet.ru/opennews/art.shtml?num=60415</description>
+    </item>
+    
+    <item>
+      <title>Червь P2PInfect, атакующий серверы Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</link>
+      <pubDate>Fri, 21 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cherv-p2pinfect-atakuyuschiy-servery-redis-20230721-143506/</guid>
+      <description>Исследователи из группы Unit 42 обнаружили новый червь P2PInfect, создающий свою P2P-сеть для распространения вредоносного ПО без применения централизованных управляющих серверов. После компрометации хост подключается к созданной P2P-сети, загружает образ с реализацией P2PInfect для необходимой операционной системы (поддерживается Linux и Windows) и переходит в режим сканирования других уязвимых хостов для совершения на них атаки и включения их в цепочку распространения червя. При сканировании выявляются уязвимые серверы Redis и проверяется наличие доступа по SSH.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Redis, Ghostscript, Asterisk и Parse Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</link>
+      <pubDate>Wed, 12 Jul 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</guid>
+      <description>Несколько недавно выявленных опасных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59430</description>
+    </item>
+    
+  </channel>
+</rss>

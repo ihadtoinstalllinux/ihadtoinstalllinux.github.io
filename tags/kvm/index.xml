@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KVM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kvm/</link>
+    <description>Recent content in KVM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 19:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google начнёт выплачивать вознаграждения за выявление уязвимостей в гипервизоре KVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nachnet-vyplachivat-voznagrazhdeniya-za-vyyavlenie-uyazvimostey-v-gipervizore-kvm-20240703-193509/</link>
+      <pubDate>Wed, 03 Jul 2024 19:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nachnet-vyplachivat-voznagrazhdeniya-za-vyyavlenie-uyazvimostey-v-gipervizore-kvm-20240703-193509/</guid>
+      <description>Компания Google представила инициативу kvmCTF, в рамках которой исследователи безопасности могут получить денежное вознаграждение за выявление уязвимостей в гипервизоре KVM (Kernel-based Virtual Machine). Интерес Google к KVM обусловлен использованием данного гипервизора в сервисе Google Cloud, а также в платформах Android и ChromeOS (CrosVM основан на KVM). Для получения вознаграждения должен быть продемонстрирован взлом специально подготовленного окружения CTF (Capture the Flag) на базе свежего ядра Linux, выполняющего виртуальную машину, доступ к которой предоставляется по заявкам.</description>
+    </item>
+    
+    <item>
+      <title>VirtualBox адаптирован для работы поверх гипервизора KVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</link>
+      <pubDate>Thu, 08 Feb 2024 19:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</guid>
+      <description>Компания Cyberus Technology открыла код бэкенда VirtualBox KVM, позволяющего использовать в системе виртуализации VirtualBox встроенный в ядро Linux гипервизор KVM вместо поставляемого в VirtualBox модуля ядра vboxdrv. Бэкенд обеспечивает выполнение виртуальных машин гипервизором KVM с полным сохранением традиционной модели управления и интерфейса VirtualBox. Поддерживается запуск в KVM существующих конфигураций виртуальных машин, созданных для VirtualBox. Код написан на языках С и С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60572</description>
+    </item>
+    
+  </channel>
+</rss>

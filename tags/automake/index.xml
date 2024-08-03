@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automake on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/automake/</link>
+    <description>Recent content in Automake on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jul 2024 19:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/automake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GNU Automake 1.17, инструментария для генерации сборочных файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-automake-1-17-instrumentariya-dlya-generacii-sborochnyh-faylov-20240712-193602/</link>
+      <pubDate>Fri, 12 Jul 2024 19:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-automake-1-17-instrumentariya-dlya-generacii-sborochnyh-faylov-20240712-193602/</guid>
+      <description>Спустя шесть лет с момента прошлого выпуска опубликован релиз Automake 1.17, утилиты для автоматической генерации make-файлов, соответствующих стандартам кодирования проекта GNU. В новой версии параметр AM_PATH_PYTHON изменён для использования в качестве приоритетной ветки Python 3 вместо Python 2, в случае наличия обеих веток в системе. Добавлено определение версий Python новее 3.9. В скрипте py-compile прекращена поддержка выпусков Python 0.x и 1.x, в качестве минимальной заявлена версия Python 2.0, выпущенная в 2000 году.</description>
+    </item>
+    
+  </channel>
+</rss>

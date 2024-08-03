@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Netfilter on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/netfilter/</link>
+    <description>Recent content in Netfilter on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netfilter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в Netfilter и io_uring, позволяющие повысить свои привилегии в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</link>
+      <pubDate>Tue, 09 May 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</guid>
+      <description>В подсистемах ядра Linux Netfilter и io_uring выявлены уязвимости, позволяющие локальному пользователю повысить свои привилегии в системе.
+https://www.opennet.ru/opennews/art.shtml?num=59101</description>
+    </item>
+    
+  </channel>
+</rss>

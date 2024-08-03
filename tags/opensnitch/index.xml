@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSnitch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opensnitch/</link>
+    <description>Recent content in OpenSnitch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opensnitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны межсетевые экраны OpenSnitch 1.6.0 и firewalld 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-mezhsetevye-ekrany-opensnitch-1-6-0-i-firewalld-2-0-20230624-123505/</link>
+      <pubDate>Sat, 24 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-mezhsetevye-ekrany-opensnitch-1-6-0-i-firewalld-2-0-20230624-123505/</guid>
+      <description>Опубликован выпуск проекта OpenSnitch 1.6, развивающего открытый аналог проприетарного динамического межсетевого экрана Little Snitch. Приложение позволяет в интерактивном режиме контролировать сетевую активность пользовательских приложений и блокировать нежелательный сетевой трафик. Код проекта написан на языке Go (GUI на Python и PyQt5) и распространяется под лицензией GPLv3. Для установки подготовлены пакеты в форматах rpm и deb.
+https://www.opennet.ru/opennews/art.shtml?num=59336</description>
+    </item>
+    
+  </channel>
+</rss>

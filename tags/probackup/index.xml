@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>probackup on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/probackup/</link>
+    <description>Recent content in probackup on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2023 16:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/probackup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление утилит резервного копирования pg_probackup 2.5.12 и 2.6.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-utilit-rezervnogo-kopirovaniya-pg-probackup-2-5-12-i-2-6-2-20230511-163505/</link>
+      <pubDate>Thu, 11 May 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-utilit-rezervnogo-kopirovaniya-pg-probackup-2-5-12-i-2-6-2-20230511-163505/</guid>
+      <description>Компания Postgres Professional выпустила обновление утилиты pg_probackup для резервного копирования и восстановления СУБД PostgreSQL и Postgres Pro (Standard и Enterprise), а также для управления архивом резервных копий. Утилита поддерживает различные стратегии резервного копирования (инкрементальные и полные бэкапы), слияние разных резерных копий, дедупликацию и сжатие резервных копий, автоматическую проверку корректности сохранённых данных и состояния активной БД, чистку устаревших архивов, выполнение работ в несколько потоков, частичное восстановление, использование запасных (standby) серверов для снижения нагрузки во время создания резерных копий и т.</description>
+    </item>
+    
+  </channel>
+</rss>

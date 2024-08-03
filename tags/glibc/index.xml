@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Glibc on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/glibc/</link>
+    <description>Recent content in Glibc on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 20:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/glibc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.40</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-40-20240722-203540/</link>
+      <pubDate>Mon, 22 Jul 2024 20:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-40-20240722-203540/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.40, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 68 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=61594</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в OpenSSH, позволяющая удалённо выполнить код с правами root на серверах с Glibc</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</link>
+      <pubDate>Mon, 01 Jul 2024 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</guid>
+      <description>Компания Qualys выявила критическую уязвимость (CVE-2024-6387) в OpenSSH, позволяющую добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость, которая получила кодовое имя regreSSHion, проявляется начиная с версии OpenSSH 8.5 на системах со стандартной библиотекой Glibc.
+https://www.opennet.ru/opennews/art.shtml?num=61470</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Glibc, эксплуатируемая через скрипты на PHP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ekspluatiruemaya-cherez-skripty-na-php-20240420-233546/</link>
+      <pubDate>Sat, 20 Apr 2024 23:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ekspluatiruemaya-cherez-skripty-na-php-20240420-233546/</guid>
+      <description>В стандартной Си-библиотеке Glibc выявлена уязвимость (CVE-2024-2961), приводящая к переполнению буфера при преобразовании специально оформленных строк в кодировке ISO-2022-CN-EXT функцией iconv(). Выявивший проблему исследователь планирует 10 мая выступить на конференции OffensiveCon с докладом, в анонсе которого упоминается возможность эксплуатации уязвимости через приложения на языке PHP. Заявлено, что проблема затрагивает всю экосистему PHP и некоторые приложения.
+https://www.opennet.ru/opennews/art.shtml?num=61033</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.39 и набора утилит GNU Binutils 2.42</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</link>
+      <pubDate>Thu, 01 Feb 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.39, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=60534</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в glibc, позволяющая получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20240131-163533/</link>
+      <pubDate>Wed, 31 Jan 2024 16:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20240131-163533/</guid>
+      <description>Компания Qualys выявила опасную уязвимость (CVE-2023-6246) в стандартной Си-библиотеке Glibc, позволяющую через манипуляции с запуском SUID-приложений добиться выполнения своего кода с повышенными привилегиями. Исследователи смогли разработать рабочий эксплоит, позволяющий получить права root через манипуляцию с аргументами командной строки при запуске утилиты su.
+https://www.opennet.ru/opennews/art.shtml?num=60528</description>
+    </item>
+    
+    <item>
+      <title>В сообществе разработчиков Glibc внедрён кодекс поведения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-soobschestve-razrabotchikov-glibc-vnedren-kodeks-povedeniya-20231214-103544/</link>
+      <pubDate>Thu, 14 Dec 2023 10:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-soobschestve-razrabotchikov-glibc-vnedren-kodeks-povedeniya-20231214-103544/</guid>
+      <description>Сообщество разработчиков Glibc объявило о принятии кодекса поведения (Code of Conduct), определяющего правила общения участников в списках рассылки.
+https://www.opennet.ru/opennews/art.shtml?num=60286</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Glibc ld.so, позволяющая получить права root в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</link>
+      <pubDate>Wed, 04 Oct 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</guid>
+      <description>Компания Qualys выявила опасную уязвимость (CVE-2023-4911) в компоновщике ld.so, поставляемом в составе системной Си-библиотеки Glibc (GNU libc). Уязвимость позволяет локальному пользователю поднять свои привилегии в системе через указание специально оформленных данных в переменной окружения GLIBC_TUNABLES перед запуском исполняемого файла с флагом suid root, например, /usr/bin/su.
+https://www.opennet.ru/opennews/art.shtml?num=59867</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, Glibc, GStreamer, Ghostscript, BIND и CUPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</link>
+      <pubDate>Sun, 01 Oct 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59852</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.38 и набора утилит GNU Binutils 2.41</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</link>
+      <pubDate>Tue, 01 Aug 2023 11:37:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.38, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=59529</description>
+    </item>
+    
+  </channel>
+</rss>

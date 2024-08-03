@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RSA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rsa/</link>
+    <description>Recent content in RSA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 19:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Воссоздание RSA-ключей через анализ SSH-соединений к сбойным серверам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vossozdanie-rsa-klyuchey-cherez-analiz-ssh-soedineniy-k-sboynym-serveram-20231114-193600/</link>
+      <pubDate>Tue, 14 Nov 2023 19:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vossozdanie-rsa-klyuchey-cherez-analiz-ssh-soedineniy-k-sboynym-serveram-20231114-193600/</guid>
+      <description>Группа исследователей из Калифорнийского университета в Сан-Диего продемонстрировала возможность воссоздания закрытых хостовых RSA-ключей SSH-сервера, используя пассивный анализ трафика SSH. Атака может быть совершена на серверы, на которых в силу стечения обстоятельств или действий атакующего возникают сбои во время вычисления цифровой подписи при установке SSH-соединения. Сбои могут быть как программными (некорректное выполнение математических операций, повреждение памяти), так и аппаратными (ошибки при работе NVRAM и DRAM или сбои при перебоях с питанием).</description>
+    </item>
+    
+    <item>
+      <title>Атака Marvin для расшифровки RSA на основе измерения времени операций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-marvin-dlya-rasshifrovki-rsa-na-osnove-izmereniya-vremeni-operaciy-20230930-163505/</link>
+      <pubDate>Sat, 30 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-marvin-dlya-rasshifrovki-rsa-na-osnove-izmereniya-vremeni-operaciy-20230930-163505/</guid>
+      <description>Хьюберт Карио (Hubert Kario), чешский исследователь безопасности, работающий в компании Red Hat, представил на завершившемся вчера Европейском симпозиуме по компьютерной безопасности технику атаки Marvin, позволяющую определить исходные данные через измерение задержек при выполнении операций расшифровки на базе алгоритма RSA. На практике предложенный метод позволяет расшифровать трафик или сформировать цифровые подписи без знания закрытого RSA-ключа. Для тестирования применимости атаки опубликован специальный скрипт для проверки TLS-серверов и инструментарий для выявления проблем в библиотеках.</description>
+    </item>
+    
+    <item>
+      <title>GitHub поменял закрытый RSA-ключ для SSH после его попадания в публичный репозиторий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</link>
+      <pubDate>Sat, 25 Mar 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</guid>
+      <description>GitHub сообщил об инциденте, в результате которого закрытый RSA-ключ, используемый в качестве хостового ключа при доступе к репозиториям GitHub по SSH, по ошибке оказался опубликован в публично доступном репозитории. Утечка коснулась только ключа RSA, хостовые SSH-ключи ECDSA и Ed25519 продолжают оставаться безопасными. Попавший в открытый доступ хостовый SSH-ключ не позволяет получить доступ к инфраструктуре GitHub или данным пользователей, но может использоваться для перехвата Git-операций, производимых через SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58858</description>
+    </item>
+    
+  </channel>
+</rss>

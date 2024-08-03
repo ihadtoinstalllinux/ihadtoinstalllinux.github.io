@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LoongArch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/loongarch/</link>
+    <description>Recent content in LoongArch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Aug 2023 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/loongarch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Debian добавлена поддержка архитектуры LoongArch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-dobavlena-podderzhka-arhitektury-loongarch-20230816-233505/</link>
+      <pubDate>Wed, 16 Aug 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-dobavlena-podderzhka-arhitektury-loongarch-20230816-233505/</guid>
+      <description>Разработчики проекта Debian объявили о реализации порта &amp;ldquo;loong64&amp;rdquo; для систем на базе архитектуры набора команд LoongArch, применяемой в процессорах Loongson 3 5000 и реализующей RISC ISA, похожий на MIPS и RISC-V. Поддержка нового порта добавлена в сборочную инфраструктуру и официальный архив Debian. На текущем этапе интеграции на базе имеющейся в debian-ports пакетной базы для LoongArch собран набор из примерно 200 пакетов, который будет постепенно расширяться.
+https://www.opennet.ru/opennews/art.shtml?num=59617</description>
+    </item>
+    
+  </channel>
+</rss>

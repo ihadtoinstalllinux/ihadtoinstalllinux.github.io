@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RTX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rtx/</link>
+    <description>Recent content in RTX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 01:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rtx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания NVIDIA опубликовала код RTX Remix Runtime</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-nvidia-opublikovala-kod-rtx-remix-runtime-20230413-013507/</link>
+      <pubDate>Thu, 13 Apr 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-nvidia-opublikovala-kod-rtx-remix-runtime-20230413-013507/</guid>
+      <description>Компания NVIDIA открыла исходные тексты runtime-компонентов платформы моддинга RTX Remix, позволяющей добавлять в существующие классические компьютерные игры на базе API DirectX 8 и 9 поддержку рендеринга с симуляцией поведения света на основе трассировки пути, повышать качество текстур при помощи методов машинного обучения, подключать подготовленные пользователем игровые ресурсы (ассеты) и применять технологию DLSS для реалистичного масштабирования изображений для увеличения разрешения без потери качества. Код написан на языке С++ и открыт под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

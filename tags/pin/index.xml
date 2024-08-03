@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PIN on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pin/</link>
+    <description>Recent content in PIN on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 11:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Android-платформе GrapheneOS появилась возможность создания деструктивного PIN-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-android-platforme-grapheneos-poyavilas-vozmozhnost-sozdaniya-destruktivnogo-pin-koda-20240604-113515/</link>
+      <pubDate>Tue, 04 Jun 2024 11:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-android-platforme-grapheneos-poyavilas-vozmozhnost-sozdaniya-destruktivnogo-pin-koda-20240604-113515/</guid>
+      <description>В очередном обновлении защищённой мобильной платформы GrapheneOS 2024053100 появилась функция экстренной блокировки данных на устройстве. Пользователю предоставлена возможность задания дополнительного пароля и PIN-кода, ввод которых приведёт к очистке всех ключей в аппаратных хранилищах, включая ключи, используемые для шифрования данных на накопителе, а также к очистке eSIM и перезагрузке. Таким образом, в случае оказания давления на пользователя и его принуждения к разблокировке экрана или при появлении угрозы попадания смартфона не в те руки, владелец устройства может ввести деструктивный PIN-код и блокировать данные без возможности восстановления доступа.</description>
+    </item>
+    
+  </channel>
+</rss>

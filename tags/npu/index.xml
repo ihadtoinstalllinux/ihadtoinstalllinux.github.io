@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/npu/</link>
+    <description>Recent content in NPU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2024 20:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/npu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания AMD открыла код драйвера для NPU на базе архитектуры XDNA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-kod-drayvera-dlya-npu-na-baze-arhitektury-xdna-20240128-203534/</link>
+      <pubDate>Sun, 28 Jan 2024 20:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-kod-drayvera-dlya-npu-na-baze-arhitektury-xdna-20240128-203534/</guid>
+      <description>Компания AMD опубликовала исходные тексты драйвера для карт с движком на базе архитектуры XDNA, предоставляющим средства для ускорения вычислений, связанных с машинным обучением и обработкой сигналов (NPU, Neural Processing Unit). NPU на базе архитектуры XDNA поставляется в сериях 7040 и 8040 процессоров AMD Ryzen, ускорителях AMD Alveo V70 и SoC AMD Versal. Код написан на языках С и С++, и открыт под лицензией GPLv2. Для работы драйвера требуется ядро Linux 6.</description>
+    </item>
+    
+  </channel>
+</rss>

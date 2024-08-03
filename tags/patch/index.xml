@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>patch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/patch/</link>
+    <description>Recent content in patch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 16:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/patch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Python предложен JIT-компилятор, использующий технику copy-and-patch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</link>
+      <pubDate>Tue, 26 Dec 2023 16:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</guid>
+      <description>Брандт Букер (Brandt Bucher) из компании Microsoft, входящий в число core-разработчиков CPython и работающий команде, занимающейся увеличением производительности интерпретатора CPython, опубликовал реализацию JIT-компилятора для Python, использующую технику Copy-and-Patch. Публикация JIT приурочена к Рождеству и анонс написан в стихах.
+https://www.opennet.ru/opennews/art.shtml?num=60352</description>
+    </item>
+    
+  </channel>
+</rss>

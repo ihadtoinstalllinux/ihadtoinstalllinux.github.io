@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cox/</link>
+    <description>Recent content in Cox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 23:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Возможность управления модемами миллионов абонентов ISP Cox без аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vozmozhnost-upravleniya-modemami-millionov-abonentov-isp-cox-bez-autentifikacii-20240604-233517/</link>
+      <pubDate>Tue, 04 Jun 2024 23:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vozmozhnost-upravleniya-modemami-millionov-abonentov-isp-cox-bez-autentifikacii-20240604-233517/</guid>
+      <description>Клиент Cox Communications, третьего по величине провайдера кабельного телевидения в США и одного из крупнейших операторов широкополосного доступа, насчитывающего 6.5 млн абонентов, опубликовал результаты экспериментов с используемым провайдером внутренним Web API, доступным для внешних запросов и применяемым, среди прочего, для доступа службы поддержки к абонентским модемам и базе пользователей. Оказалось, что зная лишь MAC-адрес абонентского устройства можно получить полный контроль над модемом, позволяющий изменять настройки и выполнять любые команды на модеме.</description>
+    </item>
+    
+  </channel>
+</rss>

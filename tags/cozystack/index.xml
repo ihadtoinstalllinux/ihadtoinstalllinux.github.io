@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cozystack on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cozystack/</link>
+    <description>Recent content in Cozystack on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 23:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cozystack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Cozystack 0.8.0, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</link>
+      <pubDate>Thu, 04 Jul 2024 23:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.8.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61489</description>
+    </item>
+    
+    <item>
+      <title>Проект Cozystack выпустил Talm, менеджер конфигураций для Talos Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-cozystack-vypustil-talm-menedzher-konfiguraciy-dlya-talos-linux-20240521-173518/</link>
+      <pubDate>Tue, 21 May 2024 17:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-cozystack-vypustil-talm-menedzher-konfiguraciy-dlya-talos-linux-20240521-173518/</guid>
+      <description>Разработчики свободной PaaS-платформы Cozystack подготовили проект Talm, призванный упростить конфигурацию bare-metal серверов для Talos Linux, операционной системы для запуска Kubernetes, которая имеет Kubernetes-подобное API и настраивается одним Yaml-манифестом. Несмотря на то что Talm был создан для описания декларативной установки Cozystack, он не привязан конкретно к этой платформе и может использоваться для управления любыми конфигурациями Talos Linux. Проект развивается под лицензией MPL.
+https://www.opennet.ru/opennews/art.shtml?num=61223</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</link>
+      <pubDate>Wed, 21 Feb 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</guid>
+      <description>Опубликован первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes. Проект позиционирует себя как готовую платформу для хостинг провайдеров и фреймворк для построения частных и публичных облаков. Платформа устанавливается напрямую на сервера и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять по требованию Kubernetes-кластера, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60637</description>
+    </item>
+    
+  </channel>
+</rss>

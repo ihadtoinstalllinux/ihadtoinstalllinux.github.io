@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitter on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/twitter/</link>
+    <description>Recent content in Twitter on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 01:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прекращение существования Nitter, свободного альтернативного фронтенда к Twitter</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prekraschenie-suschestvovaniya-nitter-svobodnogo-alternativnogo-frontenda-k-twitter-20240228-013600/</link>
+      <pubDate>Wed, 28 Feb 2024 01:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prekraschenie-suschestvovaniya-nitter-svobodnogo-alternativnogo-frontenda-k-twitter-20240228-013600/</guid>
+      <description>Последний из публичных экземпляров Nitter пришёл в негодность. Проект Nitter развивал свободный фронтенд для доступа к X.com/Twitter без навязывания JavaScript, аналитики, трекеров и сторонних сервисов. 31 января была прекращена выдача токенов, используемых в Nitter для организации доступа к контенту в X.com. 26 февраля истекло время жизни последних из ранее выданных токенов, что привело к полной остановке работы Nitter.
+https://www.opennet.ru/opennews/art.shtml?num=60673</description>
+    </item>
+    
+    <item>
+      <title>Twitter открыл код компонентов, формирующих ленту рекомендованных сообщений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/twitter-otkryl-kod-komponentov-formiruyuschih-lentu-rekomendovannyh-soobscheniy-20230401-123506/</link>
+      <pubDate>Sat, 01 Apr 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/twitter-otkryl-kod-komponentov-formiruyuschih-lentu-rekomendovannyh-soobscheniy-20230401-123506/</guid>
+      <description>Twitter открыл исходные тексты набора &amp;ldquo;Recommendation Algorithm&amp;rdquo;, включающего сервисы и обработчики, применяемые при построении ленты рекомендованных сообщений, показываемой пользователю на основной странице (Home Timeline). Кроме обеспечения прозрачности и предоставления возможности независимого аудита применяемых алгоритмов, Twitter выразил готовность принимать от сообщества pull-запросы с улучшающими работу алгоритмов изменениями, которые после рецензирования могут быть перенесены в рабочую кодовую базу Twitter.
+https://www.opennet.ru/opennews/art.shtml?num=58904</description>
+    </item>
+    
+  </channel>
+</rss>

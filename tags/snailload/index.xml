@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SnailLoad on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/snailload/</link>
+    <description>Recent content in SnailLoad on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2024 12:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/snailload/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SnailLoad - атака по определению открываемых сайтов через анализ задержек доставки пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/snailload-ataka-po-opredeleniyu-otkryvaemyh-saytov-cherez-analiz-zaderzhek-dostavki-paketo-20240705-123530/</link>
+      <pubDate>Fri, 05 Jul 2024 12:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/snailload-ataka-po-opredeleniyu-otkryvaemyh-saytov-cherez-analiz-zaderzhek-dostavki-paketo-20240705-123530/</guid>
+      <description>Группа исследователей из Грацского технического университета (Австрия), ранее известная разработкой атак MDS, NetSpectre, Throwhammer и ZombieLoad, разработала новый метод атаки по сторонним каналам, получивший кодовое имя SnailLoad и позволяющий определять обращение пользователя к тем или иным сайтам или выявлять просмотр определённых видеороликов на YouTube. Код серверной части, используемой для проведения атаки опубликован на GitHub под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61495</description>
+    </item>
+    
+  </channel>
+</rss>

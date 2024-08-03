@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ghostscript on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghostscript/</link>
+    <description>Recent content in Ghostscript on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghostscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в ядре Linux, Glibc, GStreamer, Ghostscript, BIND и CUPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</link>
+      <pubDate>Sun, 01 Oct 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59852</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Redis, Ghostscript, Asterisk и Parse Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</link>
+      <pubDate>Wed, 12 Jul 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</guid>
+      <description>Несколько недавно выявленных опасных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59430</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Ghostscript, приводящая к выполнению кода злоумышленника</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ghostscript-privodyaschaya-k-vypolneniyu-koda-zloumyshlennika-20230413-133506/</link>
+      <pubDate>Thu, 13 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ghostscript-privodyaschaya-k-vypolneniyu-koda-zloumyshlennika-20230413-133506/</guid>
+      <description>В Ghostscript, наборе инструментов для обработки, преобразования и генерации документов в форматах PostScript и PDF, выявлена уязвимость (CVE-2023-28879), которую можно использовать для организации выполнения произвольного кода при открытии специально оформленных документов в формате PostScript. Уязвимость устранена в обновлениях Ghostscript 10.01.1 и GhostPDL 10.01.1. Проследить за появлением исправлений в дистрибутивах можно на следующих страницах: Debian, Ubuntu, Gentoo, RHEL, SUSE, Fedora, Arch, NetBSD, FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=58965</description>
+    </item>
+    
+  </channel>
+</rss>

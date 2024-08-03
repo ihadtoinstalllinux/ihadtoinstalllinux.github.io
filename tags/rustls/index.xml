@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rustls on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rustls/</link>
+    <description>Recent content in Rustls on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 12:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rustls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Rustls обеспечена совместимость с OpenSSL и nginx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</link>
+      <pubDate>Thu, 09 May 2024 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, объявила о публикации прослойки rustls-openssl-compat, позволяющей использовать библиотеку Rustls в качестве прозрачной замены OpenSSL. В настоящее время проектом предоставлена реализация rustls-libssl, обеспечивающая совместимость с libssl, а в разработке находится реализация libcrypto.
+https://www.opennet.ru/opennews/art.shtml?num=61141</description>
+    </item>
+    
+  </channel>
+</rss>

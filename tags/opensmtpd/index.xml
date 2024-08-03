@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSMTPD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opensmtpd/</link>
+    <description>Recent content in OpenSMTPD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2023 22:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opensmtpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OpenSMTPD 7.3.0p0, SMTP-сервера от проекта OpenBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</link>
+      <pubDate>Sat, 17 Jun 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</guid>
+      <description>Спустя два с половиной года с момента прошлого обновления сформирован выпуск переносимой редакции SMTP-сервера OpenSMTPD 7.3.0p0, развиваемого под эгидой проекта OpenBSD и нацеленного на создание простой замены Sendmail. Сервер поддерживает большую часть требований спецификации RFC 5321 и реализует ряд используемых повсеместно расширений протокола, таких как поддержка аутентификации пользователей (SMTP AUTH), TLS-шифрование трафика, уведомления о доставке DSN (Delivery Status Notification), расширенные коды статуса (Enhanced Status Codes), блокирование спама по &amp;ldquo;серым спискам&amp;rdquo; через интеграцию со spamd.</description>
+    </item>
+    
+  </channel>
+</rss>

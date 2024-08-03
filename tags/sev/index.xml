@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEV on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sev/</link>
+    <description>Recent content in SEV on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 15:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в CPU AMD, позволяющая обойти механизм защиты SEV (Secure Encrypted Virtualization)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</link>
+      <pubDate>Wed, 15 Nov 2023 15:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали новый метод атаки CacheWarp, позволяющий скомпрометировать механизм защиты AMD SEV (Secure Encrypted Virtualization), применяемый в системах виртуализации для защиты виртуальных машин от вмешательства со стороны гипервизора или администратора хост системы. Предложенный метод позволяет злоумышленнику, имеющему доступ к гипервизору, добиться выполнения стороннего кода и повышения привилегий в виртуальной машине, защищённой при помощи AMD SEV.
+https://www.opennet.ru/opennews/art.shtml?num=60118</description>
+    </item>
+    
+    <item>
+      <title>AMD опубликовал код прошивки для механизма защиты SEV (Secure Encrypted Virtualization)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-proshivki-dlya-mehanizma-zaschity-sev-secure-encrypted-virtualization-20230831-123506/</link>
+      <pubDate>Thu, 31 Aug 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-proshivki-dlya-mehanizma-zaschity-sev-secure-encrypted-virtualization-20230831-123506/</guid>
+      <description>Компания AMD объявила о публикации исходных текстов прошивки AMD-ASPFW, обеспечивающей работу механизма защиты AMD SEV (Secure Encrypted Virtualization), позволяющего защитить виртуальные машины от компрометации со стороны гипервизора или администратора хост системы. Код опубликован под отдельным лицензионным соглашением и соответствует прошивке SEV FW 1.55.25, применяемой в 4 поколении процессоров AMD EPYC (Genoa).
+https://www.opennet.ru/opennews/art.shtml?num=59692</description>
+    </item>
+    
+  </channel>
+</rss>

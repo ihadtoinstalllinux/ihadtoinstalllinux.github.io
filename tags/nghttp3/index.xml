@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nghttp3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nghttp3/</link>
+    <description>Recent content in nghttp3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 12:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nghttp3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована библиотека nghttp3 1.0 с реализацией протокола HTTP/3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-biblioteka-nghttp3-1-0-s-realizaciey-protokola-http-3-20231022-123548/</link>
+      <pubDate>Sun, 22 Oct 2023 12:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-biblioteka-nghttp3-1-0-s-realizaciey-protokola-http-3-20231022-123548/</guid>
+      <description>Доступен первый стабильный релиз проекта nghttp3, развивающего библиотеку на языке Си с реализацией протокола HTTP/3. Развиваемый тем же проектом вариант библиотеки для протокола HTTP/2 используется в качестве основы модуля mod_http2, входящего в состав http-сервера Apache. Наработки проекта также задействованы в утилите Curl. Код библиотеки распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59973</description>
+    </item>
+    
+  </channel>
+</rss>

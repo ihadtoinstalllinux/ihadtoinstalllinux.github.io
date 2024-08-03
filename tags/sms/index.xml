@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SMS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sms/</link>
+    <description>Recent content in SMS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2023 15:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в oFono, эксплуатируемая через SMS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ofono-ekspluatiruemaya-cherez-sms-20231221-153520/</link>
+      <pubDate>Thu, 21 Dec 2023 15:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ofono-ekspluatiruemaya-cherez-sms-20231221-153520/</guid>
+      <description>В развиваемом компанией Intel открытом телефонном стеке oFono, используемом для организации осуществления звонков, передачи данных через сотового оператора и отправки SMS в таких платформах, как Tizen, Ubuntu Touch, Mobian, Maemo, postmarketOS и Sailfish/Aurora, выявлены две уязвимости, позволяющие организовать выполнение кода при обработке специально оформленных SMS-сообщений. Уязвимости устранены в выпуске oFono 2.1.
+https://www.opennet.ru/opennews/art.shtml?num=60326</description>
+    </item>
+    
+    <item>
+      <title>Техника определения местоположения через анализ задержек в доставке SMS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tehnika-opredeleniya-mestopolozheniya-cherez-analiz-zaderzhek-v-dostavke-sms-20230616-123505/</link>
+      <pubDate>Fri, 16 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tehnika-opredeleniya-mestopolozheniya-cherez-analiz-zaderzhek-v-dostavke-sms-20230616-123505/</guid>
+      <description>Группа исследователей из Северо-Восточного и Нью-Йоркского университетов разработала технику приблизительного определения местоположения получателя SMS-сообщения на основе анализа задержек при доставке SMS. Предложенный метод позволяет отправителю SMS-сообщения определить страну, в которой находится получатель, с точностью до 96%. Техника также может применяться для достаточно достоверного определения находится получатель за рубежом или нет, или для уточнения в каком из мест, которые обычно посещает пользователь, он находится в данный момент.
+https://www.opennet.ru/opennews/art.shtml?num=59302</description>
+    </item>
+    
+  </channel>
+</rss>

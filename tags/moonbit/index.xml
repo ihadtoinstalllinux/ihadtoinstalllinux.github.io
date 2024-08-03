@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Moonbit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/moonbit/</link>
+    <description>Recent content in Moonbit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/moonbit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Анонсирован язык программирования Moonbit, оптимизированный для WebAssembly</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-yazyk-programmirovaniya-moonbit-optimizirovannyy-dlya-webassembly-20230820-143506/</link>
+      <pubDate>Sun, 20 Aug 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovan-yazyk-programmirovaniya-moonbit-optimizirovannyy-dlya-webassembly-20230820-143506/</guid>
+      <description>Хунбо Чжан (Hongbo Zhang), основной разработчик языка программирования ReScript, также участвовавший в разработке языков OCaml и Flow, представил новый язык программирования Moonbit, специально оптимизированный для создания приложений, компилируемых в универсальный промежуточный код WebAssembly. Ключевыми целями разработки названы предоставление простого синтаксиса, высокая скорость компиляции, генерация компактного и быстрого промежуточного кода WebAssembly. Предоставляется несколько бэкендов для генерации кода, среди которых имеются бэкенды для JavaScript и нативного кода.
+https://www.opennet.ru/opennews/art.shtml?num=59632</description>
+    </item>
+    
+  </channel>
+</rss>

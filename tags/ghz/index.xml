@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GHz on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghz/</link>
+    <description>Recent content in GHz on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 12:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новые сборки дистрибутива Raspberry Pi OS. Разгон плат Raspberry Pi 5 до 3.14 GHz</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</link>
+      <pubDate>Mon, 18 Mar 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали обновлённые сборки дистрибутива Raspberry Pi OS 2024-03-15 (Raspbian), основанного на пакетной базе Debian 12. Для плат Raspberry Pi 4/5 по умолчанию используется композитный менеджер Wayfire на базе протокола Wayland, а для остальных плат - X-сервер с оконным менеджером Openbox. Для управления звуком применяется мультимедийный сервер Pipewire. В репозитории доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=60798</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Boot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/boot/</link>
+    <description>Recent content in Boot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 15:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/boot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В 806 моделях материнских плат выявлен тестовый ключ, позволяющий обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-806-modelyah-materinskih-plat-vyyavlen-testovyy-klyuch-pozvolyayuschiy-oboyti-uefi-secur-20240726-153542/</link>
+      <pubDate>Fri, 26 Jul 2024 15:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-806-modelyah-materinskih-plat-vyyavlen-testovyy-klyuch-pozvolyayuschiy-oboyti-uefi-secur-20240726-153542/</guid>
+      <description>Исследователи безопасности из компании Binarly выявили возможность обхода режима верифицированной загрузки UEFI Secure Boot на более чем 800 продуктах, выпущенных компаниями Acer, Dell, Fujitsu, Gigabyte, HP, Intel, Lenovo и Supermicro. Проблема получила кодовое имя PKfail и связана с использованием в прошивках не заслуживающего доверия ключа платформы (PK, Platform Key), сгенерированного компанией AMI (American Megatrends International) и поставляемого в качестве тестового примера. Наиболее старые прошивки, в которых использовался тестовый ключ, выпущены в 2012 году, а самые новые датированы июнем 2024 года.</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+    <item>
+      <title>Удалённая уязвимость в прослойке Shim, позволяющая обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-prosloyke-shim-pozvolyayuschaya-oboyti-uefi-secure-boot-20240126-163601/</link>
+      <pubDate>Fri, 26 Jan 2024 16:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-prosloyke-shim-pozvolyayuschaya-oboyti-uefi-secure-boot-20240126-163601/</guid>
+      <description>В прослойке Shim, применяемой в большинстве Linux-дистрибутивов для верифицированной загрузки в режиме UEFI Secure Boot, выявлена уязвимость (CVE-2023-40547), которая может привести к удалённому выполнению кода и обходу механизма верифицированной загрузки UEFI Secure Boot. Атакующий, контролирующий HTTP-сервер, к которому обращается Shim, может вернуть специально оформленный ответ, приводящий к контролируемой записи в область за границу буфера для организации выполнения кода на раннем этапе загрузки.
+https://www.opennet.ru/opennews/art.shtml?num=60501</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NTFS-драйвере из состава GRUB2, позволяющая выполнить код и обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</link>
+      <pubDate>Wed, 04 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</guid>
+      <description>В драйвере, обеспечивающем работу с файловой системой NTFS в загрузчике GRUB2, выявлена уязвимость (CVE-2023-4692), позволяющая организовать выполнение своего кода на уровне загрузчик при обращении к специально оформленному образу файловой системы. Уязвимость может применяться для обхода механизма верифицированной загрузки UEFI Secure Boot.
+https://www.opennet.ru/opennews/art.shtml?num=59868</description>
+    </item>
+    
+    <item>
+      <title>Неофициальный GNU Boot переименован после требования прекратить использование чужого имени</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/neoficialnyy-gnu-boot-pereimenovan-posle-trebovaniya-prekratit-ispolzovanie-chuzhogo-imeni-20230731-123508/</link>
+      <pubDate>Mon, 31 Jul 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/neoficialnyy-gnu-boot-pereimenovan-posle-trebovaniya-prekratit-ispolzovanie-chuzhogo-imeni-20230731-123508/</guid>
+      <description>Адриан Бурмо (Adrien Bourmault), основатель проекта GNU Boot, направил Лии Роу (Leah Rowe), развивающей дистрибутив Libreboot, требование прекратить использование имени GNU Boot для распространения своей сборки. Две недели назад Лия опубликовала урезанную сборку Libreboot под именем GNU Boot, снабдив её пометкой &amp;ldquo;неофициальная&amp;rdquo;. В претензии указано, что Лия не является мэйнтейнером GNU Boot и не имеет право публиковать релизы от имени данного проекта. При желании участвовать в разработке следовало прислать патчи для рецезирования, а не создавать свой релиз.</description>
+    </item>
+    
+    <item>
+      <title>Представлен GNU Boot, форк загрузочной прошивки Libreboot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</link>
+      <pubDate>Tue, 18 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</guid>
+      <description>Лия Роу (Leah Rowe), основной разработчик и основатель дистрибутива Libreboot, представила первый выпуск новой загрузочной прошивки GNU Boot, представляющей собой форк Libreboot, адаптированный для соответствия требованиям Фонда СПО к полностью свободным дистрибутивам. GNU Boot планируют развивать в составе проекта GNU в качестве свободного системного окружения, которое можно использовать вместо проприетарных прошивок, обеспечивающих загрузку (полностью свободный дистрибутив CoreBoot). Сопровождение GNU Boot, как и Libreboot, будет обеспечивать Лия Роу.
+https://www.opennet.ru/opennews/art.shtml?num=59456</description>
+    </item>
+    
+  </channel>
+</rss>

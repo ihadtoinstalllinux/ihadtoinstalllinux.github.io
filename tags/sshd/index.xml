@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sshd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sshd/</link>
+    <description>Recent content in sshd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2024 01:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sshd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenSSH разделяет sshd на несколько исполняемых файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-razdelyaet-sshd-na-neskolko-ispolnyaemyh-faylov-20240518-013527/</link>
+      <pubDate>Sat, 18 May 2024 01:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-razdelyaet-sshd-na-neskolko-ispolnyaemyh-faylov-20240518-013527/</guid>
+      <description>Разработчики OpenSSH начали разделение sshd на несколько отдельных исполняемых файлов. Первым шагом стало добавление в кодовую базу OpenSSH изменения, выделяющего из sshd процесс sshd-session, выполняющий задачи, связанные с обработкой сеансов. В процессе sshd оставлены функции, отвечающие за приём сетевых соединений, проверку конфигурации, загрузку хостовых ключей и управление запускаемыми процессами в соответствии с параметром MaxStartups. Таким образом исполняемый файл sshd теперь содержит минимальную функциональность, необходимую для приёма нового сетевого соединения и запуска sshd-session для обработки сеанса.</description>
+    </item>
+    
+    <item>
+      <title>В библиотеке xz/liblzma выявлен бэкдор, организующий вход через sshd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-xz-liblzma-vyyavlen-bekdor-organizuyuschiy-vhod-cherez-sshd-20240330-013518/</link>
+      <pubDate>Sat, 30 Mar 2024 01:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-xz-liblzma-vyyavlen-bekdor-organizuyuschiy-vhod-cherez-sshd-20240330-013518/</guid>
+      <description>В пакете XZ Utils, включающем библиотеку liblzma и утилиты для работы со сжатыми данными в формате &amp;ldquo;.xz&amp;rdquo;, выявлен бэкдор (CVE-2024-3094), позволяющий перехватывать и модифицировать данные, обрабатываемые приложениями, связанными с библиотекой liblzma. Основной целью бэкдора является сервер OpenSSH, в котором используется liblzma. Связывание sshd с уязвимой библиотекой позволяет злоумышленникам получить доступ к SSH-серверу без аутентификации.
+https://www.opennet.ru/opennews/art.shtml?num=60877</description>
+    </item>
+    
+  </channel>
+</rss>

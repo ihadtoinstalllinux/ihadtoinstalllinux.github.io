@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>T2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/t2/</link>
+    <description>Recent content in T2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 11:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/t2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз T2 SDE 24.6, платформы для создания дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-t2-sde-24-6-platformy-dlya-sozdaniya-distributivov-20240610-113546/</link>
+      <pubDate>Mon, 10 Jun 2024 11:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-t2-sde-24-6-platformy-dlya-sozdaniya-distributivov-20240610-113546/</guid>
+      <description>Опубликован релиз мета-дистрибутива T2 SDE 24.6, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Дистрибутивы можно создавать на основе Linux, Minix, MinGW, macOS, Haiku и BSD-систем. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляются базовые загрузочные iso-образы с минимальным графическим окружением в вариантах с библиотеками Musl, uClibc и Glibc. Для сборки доступны более 5000 пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=61341</description>
+    </item>
+    
+    <item>
+      <title>Релиз мета-дистрибутива T2 SDE 24.5 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-meta-distributiva-t2-sde-24-5-20240430-123549/</link>
+      <pubDate>Tue, 30 Apr 2024 12:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-meta-distributiva-t2-sde-24-5-20240430-123549/</guid>
+      <description>Состоялся релиз мета-дистрибутива T2 SDE 24.5, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Дистрибутивы можно создавать на основе Linux, Minix, Hurd, OpenDarwin, Haiku и OpenBSD. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляются базовые загрузочные iso-образы с минимальным графическим окружением в вариантах с библиотеками Musl, uClibc и Glibc. Для сборки доступны более 5000 пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=61092</description>
+    </item>
+    
+  </channel>
+</rss>

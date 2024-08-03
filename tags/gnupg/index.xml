@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GnuPG on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnupg/</link>
+    <description>Recent content in GnuPG on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2024 11:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnupg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GnuPG 2.5.0 с поддержкой ключей, устойчивых к подбору на квантовых компьютерах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnupg-2-5-0-s-podderzhkoy-klyuchey-ustoychivyh-k-podboru-na-kvantovyh-kompyuterah-20240706-113604/</link>
+      <pubDate>Sat, 06 Jul 2024 11:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnupg-2-5-0-s-podderzhkoy-klyuchey-ustoychivyh-k-podboru-na-kvantovyh-kompyuterah-20240706-113604/</guid>
+      <description>Спустя полтора года с момента формирования прошлой значительной ветки представлен выпуск инструментария GnuPG 2.5.0 (GNU Privacy Guard), совместимого со стандартами OpenPGP (RFC-4880) и S/MIME, и предоставляющего утилиты для шифрования данных, работы с электронными подписями, управления ключами и доступа к публичным хранилищам ключей. Код проекта написан на языке Си и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61498</description>
+    </item>
+    
+    <item>
+      <title>Автор GnuPG основал LibrePGP, форк стандарта OpenPGP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/avtor-gnupg-osnoval-librepgp-fork-standarta-openpgp-20231208-143603/</link>
+      <pubDate>Fri, 08 Dec 2023 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/avtor-gnupg-osnoval-librepgp-fork-standarta-openpgp-20231208-143603/</guid>
+      <description>Вернер Кох (Werner Koch), основной разработчик и создатель проекта GnuPG (GNU Privacy Guard), основал проект LibrePGP, сосредоточенный на развитии обновлённой спецификации, альтернативной стандарту OpenPGP. Форк был создан в ответ на изменения, намеченные рабочей группой IETF для внесения в спецификацию OpenPGP (RFC-4880) и воспринятые как сомнительные с точки зрения сохранения совместимости и обеспечения безопасности. Поддержавшие форк разработчики проектов GnuPG, RNP (реализация OpenPGP от Thunderbird) и Gpg4win опасаются, что намеченные изменения окажутся губительны для существующих внедрений приложений на базе OpenPGP, пользователи которых рассчитывают на стабильность спецификации в длительной перспективе и не готовы мириться с изменениями, нарушающими совместимость.</description>
+    </item>
+    
+  </channel>
+</rss>

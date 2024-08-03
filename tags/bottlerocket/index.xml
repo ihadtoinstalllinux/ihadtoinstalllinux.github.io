@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bottlerocket on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bottlerocket/</link>
+    <description>Recent content in Bottlerocket on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bottlerocket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Bottlerocket 1.15, дистрибутив на базе изолированных контейнеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-bottlerocket-1-15-distributiv-na-baze-izolirovannyh-konteynerov-20230922-133506/</link>
+      <pubDate>Fri, 22 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-bottlerocket-1-15-distributiv-na-baze-izolirovannyh-konteynerov-20230922-133506/</guid>
+      <description>Опубликован выпуск Linux-дистрибутива Bottlerocket 1.15.0, развиваемого при участии компании Amazon для эффективного и безопасного запуска изолированных контейнеров. Инструментарий и управляющие компоненты дистрибутива написаны на языке Rust и распространяются под лицензиями MIT и Apache 2.0. Поддерживается запуск Bottlerocket в кластерах Amazon ECS, VMware и AWS EKS Kubernetes, а также создание произвольных сборок и редакций, допускающих применение различных инструментов оркестровки и runtime для контейнеров.
+https://www.opennet.ru/opennews/art.shtml?num=59799</description>
+    </item>
+    
+  </channel>
+</rss>

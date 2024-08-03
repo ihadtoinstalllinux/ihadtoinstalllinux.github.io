@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maestro on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/maestro/</link>
+    <description>Recent content in Maestro on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 17:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/maestro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ядро Maestro, написанное на Rust и частично совместимое с Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</link>
+      <pubDate>Thu, 04 Jan 2024 17:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</guid>
+      <description>Представлен проект по разработке на языке Rust легковесного Unix-подобного ядра, реализующего подмножество системных вызовов ядра Linux, достаточное для создания типовых рабочих окружений. Проект был создан в 2018 году и вначале использовал язык Си, но в 2020 году был полностью перезапущен с нуля с учётом накопленного опыта и перешёл на Rust для снижения вероятности совершения ошибок, возникающих при работе с памятью. Код ядра распространяется под лицензией MIT. Помимо ядра проектом на языке Rust также развиваются X11-сервер, пакетный менеджер, загрузчик, инсталлятор, набор утилит и другие компоненты, необходимые для построения операционной системы.</description>
+    </item>
+    
+  </channel>
+</rss>

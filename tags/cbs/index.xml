@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CBS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cbs/</link>
+    <description>Recent content in CBS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2023 22:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cbs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проекты CBS и sqld развивают облачный и серверный варианты SQLite</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekty-cbs-i-sqld-razvivayut-oblachnyy-i-servernyy-varianty-sqlite-20230712-223504/</link>
+      <pubDate>Wed, 12 Jul 2023 22:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekty-cbs-i-sqld-razvivayut-oblachnyy-i-servernyy-varianty-sqlite-20230712-223504/</guid>
+      <description>Разработчики SQLite развивают экспериментальный VFS-модуль CBS (Cloud Backed SQLite), позволяющий хранить содержимое базы данных не в локальном файле, а во внешнем облачном хранилище. Для хранения используется специально оптимизированный для внешнего хранения формат базы, позволяющий загружать данные из внешнего хранилища динамически по мере необходимости, без предварительного копирования всей БД на локальную систему. Из облачных хранилищ в настоящее время поддерживаются Azure Blob Storage и Google Cloud Storage. На использование CBS могут быть переведены любые приложения, поддерживающие работу с обычным SQLite.</description>
+    </item>
+    
+  </channel>
+</rss>

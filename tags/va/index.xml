@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/va/</link>
+    <description>Recent content in VA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 13:36:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/va/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenBSD добавлена поддержка VA-API для аппаратного ускорения декодирования видео</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-podderzhka-va-api-dlya-apparatnogo-uskoreniya-dekodirovaniya-video-20240722-133650/</link>
+      <pubDate>Mon, 22 Jul 2024 13:36:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-podderzhka-va-api-dlya-apparatnogo-uskoreniya-dekodirovaniya-video-20240722-133650/</guid>
+      <description>В состав OpenBSD приняты изменения, добавляющие библиотеку libva 2.22.0 в состав X11-стека Xenocara, применяемого в OpenBSD для формирования графического окружения и основанного на изменённых версиях X.Org 7.7, X Server 21.1.11, freetype 2.13.0 и Mesa 23.1.9. Включение библиотеки libva позволяет использовать программный интерфейс VA-API (Video Acceleration API) для аппаратного ускорения кодирования и декодирования видео в различных форматах.
+https://www.opennet.ru/opennews/art.shtml?num=61591</description>
+    </item>
+    
+    <item>
+      <title>ViPNet TLS Gateway VA совместим с платформой виртуализации ROSA Virtualization </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vipnet-tls-gateway-va-sovmestim-s-platformoy-virtualizacii-rosa-virtualization-20240213-213626/</link>
+      <pubDate>Tue, 13 Feb 2024 21:36:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vipnet-tls-gateway-va-sovmestim-s-platformoy-virtualizacii-rosa-virtualization-20240213-213626/</guid>
+      <description>Компании РОСА и ИнфоТеКС провели тестирование и подтвердили корректную работу высокопроизводительного TLS-криптошлюза ViPNet TLS Gateway VA на платформе виртуализации ROSA Virtualization. Установленная совместимость имеет большое значение для предприятий, которые стремятся повысить свою безопасность и оптимально использовать ресурсы виртуальной среды, особенно в работе с чувствительными к безопасности данными. Решение гарантирует соответствие требованиям современного бизнеса к безопасности, гибкости […]
+https://rosa.ru/vipnet-tls-gateway-va-sovmestim-s-platformoj-virtualizaczii-rosa-virtualization/</description>
+    </item>
+    
+  </channel>
+</rss>

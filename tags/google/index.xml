@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/google/</link>
+    <description>Recent content in Google on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 10:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google передумал прекращать поддержку сторонних Cookie в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-peredumal-prekraschat-podderzhku-storonnih-cookie-v-chrome-20240723-103529/</link>
+      <pubDate>Tue, 23 Jul 2024 10:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-peredumal-prekraschat-podderzhku-storonnih-cookie-v-chrome-20240723-103529/</guid>
+      <description>Вице-президент Google, курирующий проект Privacy Sandbox, объявил об отмене плана по отключению в браузере Chrome поддержки сторонних Cookie, выставляемых при обращении к доменам, отличающимся от домена текущей страницы. Сторонние Cookie применяются для отслеживания перемещений пользователя между сайтами в коде рекламных сетей, виджетов социальных сетей и систем web-аналитики. Вместо полного отказа от сторонних Cookie в Chrome намерены реализовать отдельный интерфейс, дающий возможность пользователю принять самостоятельное решение по блокированию подобных Cookie, и в любой момент включить или отключить блокировку.</description>
+    </item>
+    
+    <item>
+      <title>Google открыл приложение для создания 3D-моделей с использованием виртуальной реальности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-prilozhenie-dlya-sozdaniya-3d-modeley-s-ispolzovaniem-virtualnoy-realnosti-20240717-133542/</link>
+      <pubDate>Wed, 17 Jul 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-prilozhenie-dlya-sozdaniya-3d-modeley-s-ispolzovaniem-virtualnoy-realnosti-20240717-133542/</guid>
+      <description>Компания Google сообщила об открытии исходного кода проекта Google Blocks, предоставляющего виртуальное 3D-окружение для создания сцен, объектов и моделей для систем виртуальной и дополненной реальности. Работа с программой осуществляется с использованием шлемов виртуальной реальности, что позволяет вместо традиционных процессов разработки 3D-элементов с использованием плоских экранов, создавать модели непосредственно внутри виртуального трёхмерного окружения. Код написан на языке C# с использованием игрового движка Unity и открыт под лицензией Apache 2.0. Поддерживается работа с 3D-шлемами HTC Vive и Oculus Rift.</description>
+    </item>
+    
+    <item>
+      <title>Встроенное в Chromium дополнение предоставляет расширенный API сервисам Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vstroennoe-v-chromium-dopolnenie-predostavlyaet-rasshirennyy-api-servisam-google-20240710-103520/</link>
+      <pubDate>Wed, 10 Jul 2024 10:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vstroennoe-v-chromium-dopolnenie-predostavlyaet-rasshirennyy-api-servisam-google-20240710-103520/</guid>
+      <description>Один из разработчиков JavaScript-платформы Deno, руководящий каталогом пакетов JSR.io, обратил внимание на дискриминацию в браузерном движке Chromium, связанную с предоставлением сервисам Google дополнительной функциональности, недоступной остальным сайтам без установки отдельного дополнения. Речь про встроенное дополнение hangout_services, которое активно по умолчанию и не отображается в списках работающих в браузере дополнений.
+https://www.opennet.ru/opennews/art.shtml?num=61513</description>
+    </item>
+    
+    <item>
+      <title>Эксперимент по загрузке Arch Linux с корневым разделом в Google Drive</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-zagruzke-arch-linux-s-kornevym-razdelom-v-google-drive-20240708-143525/</link>
+      <pubDate>Mon, 08 Jul 2024 14:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-po-zagruzke-arch-linux-s-kornevym-razdelom-v-google-drive-20240708-143525/</guid>
+      <description>Продемонстрирована возможность загрузки Arch Linux с размещением содержимого корневого раздела в облачном хранилище Google Drive. Идея реализована через добавление в образ RAM-диска initramfs, запускаемый ядром на ранней стадии загрузки для монтирования ФС, FUSE-модуля google-drive-ocamlfuse, предоставляющего доступ к содержимому Google Drive в форме виртуальной файловой системы. Виртуальная ФС на базе FUSE задействована для размещения корневого раздела с системным окружением Arch Linux. Для создания необходимой начинки initramfs, которая среди прочего должна настраивать сетевое соединение для обращения к Google Drive, задействован инструментарий dracut.</description>
+    </item>
+    
+    <item>
+      <title>Google развивает MicroFuchsia, урезанный вариант ОС Fuchsia для виртуальных машин в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-microfuchsia-urezannyy-variant-os-fuchsia-dlya-virtualnyh-mashin-v-androi-20240706-153529/</link>
+      <pubDate>Sat, 06 Jul 2024 15:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-microfuchsia-urezannyy-variant-os-fuchsia-dlya-virtualnyh-mashin-v-androi-20240706-153529/</guid>
+      <description>Компания Google развивает окружение MicroFuchsia, включающее урезанную версию операционной системы Fuchsia, оптимизированную для выполнение в виртуальных машинах в платформе Android. В состав кодовой базы Android уже начался приём изменений для обеспечения работы.
+https://www.opennet.ru/opennews/art.shtml?num=61500</description>
+    </item>
+    
+    <item>
+      <title>Google начнёт выплачивать вознаграждения за выявление уязвимостей в гипервизоре KVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nachnet-vyplachivat-voznagrazhdeniya-za-vyyavlenie-uyazvimostey-v-gipervizore-kvm-20240703-193509/</link>
+      <pubDate>Wed, 03 Jul 2024 19:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nachnet-vyplachivat-voznagrazhdeniya-za-vyyavlenie-uyazvimostey-v-gipervizore-kvm-20240703-193509/</guid>
+      <description>Компания Google представила инициативу kvmCTF, в рамках которой исследователи безопасности могут получить денежное вознаграждение за выявление уязвимостей в гипервизоре KVM (Kernel-based Virtual Machine). Интерес Google к KVM обусловлен использованием данного гипервизора в сервисе Google Cloud, а также в платформах Android и ChromeOS (CrosVM основан на KVM). Для получения вознаграждения должен быть продемонстрирован взлом специально подготовленного окружения CTF (Capture the Flag) на базе свежего ядра Linux, выполняющего виртуальную машину, доступ к которой предоставляется по заявкам.</description>
+    </item>
+    
+    <item>
+      <title>Google назвал обладателей премии Open Source Peer Bonus 2024</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nazval-obladateley-premii-open-source-peer-bonus-2024-20240628-123539/</link>
+      <pubDate>Fri, 28 Jun 2024 12:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nazval-obladateley-premii-open-source-peer-bonus-2024-20240628-123539/</guid>
+      <description>Компания Google объявила обладателей премии Open Source Peer Bonus, присуждаемой за вклад в развитие открытых проектов. Претендентов выдвигают сотрудники Google, но номинанты не должны быть связаны с данной компанией. Премия присуждается разработчикам, техническим писателям, дизайнерам, активистам сообщества, наставникам, экспертам по безопасности и другим людям, связанным с открытым ПО.
+https://www.opennet.ru/opennews/art.shtml?num=61454</description>
+    </item>
+    
+    <item>
+      <title>Google переводит ChromeOS на компоненты платформы Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-perevodit-chromeos-na-komponenty-platformy-android-20240613-103555/</link>
+      <pubDate>Thu, 13 Jun 2024 10:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-perevodit-chromeos-na-komponenty-platformy-android-20240613-103555/</guid>
+      <description>Компания Google объявила о работе по переводу операционной системы Chrome OS на вариант ядра Linux и фреймворки, используемые в платформе Android. Отмечается, что работа по переводу системного окружения Chrome OS на компоненты платформы Android находится на начальном этапе и потребует много времени, прежде чем новый вариант системы станет пригоден для работы конечных пользователей. Из уже предпринятых действий упоминается интеграция в ChromeOS 122 нового Bluetooth-стека Floss, основанный на Bluetooth-стеке Fluoride из платформы Android.</description>
+    </item>
+    
+    <item>
+      <title>Google добавит в Chrome OS технологию облачного выполнения классических приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-dobavit-v-chrome-os-tehnologiyu-oblachnogo-vypolneniya-klassicheskih-prilozheniy-20240606-123602/</link>
+      <pubDate>Thu, 06 Jun 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-dobavit-v-chrome-os-tehnologiyu-oblachnogo-vypolneniya-klassicheskih-prilozheniy-20240606-123602/</guid>
+      <description>Компания Google объявила о поглощении фирмы Cameyo, развивающей сервис удалённой работы с приложениями (VAD - Virtual App Delivery), позволяющий вынести выполнение программ в облако, которое может предоставляться как сторонним поставщиком, так и запускаться на своих серверах. В качестве причины поглощения упоминается намерение интегрировать в экосистему ChromeOS технологии Cameyo, обеспечивающие возможность работы с приложениями, созданными для других платформ. Например, для пользователей Chrome OS предоставляется возможность запуска приложений, созданных для платформы Windows, а для платформ, отличных от Linux, доступна поддержка облачного запуска Linux-приложений.</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал GWPSan, инструмент для выявления ошибок на стадии выполнения приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-gwpsan-instrument-dlya-vyyavleniya-oshibok-na-stadii-vypolneniya-priloz-20240605-173557/</link>
+      <pubDate>Wed, 05 Jun 2024 17:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-gwpsan-instrument-dlya-vyyavleniya-oshibok-na-stadii-vypolneniya-priloz-20240605-173557/</guid>
+      <description>Компания Google опубликовала исходные тексты инструментария GWPSan, предназначенного для выявления ошибок на этапе выполнения приложений, собранных для архитектур x86-64 и ARM64. GWPSan собирается в виде разделяемой библиотеки, которая связывается при запуске приложения при помощи LD_PRELOAD и использует для анализа работы программы доступные в ядре Linux механизмы остановки (PERF_TYPE_BREAKPOINT) и сэмплинга процессов. Код написан на языке С++ и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61317</description>
+    </item>
+    
+    <item>
+      <title>Google анонсировал первую стадию избавления от второй версии манифеста в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-anonsiroval-pervuyu-stadiyu-izbavleniya-ot-vtoroy-versii-manifesta-v-chrome-20240531-013552/</link>
+      <pubDate>Fri, 31 May 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-anonsiroval-pervuyu-stadiyu-izbavleniya-ot-vtoroy-versii-manifesta-v-chrome-20240531-013552/</guid>
+      <description>Компания Google наметила на 3 июня начало процесса по прекращению поддержки второй версии манифеста Chrome, определяющего возможности и ресурсы, доступные для дополнений, написанных с использованием API WebExtensions. Изначально, поддержку второй версии манифеста планировалось прекратить в январе 2023 года, но затем сроки несколько раз сдвигались. Начиная с 3 июня в ветках Chrome Beta, Dev и Canary при наличии установленных дополнений, использующих вторую версию манифеста, на странице управления дополнениями (chrome://extensions) начнёт показываться уведомление с информацией о скором прекращении поддержки данных дополнений.</description>
+    </item>
+    
+    <item>
+      <title>Google экспериментирует с запуском Chromium OS в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</link>
+      <pubDate>Tue, 14 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</guid>
+      <description>Компания Google продемонстрировала партнёрам на закрытом мероприятии проект FerroChrome, в рамках которого подготовлена специальная сборка операционной системы Chromium OS, предназначенная для запуска в виртуальной машине на устройствах с платформой Android. При демонстрации интерфейс Chromium OS выводился на большой экран, подключённый к смартфону Pixel 8. Предполагается, что возможность запуска Chromium OS может применяться для создания полнофункционального рабочего окружения, которое можно использовать при подключении смартфона к монитору, клавиатуре и мыши.
+https://www.opennet.ru/opennews/art.shtml?num=61171</description>
+    </item>
+    
+    <item>
+      <title>Волна увольнений в Google, затронувшая команды Flutter, Dart и Python Teams </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/volna-uvolneniy-v-google-zatronuvshaya-komandy-flutter-dart-i-python-teams-20240430-113508/</link>
+      <pubDate>Tue, 30 Apr 2024 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/volna-uvolneniy-v-google-zatronuvshaya-komandy-flutter-dart-i-python-teams-20240430-113508/</guid>
+      <description>Компания Google увольняет часть сотрудников, вовлечённых в проекты Flutter и Dart, а также команду, занимающуюся разработками, связанными с языком программирования Python. В качестве основного мотива сокращения персонала упоминается реорганизация, вызванная оптимизацией процессов, перераспределением обязанностей, а также избавлением от бюрократии и лишних звеньев. Увольнение всей Python-команды объясняется заменой старой команды на другую, территориально находящуюся в Мюнхене.
+https://www.opennet.ru/opennews/art.shtml?num=61091</description>
+    </item>
+    
+    <item>
+      <title>Google отложил прекращение поддержки сторонних Cookie в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otlozhil-prekraschenie-podderzhki-storonnih-cookie-v-chrome-20240425-103552/</link>
+      <pubDate>Thu, 25 Apr 2024 10:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otlozhil-prekraschenie-podderzhki-storonnih-cookie-v-chrome-20240425-103552/</guid>
+      <description>Компания Google объявила об очередной корректировке планов по прекращению в браузере Chrome поддержки сторонних Cookie, выставляемых при обращении к сайтам, отличным от домена текущей страницы. Изначально поддержку сторонних Cookie планировалось прекратить до 2022 года, потом срок прекращения поддержки был сдвинут до середины 2023 года, после чего был ещё раз перенесён на чётвёртый квартал 2024 года. Из-за необходимости дополнительных согласований и неготовности экосистемы, решено не отключать поддержку сторонних Cookie и в 2024 году.</description>
+    </item>
+    
+    <item>
+      <title>Google представил библиотеку jpegli для более эффективного сжатия JPEG-изрбражений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</link>
+      <pubDate>Thu, 04 Apr 2024 14:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</guid>
+      <description>Компания Google представила новую открытую библиотеку jpegli с реализацией кодировщика и декодировщика изображений в формате JPEG. Библиотека включает дополнительные оптимизации для повышения эффективности кодирования, позволяющие на 35% увеличить степень сжатия высококачественных изображений, по сравнению с традиционными кодеками JPEG. В сравнении с libjpeg-turbo библиотека jpegli позволяет добиться аналогичного уровня качества при снижении битрейта на 32%. На уровне API и ABI библиотека полностью совместима с libjpeg62 и может применяться для её прозрачной замены.</description>
+    </item>
+    
+    <item>
+      <title>Amazon, Google, Oracle, Ericsson и Snap основали Valkey, форк СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</link>
+      <pubDate>Thu, 28 Mar 2024 23:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</guid>
+      <description>Организация Linux Foundation объявила о создании проекта Valkey, который продолжит развитие открытой кодовой базы СУБД Redis, распространяемой под лицензией BSD. Проект будет развиваться под эгидой организации Linux Foundation на независимой площадке с привлечением сообщества разработчиков и компаний, заинтересованных в продолжении сохранения открытой кодовой базы Redis. К работе над проектом уже присоединились такие компании, как Amazon Web Services (AWS), Google Cloud, Oracle, Ericsson и Snap Inc.
+https://www.opennet.ru/opennews/art.shtml?num=60871</description>
+    </item>
+    
+    <item>
+      <title>В 2023 году Google выплатил 10 млн долларов вознаграждений за выявление уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-2023-godu-google-vyplatil-10-mln-dollarov-voznagrazhdeniy-za-vyyavlenie-uyazvimostey-20240313-113535/</link>
+      <pubDate>Wed, 13 Mar 2024 11:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-2023-godu-google-vyplatil-10-mln-dollarov-voznagrazhdeniy-za-vyyavlenie-uyazvimostey-20240313-113535/</guid>
+      <description>Компания Google подвела итоги программы выплаты вознаграждений за выявление уязвимостей в Chrome, Android, приложениях Google Play, продуктах Google и различном открытом ПО. Общая сумма выплаченных в 2023 году вознаграждений составила 10 млн долларов, что на 2 млн меньше, чем в 2023 году и на 1 млн больше, чем в 2022. Вознаграждения получили 632 исследователя (в прошлом году - 703). С 2010 года суммарный размер выплат составил 59 млн долларов.
+https://www.opennet.ru/opennews/art.shtml?num=60780</description>
+    </item>
+    
+    <item>
+      <title>Mozilla, Google, Microsoft и Apple разработали тест производительности браузеров Speedometer 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-google-microsoft-i-apple-razrabotali-test-proizvoditelnosti-brauzerov-speedometer-20240312-123534/</link>
+      <pubDate>Tue, 12 Mar 2024 12:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-google-microsoft-i-apple-razrabotali-test-proizvoditelnosti-brauzerov-speedometer-20240312-123534/</guid>
+      <description>Спустя шесть лет c момента прошлого выпуска представлен обновлённый инструментарий для тестирования производительности и отзывчивости web-браузеров - Speedometer 3.0, подготовленный совместно компаниями Mozilla, Google, Microsoft и Apple. Ключевой задачей тестового набора называется оценка задержек при симуляции работы пользователя с типовыми web-приложениями.
+https://www.opennet.ru/opennews/art.shtml?num=60773</description>
+    </item>
+    
+    <item>
+      <title>Открыта серверная часть сервиса Ente, развивающего альтернативу Google Photos</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryta-servernaya-chast-servisa-ente-razvivayuschego-alternativu-google-photos-20240303-013514/</link>
+      <pubDate>Sun, 03 Mar 2024 01:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryta-servernaya-chast-servisa-ente-razvivayuschego-alternativu-google-photos-20240303-013514/</guid>
+      <description>Стартап Ente, развивающий одноимённый сервис для конфиденциального хранения фотографий, объявил об открытии исходного кода серверной части своей платформы, в дополнение к ранее открытым клиентским и мобильным приложениям. Опубликованный код позволяет развернуть на своих мощностях сервис хранения и обмена фотографиями, напоминающий Google Photos и Apple Photos. Код серверной части написан на языке Go и распространяется под лицензией AGPLv3. Клиентские приложения написаны на TypeScript и Dart c использованием Flutter и подготовлены для Linux, Windows, macOS, iOS и Android.</description>
+    </item>
+    
+    <item>
+      <title>Google открыл AI-модель Gemma, основанную на технологиях, общих с чат-ботом Gemini</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-ai-model-gemma-osnovannuyu-na-tehnologiyah-obschih-s-chat-botom-gemini-20240224-013552/</link>
+      <pubDate>Sat, 24 Feb 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-ai-model-gemma-osnovannuyu-na-tehnologiyah-obschih-s-chat-botom-gemini-20240224-013552/</guid>
+      <description>Компания Google объявила о публикации большой языковой модели машинного обучения Gemma, построенной с использованием технологий, применяемых для построения модели чат-бота Gemini, пытающегося конкурировать с ChatGPT. Модель доступна в четырёх вариантах, охватывающих 2 и 7 миллиардов параметров, в базовом и оптимизированном для диалоговых систем представлениях. Варианты с 2 млрд параметров подходят для использования в потребительских приложениях и для их обработки достаточно CPU. Варианты с 7 млрд параметров требуют более мощного оборудования и наличия GPU или TPU.</description>
+    </item>
+    
+    <item>
+      <title>Google открыл код AI-системы Magika для определения типа содержимого файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-ai-sistemy-magika-dlya-opredeleniya-tipa-soderzhimogo-faylov-20240216-133514/</link>
+      <pubDate>Fri, 16 Feb 2024 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-ai-sistemy-magika-dlya-opredeleniya-tipa-soderzhimogo-faylov-20240216-133514/</guid>
+      <description>Компания Google объявила об открытии кода проекта Magika, предназначенного для определения типа содержимого на основе анализа имеющихся в файле данных. Magika может точно определять в содержимом используемые языки программирования, методы сжатия, установочные пакеты, исполняемый код, виды разметки, форматы звука, видео, документов и изображений. Связанный с проектом инструментарий и готовая модель машинного обучения опубликованы под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60611</description>
+    </item>
+    
+    <item>
+      <title>Google выделил миллион долларов на улучшение переносимости между С&#43;&#43; и Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-vydelil-million-dollarov-na-uluchshenie-perenosimosti-mezhdu-s-i-rust-20240205-233548/</link>
+      <pubDate>Mon, 05 Feb 2024 23:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-vydelil-million-dollarov-na-uluchshenie-perenosimosti-mezhdu-s-i-rust-20240205-233548/</guid>
+      <description>Компания Google предоставила организации Rust Foundation целевой грант, размером 1 млн долларов, который позволит профинансировать работу по улучшению взаимодействия кода на языке Rust с кодовыми базами, написанными на языке C++. Грант рассматривается как инвестиция, которая в будущем позволит расширить применение Rust в различных компонентах платформы Android.
+https://www.opennet.ru/opennews/art.shtml?num=60556</description>
+    </item>
+    
+    <item>
+      <title>Google согласился на сделку в деле об отслеживании в режиме инкогнито</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-soglasilsya-na-sdelku-v-dele-ob-otslezhivanii-v-rezhime-inkognito-20231231-143525/</link>
+      <pubDate>Sun, 31 Dec 2023 14:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-soglasilsya-na-sdelku-v-dele-ob-otslezhivanii-v-rezhime-inkognito-20231231-143525/</guid>
+      <description>Компания Google достигла мирового соглашения по урегулированию судебного разбирательства, связанного с нарушением конфиденциальности при использовании режима &amp;ldquo;инкогнито&amp;rdquo; в браузерах. Условия соглашения не разглашаются, но изначальный иск был подан на сумму в 5 миллиардов долларов c расчётом компенсации в $5000 на каждого пользователя режима &amp;ldquo;инкогнито&amp;rdquo;. Условия мирового соглашения оговорены сторонами конфликта, но ещё должны быть одобрены федеральным судьёй на заседании, намеченном на 24 февраля.
+https://www.opennet.ru/opennews/art.shtml?num=60369</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал обновление операционной системы Fuchsia 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-obnovlenie-operacionnoy-sistemy-fuchsia-14-20231202-213549/</link>
+      <pubDate>Sat, 02 Dec 2023 21:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-obnovlenie-operacionnoy-sistemy-fuchsia-14-20231202-213549/</guid>
+      <description>Компания Google опубликовала выпуск операционной системы Fuchsia 14, на базе которого сформированы предварительные обновления прошивок для фоторамок Google Nest Hub и Nest Hub Max. ОС Fuchsia развивается компаний Google c 2016 года с учётом недостатков в области масштабирования и обеспечения безопасности, имеющихся в платформе Android.
+https://www.opennet.ru/opennews/art.shtml?num=60221</description>
+    </item>
+    
+    <item>
+      <title>LibreOffice Viewer размещён в Google Play </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/libreoffice-viewer-razmeschen-v-google-play-20231125-153532/</link>
+      <pubDate>Sat, 25 Nov 2023 15:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/libreoffice-viewer-razmeschen-v-google-play-20231125-153532/</guid>
+      <description>Организация The Document Foundation объявила о синхронизации Android-приложения LibreOffice Viewer с актуальной кодовой базой LibreOffice и размещении данного приложений в каталоге Google Play. Из-за отсутствия сопровожлающего LibreOffice Viewer был удалён из Google Play в 2020 году и долгое время оставался в стагнации. Предполагается, что возвращение LibreOffice Viewer в Google Play сделает пакет доступным для широкого круга пользователей, а не только для энтузиастов, использующих каталог F-Droid.
+https://www.opennet.ru/opennews/art.shtml?num=60178</description>
+    </item>
+    
+    <item>
+      <title>Google представил проект Open Se Cura для создания защищённых программно-аппаратных систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predstavil-proekt-open-se-cura-dlya-sozdaniya-zaschischennyh-programmno-apparatnyh-20231108-013602/</link>
+      <pubDate>Wed, 08 Nov 2023 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predstavil-proekt-open-se-cura-dlya-sozdaniya-zaschischennyh-programmno-apparatnyh-20231108-013602/</guid>
+      <description>Компания Google представила программно-аппаратный комплекс Open Se Cura, ориентированный на упрощение создания защищённых чипов, предназначенных для решения задач, связанных с машинным обучением и искусственным интеллектом. Проект включает в себя операционную систему CantripOS и аппаратное обеспечение, основанное на платформе OpenTitan и процессорном ядре на базе архитектуры RISC-V. В ходе разработки Open Se Cura и CantripOS развивались под именами Sparrow и KataOS, но для исключения пересечения с другими проектами финальные продукты были переименованы.</description>
+    </item>
+    
+    <item>
+      <title>Google удалил API Web Integrity, воспринятый как попытку продвижения подобия DRM для Web</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-udalil-api-web-integrity-vosprinyatyy-kak-popytku-prodvizheniya-podobiya-drm-dlya-w-20231103-173530/</link>
+      <pubDate>Fri, 03 Nov 2023 17:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-udalil-api-web-integrity-vosprinyatyy-kak-popytku-prodvizheniya-podobiya-drm-dlya-w-20231103-173530/</guid>
+      <description>Компания Google прислушалась к критике и прекратила продвижение API Web Environment Integrity, а также.
+https://www.opennet.ru/opennews/art.shtml?num=60042</description>
+    </item>
+    
+    <item>
+      <title>Google провёл работу по улучшению адресной строки в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-provel-rabotu-po-uluchsheniyu-adresnoy-stroki-v-chrome-20231020-003538/</link>
+      <pubDate>Fri, 20 Oct 2023 00:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-provel-rabotu-po-uluchsheniyu-adresnoy-stroki-v-chrome-20231020-003538/</guid>
+      <description>Компания Google представила серию улучшений в адресной строке Chrome.
+https://www.opennet.ru/opennews/art.shtml?num=59960</description>
+    </item>
+    
+    <item>
+      <title>Google открыл технологию передачи данных Falcon </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-tehnologiyu-peredachi-dannyh-falcon-20231018-213545/</link>
+      <pubDate>Wed, 18 Oct 2023 21:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-tehnologiyu-peredachi-dannyh-falcon-20231018-213545/</guid>
+      <description>Компания Google объявила об открытии технологии передачи данных Falcon (hardware transport, аппаратно ускоренный транспортный уровень) и перевода её дальнейшей разработки в проект Open Compute, нацеленный на совместное развитие открытых спецификаций оборудования для оснащения датацентров. Falcon преподносится как Ethernet следующего поколения, способный повысить пропускную способность и увеличить эффективность передачи данных в существующих стандартных сетях на базе Ethernet и TCP/IP, критичных к пропускной способности и задержкам, таких как сети для систем высокопроизводительных вычислений и искусственного интеллекта.</description>
+    </item>
+    
+    <item>
+      <title>Google переписал на языке Rust прошивку pvmfm, используемую в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</link>
+      <pubDate>Tue, 10 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</guid>
+      <description>В рамках работы по усилению безопасности критически важных программных компонентов платформы Android компания Google переписала на языке Rust прошивку pvmfm, используемую для организации работы виртуальных машин, запускаемых гипервизором pVM из состава Android Virtualization Framework. Ранее прошивка была написана на языке Си и реализована поверх загрузчика U-Boot, в коде которого ранее находили уязвимости, вызванные проблемами при работе с памятью.
+https://www.opennet.ru/opennews/art.shtml?num=59900</description>
+    </item>
+    
+    <item>
+      <title>Google продлил до 10 лет время поддержи устройств на базе ChromeOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-prodlil-do-10-let-vremya-podderzhi-ustroystv-na-baze-chromeos-20230915-153548/</link>
+      <pubDate>Fri, 15 Sep 2023 15:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-prodlil-do-10-let-vremya-podderzhi-ustroystv-na-baze-chromeos-20230915-153548/</guid>
+      <description>Компания Google сообщила о продлении до 10 лет времени сопровождения устройств Chromebook, в течение которого формируются автоматические обновления. Изначально автоматические обновления выпускались для Chromebook в течение трёх лет, но затем время поддержки было продлено до шести лет, а в 2020 году до восьми лет. В качестве причины продления поддержки называется желание продлить жизненный цикл оборудования в школах, применяющих Chromebook в компьютерных классах.
+https://www.opennet.ru/opennews/art.shtml?num=59761</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 116.0.3 с устранением зависаний при обращении к Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-116-0-3-s-ustraneniem-zavisaniy-pri-obraschenii-k-google-20230817-113508/</link>
+      <pubDate>Thu, 17 Aug 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-116-0-3-s-ustraneniem-zavisaniy-pri-obraschenii-k-google-20230817-113508/</guid>
+      <description>Доступен корректирующий выпуск Firefox 116.0.3, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=59618</description>
+    </item>
+    
+    <item>
+      <title>Google создаёт прецедент, подрывающий нахождение в общественном достоянии контента, сгенерированного ИИ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-sozdaet-precedent-podryvayuschiy-nahozhdenie-v-obschestvennom-dostoyanii-kontenta-s-20230811-093505/</link>
+      <pubDate>Fri, 11 Aug 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-sozdaet-precedent-podryvayuschiy-nahozhdenie-v-obschestvennom-dostoyanii-kontenta-s-20230811-093505/</guid>
+      <description>Google и Universal Music ведут переговоры об отчислениях &amp;ldquo;правообладателям&amp;rdquo; за контент, сгенерированный системами машинного обучения. Переговоры ведутся на фоне всплеска публикации фиктивных музыкальных композиций, сгенерированных ИИ и имитирующих известные мелодии или голоса исполнителей. Предполагается, что авторы таких имитаций смогут распространять их легально, выплачивая отчисления, аналогично тому, как выплачиваются отчисления за использование оригинальных композиций.
+https://www.opennet.ru/opennews/art.shtml?num=59581</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал отчёт о 0-day уязвимостях, выявленных в 2022 году  </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otchet-o-0-day-uyazvimostyah-vyyavlennyh-v-2022-godu-20230731-173508/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-otchet-o-0-day-uyazvimostyah-vyyavlennyh-v-2022-godu-20230731-173508/</guid>
+      <description>Компания Google опубликовала отчёт о 0-day уязвимостях, эксплоиты для которых появились раньше, чем были разработаны исправления для связанного с ними уязвимого ПО. За 2022 год командой Project Zero была выявлена 41 подобная уязвимость, что на 40% меньше, чем было найдено в 2021 году (69 0-day уязвимостей). Несмотря на заметное снижение числа 0-day уязвимостей по сравнению с 2021 годом, их число продолжает превышать средние показатели предыдущих 6 лет.
+https://www.opennet.ru/opennews/art.shtml?num=59524</description>
+    </item>
+    
+    <item>
+      <title>Google продвигает API Web Integrity, подрывающий открытый характер Web</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-prodvigaet-api-web-integrity-podryvayuschiy-otkrytyy-harakter-web-20230725-203506/</link>
+      <pubDate>Tue, 25 Jul 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-prodvigaet-api-web-integrity-podryvayuschiy-otkrytyy-harakter-web-20230725-203506/</guid>
+      <description>Компания Google опубликовала черновой вариант спецификации Web Environment Integrity и работает над включением её реализации в кодовую базу Chromium и движка Blink. API Web Environment Integrity позволяет владельцам сайтов удостовериться, что окружение клиента заслуживает доверия, в плане защиты пользовательских данных, соблюдения интеллектуальной собственности и взаимодействия с реальным человеком.
+https://www.opennet.ru/opennews/art.shtml?num=59495</description>
+    </item>
+    
+    <item>
+      <title>Google предложил Device Memory TCP для сетевой передачи данных между устройствами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</link>
+      <pubDate>Thu, 13 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</guid>
+      <description>Компания Google представила в списке разработчиков ядра Linux реализацию механизма Device memory TCP (devmem TCP), позволяющего напрямую по сети передавать данные из памяти одних устройств в память других устройств, без промежуточного копирования этих данных в буферы, размещённые в системной памяти хоста. Реализация пока находится на стадии RFC, т.е. выставлена для обсуждения и рецензирования сообществом, но не оформлена для передачи в основной состав ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59434</description>
+    </item>
+    
+    <item>
+      <title>Google отключил поддержку io_uring в ChromeOS и Android из-за плачевного состояния безопасности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</link>
+      <pubDate>Thu, 15 Jun 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</guid>
+      <description>Компания Google объявила об отключении по умолчанию интерфейса асинхронного ввода/вывода io_uring в ChromeOS, Android и на рабочих серверах. Дополнительно рассматривается возможность отключения io_uring по умолчанию в GKE AutoPilot (Google Kubernetes Engine). В качестве причины отключения называется плачевная ситуация с безопасностью в io_uring, которая перевешивает достоинства применения io_uring для повышения производительности.
+https://www.opennet.ru/opennews/art.shtml?num=59297</description>
+    </item>
+    
+    <item>
+      <title>Google прекратил поддержку приложений Dialer и Messaging в открытой кодовой базе Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-prekratil-podderzhku-prilozheniy-dialer-i-messaging-v-otkrytoy-kodovoy-baze-android-20230614-123505/</link>
+      <pubDate>Wed, 14 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-prekratil-podderzhku-prilozheniy-dialer-i-messaging-v-otkrytoy-kodovoy-baze-android-20230614-123505/</guid>
+      <description>Компания Google перевела в разряд устаревших приложения Dialer и Messaging, поставляемые в репозитории AOSP (Android Open Source Project), в котором развиваются открытые исходные тексты платформы Android. Объявлено, что в будущем данные приложения, предоставляющие интерфейс для осуществления звонков и работы с SMS, будут удалены из репозитория AOSP, что потребует при создании сборок на основе AOSP обязательного использования внешних приложений для реализации данной функциональности.
+https://www.opennet.ru/opennews/art.shtml?num=59292</description>
+    </item>
+    
+    <item>
+      <title>Google назвал обладателей премии Open Source Peer Bonus 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nazval-obladateley-premii-open-source-peer-bonus-2023-20230525-023505/</link>
+      <pubDate>Thu, 25 May 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nazval-obladateley-premii-open-source-peer-bonus-2023-20230525-023505/</guid>
+      <description>Компания Google объявила обладателей премии Open Source Peer Bonus, присуждаемой за вклад в развитие открытых проектов. Претендентов выдвигают сотрудники Google, но номинанты не должны быть связаны с данной компанией. Премия присуждается разработчикам, техническим писателям, дизайнерам, активистам сообщества, наставникам, экспертам по безопасности и другим людям, связанным с открытым ПО.
+https://www.opennet.ru/opennews/art.shtml?num=59192</description>
+    </item>
+    
+    <item>
+      <title>Google опубликовал результат аудита используемых пакетов на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-rezultat-audita-ispolzuemyh-paketov-na-yazyke-rust-20230524-023505/</link>
+      <pubDate>Wed, 24 May 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-rezultat-audita-ispolzuemyh-paketov-na-yazyke-rust-20230524-023505/</guid>
+      <description>Компания Google опубликовала результаты аудита 389 crate-пакетов, используемых в проектах ChromiumOS и Fuchsia, в которых допускается разработка на языке Rust. Для использования в своих проектах предоставлен файл для проверки зависимостей при помощи команды cargo vet на предмет соответствия требованиям к безопасности, корректности и тестированию.
+https://www.opennet.ru/opennews/art.shtml?num=59187</description>
+    </item>
+    
+    <item>
+      <title>Amazon и Google открыли код систем fuzzing-тестирования Snapchange и Buzzer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</link>
+      <pubDate>Mon, 15 May 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</guid>
+      <description>Компания Amazon открыла исходные тексты инструментария Snapchange с реализацией метода fuzzing-тестирования срезов памяти, позволяющего организовать проверку исполняемых файлов без их модификации и без наличия исходного кода приложения. Snapchange даёт возможность загрузить дамп физической памяти с производным исполняемым кодом и организовать при помощи гипервизора KVM циклическое выполнение присутствующего в дампе кода, перебирая различных комбинации входных данных, отслеживая возникающие сбои или аномалии и перезапуская проверку после очередной итерации, каждый раз сбрасывая срез памяти и регистров CPU в исходное состояние.</description>
+    </item>
+    
+  </channel>
+</rss>
