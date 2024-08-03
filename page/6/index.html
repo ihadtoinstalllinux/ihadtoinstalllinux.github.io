@@ -151,6 +151,42 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Выпуск системы инициализации SysVinit 3.10
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Представлен релиз классической системы инициализации SysVinit 3.10, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-07-29 21:35:54 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Выпуск системы инициализации SysVinit 3.10" href="https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-10-20240729-213554/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Релиз дистрибутива Vanilla OS 2, использующего контейнеры и атомарные обновления
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>После полутора лет разработки опубликован выпуск пользовательского дистрибутива Vanilla OS 2, основанного на пакетной базе Debian, но выходящего за рамки обычной пересборки. Системное окружение в Vanilla OS монтируется в режиме только для чтения и обновляется атомарно, а приложения запускаются в отдельных контейнерах, используя прослойку на базе инструментария Distrobox. В качестве пользовательского окружения предлагается немодифицированный GNOME, поставляемый в то виде, в каком он изначально выпускается разработчиками. Собственные графические конфигураторы написаны на GTK4 с использованием Libadwaita....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-07-29 14:35:59 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Релиз дистрибутива Vanilla OS 2, использующего контейнеры и атомарные обновления" href="https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-vanilla-os-2-ispolzuyuschego-konteynery-i-atomarnye-obnovleniya-20240729-143559/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Выпуск минималистичного web-браузера links 2.30
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Состоялся релиз минималистичного web-браузера links 2.30, поддерживающего работу как в консольном, так и в графическом режимах. При работе в консольном режиме возможно отображение цветов и управление мышью, если это поддерживается используемым терминалом (например, xterm). В графическом режиме поддерживается вывод изображений и сглаживание шрифтов. Во всех режимах обеспечено отображение таблиц и фреймов. Браузер поддерживает спецификацию HTML 4.0, но игнорирует CSS и JavaScript. Также имеется поддержка закладок, SSL/TLS, фоновых загрузок и управления через систему меню....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-07-29 13:35:05 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Выпуск минималистичного web-браузера links 2.30" href="https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-web-brauzera-links-2-30-20240729-133505/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>В подсистеме Linux VFS обнаружены проблемы, которые могут привести к повреждению данных и уязвимостям
     </h2>
   </header>
@@ -173,46 +209,6 @@
   </section>
   <footer class="entry-footer"><span title='2024-07-29 11:36:38 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to fHquBT8Oofl2iZkFq7qFq4Hx9QzzqGaLibDcHVAn15-whb6ls7aHhtZkybHxe2Bo9-NnSOnKYTbQIkIzaKnln04p.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20240729-113638/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Ошибка в LSM-модуле Landlock позволяла заново получить сброшенные привилегии
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Янн Хорн (Jann Horn) из команды Google Project Zero, в своё время выявивший уязвимости Spectre и Meltdown, нашёл логическую ошибку в реализации модуля безопасности Linux (LSM) Landlock, позволяющую программе получить обратно уже сброшенные привилегии, в случае наличии у программы доступа к системным вызовам fork() и keyctl().
-https://www.opennet.ru/opennews/art.shtml?num=61619</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-07-29 11:35:49 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Ошибка в LSM-модуле Landlock позволяла заново получить сброшенные привилегии" href="https://ihadtoinstalllinux.github.io/posts/oshibka-v-lsm-module-landlock-pozvolyala-zanovo-poluchit-sbroshennye-privilegii-20240729-113549/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск Wine 9.14 и Wine staging 9.14
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 9.14. С момента выпуска 9.13 было закрыто 20 отчётов об ошибках и внесено 205 изменений.
-https://www.opennet.ru/opennews/art.shtml?num=61622</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-07-29 10:35:34 +0500 +05'>July 29, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск Wine 9.14 и Wine staging 9.14" href="https://ihadtoinstalllinux.github.io/posts/vypusk-wine-9-14-i-wine-staging-9-14-20240729-103534/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-19.userapi.com/s/v1/ig2/MF2vGOrW5IaWA1H5ezSAM4oumD9_xp-qRDJWxis-MK1oW0akraUapmgOaqImEph40dlXIiLuCFKco0MvFIeonrFJ.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>MF2vGOrW5IaWA1H5ezSAM4oumD9_xp-qRDJWxis-MK1oW0akraUapmgOaqImEph40dlXIiLuCFKco0MvFIeonrFJ.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2024-07-28 23:36:09 +0500 +05'>July 28, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to MF2vGOrW5IaWA1H5ezSAM4oumD9_xp-qRDJWxis-MK1oW0akraUapmgOaqImEph40dlXIiLuCFKco0MvFIeonrFJ.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20240728-233609/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

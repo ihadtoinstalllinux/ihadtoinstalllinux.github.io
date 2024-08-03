@@ -6,7 +6,16 @@
     <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2024 22:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 09:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox тестируют автоматическую активацию режима картинка в картинке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-testiruyut-avtomaticheskuyu-aktivaciyu-rezhima-kartinka-v-kartinke-20240803-093603/</link>
+      <pubDate>Sat, 03 Aug 2024 09:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-testiruyut-avtomaticheskuyu-aktivaciyu-rezhima-kartinka-v-kartinke-20240803-093603/</guid>
+      <description>В ночные сборки Firefox, на основе которых 3 сентября будет сформирован релиз Firefox 130, добавлена экспериментальная возможность для автоматического продолжения просмотра видео в плавающем окне (режим &amp;ldquo;картинка в картинке&amp;rdquo;) в случае переключения с вкладки, на которой показывается видео. Иными словами, если во время просмотра видео переключиться на другую вкладку, то видео останется видимым поверх новой вкладки, благодаря автоматическому включению режима &amp;ldquo;картинка в картинке&amp;rdquo;. После возврата на исходную вкладку с видео, режим &amp;ldquo;картинка в картинке&amp;rdquo; автоматически отключается.</description>
+    </item>
+    
     <item>
       <title>Релиз Firefox 128</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-firefox-128-20240709-223600/</link>
