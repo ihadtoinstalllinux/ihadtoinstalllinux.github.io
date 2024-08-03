@@ -153,6 +153,31 @@
 </header>
 
 <article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Уязвимости в ядре Linux, позволяющие поднять свои привилегии через nf_tables и ksmbd
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE-2024-1086), позволяющая локальному пользователю выполнить код на уровне ядра и поднять свои привилегии в системе. Проблема вызвана двойным освобождением памяти (double-free) в модуле nf_tables, обеспечивающем работу пакетного фильтра nftables. Выявивший уязвимость исследователь безопасности разработал и опубликовал рабочий прототип эксплоита, применимый к ядрам Linux начиная с выпуска 3.15 и заканчивая 6.8-rc1.
+https://www.opennet.ru/opennews/art.shtml?num=60860</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-03-27 13:35:30 +0500 +05'>March 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимости в ядре Linux, позволяющие поднять свои привилегии через nf_tables и ksmbd" href="https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-pozvolyayuschie-podnyat-svoi-privilegii-cherez-nf-tables-i-ksmbd-20240327-133530/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Обновление ОС Qubes 4.2.1, использующей виртуализацию для изоляции приложений 
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Представлен выпуск операционной системы Qubes 4.2.1, реализующей идею использования гипервизора для строгой изоляции приложений и компонентов ОС (каждый класс приложений и системные сервисы работают в отдельных виртуальных машинах). Для работы рекомендуется система с 16 Гб ОЗУ (минимум - 6 Гб) и 64-разрядным CPU Intel или AMD с поддержкой технологий VT-x c EPT/AMD-v c RVI и VT-d/AMD IOMMU, желательно наличие GPU Intel (GPU NVIDIA и AMD недостаточно хорошо протестированы). Размер установочного образа - 6 ГБ (x86_64)....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-03-27 12:35:24 +0500 +05'>March 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Обновление ОС Qubes 4.2.1, использующей виртуализацию для изоляции приложений " href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-os-qubes-4-2-1-ispolzuyuschey-virtualizaciyu-dlya-izolyacii-prilozheniy-20240327-123524/"></a>
+</article>
+
+<article class="post-entry"> 
 <figure class="entry-cover"><img loading="lazy" src="https://sun9-77.userapi.com/125U2MeUGwuEQcXNu2YmzwB14UNoF49UzgoBiw/O7s5dJNm_gs.jpg" alt="">
 </figure>
   <header class="entry-header">
@@ -191,32 +216,6 @@ https://www.opennet.ru/opennews/art.shtml?num=60857</p>
   </section>
   <footer class="entry-footer"><span title='2024-03-27 10:36:30 +0500 +05'>March 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to DZKdRqvy40g.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20240327-103630/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-35.userapi.com/6YAgzCduaXoDMnbAOsMQJLkPJKNL5OnXbSWEyA/ceghtfE7_Bg.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>ceghtfE7_Bg.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2024-03-27 07:37:02 +0500 +05'>March 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to ceghtfE7_Bg.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20240327-073702/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Дистрибутив Fedora Linux 40 перешёл на стадию бета-тестирования 
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Началось тестирование бета-версии дистрибутива Fedora Linux 40. Бета-выпуск ознаменовал переход на финальную стадию тестирования, при которой допускается только исправление критических ошибок. Релиз запланирован на 23 апреля. Выпуск охватывает Fedora Workstation, Fedora Server, Fedora Silverblue, Fedora IoT, Fedora CoreOS, Fedora Cloud Base, Fedora Onyx и Live-сборки, поставляемые в форме спинов c пользовательскими окружениями K предложилиDE Plasma 5, Xfce, MATE, Cinnamon, LXDE, Phosh, LXQt, Budgie и Sway . Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64)....</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-03-27 02:35:16 +0500 +05'>March 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Дистрибутив Fedora Linux 40 перешёл на стадию бета-тестирования " href="https://ihadtoinstalllinux.github.io/posts/distributiv-fedora-linux-40-pereshel-na-stadiyu-beta-testirovaniya-20240327-023516/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
