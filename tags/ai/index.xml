@@ -6,7 +6,16 @@
     <description>Recent content in AI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2024 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 01:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DARPA развивает AI-транслятор для переписывания Си-кода на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/darpa-razvivaet-ai-translyator-dlya-perepisyvaniya-si-koda-na-rust-20240804-013548/</link>
+      <pubDate>Sun, 04 Aug 2024 01:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/darpa-razvivaet-ai-translyator-dlya-perepisyvaniya-si-koda-na-rust-20240804-013548/</guid>
+      <description>Управление перспективных исследовательских проектов Министерства обороны США (DARPA) представило проект TRACTOR (Translating All C to Rust), развивающего транслятор для автоматического преобразования проектов на языке Си в представление на языке Rust. Транслятор примечателен использованием методов машинного обучения для достижения уровня результирующего кода на Rust, близкого по стилю и качеству к коду, написанному опытным программистом, и использующего, когда это возможно, безопасные методы для работы с памятью без включения блоков и функций, помеченных ключевым словом &amp;ldquo;unsafe&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Рейтинг открытости генеративных AI-моделей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reyting-otkrytosti-generativnyh-ai-modeley-20240627-163518/</link>
