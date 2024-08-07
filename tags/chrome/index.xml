@@ -6,7 +6,17 @@
     <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2024 12:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 11:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Chrome 127.0.6533.99 с устранением критической уязвимости </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-chrome-127-0-6533-99-s-ustraneniem-kriticheskoy-uyazvimosti-20240807-113545/</link>
+      <pubDate>Wed, 07 Aug 2024 11:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-chrome-127-0-6533-99-s-ustraneniem-kriticheskoy-uyazvimosti-20240807-113545/</guid>
+      <description>Компания Google сформировала обновление Chrome 127.0.6533.99, в котором исправлено 6 уязвимостей, среди которых критическая уязвимость (CVE-2024-7532), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость вызвана выходом за границы буфера в прослойке ANGLE, отвечающей за трансляцию вызовов OpenGL ES в OpenGL, Direct3D 9/11, Desktop GL, Metal и Vulkan.
+https://www.opennet.ru/opennews/art.shtml?num=61668</description>
+    </item>
+    
     <item>
       <title>Google экспериментирует со встраиванием в Chrome большой языковой модели</title>
       <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-so-vstraivaniem-v-chrome-bolshoy-yazykovoy-modeli-20240806-123602/</link>
