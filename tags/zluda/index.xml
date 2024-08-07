@@ -6,7 +6,16 @@
     <description>Recent content in ZLUDA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2024 01:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zluda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 13:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zluda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Требования юристов AMD привели к удалению части кода ZLUDA, открытой реализации CUDA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</link>
+      <pubDate>Wed, 07 Aug 2024 13:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</guid>
+      <description>Анджей Яник (Andrzej Janik), известный своей работой по созданию реализаций технологии CUDA для GPU Intel и AMD, был вынужден по требованию компании AMD убрать из открытого доступа часть кода открытого проекта ZLUDA, позволяющего выполнять немодифицированные CUDA-приложения на системах с GPU AMD, используя стек ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Отдельно отмечается, что каких-либо связанных с проектом ZLUDA обращений от компании NVIDIA, которой принадлежит права на технологию CUDA, разработчику не поступало.</description>
+    </item>
+    
     <item>
       <title>Опубликован инструментарий ZLUDA, позволяющий запускать CUDA-приложения на GPU AMD</title>
       <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</link>
