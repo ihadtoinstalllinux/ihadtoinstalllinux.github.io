@@ -6,7 +6,17 @@
     <description>Recent content in COSMIC on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jan 2024 19:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 00:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый альфа-выпуск среды рабочего стола COSMIC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240809-003542/</link>
+      <pubDate>Fri, 09 Aug 2024 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240809-003542/</guid>
+      <description>После почти двух лет разработки компания компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, представила первый альфа-выпуск среды рабочего стола COSMIC, написанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Сформировано два iso-образа с COSMIC - для систем с GPU NVIDIA (3 ГБ) и Intel/AMD (2.6 ГБ), построенных на основе дистрибутива Pop!_OS 24.04. Также доступны готовые пакеты для Fedora, NixOS, Arch Linux и Serpent OS.
+https://www.opennet.ru/opennews/art.shtml?num=61674</description>
+    </item>
+    
     <item>
       <title>Разработка пользовательской оболочки COSMIC приближается к альфа-выпуску</title>
       <link>https://ihadtoinstalllinux.github.io/posts/razrabotka-polzovatelskoy-obolochki-cosmic-priblizhaetsya-k-alfa-vypusku-20240116-193527/</link>
