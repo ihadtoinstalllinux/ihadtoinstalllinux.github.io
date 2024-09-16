@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Asahi on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/asahi/</link>
+    <description>Recent content in Asahi on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 02:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/asahi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora одобрена поставка в пакете asahi-installer исполняемых файлов для macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</link>
+      <pubDate>Thu, 30 May 2024 02:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил предоставление исключения из правил, дающего возможность поставлять в составе пакета с инсталлятором asahi-installer исполняемого файла и библиотеки, собранных для платформы macOS. Исключение предоставлено по просьбе разработчиков редакции Fedora Asahi Remix, предназначенной для установки на компьютеры Mac, оснащённые ARM-чипами AppleSilicon.
+https://www.opennet.ru/opennews/art.shtml?num=61270</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Fedora Asahi Remix 40, дистрибутив для ARM-чипов Apple </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-40-distributiv-dlya-arm-chipov-apple-20240508-153524/</link>
+      <pubDate>Wed, 08 May 2024 15:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-40-distributiv-dlya-arm-chipov-apple-20240508-153524/</guid>
+      <description>Представлен дистрибутив Fedora Asahi Remix 40, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 40 базируется на пакетной базе Fedora Linux 40 и оснащён инсталлятором Calamares. Это второй выпуск, опубликованный после перехода проекта Asahi с Arch на Fedora, который помог команде Asahi Linux сфокусировать усилия на обратном инжиниринге оборудования, не расходуя ресурсы на поддержку дистрибутива, которым теперь занимается рабочая группа Fedora Asahi SIG.
+https://www.opennet.ru/opennews/art.shtml?num=61138</description>
+    </item>
+    
+    <item>
+      <title>В открытом драйвере Asahi сертифицирвоана поддержка OpenGL 4.6 для чипов Apple M1 и M2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</link>
+      <pubDate>Thu, 15 Feb 2024 19:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</guid>
+      <description>В Asahi, открытом драйвере для GPU Apple AGX, обеспечена поддержка OpenGL 4.6 и OpenGL ES 3.2 для чипов Apple M1 и M2. Примечательно, что в родных графических драйверах для чипов M1 от Apple реализована только спецификация OpenGL 4.1, а поддержка OpenGL 4.6 первой появилась в открытом драйвере. Готовые пакеты с драйверами уже включены в состав репозиториев Fedora и доступны для использования в специализированной сборке Fedora Asahi Remix 39, предназначенной для установки на системы с ARM-чипами Apple.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Fedora Asahi Remix 39, дистрибутив для ARM-чипов Apple</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-39-distributiv-dlya-arm-chipov-apple-20231220-023538/</link>
+      <pubDate>Wed, 20 Dec 2023 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-fedora-asahi-remix-39-distributiv-dlya-arm-chipov-apple-20231220-023538/</guid>
+      <description>Представлен дистрибутив Fedora Asahi Remix 39, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 39 базируется на пакетной базе Fedora Linux 39 и оснащён инсталлятором Calamares. Это первый выпуск, опубликованный после перехода проекта Asahi с Arch на Fedora. Разработкой Fedora Asahi Remix занимается группа Fedora Asahi SIG и переход поможет команде Asahi Linux сфокусировать усилия на обратном инжиниринге оборудования, не расходуя ресурсы на поддержку дистрибутива.</description>
+    </item>
+    
+    <item>
+      <title>Asahi Linux переходит на использование инсталлятора Calamares</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/asahi-linux-perehodit-na-ispolzovanie-installyatora-calamares-20230910-183505/</link>
+      <pubDate>Sun, 10 Sep 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/asahi-linux-perehodit-na-ispolzovanie-installyatora-calamares-20230910-183505/</guid>
+      <description>Гектор Мартин (Hector Martin), основатель проекта по портированию Linux для работы на компьютерах Mac, оснащённых ARM-чипами Apple M1 и M2, объявил о переводе редакций дистрибутива Asahi Linux, основанных на Fedora и Arch Linux, на использование инсталлятора Calamares, не зависящего от конкретных дистрибутивов Linux и применяющего библиотеку Qt для создания интерфейса пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59734</description>
+    </item>
+    
+    <item>
+      <title>Открытый драйвер Asahi для чипов Apple M1 и M2 сертифицирован на совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</link>
+      <pubDate>Wed, 23 Aug 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Asahi для GPU AGX, поставляемого в чипах Apple M1 и M2, со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Kronos Conformance Test Suite) и включён в список сертифицированных драйверов.
+https://www.opennet.ru/opennews/art.shtml?num=59648</description>
+    </item>
+    
+    <item>
+      <title>Проект Asahi переводит свой дистрибутив для ARM-чипов Apple на Fedora Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-asahi-perevodit-svoy-distributiv-dlya-arm-chipov-apple-na-fedora-linux-20230803-003542/</link>
+      <pubDate>Thu, 03 Aug 2023 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-asahi-perevodit-svoy-distributiv-dlya-arm-chipov-apple-na-fedora-linux-20230803-003542/</guid>
+      <description>Проект Asahi, нацеленный на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипами, разработанными компанией Apple, объявил о переходе на новую основу для своего дистрибутива. До сих пор тестовые выпуски Asahi Linux базировались на пакетной базе Arch Linux. До конца августа 2023 года проект планирует перейти с Arch Linux ARM на редакцию Fedora Linux - Fedora Asahi Remix, разработкой которой занимается группа Fedora Asahi SIG. Сборки и инсталлятор Fedora Asahi Remix уже доступны для тестирования.</description>
+    </item>
+    
+    <item>
+      <title>В Asahi Linux, дистрибутиве для ARM-чипов Apple, появилась поддержка   OpenGL 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-asahi-linux-distributive-dlya-arm-chipov-apple-poyavilas-podderzhka-opengl-3-1-20230607-113506/</link>
+      <pubDate>Wed, 07 Jun 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-asahi-linux-distributive-dlya-arm-chipov-apple-poyavilas-podderzhka-opengl-3-1-20230607-113506/</guid>
+      <description>Разработчики проекта Asahi, нацеленного на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипами, разработанными компанией Apple, подготовили июньское обновление дистрибутива (560 МБ и 3.5 ГБ) и опубликовали отчёт о реализации в дистрибутиве поддержки OpenGL 3.1. Asahi Linux базируется на пакетной базе Arch Linux, включает традиционный набор программ и поставляется с рабочим столом KDE Plasma. Дистрибутив построен с использованием штатных репозиториев Arch Linux, а все специфичные изменения, такие как ядро, инсталлятор, загрузчик, вспомогательные скрипты и настройки окружения, вынесены в отдельный репозиторий.</description>
+    </item>
+    
+  </channel>
+</rss>

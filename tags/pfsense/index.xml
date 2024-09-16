@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pfSense on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pfsense/</link>
+    <description>Recent content in pfSense on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 13:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pfsense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива для создания межсетевых экранов pfSense 2.7.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-pfsense-2-7-1-20231117-133553/</link>
+      <pubDate>Fri, 17 Nov 2023 13:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-pfsense-2-7-1-20231117-133553/</guid>
+      <description>Опубликован релиз компактного дистрибутива для создания межсетевых экранов и сетевых шлюзов pfSense 2.7.1. Дистрибутив основан на кодовой базе FreeBSD с задействованием наработок проекта m0n0wall и активным использованием pf и ALTQ. Для загрузки подготовлен iso-образ для архитектуры amd64, размером 570 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=60131</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива для создания межсетевых экранов pfSense 2.7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-pfsense-2-7-0-20230715-013505/</link>
+      <pubDate>Sat, 15 Jul 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-pfsense-2-7-0-20230715-013505/</guid>
+      <description>Опубликован релиз компактного дистрибутива для создания межсетевых экранов и сетевых шлюзов pfSense 2.7.0. Дистрибутив основан на кодовой базе FreeBSD с задействованием наработок проекта m0n0wall и активным использованием pf и ALTQ. Для загрузки подготовлен iso-образ для архитектуры amd64, размером 472 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=59442</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mayhem on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mayhem/</link>
+    <description>Recent content in Mayhem on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 22:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mayhem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</link>
+      <pubDate>Fri, 22 Dec 2023 22:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</guid>
+      <description>Исследователи из Вустерского политехнического института (США) представили новый тип атаки Mayhem, использующий метод искажения битов в динамической оперативной памяти Rowhammer для изменения значений переменных в стеке, применяемых в программе в качестве флагов для принятия решения об успешности аутентификации и прохождения проверок безопасности. Практические примеры применения атаки продемонстрированы для обхода аутентификации в SUDO, OpenSSH и MySQL, а также для изменения результата проверок, связанных с безопасностью, в библиотеке OpenSSL.
+https://www.opennet.ru/opennews/art.shtml?num=60334</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BackBox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/backbox/</link>
+    <description>Recent content in BackBox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 13:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/backbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск BackBox Linux 8.1, дистрибутива для тестирования безопасности </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-backbox-linux-8-1-distributiva-dlya-testirovaniya-bezopasnosti-20231110-133600/</link>
+      <pubDate>Fri, 10 Nov 2023 13:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-backbox-linux-8-1-distributiva-dlya-testirovaniya-bezopasnosti-20231110-133600/</guid>
+      <description>После года разработки опубликован релиз Linux-дистрибутива BackBox Linux 8.1, базирующегося на Ubuntu 22.04 и поставляемого с коллекцией инструментов для проверки безопасности системы, тестирования эксплоитов, обратного инжиниринга, анализа сетевого трафика и беспроводных сетей, изучения вредоносного ПО, стресс-тестирования, выявления скрытых или потерянных данных. Пользовательское окружение основано на Xfce. Размер iso-образа 4.2 ГБ (x86_64). В новой версии отмечается обновление окружения Xfce и ядра Linux (5.15), поставка новых версий инструментов для проверки безопасности и обновление ISO-образа, собранного в гибридном формате и адаптированного для загрузки на системах с UEFI.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>inetutils on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/inetutils/</link>
+    <description>Recent content in inetutils on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 12:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/inetutils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GNU inetutils 2.5 с устранением уязвимости в suid-приложениях</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-inetutils-2-5-s-ustraneniem-uyazvimosti-v-suid-prilozheniyah-20231230-123556/</link>
+      <pubDate>Sat, 30 Dec 2023 12:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-inetutils-2-5-s-ustraneniem-uyazvimosti-v-suid-prilozheniyah-20231230-123556/</guid>
+      <description>После 14 месяцев разработки сформирован релиз набора GNU inetutils 2.5 с коллекцией сетевых программ, большая часть которых перенесена из BSD-систем. В частности, в состав входят inetd и syslogd, серверы и клиенты для ftp, telnet, rsh, rlogin, tftp и talk, а также типовые утилиты, такие как ping, ping6, traceroute, whois, hostname, dnsdomainname, ifconfig, logger и т.п.
+https://www.opennet.ru/opennews/art.shtml?num=60366</description>
+    </item>
+    
+  </channel>
+</rss>

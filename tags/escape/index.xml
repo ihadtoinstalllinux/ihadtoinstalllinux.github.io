@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>escape on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/escape/</link>
+    <description>Recent content in escape on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 17:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/escape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость, позволяющая подставить escape-последовательности в чужие терминалы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-podstavit-escape-posledovatelnosti-v-chuzhie-terminaly-20240328-173529/</link>
+      <pubDate>Thu, 28 Mar 2024 17:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-podstavit-escape-posledovatelnosti-v-chuzhie-terminaly-20240328-173529/</guid>
+      <description>В утилите wall, поставляемой в пакете util-linux и предназначенной для отправки сообщений в терминалы, выявлена уязвимость (CVE-2024-28085), позволяющая осуществить атаку на терминалы других пользователей через манипуляцию с escape-последовательностями. Проблема вызвана тем, что утилита wall блокирует использование escape-последовательности во входном потоке, но не выполняет эту операцию для аргументов в командной строке, что позволяет атакующему.
+https://www.opennet.ru/opennews/art.shtml?num=60869</description>
+    </item>
+    
+  </channel>
+</rss>

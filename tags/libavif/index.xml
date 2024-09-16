@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libavif on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libavif/</link>
+    <description>Recent content in libavif on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 14:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libavif/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликованы libavif 1.0 и SVT-AV1 1.7, библиотеки для форматов изображений AVIF и видео AV1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-libavif-1-0-i-svt-av1-1-7-biblioteki-dlya-formatov-izobrazheniy-avif-i-video-20230831-143504/</link>
+      <pubDate>Thu, 31 Aug 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-libavif-1-0-i-svt-av1-1-7-biblioteki-dlya-formatov-izobrazheniy-avif-i-video-20230831-143504/</guid>
+      <description>Опубликован первый стабильный выпуск библиотеки libavif 1.0, предлагающей кодировщик и декодировщик для формата изображений AVIF (AV1 Image Format), в котором задействованы технологии внутрикадрового сжатия из формата кодирования видео AV1. Контейнер для распространения сжатых данных в AVIF полностью аналогичен HEIF. AVIF поддерживает как изображения в расширенном динамическом диапазоне (HDR, High Dynamic Range) и цветовом пространстве Wide-gamut, так и в стандартном динамическом диапазоне (SDR). В браузерах поддержка AVIF доступна начиная с выпусков Firefox 77 и Chrome 85.</description>
+    </item>
+    
+  </channel>
+</rss>

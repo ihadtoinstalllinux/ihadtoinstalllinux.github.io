@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bun on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bun/</link>
+    <description>Recent content in Bun on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Sep 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна серверная JavaScript-платформа Bun 1.0, более быстрая, чем Deno и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</link>
+      <pubDate>Mon, 11 Sep 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</guid>
+      <description>Представлен первый значительный выпуск платформы Bun, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript. Проект нацелен на использование в качестве прозрачной замены платформы Node.js, поддерживает используемые в Node.js механизмы работы с модулями и обработки зависимостей. Код проекта написан на языках Zig и С++, и распространяется под лицензией MIT. Для выполнения JavaScript задействован JavaScript-движок JavaScriptCore и компоненты проекта WebKit с дополнительными патчами.
+https://www.opennet.ru/opennews/art.shtml?num=59738</description>
+    </item>
+    
+  </channel>
+</rss>

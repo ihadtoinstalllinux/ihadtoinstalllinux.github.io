@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kubernetes on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 21:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deckhouse Kubernetes Platform подтвердила совместимость с РОСА Хром</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/deckhouse-kubernetes-platform-podtverdila-sovmestimost-s-rosa-hrom-20240827-213538/</link>
+      <pubDate>Tue, 27 Aug 2024 21:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/deckhouse-kubernetes-platform-podtverdila-sovmestimost-s-rosa-hrom-20240827-213538/</guid>
+      <description>Компания «Флант» и Научно-технический центр информационных технологий РОСА официально подтвердили технологическую совместимость Deckhouse Kubernetes Platform с операционной системой РОСА Хром. По итогам проведенных инженерами испытаний был получен соответствующий сертификат совместимости. Партнерство двух технологических компаний расширяет функционал программного обеспечения для корпоративных клиентов, построенного полностью на отечественном стеке. Совместимость Deckhouse Kubernetes Platform и ОС РОСА Хром позволяет […]
+https://rosa.ru/deckhouse-kubernetes-platform-podtverdila-sovmestimost-s-rosa-hrom/</description>
+    </item>
+    
+    <item>
+      <title>Релиз Cozystack 0.11, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-11-otkrytoy-paas-platformy-na-baze-kubernetes-20240813-203522/</link>
+      <pubDate>Tue, 13 Aug 2024 20:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-11-otkrytoy-paas-platformy-na-baze-kubernetes-20240813-203522/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.11.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61697</description>
+    </item>
+    
+    <item>
+      <title>Релиз Cozystack 0.8.0, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</link>
+      <pubDate>Thu, 04 Jul 2024 23:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.8.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61489</description>
+    </item>
+    
+    <item>
+      <title>Первый альфа-выпуск etcd-оператора для Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</link>
+      <pubDate>Sat, 23 Mar 2024 18:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</guid>
+      <description>Опубликована первая альфа-версия проекта etcd-operator, развивающего инструментарий для упрощения развёртывания распределённого хранилища etcd в окружении Kubernetes и управления кластерами etcd. Инструментарий может решать такие задачи, как развёртывание узлов, настройка, управление, масштабирование и восстановление в случае сбоев. Конфигурация задаётся в формате YAML. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60833</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</link>
+      <pubDate>Wed, 21 Feb 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</guid>
+      <description>Опубликован первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes. Проект позиционирует себя как готовую платформу для хостинг провайдеров и фреймворк для построения частных и публичных облаков. Платформа устанавливается напрямую на сервера и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять по требованию Kubernetes-кластера, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60637</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в runc, позволяющая выбраться из контейнеров Docker и Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-runc-pozvolyayuschaya-vybratsya-iz-konteynerov-docker-i-kubernetes-20240203-153601/</link>
+      <pubDate>Sat, 03 Feb 2024 15:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-runc-pozvolyayuschaya-vybratsya-iz-konteynerov-docker-i-kubernetes-20240203-153601/</guid>
+      <description>В инструментарии для запуска изолированных контейнеров runc, применяемом в Docker и Kubernetes, найдена уязвимость CVE-2024-21626, позволяющая получить доступ к файловой системе хост-окружения из изолированного контейнера. В ходе атаки злоумышленник может перезаписать некоторые исполняемые файлы в хост-окружения и таким образом добиться выполнения своего кода вне контейнера. В runtime LXC, crun и youki, так же использующих runc, проблема не проявляется. Уязвимость устранена в выпуске runc 1.1.12.
+https://www.opennet.ru/opennews/art.shtml?num=60545</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ingress-nginx, позволяющие скомпрометировать кластеры Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</link>
+      <pubDate>Mon, 06 Nov 2023 11:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</guid>
+      <description>В развиваемом проектом Kubernetes ingress-контроллере ingress-nginx выявлены три уязвимости, позволяющие в конфигурации по умолчанию получить доступ к настройкам объекта Ingress, в которых, среди прочего, хранятся и учётные данные для обращения к серверам Kubernetes, позволяющие получить привилегированный доступ к кластеру. Проблемы проявляются только в ingress-контроллере ingress-nginx от проекта Kubernetes и не затрагивает контроллер kubernetes-ingress, развиваемый разработчиками NGINX.
+https://www.opennet.ru/opennews/art.shtml?num=60055</description>
+    </item>
+    
+  </channel>
+</rss>

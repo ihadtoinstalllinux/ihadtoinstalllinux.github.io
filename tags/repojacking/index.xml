@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RepoJacking on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/repojacking/</link>
+    <description>Recent content in RepoJacking on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/repojacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Анализ подверженности репозиториев на GitHub атаке RepoJacking</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/analiz-podverzhennosti-repozitoriev-na-github-atake-repojacking-20230624-133506/</link>
+      <pubDate>Sat, 24 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/analiz-podverzhennosti-repozitoriev-na-github-atake-repojacking-20230624-133506/</guid>
+      <description>Исследователи из компании Aqua Security проанализировали применимость атаки RepoJacking к репозиториям на GitHub. Суть проблемы в том, что после удаления или переименования проектов на GitHub, в сторонних репозиториях могут остаться ссылки на уже несуществующие имена, например, в документации, скриптах и инструкциях по установке из README-файлов. Атакующий может зарегистрировать на GitHub имя пользователя, повторяющее ранее существовавшее имя, разместить в репозитории с повторяющимся именем вредоносное ПО и ожидать, что кто-то загрузит его, пользуясь неисправленными руководствами или старым кодом, загружающим зависимости по старым ссылкам.</description>
+    </item>
+    
+  </channel>
+</rss>

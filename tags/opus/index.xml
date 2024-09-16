@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opus on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opus/</link>
+    <description>Recent content in Opus on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен аудиокодек Opus 1.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-audiokodek-opus-1-5-20240305-163518/</link>
+      <pubDate>Tue, 05 Mar 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-audiokodek-opus-1-5-20240305-163518/</guid>
+      <description>После почти года разработки организация Xiph.Org, занимающаяся разработкой свободных видео- и аудиокодеков, представила релиз аудиокодека Opus 1.5, обеспечивающего высокое качество кодирования и минимальную задержку как при сжатии потокового звука с высоким битрейтом, так и при сжатии голоса в ограниченных по пропускной способности приложениях VoIP-телефонии. Эталонные реализации кодировщика и декодировщика распространяются под лицензией BSD. Полные спецификации формата Opus общедоступны, бесплатны и утверждены в качестве интернет-стандарта (RFC 6716).
+https://www.opennet.ru/opennews/art.shtml?num=60731</description>
+    </item>
+    
+    <item>
+      <title>Доступен аудиокодек Opus 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-audiokodek-opus-1-4-20230421-103505/</link>
+      <pubDate>Fri, 21 Apr 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-audiokodek-opus-1-4-20230421-103505/</guid>
+      <description>Организация Xiph.Org, занимающаяся разработкой свободных видео- и аудиокодеков, представила релиз аудиокодека Opus 1.4.0, обеспечивающего высокое качество кодирования и минимальную задержку как при сжатии потокового звука с высоким битрейтом, так и при сжатии голоса в ограниченных по пропускной способности приложениях VoIP-телефонии. Эталонные реализации кодировщика и декодировщика распространяются под лицензией BSD. Полные спецификации формата Opus общедоступны, бесплатны и утверждены в качестве интернет-стандарта (RFC 6716).
+https://www.opennet.ru/opennews/art.shtml?num=59009</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ivm on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ivm/</link>
+    <description>Recent content in ivm on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2023 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ivm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск pg_ivm 1.6, реализации инкрементального обновления представлений для PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pg-ivm-1-6-realizacii-inkrementalnogo-obnovleniya-predstavleniy-dlya-postgresql-20230905-143505/</link>
+      <pubDate>Tue, 05 Sep 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pg-ivm-1-6-realizacii-inkrementalnogo-obnovleniya-predstavleniy-dlya-postgresql-20230905-143505/</guid>
+      <description>Опубликован выпуск проекта pg_ivm 1.0, развивающего расширение с реализацией механизма инкрементального обновления представлений (IVM, Incremental View Maintenance) для СУБД PostgreSQL. Код написан на языке Си и распространяется пол лицензией PostgreSQL. Поддерживается работа с ветками PostgreSQL 13, 14 и 15. В новой версии в IVM добавлена поддержка выражения EXISTS и предоставлена возможность использования подзапросов, использующих EXISTS в блоке WHERE.
+https://www.opennet.ru/opennews/art.shtml?num=59716</description>
+    </item>
+    
+  </channel>
+</rss>

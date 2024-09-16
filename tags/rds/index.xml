@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rds on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rds/</link>
+    <description>Recent content in rds on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2024 13:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в реализации языка R, позволяющая выполнить код при обработке файлов rds и rdx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizacii-yazyka-r-pozvolyayuschaya-vypolnit-kod-pri-obrabotke-faylov-rds-i-20240430-133552/</link>
+      <pubDate>Tue, 30 Apr 2024 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizacii-yazyka-r-pozvolyayuschaya-vypolnit-kod-pri-obrabotke-faylov-rds-i-20240430-133552/</guid>
+      <description>В основной реализации языка программирования R, ориентированного на решение задач по статистической обработке, анализу и визуализации данных, выявлена критическая уязвимость (CVE-2024-27322), приводящая к выполнению кода при выполнении десериализации непроверенных данных. Уязвимость может быть эксплуатирована при обработке специально оформленных файлов в форматах RDS (R Data Serialization) и RDX, применяемых для обмена данными между приложениями. Проблема устранена в выпуске R 4.4.0. Проследить за выпуском обновлений пакетов в дистрибутивах можно на страницах Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD.</description>
+    </item>
+    
+  </channel>
+</rss>

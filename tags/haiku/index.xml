@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haiku on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/haiku/</link>
+    <description>Recent content in Haiku on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2024 12:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пятый бета-выпуск операционной системы Haiku R1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pyatyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20240914-123555/</link>
+      <pubDate>Sat, 14 Sep 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pyatyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20240914-123555/</guid>
+      <description>После полутора лет разработки опубликован пятый бета-выпуск операционной системы Haiku R1. Изначально проект был создан как реакция на закрытие ОС BeOS и развивался под именем OpenBeOS, но был переименован в 2004 году из-за претензий, связанных с использованием в названии торговой марки BeOS. Для оценки работы нового выпуска подготовлено несколько загрузочных Live-образов (x86, x86-64 1.4 ГБ). Исходные тексты большей части ОС Haiku распространяются под свободной лицензией MIT, исключение составляют некоторые библиотеки, медиа-кодеки и компоненты, заимствованные из других проектов.</description>
+    </item>
+    
+    <item>
+      <title>Firefox портирован для ОС Haiku</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/firefox-portirovan-dlya-os-haiku-20240811-183513/</link>
+      <pubDate>Sun, 11 Aug 2024 18:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/firefox-portirovan-dlya-os-haiku-20240811-183513/</guid>
+      <description>После более года разработки подготовлен первый рабочий порт браузера Firefox для открытой операционной системы Haiku, продолжающей развитие идей BeOS. Готовые установочные сборки пока не публикуются, для желающих использовать Firefox в Haiku предлагается выполнить сборку из исходных текстов. До сих пор в Haiku предлагались браузеры WebPositive, Epiphany и Falkon, использование которых создавало трудности из-за излишнего подозрительного отношения к ним некоторых сетей доставки контента и крупных сайтов.
+https://www.opennet.ru/opennews/art.shtml?num=61687</description>
+    </item>
+    
+  </channel>
+</rss>

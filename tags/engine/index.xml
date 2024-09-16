@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Engine on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/engine/</link>
+    <description>Recent content in Engine on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 10:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SurrealEngine - открытая реализация игрового движка Unreal Engine 1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/surrealengine-otkrytaya-realizaciya-igrovogo-dvizhka-unreal-engine-1-20240825-103510/</link>
+      <pubDate>Sun, 25 Aug 2024 10:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/surrealengine-otkrytaya-realizaciya-igrovogo-dvizhka-unreal-engine-1-20240825-103510/</guid>
+      <description>Проект SurrealEngine развивает открытую реализацию первых версий игрового движка Unreal Engine и нацелен на предоставление возможности запуска игрового процесса с использованием карт из оригинальной игры Unreal Tournament (UT99), выпущенной в 1999 году, не используя оригинальный проприетарный движок. Помимо Windows проектом поддерживается работа в Linux с использованием библиотек SDL2, waylandpp и libasound2. Проект написан на языке С++ и распространяется под открытой лицензией zlib.
+https://www.opennet.ru/opennews/art.shtml?num=61760</description>
+    </item>
+    
+    <item>
+      <title>Открыт исходный код игрового движка Dagor Engine</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-ishodnyy-kod-igrovogo-dvizhka-dagor-engine-20231029-123531/</link>
+      <pubDate>Sun, 29 Oct 2023 12:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-ishodnyy-kod-igrovogo-dvizhka-dagor-engine-20231029-123531/</guid>
+      <description>Компания Gaijin Entertainment открыла исходные тексты игрового движка Dagor Engine, который развивается уже более 20 лет и применялся для создания таких игр, как 3D-шутеры Enlisted , Crossout и CRSED: F.O.A.D., приключенческий боевик Blades of Time, авиасимулятор Apache: Air Assault и симулятор сражений War Thunder. В движке поддерживаются платформы Windows, Linux, macOS, Nintendo Switch, PlayStation 3-5, Xbox One, Xbox Series X/S, Android, tvOS и iOS. Из графических API поддерживается Vulkan, DX12, DX11 и Metal.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск игрового движка Open 3D Engine 23.10, открытого компанией Amazon </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-10-otkrytogo-kompaniey-amazon-20231016-013505/</link>
+      <pubDate>Mon, 16 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-10-otkrytogo-kompaniey-amazon-20231016-013505/</guid>
+      <description>Некоммерческая организация Open 3D Foundation (O3DF) представила выпуск открытого игрового 3D-движка Open 3D Engine 23.10 (O3DE), пригодного для разработки современных игр класса AAA и высокоточных симуляторов, способных работать в режиме реального времени и обеспечивать качество кинематографического уровня. Код написан на С++ и опубликован под лицензией Apache 2.0. Имеется поддержка платформ Linux, Windows, macOS, iOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=59935</description>
+    </item>
+    
+    <item>
+      <title>VK будет развивать свой открытый игровой движок под именем Nau Engine</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vk-budet-razvivat-svoy-otkrytyy-igrovoy-dvizhok-pod-imenem-nau-engine-20230523-003505/</link>
+      <pubDate>Tue, 23 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vk-budet-razvivat-svoy-otkrytyy-igrovoy-dvizhok-pod-imenem-nau-engine-20230523-003505/</guid>
+      <description>Компания VK объявила о присвоении имени Nau Engine проекту по разработке российского открытого игрового движка, создании сайта движка и начале приёма заявок на участие в тестировании. Первая бета-версия движка ожидается в 2024 году, после чего начнётся процесс доработки и адаптации платформы, а также создания серверных решений. Полноценный релиз запланирован на 2025 год.
+https://www.opennet.ru/opennews/art.shtml?num=59180</description>
+    </item>
+    
+    <item>
+      <title>Выпуск игрового движка Open 3D Engine 23.05, открытого компанией Amazon </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-05-otkrytogo-kompaniey-amazon-20230505-133505/</link>
+      <pubDate>Fri, 05 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-igrovogo-dvizhka-open-3d-engine-23-05-otkrytogo-kompaniey-amazon-20230505-133505/</guid>
+      <description>Некоммерческая организация Open 3D Foundation (O3DF) представила выпуск открытого игрового 3D-движка Open 3D Engine 23.05 (O3DE), пригодного для разработки современных игр класса AAA и высокоточных симуляторов, способных работать в режиме реального времени и обеспечивать качество кинематографического уровня. Код написан на С++ и опубликован под лицензией Apache 2.0. Имеется поддержка платформ Linux, Windows, macOS, iOS и Android.
+https://www.opennet.ru/opennews/art.shtml?num=59078</description>
+    </item>
+    
+  </channel>
+</rss>

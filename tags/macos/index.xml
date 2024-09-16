@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>macOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/macos/</link>
+    <description>Recent content in macOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 23:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обеспечена возможность сборки ядра Linux в окружении macOS с LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obespechena-vozmozhnost-sborki-yadra-linux-v-okruzhenii-macos-s-llvm-20240908-233529/</link>
+      <pubDate>Sun, 08 Sep 2024 23:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obespechena-vozmozhnost-sborki-yadra-linux-v-okruzhenii-macos-s-llvm-20240908-233529/</guid>
+      <description>В списке рассылки ядра Linux опубликован набор патчей с реализацией возможности сборки ядра Linux для архитектуры ARM64 в окружении macOS со штатным сборочным инструментарием на базе LLVM. Кроме изменения сборочных сценариев в ядре и включения дополнительных заголовочных файлов в несколько файлов с кодом, для сборки также требуется установка в macOS пакета со специфичными для Linux-окружения заголовочными файлами (byteswap.h, elf.h и endian.h).
+https://www.opennet.ru/opennews/art.shtml?num=61829</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра macOS 14.6 и компонентов на базе СПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-macos-14-6-i-komponentov-na-baze-spo-20240822-003513/</link>
+      <pubDate>Thu, 22 Aug 2024 00:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-macos-14-6-i-komponentov-na-baze-spo-20240822-003513/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 14.6 (Sonoma), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 172 пакета с исходными текстами.
+https://www.opennet.ru/opennews/art.shtml?num=61743</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра macOS 14.5 и компонентов на базе СПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-macos-14-5-i-komponentov-na-baze-spo-20240601-133512/</link>
+      <pubDate>Sat, 01 Jun 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-macos-14-5-i-komponentov-na-baze-spo-20240601-133512/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 14.5 (Sonoma), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 172 пакета с исходными текстами.
+https://www.opennet.ru/opennews/art.shtml?num=61287</description>
+    </item>
+    
+    <item>
+      <title>В Fedora одобрена поставка в пакете asahi-installer исполняемых файлов для macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</link>
+      <pubDate>Thu, 30 May 2024 02:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил предоставление исключения из правил, дающего возможность поставлять в составе пакета с инсталлятором asahi-installer исполняемого файла и библиотеки, собранных для платформы macOS. Исключение предоставлено по просьбе разработчиков редакции Fedora Asahi Remix, предназначенной для установки на компьютеры Mac, оснащённые ARM-чипами AppleSilicon.
+https://www.opennet.ru/opennews/art.shtml?num=61270</description>
+    </item>
+    
+    <item>
+      <title>Проект ravynOS развивает редакцию FreeBSD, нацеленную на совместимость c macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</link>
+      <pubDate>Tue, 28 May 2024 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</guid>
+      <description>После двух лет разработки опубликован выпуск проекта ravynOS 0.5, развивающего операционную систему на основе FreeBSD, нацеленную на достижение совместимости с приложениями для macOS и предоставление пользовательской оболочки в стиле macOS. Наработки проекта распространяются под лицензией BSD. Размер загрузочного iso-образа - 869 МБ (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=61254</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 14.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-4-20240402-093536/</link>
+      <pubDate>Tue, 02 Apr 2024 09:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-4-20240402-093536/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 14.4 (Sonoma), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 172 пакета с исходными текстами. По сравнению с веткой macOS 13 удалены пакеты gnudiff и libstdcxx.
+https://www.opennet.ru/opennews/art.shtml?num=60910</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17.1, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</link>
+      <pubDate>Fri, 08 Mar 2024 02:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17.1, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ. Отмечается, что прошлый выпуск Zorin OS 17 был загружен более 500 тысяч раз, при том, что 78% от всех загрузок пришлось на пользователей платформ Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 24.0 для Linux и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-24-0-dlya-linux-i-macos-20240223-023539/</link>
+      <pubDate>Fri, 23 Feb 2024 02:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-24-0-dlya-linux-i-macos-20240223-023539/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 24.0, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 24.0 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=60649</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 14.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-3-20240207-113558/</link>
+      <pubDate>Wed, 07 Feb 2024 11:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-3-20240207-113558/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 14.3 (Sonoma), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 172 пакета с исходными текстами. По сравнению с веткой macOS 13 удалены пакеты gnudiff и libstdcxx.
+https://www.opennet.ru/opennews/art.shtml?num=60563</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</link>
+      <pubDate>Thu, 21 Dec 2023 20:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60328</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 14.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-2-20231221-133559/</link>
+      <pubDate>Thu, 21 Dec 2023 13:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-14-2-20231221-133559/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 14.2 (Sonoma), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 172 пакета с исходными текстами. По сравнению с веткой macOS 13 удалены пакеты gnudiff и libstdcxx.
+https://www.opennet.ru/opennews/art.shtml?num=60324</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Bluetooth-стеках Linux, macOS, Android и iOS, допускающая подстановку нажатий клавиш</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</link>
+      <pubDate>Sat, 09 Dec 2023 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</guid>
+      <description>Марк Ньюлин (Marc Newlin), семь лет назад выявивший уязвимость MouseJack, раскрыл сведения о похожей уязвимости (CVE-2023-45866), затрагивающей Bluetooth-стеки Android, Linux, macOS и iOS, и позволяющей осуществить подстановку нажатий клавиш через симуляцию активности устройства ввода, подключённого через Bluetooth. Имея доступ к клавиатурному вводу атакующий может выполнить такие действия, как запуск команд в системе, установка приложений и перенаправление сообщений.
+https://www.opennet.ru/opennews/art.shtml?num=60260</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 23.5 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-5-dlya-linux-chrome-os-i-macos-20230928-123505/</link>
+      <pubDate>Thu, 28 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-5-dlya-linux-chrome-os-i-macos-20230928-123505/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 23.5, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 23.0 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=59837</description>
+    </item>
+    
+    <item>
+      <title>Релиз CrossOver 23.0 для Linux, Chrome OS и macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-0-dlya-linux-chrome-os-i-macos-20230816-223506/</link>
+      <pubDate>Wed, 16 Aug 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-crossover-23-0-dlya-linux-chrome-os-i-macos-20230816-223506/</guid>
+      <description>Компания CodeWeavers выпустила релиз пакета Crossover 23.0, основанного на коде Wine и предназначенного для выполнения программ и игр, написанных для платформы Windows. CodeWeavers входит в число ключевых участников проекта Wine, спонсирует его разработку и возвращает в проект все новшества, реализованные для своих коммерческих продуктов. Исходные тексты открытых компонентов CrossOver 23.0 можно загрузить на данной странице.
+https://www.opennet.ru/opennews/art.shtml?num=59616</description>
+    </item>
+    
+    <item>
+      <title>Компания Apple опубликовала код ядра и системных компонентов macOS 13.4 и 13.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-13-4-i-13-5-20230816-003504/</link>
+      <pubDate>Wed, 16 Aug 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-apple-opublikovala-kod-yadra-i-sistemnyh-komponentov-macos-13-4-i-13-5-20230816-003504/</guid>
+      <description>Компания Apple опубликовала исходные тексты низкоуровневых системных компонентов операционной системы macOS 13.4 и 13.5 (Ventura), в которых используется свободное программное обеспечение, включая составные части Darwin и прочие компоненты, программы и библиотеки, не связанные с GUI. Всего опубликовано 174 пакета с исходными текстами.
+https://www.opennet.ru/opennews/art.shtml?num=59603</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 16.3, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</link>
+      <pubDate>Thu, 27 Jul 2023 22:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.3, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме пакетов в формате deb и репозиториев Ubuntu по умолчанию включена поддержка форматов Flatpak, AppImage и Snap с возможностью установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+  </channel>
+</rss>

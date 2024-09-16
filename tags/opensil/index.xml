@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>openSIL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opensil/</link>
+    <description>Recent content in openSIL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 12:38:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opensil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMD опубликовал прототип openSIL, платформы для создания открытых прошивок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-prototip-opensil-platformy-dlya-sozdaniya-otkrytyh-proshivok-20230615-123849/</link>
+      <pubDate>Thu, 15 Jun 2023 12:38:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-prototip-opensil-platformy-dlya-sozdaniya-otkrytyh-proshivok-20230615-123849/</guid>
+      <description>Компания AMD опубликовала исходные тексты первого рабочего прототипа платформы openSIL (Open-Source Silicon Initialization Library), развивающей компоненты для упрощения создания прошивок. openSIL предполагает вынос кода для инициализации оборудования в отдельно сопровождаемые и тестируемые библиотеки, которые могут статически связываться с основными прошивками без задействования специфичных протоколов. Библиотеки написаны на языке Си и распространяются под лицензией MIT. Кроме AMD в проекте также принимают участие компании AMI, AWS, Google, Meta, 9elements, 3mdeb, Datacom и Oxide.</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD представила открытый проект openSIL для разработки прошивок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-predstavila-otkrytyy-proekt-opensil-dlya-razrabotki-proshivok-20230414-153509/</link>
+      <pubDate>Fri, 14 Apr 2023 15:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-predstavila-otkrytyy-proekt-opensil-dlya-razrabotki-proshivok-20230414-153509/</guid>
+      <description>В рамках проекта AMD openSIL (Open-Source Silicon Initialization Library) развивается набор открытых библиотек, содержащих компоненты для упрощения создания прошивок. Идея в выносе кода для инициализации оборудования в отдельные, независимо тестируемые и сопровождаемые, библиотеки openSIL, которые написаны на распространённом языке Си и могут статически связываться с основными прошивками без задействования специфичных протоколов.
+https://www.opennet.ru/opennews/art.shtml?num=58976</description>
+    </item>
+    
+  </channel>
+</rss>

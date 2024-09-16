@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/windows/</link>
+    <description>Recent content in Windows on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2024 21:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз StartWine-Launcher 406, программы для запуска Windows-приложений и игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-startwine-launcher-406-programmy-dlya-zapuska-windows-prilozheniy-i-igr-v-linux-20240911-213543/</link>
+      <pubDate>Wed, 11 Sep 2024 21:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-startwine-launcher-406-programmy-dlya-zapuska-windows-prilozheniy-i-igr-v-linux-20240911-213543/</guid>
+      <description>Опубликован выпуск приложения Startwine-Launcher 406, развиваемого для запуска в Linux-системах программ и игр, собранных для платформы Windows. Основной целью разработки StartWine-Launcher было упрощение процесса создания новичками префиксов Wine, - наборов библиотек и зависимостей Windows, необходимых для работы Windows-приложений в Linux. Из особенностей отмечаются контейнер на базе runimage, отсутствие необходимости установки системных зависимостей и дружелюбный графический интерфейс. Код StartWine-Launcher написан на языке Python и распространяется под лицензией GPLv3. Интерфейс реализован на основе библиотеки GTK.</description>
+    </item>
+    
+    <item>
+      <title>Сравнение производительности игр в Windows 11 и Fedora Linux 40</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sravnenie-proizvoditelnosti-igr-v-windows-11-i-fedora-linux-40-20240823-123558/</link>
+      <pubDate>Fri, 23 Aug 2024 12:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sravnenie-proizvoditelnosti-igr-v-windows-11-i-fedora-linux-40-20240823-123558/</guid>
+      <description>Издание Forbes опубликовало результаты оценки производительности работы компьютерных игр в Windows 11 Home и Fedora 40 cо штатным ядром Linux 6.10, драйверами и пакетом Proton из репозиториев дистрибутива. В обеих системах был включён режим управления энергопотреблением, ориентированный на достижение максимальной производительности. Целью эксперимента была проверка утверждений, что за последние несколько лет значительно улучшены возможности Linux как игровой платформы, благодаря изменениям, внесённым в ядро и графический стек, многие из которых были подготовлены работниками компаний Valve и Red Hat.</description>
+    </item>
+    
+    <item>
+      <title>Разбор сути SBAT и проблем с обновлением к Windows, повлиявшим на загрузку Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razbor-suti-sbat-i-problem-s-obnovleniem-k-windows-povliyavshim-na-zagruzku-linux-20240822-223600/</link>
+      <pubDate>Thu, 22 Aug 2024 22:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razbor-suti-sbat-i-problem-s-obnovleniem-k-windows-povliyavshim-na-zagruzku-linux-20240822-223600/</guid>
+      <description>Мэтью Гаррет (Matthew Garrett), известный разработчик ядра Linux, в своё время получивший от Фонда СПО премию за вклад в развитие свободного ПО, рассказал о сути механизма SBAT (Secure Boot Advanced Targeting), созданного для блокирования уязвимостей в загрузчике без отзыва цифровой подписи, а также о его роли в недавнем инциденте с обновлением для Windows, которое привело к прекращению загрузки Linux, установленных параллельно с Windows на системах с включённым UEFI Secure Boot. Ниже перевод заметки Гаррета.</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в обновлении к Windows блокировала загрузку Linux при использовании UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obnovlenii-k-windows-blokirovala-zagruzku-linux-pri-ispolzovanii-uefi-secure-boo-20240821-103548/</link>
+      <pubDate>Wed, 21 Aug 2024 10:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obnovlenii-k-windows-blokirovala-zagruzku-linux-pri-ispolzovanii-uefi-secure-boo-20240821-103548/</guid>
+      <description>В выпущенном во вторник компанией Microsoft обновлении к ОС Windows выявлена проблема, приводящая к невозможности загрузки Linux-систем, установленных на том же компьютере параллельно с Windows. Причиной проблем является исправление, нацеленное на устранение старой уязвимости (CVE-2022-2601) в загрузчике GRUB, исправленной в 2022 году. Компания Microsoft пока не опубликовала заявления, связанного с возникшим сбоем и никак его не прокомментировала.
+https://www.opennet.ru/opennews/art.shtml?num=61735</description>
+    </item>
+    
+    <item>
+      <title>Релиз StartWine-Launcher 404, программы для запуска Windows-приложений и игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-startwine-launcher-404-programmy-dlya-zapuska-windows-prilozheniy-i-igr-v-linux-20240718-013542/</link>
+      <pubDate>Thu, 18 Jul 2024 01:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-startwine-launcher-404-programmy-dlya-zapuska-windows-prilozheniy-i-igr-v-linux-20240718-013542/</guid>
+      <description>Проектом StartWine-Launcher подготовлено приложение, развиваемое для запуска в системах на базе Linux приложений и игр, собранных для платформы Windows. Основной целью разработки StartWine-Launcher было упрощение процесса создания новичками префиксов Wine, - наборов библиотек и зависимостей Windows, необходимых для работы Windows-приложений в Linux. Из особенностей отмечаются контейнер на базе runimage, отсутствие необходимости установки системных зависимостей и дружелюбный графический интерфейс. Код StartWine-Launcher написан на языке Python и распространяется под лицензией GPLv3. Интерфейс реализован на основе библиотеки GTK.</description>
+    </item>
+    
+    <item>
+      <title>Релиз ProteWine 1.0, инструмента для запуска Windows-приложений в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-protewine-1-0-instrumenta-dlya-zapuska-windows-prilozheniy-v-linux-20240716-183533/</link>
+      <pubDate>Tue, 16 Jul 2024 18:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-protewine-1-0-instrumenta-dlya-zapuska-windows-prilozheniy-v-linux-20240716-183533/</guid>
+      <description>Опубликован выпуск инструмента ProteWine 1.0, предназначенного для упрощения запуска Windows-приложений в окружениях на базе Linux, SteamDeck и других портативных консолей под управлением Linux. ProteWine представляет наглядный конфигуратор, позволяющий создавать порты Windows-игр для запуска в Linux с использованием пакетов Wine и Proton. Инструмент привязан к клиенту Steam, но использует из него только Steam Runtime 3 &amp;ldquo;Sniper&amp;rdquo;, как окружение для выполнения сторонних сборок Wine и Proton. Код написан на.
+https://www.opennet.ru/opennews/art.shtml?num=61555</description>
+    </item>
+    
+    <item>
+      <title>Проект ExectOS развивает открытую ОС, нацеленную на совместимость с приложениями Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</link>
+      <pubDate>Thu, 20 Jun 2024 17:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</guid>
+      <description>Проект ExectOS предпринял попытку создания с нуля новой операционной системы, оснащённой микроядром с архитектурой XT, созданной по мотивам ядра Windows NT. Компоненты ядра в ExectOS отделены от подсистемы, обеспечивающей работу драйверов устройств, что позволяет обновлять основное ядро без необходимости перекомпиляции драйверов для нового ядра. Код проекта написан на языке С и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61412</description>
+    </item>
+    
+    <item>
+      <title>РОСА Центр управления 1.2 поможет мигрировать с Windows на российские ОС</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rosa-centr-upravleniya-1-2-pomozhet-migrirovat-s-windows-na-rossiyskie-os-20240617-213518/</link>
+      <pubDate>Mon, 17 Jun 2024 21:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rosa-centr-upravleniya-1-2-pomozhet-migrirovat-s-windows-na-rossiyskie-os-20240617-213518/</guid>
+      <description>Свежий релиз позволяет в 20 и более раз ускорить миграцию на отечественные операционные системы Ведущий российский разработчик ИТ-экосистем компания РОСА представляет новую версию платформы для управления ИТ-инфраструктурой РОСА Центр управления 1.2. В свежем релизе добавлена возможность проводить автоматизированную миграцию рабочих мест пользователей с операционной системы Windows на российские альтернативы. Речь о Linux-подобных операционных системах — […]
+https://rosa.ru/rosa-czentr-upravleniya-1-2-pomozhet-migrirovat-s-windows-na-rossijskie-os/</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0-2, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-2-paket-dlya-zapuska-windows-igr-v-linux-20240613-023542/</link>
+      <pubDate>Thu, 13 Jun 2024 02:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-2-paket-dlya-zapuska-windows-igr-v-linux-20240613-023542/</guid>
+      <description>Компания Valve опубликовала новую версию проекта Proton 9.0-2, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61360</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Winlator 7.0, окружения для запуска Windows-приложений в Android </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-7-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20240611-103515/</link>
+      <pubDate>Tue, 11 Jun 2024 10:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-7-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20240611-103515/</guid>
+      <description>Опубликован выпуск Android-приложения Winlator 7.0, предоставляющего обвязку над Wine и эмуляторами Box86/Box64 для выполнения Windows-приложений на платформе Android. Winlator разворачивает Linux-окружение на базе Ubuntu с Mesa, DXVK, D8VK, Vkd3d и CNC DDraw, в котором при помощи эмулятора и Wine на ARM-устройствах с Android выполняются Windows-приложения, собранные для архитектуры x86. Код проекта распространяется под лицензией MIT. Размер APK-пакета 251 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=61347</description>
+    </item>
+    
+    <item>
+      <title>Microsoft развивает GUI для настройки WSL, прослойки для запуска Linux-приложений в Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</link>
+      <pubDate>Thu, 30 May 2024 23:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</guid>
+      <description>Компания Microsoft объявила о разработке графического конфигуратора для WSL (Windows Subsystem for Linux), прослойки для запуска Linux-приложений в Windows. Конфигуратор упростит настройку WSL под свои потребности и позволит управлять и просматривать различные параметраы WSL без необходимости ручного редактирования файла &amp;ldquo;.wslconfig&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61278</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Proton-GE 9-5, пакета для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proton-ge-9-5-paketa-dlya-zapuska-windows-igr-v-linux-20240512-123604/</link>
+      <pubDate>Sun, 12 May 2024 12:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proton-ge-9-5-paketa-dlya-zapuska-windows-igr-v-linux-20240512-123604/</guid>
+      <description>Опубликован выпуск проекта GE-Proton 9-5, в рамках которого энтузиастами формируются независимые от компании Valve расширенные сборки пакета для запуска Windows-приложений Proton, отличающиеся более свежей версией Wine, задействованием FFmpeg в FAudio и включением дополнительных патчей, решающих проблемы в различных игровых приложениях.
+https://www.opennet.ru/opennews/art.shtml?num=61155</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-paket-dlya-zapuska-windows-igr-v-linux-20240502-233525/</link>
+      <pubDate>Thu, 02 May 2024 23:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-paket-dlya-zapuska-windows-igr-v-linux-20240502-233525/</guid>
+      <description>Компания Valve опубликовала стабильный релиз проекта Proton 9.0, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61105</description>
+    </item>
+    
+    <item>
+      <title>В Arch Linux улучшили совместимость c Windows-играми, запускаемыми в Wine и Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</link>
+      <pubDate>Thu, 11 Apr 2024 02:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</guid>
+      <description>Разработчики Arch Linux объявили о внесении изменения, нацеленного на улучшение совместимости c Windows-играми, запускаемыми через Wine или Steam (используется Proton). По аналогии с изменением в выпуске Fedora 39, параметр sysctl vm.max_map_count, определяющий максимально доступное процессу число областей маппинга памяти, по умолчанию увеличен с 65530 до 1048576. Изменение включено в состав пакета filesystem 2024.04.07-1.
+https://www.opennet.ru/opennews/art.shtml?num=60950</description>
+    </item>
+    
+    <item>
+      <title>ИТ-продукт Росатома поможет мигрировать с Windows на отечественную операционную систему РОСА Хром</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/it-produkt-rosatoma-pomozhet-migrirovat-s-windows-na-otechestvennuyu-operacionnuyu-sistemu-20240329-213547/</link>
+      <pubDate>Fri, 29 Mar 2024 21:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/it-produkt-rosatoma-pomozhet-migrirovat-s-windows-na-otechestvennuyu-operacionnuyu-sistemu-20240329-213547/</guid>
+      <description>АО «Гринатом Простые Решения» (подразделение компании «Гринатом», ИТ-интегратора Госкорпорации «Росатом») и ведущий российский разработчик системного и инфраструктурного ПО НТЦ ИТ РОСА заключили соглашение о стратегическом сотрудничестве. В рамках партнерства компании будут совместно развивать и внедрять комплексную систему для перехода на отечественное программное обеспечение. Она позволит решать различные задачи для корпоративных пользователей от миграции с Windows на отечественную […]
+https://rosa.ru/it-produkt-rosatoma-pomozhet-migrirovat-s-windowsna-otechestvennuyu-operaczionnuyu-sistemu-rosa-hrom/</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17.1, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</link>
+      <pubDate>Fri, 08 Mar 2024 02:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-1-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20240308-023523/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17.1, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ. Отмечается, что прошлый выпуск Zorin OS 17 был загружен более 500 тысяч раз, при том, что 78% от всех загрузок пришлось на пользователей платформ Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft прекращает поддержку прослойки WSA для запуска Android-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</link>
+      <pubDate>Wed, 06 Mar 2024 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</guid>
+      <description>Компания Microsoft опубликовала предупреждение о прекращении поддержи прослойки WSA (Windows Subsystem for Android), обеспечивающей запуск в Windows 11 мобильных приложений и игр, созданных для платформы Android. Android-приложения, установленные до 5 марта 2024 года, продолжат работать ещё год, после чего поддержка подсистемы будет полностью прекращена. 5 марта 2025 года также будет прекращена поддержка каталога приложений Amazon Appstore для Windows.
+https://www.opennet.ru/opennews/art.shtml?num=60735</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал собственную реализацию утилиты sudo для Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</link>
+      <pubDate>Fri, 09 Feb 2024 15:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</guid>
+      <description>Компания Microsoft представила собственную реализацию утилиты sudo, предназначенную для организации выборочного выполнения команд в терминале с правами администратора. Утилита включена в тестовые сборки Windows 11 Insider Preview Build 26052 (активируется в секции настроек &amp;ldquo;Developer Features&amp;rdquo;), войдёт в состав следующего обновления Windows 11 и в будущем возможно будет портирована для Windows 10. Код утилиты планируют открыть под лицензией MIT (в настоящий момент доступен только каркас репозитория и обвязка на PowerShell).
+https://www.opennet.ru/opennews/art.shtml?num=60581</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cygwin 3.5.0, GNU-окружения для Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</link>
+      <pubDate>Thu, 01 Feb 2024 19:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</guid>
+      <description>Компания Red Hat опубликовала стабильный релиз пакета Cygwin 3.5.0, включающего DLL-библиотеку для эмуляции базового Linux API в Windows, позволяющую с минимальными изменениями собирать созданные для Linux программы. В пакет также входят непосредственно собранные для выполнения в Windows стандартные Unix-утилиты, серверные приложения, компиляторы, библиотеки и заголовочные файлы.
+https://www.opennet.ru/opennews/art.shtml?num=60535</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-5, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-5-paket-dlya-zapuska-windows-igr-v-linux-20240123-113628/</link>
+      <pubDate>Tue, 23 Jan 2024 11:36:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-5-paket-dlya-zapuska-windows-igr-v-linux-20240123-113628/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-5, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60480</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Hangover 9.0, пакета для запуска Windows-приложений на системах ARM64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</link>
+      <pubDate>Fri, 19 Jan 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</guid>
+      <description>Опубликована новая ветка проекта Hangover, позволяющего запускать 32-разрядные Windows-приложения, собранные для архитектур x86 (i386) и ARM32, в окружениях на базе архитектуры ARM64 (Aarch64). В разработке находится реализация варианта Hangover для архитектуры RISC-V. Выпуск основан на кодовой базе Wine 9.0, что отражено в номере версии. Наработки проекта распространяются под лицензией LGPL-2.1.
+https://www.opennet.ru/opennews/art.shtml?num=60462</description>
+    </item>
+    
+    <item>
+      <title>Windows вне игры: разработчик «Базальт СПО» создал приложение для запуска популярных видеоигр на операционных системах Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/windows-vne-igry-razrabotchik-bazalt-spo-sozdal-prilozhenie-dlya-zapuska-populyarnyh-video-20240115-213656/</link>
+      <pubDate>Mon, 15 Jan 2024 21:36:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/windows-vne-igry-razrabotchik-bazalt-spo-sozdal-prilozhenie-dlya-zapuska-populyarnyh-video-20240115-213656/</guid>
+      <description>Большинство популярных видеоигр, созданных для Windows, легко и удобно запускать на компьютерах с операционными системами «Альт». Это возможно благодаря приложению PortProton, которое разработал и успешно развивает программист «Базальт СПО».
+https://www.basealt.ru/about/news/archive/view/windows-vne-igry-razrabotchik-bazalt-spo-sozdal-prilozhenie-dlja-zapuska-populjarnykh-videoigr-na-operacionnykh-sistemakh-linux</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 17, дистрибутива для пользователей, привыкших к Windows или macOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</link>
+      <pubDate>Thu, 21 Dec 2023 20:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-17-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20231221-203543/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 17, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.5 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60328</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-4, пакет для запуска Windows-игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-4-paket-dlya-zapuska-windows-igr-v-linux-20231006-123505/</link>
+      <pubDate>Fri, 06 Oct 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-4-paket-dlya-zapuska-windows-igr-v-linux-20231006-123505/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-4, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59880</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал WSL 2.0.0, прослойку для запуска Linux-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</link>
+      <pubDate>Wed, 20 Sep 2023 03:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</guid>
+      <description>Компания Microsoft представила выпуск прослойки для запуска Linux-приложений в Windows - WSL 2.0.0 (Windows Subsystem for Linux). Для обеспечения запуска исполняемых файлов Linux в WSL предоставляется окружение с полноценным ядром Linux, основанном на выпуске ядра Linux 5.15, который расширен специфичными для WSL патчами, включающими оптимизации для сокращения времени запуска ядра, уменьшения потребления памяти, возвращения Windows освобождённой Linux-процессами памяти, оставления в ядре минимально необходимого набора драйверов и подсистем.
+https://www.opennet.ru/opennews/art.shtml?num=59784</description>
+    </item>
+    
+    <item>
+      <title>Чиновникам и предпринимателям Свердловской области рассказали о замене Windows на ОС РОСА</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chinovnikam-i-predprinimatelyam-sverdlovskoy-oblasti-rasskazali-o-zamene-windows-na-os-ros-20230908-213519/</link>
+      <pubDate>Fri, 08 Sep 2023 21:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chinovnikam-i-predprinimatelyam-sverdlovskoy-oblasti-rasskazali-o-zamene-windows-na-os-ros-20230908-213519/</guid>
+      <description>Российские предприниматели и чиновники могут легко заменить использование операционной системы Windows на российские ОС РОСА. С таким обращением 5 сентября на закрытой ИТ-конференции «Отечественный софт: путь к технологическому лидерству» в Екатеринбурге выступили представители компании НТЦ ИТ РОСА, российского разработчика системного и инфраструктурного ПО. Мероприятие проходило при поддержке Правительства Свердловской области и Клуба цифровых директоров. Главной […]
+https://www.rosalinux.ru/chinovnikam-i-predprinimatelyam-sverdlovskoj-oblasti-rasskazali-o-zamene-windows-na-os-rosa/</description>
+    </item>
+    
+    <item>
+      <title>Как перейти с Windows на российские ОС безопасно и экономно? Замена Active Directory от «Базальт СПО»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kak-pereyti-s-windows-na-rossiyskie-os-bezopasno-i-ekonomno-zamena-active-directory-ot-baz-20230812-093537/</link>
+      <pubDate>Sat, 12 Aug 2023 09:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kak-pereyti-s-windows-na-rossiyskie-os-bezopasno-i-ekonomno-zamena-active-directory-ot-baz-20230812-093537/</guid>
+      <description>Разработчики ОС «Альт» создали решение для управления ИТ-инфраструктурой с операционными системами Windows и «Альт» из единого центра на основе единых групповых политик. Решение включено в каждый комплект поставки ОС и позволяет избежать двойных затрат на поддержку ИТ-инфраструктуры в переходный период.
+https://www.basealt.ru/about/news/archive/view/kak-pereiti-s-windows-na-rossiiskie-os-bezopasno-i-ehkonomno-zamena-active-directory-ot-bazalt-spo</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Zorin OS 16.3, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</link>
+      <pubDate>Thu, 27 Jul 2023 22:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zorin-os-16-3-distributiva-dlya-polzovateley-privykshih-k-windows-ili-macos-20230727-223512/</guid>
+      <description>Представлен релиз Linux-дистрибутива Zorin OS 16.3, основанного на пакетной базе Ubuntu 20.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Для интеграции рабочего стола со смартфоном поставляется приложение Zorin Connect (на базе KDE Connect). Кроме пакетов в формате deb и репозиториев Ubuntu по умолчанию включена поддержка форматов Flatpak, AppImage и Snap с возможностью установки программ из каталогов Flathub и Snap Store.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.13 и пакета для запуска Windows-игр Proton 8.0-3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-13-i-paketa-dlya-zapuska-windows-igr-proton-8-0-3-20230722-103542/</link>
+      <pubDate>Sat, 22 Jul 2023 10:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-13-i-paketa-dlya-zapuska-windows-igr-proton-8-0-3-20230722-103542/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.13. С момента выпуска версии 8.12 было закрыто 36 отчётов об ошибках и внесено 290 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=59478</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» и «Киберпротект» обеспечат бесшовный переход ИТ-инфраструктуры с ОС Windows на ОС «Альт»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-i-kiberprotekt-obespechat-besshovnyy-perehod-it-infrastruktury-s-os-windows-na-20230608-213616/</link>
+      <pubDate>Thu, 08 Jun 2023 21:36:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-i-kiberprotekt-obespechat-besshovnyy-perehod-it-infrastruktury-s-os-windows-na-20230608-213616/</guid>
+      <description>Весной этого года в рамках саммита Softline Deep Dive, который проходил 10-13 апреля в Казани, разработчик российских ОС «Альт» «Базальт СПО» и разработчик ПО для защиты данных, резервного копирования и восстановления виртуальных, физических и облачных сред «Киберпротект» подписали соглашение о стратегическом партнерстве.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-i-kiberprotekt-obespechat-besshovnyi-perekhod-it-infrastruktury-s-os-windows-na-os-alt</description>
+    </item>
+    
+    <item>
+      <title>Групповые политики в Linux как в Windows — с «Базальт СПО» это возможно!</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gruppovye-politiki-v-linux-kak-v-windows-s-bazalt-spo-eto-vozmozhno-20230530-213628/</link>
+      <pubDate>Tue, 30 May 2023 21:36:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gruppovye-politiki-v-linux-kak-v-windows-s-bazalt-spo-eto-vozmozhno-20230530-213628/</guid>
+      <description>«Базальт СПО» успешно завершила проект, реализованный при грантовой поддержке РФРИТ на разработку аналога групповых политик Microsoft AD для компьютеров и пользователей ОС «Альт».
+https://www.basealt.ru/about/news/archive/view/gruppovye-politiki-v-linux-kak-v-windows-s-bazalt-spo-ehto-vozmozhno</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-2, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-2-paket-dlya-zapuska-windows-igr-v-linux-20230503-013505/</link>
+      <pubDate>Wed, 03 May 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-2-paket-dlya-zapuska-windows-igr-v-linux-20230503-013505/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-2, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59066</description>
+    </item>
+    
+    <item>
+      <title>Компания Microsoft добавит код на Rust в ядро Windows 11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</link>
+      <pubDate>Fri, 28 Apr 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</guid>
+      <description>Дэвид Вестон, вице-президент Microsoft, отвечающий за безопасность операционной системы Windows, в своём докладе на конференции BlueHat IL 2023 поделился информацией о развитии механизмов защиты Windows. Среди прочего упомянут прогресс в задействовании языка Rust для повышения безопасности ядра Windows. Более того, заявлено, что написанный Rust код будет добавлен ядро Windows 11 возможно уже через несколько месяцев или даже недель.
+https://www.opennet.ru/opennews/art.shtml?num=59044</description>
+    </item>
+    
+    <item>
+      <title>Продемонстрирована возможность загрузки Windows из раздела с Btrfs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</link>
+      <pubDate>Sat, 22 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</guid>
+      <description>Энтузиасты продемонстрировали возможность загрузки Windows 10 из раздела с файловой системой Btrfs. Поддержка Btrfs была обеспечена через открытый драйвер WinBtrfs, возможностей которого оказалось достаточно чтобы полностью заменить NTFS. Для загрузки Windows напрямую с Btrfs-раздела был использован открытый загрузчик Quibble.
+https://www.opennet.ru/opennews/art.shtml?num=59014</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-paket-dlya-zapuska-windows-igr-v-linux-20230418-023504/</link>
+      <pubDate>Tue, 18 Apr 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-paket-dlya-zapuska-windows-igr-v-linux-20230418-023504/</guid>
+      <description>Компания Valve опубликовала выпуск проекта Proton 8.0, который основан на кодовой базе проекта Wine и нацелен на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=58990</description>
+    </item>
+    
+  </channel>
+</rss>

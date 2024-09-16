@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slax on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/slax/</link>
+    <description>Recent content in Slax on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/slax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новые версии дистрибутива Slax 15.0.2 и 12.1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-distributiva-slax-15-0-2-i-12-1-0-20231006-023505/</link>
+      <pubDate>Fri, 06 Oct 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-distributiva-slax-15-0-2-i-12-1-0-20231006-023505/</guid>
+      <description>Опубликованы новые версии компактного Live-дистрибутива Slax - 15.0.2 на основе наработок проекта Slackware и 12.1.0 на базе Debian (в 2018 году дистрибутив был переведён на пакетную базу Debian, но в выпуске Slax 15 проект вернулся обратно на использование Slackware). Графическое окружение в Slax построено на основе оконного менеджера FluxBox и рабочего стола/интерфейса запуска программ xLunch, специально разработанного участниками проекта. Загрузочный образ версии 15.0.2 занимает 255 МБ (x86_64, i386), а версии 12.</description>
+    </item>
+    
+  </channel>
+</rss>

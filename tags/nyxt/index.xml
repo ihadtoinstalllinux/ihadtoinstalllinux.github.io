@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nyxt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nyxt/</link>
+    <description>Recent content in Nyxt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nyxt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск web-браузера Nyxt 3.0.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-nyxt-3-0-0-20230520-133506/</link>
+      <pubDate>Sat, 20 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-nyxt-3-0-0-20230520-133506/</guid>
+      <description>После двух лет разработки опубликован выпуск web-браузера Nyxt 3.0.0, предоставляющего обширные возможности по настройке и изменению поведения любых аспектов работы. Концептуально Nyxt напоминает Emacs и Vim, и вместо готового набора настроек даёт возможность менять саму логику работы, используя язык Lisp. Пользователь может переопределить или перенастроить любые классы, методы, переменные и функции. Код проекта написан на языке Lisp и распространяется под лицензией BSD. Интерфейс может быть собран с GTK или Qt. Готовые сборки сформированыДля повышения эффективности рабочего процесса браузер оптимизирован для управления с клавиатуры и поддерживает типовые клавиатурные комбинации Emacs, vi и CUA.</description>
+    </item>
+    
+  </channel>
+</rss>

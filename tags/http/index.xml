@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTTP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/http/</link>
+    <description>Recent content in HTTP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 01:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновления nginx 1.26.2 и 1.27.1 с устранением DoS-уязвимости в ngx_http_mp4_module</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovleniya-nginx-1-26-2-i-1-27-1-s-ustraneniem-dos-uyazvimosti-v-ngx-http-mp4-module-20240815-013530/</link>
+      <pubDate>Thu, 15 Aug 2024 01:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovleniya-nginx-1-26-2-i-1-27-1-s-ustraneniem-dos-uyazvimosti-v-ngx-http-mp4-module-20240815-013530/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.27.1, в рамках которой продолжается развитие новых возможностей, а также выпуск параллельно поддерживаемой стабильной ветки nginx 1.22.1, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В обновлениях устранена уязвимость (CVE-2024-7347) в модуле ngx_http_mp4_module, приводящая к аварийному завершению рабочего процесса при обработке специально оформленного файла в формате MP4. Проблема проявляется начиная с выпуска 1.5.13 при сборке nginx с модулем ngx_http_mp4_module (не собирается по умолчанию) и использовании в настройках директивы mp4.</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.62 с устранением 2 уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-62-s-ustraneniem-2-uyazvimostey-20240720-164228/</link>
+      <pubDate>Sat, 20 Jul 2024 16:42:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-62-s-ustraneniem-2-uyazvimostey-20240720-164228/</guid>
+      <description>Доступен релиз HTTP-сервера Apache 2.4.62, в котором устранены две уязвимости и внесено 6 изменений. Первая уязвимость (CVE-2024-40898) позволяет совершить атаку SSRF (Server-side request forgery) на mod_rewrite. Проблема проявляется только на платформе Windows и при отправке специально оформленных запросов может привести к утечке NTML-хэшей на сервер, подконтрольный атакующим.
+https://www.opennet.ru/opennews/art.shtml?num=61585</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.61 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-61-s-ustraneniem-uyazvimostey-20240704-013525/</link>
+      <pubDate>Thu, 04 Jul 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-61-s-ustraneniem-uyazvimostey-20240704-013525/</guid>
+      <description>Доступен релиз HTTP-сервера Apache 2.4.61, который опубликован почти сразу после выпуска 2.4.60 и включает исправление регрессивного изменения, вызвавшего уязвимость (CVE-2024-39884), позволяющую посмотреть код скриптов, обработка которых настроена при помощи директивы AddType (например, можно сформировать специально оформленный запрос к PHP-скрипту, который приведёт к показу его содержимого, а не выполнения).
+https://www.opennet.ru/opennews/art.shtml?num=61485</description>
+    </item>
+    
+    <item>
+      <title>Выпуск HTTP/TCP-балансировщика HAProxy 3.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-http-tcp-balansirovschika-haproxy-3-0-20240530-003533/</link>
+      <pubDate>Thu, 30 May 2024 00:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-http-tcp-balansirovschika-haproxy-3-0-20240530-003533/</guid>
+      <description>Спустя пять лет с момента формирования ветки 2.0 опубликован релиз балансировщика нагрузки HAProxy 3.0, позволяющего распределять HTTP-трафик и произвольные TCP-запросы между группой серверов, учитывая множество факторов (например, проверяет доступность серверов, оценивает уровень нагрузки, имеет средства противостояния DDoS) и проводя первичную фильтрацию данных (например, можно разбирать HTTP-заголовки, отфильтровывать передачу некорректных параметров запроса, блокировать подстановку SQL и XSS, подключать агенты обработки контента). HAProxy также может применяться для координации взаимодействия компонентов в системах на базе архитектуры микросервисов.</description>
+    </item>
+    
+    <item>
+      <title>Новая версия nginx 1.27.0 c устранением 4 уязвимостей в реализации HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</link>
+      <pubDate>Wed, 29 May 2024 22:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.27.0, в рамках которой будет продолжено развитие новых возможностей. Одновременно сформирован выпуск nginx 1.26.1, относящийся к параллельно поддерживаемой стабильной ветке, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.27.x будет сформирована стабильная ветка 1.28. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61269</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.26.0 с поддержкой HTTP/3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-26-0-s-podderzhkoy-http-3-20240424-013527/</link>
+      <pubDate>Wed, 24 Apr 2024 01:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-26-0-s-podderzhkoy-http-3-20240424-013527/</guid>
+      <description>После года разработки опубликована новая стабильная ветка высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера nginx 1.26.0, которая вобрала в себя изменения, накопленные в основной ветке 1.25.x. В дальнейшем все изменения в стабильной ветке 1.26 будут связаны с устранением серьёзных ошибок и уязвимостей. В скором времени будет сформирована основная ветка nginx 1.27, в которой будет продолжено развитие новых возможностей. Для обычных пользователей, у которых нет задачи обеспечить совместимость со сторонними модулями, рекомендуется использовать основную ветку, на базе которой раз в три месяца формируются выпуски коммерческого продукта Nginx Plus.</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-серверов Lighttpd 1.4.76 и Apache httpd 2.4.59</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-serverov-lighttpd-1-4-76-i-apache-httpd-2-4-59-20240414-153600/</link>
+      <pubDate>Sun, 14 Apr 2024 15:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-serverov-lighttpd-1-4-76-i-apache-httpd-2-4-59-20240414-153600/</guid>
+      <description>Опубликован релиз легковесного http-сервера lighttpd 1.4.76, ориентированного на сочетание высокой производительности, безопасности, соответствия стандартам и гибкости настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60990</description>
+    </item>
+    
+    <item>
+      <title>Атака Continuation flood, приводящая к проблемам на серверах, использующих HTTP/2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-continuation-flood-privodyaschaya-k-problemam-na-serverah-ispolzuyuschih-http-2-0-20240404-163545/</link>
+      <pubDate>Thu, 04 Apr 2024 16:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-continuation-flood-privodyaschaya-k-problemam-na-serverah-ispolzuyuschih-http-2-0-20240404-163545/</guid>
+      <description>Раскрыты сведения об методе атаки &amp;ldquo;Continuation flood&amp;rdquo;, затрагивающем различные реализации протокола HTTP/2, среди которых Apache httpd, Apache Traffic Server, Node.js, oghttp, Go net/http2, Envoy, oghttp и nghttp2. Уязвимость может использоваться для совершения атак на серверы с поддержкой HTTP/2.0 и в зависимости от реализации приводит к исчерпанию памяти (прекращение обработки запросов или аварийное завершение процессов) или созданию высокой нагрузки на CPU (замедление обработки запросов). По мнению обнаружившего уязвимость исследователя, выявленная проблема более опасна, чем найденная в прошлом году уязвимость &amp;ldquo;Rapid Reset&amp;rdquo;, использованная для совершения крупнейших на то время DDoS-атак.</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Lighttpd 1.4.74</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-lighttpd-1-4-74-20240220-183518/</link>
+      <pubDate>Tue, 20 Feb 2024 18:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-lighttpd-1-4-74-20240220-183518/</guid>
+      <description>Опубликован релиз легковесного http-сервера lighttpd 1.4.74, пытающегося сочетать высокую производительность, безопасность, соответствие стандартам и гибкость настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60630</description>
+    </item>
+    
+    <item>
+      <title>В nginx 1.25.4 устранены две уязвимости, связанные с HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nginx-1-25-4-ustraneny-dve-uyazvimosti-svyazannye-s-http-3-20240215-013557/</link>
+      <pubDate>Thu, 15 Feb 2024 01:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nginx-1-25-4-ustraneny-dve-uyazvimosti-svyazannye-s-http-3-20240215-013557/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.4, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60601</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в предлагаемой в Qt реализации протокола HTTP/2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-predlagaemoy-v-qt-realizacii-protokola-http-2-20240106-123550/</link>
+      <pubDate>Sat, 06 Jan 2024 12:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-predlagaemoy-v-qt-realizacii-protokola-http-2-20240106-123550/</guid>
+      <description>В библиотеке Qt выявлена уязвимость (CVE-2023-51714) в реализации протокола HTTP/2, позволяющая добиться записи своих данных за пределы выделенного буфера. Уязвимость вызвана целочисленным переполнением в коде разбора упакованных заголовков (HPack) и проявляется при получении более 4 ГБ суммарных данных HTTP-заголовков или 2 ГБ для одного заголовка. Проблема устранена в обновлениях Qt 5.15.17, 6.2.11, 6.5.4 и 6.6.2.
+https://www.opennet.ru/opennews/art.shtml?num=60395</description>
+    </item>
+    
+    <item>
+      <title>Представлен SSH3, вариант протокола SSH, использующий HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-ssh3-variant-protokola-ssh-ispolzuyuschiy-http-3-20231217-143543/</link>
+      <pubDate>Sun, 17 Dec 2023 14:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-ssh3-variant-protokola-ssh-ispolzuyuschiy-http-3-20231217-143543/</guid>
+      <description>Доступен первый официальный выпуск экспериментальной реализации сервера и клиента для протокола SSH3, оформленного в форме надстройки над протоколом HTTP/3, использующей QUIC (на базе UDP) и TLS 1.3 для установки защищённого канала связи и механизмы HTTP для аутентификации пользователей. Проект разрабатывает Франсуа Мишель (François Michel), аспирант Лувенского католического университета (Бельгия), при участии Оливье Бонавентуры (Olivier Bonaventure), профессора того же университета, известного разработкой подсистемы Multipath TCP и кода сегментной маршрутизации IPv6 для ядра Linux, а также соавтора 10 RFC и черновиков более 60 сетевых спецификаций.</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Lighttpd 1.4.73 с устранением DoS-уязвимостей в HTTP/2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-lighttpd-1-4-73-s-ustraneniem-dos-uyazvimostey-v-http-2-20231031-143603/</link>
+      <pubDate>Tue, 31 Oct 2023 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-lighttpd-1-4-73-s-ustraneniem-dos-uyazvimostey-v-http-2-20231031-143603/</guid>
+      <description>Опубликован релиз легковесного http-сервера lighttpd 1.4.73, пытающегося сочетать высокую производительность, безопасность, соответствие стандартам и гибкость настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60023</description>
+    </item>
+    
+    <item>
+      <title>Опубликована библиотека nghttp3 1.0 с реализацией протокола HTTP/3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-biblioteka-nghttp3-1-0-s-realizaciey-protokola-http-3-20231022-123548/</link>
+      <pubDate>Sun, 22 Oct 2023 12:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-biblioteka-nghttp3-1-0-s-realizaciey-protokola-http-3-20231022-123548/</guid>
+      <description>Доступен первый стабильный релиз проекта nghttp3, развивающего библиотеку на языке Си с реализацией протокола HTTP/3. Развиваемый тем же проектом вариант библиотеки для протокола HTTP/2 используется в качестве основы модуля mod_http2, входящего в состав http-сервера Apache. Наработки проекта также задействованы в утилите Curl. Код библиотеки распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59973</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.58  с устранением DoS-уязвимостей в HTTP/2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-58-s-ustraneniem-dos-uyazvimostey-v-http-2-20231022-013604/</link>
+      <pubDate>Sun, 22 Oct 2023 01:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-58-s-ustraneniem-dos-uyazvimostey-v-http-2-20231022-013604/</guid>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.58, в котором представлено 33 изменения и устранены три уязвимости, две из которых связаны с возможностью осуществления DoS-атаки на системы, использующие протокол HTTP/2.
+https://www.opennet.ru/opennews/art.shtml?num=59971</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в протоколе HTTP/2, применённая в крупнейшей DDoS-атаке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-http-2-primenennaya-v-krupneyshey-ddos-atake-20231011-013506/</link>
+      <pubDate>Wed, 11 Oct 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-http-2-primenennaya-v-krupneyshey-ddos-atake-20231011-013506/</guid>
+      <description>Компания Google зафиксировала крупнейшую DDoS-атаку на свою инфраструктуру, интенсивность которой составила 398 миллионов запросов в секунду. Для сравнения новая атака в 7 раз превосходит по интенсивности прошлую рекордную DDoS-атаку, в которой злоумышленникам удалось сформировать поток из 47 миллионов запросов в секунду. Помимо Google с атакой также столкнулись компании Amazon и Сloudflare. Возможность совершения новой атаки связана с выявлением в протоколе HTTP/2 уязвимости (CVE-2023-44487), позволяющей при минимальной нагрузке на клиента направлять огромный поток запросов на сервер.</description>
+    </item>
+    
+    <item>
+      <title>В адресной строке Firefox 119 изменится отображение сайтов, открытых по HTTP и HTTPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</link>
+      <pubDate>Wed, 20 Sep 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</guid>
+      <description>В выпуске Firefox 119, намеченном на 24 октября, будет изменена индикация защищённых и незащищённых соединений к сайту. При открытии сайтов с использованием HTTPS в адресной строке будет убрано отображение префикса &amp;ldquo;https://&amp;rdquo;, а для сайтов, открытых по HTTP без шифрования соединения, начнёт показываться префикс &amp;ldquo;http://&amp;rdquo; и помимо пиктограммы с перечёркнутым замком появится отдельное текстовое примечание &amp;ldquo;Not Secure&amp;rdquo;. Например, при открытии &amp;ldquo;https://www.opennet.ru&amp;rdquo; будет показываться &amp;ldquo;www.opennet.ru&amp;rdquo;, а при открытии &amp;ldquo;httр://www.opennet.ru&amp;rdquo; - &amp;ldquo;Not Secure httр://www.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск http-сервера Lighttpd 1.4.71</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-71-20230529-003505/</link>
+      <pubDate>Mon, 29 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-71-20230529-003505/</guid>
+      <description>Опубликован релиз легковесного http-сервера lighttpd 1.4.71, пытающегося сочетать высокую производительность, безопасность, соответствие стандартам и гибкость настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59208</description>
+    </item>
+    
+    <item>
+      <title>Доступен nginx 1.25.0 с экспериментальной поддержкой HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nginx-1-25-0-s-eksperimentalnoy-podderzhkoy-http-3-20230524-013506/</link>
+      <pubDate>Wed, 24 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nginx-1-25-0-s-eksperimentalnoy-podderzhkoy-http-3-20230524-013506/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.25.0, в рамках которой будет продолжено развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26.
+https://www.opennet.ru/opennews/art.shtml?num=59186</description>
+    </item>
+    
+    <item>
+      <title>Выпуск http-сервера Lighttpd 1.4.70</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-70-20230511-113505/</link>
+      <pubDate>Thu, 11 May 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-http-servera-lighttpd-1-4-70-20230511-113505/</guid>
+      <description>Состоялся релиз легковесного http-сервера lighttpd 1.4.70, пытающегося сочетать высокую производительность, безопасность, соответствие стандартам и гибкость настройки. Lighttpd пригоден для применения на высоконагруженных системах и нацелен на низкое потребление памяти и ресурсов CPU. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59116</description>
+    </item>
+    
+    <item>
+      <title>Релиз http-сервера Apache 2.4.56 с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-56-s-ustraneniem-uyazvimostey-20230308-103503/</link>
+      <pubDate>Wed, 08 Mar 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-http-servera-apache-2-4-56-s-ustraneniem-uyazvimostey-20230308-103503/</guid>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.56, в котором представлено 6 изменений и устранено 2 уязвимости, связанные с возможностью проведения атак класса &amp;ldquo;HTTP Request Smuggling&amp;rdquo; на системы фронтэнд-бэкенд, позволяющих вклиниваться в содержимое запросов других пользователей, обрабатываемых в том же потоке между фронтэндом и бэкендом.
+https://www.opennet.ru/opennews/art.shtml?num=58761</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GWPSan on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gwpsan/</link>
+    <description>Recent content in GWPSan on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2024 17:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gwpsan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google опубликовал GWPSan, инструмент для выявления ошибок на стадии выполнения приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-gwpsan-instrument-dlya-vyyavleniya-oshibok-na-stadii-vypolneniya-priloz-20240605-173557/</link>
+      <pubDate>Wed, 05 Jun 2024 17:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-gwpsan-instrument-dlya-vyyavleniya-oshibok-na-stadii-vypolneniya-priloz-20240605-173557/</guid>
+      <description>Компания Google опубликовала исходные тексты инструментария GWPSan, предназначенного для выявления ошибок на этапе выполнения приложений, собранных для архитектур x86-64 и ARM64. GWPSan собирается в виде разделяемой библиотеки, которая связывается при запуске приложения при помощи LD_PRELOAD и использует для анализа работы программы доступные в ядре Linux механизмы остановки (PERF_TYPE_BREAKPOINT) и сэмплинга процессов. Код написан на языке С++ и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61317</description>
+    </item>
+    
+  </channel>
+</rss>

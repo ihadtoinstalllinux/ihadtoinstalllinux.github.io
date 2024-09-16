@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dillo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dillo/</link>
+    <description>Recent content in Dillo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2024 10:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dillo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>После многолетнего забвения опубликован минималистичный web-браузер Dillo 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</link>
+      <pubDate>Sun, 05 May 2024 10:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</guid>
+      <description>Опубликован релиз минималистичного web-браузера Dillo 3.1, написанного на языке С/C++ с использованием библиотеки FLTK. Браузер отличается небольшим размером (исполняемый файл около мегабайта при статической сборке) и минимальным потреблением памяти, при наличии графического интерфейса с поддержкой вкладок и закладок, поддержке HTTPS и базового набора web-стандартов (есть поддержка HTML 4.01 и CSS, но нет JavaScript). Функциональность Dillo может расширяться через плагины, например, имеется плагин для протоколов IPFS и Gemini.
+https://www.opennet.ru/opennews/art.shtml?num=61119</description>
+    </item>
+    
+  </channel>
+</rss>

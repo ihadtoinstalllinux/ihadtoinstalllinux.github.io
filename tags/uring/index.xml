@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>uring on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/uring/</link>
+    <description>Recent content in uring on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 13:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в подсистеме io_uring, позволяющая получить привилегии root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-pozvolyayuschaya-poluchit-privilegii-root-20240401-133526/</link>
+      <pubDate>Mon, 01 Apr 2024 13:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-pozvolyayuschaya-poluchit-privilegii-root-20240401-133526/</guid>
+      <description>В интерфейсе асинхронного ввода/вывода io_uring, предоставляемом ядром Linux, выявлена уязвимость (CVE-2024-0582), позволяющая непривилегированному пользователю получить права root в системе. Для эксплуатации уязвимости достаточно обычного локального доступа к системе, без необходимости манипуляций с пространствами имён. В настоящее время публично доступен работающий эксплоит, а также подробно описана вторая техника эксплуатации уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=60891</description>
+    </item>
+    
+    <item>
+      <title>Google отключил поддержку io_uring в ChromeOS и Android из-за плачевного состояния безопасности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</link>
+      <pubDate>Thu, 15 Jun 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</guid>
+      <description>Компания Google объявила об отключении по умолчанию интерфейса асинхронного ввода/вывода io_uring в ChromeOS, Android и на рабочих серверах. Дополнительно рассматривается возможность отключения io_uring по умолчанию в GKE AutoPilot (Google Kubernetes Engine). В качестве причины отключения называется плачевная ситуация с безопасностью в io_uring, которая перевешивает достоинства применения io_uring для повышения производительности.
+https://www.opennet.ru/opennews/art.shtml?num=59297</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки libuv 1.45.0 с поддержкой подсистемы io_uring</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libuv-1-45-0-s-podderzhkoy-podsistemy-io-uring-20230529-143507/</link>
+      <pubDate>Mon, 29 May 2023 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libuv-1-45-0-s-podderzhkoy-podsistemy-io-uring-20230529-143507/</guid>
+      <description>Опубликован выпуск библиотеки libuv 1.45.0, применяемой для мультиплексирования соединений и асинхронной обработки ввода/вывода во многих проектах, нацеленных на высокопроизводительную обработку сетевых и файловых запросов, например, в платформе Node.js, DNS-серверах BIND 9 и Knot DNS, HTTP-сервере H2O, Lua-фреймворке Luvit, виртуальной машине MoarVM, языке Julia и Python-фреймворке uvloop. Библиотека позволяет организовать цикл обработки событий в неблокирующем режиме, реализованный на базе таких методов, как epoll в Linux, kqueue в BSD и macOS, IOCP в Windows и event ports в Solaris.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Netfilter и io_uring, позволяющие повысить свои привилегии в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</link>
+      <pubDate>Tue, 09 May 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</guid>
+      <description>В подсистемах ядра Linux Netfilter и io_uring выявлены уязвимости, позволяющие локальному пользователю повысить свои привилегии в системе.
+https://www.opennet.ru/opennews/art.shtml?num=59101</description>
+    </item>
+    
+  </channel>
+</rss>

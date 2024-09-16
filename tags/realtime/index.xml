@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Realtime on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/realtime/</link>
+    <description>Recent content in Realtime on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/realtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux 6.12 намерены реализовать возможность включения Realtime-режима</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-12-namereny-realizovat-vozmozhnost-vklyucheniya-realtime-rezhima-20240908-153506/</link>
+      <pubDate>Sun, 08 Sep 2024 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-12-namereny-realizovat-vozmozhnost-vklyucheniya-realtime-rezhima-20240908-153506/</guid>
+      <description>Разработчики ядра Linux объявили о передаче в ветку linux-next, которая будет использоваться при формировании выпуска 6.12, финальных изменений, необходимых для сборки ядра с опцией PREEMPT_RT, включающей средства для работы в режиме реального времени. После принятия изменений в основную ветку ядра режим PREEMPT_RT станет доступен для архитектур X86, ARM64 и RISC-V. Позднее будет добавлена поддержка архитектур ARM и POWERPC, для которых в ядро переданы пока не все патчи.
+https://www.opennet.ru/opennews/art.shtml?num=61826</description>
+    </item>
+    
+  </channel>
+</rss>

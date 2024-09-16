@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libuv on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libuv/</link>
+    <description>Recent content in libuv on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 00:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libuv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DNS-сервера BIND 9.20.0, переведённый на libuv и новый бэкенд для БД</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-20-0-perevedennyy-na-libuv-i-novyy-bekend-dlya-bd-20240724-003550/</link>
+      <pubDate>Wed, 24 Jul 2024 00:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-20-0-perevedennyy-na-libuv-i-novyy-bekend-dlya-bd-20240724-003550/</guid>
+      <description>После двух с половиной лет разработки консорциум ISC представил первый стабильный релиз новой значительной ветки DNS-сервера BIND 9.20, который вобрал в себя изменения, развивавшиеся в экспериментальной ветке BIND 9.19. Поддержка ветки 9.20 будет осуществляться в рамках расширенного цикла сопровождения до первого квартала 2028 года. Поддержка ветки 9.18 прекратится во 2 квартале 2025 года. Для развития функциональности следующей стабильной версии BIND будет сформирована экспериментальная ветка BIND 9.21.0. Код проекта написан на языке Си и распространяется под лицензией MPL 2.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Node.js и libuv</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</link>
+      <pubDate>Fri, 16 Feb 2024 22:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</guid>
+      <description>Доступны корректирующие выпуски серверной JavaScript-платформы Node.js 21.6.2, 20.11.1, 18.19.1, в которых исправлено 8 уязвимостей, из которых 4 присвоен высокий уровень опасности.
+https://www.opennet.ru/opennews/art.shtml?num=60612</description>
+    </item>
+    
+    <item>
+      <title>Выпуск библиотеки libuv 1.45.0 с поддержкой подсистемы io_uring</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libuv-1-45-0-s-podderzhkoy-podsistemy-io-uring-20230529-143507/</link>
+      <pubDate>Mon, 29 May 2023 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-biblioteki-libuv-1-45-0-s-podderzhkoy-podsistemy-io-uring-20230529-143507/</guid>
+      <description>Опубликован выпуск библиотеки libuv 1.45.0, применяемой для мультиплексирования соединений и асинхронной обработки ввода/вывода во многих проектах, нацеленных на высокопроизводительную обработку сетевых и файловых запросов, например, в платформе Node.js, DNS-серверах BIND 9 и Knot DNS, HTTP-сервере H2O, Lua-фреймворке Luvit, виртуальной машине MoarVM, языке Julia и Python-фреймворке uvloop. Библиотека позволяет организовать цикл обработки событий в неблокирующем режиме, реализованный на базе таких методов, как epoll в Linux, kqueue в BSD и macOS, IOCP в Windows и event ports в Solaris.</description>
+    </item>
+    
+  </channel>
+</rss>

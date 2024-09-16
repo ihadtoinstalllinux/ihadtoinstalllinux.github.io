@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hostapd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hostapd/</link>
+    <description>Recent content in hostapd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 13:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hostapd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск hostapd и wpa_supplicant 2.11, реализации стека беспроводных протоколов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hostapd-i-wpa-supplicant-2-11-realizacii-steka-besprovodnyh-protokolov-20240723-133533/</link>
+      <pubDate>Tue, 23 Jul 2024 13:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hostapd-i-wpa-supplicant-2-11-realizacii-steka-besprovodnyh-protokolov-20240723-133533/</guid>
+      <description>После двух с половиной лет разработки опубликован выпуск hostapd/wpa_supplicant 2.11, набора для обеспечения работы беспроводных протоколов IEEE 802.1X, WPA, WPA2, WPA3 и EAP. В состав набора входит приложение wpa_supplicant для подключения к беспроводной сети в роли клиента и фоновый процесс hostapd для обеспечения работы точки доступа и сервера аутентификации, включающего такие компоненты как WPA Authenticator, клиент/сервер аутентификации RADIUS, сервер EAP. Исходные тексты проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61596</description>
+    </item>
+    
+  </channel>
+</rss>

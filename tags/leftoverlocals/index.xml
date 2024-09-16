@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LeftoverLocals on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/leftoverlocals/</link>
+    <description>Recent content in LeftoverLocals on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 15:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/leftoverlocals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость LeftoverLocals в GPU AMD, Apple, Qualcomm и Imagination</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</link>
+      <pubDate>Thu, 18 Jan 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</guid>
+      <description>В графических процессорах компаний AMD, Apple, Qualcomm и Imagination выявлена уязвимость (CVE-2023-4969), получившая кодовое имя LeftoverLocals и позволяющая извлечь данные из локальной памяти GPU, оставшиеся после выполнения другого процесса и возможно содержащие конфиденциальную информацию. С практической стороны уязвимость может представлять опасность на многопользовательских системах, в которых обработчики разных пользователей запускаются на одном GPU, а также может применяться во вредоносном ПО для отслеживания активности выполняемых на GPU процессов. Например, в ходе атаки можно определить данные, обрабатываемые выполняемыми на GPU процессами (GPU kernel).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RISC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/risc/</link>
+    <description>Recent content in RISC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2024 12:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/risc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость GhostWrite, предоставляющая полный доступ к физической памяти на CPU RISC-V XuanTie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</link>
+      <pubDate>Thu, 08 Aug 2024 12:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали результаты исследования защищённости процессоров на базе архитектуры RISC-V и раскрыли сведения об уязвимости, получившей кодовое имя GhostWrite. Уязвимость затрагивает RISC-V-процессоры XuanTie C910, производимые китайской компанией T-Head (подразделение Alibaba) и развиваемые в форме открытых проектов. Уязвимость даёт возможность атакующему, имеющему непривилегированный ограниченный доступ к системе, добиться чтения и записи в любые области физической памяти, а также получить доступ к управлению периферийными устройствами, такими как сетевые карты, использующими MMIO (Memory-Mapped Input/Output).</description>
+    </item>
+    
+    <item>
+      <title>Доступен Vortex 2.2, открытый GPGPU на базе архитектуры RISC-V </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-vortex-2-2-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20240807-153515/</link>
+      <pubDate>Wed, 07 Aug 2024 15:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-vortex-2-2-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20240807-153515/</guid>
+      <description>Опубликован выпуск проекта Vortex 2.2, развивающего открытый GPGPU на базе архитектуры набора команд RISC-V, рассчитанный на выполнение параллельных вычислений с использованием API OpenCL и модели выполнения SIMT (Single Instruction, Multiple Threads). Проект также может быть использован при проведении исследований в области 3D-графики и при разработке новых архитектур GPU. Схемы, описания аппаратных блоков на языке Verilog, симулятор, драйверы и сопутствующая проектная документация распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61669</description>
+    </item>
+    
+    <item>
+      <title>Выпуск эмутятора Box64 0.3.0, позволяющего запускать x86-игры на системах ARM64 и RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-emutyatora-box64-0-3-0-pozvolyayuschego-zapuskat-x86-igry-na-sistemah-arm64-i-risc-20240709-163509/</link>
+      <pubDate>Tue, 09 Jul 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-emutyatora-box64-0-3-0-pozvolyayuschego-zapuskat-x86-igry-na-sistemah-arm64-i-risc-20240709-163509/</guid>
+      <description>Опубликован выпуск эмулятора Box64 0.3.0, предназначенного для запуска Linux-программ, собранных для архитектуры x86_64, на оборудовании с процессорами ARM64, RISC-V и Loongarch64. Проект уделяет большое внимание организации запуска игровых приложений и предоставляет возможность запуска Windows-сборок через wine и Proton. Исходные тексты проекта написаны на языке Си и распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61510</description>
+    </item>
+    
+    <item>
+      <title>Сформированы сборки Ubuntu 24.04 для миниатюрной RISC-V-платы Milk-V Mars</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-ubuntu-24-04-dlya-miniatyurnoy-risc-v-platy-milk-v-mars-20240529-103550/</link>
+      <pubDate>Wed, 29 May 2024 10:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-ubuntu-24-04-dlya-miniatyurnoy-risc-v-platy-milk-v-mars-20240529-103550/</guid>
+      <description>Компания Canonical объявила о подготовке отдельных сборок Ubuntu 24.04, специально оптимизированных для работы на плате Milk-V Mars, оснащённой 4-ядерным 64-разрядным процессором StarFive JH7110 (1.5GHz) на базе архитектуры RISC-V (RV64GC). Отмечается, что это первая миниатюрная плата на базе архитектуры RISC-V, по размеру сопоставимая с кредитной картой (размер платы 85 x 56 мм). Плата также примечательна относительно низкой для плат RISC-V стоимостью - в минимальной конфигурации с ОЗУ 2 ГБ плата продаётся по цене 39 долларов (при заказе через Aliexpress цена выше и составляет 8500 руб).</description>
+    </item>
+    
+    <item>
+      <title>Порт Arch Linux для архитектуры RISC-V </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/port-arch-linux-dlya-arhitektury-risc-v-20240518-163554/</link>
+      <pubDate>Sat, 18 May 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/port-arch-linux-dlya-arhitektury-risc-v-20240518-163554/</guid>
+      <description>Опубликован порт дистрибутива Arch Linux для систем на базе архитектуры RISC-V. Порт пока не является официальным, но его создатель, Феликс Ян (Felix Yan), входит в число основных разработчиков и мэйнтейнеров Arch Linux. Краткосрочной целью проекта называется подготовка патчей к пакетам с исходными текстами, решающих проблемы с их сборкой и работой на системах RISC-V. В перспективе планируется перенос подготовленных патчей в основной состав репозиториев Arch Linux и добавление riscv64 (riscv64gc) в число поддерживаемый в Arch Linux альтернативных архитектур.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Vortex 2.1, открытый GPGPU на базе архитектуры RISC-V </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-vortex-2-1-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20240515-003528/</link>
+      <pubDate>Wed, 15 May 2024 00:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-vortex-2-1-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20240515-003528/</guid>
+      <description>Опубликована новая редакция проекта Vortex, развивающего открытый GPGPU на базе архитектуры набора команд RISC-V, рассчитанный на выполнение параллельных вычислений с использованием API OpenCL и модели выполнения SIMT (Single Instruction, Multiple Threads). Проект также может быть использован при проведении исследований в области 3D-графики и при разработке новых архитектур GPU. Схемы, описания аппаратных блоков на языке Verilog, симулятор, драйверы и сопутствующая проектная документация распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61173</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система RISC OS 5.30</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-risc-os-5-30-20240428-223558/</link>
+      <pubDate>Sun, 28 Apr 2024 22:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-risc-os-5-30-20240428-223558/</guid>
+      <description>Сообщество RISC OS Open представило выпуск операционной системы RISC OS 5.30, оптимизированной для создания встраиваемых решений на базе плат с процессорами ARM. Выпуск основан на исходных текстах RISC OS, открытых в 2018 году компанией RISC OS Developments (ROD) под лицензией Apache 2.0. Сборки RISC OS сформированы для плат Raspberry Pi, PineA64, BeagleBoard, Iyonix, PandaBoard, Wandboard, RiscPC / A7000, OMAP 5 и Titanium. Размер сборки для Raspberry Pi составляет 157 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Стартует цикл лекций по работе с архитектурой RISC-V от разработчика из «Базальт СПО» — Российский Альянс RISC-V выделил грант на их развитие</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/startuet-cikl-lekciy-po-rabote-s-arhitekturoy-risc-v-ot-razrabotchika-iz-bazalt-spo-rossiy-20240206-213654/</link>
+      <pubDate>Tue, 06 Feb 2024 21:36:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/startuet-cikl-lekciy-po-rabote-s-arhitekturoy-risc-v-ot-razrabotchika-iz-bazalt-spo-rossiy-20240206-213654/</guid>
+      <description>В феврале 2024 года стартует очередной цикл лекций «Архитектура и язык ассемблера RISC-V». Курс разработал и читает Георгий Курячий, ведущий разработчик ОС «Альт» и преподаватель факультета вычислительной математики и кибернетики (ВМК) МГУ.
+https://www.basealt.ru/about/news/archive/view/startuet-cikl-lekcii-po-rabote-s-arkhitekturoi-risc-v-ot-razrabotchika-iz-bazalt-spo-rossiiskii-aljans-risc-v-vydelil-grant-na-ikh-razvitie</description>
+    </item>
+    
+    <item>
+      <title>Доступен Vortex 2.0, открытый GPGPU на базе архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-vortex-2-0-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20231111-013530/</link>
+      <pubDate>Sat, 11 Nov 2023 01:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-vortex-2-0-otkrytyy-gpgpu-na-baze-arhitektury-risc-v-20231111-013530/</guid>
+      <description>Опубликована вторая редакция проекта Vortex, развивающего открытый GPGPU на базе архитектуры набора команд RISC-V, рассчитанный на выполнение параллельных вычислений с использованием API OpenCL и модели выполнения SIMT (Single Instruction, Multiple Threads). Проекта также может использоваться при проведении исследований в области 3D-графики и разработки новых архитектур GPU. Схемы, описания аппаратных блоков на языке Verilog, симулятор, драйверы и сопутствующая проектная документация распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60088</description>
+    </item>
+    
+    <item>
+      <title>Представлен инструментарий Cascade, позволивший выявить 29 уязвимостей в процессорах RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-instrumentariy-cascade-pozvolivshiy-vyyavit-29-uyazvimostey-v-processorah-risc-20231024-193539/</link>
+      <pubDate>Tue, 24 Oct 2023 19:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-instrumentariy-cascade-pozvolivshiy-vyyavit-29-uyazvimostey-v-processorah-risc-20231024-193539/</guid>
+      <description>Исследователи из Швейцарской высшей технической школы Цюриха разработали систему fuzzing-тестирования Cascade, нацеленную на выявление ошибок и уязвимостей в процессорах на базе архитектуры RISC-V. Инструментарий уже позволил выявить 37 ошибок в процессорах, из которых 29 были классифицированы как ранее неизвестные уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=59986</description>
+    </item>
+    
+    <item>
+      <title>В Debian реализована официальная поддержка архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-realizovana-oficialnaya-podderzhka-arhitektury-risc-v-20230724-143509/</link>
+      <pubDate>Mon, 24 Jul 2023 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-realizovana-oficialnaya-podderzhka-arhitektury-risc-v-20230724-143509/</guid>
+      <description>Разработчики проекта Debian объявили о придании статуса официального порта редакции дистрибутива для систем на базе 64-разрядной архитектуры RISC-V (riscv64). Пакеты для RISC-V доступны для установки из репозитория Debian Sid (Unstable). В настоящее время для систем RISC-V обеспечена сборка примерно 96% от общего числа исходных пакетов, присутствующих в репозиториях Debian.
+https://www.opennet.ru/opennews/art.shtml?num=59483</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» стала партнером Российского Альянса RISC-V </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-stala-partnerom-rossiyskogo-alyansa-risc-v-20230703-213621/</link>
+      <pubDate>Mon, 03 Jul 2023 21:36:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-stala-partnerom-rossiyskogo-alyansa-risc-v-20230703-213621/</guid>
+      <description>«Базальт СПО», разработчик операционных систем «Альт», подписала меморандум о партнёрском сотрудничестве с Альянсом RISC-V. В планах — разработка отраслевых стандартов, рекомендаций для совершенствования законодательства, просветительская и исследовательская деятельность.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-stala-partnerom-rossiiskogo-aljansa-risc-v</description>
+    </item>
+    
+    <item>
+      <title>Исходный код ОС «Альт» для платформы RISC-V появится в национальном репозитории</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ishodnyy-kod-os-alt-dlya-platformy-risc-v-poyavitsya-v-nacionalnom-repozitorii-20230606-213542/</link>
+      <pubDate>Tue, 06 Jun 2023 21:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ishodnyy-kod-os-alt-dlya-platformy-risc-v-poyavitsya-v-nacionalnom-repozitorii-20230606-213542/</guid>
+      <description>Разработчик семейства операционных систем «Альт» компания «Базальт СПО» прошла отбор и была успешно включена в число участников эксперимента по созданию национального репозитория свободного ПО. Перечень участников размещен на сайте Минцифры Российской Федерации.
+https://www.basealt.ru/about/news/archive/view/iskhodnyi-kod-os-alt-dlja-platformy-risc-v-pojavitsja-v-nacionalnom-repozitorii</description>
+    </item>
+    
+    <item>
+      <title>Инициатива по улучшению поддержки архитектуры RISC-V в открытом ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-uluchsheniyu-podderzhki-arhitektury-risc-v-v-otkrytom-po-20230606-183536/</link>
+      <pubDate>Tue, 06 Jun 2023 18:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-uluchsheniyu-podderzhki-arhitektury-risc-v-v-otkrytom-po-20230606-183536/</guid>
+      <description>Организация Linux Foundation представила совместный проект RISE (RISC-V Software Ecosystem), целью которого заявлено форсирование разработки открытого программного обеспечения для систем на базе архитектуры RISC-V, используемых в различных областях деятельности, включая мобильные технологии, потребительскую электронику, датацентры и автомобильные информационные системы. Учредителями проекта выступили такие компании, как Red Hat, Google, Intel, NVIDIA, Qualcomm, Samsung, SiFive, Andes, Imagination Technologies, MediaTek, Rivos, T-Head и Ventana, которые выразили готовность профинансировать работу или предоставить инженерные ресурсы.</description>
+    </item>
+    
+    <item>
+      <title>«Базальт СПО» опережает потребности рынка — новая экспериментальная сборка ОС Simply Linux для архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-operezhaet-potrebnosti-rynka-novaya-eksperimentalnaya-sborka-os-simply-linux-dl-20230512-213606/</link>
+      <pubDate>Fri, 12 May 2023 21:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bazalt-spo-operezhaet-potrebnosti-rynka-novaya-eksperimentalnaya-sborka-os-simply-linux-dl-20230512-213606/</guid>
+      <description>Разработчики выпустили новую экспериментальную сборку (технологический релиз) операционной системы Simply Linux Risc-V для платы StarFive VisionFive V2.
+https://www.basealt.ru/about/news/archive/view/bazalt-spo-operezhaet-potrebnosti-rynka-novaja-ehksperimentalnaja-sborka-os-simply-linux-dlja-arkhitektury-risc-v</description>
+    </item>
+    
+    <item>
+      <title>Новый выауск Simply Linux RV для устройств на базе архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vyausk-simply-linux-rv-dlya-ustroystv-na-baze-arhitektury-risc-v-20230512-163506/</link>
+      <pubDate>Fri, 12 May 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vyausk-simply-linux-rv-dlya-ustroystv-na-baze-arhitektury-risc-v-20230512-163506/</guid>
+      <description>Вышел релиз экспериментальной сборки дистрибутива Linux RV (20230422) для архитектуры riscv64. Дистрибутив представляет собой простую в работе систему с классическим рабочим столом на основе Xfce, предоставляющую полную русификацию интерфейса и большинства приложений. Развивающая дистрибутив компания «Базальт СПО» входит в международное сообщество RISC-V и ведёт работу по поддержке различных плат RISC-V64.
+https://www.opennet.ru/opennews/art.shtml?num=59125</description>
+    </item>
+    
+    <item>
+      <title>Проект Pine64 выпускает в продажу плату STAR64 на базе архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pine64-vypuskaet-v-prodazhu-platu-star64-na-baze-arhitektury-risc-v-20230402-123505/</link>
+      <pubDate>Sun, 02 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pine64-vypuskaet-v-prodazhu-platu-star64-na-baze-arhitektury-risc-v-20230402-123505/</guid>
+      <description>Сообщество Pine64, занимающееся созданием открытых устройств, объявило о готовности одноплатного компьютера STAR64, построенного с использованием четырёхядерного процессора StarFive JH7110 (SiFive U74 1.5GHz) на базе архитектуры RISC-V. Плата станет доступна для заказа 4 апреля и будет продаваться по цене $70 в варианте с 4 ГБ ОЗУ и $90 с 8 ГБ ОЗУ.
+https://www.opennet.ru/opennews/art.shtml?num=58908</description>
+    </item>
+    
+  </channel>
+</rss>

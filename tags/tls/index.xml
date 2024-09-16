@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TLS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tls/</link>
+    <description>Recent content in TLS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 01:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Попытка получения TLS-сертификатов для чужих доменов mobi, используя просроченный домен с WHOIS-сервисом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/popytka-polucheniya-tls-sertifikatov-dlya-chuzhih-domenov-mobi-ispolzuya-prosrochennyy-dom-20240912-013521/</link>
+      <pubDate>Thu, 12 Sep 2024 01:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/popytka-polucheniya-tls-sertifikatov-dlya-chuzhih-domenov-mobi-ispolzuya-prosrochennyy-dom-20240912-013521/</guid>
+      <description>Исследователи из компании watchTowr Labs опубликовали результаты эксперимента с захватом устаревшего WHOIS-сервиса регистратора доменной зоны &amp;ldquo;.MOBI&amp;rdquo;. Поводом для исследования послужило то, что регистратор поменял адрес WHOIS-сервиса, переместив его с домена whois.dotmobiregistry.net на новый хост whois.nic.mobi. При этом домен dotmobiregistry.net перестал использоваться и в декабре 2023 года был освобождён и стал доступен для регистрации.
+https://www.opennet.ru/opennews/art.shtml?num=61849</description>
+    </item>
+    
+    <item>
+      <title>ViPNet TLS Gateway VA совместим с платформой виртуализации ROSA Virtualization </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vipnet-tls-gateway-va-sovmestim-s-platformoy-virtualizacii-rosa-virtualization-20240213-213626/</link>
+      <pubDate>Tue, 13 Feb 2024 21:36:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vipnet-tls-gateway-va-sovmestim-s-platformoy-virtualizacii-rosa-virtualization-20240213-213626/</guid>
+      <description>Компании РОСА и ИнфоТеКС провели тестирование и подтвердили корректную работу высокопроизводительного TLS-криптошлюза ViPNet TLS Gateway VA на платформе виртуализации ROSA Virtualization. Установленная совместимость имеет большое значение для предприятий, которые стремятся повысить свою безопасность и оптимально использовать ресурсы виртуальной среды, особенно в работе с чувствительными к безопасности данными. Решение гарантирует соответствие требованиям современного бизнеса к безопасности, гибкости […]
+https://rosa.ru/vipnet-tls-gateway-va-sovmestim-s-platformoj-virtualizaczii-rosa-virtualization/</description>
+    </item>
+    
+    <item>
+      <title>В Python устранена уязвимость в реализации TLS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-python-ustranena-uyazvimost-v-realizacii-tls-20230825-133505/</link>
+      <pubDate>Fri, 25 Aug 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-python-ustranena-uyazvimost-v-realizacii-tls-20230825-133505/</guid>
+      <description>Опубликованы корректирующие обновления языка программирования Python 3.11.5, 3.10.13, 3.9.18 и 3.8.18, в которых устранена уязвимость (CVE-2023-40217) в классе ssl.SSLSocket, позволяющая обойти стадию согласования TLS-соединения и связанные с ним процессы, такие как проверка сертификата. Успешная атака может привести к обработке незашифрованных данных так, как если бы они были переданы с использованием корректного TLS-соединения.
+https://www.opennet.ru/opennews/art.shtml?num=59660</description>
+    </item>
+    
+  </channel>
+</rss>

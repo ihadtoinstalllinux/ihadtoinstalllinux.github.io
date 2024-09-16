@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libX11 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libx11/</link>
+    <description>Recent content in libX11 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libx11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в библиотеке libX11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-libx11-20230616-133506/</link>
+      <pubDate>Fri, 16 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-libx11-20230616-133506/</guid>
+      <description>В развиваемой проектом X.Org библиотеке libx11, предлагающей функции с клиентской реализацией протокола X11, выявлена уязвимость (CVE-2023-3138), приводящая к повреждению памяти клиентского приложения, в случае его подключения к вредоносному X-серверу или промежуточному прокси, контролируемому злоумышленником. Проблема устранена в выпуске libX11 1.8.6.
+https://www.opennet.ru/opennews/art.shtml?num=59303</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Btrfs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/btrfs/</link>
+    <description>Recent content in Btrfs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 10:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/btrfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Продемонстрирована возможность загрузки Windows из раздела с Btrfs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</link>
+      <pubDate>Sat, 22 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</guid>
+      <description>Энтузиасты продемонстрировали возможность загрузки Windows 10 из раздела с файловой системой Btrfs. Поддержка Btrfs была обеспечена через открытый драйвер WinBtrfs, возможностей которого оказалось достаточно чтобы полностью заменить NTFS. Для загрузки Windows напрямую с Btrfs-раздела был использован открытый загрузчик Quibble.
+https://www.opennet.ru/opennews/art.shtml?num=59014</description>
+    </item>
+    
+  </channel>
+</rss>

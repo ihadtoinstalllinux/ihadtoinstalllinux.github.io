@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MineCraft on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minecraft/</link>
+    <description>Recent content in MineCraft on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Minetest 5.7.0, открытого клона игры MineCraft </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minetest-5-7-0-otkrytogo-klona-igry-minecraft-20230410-233505/</link>
+      <pubDate>Mon, 10 Apr 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minetest-5-7-0-otkrytogo-klona-igry-minecraft-20230410-233505/</guid>
+      <description>Состоялся релиз Minetest 5.7.0, свободного кроссплатформенного игрового движка в стиле песочница, позволяющего создавать различные воксельные постройки, выживать, копать полезные ископаемые, выращивать культуры и т.д. Игра написана на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht 1.9-dev). Главная особенность движка состоит в том, что геймплей полностью зависит от набора модов, создаваемых на языке Lua и устанавливаемых пользователем через встроенный установщик ContentDB или через форум. Код Minetest распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GStreamer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gstreamer/</link>
+    <description>Recent content in GStreamer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2023 17:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gstreamer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в LibreOffice, позволяющие выполнить скрипт или плагин Gstreamer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-libreoffice-pozvolyayuschie-vypolnit-skript-ili-plagin-gstreamer-20231212-173538/</link>
+      <pubDate>Tue, 12 Dec 2023 17:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-libreoffice-pozvolyayuschie-vypolnit-skript-ili-plagin-gstreamer-20231212-173538/</guid>
+      <description>Раскрыта информация о двух уязвимостях в свободном офисном пакете LibreOffice, которым присвоен высокий уровень опасности (8.3 из 10). Проблемы устранены в недавних обновлениях LibreOffice 7.6.4 и 7.5.9.
+https://www.opennet.ru/opennews/art.shtml?num=60275</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Perl, ownCloud, GStreamer и Zephyr RTOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-perl-owncloud-gstreamer-i-zephyr-rtos-20231127-163553/</link>
+      <pubDate>Mon, 27 Nov 2023 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-perl-owncloud-gstreamer-i-zephyr-rtos-20231127-163553/</guid>
+      <description>Несколько недавно обнаруженных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60185</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, Glibc, GStreamer, Ghostscript, BIND и CUPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</link>
+      <pubDate>Sun, 01 Oct 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59852</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в GStreamer, приводящие к выполнению кода при обработке файлов SRT и PGS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gstreamer-privodyaschie-k-vypolneniyu-koda-pri-obrabotke-faylov-srt-i-pgs-20230709-013506/</link>
+      <pubDate>Sun, 09 Jul 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gstreamer-privodyaschie-k-vypolneniyu-koda-pri-obrabotke-faylov-srt-i-pgs-20230709-013506/</guid>
+      <description>В мультимедийном фреймворке GStreamer выявлены две уязвимости, которые могут привести к выполнению кода при обработке специально оформленных файлов в форматах SRT (CVE-2023-37329) и PGS (CVE-2023-37328) в приложениях, использующих GStreamer. Уязвимости вызваны переполнениями буфера в коде разбора и декодирования субтитров из файлов в форматах SRT и PGS. Переполнения возникают из-за отсутствия должной проверки размера присутствующих в файлах полей, перед копированием их содержимого в выделенный буфер. Уязвимости устранены в выпуске 1.22.4 наборов gst-plugins-good, gst-plugins-bad и gst-plugins-base.</description>
+    </item>
+    
+  </channel>
+</rss>

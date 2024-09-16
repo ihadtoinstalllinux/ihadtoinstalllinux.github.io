@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cuda/</link>
+    <description>Recent content in CUDA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 01:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</link>
+      <pubDate>Sat, 10 Aug 2024 01:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</guid>
+      <description>В рамках проекта LibreCUDA ведётся разработка открытой реализации API драйвера CUDA, позволяющего выполнять код CUDA на GPU NVIDIA без использования проприетарного CUDA Runtime. Работа без Runtime достигается благодаря прямому обращению к оборудованию, используя предоставляемые драйвером ioctl-вызовы и манипулируя очередью команд через MMIO (Memory-mapped I/O). Код проекта написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61675</description>
+    </item>
+    
+    <item>
+      <title>Требования юристов AMD привели к удалению части кода ZLUDA, открытой реализации CUDA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</link>
+      <pubDate>Wed, 07 Aug 2024 13:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</guid>
+      <description>Анджей Яник (Andrzej Janik), известный своей работой по созданию реализаций технологии CUDA для GPU Intel и AMD, был вынужден по требованию компании AMD убрать из открытого доступа часть кода открытого проекта ZLUDA, позволяющего выполнять немодифицированные CUDA-приложения на системах с GPU AMD, используя стек ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Отдельно отмечается, что каких-либо связанных с проектом ZLUDA обращений от компании NVIDIA, которой принадлежит права на технологию CUDA, разработчику не поступало.</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA препятствует разработке транслирующих прослоек для запуска CUDA на других платформах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-prepyatstvuet-razrabotke-transliruyuschih-prosloek-dlya-zapuska-cuda-na-drugih-plat-20240305-003516/</link>
+      <pubDate>Tue, 05 Mar 2024 00:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-prepyatstvuet-razrabotke-transliruyuschih-prosloek-dlya-zapuska-cuda-na-drugih-plat-20240305-003516/</guid>
+      <description>Разбор легальности создания альтернативных реализаций технологии CUDA, таких как недавно опубликованный пакет ZLUDA 3, позволяющий запускать CUDA-приложения на GPU AMD, показал, что начиная с выпуска CUDA Toolkit 11.5 компания NVIDIA добавила в пользовательское соглашение (EULA) пункт, запрещающий обратный инжиниринг, декомпиляцию и дизассемлирвоание любых частей вывода, генерируемого инструментарием CUDA, выполняемого с целью трансляции подобных выводимых артефактов для платформ, отличных от NVIDIA. Перекомпиляция исходного кода CUDA-программ, поддерживаемая инструментами для перевода CUDA-программ на API AMD ROCm и Intel OpenAPI, не подпадает под запрет.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструментарий ZLUDA, позволяющий запускать CUDA-приложения на GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</link>
+      <pubDate>Tue, 13 Feb 2024 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</guid>
+      <description>Проект ZLUDA подготовил открытую реализацию технологии CUDA для GPU AMD, позволяющую выполнять немодифицированные CUDA-приложения с производительностью, близкой к производительности приложений, выполняемых без прослоек. Опубликованный инструментарий обеспечивает бинарную совместимость с существующими CUDA-приложениями, собранными при помощи компилятора CUDA для GPU NVIDIA. Реализация работает поверх развиваемого компанией AMD стека ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Код проекта написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0. Поддерживается работа в Linux и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

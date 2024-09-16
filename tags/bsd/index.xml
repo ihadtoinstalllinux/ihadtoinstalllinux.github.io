@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bsd/</link>
+    <description>Recent content in BSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2024 18:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро DragonFly BSD добавлена поддержка VPN WireGuard </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-dragonfly-bsd-dobavlena-podderzhka-vpn-wireguard-20240210-183551/</link>
+      <pubDate>Sat, 10 Feb 2024 18:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-dragonfly-bsd-dobavlena-podderzhka-vpn-wireguard-20240210-183551/</guid>
+      <description>В состав ядра операционной системы DragonFly BSD принято около 100 изменений, связанных с реализацией поддержки VPN WireGuard. Драйвер &amp;ldquo;wg&amp;rdquo; с поддержкой протокола WireGuard перенесён из FreeBSD, а код криптографических функций, сетевого интерфейса и ioctl API (для управления из пространства пользователя) заимствован из OpenBSD. Изменения в утилиту ifconfig, необходимые для настройки VPN, перенесены из OpenBSD. Реализация совместима со всеми официальными клиентами WireGuard для Linux, Windows, macOS, *BSD, iOS и Android. DragonFly BSD стала пятой открытой ОС после Linux, OpenBSD, NetBSD и FreeBSD с интегрированной поддержкой WireGuard.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск BSD-системы helloSystem 0.8.1, развиваемой автором AppImage </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bsd-sistemy-hellosystem-0-8-1-razvivaemoy-avtorom-appimage-20230312-113503/</link>
+      <pubDate>Sun, 12 Mar 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bsd-sistemy-hellosystem-0-8-1-razvivaemoy-avtorom-appimage-20230312-113503/</guid>
+      <description>Симон Петер (Simon Peter), создатель формата самодостаточных пакетов AppImage, опубликовал выпуск дистрибутива helloSystem 0.8.1, основанного на FreeBSD 13 и позиционируемого как система для обычных пользователей, на которую могут перейти любители macOS, недовольные политикой Apple. Система лишена усложнений, свойственных современным Linux-дистрибутивам, находится под полным контролем пользователя и позволяет чувствовать себя комфортно бывшим пользователям macOS. Для ознакомления с дистрибутивом cформирован загрузочный образ, размером 941 МБ (torrent).
+https://www.opennet.ru/opennews/art.shtml?num=58781</description>
+    </item>
+    
+  </channel>
+</rss>

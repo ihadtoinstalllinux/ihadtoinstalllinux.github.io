@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Perl on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/perl/</link>
+    <description>Recent content in Perl on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 15:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен язык программирования Perl 5.40.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-perl-5-40-0-20240610-153605/</link>
+      <pubDate>Mon, 10 Jun 2024 15:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-perl-5-40-0-20240610-153605/</guid>
+      <description>После 11 месяцев разработки опубликован релиз новой стабильной ветки языка программирования Perl - 5.40. При подготовке нового выпуска было изменено около 160 тыс. строк кода (без документации и автоматически сгенерированного кода - 110 тысяч), изменения затронули 1500 файлов, в разработке приняли участие 75 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=61343</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Perl-модуле Spreadsheet::ParseExcel, используемая для компрометации Barracuda ESG</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</link>
+      <pubDate>Sat, 06 Jan 2024 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</guid>
+      <description>В Perl-модуле Spreadsheet::ParseExcel, предоставляющем функции для разбора файлов в формате Excel, выявлена критическая уязвимость (CVE-2023-7101), позволяющая выполнить произвольный код при обработке файлов XLS или XLSX, включающих специально оформленные правила форматирования чисел. Уязвимость вызвана использованием при построении вызова &amp;ldquo;eval&amp;rdquo; данных, полученных из обрабатываемого файла. Проблема устранена в обновлении Spreadsheet::ParseExcel 0.66. Имеется прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=60376</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Perl, ownCloud, GStreamer и Zephyr RTOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-perl-owncloud-gstreamer-i-zephyr-rtos-20231127-163553/</link>
+      <pubDate>Mon, 27 Nov 2023 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-perl-owncloud-gstreamer-i-zephyr-rtos-20231127-163553/</guid>
+      <description>Несколько недавно обнаруженных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60185</description>
+    </item>
+    
+    <item>
+      <title>Доступен язык программирования Perl 5.38.0 с поддержкой классов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-perl-5-38-0-s-podderzhkoy-klassov-20230703-163506/</link>
+      <pubDate>Mon, 03 Jul 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-yazyk-programmirovaniya-perl-5-38-0-s-podderzhkoy-klassov-20230703-163506/</guid>
+      <description>После 13 месяцев разработки опубликован релиз новой стабильной ветки языка программирования Perl - 5.38. При подготовке нового выпуска было изменено около 290 тыс. строк кода, изменения затронули 1500 файлов, в разработке приняли участие 100 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=59373</description>
+    </item>
+    
+    <item>
+      <title>Релиз компилятора Rakudo 2023.04 для языка программирования Raku (бывший Perl 6) </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-kompilyatora-rakudo-2023-04-dlya-yazyka-programmirovaniya-raku-byvshiy-perl-6-20230423-173506/</link>
+      <pubDate>Sun, 23 Apr 2023 17:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-kompilyatora-rakudo-2023-04-dlya-yazyka-programmirovaniya-raku-byvshiy-perl-6-20230423-173506/</guid>
+      <description>Представлен выпуск Rakudo 2023.04, компилятора для языка программирования Raku (бывший Perl 6). Проект был переименован из Perl 6 так как не стал продолжением Perl 5, как ожидалось изначально, а превратился в отдельный язык программирования, не совместимый с Perl 5 на уровне исходных текстов и развиваемый отдельным сообществом разработчиков. Компилятор поддерживает варианты языка Raku, описанные в спецификациях 6.c, 6.d (по умолчанию). Одновременно доступен выпуск виртуальной машины MoarVM 2023.04, формирующей среду для запуска скомпилированного в Rakudo байт-кода.</description>
+    </item>
+    
+  </channel>
+</rss>

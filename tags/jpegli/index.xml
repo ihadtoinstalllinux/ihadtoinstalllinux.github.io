@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jpegli on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/jpegli/</link>
+    <description>Recent content in jpegli on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 14:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/jpegli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google представил библиотеку jpegli для более эффективного сжатия JPEG-изрбражений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</link>
+      <pubDate>Thu, 04 Apr 2024 14:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</guid>
+      <description>Компания Google представила новую открытую библиотеку jpegli с реализацией кодировщика и декодировщика изображений в формате JPEG. Библиотека включает дополнительные оптимизации для повышения эффективности кодирования, позволяющие на 35% увеличить степень сжатия высококачественных изображений, по сравнению с традиционными кодеками JPEG. В сравнении с libjpeg-turbo библиотека jpegli позволяет добиться аналогичного уровня качества при снижении битрейта на 32%. На уровне API и ABI библиотека полностью совместима с libjpeg62 и может применяться для её прозрачной замены.</description>
+    </item>
+    
+  </channel>
+</rss>

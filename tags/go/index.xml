@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/go/</link>
+    <description>Recent content in Go on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2024 12:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Go 1.23 с поддержкой телеметрии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-23-s-podderzhkoy-telemetrii-20240814-123540/</link>
+      <pubDate>Wed, 14 Aug 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-23-s-podderzhkoy-telemetrii-20240814-123540/</guid>
+      <description>После шести месяцев разработки увидел свет релиз языка программирования Go 1.23, который развивается компанией Google при участии сообщества как гибридное решение, сочетающее высокую производительность компилируемых языков с такими достоинствами скриптовых языков, как лёгкость написания кода, быстрота разработки и защищённость от ошибок. Код проекта распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61701</description>
+    </item>
+    
+    <item>
+      <title>Лидер проекта Go принял решение покинуть пост</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lider-proekta-go-prinyal-reshenie-pokinut-post-20240803-113534/</link>
+      <pubDate>Sat, 03 Aug 2024 11:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lider-proekta-go-prinyal-reshenie-pokinut-post-20240803-113534/</guid>
+      <description>Рас Кокс (Russ Cox) объявил об уходе с поста лидера проекта по разработке языка программирования Go, который он занимал последние 12 лет. В качестве причины ухода упоминается желание обеспечить сменяемость руководства, без которого проект может оказаться в застое. Предполагается, что смена лидера создаст условия для роста проекта, позволит по-новому взглянуть на вещи и даст возможность совершить новый шаг вперёд.
+https://www.opennet.ru/opennews/art.shtml?num=61648</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Tinygo 0.32, компилятор языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</link>
+      <pubDate>Wed, 19 Jun 2024 01:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.32, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61396</description>
+    </item>
+    
+    <item>
+      <title>Выпуск  Rust 1.78. Язык Borgo, сочетающий сильные стороны Go и Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-78-yazyk-borgo-sochetayuschiy-silnye-storony-go-i-rust-20240503-013542/</link>
+      <pubDate>Fri, 03 May 2024 01:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-78-yazyk-borgo-sochetayuschiy-silnye-storony-go-i-rust-20240503-013542/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.78, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=61104</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Go 1.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-22-20240207-123548/</link>
+      <pubDate>Wed, 07 Feb 2024 12:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-22-20240207-123548/</guid>
+      <description>Представлен релиз языка программирования Go 1.22, который развивается компанией Google при участии сообщества как гибридное решение, сочетающее высокую производительность компилируемых языков с такими достоинствами скриптовых языков, как лёгкость написания кода, быстрота разработки и защищённость от ошибок. Код проекта распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60564</description>
+    </item>
+    
+    <item>
+      <title>Выпуск jsii 1.90, генератора кода C#, Go, Java и Python из TypeScript </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</link>
+      <pubDate>Sat, 07 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</guid>
+      <description>Компания Amazon опубликовала компилятор jsii 1.90, представляющий собой модификацию компилятора TypeScript, позволяющую извлечь из компилируемых модулей информацию об API и сгенерировать универсальное представление данного API для обращения к JavaScript-классам из приложений на различных языках программирования. Код проекта написан на TypeScript и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59884</description>
+    </item>
+    
+    <item>
+      <title>Serpent OS переходит на применение языков Rust, TypeScript и Go в инструментарии и инфраструктуре</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</link>
+      <pubDate>Fri, 15 Sep 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</guid>
+      <description>Айки Доэрти (Ikey), основатель дистрибутива Solus, опубликовал заметку о последних тенденциях в разработке дистрибутива Serpent OS, на технологиях которого будет построен выпуск Solus 5. Основные моменты.
+https://www.opennet.ru/opennews/art.shtml?num=59756</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Go 1.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-21-20230809-023507/</link>
+      <pubDate>Wed, 09 Aug 2023 02:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-go-1-21-20230809-023507/</guid>
+      <description>Представлен релиз языка программирования Go 1.21, который развивается компанией Google при участии сообщества как гибридное решение, сочетающее высокую производительность компилируемых языков с такими достоинствами скриптовых языков, как лёгкость написания кода, быстрота разработки и защищённость от ошибок. Код проекта распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59570</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tinygo 0.28, компилятора языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</link>
+      <pubDate>Mon, 12 Jun 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.28, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59281</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>miracle on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/miracle/</link>
+    <description>Recent content in miracle on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 15:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/miracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен miracle-wm 0.3, композитный менеджер на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-miracle-wm-0-3-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240703-153604/</link>
+      <pubDate>Wed, 03 Jul 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-miracle-wm-0-3-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240703-153604/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical опубликовал выпуск композитного менеджера miracle-wm 0.3, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3 и Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=61480</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 одобрена поставка сборки с композитным менеджером Miracle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-odobrena-postavka-sborki-s-kompozitnym-menedzherom-miracle-20240520-223559/</link>
+      <pubDate>Mon, 20 May 2024 22:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-odobrena-postavka-sborki-s-kompozitnym-menedzherom-miracle-20240520-223559/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил создание официальных ISO-образов с графическим окружением на основе композитного менеджера Miracle, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Spin-редакцию Fedora с Miracle начнут поставлять начиная с выпуска Fedora Linux 41.
+https://www.opennet.ru/opennews/art.shtml?num=61216</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 предложено сформировать официальную сборку с  композитным менеджером Miracle</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-sformirovat-oficialnuyu-sborku-s-kompozitnym-menedzherom-miracle-20240425-013549/</link>
+      <pubDate>Thu, 25 Apr 2024 01:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-sformirovat-oficialnuyu-sborku-s-kompozitnym-menedzherom-miracle-20240425-013549/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek), разработчик из компании Canonical.
+https://www.opennet.ru/opennews/art.shtml?num=61065</description>
+    </item>
+    
+    <item>
+      <title>Опубликован miracle-wm 0.2, композитный менеджер на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</link>
+      <pubDate>Fri, 19 Apr 2024 22:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил второй выпуск композитного менеджера miracle-wm, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3 и пользовательского окружения Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=61032</description>
+    </item>
+    
+    <item>
+      <title>Сотрудник Canonical представил miracle-wm, композитный менеджер на базе Wayland и Mir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</link>
+      <pubDate>Mon, 19 Feb 2024 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил первый выпуск нового композитного менеджера miracle-wm, который базируется на использовании протокола Wayland и компонентов для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3, композитного менеджера Hyprland и пользовательского окружения Sway. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=60626</description>
+    </item>
+    
+  </channel>
+</rss>

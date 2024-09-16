@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Clojure on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/clojure/</link>
+    <description>Recent content in Clojure on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 16:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/clojure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Clojure 1.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-clojure-1-12-20240908-163537/</link>
+      <pubDate>Sun, 08 Sep 2024 16:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-clojure-1-12-20240908-163537/</guid>
+      <description>После двух с половиной лет разработки представлен релиз динамического языка программирования Clojure 1.12, базирующегося на языковых конструкциях Lisp и сочетающего в себе возможности функционального и многопоточного программирования с чертами современных скриптовых языков. Код программ на языке Clojure транслируется в Java байт-код и выполняется на виртуальной машине JVM. Код компилятора Clojure, библиотек и runtime-компонентов распространяется в рамках лицензии Eclipse Public License.
+https://www.opennet.ru/opennews/art.shtml?num=61827</description>
+    </item>
+    
+  </channel>
+</rss>

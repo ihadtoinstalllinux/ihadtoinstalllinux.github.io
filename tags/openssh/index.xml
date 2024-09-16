@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSSH on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openssh/</link>
+    <description>Recent content in OpenSSH on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 11:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в поставляемом во FreeBSD варианте OpenSSH, допускающая удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postavlyaemom-vo-freebsd-variante-openssh-dopuskayuschaya-udalennoe-vypolneni-20240812-113525/</link>
+      <pubDate>Mon, 12 Aug 2024 11:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postavlyaemom-vo-freebsd-variante-openssh-dopuskayuschaya-udalennoe-vypolneni-20240812-113525/</guid>
+      <description>В поставляемом в составе FreeBSD сервере OpenSSH выявлена уязвимость (CVE-2024-7589), позволяющая добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость является вариантом выявленной в начале июля проблемы в OpenSSH (CVE-2024-6387) и также вызвана состоянием гонки, возникающем из-за выполнения в обработчике сигналов функций, не рассчитанных на вызов в асинхронном режиме.
+https://www.opennet.ru/opennews/art.shtml?num=61690</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в пакетах с OpenSSH из состава RHEL 9, допускающая удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketah-s-openssh-iz-sostava-rhel-9-dopuskayuschaya-udalennoe-vypolnenie-koda-20240709-153546/</link>
+      <pubDate>Tue, 09 Jul 2024 15:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-paketah-s-openssh-iz-sostava-rhel-9-dopuskayuschaya-udalennoe-vypolnenie-koda-20240709-153546/</guid>
+      <description>В процессе изучения выявленной на прошлой неделе критической уязвимости в OpenSSH, обнаружена ещё одна похожая уязвимость (CVE-2024-6409), позволяющая добиться удалённого выполнения кода без прохождения аутентификации. Новая уязвимость не столь опасна как прошлая, так как проявляется после сброса привилегий в запущенном SSH-сервером дочернем процессе. Уязвимость присутствует в пакетах openssh из дистрибутива Red Hat Enterprise Linux 9, основанных на опубликованном в 2021 году выпуске OpenSSH 8.7. Проблема также затрагивает пакеты для Fedora Linux 36 и 37, основанные на выпусках OpenSSH 8.</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.8 с отключением алгоритма DSA и дополнительными механизмами защиты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-8-s-otklyucheniem-algoritma-dsa-i-dopolnitelnymi-mehanizmami-zaschity-20240701-203505/</link>
+      <pubDate>Mon, 01 Jul 2024 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-8-s-otklyucheniem-algoritma-dsa-i-dopolnitelnymi-mehanizmami-zaschity-20240701-203505/</guid>
+      <description>Опубликован релиз OpenSSH 9.8, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. Помимо устранения отдельно анонсированной критической уязвимости (CVE-2024-6387), позволяющей добиться удалённого выполнения кода с правами root на стадии до прохождения аутентификации, в новой версии исправлена ещё одна менее опасная уязвимость и предложено несколько существенных изменений, нацеленных на повышение безопасности.
+https://www.opennet.ru/opennews/art.shtml?num=61473</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в OpenSSH, позволяющая удалённо выполнить код с правами root на серверах с Glibc</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</link>
+      <pubDate>Mon, 01 Jul 2024 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</guid>
+      <description>Компания Qualys выявила критическую уязвимость (CVE-2024-6387) в OpenSSH, позволяющую добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость, которая получила кодовое имя regreSSHion, проявляется начиная с версии OpenSSH 8.5 на системах со стандартной библиотекой Glibc.
+https://www.opennet.ru/opennews/art.shtml?num=61470</description>
+    </item>
+    
+    <item>
+      <title>В OpenSSH добавлена встроенная защита от атак по подбору паролей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-vstroennaya-zaschita-ot-atak-po-podboru-paroley-20240607-133527/</link>
+      <pubDate>Fri, 07 Jun 2024 13:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-vstroennaya-zaschita-ot-atak-po-podboru-paroley-20240607-133527/</guid>
+      <description>В кодовую базу OpenSSH добавлена встроенная защита от автоматизированных атак по подбору паролей, в ходе которых боты пытаются угадать пароль пользователя, перебирая различные типовые комбинации. Для блокирования подобных атак в файл конфигурации sshd_config добавлен параметр PerSourcePenalties, позволяющий определить порог блокировки, срабатывающий при большом числе неудачных попыток соединений с одного IP-адреса. Новый механизм защиты войдёт в состав следующего выпуска OpenSSH и будет включён по умолчанию в OpenBSD 7.6.
+https://www.opennet.ru/opennews/art.shtml?num=61331</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenSSH разделяет sshd на несколько исполняемых файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-razdelyaet-sshd-na-neskolko-ispolnyaemyh-faylov-20240518-013527/</link>
+      <pubDate>Sat, 18 May 2024 01:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-razdelyaet-sshd-na-neskolko-ispolnyaemyh-faylov-20240518-013527/</guid>
+      <description>Разработчики OpenSSH начали разделение sshd на несколько отдельных исполняемых файлов. Первым шагом стало добавление в кодовую базу OpenSSH изменения, выделяющего из sshd процесс sshd-session, выполняющий задачи, связанные с обработкой сеансов. В процессе sshd оставлены функции, отвечающие за приём сетевых соединений, проверку конфигурации, загрузку хостовых ключей и управление запускаемыми процессами в соответствии с параметром MaxStartups. Таким образом исполняемый файл sshd теперь содержит минимальную функциональность, необходимую для приёма нового сетевого соединения и запуска sshd-session для обработки сеанса.</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-7-20240312-003556/</link>
+      <pubDate>Tue, 12 Mar 2024 00:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-7-20240312-003556/</guid>
+      <description>Опубликован релиз OpenSSH 9.7, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В предложенной версии началось внесение изменений, предшествующих будущему прекращению поддержки ключей на базе алгоритма DSA. В OpenSSH 9.7 предоставлена опция для отключения DSA на стадии компиляции, но сборка по умолчанию с поддержкой DSA пока сохранена. В следующем выпуске, намеченном на июнь, режим сборки будет изменён на отключение DSA по умолчанию, а в начале 2025 года реализация DSA будет удалена из кодовой базы.</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenSSH опубликовал план прекращения поддержки DSA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-opublikoval-plan-prekrascheniya-podderzhki-dsa-20240112-153528/</link>
+      <pubDate>Fri, 12 Jan 2024 15:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openssh-opublikoval-plan-prekrascheniya-podderzhki-dsa-20240112-153528/</guid>
+      <description>Разработчики проекта OpenSSH представили план прекращения поддержки ключей на базе алгоритма DSA. По современным меркам DSA-ключи не обеспечивают должного уровня защиты, так как используют размер закрытого ключа всего в 160 бит и хэш SHA1, что по уровню безопасности соответствует примерно 80 разрядному симметричному ключу.
+https://www.opennet.ru/opennews/art.shtml?num=60426</description>
+    </item>
+    
+    <item>
+      <title>Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</link>
+      <pubDate>Fri, 22 Dec 2023 22:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/</guid>
+      <description>Исследователи из Вустерского политехнического института (США) представили новый тип атаки Mayhem, использующий метод искажения битов в динамической оперативной памяти Rowhammer для изменения значений переменных в стеке, применяемых в программе в качестве флагов для принятия решения об успешности аутентификации и прохождения проверок безопасности. Практические примеры применения атаки продемонстрированы для обхода аутентификации в SUDO, OpenSSH и MySQL, а также для изменения результата проверок, связанных с безопасностью, в библиотеке OpenSSL.
+https://www.opennet.ru/opennews/art.shtml?num=60334</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.6 c устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-6-c-ustraneniem-uyazvimostey-20231219-023539/</link>
+      <pubDate>Tue, 19 Dec 2023 02:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-6-c-ustraneniem-uyazvimostey-20231219-023539/</guid>
+      <description>Опубликован релиз OpenSSH 9.6, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии устранены три проблемы с безопасностью.
+https://www.opennet.ru/opennews/art.shtml?num=60305</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-5-20231005-163505/</link>
+      <pubDate>Thu, 05 Oct 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-5-20231005-163505/</guid>
+      <description>Опубликован релиз OpenSSH 9.5, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP.
+https://www.opennet.ru/opennews/art.shtml?num=59877</description>
+    </item>
+    
+    <item>
+      <title>В OpenSSH добавлена защита от анализа задержек при вводе на клавиатуре</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-zaschita-ot-analiza-zaderzhek-pri-vvode-na-klaviature-20230830-183506/</link>
+      <pubDate>Wed, 30 Aug 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-zaschita-ot-analiza-zaderzhek-pri-vvode-na-klaviature-20230830-183506/</guid>
+      <description>В кодовую базу OpenSSH приняты изменения, добавляющие в утилиту ssh защиту от атак по сторонним каналам, анализирующим задержки между нажатиями клавиш на клавиатуре для воссоздания ввода. Подобные атаки основаны на том, что задержки между нажатиями при наборе текста зависят от расположения клавиш на клавиатуре (например, реакция при вводе буквы &amp;ldquo;F&amp;rdquo; быстрее, чем при вводе &amp;ldquo;Q&amp;rdquo; или &amp;ldquo;X&amp;rdquo;, так как для нажатия требуется меньше движений пальцев). SSH был подвержен данным атакам так как осуществлял отправку информации о введённом символе в отдельном пакете сразу после нажатия каждой клавиши , соответственно, задержки между отправкой пакетов коррелировали с задержками между нажатиями клавиш.</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-4-20230810-213505/</link>
+      <pubDate>Thu, 10 Aug 2023 21:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-4-20230810-213505/</guid>
+      <description>После пяти месяцев разработки опубликован релиз OpenSSH 9.4, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP.
+https://www.opennet.ru/opennews/art.shtml?num=59579</description>
+    </item>
+    
+    <item>
+      <title>Удалённо эксплуатируемая уязвимость в OpenSSH ssh-agent</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</link>
+      <pubDate>Thu, 20 Jul 2023 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-openssh-ssh-agent-20230720-023546/</guid>
+      <description>Компания Qualys выявила удалённо эксплуатируемую уязвимость (CVE-2023-38408) в реализации ssh-agent из состава OpenSSH, позволяющую выполнить код в системе, предоставившей доступ к ssh-agent для хоста на другом конце ssh-соединения. Совершение атаки возможно только если пользователь подключился по ssh к системе, контролируемой злоумышленником, включив проброс сокета к ssh-agent по ssh при помощи опции &amp;ldquo;-A&amp;rdquo; или настройки ForwardAgent в файле конфигурации. Кроме того, для успешной атаки в системе жертвы должны присутствовать определённые библиотеки. Исследователями подготовлен прототип эксплоита, работа которого продемонстрирована в Ubuntu 22.</description>
+    </item>
+    
+    <item>
+      <title>Обновление OpenSSH 9.3 с устранением проблем с безопасностью</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-3-s-ustraneniem-problem-s-bezopasnostyu-20230316-113503/</link>
+      <pubDate>Thu, 16 Mar 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-3-s-ustraneniem-problem-s-bezopasnostyu-20230316-113503/</guid>
+      <description>Опубликован релиз OpenSSH 9.3, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии устранены проблемы с безопасностью.
+https://www.opennet.ru/opennews/art.shtml?num=58801</description>
+    </item>
+    
+  </channel>
+</rss>

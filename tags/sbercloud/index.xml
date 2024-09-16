@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SberCloud on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sbercloud/</link>
+    <description>Recent content in SberCloud on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 01:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sbercloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenTofu удалил провайдеров YandexCloud, SberCloud и Rustack, и заблокировал доступ к репозиторию из России</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opentofu-udalil-provayderov-yandexcloud-sbercloud-i-rustack-i-zablokiroval-dostup-k-repozi-20240829-013557/</link>
+      <pubDate>Thu, 29 Aug 2024 01:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opentofu-udalil-provayderov-yandexcloud-sbercloud-i-rustack-i-zablokiroval-dostup-k-repozi-20240829-013557/</guid>
+      <description>Проект OpenTofu, в рамках которого под эгидой организации Linux Foundation развивается открытый форк платформы управления конфигурацией и автоматизации поддержания инфраструктуры Terraform, заблокировал доступ с российских IP-адресов к репозиторию registry.opentofu.org, через который распространяются модули и провайдеры для использования с OpenTofu. Кроме того, OpenTofu удалил из репозитория провайдеров (плагины для взаимодействия с облачными сервисами и управления ресурсами в них) для облачных систем SberСloud, Yandex Cloud и Rustack Cloud Platform.
+https://www.opennet.ru/opennews/art.shtml?num=61779</description>
+    </item>
+    
+  </channel>
+</rss>

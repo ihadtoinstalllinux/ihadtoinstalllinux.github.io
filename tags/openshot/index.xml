@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenShot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openshot/</link>
+    <description>Recent content in OpenShot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2024 13:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openshot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск свободного видеоредактора OpenShot 3.2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnogo-videoredaktora-openshot-3-2-0-20240625-133540/</link>
+      <pubDate>Tue, 25 Jun 2024 13:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnogo-videoredaktora-openshot-3-2-0-20240625-133540/</guid>
+      <description>Представлен выпуск свободной системы нелинейного видеомонтажа OpenShot 3.2.0. Код проекта поставляется под лицензией GPLv3: интерфейс написан на Python и PyQt5, ядро обработки видео (libopenshot) написано на C++ и использует возможности пакета FFmpeg, интерактивная шкала времени написана с использованием HTML5, JavaScript и AngularJS. Готовые сборки подготовлены для Linux (AppImage), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=61436</description>
+    </item>
+    
+    <item>
+      <title>Выпуск свободных видеоредакторов OpenShot 3.1 и Pitivi 2023.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnyh-videoredaktorov-openshot-3-1-i-pitivi-2023-03-20230409-113506/</link>
+      <pubDate>Sun, 09 Apr 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svobodnyh-videoredaktorov-openshot-3-1-i-pitivi-2023-03-20230409-113506/</guid>
+      <description>Опубликован выпуск свободной системы нелинейного видеомонтажа OpenShot 3.1.0. Код проекта поставляется под лицензией GPLv3: интерфейс написан на Python и PyQt5, ядро обработки видео (libopenshot) написано на C++ и использует возможности пакета FFmpeg, интерактивная шкала времени написана с использованием HTML5, JavaScript и AngularJS. Готовые сборки подготовлены для Linux (AppImage), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=58936</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/neon/</link>
+    <description>Recent content in Neon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 04:38:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/neon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Экспериментальные сборки KDE Neon с KDE 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperimentalnye-sborki-kde-neon-s-kde-6-20230806-043828/</link>
+      <pubDate>Sun, 06 Aug 2023 04:38:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperimentalnye-sborki-kde-neon-s-kde-6-20230806-043828/</guid>
+      <description>Проект KDE Neon, формирующий Live-сборки с актуальными версиями программ и компонентов KDE, объявил о создании экспериментальных сборок с пользовательским окружением на базе оболочки KDE Plasma 6 и приложений, портированных на KDE Frameworks 6. Ранее проектом KDE Neon с уже выпускались сборки с KDE Plasma 6, но они имели статус нестабильных, а теперь переведены в категорию экспериментальных и связаны с репозиторием &amp;ldquo;experimental&amp;rdquo;, для перехода на который подготовлен пакет &amp;ldquo;neon-settings-experimental&amp;rdquo;. Отличие новых сборок сводится к более явному разделению приложений на базе KDE Frameworks 6, имеющих статус &amp;ldquo;pre-alpha&amp;rdquo;, и более стабильного рабочего стола Plasma 6.</description>
+    </item>
+    
+    <item>
+      <title>Сформированы сборки KDE Neon с пользовательским окружением KDE Plasma 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-kde-neon-s-polzovatelskim-okruzheniem-kde-plasma-6-20230705-013504/</link>
+      <pubDate>Wed, 05 Jul 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovany-sborki-kde-neon-s-polzovatelskim-okruzheniem-kde-plasma-6-20230705-013504/</guid>
+      <description>Разработчики проекта KDE Neon, формирующего Live-сборки с актуальными версиями программ и компонентов KDE, представили новые экспериментальные сборки KDE neon unstable edition, предлагающие для ознакомления пользовательское окружение на базе оболочки KDE Plasma 6. В текущем виде пользовательское окружение в сборках KDE Neon с Plasma 6 почти не отличимо от сборок с Plasma 5.
+https://www.opennet.ru/opennews/art.shtml?num=59381</description>
+    </item>
+    
+  </channel>
+</rss>

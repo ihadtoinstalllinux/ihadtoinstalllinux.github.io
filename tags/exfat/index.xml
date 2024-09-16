@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>exFAT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exfat/</link>
+    <description>Recent content in exFAT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 16:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exfat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Linux-драйвере exFAT, позволяющая поднять привилегии в системе </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-linux-drayvere-exfat-pozvolyayuschaya-podnyat-privilegii-v-sisteme-20230825-163505/</link>
+      <pubDate>Fri, 25 Aug 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-linux-drayvere-exfat-pozvolyayuschaya-podnyat-privilegii-v-sisteme-20230825-163505/</guid>
+      <description>В поставляемом в ядре Linux драйвере для файловой системы exFAT выявлена уязвимость (CVE-2023-4273), позволяющая при монтировании специально оформленного раздела (например, при подключении вредоносного USB Flash) добиться переполнения стека и выполнения своего кода с правами ядра. Проблема пока устранена в экспериментальном выпуске ядра Linux 6.5-rc5. Проследить за исправлением в дистрибутивах можно на следующих страницах: Debian, Ubuntu, Gentoo, RHEL, SUSE, Fedora, Arch.
+https://www.opennet.ru/opennews/art.shtml?num=59664</description>
+    </item>
+    
+  </channel>
+</rss>

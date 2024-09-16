@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SKUDONET on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/skudonet/</link>
+    <description>Recent content in SKUDONET on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 13:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/skudonet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск SKUDONET 7.1, дистрибутива для создания балансировщиков трафика</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-skudonet-7-1-distributiva-dlya-sozdaniya-balansirovschikov-trafika-20240624-133511/</link>
+      <pubDate>Mon, 24 Jun 2024 13:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-skudonet-7-1-distributiva-dlya-sozdaniya-balansirovschikov-trafika-20240624-133511/</guid>
+      <description>Представлен выпуск проекта SKUDONET 7.1, развивающего специализированный дистрибутив на базе Debian GNU/Linux, оптимизированный для развёртывания балансировщиков трафика и обратных прокси, а также для создания инфраструктуры для организации доставки приложений. Поддерживается как создание балансировщиков для HTTP/HTTPS, так и реализация сервисов для распределения по узлам произвольного TCP и UDP трафика. Управление и мониторинг за системой осуществляется через web-интерфейс. Размер загрузочного iso-образа 844 МБ. Помимо готовой сборки предоставляется репозиторий пакетов, который можно использовать для формирования окружения SKUDONET на базе уже установленных систем с Debian.</description>
+    </item>
+    
+  </channel>
+</rss>

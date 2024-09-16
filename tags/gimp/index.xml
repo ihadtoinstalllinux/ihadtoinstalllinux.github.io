@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GIMP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gimp/</link>
+    <description>Recent content in GIMP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2024 14:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIMP 3 переведён на стадию заморозки строковых данных</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gimp-3-pereveden-na-stadiyu-zamorozki-strokovyh-dannyh-20240823-143507/</link>
+      <pubDate>Fri, 23 Aug 2024 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gimp-3-pereveden-na-stadiyu-zamorozki-strokovyh-dannyh-20240823-143507/</guid>
+      <description>Разработчики графического редактора GIMP объявили о переводе ветки GIMP 3 на стадию заморозки строковых данных, при которой прекращено внесения изменений в текстовые строки, показываемые в интерфейсе. Заморозка строк является одной из финальных стадий подготовки релиза и производится, чтобы дать время (как минимум месяц) на завершение работы команд, занимающимся переводом интерфейса на различные языки, чтобы они не отвлекались на отслеживание изменений в уже переведённых элементах. Исключение делается только при исправлении опечаток и ошибок, приводящих к изменению строк.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.10.38</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-38-20240506-123516/</link>
+      <pubDate>Mon, 06 May 2024 12:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-38-20240506-123516/</guid>
+      <description>Опубликован графический редактор GIMP 2.10.38. Для установки опубликованы пакеты в формате flatpak (в ближайшее время также будет подготовлен пакет в формате snap). Выпуск включает исправления ошибок и небольшие улучшения. Отмечается, что перенос новых возможностей в ветку 2.10 остановлен, а все усилия по наращиванию функциональности сосредоточены на подготовке ветки GIMP 3, которая находится в состоянии заморозки перед релизом и на финальной стадии подготовки кандидата в релизы. Вероятно, что GIMP 2.10.38 станет последним выпуском в ветке 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.99.18. Заморозка перед релизом GIMP 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-18-zamorozka-pered-relizom-gimp-3-0-20240222-203601/</link>
+      <pubDate>Thu, 22 Feb 2024 20:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-18-zamorozka-pered-relizom-gimp-3-0-20240222-203601/</guid>
+      <description>Доступен выпуск графического редактора GIMP 2.99.18, продолжающий развитие функциональности будущей стабильной ветки GIMP 3.0, в которой выполнен переход на GTK3, добавлена штатная поддержка Wayland и HiDPI, реализована базовая поддержка цветовой модели CMYK (позднее связывание), проведена значительная чистка кодовой базы, предложен новый API для разработки плагинов, реализовано кэширование отрисовки, добавлена поддержка выделения нескольких слоёв (Multi-layer selection) и обеспечено редактирование в исходном цветовом пространстве. Для установки доступен пакет в формате flatpak (org.gimp.GIMP в репозитории flathub-beta), а также сборки для Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.10.36</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-36-20231108-143522/</link>
+      <pubDate>Wed, 08 Nov 2023 14:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-10-36-20231108-143522/</guid>
+      <description>Опубликован выпуск графического редактора GIMP 2.10.36. Для установки в ближайшее время будут опубликованы пакеты в формате flatpak и snap. Выпуск в основном включает исправления ошибок и небольшие улучшения. Все усилия по наращиванию функциональности сосредоточены на подготовке ветки GIMP 3, которая находится на стадии тестирования предварительных выпусков. Ожидается, что GIMP 2.10.36 станет предпоследним выпуском в ветке 2.10 и в следующем году состоится релиз GIMP 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=60073</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического редактора GIMP 2.99.16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-16-20230710-223505/</link>
+      <pubDate>Mon, 10 Jul 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-redaktora-gimp-2-99-16-20230710-223505/</guid>
+      <description>Доступен выпуск графического редактора GIMP 2.99.16, продолжающий развитие функциональности будущей стабильной ветки GIMP 3.0, в которой выполнен переход на GTK3, добавлена штатная поддержка Wayland и HiDPI, реализована поддержка цветовой модели CMYK, проведена значительная чистка кодовой базы, предложен новый API для разработки плагинов, реализовано кэширование отрисовки, добавлена поддержка выделения нескольких слоёв (Multi-layer selection) и обеспечено редактирование в исходном цветовом пространстве. Для установки доступен пакет в формате flatpak (org.gimp.GIMP в репозитории flathub-beta), а также сборки для Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Завершено портирование GIMP на GTK3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zaversheno-portirovanie-gimp-na-gtk3-20230420-123509/</link>
+      <pubDate>Thu, 20 Apr 2023 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zaversheno-portirovanie-gimp-na-gtk3-20230420-123509/</guid>
+      <description>Разработчики графического редактора GIMP объявили об успешном выполнении задач, связанных с переводом кодовой базы на использование библиотеки GTK3 вместо GTK2, а также задействованием новой CSS-подобной системы определения стилей, применяемой в GTK3. Все необходимые для сборки с GTK3 изменения включены в основную ветку GIMP. Переход на GTK3 также отмечен как выполненная работа в плане подготовки выпуска GIMP 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=59003</description>
+    </item>
+    
+  </channel>
+</rss>

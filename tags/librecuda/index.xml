@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LibreCUDA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/librecuda/</link>
+    <description>Recent content in LibreCUDA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 01:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/librecuda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</link>
+      <pubDate>Sat, 10 Aug 2024 01:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</guid>
+      <description>В рамках проекта LibreCUDA ведётся разработка открытой реализации API драйвера CUDA, позволяющего выполнять код CUDA на GPU NVIDIA без использования проприетарного CUDA Runtime. Работа без Runtime достигается благодаря прямому обращению к оборудованию, используя предоставляемые драйвером ioctl-вызовы и манипулируя очередью команд через MMIO (Memory-mapped I/O). Код проекта написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61675</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Switch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/switch/</link>
+    <description>Recent content in Switch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 21:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/switch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Подготовлены сборки Ubuntu 24.04 для загрузки на игровой приставке Nintendo Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</link>
+      <pubDate>Mon, 20 May 2024 21:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovleny-sborki-ubuntu-24-04-dlya-zagruzki-na-igrovoy-pristavke-nintendo-switch-20240520-213543/</guid>
+      <description>Проект Switchroot объявил о готовности сборки Ubuntu 24.04, предназначенной для загрузки на игровых консолях Nintendo Switch на базе SoC Tegra X1 (Switch 2017, Switch 2019, Switch Lite и Switch OLED). Помимо Ubuntu проектом Switchroot также предоставляются предназначенные для загрузки на Nintendo Switch сборки Fedora 39, Lakka 5.0 и LineageOS 18.1. Загрузка производится с SD-карты при помощи загрузчика hekate (для обхода блокировки применяется RCM). Развиваемые проектом дополнительные компоненты распространяются под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Nintendo потребовала заблокировать проект Lockpick, что остановило разработку эмулятора Skyline Switch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nintendo-potrebovala-zablokirovat-proekt-lockpick-chto-ostanovilo-razrabotku-emulyatora-sk-20230507-123507/</link>
+      <pubDate>Sun, 07 May 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nintendo-potrebovala-zablokirovat-proekt-lockpick-chto-ostanovilo-razrabotku-emulyatora-sk-20230507-123507/</guid>
+      <description>Компания Nintendo отправила в GitHub требование о блокировке репозиториев Lockpick и Lockpick_RCM, а также около 80 их форков. Требование отправлено на основании действующего в США Законе об авторском праве в цифровую эпоху (DMCA). Проекты обвиняются в нарушении интеллектуальной собственности Nintendo и обходе технологий защиты, применяемых в приставках Nintendo Switch. В настоящее время заявка находится на рассмотрении в GitHub и блокировка пока не применена (удаление производится через сутки после отправки предупреждения авторам).</description>
+    </item>
+    
+  </channel>
+</rss>

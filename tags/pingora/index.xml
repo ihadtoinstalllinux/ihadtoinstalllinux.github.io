@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pingora on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pingora/</link>
+    <description>Recent content in Pingora on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 14:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pingora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Pingora 0.2,  фреймворка для создания сетевых сервисов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pingora-0-2-freymvorka-dlya-sozdaniya-setevyh-servisov-20240512-143544/</link>
+      <pubDate>Sun, 12 May 2024 14:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pingora-0-2-freymvorka-dlya-sozdaniya-setevyh-servisov-20240512-143544/</guid>
+      <description>Компания Cloudflare опубликовала второй выпуск фреймворка Pingora, предназначенного для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust. Построенный при помощи Pingora прокси около года используется в сети доставки контента Cloudflare вместо nginx и обрабатывает более 40 млн запросов в секунду. Код написан на языке Rust и опубликован под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61158</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск фреймворка для создания сетевых сервисов Pingora</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-freymvorka-dlya-sozdaniya-setevyh-servisov-pingora-20240411-053509/</link>
+      <pubDate>Thu, 11 Apr 2024 05:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-freymvorka-dlya-sozdaniya-setevyh-servisov-pingora-20240411-053509/</guid>
+      <description>Компания Cloudflare опубликовала первый выпуск фреймворка Pingora, предназначенного для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust. Построенный при помощи Pingora прокси около года используется в сети доставки контента Cloudflare вместо nginx и обрабатывает более 40 млн запросов в секунду. Код написан на языке Rust и опубликован под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60953</description>
+    </item>
+    
+    <item>
+      <title>Компания Cloudflare открыла код Pingora, инструментария для создания сетевых сервисов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-pingora-instrumentariya-dlya-sozdaniya-setevyh-servisov-20240304-133558/</link>
+      <pubDate>Mon, 04 Mar 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-pingora-instrumentariya-dlya-sozdaniya-setevyh-servisov-20240304-133558/</guid>
+      <description>Компания Cloudflare объявила об открытии исходного кода фреймворка Pingora, предназначенного для разработки на языке Rust защищённых высокопроизводительных сетевых сервисов и программируемых сетевых систем. Фреймворк хорошо протестирован и уже применяется в работе высоконагруженных систем - построенный на его базе прокси более года задействован в сети доставки контента Cloudflare вместо nginx и обрабатывает более 40 млн запросов в секунду. Код написан на языке Rust и опубликован под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60722</description>
+    </item>
+    
+  </channel>
+</rss>

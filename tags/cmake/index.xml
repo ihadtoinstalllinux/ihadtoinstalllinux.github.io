@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CMake on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cmake/</link>
+    <description>Recent content in CMake on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2023 12:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cmake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз системы сборки CMake 3.28</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-sborki-cmake-3-28-20231211-123531/</link>
+      <pubDate>Mon, 11 Dec 2023 12:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-sborki-cmake-3-28-20231211-123531/</guid>
+      <description>Опубликован релиз кроссплатформенного открытого генератора сценариев сборки CMake 3.28, выступающего в качестве альтернативы Autotools и используемого в таких проектах, как KDE, LLVM/Clang, MySQL, MariaDB, ReactOS и Blender. CMake примечателен предоставлением простого языка сценариев, средствами расширения функциональности через модули, поддержкой кэширования, наличием инструментов для кросс-компиляции, поддержкой генерации файлов сборки для широкого спектра систем сборки и компиляторов, наличием утилит ctest и cpack для определения сценариев тестирования и сборки пакетов, утилитой cmake-gui для интерактивной настройки параметров сборки.</description>
+    </item>
+    
+    <item>
+      <title>Доступны системы сборки CMake 3.27.0 и Meson 1.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-sistemy-sborki-cmake-3-27-0-i-meson-1-2-20230723-123513/</link>
+      <pubDate>Sun, 23 Jul 2023 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-sistemy-sborki-cmake-3-27-0-i-meson-1-2-20230723-123513/</guid>
+      <description>Опубликован релиз кроссплатформенного открытого генератора сценариев сборки CMake 3.27, выступающего в качестве альтернативы Autotools и используемого в таких проектах, как KDE, LLVM/Clang, MySQL, MariaDB, ReactOS и Blender. CMake примечателен предоставлением простого языка сценариев, средствами расширения функциональности через модули, поддержкой кэширования, наличием инструментов для кросс-компиляции, поддержкой генерации файлов сборки для широкого спектра систем сборки и компиляторов, наличием утилит ctest и cpack для определения сценариев тестирования и сборки пакетов, утилитой cmake-gui для интерактивной настройки параметров сборки.</description>
+    </item>
+    
+  </channel>
+</rss>

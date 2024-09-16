@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Makefile on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/makefile/</link>
+    <description>Recent content in Makefile on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 02:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/makefile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Autodafe, инструментарий для замены Autotools на обычный Makefile</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-autodafe-instrumentariy-dlya-zameny-autotools-na-obychnyy-makefile-20240419-023508/</link>
+      <pubDate>Fri, 19 Apr 2024 02:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-autodafe-instrumentariy-dlya-zameny-autotools-na-obychnyy-makefile-20240419-023508/</guid>
+      <description>Эрик Рэймонд (Eric S. Raymond), один из основателей организации OSI (Open Source Initiative), стоявший у истоков движения открытого ПО, опубликовал инструментарий Autodafe, позволяющий преобразовать сборочные инструкции и сценарии, применяемые утилитами Autotools, в один обычный Makefile, который может легко читаться и меняться разработчиками. Код проекта написан на языке Python и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61025</description>
+    </item>
+    
+  </channel>
+</rss>

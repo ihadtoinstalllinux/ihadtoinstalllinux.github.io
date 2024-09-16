@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>iOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ios/</link>
+    <description>Recent content in iOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2023 21:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Bluetooth-стеках Linux, macOS, Android и iOS, допускающая подстановку нажатий клавиш</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</link>
+      <pubDate>Sat, 09 Dec 2023 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</guid>
+      <description>Марк Ньюлин (Marc Newlin), семь лет назад выявивший уязвимость MouseJack, раскрыл сведения о похожей уязвимости (CVE-2023-45866), затрагивающей Bluetooth-стеки Android, Linux, macOS и iOS, и позволяющей осуществить подстановку нажатий клавиш через симуляцию активности устройства ввода, подключённого через Bluetooth. Имея доступ к клавиатурному вводу атакующий может выполнить такие действия, как запуск команд в системе, установка приложений и перенаправление сообщений.
+https://www.opennet.ru/opennews/art.shtml?num=60260</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Cisco IOS XE, применяемая для установки бэкдора</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cisco-ios-xe-primenyaemaya-dlya-ustanovki-bekdora-20231018-153559/</link>
+      <pubDate>Wed, 18 Oct 2023 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cisco-ios-xe-primenyaemaya-dlya-ustanovki-bekdora-20231018-153559/</guid>
+      <description>В реализации web-интерфейса, используемого на физических и виртуальных устройствах Cisco, оснащённых операционной системой Cisco IOS XE, выявлена критическая уязвимость (CVE-2023-20198), позволяющая без прохождения аутентификации получить полный доступ к системе с максимальным уровнем привилегий, при наличии доступа к сетевому порту, через который функционирует web-интерфейс. Опасность проблемы усугубляет то, что злоумышленники уже в течение месяца используют неисправленную уязвимость для создания дополнительных учётных записей &amp;ldquo;cisco_tac_admin&amp;rdquo; и &amp;ldquo;cisco_support&amp;rdquo; с правами администратора, и для автоматизированного размещения на устройствах импланта, предоставляющего удалённый доступ для выполнения команд на устройстве.</description>
+    </item>
+    
+  </channel>
+</rss>

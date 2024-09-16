@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GHC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghc/</link>
+    <description>Recent content in GHC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2023 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен GHC 9.4.6, компилятор для языка Haskell</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-ghc-9-4-6-kompilyator-dlya-yazyka-haskell-20230817-153505/</link>
+      <pubDate>Thu, 17 Aug 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-ghc-9-4-6-kompilyator-dlya-yazyka-haskell-20230817-153505/</guid>
+      <description>Представлен выпуск GHC 9.4.6 (Glasgow Haskell Compiler), компилятора для функционального языка программирования Haskell, обеспечивающего эффективное распараллеливание вычислений и поддерживающего программную транзакционную память (STM, Software Transactional Memory). В компиляторе реализована полная поддержка спецификации Haskell 2010 и многочисленных языковых расширений. Компилятор поддерживает генерацию исполняемых файлов с машинным кодом, формирование байткода или трансляцию в исходные тексты на языке Си. Код проекта написан на языке Haskell и распространяется под лиценизей BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59621</description>
+    </item>
+    
+  </channel>
+</rss>

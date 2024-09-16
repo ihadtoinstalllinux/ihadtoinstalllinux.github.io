@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ladybird on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ladybird/</link>
+    <description>Recent content in Ladybird on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 23:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ladybird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для продолжения разработки браузера Ladybird решено использовать язык Swift</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-prodolzheniya-razrabotki-brauzera-ladybird-resheno-ispolzovat-yazyk-swift-20240810-233521/</link>
+      <pubDate>Sat, 10 Aug 2024 23:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-prodolzheniya-razrabotki-brauzera-ladybird-resheno-ispolzovat-yazyk-swift-20240810-233521/</guid>
+      <description>Разработчики экспериментального браузера Ladybird объявили о намерении использовать язык программирования Swift в качестве основного для своего проекта. Включение в состав кода на Swift планируется начать осенью, после выхода релиза Swift 6 (использовать ветку Swift 5 мешает привязка к старой версии Clang, несовместимой с текущей кодовой базой Ladybird на С++). Благодаря возможности совмещения кода на С++ и Swift, внедрение Swift будет производиться постепенно без переписывания имеющегося кода.
+https://www.opennet.ru/opennews/art.shtml?num=61685</description>
+    </item>
+    
+    <item>
+      <title>Проект свободного браузера Ladybird получил пожертвование в 1 млн. долларов от со-основателя GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-svobodnogo-brauzera-ladybird-poluchil-pozhertvovanie-v-1-mln-dollarov-ot-so-osnovat-20240701-213529/</link>
+      <pubDate>Mon, 01 Jul 2024 21:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-svobodnogo-brauzera-ladybird-poluchil-pozhertvovanie-v-1-mln-dollarov-ot-so-osnovat-20240701-213529/</guid>
+      <description>Разработчики развиваемого с нуля свободного web-браузера Ladybird объявили о получении пожертвования, размером в 1 млн. долларов. Пожертвование предоставлено Крисом Ванстратом (Chris Wanstrath), со-основателем GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=61474</description>
+    </item>
+    
+    <item>
+      <title>Лидер SerenityOS сложил с себя полномочия и основал форк браузера Ladybird</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lider-serenityos-slozhil-s-sebya-polnomochiya-i-osnoval-fork-brauzera-ladybird-20240604-003516/</link>
+      <pubDate>Tue, 04 Jun 2024 00:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lider-serenityos-slozhil-s-sebya-polnomochiya-i-osnoval-fork-brauzera-ladybird-20240604-003516/</guid>
+      <description>Андреас Клинг (Andreas Kling), создатель операционной системы SerenityOS, объявил о снятии с себя полномочий &amp;ldquo;великодушного пожизненного диктатора&amp;rdquo; (BDFL) проекта и переключении на развитие форка web-браузера Ladybird, ранее развивавшегося в составе SerenityOS. По словам Андреаса последние два года он отстранился от разработки операционной системы и был сосредоточен только на развитии собственного браузерного движка и основанного на нём приложения Ladybird с реализацией web-браузера. Так как вокруг SerenityOS сформировалось крепкое сообщество, насчитывающее более тысячи участников и способное обходиться без него, Андреас решил целиком переключиться на развитие браузера Ladybird и продвижение его как самодостаточного и независимого от SerenityOS проекта.</description>
+    </item>
+    
+  </channel>
+</rss>

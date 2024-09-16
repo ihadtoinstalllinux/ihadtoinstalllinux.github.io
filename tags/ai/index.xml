@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ai/</link>
+    <description>Recent content in AI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2024 21:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hat опубликовал первый выпуск дистрибутива Red Hat Enterprise Linux AI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-opublikoval-pervyy-vypusk-distributiva-red-hat-enterprise-linux-ai-20240907-213531/</link>
+      <pubDate>Sat, 07 Sep 2024 21:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-opublikoval-pervyy-vypusk-distributiva-red-hat-enterprise-linux-ai-20240907-213531/</guid>
+      <description>Компания Red Hat объявила о готовности новой редакции дистрибутива RHEL - Red Hat Enterprise Linux AI (RHEL AI), специально адаптированной для выполнения задач машинного обучения и призванной упростить создание серверных решений, использующих большие языковые модели.
+https://www.opennet.ru/opennews/art.shtml?num=61822</description>
+    </item>
+    
+    <item>
+      <title>DARPA развивает AI-транслятор для переписывания Си-кода на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/darpa-razvivaet-ai-translyator-dlya-perepisyvaniya-si-koda-na-rust-20240804-013548/</link>
+      <pubDate>Sun, 04 Aug 2024 01:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/darpa-razvivaet-ai-translyator-dlya-perepisyvaniya-si-koda-na-rust-20240804-013548/</guid>
+      <description>Управление перспективных исследовательских проектов Министерства обороны США (DARPA) представило проект TRACTOR (Translating All C to Rust), развивающего транслятор для автоматического преобразования проектов на языке Си в представление на языке Rust. Транслятор примечателен использованием методов машинного обучения для достижения уровня результирующего кода на Rust, близкого по стилю и качеству к коду, написанному опытным программистом, и использующего, когда это возможно, безопасные методы для работы с памятью без включения блоков и функций, помеченных ключевым словом &amp;ldquo;unsafe&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Рейтинг открытости генеративных AI-моделей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reyting-otkrytosti-generativnyh-ai-modeley-20240627-163518/</link>
+      <pubDate>Thu, 27 Jun 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reyting-otkrytosti-generativnyh-ai-modeley-20240627-163518/</guid>
+      <description>Исследователи из Университета Неймегена (Нидерланды) подготовили рейтинг открытости 40 больших языковых моделей и 7 моделей для генерации изображений по текстовому описанию, которые заявлены производителями как открытые. Из-за того, что критерии открытости моделей машинного обучения ещё только формируются, в настоящее время сложилась ситуация, когда под видом открытых распространяются модели, имеющие лицензию, ограничивающую область использования (например, многие модели запрещают применение в коммерческих проектах). Также часто производители не предоставляют доступ к используемым при обучении данным, не раскрывают детали реализации или не открывают полностью сопутствующий код.</description>
+    </item>
+    
+    <item>
+      <title>В Firefox предложен для тестирования встроенный AI-ассистент</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhen-dlya-testirovaniya-vstroennyy-ai-assistent-20240625-013552/</link>
+      <pubDate>Tue, 25 Jun 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-predlozhen-dlya-testirovaniya-vstroennyy-ai-assistent-20240625-013552/</guid>
+      <description>Компания Mozilla анонсировала проведение экспериментов по интеграции в Firefox чатбота, использующего большие языковые модели для взаимодействия с пользователем на естественном языке. Тестирование чатбота начнётся на этой неделе в ночных сборках Firefox.
+https://www.opennet.ru/opennews/art.shtml?num=61434</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 планируют добавить AI-инструменты и расширить поддержку GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</link>
+      <pubDate>Sun, 16 Jun 2024 01:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, рассказал о некоторых возможностях, которые планируют добавить в следующий выпуск Fedora Workstation.
+https://www.opennet.ru/opennews/art.shtml?num=61374</description>
+    </item>
+    
+    <item>
+      <title>Mozilla опубликовала сервис для AI-генерации сайтов Solo 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-opublikovala-servis-dlya-ai-generacii-saytov-solo-1-0-20240611-113601/</link>
+      <pubDate>Tue, 11 Jun 2024 11:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-opublikovala-servis-dlya-ai-generacii-saytov-solo-1-0-20240611-113601/</guid>
+      <description>Компания Mozilla опубликовала первый значительный выпуск проекта Solo, развивающего платформу для создания сайтов, в которой для автоматической генерации типовых элементов интерфейса задействованы механизмы машинного обучения. Solo позиционируется как инструмент, позволяющий быстро создать стильный и современный персональный или корпоративный сайт, не имея навыков web-разработки.
+https://www.opennet.ru/opennews/art.shtml?num=61348</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Chrome OS 125 с новыми AI-инструментами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-125-s-novymi-ai-instrumentami-20240605-153601/</link>
+      <pubDate>Wed, 05 Jun 2024 15:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-chrome-os-125-s-novymi-ai-instrumentami-20240605-153601/</guid>
+      <description>Представлен релиз операционной системы Chrome OS 125, основанной на ядре Linux, системном менеджере upstart, сборочном инструментарии ebuild/portage, открытых компонентах и web-браузере Chrome 125. Пользовательское окружение Chrome OS ограничивается web-браузером, а вместо стандартных программ задействованы web-приложения, тем не менее, Chrome OS включает в себя полноценный многооконный интерфейс, рабочий стол и панель задач. Вывод на экран осуществляется при помощи графического стека Freon (ведётся работа по переходу на использование Wayland) и оконного менеджера Aura.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla добавит в Firefox 130 AI-возможность для генерации описаний изображений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-dobavit-v-firefox-130-ai-vozmozhnost-dlya-generacii-opisaniy-izobrazheniy-20240603-143506/</link>
+      <pubDate>Mon, 03 Jun 2024 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-dobavit-v-firefox-130-ai-vozmozhnost-dlya-generacii-opisaniy-izobrazheniy-20240603-143506/</guid>
+      <description>Разработчики Firefox поделились планами по расширению использования в браузере возможностей на основе механизмов машинного обучения. Начиная с выпуска Firefox 130, намеченного на 3 сентября, в браузер будет включена функциональность для автоматической генерации текстовых описаний изображений. Тестирование реализации уже началось в ночных сборках Firefox, в которых подобная функциональность встроена в PDF-просмотршик. На первом этапе для тестирования работы алгоритма описание генерируется только при добавлении новых изображений в качестве подсказки, но в дальнейшем его планируют применить и для существующих изображений.</description>
+    </item>
+    
+    <item>
+      <title>Опубликована AI-модель ChatTTS для синтеза речи</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-ai-model-chattts-dlya-sinteza-rechi-20240529-173507/</link>
+      <pubDate>Wed, 29 May 2024 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-ai-model-chattts-dlya-sinteza-rechi-20240529-173507/</guid>
+      <description>Проект ChatTTS опубликовал модель и связанный с ней инструментарий машинного обучения для синтеза эмоциональной речи. Проект ChatTTS специально оптимизирован для использования в диалоговых системах, таких как интерактивные помощники, и нацелен на воспроизведение свойств естественного эмоционального общения. Поддерживается взаимодействие с несколькими говорящими и построение интерактивного диалога. Корректно отслеживаются и воспроизводятся при синтезе просодические элементы, такие как смех, паузы и междометия.
+https://www.opennet.ru/opennews/art.shtml?num=61265</description>
+    </item>
+    
+    <item>
+      <title>В NetBSD введён запрет на использование кода, сгенерированного AI-системами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-netbsd-vveden-zapret-na-ispolzovanie-koda-sgenerirovannogo-ai-sistemami-20240516-023546/</link>
+      <pubDate>Thu, 16 May 2024 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-netbsd-vveden-zapret-na-ispolzovanie-koda-sgenerirovannogo-ai-sistemami-20240516-023546/</guid>
+      <description>Организация NetBSD Foundation представила обновлённые правила внесения изменений в дерево исходных текстов проекта. В новых правилах появился пункт, запрещающий включение в состав NetBSD кода, сгенерированного с использованием AI-инструментов на базе больших языковых моделей, таких как ChatGPT, GitHub Copilot и Code Llama, без предварительного письменного утверждения командой Core Team. В качестве причины упомянуты неопределённость в области авторских прав и несоответствия политике лицензирования NetBSD.
+https://www.opennet.ru/opennews/art.shtml?num=61183</description>
+    </item>
+    
+    <item>
+      <title>Red Hat представил дистрибутив RHEL AI и режим сборки RHEL на базе OSTree и bootc</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-distributiv-rhel-ai-i-rezhim-sborki-rhel-na-baze-ostree-i-bootc-20240509-003510/</link>
+      <pubDate>Thu, 09 May 2024 00:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-distributiv-rhel-ai-i-rezhim-sborki-rhel-na-baze-ostree-i-bootc-20240509-003510/</guid>
+      <description>Компания Red Hat представила дистрибутив Red Hat Enterprise Linux AI (RHEL AI), который специально адаптирован для выполнения задач машинного обучения и призван упростить создание серверных решений, использующих большие диалоговые модели. В состав входит подборка инструментов и фреймворков для машинного обучения, а также драйверы для использования различных аппаратных ускорителей AMD, Intel и NVIDIA, и компоненты для задействования возможностей серверов Dell, Cisco, HPE, Lenovo и SuperMicro, оптимизированных для AI-систем.
+https://www.opennet.ru/opennews/art.shtml?num=61140</description>
+    </item>
+    
+    <item>
+      <title>Проект Gentoo запретил принятие изменений, подготовленных при помощи AI-инструментов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-zapretil-prinyatie-izmeneniy-podgotovlennyh-pri-pomoschi-ai-instrumentov-20240417-103525/</link>
+      <pubDate>Wed, 17 Apr 2024 10:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gentoo-zapretil-prinyatie-izmeneniy-podgotovlennyh-pri-pomoschi-ai-instrumentov-20240417-103525/</guid>
+      <description>Управляющий совет дистрибутива Gentoo Linux утвердил правила, запрещающие принятие в Gentoo любого контента, созданного с использованием AI-инструментов, обрабатывающих запросы на естественном языке, таких как ChatGPT, Bard и GitHub Copilot. Подобные инструменты не должны использоваться при написании кода компонентов Gentoo, создании ebuild, подготовке документации и отправке отчётов об ошибках.
+https://www.opennet.ru/opennews/art.shtml?num=61006</description>
+    </item>
+    
+    <item>
+      <title>Атака на AI-системы ArtPrompt, позволяющая обойти защиту при помощи ASCII-картинок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-ai-sistemy-artprompt-pozvolyayuschaya-oboyti-zaschitu-pri-pomoschi-ascii-kartinok-20240303-123602/</link>
+      <pubDate>Sun, 03 Mar 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-ai-sistemy-artprompt-pozvolyayuschaya-oboyti-zaschitu-pri-pomoschi-ascii-kartinok-20240303-123602/</guid>
+      <description>Группа исследователей из Вашингтонского, Иллинойсского и Чикагского университетов выявила новый метод обхода ограничений по обработке опасного контента в AI-чатоботах, построенных на основе больших языковых моделей (LLM). Атака основано на том, что языковые модели GPT-3.5, GPT-4 (OpenAI), Gemini (Google), Claude (Anthropic) и Llama2 (Meta) успешно распознают и учитывают в запросах текст, оформленный в виде ASCII-графики. Таким образом, для обхода фильтров опасных вопросов оказалось достаточно указать запрещённые слова в виде ASCII-картинки.
+https://www.opennet.ru/opennews/art.shtml?num=60716</description>
+    </item>
+    
+    <item>
+      <title>СберТех запустил платформу совместной разработки GitVerse  и AI-ассистент GigaCode</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sberteh-zapustil-platformu-sovmestnoy-razrabotki-gitverse-i-ai-assistent-gigacode-20240302-123526/</link>
+      <pubDate>Sat, 02 Mar 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sberteh-zapustil-platformu-sovmestnoy-razrabotki-gitverse-i-ai-assistent-gigacode-20240302-123526/</guid>
+      <description>СберТех, дочерняя компания Сбера, объявила об открытии публичного доступа к новой платформе совместной разработки GitVerse. Платформа не является клоном существующих систем и предоставляет достаточно простой и легковесный интерфейс. Функциональность GitVerse пока ограничена только базовыми возможностями, такими как запросы на слияние, рецензирование предлагаемых изменений, форки, подписки на изменения, просмотр истории коммитов и перенос проектов с GitHub, GitLab, Gitea и любого Git-репозитория.
+https://www.opennet.ru/opennews/art.shtml?num=60709</description>
+    </item>
+    
+    <item>
+      <title>В репозитории Hugging Face выявлены вредоносные AI-модели, выполняющие код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-hugging-face-vyyavleny-vredonosnye-ai-modeli-vypolnyayuschie-kod-20240229-133554/</link>
+      <pubDate>Thu, 29 Feb 2024 13:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-hugging-face-vyyavleny-vredonosnye-ai-modeli-vypolnyayuschie-kod-20240229-133554/</guid>
+      <description>Исследователи из компании JFrog выявили в репозитории Hugging Face вредоносные модели машинного обучения, установка которых может привести к выполнению кода атакующего для получения контроля за системой пользователя. Проблема вызвана тем, что некоторые форматы распространения моделей допускают встраивание исполняемого кода, например, модели, использующие формат &amp;ldquo;pickle&amp;rdquo;, могут включать сериализированные объекты на языке Python, а также код, выполняемый при загрузке файла, а модели Tensorflow Keras могут исполнять код через Lambda Layer.
+https://www.opennet.ru/opennews/art.shtml?num=60691</description>
+    </item>
+    
+    <item>
+      <title>Google открыл AI-модель Gemma, основанную на технологиях, общих с чат-ботом Gemini</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-ai-model-gemma-osnovannuyu-na-tehnologiyah-obschih-s-chat-botom-gemini-20240224-013552/</link>
+      <pubDate>Sat, 24 Feb 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-ai-model-gemma-osnovannuyu-na-tehnologiyah-obschih-s-chat-botom-gemini-20240224-013552/</guid>
+      <description>Компания Google объявила о публикации большой языковой модели машинного обучения Gemma, построенной с использованием технологий, применяемых для построения модели чат-бота Gemini, пытающегося конкурировать с ChatGPT. Модель доступна в четырёх вариантах, охватывающих 2 и 7 миллиардов параметров, в базовом и оптимизированном для диалоговых систем представлениях. Варианты с 2 млрд параметров подходят для использования в потребительских приложениях и для их обработки достаточно CPU. Варианты с 7 млрд параметров требуют более мощного оборудования и наличия GPU или TPU.</description>
+    </item>
+    
+    <item>
+      <title>Google открыл код AI-системы Magika для определения типа содержимого файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-ai-sistemy-magika-dlya-opredeleniya-tipa-soderzhimogo-faylov-20240216-133514/</link>
+      <pubDate>Fri, 16 Feb 2024 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otkryl-kod-ai-sistemy-magika-dlya-opredeleniya-tipa-soderzhimogo-faylov-20240216-133514/</guid>
+      <description>Компания Google объявила об открытии кода проекта Magika, предназначенного для определения типа содержимого на основе анализа имеющихся в файле данных. Magika может точно определять в содержимом используемые языки программирования, методы сжатия, установочные пакеты, исполняемый код, виды разметки, форматы звука, видео, документов и изображений. Связанный с проектом инструментарий и готовая модель машинного обучения опубликованы под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60611</description>
+    </item>
+    
+    <item>
+      <title>Mozilla уволит около 60 сотрудников и сосредоточит внимание на AI-технологиях в Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-uvolit-okolo-60-sotrudnikov-i-sosredotochit-vnimanie-na-ai-tehnologiyah-v-firefox-20240214-133513/</link>
+      <pubDate>Wed, 14 Feb 2024 13:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-uvolit-okolo-60-sotrudnikov-i-sosredotochit-vnimanie-na-ai-tehnologiyah-v-firefox-20240214-133513/</guid>
+      <description>Следом за назначением нового руководителя, компания Mozilla намерена уволить около 60 сотрудников и изменить стратегию развития продуктов. С учётом того, что по публичным отчётам в компании Mozilla работает от 500 до 1000 человек, увольнения коснутся 5-10% персонала. Это четвёртая массовая волна увольнений - в 2020 году было уволено 320 (250 + 70) работников, а в 2017 - 50.
+https://www.opennet.ru/opennews/art.shtml?num=60598</description>
+    </item>
+    
+    <item>
+      <title>Проблемы из-за подготовленных AI-инструментами отчётов об уязвимостях</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/problemy-iz-za-podgotovlennyh-ai-instrumentami-otchetov-ob-uyazvimostyah-20240105-233602/</link>
+      <pubDate>Fri, 05 Jan 2024 23:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/problemy-iz-za-podgotovlennyh-ai-instrumentami-otchetov-ob-uyazvimostyah-20240105-233602/</guid>
+      <description>Дэниел Cтенберг (Daniel Stenberg), автор утилиты для получения и отправки данных по сети curl, выступил с критикой использования AI-инструментов при создании отчётов об уязвимостях. Подобные отчёты включают детальные сведения, написаны нормальным языком и выглядят качественными, но без вдумчивого анализа на деле могут лишь вводить в заблуждение, подменяя реальные проблемы качественно выглядящим мусорным содержимым.
+https://www.opennet.ru/opennews/art.shtml?num=60394</description>
+    </item>
+    
+    <item>
+      <title>Mozilla представила встраиваемый в браузер AI-бот MemoryCache</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-predstavila-vstraivaemyy-v-brauzer-ai-bot-memorycache-20231213-173531/</link>
+      <pubDate>Wed, 13 Dec 2023 17:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-predstavila-vstraivaemyy-v-brauzer-ai-bot-memorycache-20231213-173531/</guid>
+      <description>Компания Mozilla опубликовала экспериментальное дополнение MemoryCache с реализацией диалоговой системы машинного обучения, учитывающей контент, к которому пользователь обращается в браузере. В отличие от других AI-чатов MemoryCache позволяет персонализировать общение с пользователем и использовать важные для конкретного пользователя данные при формировании ответов на вопросы. Код проекта распространяется под лицензией MPL. Установка в Firefox пока поддерживается только вручную в режиме &amp;ldquo;about:debugging&amp;rdquo; и требуется применения патча.
+https://www.opennet.ru/opennews/art.shtml?num=60282</description>
+    </item>
+    
+    <item>
+      <title>Сформирован AI Alliance для совместного развития открытых технологий искусственного интеллекта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-ai-alliance-dlya-sovmestnogo-razvitiya-otkrytyh-tehnologiy-iskusstvennogo-inte-20231206-013600/</link>
+      <pubDate>Wed, 06 Dec 2023 01:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-ai-alliance-dlya-sovmestnogo-razvitiya-otkrytyh-tehnologiy-iskusstvennogo-inte-20231206-013600/</guid>
+      <description>Компании IBM и Meta основали международное сообщество AI Alliance, нацеленное на совместное развитие открытых технологий, связанных с машинным обучением и искусственным интеллектом. В число учредителей проекта вошло более 50 компаний, университетов, организаций и научных учреждений, среди которых NASA, CERN, AMD, Intel, Oracle, Red Hat, Dell, Sony, Stability AI, NSF, Linux Foundation, Калифорнийский, Гарвардский, Бостонский, Иллинойский, Токийский, Йельский и Корнеллский университеты.
+https://www.opennet.ru/opennews/art.shtml?num=60239</description>
+    </item>
+    
+    <item>
+      <title>Энергозатраты на AI-генерацию изображения оказались сопоставимы с зарядкой смартфона</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/energozatraty-na-ai-generaciyu-izobrazheniya-okazalis-sopostavimy-s-zaryadkoy-smartfona-20231204-123530/</link>
+      <pubDate>Mon, 04 Dec 2023 12:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/energozatraty-na-ai-generaciyu-izobrazheniya-okazalis-sopostavimy-s-zaryadkoy-smartfona-20231204-123530/</guid>
+      <description>Группа исследователей из компании Hugging Face и Университета Карнеги-Меллона опубликовала результаты анализа энергопотребления при выполнении различных моделей машинного обучения. Наиболее энергозатратными оказались модели машинного обучения, обеспечивающие генерацию изображений, а наименее затратными - классификации текста. Средние показатели энергопотребления моделей генерации изображений примерно в 1500 раз выше, чем классификации текста, и в 60 раз выше генерации текста.
+https://www.opennet.ru/opennews/art.shtml?num=60230</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск открытого AI-бота OpenAssistant, напоминающего ChatGPT</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-otkrytogo-ai-bota-openassistant-napominayuschego-chatgpt-20230417-133506/</link>
+      <pubDate>Mon, 17 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-otkrytogo-ai-bota-openassistant-napominayuschego-chatgpt-20230417-133506/</guid>
+      <description>Сообщество LAION (Large-scale Artificial Intelligence Open Network), развивающее инструменты, модели и коллекции данных для создания свободных систем машинного обучения (например, коллекция LAION используется для обучения моделей системы синтеза изображений Stable Diffusion), представило первый выпуск проекта Open-Assistant, развивающего чат-бот с искусственным интеллектом, способный понимать и отвечать на вопросы на естественном языке, взаимодействовать со сторонними системами и динамически извлекать необходимую информацию.
+https://www.opennet.ru/opennews/art.shtml?num=58985</description>
+    </item>
+    
+    <item>
+      <title>Mozilla запустила проект Mozilla.ai для развития открытых систем машинного обучения </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-zapustila-proekt-mozilla-ai-dlya-razvitiya-otkrytyh-sistem-mashinnogo-obucheniya-20230323-103505/</link>
+      <pubDate>Thu, 23 Mar 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-zapustila-proekt-mozilla-ai-dlya-razvitiya-otkrytyh-sistem-mashinnogo-obucheniya-20230323-103505/</guid>
+      <description>Компания Mozilla учредила стартап Mozilla.ai и инвестировала в него 30 млн долларов. Целью создания Mozilla.ai называется построение экосистемы для упрощения разработки заслуживающих доверия, независимых и открытых проектов, связанных с машинным обучением и искусственным интеллектом. Стартап намерен объединить единомышленников, считающих, что связанные с искусственным интеллектом разработки должны быть прозрачны, контролируемы и открыты.
+https://www.opennet.ru/opennews/art.shtml?num=58845</description>
+    </item>
+    
+  </channel>
+</rss>
