@@ -6,7 +6,16 @@
     <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2024 12:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз FreeBSD 13.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-4-20240917-113537/</link>
+      <pubDate>Tue, 17 Sep 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-4-20240917-113537/</guid>
+      <description>После 6 месяцев разработки опубликован релиз операционной системы FreeBSD 13.4, который стал первым выпуском, сформированным в рамках обновлённого цикла разработки, подразумевающего формирование промежуточных выпусков раз в полгода. Установочные образы FreeBSD 13.4 сформированы для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant. Следующий выпуск 13.5, который намечен на март, станет финальным и будет сопровождаться до апреля 2026 года.</description>
+    </item>
+    
     <item>
       <title>Уязвимости во FreeBSD, позволяющие повысить свои привилегии или обойти изоляцию гостевой системы</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-vo-freebsd-pozvolyayuschie-povysit-svoi-privilegii-ili-oboyti-izolyaciyu-goste-20240910-123527/</link>

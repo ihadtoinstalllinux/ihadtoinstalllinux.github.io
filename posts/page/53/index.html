@@ -154,6 +154,31 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Sinkclose - уязвимость в CPU AMD, позволяющая получить доступ к SMM
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Исследователи из компании IOActive выявили уязвимость (CVE-2023-31315) в процессорах AMD, которая при привилегированном локальном доступе к системе позволяет изменить конфигурацию SMM (System Management Mode, Ring -2), даже если включён механизм блокировки SMM (SMM Lock), а также потенциально даёт возможность добиться выполнения кода на уровне SMM. Уровень SMM, имеющий более высокий приоритет, чем режим гипервизора и нулевое кольцо защиты, позволяет получить неограниченный доступ ко всей системной памяти и может использоваться для контроля за операционной системой....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-08-10 18:35:16 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Sinkclose - уязвимость в CPU AMD, позволяющая получить доступ к SMM" href="https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Один их ключевых разработчиков Python отстранён на три месяца из-за нарушения кодекса поведения
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Тим Петерс (Tim Peters), автор гибридного алгоритма сортировки Timsort, член Python Core Team и один из старожил проекта, участвующий в разработке с первых версий CPython.
+https://www.opennet.ru/opennews/art.shtml?num=61681</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-08-10 17:35:32 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Один их ключевых разработчиков Python отстранён на три месяца из-за нарушения кодекса поведения" href="https://ihadtoinstalllinux.github.io/posts/odin-ih-klyuchevyh-razrabotchikov-python-otstranen-na-tri-mesyaca-iz-za-narusheniya-kodeks-20240810-173532/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Представлена плата Raspberry Pi Pico 2
     </h2>
   </header>
@@ -187,32 +212,6 @@ https://www.opennet.ru/opennews/art.shtml?num=61676</p>
   </section>
   <footer class="entry-footer"><span title='2024-08-10 14:35:35 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Уязвимость в PostgreSQL, позволяющая выполнить SQL-код с правами пользователя, запускающего pg_dump" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postgresql-pozvolyayuschaya-vypolnit-sql-kod-s-pravami-polzovatelya-zapuskayu-20240810-143535/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>В рамках проекта LibreCUDA ведётся разработка открытой реализации API драйвера CUDA, позволяющего выполнять код CUDA на GPU NVIDIA без использования проприетарного CUDA Runtime. Работа без Runtime достигается благодаря прямому обращению к оборудованию, используя предоставляемые драйвером ioctl-вызовы и манипулируя очередью команд через MMIO (Memory-mapped I/O). Код проекта написан на языке Си и распространяется под лицензией MIT.
-https://www.opennet.ru/opennews/art.shtml?num=61675</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-08-10 01:35:16 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime" href="https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Первый альфа-выпуск среды рабочего стола COSMIC
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>После почти двух лет разработки компания компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, представила первый альфа-выпуск среды рабочего стола COSMIC, написанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Сформировано два iso-образа с COSMIC - для систем с GPU NVIDIA (3 ГБ) и Intel/AMD (2.6 ГБ), построенных на основе дистрибутива Pop!_OS 24.04. Также доступны готовые пакеты для Fedora, NixOS, Arch Linux и Serpent OS.
-https://www.opennet.ru/opennews/art.shtml?num=61674</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-08-09 00:35:42 +0500 +05'>August 9, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Первый альфа-выпуск среды рабочего стола COSMIC" href="https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240809-003542/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
