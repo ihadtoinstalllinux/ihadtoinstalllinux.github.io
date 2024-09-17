@@ -6,7 +6,16 @@
     <description>Recent content in LLVM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 23:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 01:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован набор компиляторов LLVM 19</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-kompilyatorov-llvm-19-20240918-013600/</link>
+      <pubDate>Wed, 18 Sep 2024 01:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-kompilyatorov-llvm-19-20240918-013600/</guid>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 19.1.0, развивающего инструментарий (компиляторы, оптимизаторы и генераторы кода), компилирующий программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован в машинный код для заданной целевой платформы или использован JIT-компилятором для формирования машинных инструкций непосредственно во время выполнения программы. На базе технологий LLVM проектом развивается компилятор Clang, поддерживающий языки программирования C, C++ и Objective-C. Начиная с прошлой ветки проект перешёл на новую схему формирования номеров версий, в соответствии с которой нулевой выпуск (&amp;ldquo;N.</description>
+    </item>
+    
     <item>
       <title>Обеспечена возможность сборки ядра Linux в окружении macOS с LLVM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obespechena-vozmozhnost-sborki-yadra-linux-v-okruzhenii-macos-s-llvm-20240908-233529/</link>
