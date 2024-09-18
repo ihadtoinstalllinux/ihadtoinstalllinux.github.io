@@ -6,7 +6,16 @@
     <description>Recent content in Redis on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2024 15:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 16:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Valkey 8.0, форк СУБД Redis от Amazon, Google, Oracle и Ericsson</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</link>
+      <pubDate>Wed, 18 Sep 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</guid>
+      <description>Представлен релиз проекта Valkey 8.0, развивающего форк СУБД Redis, созданный после перевода кодовой базы Redis на проприетарную лицензию. Проект развивается на нейтральной площадке под покровительством организации Linux Foundation при участии разработчиков из таких компаний, как Amazon, Google, Oracle, Ericsson и Snap. В числе разработчиков Valkey - Маделин Олсон (Madelyn Olson), бывший мэйнтейнер Redis. Код проекта написан на языке Си и распространяется под лицензией BSD. Поддерживается работа в Linux, macOS, OpenBSD, NetBSD и FreeBSD.</description>
+    </item>
+    
     <item>
       <title>Выпуск СУБД Redis 7.4, переведённый на проприетарные лицензии</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-redis-7-4-perevedennyy-na-proprietarnye-licenzii-20240731-153550/</link>
