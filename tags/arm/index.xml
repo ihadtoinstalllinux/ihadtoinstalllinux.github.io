@@ -6,7 +6,16 @@
     <description>Recent content in ARM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2024 23:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 22:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Vulkan-драйвер PanVK добавлена поддержка GPU ARM на базе архитектуры V10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</link>
+      <pubDate>Wed, 18 Sep 2024 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</guid>
+      <description>Компания Collabora объявила о реализации поддержки GPU ARM Mali на базе микроархитектуры V10 в драйвере PanVK, обеспечивающем поддержку графического API Vulkan. Изменения, которые уже приняты в основную ветку проекта Mesa, позволяют использовать открытые драйверы на системах с GPU ARM Mali-G610 и Mali-G310. Тем не менее, отмечается, что поддержка ещё достаточно сырая, так как сам драйвер PanVK и добавленный для ARM V10 код не признаны готовыми для повсеместного использования (некоторые приложения могут не запускаться), а также ограничены поддержкой версии Vulkan 1.</description>
+    </item>
+    
     <item>
       <title>План прекращения поддержки старых процессоров ARM в ядре Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/plan-prekrascheniya-podderzhki-staryh-processorov-arm-v-yadre-linux-20240802-233528/</link>
