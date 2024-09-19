@@ -6,7 +6,17 @@
     <description>Recent content in Ruby on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 12:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 01:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Ruby-SAML, позволяющая обойти аутентификацию в GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</link>
+      <pubDate>Fri, 20 Sep 2024 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки GitLab - 17.3.3, 17.2.6 и 17.1.8, в которых устранена критическая уязвимость, позволяющая обойти аутентификацию на базе SAML (Security Assertion Markup Language). Проблема вызвана уязвимостью (CVE-2024-45409) в Ruby-библиотеках ruby-saml и omniauth-saml, реализующих клиентскую часть SAML-авторизации. Уязвимости присвоен максимальный уровень опасности 10 из 10. Проблема устранена в обновлениях пакетов ruby-saml (1.17.0 и 1.12.3) и omniauth-saml (2.2.0).
+https://www.opennet.ru/opennews/art.shtml?num=61893</description>
+    </item>
+    
     <item>
       <title>Представлен RubyWM, оконный менеджер, написанный целиком на Ruby</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-rubywm-okonnyy-menedzher-napisannyy-celikom-na-ruby-20240123-123732/</link>
