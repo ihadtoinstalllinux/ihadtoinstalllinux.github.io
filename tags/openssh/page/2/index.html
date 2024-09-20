@@ -139,6 +139,19 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>В OpenSSH добавлена встроенная защита от атак по подбору паролей
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В кодовую базу OpenSSH добавлена встроенная защита от автоматизированных атак по подбору паролей, в ходе которых боты пытаются угадать пароль пользователя, перебирая различные типовые комбинации. Для блокирования подобных атак в файл конфигурации sshd_config добавлен параметр PerSourcePenalties, позволяющий определить порог блокировки, срабатывающий при большом числе неудачных попыток соединений с одного IP-адреса. Новый механизм защиты войдёт в состав следующего выпуска OpenSSH и будет включён по умолчанию в OpenBSD 7.6.
+https://www.opennet.ru/opennews/art.shtml?num=61331</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-06-07 13:35:27 +0500 +05'>June 7, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В OpenSSH добавлена встроенная защита от атак по подбору паролей" href="https://ihadtoinstalllinux.github.io/posts/v-openssh-dobavlena-vstroennaya-zaschita-ot-atak-po-podboru-paroley-20240607-133527/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Проект OpenSSH разделяет sshd на несколько исполняемых файлов
     </h2>
   </header>
@@ -185,19 +198,6 @@ https://www.opennet.ru/opennews/art.shtml?num=60334</p>
   </section>
   <footer class="entry-footer"><span title='2023-12-22 22:35:55 +0500 +05'>December 22, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Mayhem - атака, искажающая биты в памяти для обхода аутентификации в sudo и OpenSSH" href="https://ihadtoinstalllinux.github.io/posts/mayhem-ataka-iskazhayuschaya-bity-v-pamyati-dlya-obhoda-autentifikacii-v-sudo-i-openssh-20231222-223555/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Релиз OpenSSH 9.6 c устранением уязвимостей
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликован релиз OpenSSH 9.6, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии устранены три проблемы с безопасностью.
-https://www.opennet.ru/opennews/art.shtml?num=60305</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-12-19 02:35:39 +0500 +05'>December 19, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Релиз OpenSSH 9.6 c устранением уязвимостей" href="https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-6-c-ustraneniem-uyazvimostey-20231219-023539/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
