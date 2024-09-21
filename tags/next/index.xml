@@ -6,7 +6,16 @@
     <description>Recent content in next on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2024 13:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/next/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 19:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/next/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Oracle перевела Linux-ядро UEK-next на ветку 6.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-perevela-linux-yadro-uek-next-na-vetku-6-10-20240921-193554/</link>
+      <pubDate>Sat, 21 Sep 2024 19:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-perevela-linux-yadro-uek-next-na-vetku-6-10-20240921-193554/</guid>
+      <description>Компания Oracle обновила пакет с ядром UEK-next (Next Unbreakable Enterprise Kernel) до ветки ядра Linux 6.10. В дистрибутиве Oracle Linux вместо ядра из Red Hat Enterprise Linux по умолчанию используется ядро UEK 7, основанное на ядре Linux 5.15, в то время как ветка UEK-next развивается в виде непрерывно обновляемой опции для разработчиков, позволяющей получить доступ к наиболее свежим улучшениям из основной ветки ядра, сохранив при этом доступ к специфичным для ядра UEK расширенным возможностям, таким как как интеграция DTrace и улучшенная поддержка Btrfs, а также оптимизациям для работы с программным обеспечением и оборудованием Oracle.</description>
+    </item>
+    
     <item>
       <title>Компания Oracle опубликовала первый выпуск ядра UEK-next, основанный на ядре Linux 6.9</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-pervyy-vypusk-yadra-uek-next-osnovannyy-na-yadre-linux-6-9-20240704-133534/</link>
