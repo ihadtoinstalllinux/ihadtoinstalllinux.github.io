@@ -6,7 +6,16 @@
     <description>Recent content in CRIU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Nov 2023 12:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/criu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 14:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/criu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск CRIU 4.0, системы для сохранения и восстановления состояния процессов в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-criu-4-0-sistemy-dlya-sohraneniya-i-vosstanovleniya-sostoyaniya-processov-v-linux-20240922-143538/</link>
+      <pubDate>Sun, 22 Sep 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-criu-4-0-sistemy-dlya-sohraneniya-i-vosstanovleniya-sostoyaniya-processov-v-linux-20240922-143538/</guid>
+      <description>Опубликован выпуск инструментария CRIU 4.0 (Checkpoint and Restore In Userspace), предназначенного для сохранения и восстановления процессов в пространстве пользователя. Инструментарий позволяет сохранить состояние одного или группы процессов, а затем возобновить работу с сохранённой позиции, в том числе после перезагрузки системы или на другом сервере без разрыва уже установленных сетевых соединений. Код проекта распространяется под лицензией GPLv2. CRIU применяется в таких системах управления контейнерами, как OpenVZ, LXC/LXD и Docker. Необходимые для работы CRIU изменения включены в основной состав ядра Linux.</description>
+    </item>
+    
     <item>
       <title>Выпуск CRIU 3.19, системы для сохранения и восстановления состояния процессов в Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-criu-3-19-sistemy-dlya-sohraneniya-i-vosstanovleniya-sostoyaniya-processov-v-linux-20231130-123542/</link>
