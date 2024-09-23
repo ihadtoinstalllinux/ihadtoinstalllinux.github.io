@@ -6,7 +6,16 @@
     <description>Recent content in JavaScript on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 12:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Sep 2024 16:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В JavaScript-платформе Bun добавлена поддержка вызова кода на языке Си</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-javascript-platforme-bun-dobavlena-podderzhka-vyzova-koda-na-yazyke-si-20240923-163510/</link>
+      <pubDate>Mon, 23 Sep 2024 16:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-javascript-platforme-bun-dobavlena-podderzhka-vyzova-koda-na-yazyke-si-20240923-163510/</guid>
+      <description>В платформе Bun, развиваемой в качестве альтернативы Node.js и предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript, реализована экспериментальная возможность компиляции и выполнения обработчиков, написанных на языке Си. Ранее для вызова низкоуровневого кода требовалось либо создавать N-API-плагины к движку V8, либо компилировать код в формат WebAssembly (WASM/WASI), что усложняло разработку и накладывало определённые ограничения. Теперь код на языке Си можно напрямую встраивать в JavaScript и компилировать на лету с использованием компилятора TinyCC, а также подключать динамически связываемые библиотеки.</description>
+    </item>
+    
     <item>
       <title>Доступна JavaScript-платформа Node.js 22.0.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dostupna-javascript-platforma-node-js-22-0-0-20240425-123511/</link>
