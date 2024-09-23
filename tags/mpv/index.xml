@@ -6,7 +6,17 @@
     <description>Recent content in MPV on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 10:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mpv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Sep 2024 00:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mpv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз видеоплеера MPV 0.39</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-videopleera-mpv-0-39-20240924-003522/</link>
+      <pubDate>Tue, 24 Sep 2024 00:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-videopleera-mpv-0-39-20240924-003522/</guid>
+      <description>После пяти месяцев разработки сформирован выпуск открытого видеоплеера MPV 0.39, в 2013 году ответвившегося от кодовой базы проекта MPlayer2. В MPV основное внимание уделяется разработке новых возможностей, не заботясь о сохранении совместимости с MPlayer. Код MPV распространяется под лицензией LGPLv2.1+, некоторые части остаются под GPLv2, но процесс перехода на LGPL почти завершён и для отключения оставшегося GPL-кода можно использовать опцию &amp;ldquo;&amp;ndash;enable-lgpl&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61917</description>
+    </item>
+    
     <item>
       <title>Релиз видеоплеера MPV 0.38</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-videopleera-mpv-0-38-20240418-103544/</link>
