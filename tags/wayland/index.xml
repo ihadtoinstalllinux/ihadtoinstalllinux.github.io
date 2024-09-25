@@ -6,7 +6,17 @@
     <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 03:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 14:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Valve запустила проект Frog для ускорения продвижения новых протоколов Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</link>
+      <pubDate>Wed, 25 Sep 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</guid>
+      <description>Разработчики из компании Valve представили проект frog-protocols, в рамах которого планируется развивать дополнительный набор протоколов для Wayland, дополняющих протоколы из набора wayland-protocols, поставляющего Wayland-расширения для построения композитных серверов и пользовательских окружений. Создание отдельного набора протоколов к Wayland объясняется слишком медленным и буксующим в бесконечных обсуждениях процессом принятия новых протоколов в wayland-protocols, который может затягиваться на месяцы и годы.
+https://www.opennet.ru/opennews/art.shtml?num=61925</description>
+    </item>
+    
     <item>
       <title>Выпуск Wayland-Protocols 1.36</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-36-20240902-033524/</link>
