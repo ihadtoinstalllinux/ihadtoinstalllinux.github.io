@@ -6,7 +6,16 @@
     <description>Recent content in Intel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Sep 2024 12:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 00:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен ELKS 0.8, вариант ядра Linux для старых 16-разрядных процессоров Intel </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-elks-0-8-variant-yadra-linux-dlya-staryh-16-razryadnyh-processorov-intel-20240926-003529/</link>
+      <pubDate>Thu, 26 Sep 2024 00:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-elks-0-8-variant-yadra-linux-dlya-staryh-16-razryadnyh-processorov-intel-20240926-003529/</guid>
+      <description>Опубликован выпуск проекта ELKS 0.8 (Embeddable Linux Kernel Subset), развивающего Linux-подобную операционную систему для 16-разрядных процессоров Intel 8086, 8088, 80188, 80186, 80286 и NEC V20/V30. ОС может использоваться на старых компьютерах класса IBM-PC XT / AT, отечественном компьютере MK-88, винтажной плате Monotech NuXT 2.0 и на SBC / SoC / FPGA, воссоздающих архитектуру IA16. Проект развивается с 1995 года и начинался как ответвление ядра Linux для устройств без блока управления памятью (MMU).</description>
+    </item>
+    
     <item>
       <title>Linux запущен на Intel 4004, первом коммерческом микропроцессоре</title>
       <link>https://ihadtoinstalllinux.github.io/posts/linux-zapuschen-na-intel-4004-pervom-kommercheskom-mikroprocessore-20240921-123527/</link>
