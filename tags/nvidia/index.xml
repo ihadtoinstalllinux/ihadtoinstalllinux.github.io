@@ -6,7 +6,16 @@
     <description>Recent content in NVIDIA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 01:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 22:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA опубликовала код с реализацией vGPU на базе драйвера Nouveau</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-opublikovala-kod-s-realizaciey-vgpu-na-baze-drayvera-nouveau-20240925-223548/</link>
+      <pubDate>Wed, 25 Sep 2024 22:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-opublikovala-kod-s-realizaciey-vgpu-na-baze-drayvera-nouveau-20240925-223548/</guid>
+      <description>Компания NVIDIA опубликовала набор патчей для ядра Linux с реализацией технологии vGPU, позволяющей использовать виртуальные GPU NVIDIA в системах виртуализации. Работа vGPU организуется аппаратно через разделение ресурсов физического GPU NVIDIA и привязки каждому vGPU своей виртуальной функции PCI Express (VF, Virtual Function), что позволяет создавать на базе гостевых систем мощные виртуальные рабочие станции, способные выполнять ресурсоёмкие вычислительные и графические операции. Драйвер может использоваться с видеокартами NVIDIA на базе микроархитектуры Ada Lovelace.</description>
+    </item>
+    
     <item>
       <title>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime</title>
       <link>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</link>
