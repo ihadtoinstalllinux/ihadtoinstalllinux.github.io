@@ -6,7 +6,17 @@
     <description>Recent content in Winamp on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 11:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/winamp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 11:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/winamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован исходный код мультимедийного проигрывателя Winamp</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-ishodnyy-kod-multimediynogo-proigryvatelya-winamp-20240925-113554/</link>
+      <pubDate>Wed, 25 Sep 2024 11:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-ishodnyy-kod-multimediynogo-proigryvatelya-winamp-20240925-113554/</guid>
+      <description>Компания Llama Group опубликовала исходный код мультимедийного проигрывателя Winamp. Код написан на языке C++ и использует в качестве зависимостей Qt, libvpx, libmpg123, OpenSSL и DirectX 9 SDK. Сборка десктоп-приложения поддерживается только для платформы Windows и требует наличие компилятора Visual Studio 2019 и библиотек Intel IPP 6.1.1.035. Код вариантов Winamp для macOS, Android и iOS остаётся закрытым.
+https://www.opennet.ru/opennews/art.shtml?num=61927</description>
+    </item>
+    
     <item>
       <title>Анонсировано открытие кода медиапроигрывателя Winamp и переход к совместной разработке</title>
       <link>https://ihadtoinstalllinux.github.io/posts/anonsirovano-otkrytie-koda-mediaproigryvatelya-winamp-i-perehod-k-sovmestnoy-razrabotke-20240517-113513/</link>
