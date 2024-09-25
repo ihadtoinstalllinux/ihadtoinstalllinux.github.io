@@ -6,7 +6,17 @@
     <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 01:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 15:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenBSD запретили использование нулевых символов в shell-скриптах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-zapretili-ispolzovanie-nulevyh-simvolov-v-shell-skriptah-20240925-153516/</link>
+      <pubDate>Wed, 25 Sep 2024 15:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-zapretili-ispolzovanie-nulevyh-simvolov-v-shell-skriptah-20240925-153516/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) добавил в ветку OpenBSD-Current, на базе которой будет сформирован релиз OpenBSD 7.6, изменение, запрещающее использование символа с нулевым кодом в shell-скриптах, обрабатываемых командным интерпретатором ksh, используемым в OpenBSD по умолчанию. Наличие нулевых символов в скриптах теперь будет приводить к завершению выполнения с выводом ошибки, за исключением из размещения среди данных в конце файла, прикреплённых после кода.
+https://www.opennet.ru/opennews/art.shtml?num=61929</description>
+    </item>
+    
     <item>
       <title>Проект OpenBSD охватил изменениями всю отделившуюся от NetBSD кодовую базу</title>
       <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</link>
