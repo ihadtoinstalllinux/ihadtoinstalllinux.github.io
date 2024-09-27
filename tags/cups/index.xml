@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cups on iHADtoinstalllinux</title>
+    <title>CUPS on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/cups/</link>
-    <description>Recent content in cups on iHADtoinstalllinux</description>
+    <description>Recent content in CUPS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2023 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 12:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удалённо эксплуатируемые уязвимости в сервере печати CUPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemye-uyazvimosti-v-servere-pechati-cups-20240927-123547/</link>
+      <pubDate>Fri, 27 Sep 2024 12:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemye-uyazvimosti-v-servere-pechati-cups-20240927-123547/</guid>
+      <description>Симоне Маргарителли (Simone Margaritelli), автор межсетевого экрана OpenSnitch и сетевого анализатора bettercap, досрочно раскрыл информацию о ранее анонсированных критических уязвимостях, позволяющих удалённо атаковать дистрибутивы GNU/Linux, Solaris, FreeBSD и некоторые другие BSD-системы. Изначально публикация была запланирована на 6 октября, но из-за утечки информации сведения пришлось опубликовать досрочно, до того как большинство дистрибутивов успеет подготовить обновление пакетов. Уязвимости затрагивают сервер печати CUPS и позволяют удалённо без прохождения аутентификации добиться выполнения кода в системе.</description>
+    </item>
+    
     <item>
       <title>Уязвимости в ядре Linux, Glibc, GStreamer, Ghostscript, BIND и CUPS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</link>
