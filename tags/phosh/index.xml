@@ -6,7 +6,16 @@
     <description>Recent content in Phosh on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2024 02:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/phosh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 01:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/phosh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Phosh 0.42.0, GNOME-окружения для смартфонов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-42-0-gnome-okruzheniya-dlya-smartfonov-20241001-013546/</link>
+      <pubDate>Tue, 01 Oct 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-42-0-gnome-okruzheniya-dlya-smartfonov-20241001-013546/</guid>
+      <description>Опубликован релиз Phosh 0.42, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+    </item>
+    
     <item>
       <title>Выпуск Phosh 0.41.0, GNOME-окружения для смартфонов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-phosh-0-41-0-gnome-okruzheniya-dlya-smartfonov-20240816-023527/</link>
