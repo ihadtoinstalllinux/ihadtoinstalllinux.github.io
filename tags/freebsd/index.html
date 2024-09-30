@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в libnv во FreeBSD и уязвимости в Netfilter в Linux
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В выпущенном в начале сентября исправлении уязвимости в библиотеке libnv выявлена логическая ошибка, из-за которой уязвимость не устранялась должным образом и система оставалась подвержена атаке. Библиотека libnv развивается проектом FreeBSD и используется в ядре и в приложениях из базовой системы для обработки списков в формате ключ/значение и для организации передачи данных при межпроцессном взаимодействии. Библиотека основана на алгоритме nvlist, применяемом в проекте OpenZFS, но во FreeBSD создана собственная реализация, поэтому уязвимость не затрагивает OpenZFS....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-09-30 11:35:32 +0500 +05'>September 30, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в libnv во FreeBSD и уязвимости в Netfilter в Linux" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Улучшение работы FreeBSD на ноутбуках названо новой стратегической целью проекта
     </h2>
   </header>
@@ -186,19 +198,6 @@ https://www.opennet.ru/opennews/art.shtml?num=61767</p>
   </section>
   <footer class="entry-footer"><span title='2024-08-26 21:35:08 +0500 +05'>August 26, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Фонд Sovereign инвестирует 686 тысяч евро в обновление инфраструктуры FreeBSD" href="https://ihadtoinstalllinux.github.io/posts/fond-sovereign-investiruet-686-tysyach-evro-v-obnovlenie-infrastruktury-freebsd-20240826-213508/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Уязвимость в поставляемом во FreeBSD варианте OpenSSH, допускающая удалённое выполнение кода
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>В поставляемом в составе FreeBSD сервере OpenSSH выявлена уязвимость (CVE-2024-7589), позволяющая добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость является вариантом выявленной в начале июля проблемы в OpenSSH (CVE-2024-6387) и также вызвана состоянием гонки, возникающем из-за выполнения в обработчике сигналов функций, не рассчитанных на вызов в асинхронном режиме.
-https://www.opennet.ru/opennews/art.shtml?num=61690</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-08-12 11:35:25 +0500 +05'>August 12, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Уязвимость в поставляемом во FreeBSD варианте OpenSSH, допускающая удалённое выполнение кода" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postavlyaemom-vo-freebsd-variante-openssh-dopuskayuschaya-udalennoe-vypolneni-20240812-113525/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

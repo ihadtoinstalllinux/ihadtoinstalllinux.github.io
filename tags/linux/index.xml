@@ -6,7 +6,25 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 23:36:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 11:36:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SU96v8aAyGFQWcCzfiTIfkRAKIVwvCPf-LwepRRM3WsLXeX4dvPzkyWr74GWcun4V-JMDenQxQqgcjy9Eq24cXvP.jpg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/img-20240930-113613/</link>
+      <pubDate>Mon, 30 Sep 2024 11:36:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/img-20240930-113613/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в libnv во FreeBSD и уязвимости в Netfilter в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</link>
+      <pubDate>Mon, 30 Sep 2024 11:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</guid>
+      <description>В выпущенном в начале сентября исправлении уязвимости в библиотеке libnv выявлена логическая ошибка, из-за которой уязвимость не устранялась должным образом и система оставалась подвержена атаке. Библиотека libnv развивается проектом FreeBSD и используется в ядре и в приложениях из базовой системы для обработки списков в формате ключ/значение и для организации передачи данных при межпроцессном взаимодействии. Библиотека основана на алгоритме nvlist, применяемом в проекте OpenZFS, но во FreeBSD создана собственная реализация, поэтому уязвимость не затрагивает OpenZFS.</description>
+    </item>
+    
     <item>
       <title>1MqK9gFew6IZ-rHJs1ZOUGNs1qDeSa_Xj5z1DSIbqxBckxwoGZnMpzXurPJjqzySqCXa1f4MNUetGekTfbB1f0oy.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20240929-233635/</link>
