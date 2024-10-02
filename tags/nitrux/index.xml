@@ -6,7 +6,16 @@
     <description>Recent content in Nitrux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2024 01:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nitrux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 13:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nitrux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Nitrux 3.7.0 с пользовательским окружением NX Desktop</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-3-7-0-s-polzovatelskim-okruzheniem-nx-desktop-20241002-133519/</link>
+      <pubDate>Wed, 02 Oct 2024 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-3-7-0-s-polzovatelskim-okruzheniem-nx-desktop-20241002-133519/</guid>
+      <description>Опубликован выпуск дистрибутива Nitrux 3.7.0, построенного на пакетной базе Debian, технологиях KDE и системе инициализации OpenRC. Проект предлагает собственный рабочий стол NX Desktop, который представляет собой надстройку над KDE Plasma. На основе библиотеки Maui для дистрибутива развивается набор типовых пользовательских приложений, которые можно использовать как на настольных системах, так и на мобильных устройствах. Для установки дополнительных приложений продвигается система самодостаточных пакетов AppImages. Размер полного загрузочного образа составляет 3.2 ГБ. Наработки проекта распространяются под свободными лицензиями.</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива Nitrux 3.6.0 с пользовательским окружением NX Desktop </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-nitrux-3-6-0-s-polzovatelskim-okruzheniem-nx-desktop-20240806-013540/</link>
