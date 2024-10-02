@@ -6,7 +6,16 @@
     <description>Recent content in Ladybird on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 23:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ladybird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 01:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ladybird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Браузер Ladybird опередил Servo при тестировании поддержки web-технологий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/brauzer-ladybird-operedil-servo-pri-testirovanii-podderzhki-web-tehnologiy-20241003-013551/</link>
+      <pubDate>Thu, 03 Oct 2024 01:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/brauzer-ladybird-operedil-servo-pri-testirovanii-podderzhki-web-tehnologiy-20241003-013551/</guid>
+      <description>30 сентября браузер Ladybird опередил движок Servo по числу успешно пройдённых тестов из набора web-platform-tests, определяющих совместимость с эталонной web-платформой. В частности, Servo успешно проходит 1303211 проверок, Ladybird - 1518672, Firefox 131 - 1805845, Safari 204dev - 1812433, Chromium 131 - 1862747. Тесты web-platform-tests формируются в рамках инициативы Interop, продвигаемой совместно компаниями Google, Mozilla, Apple, Microsoft, Bocoup и Igalia, и нацеленной на проверку уровня реализации web-технологий в браузерах и выявление расхождений, влияющих на внешний вид и поведение при обработке сайтов.</description>
+    </item>
+    
     <item>
       <title>Для продолжения разработки браузера Ladybird решено использовать язык Swift</title>
       <link>https://ihadtoinstalllinux.github.io/posts/dlya-prodolzheniya-razrabotki-brauzera-ladybird-resheno-ispolzovat-yazyk-swift-20240810-233521/</link>
