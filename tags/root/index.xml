@@ -6,7 +6,17 @@
     <description>Recent content in root on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 16:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 00:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в pam_oath, позволяющая получить права root в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-pam-oath-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20241005-003513/</link>
+      <pubDate>Sat, 05 Oct 2024 00:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-pam-oath-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20241005-003513/</guid>
+      <description>В PAM-модуле pam_oath, входящем в состав пакета oath-toolkit и применяемого при двухфакторной аутентификации с использованием одноразовых паролей (OTP), выявлена уязвимость (CVE-2024-47191), позволяющая непривилегированному пользователю получить root-доступ в системе.
+https://www.opennet.ru/opennews/art.shtml?num=61987</description>
+    </item>
+    
     <item>
       <title>Уязвимость в OpenSSH, позволяющая удалённо выполнить код с правами root на серверах с Glibc</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</link>
