@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mitmproxy on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mitmproxy/</link>
+    <description>Recent content in Mitmproxy on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mitmproxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск HTTPS-анализатора Mitmproxy 11 с поддержкой HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</link>
+      <pubDate>Sun, 06 Oct 2024 12:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</guid>
+      <description>Представлен релиз проекта Mitmproxy 11, развивающего инструментарий для перехвата трафика внутри соединений, установленных по HTTPS, с возможностями инспектирования, модификации и повторного воспроизведения трафика. Основным назначением Mitmproxy является организация отслеживания трафика в корпоративных системах и диагностика проблем, например, выявление скрытой сетевой активности приложений. Исходные тексты проекта написаны на языке Python и распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61997</description>
+    </item>
+    
+  </channel>
+</rss>

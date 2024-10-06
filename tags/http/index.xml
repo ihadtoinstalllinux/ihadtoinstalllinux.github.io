@@ -6,7 +6,17 @@
     <description>Recent content in HTTP on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2024 01:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск HTTPS-анализатора Mitmproxy 11 с поддержкой HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</link>
+      <pubDate>Sun, 06 Oct 2024 12:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</guid>
+      <description>Представлен релиз проекта Mitmproxy 11, развивающего инструментарий для перехвата трафика внутри соединений, установленных по HTTPS, с возможностями инспектирования, модификации и повторного воспроизведения трафика. Основным назначением Mitmproxy является организация отслеживания трафика в корпоративных системах и диагностика проблем, например, выявление скрытой сетевой активности приложений. Исходные тексты проекта написаны на языке Python и распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61997</description>
+    </item>
+    
     <item>
       <title>Обновления nginx 1.26.2 и 1.27.1 с устранением DoS-уязвимости в ngx_http_mp4_module</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovleniya-nginx-1-26-2-i-1-27-1-s-ustraneniem-dos-uyazvimosti-v-ngx-http-mp4-module-20240815-013530/</link>
