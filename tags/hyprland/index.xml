@@ -6,7 +6,16 @@
     <description>Recent content in Hyprland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 01:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Hyprland 0.44, композитного сервера на базе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-44-kompozitnogo-servera-na-baze-wayland-20241007-023538/</link>
+      <pubDate>Mon, 07 Oct 2024 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-44-kompozitnogo-servera-na-baze-wayland-20241007-023538/</guid>
+      <description>Опубликован выпуск композитного сервера Hyprland 0.44, использующего протокол Wayland. Композитный сервер ориентирован на мозаичную (tiling) компоновку окон, но также поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Поддерживаются элементы для создания визуально привлекательных интерфейсов, такие как градиенты в обрамлении окон, размытие, анимационные эффекты и тени. Для расширения функциональности могут подключаться плагины, а для внешнего управления работой предоставляется IPC на базе сокетов. Код написан на языке С++ и распространяется под лицензией BSD.</description>
+    </item>
+    
     <item>
       <title>Выпуск Hyprland 0.42, композитного сервера на базе Wayland </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-42-kompozitnogo-servera-na-baze-wayland-20240813-013510/</link>
