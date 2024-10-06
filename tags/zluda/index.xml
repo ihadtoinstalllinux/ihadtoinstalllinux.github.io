@@ -6,7 +6,16 @@
     <description>Recent content in ZLUDA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 13:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zluda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 01:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zluda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект ZLUDA продолжит развитие в форме универсальной реализации CUDA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-zluda-prodolzhit-razvitie-v-forme-universalnoy-realizacii-cuda-20241007-013559/</link>
+      <pubDate>Mon, 07 Oct 2024 01:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-zluda-prodolzhit-razvitie-v-forme-universalnoy-realizacii-cuda-20241007-013559/</guid>
+      <description>Анджей Яник (Andrzej Janik) представил план дальнейшей разработки проекта ZLUDA, развивающего открытую реализацию технологии CUDA. Если первый вариант ZLUDA был нацелен на создание реализации CUDA для GPU Intel, а второй - для GPU AMD, то представленный сейчас третий вариант будет сосредоточен на развитии универсальной реализации CUDA для любых GPU, отличных от GPU NVIDIA. Целью проекта ZLUDA заявлено предоставление на системах с GPU, отличными от NVIDIA, возможности запуска немодифицированных приложений CUDA с производительностью, близкой к производительности приложений, выполняемых без прослоек.</description>
+    </item>
+    
     <item>
       <title>Требования юристов AMD привели к удалению части кода ZLUDA, открытой реализации CUDA</title>
       <link>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</link>
