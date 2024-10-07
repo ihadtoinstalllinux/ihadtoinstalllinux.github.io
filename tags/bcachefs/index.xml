@@ -6,7 +6,16 @@
     <description>Recent content in Bcachefs on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 22:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bcachefs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 10:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bcachefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Линус Торвальдс снова недоволен коммитами в Bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-snova-nedovolen-kommitami-v-bcachefs-20241007-103531/</link>
+      <pubDate>Mon, 07 Oct 2024 10:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-snova-nedovolen-kommitami-v-bcachefs-20241007-103531/</guid>
+      <description>Линус Торвальдс выступил с новой критикой методов сопровождения Bcachefs в основном ядре Linux. Суть претензий сводится к тому, что Кент Оверстрит (Kent Overstreet), автор Bcachefs, всегда присылает много изменений в последний момент перед выходом очередной предварительной версии (&amp;quot;-RC&amp;quot;) и на этот раз его изменения привели к нарушению сборки 6.12-RC1 на системах с порядком байт &amp;ldquo;big-endian&amp;rdquo; при включении Bcachefs, так как патчи были протестированы только в локальной ветке Кента и для их рецензирования не были привлечены другие участники.</description>
+    </item>
+    
     <item>
       <title>Линус Торвальдс начал сожалеть, что одобрил добавление Bcachefs в ядро Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-nachal-sozhalet-chto-odobril-dobavlenie-bcachefs-v-yadro-linux-20240825-223534/</link>
