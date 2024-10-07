@@ -6,7 +6,16 @@
     <description>Recent content in DDoS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 16:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ddos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 15:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ddos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в CUPS оказалась пригодна для усиления трафика при DDoS-атаках</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cups-okazalas-prigodna-dlya-usileniya-trafika-pri-ddos-atakah-20241007-153516/</link>
+      <pubDate>Mon, 07 Oct 2024 15:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cups-okazalas-prigodna-dlya-usileniya-trafika-pri-ddos-atakah-20241007-153516/</guid>
+      <description>Группа, отвечающая за безопасность сети доставки контента Akamai, выявила дополнительный вектор атаки на процесс cups-browsed, помимо его использования в качестве одного из звеньев в эксплоите, приводящем к выполнению кода в системе. Через отправку запросов к процессу cups-browsed, без ограничений принимающему соединения на 631 порту, можно добиться отправки данных на другой хост, размер которых будет превышать исходный запрос до 600 раз. Для сравнения коэффициент усиления для memcached может достигать 10-50 тысяч раз, NTP - 556 раз, DNS - 28-54, RIPv2 - 21, SNMPv2 - 6.</description>
+    </item>
+    
     <item>
       <title>Платформа совместной разработки SourceHut была выведена из строя на 7  дней из-за DDoS-атаки</title>
       <link>https://ihadtoinstalllinux.github.io/posts/platforma-sovmestnoy-razrabotki-sourcehut-byla-vyvedena-iz-stroya-na-7-dney-iz-za-ddos-ata-20240120-163529/</link>
