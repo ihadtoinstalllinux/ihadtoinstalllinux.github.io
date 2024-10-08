@@ -6,7 +6,16 @@
     <description>Recent content in Tails on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Sep 2024 01:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Oct 2024 21:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Tails 6.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-8-20241008-213525/</link>
+      <pubDate>Tue, 08 Oct 2024 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-tails-6-8-20241008-213525/</guid>
+      <description>Представлен релиз специализированного дистрибутива Tails 6.8 (The Amnesic Incognito Live System), основанного на пакетной базе Debian 12, поставляемого с рабочим столом GNOME 43 и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Tails 6.8 стал первым выпуском, сформированным после объявления о переходе дистрибутива под крыло проекта Tor.</description>
+    </item>
+    
     <item>
       <title>Проект Tor и дистрибутив Tails объявили об объединении</title>
       <link>https://ihadtoinstalllinux.github.io/posts/proekt-tor-i-distributiv-tails-obyavili-ob-obedinenii-20240927-013531/</link>
