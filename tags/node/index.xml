@@ -6,7 +6,16 @@
     <description>Recent content in Node on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 17:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 14:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна платформа Deno 2.0, развиваемая автором Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</link>
+      <pubDate>Thu, 10 Oct 2024 14:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</guid>
+      <description>Опубликован выпуск платформы Deno 2.0, предназначенной для обособленного выполнения серверных приложений на языках JavaScript и TypeScript с использованием движка V8, применяемого в браузерах на основе Chromium. Проект Deno развивает Райан Даль (Ryan Dahl), создатель Node.js, с целью предоставления более защищённого окружения и устранения концептуальных ошибок, допущенных в архитектуре Node.js. Для повышения безопасности обвязка вокруг движка V8 написана на языке Rust, а для обработки запросов в неблокирующем режиме применяется платформа Tokio. Код проекта распространяется под лицензией MIT.</description>
+    </item>
+    
     <item>
       <title>В Node.js добавлена экспериментальная поддержка языка TypeScript</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-node-js-dobavlena-eksperimentalnaya-podderzhka-yazyka-typescript-20240725-173546/</link>
