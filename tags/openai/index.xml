@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenAI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openai/</link>
+    <description>Recent content in OpenAI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2024 16:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenAI открыл Transformer Debugger, отладчик для моделей машинного обучения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openai-otkryl-transformer-debugger-otladchik-dlya-modeley-mashinnogo-obucheniya-20240312-163604/</link>
+      <pubDate>Tue, 12 Mar 2024 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openai-otkryl-transformer-debugger-otladchik-dlya-modeley-mashinnogo-obucheniya-20240312-163604/</guid>
+      <description>Проект OpenAI, занимающийся развитием общедоступных проектов в области искусственного интеллекта, опубликовал отладчик Transformer Debugger, предназначенный для анализа активации структур в языковых моделях машинного обучения при обработке тех или иных данных. Как и в традиционных отладчиках в Transformer Debugger поддерживает пошаговую навигацию по выводу моделей, трассировку и перехват определённой активности. В общем виде Transformer Debugger позволяет разобраться почему языковая модель в ответ на определённый запрос выводит один токен вместо другого или почему модель уделяет большее внимание определённым токенам в запросе.</description>
+    </item>
+    
+  </channel>
+</rss>

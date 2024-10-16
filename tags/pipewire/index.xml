@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PipeWire on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pipewire/</link>
+    <description>Recent content in PipeWire on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2024 01:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pipewire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск мультимедийного сервера PipeWire 1.2.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynogo-servera-pipewire-1-2-0-20240628-013538/</link>
+      <pubDate>Fri, 28 Jun 2024 01:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynogo-servera-pipewire-1-2-0-20240628-013538/</guid>
+      <description>После семи месяцев разработки сформирована новая стабильная ветка мультимедийного сервера PipeWire 1.2.0, пришедшего на смену звуковому серверу PulseAudio и отличающийся от него добавлением средств для работы с потоками видео, возможностью обработки звука с минимальными задержками и новой моделью безопасности для управления доступом на уровне отдельных устройств и потоков. Проект поддерживается в GNOME и по умолчанию применяется в Fedora Linux, RHEL, Ubuntu, Debian, SUSE/openSUSE и многих других дистрибутивах Linux. Код проекта написан на языке Си и распространяется под лицензией LGPLv2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мультимедийного сервера PipeWire 1.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynogo-servera-pipewire-1-0-0-20231126-143714/</link>
+      <pubDate>Sun, 26 Nov 2023 14:37:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-multimediynogo-servera-pipewire-1-0-0-20231126-143714/</guid>
+      <description>Опубликован выпуск мультимедийного сервера PipeWire 1.0.0, который отмечен как первый стабильный релиз, ознаменовавший зрелость проекта. На уровне API и ABI версия 1.0 обратно совместима с веткой 0.3. PipeWire позиционируется как сервер, идущий на смену звуковому серверу PulseAudio и отличается от него добавлением средств для работы с потоками видео, возможностью обработки звука с минимальными задержками и новой моделью безопасности для управления доступом на уровне отдельных устройств и потоков. Проект поддерживается в GNOME и уже по умолчанию применяется в Fedora Linux, RHEL, Ubuntu, Debian, SUSE/openSUSE и многих других дистрибутивах Linux.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+  </channel>
+</rss>

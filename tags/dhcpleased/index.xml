@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dhcpleased on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dhcpleased/</link>
+    <description>Recent content in dhcpleased on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 15:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dhcpleased/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Из OpenBSD удалена утилита dhclient в пользу фонового процесса dhcpleased</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</link>
+      <pubDate>Mon, 01 Jul 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) внёс в кодовую базу OpenBSD-current, на основе которой формируется следующий значительный релиз, изменение, удаляющее DHCP-клиент dhclient. Вместо dhclient предлагается использовать постоянно запущенный фоновый процесс dhcpleased, поставляющийся начиная с OpenBSD 6.9 и использующий утилиту ifconfig для включения автоконфигурации сетевых интерфейсов через DHCP (включается через запуск &amp;ldquo;ifconfig $if autoconf&amp;rdquo; или добавление &amp;ldquo;inet autoconf&amp;rdquo; в /etc/hostname.$if). Начиная с OpenBSD 7.0 фоновый процесс dhcpleased был включён по умолчанию, а утилита dhclient переведена в разряд опций.</description>
+    </item>
+    
+  </channel>
+</rss>

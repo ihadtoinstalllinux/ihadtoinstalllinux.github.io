@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Godot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/godot/</link>
+    <description>Recent content in Godot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2024 16:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск открытого игрового движка Godot 4.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-3-20240816-163532/</link>
+      <pubDate>Fri, 16 Aug 2024 16:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-3-20240816-163532/</guid>
+      <description>После восьми месяцев разработки опубликован релиз свободного игрового движка Godot 4.3, подходящего для создания 2D- и 3D-игр. Движок поддерживает простой для изучения язык задания игровой логики, графическую среду для проектирования игр, систему развёртывания игр в один клик, широкие возможности анимации и симуляции физических процессов, встроенный отладчик и систему выявления узких мест в производительности. Код игрового движка, среды проектирования игр и сопутствующих средств разработки (физический движок, звуковой сервер, бэкенды 2D/3D рендеринга и т.</description>
+    </item>
+    
+    <item>
+      <title>Библиотека LibGodot для встраивания в приложения сцен, созданных для игрового движка Godot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/biblioteka-libgodot-dlya-vstraivaniya-v-prilozheniya-scen-sozdannyh-dlya-igrovogo-dvizhka-20240414-123523/</link>
+      <pubDate>Sun, 14 Apr 2024 12:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/biblioteka-libgodot-dlya-vstraivaniya-v-prilozheniya-scen-sozdannyh-dlya-igrovogo-dvizhka-20240414-123523/</guid>
+      <description>Мигель де Икаса (Miguel de Icaza), основатель таких проектов, как GNOME, Midnight Commander и Mono, представил инициативу по реализации возможности встраивания в приложения произвольных сцен, подготовленных для игрового движка Godot. Для включения в состав Godot предложена библиотека LibGodot, позволяющая отрисовывать контент, созданный для движка Godot, а также предоставляющая API для управления движком и взаимодействия с контентом. Библиотека поддерживает динамическое и статическое связывание и может использоваться с кодом на C++, Swift, Rust, Python и других языках, для которых созданы обвязки GDExtension.</description>
+    </item>
+    
+    <item>
+      <title>Проект GodotOS, подготовил оболочку операционной системы на игровом движке Godot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-godotos-podgotovil-obolochku-operacionnoy-sistemy-na-igrovom-dvizhke-godot-20240111-123514/</link>
+      <pubDate>Thu, 11 Jan 2024 12:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-godotos-podgotovil-obolochku-operacionnoy-sistemy-na-igrovom-dvizhke-godot-20240111-123514/</guid>
+      <description>Опубликован первый выпуск проекта GodotOS, развивающего прототип графического интерфейса, созданный с использованием игрового движка Godot. GodotOS преподносится как эксперимент по использованию игрового движка для проектирования минималистичного, удобного и эстетически привлекательного интерфейса рабочего стола. Код проекта написан на языке GDScript и распространяется под лицензией AGPLv3. Сборки доступны для Linux и Windows, также подготовлена демонстрация, загружаемая через Web и работающая в браузере.
+https://www.opennet.ru/opennews/art.shtml?num=60418</description>
+    </item>
+    
+    <item>
+      <title>Выпуск открытого игрового движка Godot 4.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-2-20231205-153537/</link>
+      <pubDate>Tue, 05 Dec 2023 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-2-20231205-153537/</guid>
+      <description>После пяти месяцев разработки опубликован релиз свободного игрового движка Godot 4.2, подходящего для создания 2D- и 3D-игр. Движок поддерживает простой для изучения язык задания игровой логики, графическую среду для проектирования игр, систему развёртывания игр в один клик, широкие возможности анимации и симуляции физических процессов, встроенный отладчик и систему выявления узких мест в производительности. Код игрового движка, среды проектирования игр и сопутствующих средств разработки (физический движок, звуковой сервер, бэкенды 2D/3D рендеринга и т.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск открытого игрового движка Godot 4.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-1-20230709-203505/</link>
+      <pubDate>Sun, 09 Jul 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkrytogo-igrovogo-dvizhka-godot-4-1-20230709-203505/</guid>
+      <description>После четырёх месяцев разработки опубликован релиз свободного игрового движка Godot 4.1, подходящего для создания 2D- и 3D-игр. Движок поддерживает простой для изучения язык задания игровой логики, графическую среду для проектирования игр, систему развёртывания игр в один клик, широкие возможности анимации и симуляции физических процессов, встроенный отладчик и систему выявления узких мест в производительности. Код игрового движка, среды проектирования игр и сопутствующих средств разработки (физический движок, звуковой сервер, бэкенды 2D/3D рендеринга и т.</description>
+    </item>
+    
+  </channel>
+</rss>

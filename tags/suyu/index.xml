@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Suyu on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/suyu/</link>
+    <description>Recent content in Suyu on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 12:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/suyu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitLab заблокировал репозиторий эмулятора Suyu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gitlab-zablokiroval-repozitoriy-emulyatora-suyu-20240322-123519/</link>
+      <pubDate>Fri, 22 Mar 2024 12:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gitlab-zablokiroval-repozitoriy-emulyatora-suyu-20240322-123519/</guid>
+      <description>Компания Nintendo добилась блокировки основного репозитория проекта Suyu на GitLab, спустя день после публикации первого выпуска. Репозиторий заблокирован после направления в компанию GitLab жалобы о нарушении проектом Suyu действующего в США Закона об авторском праве в цифровую эпоху (DMCA). Альтернативный репозиторий, запущенный на собственном сервере с использованием платформы Forgejo (форк Gitea), а также репозиторий с релизами на площадке GitLab, продолжают работать.
+https://www.opennet.ru/opennews/art.shtml?num=60825</description>
+    </item>
+    
+  </channel>
+</rss>

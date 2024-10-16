@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PXP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pxp/</link>
+    <description>Recent content in PXP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2023 20:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pxp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Предварительный выпуск проекта PXP, развивающего расширенный диалект языка PHP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-proekta-pxp-razvivayuschego-rasshirennyy-dialekt-yazyka-php-20230516-203504/</link>
+      <pubDate>Tue, 16 May 2023 20:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-proekta-pxp-razvivayuschego-rasshirennyy-dialekt-yazyka-php-20230516-203504/</guid>
+      <description>Опубликован первый тестовый выпуск реализации языка программирования PXP, расширяющего PHP поддержкой новых синтаксических конструкций и расширенных возможностей runtime-библиотеки. Написанный на PXP код транслируется в обычные PHP-скрипты, выполняемые при помощи штатного интерпретатора PHP. Так как PXP лишь дополняет PHP, он совместим со всеми существующим PHP-кодом. Из особенностей PXP отмечается расширения системы типов PHP для лучшего представления данных и применения статического анализа, а также поставка расширенной библиотеки классов для упрощения написания безопасного кода.</description>
+    </item>
+    
+  </channel>
+</rss>

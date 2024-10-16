@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Winamp on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/winamp/</link>
+    <description>Recent content in Winamp on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 12:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/winamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В коде Winamp обнаружено нарушение лицензии GPL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kode-winamp-obnaruzheno-narushenie-licenzii-gpl-20240928-123531/</link>
+      <pubDate>Sat, 28 Sep 2024 12:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kode-winamp-obnaruzheno-narushenie-licenzii-gpl-20240928-123531/</guid>
+      <description>В опубликованных на днях исходных текстах мультимедийного проигрывателя Winamp обнаружено заимствование кода, распространяемого под лицензиями GPL и LGPL. В частности, среди кода Winamp присутствовали файл fir_proc.cpp, кодировщик BladeMP3, плагин in_vorbis и компоненты генератора парсеров GNU Bison, распространяемые под лицензией GPL. Кроме того, в составе поставлялся изменённый код библиотеки libdiscid 0.6.2, распространяемой под лицензией LGPLv2.1. В репозитории Winamp также найдены бинарные сборки открытых библиотек libogg и vorbis, добавленные без указания лицензии.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован исходный код мультимедийного проигрывателя Winamp</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-ishodnyy-kod-multimediynogo-proigryvatelya-winamp-20240925-113554/</link>
+      <pubDate>Wed, 25 Sep 2024 11:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-ishodnyy-kod-multimediynogo-proigryvatelya-winamp-20240925-113554/</guid>
+      <description>Компания Llama Group опубликовала исходный код мультимедийного проигрывателя Winamp. Код написан на языке C++ и использует в качестве зависимостей Qt, libvpx, libmpg123, OpenSSL и DirectX 9 SDK. Сборка десктоп-приложения поддерживается только для платформы Windows и требует наличие компилятора Visual Studio 2019 и библиотек Intel IPP 6.1.1.035. Код вариантов Winamp для macOS, Android и iOS остаётся закрытым.
+https://www.opennet.ru/opennews/art.shtml?num=61927</description>
+    </item>
+    
+    <item>
+      <title>Анонсировано открытие кода медиапроигрывателя Winamp и переход к совместной разработке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovano-otkrytie-koda-mediaproigryvatelya-winamp-i-perehod-k-sovmestnoy-razrabotke-20240517-113513/</link>
+      <pubDate>Fri, 17 May 2024 11:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovano-otkrytie-koda-mediaproigryvatelya-winamp-i-perehod-k-sovmestnoy-razrabotke-20240517-113513/</guid>
+      <description>Разработчики мультимедийного проигрывателя Winamp объявили о решении открыть код проекта и перевести его на модель совместного развития, при которой любой желающий может принять участие в разработке. Публикация код запланирована на 24 сентября 2024 года. По неофициальной информации переход на открытую модель разработки вызван реорганизацией из-за финансовых проблем, в результате которых в прошлом коду компания вынуждена была уволить основную команду разработчиков, осуществлявших сопровождение классического Windows-приложения Winamp, в пользу развития одноимённого потокового web-сервиса и мобильных приложений.</description>
+    </item>
+    
+  </channel>
+</rss>

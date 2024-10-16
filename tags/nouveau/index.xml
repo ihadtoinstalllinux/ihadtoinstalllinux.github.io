@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nouveau on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nouveau/</link>
+    <description>Recent content in Nouveau on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 22:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nouveau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA опубликовала код с реализацией vGPU на базе драйвера Nouveau</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-opublikovala-kod-s-realizaciey-vgpu-na-baze-drayvera-nouveau-20240925-223548/</link>
+      <pubDate>Wed, 25 Sep 2024 22:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-opublikovala-kod-s-realizaciey-vgpu-na-baze-drayvera-nouveau-20240925-223548/</guid>
+      <description>Компания NVIDIA опубликовала набор патчей для ядра Linux с реализацией технологии vGPU, позволяющей использовать виртуальные GPU NVIDIA в системах виртуализации. Работа vGPU организуется аппаратно через разделение ресурсов физического GPU NVIDIA и привязки каждому vGPU своей виртуальной функции PCI Express (VF, Virtual Function), что позволяет создавать на базе гостевых систем мощные виртуальные рабочие станции, способные выполнять ресурсоёмкие вычислительные и графические операции. Драйвер может использоваться с видеокартами NVIDIA на базе микроархитектуры Ada Lovelace.</description>
+    </item>
+    
+    <item>
+      <title>В драйвер nouveau добавлена поддержка GSP-прошивок NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayver-nouveau-dobavlena-podderzhka-gsp-proshivok-nvidia-20231107-133513/</link>
+      <pubDate>Tue, 07 Nov 2023 13:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayver-nouveau-dobavlena-podderzhka-gsp-proshivok-nvidia-20231107-133513/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, объявил о принятии в кодовую базу, на основе которой формируется выпуск ядра 6.7, изменений, обеспечивающих начальную поддержку прошивки GSP-RM в модуле ядра Nouveau. Прошивка GSP-RM используется в GPU NVIDIA RTX 20+ для выноса операций инициализации и управления GPU на сторону отдельного микроконтроллера GSP (GPU System Processor). Изменения добавляют в Nouveau возможность работы через обращение к прошивке, вместо прямого программирования операций взаимодействия с оборудованием, что значительно упрощает добавление поддержки новых GPU NVIDIA благодаря использованию уже готовых вызовов для инициализации и управления энергопотреблением.</description>
+    </item>
+    
+    <item>
+      <title>Один из сопровождающих драйвер Nouveau объявил об отставке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/odin-iz-soprovozhdayuschih-drayver-nouveau-obyavil-ob-otstavke-20230919-223506/</link>
+      <pubDate>Tue, 19 Sep 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/odin-iz-soprovozhdayuschih-drayver-nouveau-obyavil-ob-otstavke-20230919-223506/</guid>
+      <description>Бен Скеггс (Ben Skeggs) объявил о прекращении участия в разработке проекта Nouveau, развивающего свободный драйвер для GPU NVIDIA, и снятии с себя полномочий мэйнтейнера поставляемого в ядре Linux кода DRM-драйвера (Direct Rendering Manager) Nouveau. В качестве причины прекращения участия в разработке называется уход из компании Red Hat по личным мотивам. При этом драйвер не останется без присмотра - в списке сопровождающих остаются ещё два сотрудника Red Hat -	Кэрол Хербст (Karol Herbst) и Люде Пауль (Lyude Paul).</description>
+    </item>
+    
+    <item>
+      <title>В драйвере Nouveau выявлена ошибка, приводящая к повреждению памяти в ядре Linux 6.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayvere-nouveau-vyyavlena-oshibka-privodyaschaya-k-povrezhdeniyu-pamyati-v-yadre-linux-20230616-153508/</link>
+      <pubDate>Fri, 16 Jun 2023 15:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayvere-nouveau-vyyavlena-oshibka-privodyaschaya-k-povrezhdeniyu-pamyati-v-yadre-linux-20230616-153508/</guid>
+      <description>Кэрол Хербст (Karol Herbst) из компании Red Hat, принимающий участие в разработке Mesa, драйвера Nouveau и открытого стека OpenCL, рекомендовал пользователям открытых драйверов для видеокарт NVIDIA воздержаться от использования ядра Linux 6.3 из-за выявления специфичной для данной ветки ядра ошибки в коде драйвера Nouveau. Ошибка приводит к аварийному завершению работы из-за повреждения памяти ядра в результате обращения в коде к уже освобождённой области памяти (use-after-free).
+https://www.opennet.ru/opennews/art.shtml?num=59305</description>
+    </item>
+    
+  </channel>
+</rss>

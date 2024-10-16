@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TrueNAS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/truenas/</link>
+    <description>Recent content in TrueNAS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2024 12:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/truenas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS SCALE 24.04</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-24-04-20240424-123518/</link>
+      <pubDate>Wed, 24 Apr 2024 12:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-24-04-20240424-123518/</guid>
+      <description>Компания iXsystems опубликовала дистрибутив TrueNAS SCALE 24.04, в котором используется ядро Linux и пакетная база Debian (ранее выпускаемые продукты данной компании, в том числе TrueOS, PC-BSD, TrueNAS и FreeNAS, основывались на FreeBSD). Как и TrueNAS CORE (FreeNAS), TrueNAS SCALE может быть загружен и использован бесплатно. Размер.
+https://www.opennet.ru/opennews/art.shtml?num=61059</description>
+    </item>
+    
+    <item>
+      <title>После TrueNAS CORE 13.3 ветка на основе FreeBSD будет переведена в режим сопровождения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</link>
+      <pubDate>Mon, 25 Mar 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</guid>
+      <description>Компания iXsystems объявила о планах по дальнейшей разработке дистрибутива для быстрого развёртывания сетевого хранилища TrueNAS CORE, продолжающего развитие проекта FreeNAS. В июне планируется сформировать выпуск TrueNAS CORE 13.3 на основе FreeBSD 13.3 (прошлый выпуск был сформирован в 2021 году на основе FreeBSD 13.0), OpenZFS 2.2.3 и Samba 4.19. В дальнейшем разработка будет сосредоточена только на дистрибутиве TrueNAS SCALE, в котором используется ядро Linux и пакетная база Debian.
+https://www.opennet.ru/opennews/art.shtml?num=60843</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS SCALE 23.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-23-10-20231026-013548/</link>
+      <pubDate>Thu, 26 Oct 2023 01:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-23-10-20231026-013548/</guid>
+      <description>Компания iXsystems опубликовала дистрибутив TrueNAS SCALE 23.10, в котором используется ядро Linux и пакетная база Debian (ранее выпускаемые продукты данной компании, в том числе TrueOS, PC-BSD, TrueNAS и FreeNAS, основывались на FreeBSD). Как и TrueNAS CORE (FreeNAS), TrueNAS SCALE может быть загружен и использован бесплатно. Размер.
+https://www.opennet.ru/opennews/art.shtml?num=59994</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS CORE 13.0-U5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u5-20230602-143506/</link>
+      <pubDate>Fri, 02 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-core-13-0-u5-20230602-143506/</guid>
+      <description>Представлен выпуск TrueNAS CORE 13.0-U5, дистрибутива для быстрого развёртывания сетевого хранилища (NAS, Network-Attached Storage), продолжающего развитие проекта FreeNAS. TrueNAS CORE 13 основан на кодовой базе FreeBSD 13, отличается интегрированной поддержкой ZFS и возможностью управления через веб-интерфейс, построенный с использованием Python-фреймворка Django. Для организации доступа к хранилищу поддерживается FTP, NFS, Samba, AFP, rsync и iSCSI, для повышения надежности хранения может применяться программный RAID (0,1,5), для авторизации клиентов реализована поддержка LDAP/Active Directory. Размер iso-образа 1 ГБ (x86_64).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для создания сетевых хранилищ TrueNAS SCALE 22.12.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-22-12-2-20230413-223504/</link>
+      <pubDate>Thu, 13 Apr 2023 22:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-sozdaniya-setevyh-hranilisch-truenas-scale-22-12-2-20230413-223504/</guid>
+      <description>Компания iXsystems опубликовала дистрибутив TrueNAS SCALE 22.12.2, в котором используется ядро Linux и пакетная база Debian (ранее выпускаемые продукты данной компании, в том числе TrueOS, PC-BSD, TrueNAS и FreeNAS, основывались на FreeBSD). Как и TrueNAS CORE (FreeNAS), TrueNAS SCALE может быть загружен и использован бесплатно. Размер.
+https://www.opennet.ru/opennews/art.shtml?num=58970</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ArtPrompt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/artprompt/</link>
+    <description>Recent content in ArtPrompt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 12:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/artprompt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака на AI-системы ArtPrompt, позволяющая обойти защиту при помощи ASCII-картинок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-ai-sistemy-artprompt-pozvolyayuschaya-oboyti-zaschitu-pri-pomoschi-ascii-kartinok-20240303-123602/</link>
+      <pubDate>Sun, 03 Mar 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-ai-sistemy-artprompt-pozvolyayuschaya-oboyti-zaschitu-pri-pomoschi-ascii-kartinok-20240303-123602/</guid>
+      <description>Группа исследователей из Вашингтонского, Иллинойсского и Чикагского университетов выявила новый метод обхода ограничений по обработке опасного контента в AI-чатоботах, построенных на основе больших языковых моделей (LLM). Атака основано на том, что языковые модели GPT-3.5, GPT-4 (OpenAI), Gemini (Google), Claude (Anthropic) и Llama2 (Meta) успешно распознают и учитывают в запросах текст, оформленный в виде ASCII-графики. Таким образом, для обхода фильтров опасных вопросов оказалось достаточно указать запрещённые слова в виде ASCII-картинки.
+https://www.opennet.ru/opennews/art.shtml?num=60716</description>
+    </item>
+    
+  </channel>
+</rss>

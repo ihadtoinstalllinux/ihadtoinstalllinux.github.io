@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenGL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opengl/</link>
+    <description>Recent content in OpenGL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 12:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Mesa 24.2, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-2-svobodnoy-realizacii-opengl-i-vulkan-20240815-123532/</link>
+      <pubDate>Thu, 15 Aug 2024 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-2-svobodnoy-realizacii-opengl-i-vulkan-20240815-123532/</guid>
+      <description>После трёх месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.2.0. Первый выпуск ветки Mesa 24.2.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.2.1.
+https://www.opennet.ru/opennews/art.shtml?num=61705</description>
+    </item>
+    
+    <item>
+      <title>В драйвере Panthor для GPU Mali G610 обеспечена совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</link>
+      <pubDate>Mon, 15 Jul 2024 21:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Panthor со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Сертификация пройдена для GPU Mali G610. Проверка была выполнена на плате Rock5b (SoC RK3588) в окружении на базе Wayland, ядра Linux 6.10.0-rc1 и Mesa 24.1.1. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графической библиотеки IGL 1.0, абстрагирующей работу с OpenGL, Metal, Vulkan и WebGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</link>
+      <pubDate>Thu, 11 Jul 2024 22:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</guid>
+      <description>Компания Meta* опубликовала релиз графической библиотеки IGL 1.0 (Intermediate Graphics Library), предоставляющей универсальный низкоуровневый API для управления GPU. Предложенный API охватывает типовую функциональность GPU и позволяет создавать кросс-платформенные приложения, способные работать поверх графических API OpenGL, Metal и Vulkan на системах с Android, iOS, Linux, macOS и Windows, а также использовать WebGL для отрисовки в Web при компиляции приложения в промежуточный код WebAssembly. Код IGL написан на языке С++ и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-1-svobodnoy-realizacii-opengl-i-vulkan-20240523-023549/</link>
+      <pubDate>Thu, 23 May 2024 02:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-1-svobodnoy-realizacii-opengl-i-vulkan-20240523-023549/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.1.0. Первый выпуск ветки Mesa 24.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=61232</description>
+    </item>
+    
+    <item>
+      <title>Выпуск PortableGL 0.98, реализации OpenGL 3 на языке Си </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-portablegl-0-98-realizacii-opengl-3-na-yazyke-si-20240507-113556/</link>
+      <pubDate>Tue, 07 May 2024 11:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-portablegl-0-98-realizacii-opengl-3-na-yazyke-si-20240507-113556/</guid>
+      <description>После более года разработки подготовлен выпуск проекта PortableGL 0.98, развивающего программную реализацию графического API OpenGL 3.x, написанную целиком на языке Си (C99). Теоретически PortableGL может быть использован в любых приложениях, принимающих текстуру или фреймбуфер в качестве входных данных. Код оформлен в виде одного заголовочного файла и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61131</description>
+    </item>
+    
+    <item>
+      <title>Доступен графический тулкит GTK 4.14 с новыми движками для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</link>
+      <pubDate>Wed, 13 Mar 2024 02:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</guid>
+      <description>После семи месяцев разработки опубликован релиз многоплатформенного тулкита для создания графического интерфейса пользователя - GTK 4.14.0. GTK 4 развивается в рамках нового процесса разработки, который пытается предоставить разработчикам приложений стабильный и поддерживаемый в течение нескольких лет API, который можно использовать не опасаясь, что каждые полгода придётся переделывать приложения из-за изменения API в очередной ветке GTK.
+https://www.opennet.ru/opennews/art.shtml?num=60778</description>
+    </item>
+    
+    <item>
+      <title>В открытом драйвере Asahi сертифицирвоана поддержка OpenGL 4.6 для чипов Apple M1 и M2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</link>
+      <pubDate>Thu, 15 Feb 2024 19:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-otkrytom-drayvere-asahi-sertificirvoana-podderzhka-opengl-4-6-dlya-chipov-apple-m1-i-m2-20240215-193516/</guid>
+      <description>В Asahi, открытом драйвере для GPU Apple AGX, обеспечена поддержка OpenGL 4.6 и OpenGL ES 3.2 для чипов Apple M1 и M2. Примечательно, что в родных графических драйверах для чипов M1 от Apple реализована только спецификация OpenGL 4.1, а поддержка OpenGL 4.6 первой появилась в открытом драйвере. Готовые пакеты с драйверами уже включены в состав репозиториев Fedora и доступны для использования в специализированной сборке Fedora Asahi Remix 39, предназначенной для установки на системы с ARM-чипами Apple.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.0, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</link>
+      <pubDate>Fri, 02 Feb 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.0.0. Первый выпуск ветки Mesa 24.0.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.0.1.
+https://www.opennet.ru/opennews/art.shtml?num=60537</description>
+    </item>
+    
+    <item>
+      <title>Для GTK подготовлены новые движки отрисовки для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</link>
+      <pubDate>Mon, 29 Jan 2024 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</guid>
+      <description>Разработчики библиотеки GTK объявили о готовности двух новых движков отрисовки - &amp;ldquo;ngl&amp;rdquo; и &amp;ldquo;vulkan&amp;rdquo;, использующих графические API OpenGL (GL 3.3+ и GLES 3.0+) и Vulkan. Новые движки включены в состав экспериментального выпуска GTK 4.13.6. В экспериментальной ветки GTK движок ngl теперь используется по умолчанию, но в случае выявления значительных проблем в следующей стабильной ветке 4.14 будет возвращён старый движок отрисовки &amp;ldquo;gl&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60515</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.3, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</link>
+      <pubDate>Fri, 01 Dec 2023 00:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.3.0. Первый выпуск ветки Mesa 23.3.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.3.1.
+https://www.opennet.ru/opennews/art.shtml?num=60210</description>
+    </item>
+    
+    <item>
+      <title>Открытый драйвер Asahi для чипов Apple M1 и M2 сертифицирован на совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</link>
+      <pubDate>Wed, 23 Aug 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkrytyy-drayver-asahi-dlya-chipov-apple-m1-i-m2-sertificirovan-na-sovmestimost-s-opengl-e-20230823-153506/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Asahi для GPU AGX, поставляемого в чипах Apple M1 и M2, со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Kronos Conformance Test Suite) и включён в список сертифицированных драйверов.
+https://www.opennet.ru/opennews/art.shtml?num=59648</description>
+    </item>
+    
+    <item>
+      <title>Компания Imagination использовала драйвер Zink для поддержки OpenGL 4.6 в своих GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-imagination-ispolzovala-drayver-zink-dlya-podderzhki-opengl-4-6-v-svoih-gpu-20230707-113505/</link>
+      <pubDate>Fri, 07 Jul 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-imagination-ispolzovala-drayver-zink-dlya-podderzhki-opengl-4-6-v-svoih-gpu-20230707-113505/</guid>
+      <description>Компания Imagination Technologies объявила об обеспечении поддержки графического API OpenGL 4.6 в своих GPU, реализованной при помощи открытого драйвера Zink, развиваемого в репозитории проекта Mesa. Zink предоставляет реализацию OpenGL поверх Vulkan, позволяющую получить аппаратно ускоренный OpenGL на устройствах, поддерживающих только API Vulkan. Производительность Zink близка к производительности родных реализаций OpenGL, что даёт возможность производителям аппаратного обеспечения не тратить ресурсы на реализацию OpenGL в своих GPU и ограничиться поддержкой в них только API Vulkan, а OpenGL реализовать через прослойку.</description>
+    </item>
+    
+    <item>
+      <title>В Asahi Linux, дистрибутиве для ARM-чипов Apple, появилась поддержка   OpenGL 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-asahi-linux-distributive-dlya-arm-chipov-apple-poyavilas-podderzhka-opengl-3-1-20230607-113506/</link>
+      <pubDate>Wed, 07 Jun 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-asahi-linux-distributive-dlya-arm-chipov-apple-poyavilas-podderzhka-opengl-3-1-20230607-113506/</guid>
+      <description>Разработчики проекта Asahi, нацеленного на портирование Linux для работы на компьютерах Mac, оснащённых ARM-чипами, разработанными компанией Apple, подготовили июньское обновление дистрибутива (560 МБ и 3.5 ГБ) и опубликовали отчёт о реализации в дистрибутиве поддержки OpenGL 3.1. Asahi Linux базируется на пакетной базе Arch Linux, включает традиционный набор программ и поставляется с рабочим столом KDE Plasma. Дистрибутив построен с использованием штатных репозиториев Arch Linux, а все специфичные изменения, такие как ядро, инсталлятор, загрузчик, вспомогательные скрипты и настройки окружения, вынесены в отдельный репозиторий.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</link>
+      <pubDate>Fri, 12 May 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.1.0. Первый выпуск ветки Mesa 23.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=59122</description>
+    </item>
+    
+  </channel>
+</rss>

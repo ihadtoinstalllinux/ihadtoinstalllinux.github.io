@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cygwin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cygwin/</link>
+    <description>Recent content in Cygwin on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 19:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cygwin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Cygwin 3.5.0, GNU-окружения для Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</link>
+      <pubDate>Thu, 01 Feb 2024 19:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cygwin-3-5-0-gnu-okruzheniya-dlya-windows-20240201-193541/</guid>
+      <description>Компания Red Hat опубликовала стабильный релиз пакета Cygwin 3.5.0, включающего DLL-библиотеку для эмуляции базового Linux API в Windows, позволяющую с минимальными изменениями собирать созданные для Linux программы. В пакет также входят непосредственно собранные для выполнения в Windows стандартные Unix-утилиты, серверные приложения, компиляторы, библиотеки и заголовочные файлы.
+https://www.opennet.ru/opennews/art.shtml?num=60535</description>
+    </item>
+    
+  </channel>
+</rss>

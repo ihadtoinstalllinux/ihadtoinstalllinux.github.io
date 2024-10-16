@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UNIX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unix/</link>
+    <description>Recent content in UNIX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 12:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Использование SSH поверх UNIX-сокета вместо sudo для избавления от suid-файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</link>
+      <pubDate>Wed, 20 Dec 2023 12:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-ssh-poverh-unix-soketa-vmesto-sudo-dlya-izbavleniya-ot-suid-faylov-20231220-123533/</guid>
+      <description>Тимоти Равье (Timothee Ravier) из компании Red Hat, мэйнтейнер проектов Fedora Silverblue и Fedora Kinoite, предложил способ ухода от применения утилиты sudo, использующей suid-бит для повышения привилегий. Вместо sudo для выполнения обычным пользователем команд с правами root предлагается задействовать утилиту ssh с локальным соединением к той же системе через UNIX-сокет и проверкой полномочий на основе SSH-ключей.
+https://www.opennet.ru/opennews/art.shtml?num=60317</description>
+    </item>
+    
+  </channel>
+</rss>

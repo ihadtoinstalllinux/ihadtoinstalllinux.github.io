@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zen on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zen/</link>
+    <description>Recent content in Zen on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2024 13:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZenHammer - метод атаки для искажения содержимого памяти на платформах AMD Zen</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zenhammer-metod-ataki-dlya-iskazheniya-soderzhimogo-pamyati-na-platformah-amd-zen-20240326-133556/</link>
+      <pubDate>Tue, 26 Mar 2024 13:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zenhammer-metod-ataki-dlya-iskazheniya-soderzhimogo-pamyati-na-platformah-amd-zen-20240326-133556/</guid>
+      <description>Исследователи из Швейцарской высшей технической школы Цюриха разработали метод атаки ZenHammer, представляющий собой вариант атак класса RowHammer для изменения содержимого отдельных битов динамической оперативной памяти (DRAM), адаптированный для использования на платформах с процессорами AMD. Прошлые методы атак класса RowHammer ограничивались системами на базе процессоров Intel, но проведённое исследование показало, что искажения ячеек памяти также можно добиться на платформах с контроллерами памяти от компании AMD.
+https://www.opennet.ru/opennews/art.shtml?num=60850</description>
+    </item>
+    
+  </channel>
+</rss>

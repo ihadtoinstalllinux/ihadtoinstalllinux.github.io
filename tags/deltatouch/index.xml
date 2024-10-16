@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DeltaTouch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/deltatouch/</link>
+    <description>Recent content in DeltaTouch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2023 09:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deltatouch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DeltaTouch 1.0.0, клиента Delta Chat для Ubuntu Touch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</link>
+      <pubDate>Tue, 04 Jul 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</guid>
+      <description>Вышла первая версия мессенджера DeltaTouch для платформы Ubuntu Touch, применяющего технологию Delta Chat для использования email в качестве транспорта вместо собственных серверов (chat-over-email, специализированный почтовый клиент, работающий как мессенджер). Исходные тексты написаны на С++ и распространяются под лицензией GPLv3. Сборки DeltaTouch доступны для загрузки в каталоге OpenStore для веток Ubuntu Touch на базе Ubuntu 16.04 и 20.04.
+https://www.opennet.ru/opennews/art.shtml?num=59376</description>
+    </item>
+    
+  </channel>
+</rss>

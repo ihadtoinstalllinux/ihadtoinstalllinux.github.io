@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AUR on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/aur/</link>
+    <description>Recent content in AUR on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 13:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/aur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного менеджера pacstall 5.0, развивающего аналог AUR для Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacstall-5-0-razvivayuschego-analog-aur-dlya-ubuntu-20240508-133523/</link>
+      <pubDate>Wed, 08 May 2024 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacstall-5-0-razvivayuschego-analog-aur-dlya-ubuntu-20240508-133523/</guid>
+      <description>Доступен выпуск пакетного менеджера pacstall 5.0, развивающего аналог концепции AUR для Ubuntu Linux и собственный репозиторий, в котором присутствует 518 пакетов, позволяющих установить в текущем окружении Ubuntu наиболее свежие версии интересующих программ, параллельно с имеющимися в системе программами. Пакеты оформляются в формате pacscript, похожем на PKGBUILD в AUR и также включающем сведения о загрузке, зависимостях, сборке и установке. Код утилиты написан на Shell и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61136</description>
+    </item>
+    
+  </channel>
+</rss>

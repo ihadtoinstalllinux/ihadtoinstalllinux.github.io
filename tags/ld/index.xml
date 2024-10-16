@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ld on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ld/</link>
+    <description>Recent content in ld on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 02:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Glibc ld.so, позволяющая получить права root в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</link>
+      <pubDate>Wed, 04 Oct 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</guid>
+      <description>Компания Qualys выявила опасную уязвимость (CVE-2023-4911) в компоновщике ld.so, поставляемом в составе системной Си-библиотеки Glibc (GNU libc). Уязвимость позволяет локальному пользователю поднять свои привилегии в системе через указание специально оформленных данных в переменной окружения GLIBC_TUNABLES перед запуском исполняемого файла с флагом suid root, например, /usr/bin/su.
+https://www.opennet.ru/opennews/art.shtml?num=59867</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Commodore on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/commodore/</link>
+    <description>Recent content in Commodore on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 16:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/commodore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Реализована загрузка Linux на ПК Commodore 64 с восьмиразрядным CPU и 64КБ ОЗУ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/realizovana-zagruzka-linux-na-pk-commodore-64-s-vosmirazryadnym-cpu-i-64kb-ozu-20230906-163505/</link>
+      <pubDate>Wed, 06 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/realizovana-zagruzka-linux-na-pk-commodore-64-s-vosmirazryadnym-cpu-i-64kb-ozu-20230906-163505/</guid>
+      <description>Продемонстрирована возможность загрузки Linux на персональном компьютере Commodore 64, выпускавшемся в 80-х годах прошлого века. Для организации запуска Linux на устройстве с разработанным в 1975 году восьмиразрядным микропроцессором MOS 6502 был задействован semu, минималистичный эмулятор системы с процессором RISC-V (RV32IMA), способной выполнить ядро и компоненты пользовательского окружения Linux. Сборка эмулятора для работы на CPU серии MOS 65xx была произведена при помощи инструментария llvm-mos, основанного на LLVM и позволяющего собирать для устаревших процессоров современные программы, написанные на С/C++.</description>
+    </item>
+    
+  </channel>
+</rss>

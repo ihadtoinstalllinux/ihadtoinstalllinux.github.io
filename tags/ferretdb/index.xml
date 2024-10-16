@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FerretDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ferretdb/</link>
+    <description>Recent content in FerretDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ferretdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый стабильный выпуск FerretDB, реализации MongoDB на базе СУБД PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230404-153504/</link>
+      <pubDate>Tue, 04 Apr 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-ferretdb-realizacii-mongodb-na-baze-subd-postgresql-20230404-153504/</guid>
+      <description>Опубликован выпуск проекта FerretDB 1.0, позволяющего заменить документо-ориентированную СУБД MongoDB на PostgreSQL без внесения изменений в код приложений. FerretDB реализован как прокси-сервер, транслирующий обращения к MongoDB в SQL-запросы к PostgreSQL, что позволяет использовать PostgreSQL в качестве фактического хранилища. Версия 1.0 отмечена как первый стабильный выпуск, готовый для повсеместного использования. Код написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58915</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LSM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lsm/</link>
+    <description>Recent content in LSM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 11:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lsm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ошибка в LSM-модуле Landlock позволяла заново получить сброшенные привилегии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-lsm-module-landlock-pozvolyala-zanovo-poluchit-sbroshennye-privilegii-20240729-113549/</link>
+      <pubDate>Mon, 29 Jul 2024 11:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-lsm-module-landlock-pozvolyala-zanovo-poluchit-sbroshennye-privilegii-20240729-113549/</guid>
+      <description>Янн Хорн (Jann Horn) из команды Google Project Zero, в своё время выявивший уязвимости Spectre и Meltdown, нашёл логическую ошибку в реализации модуля безопасности Linux (LSM) Landlock, позволяющую программе получить обратно уже сброшенные привилегии, в случае наличии у программы доступа к системным вызовам fork() и keyctl().
+https://www.opennet.ru/opennews/art.shtml?num=61619</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>split on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/split/</link>
+    <description>Recent content in split on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2024 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/split/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в утилите GNU split, приводящая к переполнению буфера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-gnu-split-privodyaschaya-k-perepolneniyu-bufera-20240124-123551/</link>
+      <pubDate>Wed, 24 Jan 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-gnu-split-privodyaschaya-k-perepolneniyu-bufera-20240124-123551/</guid>
+      <description>В утилите split, поставляемой в пакете GNU coreutils и применяемой для разделения больших файлов на части, выявлена уязвимость (CVE-2024-0684), приводящая к переполнению буфера при обработке длинных строк (несколько сотен байт), в случае использования в split опции &amp;ldquo;&amp;ndash;line-bytes&amp;rdquo; (&amp;quot;-C&amp;quot;). Уязвимость была выявлена в ходе анализа сбоев, возникающих при использовании утилиты split для разделения данных, передаваемых при помощи QR-кодов.
+https://www.opennet.ru/opennews/art.shtml?num=60490</description>
+    </item>
+    
+  </channel>
+</rss>

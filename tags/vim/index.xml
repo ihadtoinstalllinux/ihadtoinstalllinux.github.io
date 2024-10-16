@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vim/</link>
+    <description>Recent content in Vim on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2024 15:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз текстового редактора Vim 9.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-tekstovogo-redaktora-vim-9-1-20240103-153604/</link>
+      <pubDate>Wed, 03 Jan 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-tekstovogo-redaktora-vim-9-1-20240103-153604/</guid>
+      <description>После полутора лет разработки состоялся релиз текстового редактора Vim 9.1. Код Vim распространяется под собственной копилефт лицензией, совместимой с GPL и позволяющей без ограничений использовать, распространять и перерабатывать код. Основная особенность лицензии Vim связана с возвратом изменений - реализованные в сторонних продуктах улучшения должны быть переданы в исходный проект, если мэйнтейнер Vim посчитает эти улучшения заслуживающими внимания и отправит соответствующий запрос. По типу распространения Vim относится к Сharityware, т.е. вместо продажи программы или сбора пожертвований на нужды проекта авторы Vim просят перечислить любую сумму на благотворительность, если программа понравится пользователю.</description>
+    </item>
+    
+    <item>
+      <title>Сообщество взяло в свои руки разработку проекта Vim</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/soobschestvo-vzyalo-v-svoi-ruki-razrabotku-proekta-vim-20230814-113505/</link>
+      <pubDate>Mon, 14 Aug 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/soobschestvo-vzyalo-v-svoi-ruki-razrabotku-proekta-vim-20230814-113505/</guid>
+      <description>Участники из сообщества взяли в свои руки разработку текстового редактора Vim, оставшегося без сопровождающего после смерти Брама Моленара (Bram Moolenaar), который единолично руководил разработкой и вносил подавляющее большинство изменений (Бремом было добавлено 16.5 тыс. коммитов и написано 3.5 млн строк кода, что в 50 раз больше, чем вклад всех остальных разработчиков вместе взятых). Родственники Брама Моленара передали представителям из сообщества учётные данные к репозиторию, сайту и элементам инфраструктуры, что позволило возродить разработку Vim.</description>
+    </item>
+    
+    <item>
+      <title>Умер автор и ключевой разработчик Vim</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/umer-avtor-i-klyuchevoy-razrabotchik-vim-20230806-003506/</link>
+      <pubDate>Sun, 06 Aug 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/umer-avtor-i-klyuchevoy-razrabotchik-vim-20230806-003506/</guid>
+      <description>Умер Брэм Моленар (Bram Moolenaar), автор текстового редактора Vim. Из прожитых 62 лет 31 год Брэм посвятил развитию проекта Vim, в который он вносил подавляющее большинство изменений (для сравнения Брэм внёс 16.5 тыс. коммитов и добавил 3.5 млн строк кода, в то время как второй по активности разработчик Vim добавил 239 коммитов и 69 тысяч строк кода). Последний коммит Брэма в репозиторий Vim датирован 8 июля. Судя по объявлению родственников Брэма причиной смерти стала быстро прогрессирующая болезнь, из-за которой он угас за несколько недель.</description>
+    </item>
+    
+  </channel>
+</rss>

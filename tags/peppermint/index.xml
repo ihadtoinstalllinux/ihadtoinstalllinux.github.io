@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Peppermint on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/peppermint/</link>
+    <description>Recent content in Peppermint on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 11:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/peppermint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сформирован выпуск Linux-дистрибутива Peppermint OS на базе Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</link>
+      <pubDate>Sun, 02 Jul 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</guid>
+      <description>Объявлено о релизе Linux-дистрибутива Peppermint OS, построенном на основе пакетной базы Debian GNU/Linux (изначально Peppermint OS основывался на Ubuntu, но потом перешёл на Debian). В ближайшее время также планируется сформировать сборки на основе Devuan, поставляемые без системного менеджера systemd. Дистрибутив предлагает пользовательское окружение на основе рабочего стола Xfce и файлового менеджера Thunar. Особенностью дистрибутива является ориентация на создание гибридного окружения, в котором локально установленные программы сосуществуют с web-приложениями, открываемыми в отдельных окнах без элементов интерфейса браузера (например, с Gmail можно работать как с обычным приложением).</description>
+    </item>
+    
+  </channel>
+</rss>

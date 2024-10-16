@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BrowserBox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/browserbox/</link>
+    <description>Recent content in BrowserBox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browserbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт код BrowserBox Pro, платформы для удалённой изоляции браузера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-browserbox-pro-platformy-dlya-udalennoy-izolyacii-brauzera-20230625-123506/</link>
+      <pubDate>Sun, 25 Jun 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-browserbox-pro-platformy-dlya-udalennoy-izolyacii-brauzera-20230625-123506/</guid>
+      <description>Компания Dosyago открыла под лицензией GPLv3 исходные тексты платформы BrowserBox Pro, реализующей систему удалённой изоляции браузера (RBI, Remote Browser Isolation). BrowserBox Pro предоставляет дополнительный уровень защиты клиентских систем при навигации в Web, реализуемый через вынос функций обработки web-страниц в изолированное окружение, которое может выполняться на другом хосте или в облачном окружении. На клиентскую систему передаётся уже отрисованное содержимое. Код платформы написан на языке JavaScript с использованием платформы Node.js.
+https://www.opennet.ru/opennews/art.shtml?num=59342</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ALDOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/aldos/</link>
+    <description>Recent content in ALDOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 10:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/aldos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект ALDOS развивает вариант Fedora без systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</link>
+      <pubDate>Wed, 15 May 2024 10:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</guid>
+      <description>Представлен выпуск мексиканского дистрибутива ALDOS 1.4.18, предлагающего пользовательское окружение в классическом стиле, рассчитанное на минимальное потребление ресурсов и способность работы на маломощных системах. Дистрибутив основан на технологиях Fedora Linux, но поставляется без системного менеджера systemd, вместо которого для инициализации и запуска сервисов задействована система Upstart, для координации работы с устройствами - Eudev, а для управления сеансами elogind. Размер установочного образа 1.9 ГБ. Актуальная ветка дистрибутива ALDOS 1.4 будет сопровождаться до конца сентября 2029 года.</description>
+    </item>
+    
+  </channel>
+</rss>

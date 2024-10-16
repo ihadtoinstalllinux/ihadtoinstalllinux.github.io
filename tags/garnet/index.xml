@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Garnet on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/garnet/</link>
+    <description>Recent content in Garnet on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 16:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/garnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft открыл код хранилища Garnet, совместимого с Redis </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</link>
+      <pubDate>Tue, 19 Mar 2024 16:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</guid>
+      <description>Компания Microsoft открыла исходные тексты NoSQL-системы Garnet, рассчитанной на создание кэширующих хранилищ и совместимой с существующими клиентскими библиотеками для хранилища Redis. Garnet поддерживает создание масштабируемых кластеров для кэширования данных, в которых может использоваться репликация, миграция ключей и сегментирование данных между узлами кластера. Проект написан на языке C# с ядром хранения на C++, открыт под лицензией MIT и может работать на всех платформах, поддерживаемых в .NET (первичными платформами заявлены Linux и Windows).</description>
+    </item>
+    
+  </channel>
+</rss>

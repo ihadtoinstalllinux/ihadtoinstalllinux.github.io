@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Loongarch64 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/loongarch64/</link>
+    <description>Recent content in Loongarch64 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 12:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/loongarch64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Экспериментальные сборки ALT Linux для процессоров Loongarch64 и смартфона Pinephone Pro</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperimentalnye-sborki-alt-linux-dlya-processorov-loongarch64-i-smartfona-pinephone-pro-20231117-123518/</link>
+      <pubDate>Fri, 17 Nov 2023 12:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperimentalnye-sborki-alt-linux-dlya-processorov-loongarch64-i-smartfona-pinephone-pro-20231117-123518/</guid>
+      <description>После 9 месяцев разработки началось тестирвоание экспериментальных сборок ALT Linux для китайских процессоров с архитектурой Loongarch64, реализующей RISC ISA, похожий на MIPS и RISC-V. Для загрузки доступны варианты с пользовательскими окружениями Xfce и GNOME, собранные на базе репозитория Сизиф. В состав входит типовой набор пользовательских приложений, включая LibreOffice, Firefox, GIMP. Отмечается, что &amp;ldquo;Альт&amp;rdquo; стал первым российским дистрибутивом, начавшим формирование сборок для Loongarch64. Из глобальных проектов порт для Loongarch недавно был принят в состав Debian GNU/Linux.</description>
+    </item>
+    
+    <item>
+      <title>«Альт» — первая и единственная российская ОС, работающая на базе китайских процессоров с архитектурой Loongarch64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/alt-pervaya-i-edinstvennaya-rossiyskaya-os-rabotayuschaya-na-baze-kitayskih-processorov-s-20231116-213705/</link>
+      <pubDate>Thu, 16 Nov 2023 21:37:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/alt-pervaya-i-edinstvennaya-rossiyskaya-os-rabotayuschaya-na-baze-kitayskih-processorov-s-20231116-213705/</guid>
+      <description>«Базальт СПО» подготовила технологическую сборку операционных систем (ОС) «Альт» на базе китайских процессоров с архитектурой Loongarch64.
+https://www.basealt.ru/about/news/archive/view/alt-pervaja-i-edinstvennaja-rossiiskaja-os-rabotajushchaja-na-baze-kitaiskikh-processorov-s-arkhitekturoi-loongarch64</description>
+    </item>
+    
+  </channel>
+</rss>

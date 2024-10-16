@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Packagist on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/packagist/</link>
+    <description>Recent content in Packagist on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 May 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/packagist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Перехвачен контроль над 14 PHP-библиотками в репозитории Packagist</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perehvachen-kontrol-nad-14-php-bibliotkami-v-repozitorii-packagist-20230504-123505/</link>
+      <pubDate>Thu, 04 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perehvachen-kontrol-nad-14-php-bibliotkami-v-repozitorii-packagist-20230504-123505/</guid>
+      <description>Администраторы репозитория пакетов Packagist раскрыли сведения об атаке, в результате которой был захвачен контроль над учётными записями сопровождающих 14 PHP-библиотек, в числе которых такие популярные пакеты, как instantiator (526 млн установок всего, 8 млн установок за месяц, 323 зависимых пакета), sql-formatter (94 млн установок всего, 800 тысяч за месяц, 109 зависимых пакетов), doctrine-cache-bundle (73 млн установок всего, 500 тысяч за месяц, 348 зависимых пакетов) и rcode-detector-decoder (20 млн установок всего, 400 тысяч за месяц, 66 зависимых пакетов).</description>
+    </item>
+    
+  </channel>
+</rss>

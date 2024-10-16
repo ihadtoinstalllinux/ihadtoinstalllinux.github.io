@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Saflok on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/saflok/</link>
+    <description>Recent content in Saflok on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:36:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/saflok/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости, позволяющие разблокировать электронные замки Saflok</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-razblokirovat-elektronnye-zamki-saflok-20240323-003613/</link>
+      <pubDate>Sat, 23 Mar 2024 00:36:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-razblokirovat-elektronnye-zamki-saflok-20240323-003613/</guid>
+      <description>Опубликована информация об уязвимости в электронных замках Saflok, которые разблокируются картой с RFID-меткой. Уязвимые модели замков получили наибольшее распространение в гостиницах и используются примерно в 13 тысячах гостиниц по всему миру, в которых для управления замками применяются платформы System 6000, Ambiance или Community. Общее число дверей в гостиницах, на которые установлены замки Saflok, оценивается в 3 млн. Уязвимость позволяет постояльцу, используя информацию с карты для своего номера или с просроченной карты съехавшего постояльца, сгенерировать две карты, выполняющие роль мастер-ключа, которые можно использовать для открытия всех номеров в гостинице.</description>
+    </item>
+    
+  </channel>
+</rss>

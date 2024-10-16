@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>4G on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/4g/</link>
+    <description>Recent content in 4G on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2023 16:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/4g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован инструментарий LTESniffer для перехвата трафика в сетях 4G LTE </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-ltesniffer-dlya-perehvata-trafika-v-setyah-4g-lte-20230515-163506/</link>
+      <pubDate>Mon, 15 May 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-ltesniffer-dlya-perehvata-trafika-v-setyah-4g-lte-20230515-163506/</guid>
+      <description>Исследователи из Корейского института передовых технологий опубликовали инструментарий LTESniffer, позволяющий в пассивном режиме (без отправки сигналов в эфир) организовать сниффинг трафика между базовой станцией и сотовым телефоном в сетях 4G LTE. Инструментарий предоставляет утилиты для организации перехвата трафика и реализацию API для использования функциональности LTESniffer в сторонних приложениях.
+https://www.opennet.ru/opennews/art.shtml?num=59135</description>
+    </item>
+    
+  </channel>
+</rss>

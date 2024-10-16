@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stow on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/stow/</link>
+    <description>Recent content in Stow on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 23:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/stow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы управления пакетами GNU Stow 2.4, использующей символические ссылки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-paketami-gnu-stow-2-4-ispolzuyuschey-simvolicheskie-ssylki-20240410-233558/</link>
+      <pubDate>Wed, 10 Apr 2024 23:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-paketami-gnu-stow-2-4-ispolzuyuschey-simvolicheskie-ssylki-20240410-233558/</guid>
+      <description>Спустя почти 5 лет с момента прошлого выпуска представлен релиз системы управления символическими ссылками GNU Stow 2.4, использующей символические ссылки для разделения по отдельным каталогам содержимого программ и связанных с ними данных. Stow может оказаться полезен для установки и интеграции в систему программ, собранных из исходных текстов, или для управления файлами конфигурации. Код Stow написан на языке Perl и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60947</description>
+    </item>
+    
+  </channel>
+</rss>

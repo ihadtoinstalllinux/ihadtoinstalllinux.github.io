@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ugrep on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ugrep/</link>
+    <description>Recent content in ugrep on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 15:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ugrep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована утилита ugrep 5.0 для расширенного поиска в файлах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-utilita-ugrep-5-0-dlya-rasshirennogo-poiska-v-faylah-20240218-153542/</link>
+      <pubDate>Sun, 18 Feb 2024 15:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-utilita-ugrep-5-0-dlya-rasshirennogo-poiska-v-faylah-20240218-153542/</guid>
+      <description>Состоялся выпуск проекта ugrep 5.0, развивающего продвинутый вариант утилиты grep для поиска данных в файлах. Дополнительно поставляется интерактивная оболочка ug с интерфейсом пользователя, предоставляющим предпросмотр окружающих строк. По производительности ugrep в разы опережает grep. Код проекта написан на языке С++ и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60622</description>
+    </item>
+    
+  </channel>
+</rss>

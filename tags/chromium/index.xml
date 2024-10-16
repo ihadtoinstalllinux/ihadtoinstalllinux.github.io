@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chromium on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chromium/</link>
+    <description>Recent content in Chromium on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск редакции браузера Wolvic с движком Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-redakcii-brauzera-wolvic-s-dvizhkom-chromium-20240923-133542/</link>
+      <pubDate>Mon, 23 Sep 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-redakcii-brauzera-wolvic-s-dvizhkom-chromium-20240923-133542/</guid>
+      <description>Представлен релиз браузера Wolvic Chromium 1.0, в котором вместо движка Mozilla Gecko и технологий Firefox, задействован движок Chromium. Браузер Wolvic (бывший Firefox Reality) предназначен для использования в системах дополненной и виртуальной реальности, предоставляет 3D-интерфейс для навигации по сайтам с использованием 3D-шлема, и, помимо традиционных плоских страниц, позволяет web-разработчикам при помощи API WebXR, WebAR и WebVR создавать трехмерные web-приложения для систем виртуальной реальности.
+https://www.opennet.ru/opennews/art.shtml?num=61914</description>
+    </item>
+    
+    <item>
+      <title>Встроенное в Chromium дополнение предоставляет расширенный API сервисам Google</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vstroennoe-v-chromium-dopolnenie-predostavlyaet-rasshirennyy-api-servisam-google-20240710-103520/</link>
+      <pubDate>Wed, 10 Jul 2024 10:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vstroennoe-v-chromium-dopolnenie-predostavlyaet-rasshirennyy-api-servisam-google-20240710-103520/</guid>
+      <description>Один из разработчиков JavaScript-платформы Deno, руководящий каталогом пакетов JSR.io, обратил внимание на дискриминацию в браузерном движке Chromium, связанную с предоставлением сервисам Google дополнительной функциональности, недоступной остальным сайтам без установки отдельного дополнения. Речь про встроенное дополнение hangout_services, которое активно по умолчанию и не отображается в списках работающих в браузере дополнений.
+https://www.opennet.ru/opennews/art.shtml?num=61513</description>
+    </item>
+    
+    <item>
+      <title>Google экспериментирует с запуском Chromium OS в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</link>
+      <pubDate>Tue, 14 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</guid>
+      <description>Компания Google продемонстрировала партнёрам на закрытом мероприятии проект FerroChrome, в рамках которого подготовлена специальная сборка операционной системы Chromium OS, предназначенная для запуска в виртуальной машине на устройствах с платформой Android. При демонстрации интерфейс Chromium OS выводился на большой экран, подключённый к смартфону Pixel 8. Предполагается, что возможность запуска Chromium OS может применяться для создания полнофункционального рабочего окружения, которое можно использовать при подключении смартфона к монитору, клавиатуре и мыши.
+https://www.opennet.ru/opennews/art.shtml?num=61171</description>
+    </item>
+    
+    <item>
+      <title>В Chromium экспериментируют с автоматическими микроплатежами для монетизации сайтов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-chromium-eksperimentiruyut-s-avtomaticheskimi-mikroplatezhami-dlya-monetizacii-saytov-20240214-013531/</link>
+      <pubDate>Wed, 14 Feb 2024 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-chromium-eksperimentiruyut-s-avtomaticheskimi-mikroplatezhami-dlya-monetizacii-saytov-20240214-013531/</guid>
+      <description>Разработчики проекта Chromium сообщили о намерении реализовать в браузере поддержку технологии Web Monetization, позволяющей автоматически выполнять микроплатежи владельцам сайтов за просмотр их содержимого. Предполагается, что технология может использоваться для монетизации сайтов вместо показа рекламы, в качестве аналога сетевых чаевых или для предоставления выборочного платного доступа к контенту без оформления подписки. Первый прототип реализации Web Monetization рассчитывают добавить в состав выпуска Chromе 127, намеченного на 23 июля.
+https://www.opennet.ru/opennews/art.shtml?num=60596</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Electron 28.0, платформы создания приложений на базе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-28-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20231208-123530/</link>
+      <pubDate>Fri, 08 Dec 2023 12:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-28-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20231208-123530/</guid>
+      <description>Опубликован релиз платформы Electron 28.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 120, платформы Node.js 18.18.2 и JavaScript-движка V8 12.0.
+https://www.opennet.ru/opennews/art.shtml?num=60255</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Electron 26.0.0, платформы создания приложений на базе движка Chromium </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-26-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20230815-113509/</link>
+      <pubDate>Tue, 15 Aug 2023 11:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-26-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20230815-113509/</guid>
+      <description>Подготовлен релиз платформы Electron 26.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 116, платформы Node.js 18.16.1 и JavaScript-движка V8 11.2.
+https://www.opennet.ru/opennews/art.shtml?num=59600</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Electron 24.0.0, платформы создания приложений на базе движка Chromium</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-24-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20230406-123505/</link>
+      <pubDate>Thu, 06 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-electron-24-0-0-platformy-sozdaniya-prilozheniy-na-baze-dvizhka-chromium-20230406-123505/</guid>
+      <description>Подготовлен релиз платформы Electron 24.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 112, платформы Node.js 18.14.0 и JavaScript-движка V8 11.2.
+https://www.opennet.ru/opennews/art.shtml?num=58927</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KeePass on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/keepass/</link>
+    <description>Recent content in KeePass on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 02:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/keepass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Распространение вредоносного ПО через рекламу домена, неотличимого от домена проекта KeePass</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rasprostranenie-vredonosnogo-po-cherez-reklamu-domena-neotlichimogo-ot-domena-proekta-keep-20231021-023509/</link>
+      <pubDate>Sat, 21 Oct 2023 02:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rasprostranenie-vredonosnogo-po-cherez-reklamu-domena-neotlichimogo-ot-domena-proekta-keep-20231021-023509/</guid>
+      <description>Исследователи из компании Malwarebytes Labs выявили продвижение через рекламную сеть Google подставного сайта свободного менеджера паролей KeePass, распространяющего вредоносное ПО. Особенностью атаки стало использование злоумышленниками домента &amp;ldquo;ķeepass.info&amp;rdquo;, на первый взгляд неотличимого по написанию от официального домена проекта &amp;ldquo;keepass.info&amp;rdquo;. При поиске по ключевому слову &amp;ldquo;keepass&amp;rdquo; в Google реклама подставного сайта размещалась на первом месте, раньше чем ссылка на официальный сайт.
+https://www.opennet.ru/opennews/art.shtml?num=59967</description>
+    </item>
+    
+  </channel>
+</rss>

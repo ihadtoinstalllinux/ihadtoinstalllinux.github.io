@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frog on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/frog/</link>
+    <description>Recent content in Frog on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 14:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/frog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Valve запустила проект Frog для ускорения продвижения новых протоколов Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</link>
+      <pubDate>Wed, 25 Sep 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</guid>
+      <description>Разработчики из компании Valve представили проект frog-protocols, в рамах которого планируется развивать дополнительный набор протоколов для Wayland, дополняющих протоколы из набора wayland-protocols, поставляющего Wayland-расширения для построения композитных серверов и пользовательских окружений. Создание отдельного набора протоколов к Wayland объясняется слишком медленным и буксующим в бесконечных обсуждениях процессом принятия новых протоколов в wayland-protocols, который может затягиваться на месяцы и годы.
+https://www.opennet.ru/opennews/art.shtml?num=61925</description>
+    </item>
+    
+  </channel>
+</rss>

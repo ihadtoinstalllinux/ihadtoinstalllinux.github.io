@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SAIL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sail/</link>
+    <description>Recent content in SAIL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 11:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз библиотеки декодирования изображений SAIL 0.9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-biblioteki-dekodirovaniya-izobrazheniy-sail-0-9-0-20231107-113508/</link>
+      <pubDate>Tue, 07 Nov 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-biblioteki-dekodirovaniya-izobrazheniy-sail-0-9-0-20231107-113508/</guid>
+      <description>Опубликован релиз C/C++ библиотеки декодирования изображений SAIL 0.9.0, которую можно использовать для создания просмотрщиков изображений, загрузки изображений в память, загрузки ресурсов при разработке игр и т.п. Библиотека продолжает развитие декодировщиков форматов изображений ksquirrel-libs из программы KSquirrel, которые были переписаны с С++ на язык С. Программа KSquirrel существует с 2003 года (сегодня исполнилось ровно 20 лет), но её разработка была прекращена в 2008 году. Код SAIL распространяется под лицензией MIT. Поддерживается работа в Windows, macOS и Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Input on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/input/</link>
+    <description>Recent content in Input on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 10:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/input/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован программный KVM-переключатель Input Leap 3.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-programmnyy-kvm-pereklyuchatel-input-leap-3-0-0-20241006-103543/</link>
+      <pubDate>Sun, 06 Oct 2024 10:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-programmnyy-kvm-pereklyuchatel-input-leap-3-0-0-20241006-103543/</guid>
+      <description>Доступен релиз проекта Input Leap 3.0.0, развивающего программный KVM-переключатель (Keyboard, Video, Mouse), позволяющий использовать одну клавиатуру и мышь для управления несколькими компьютерами по сети, симулируя физическое подключение к системе. Input Leap отделился в 2021 году от проекта Barrier из-за проблем с сопровождением последнего. В свою очередь Barrier, был создан как форк проекта Deskflow, продолжающего активное развитие. Код проектов написан на языке C++ и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=61996</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Barracuda on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/barracuda/</link>
+    <description>Recent content in Barracuda on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2024 13:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/barracuda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Perl-модуле Spreadsheet::ParseExcel, используемая для компрометации Barracuda ESG</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</link>
+      <pubDate>Sat, 06 Jan 2024 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</guid>
+      <description>В Perl-модуле Spreadsheet::ParseExcel, предоставляющем функции для разбора файлов в формате Excel, выявлена критическая уязвимость (CVE-2023-7101), позволяющая выполнить произвольный код при обработке файлов XLS или XLSX, включающих специально оформленные правила форматирования чисел. Уязвимость вызвана использованием при построении вызова &amp;ldquo;eval&amp;rdquo; данных, полученных из обрабатываемого файла. Проблема устранена в обновлении Spreadsheet::ParseExcel 0.66. Имеется прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=60376</description>
+    </item>
+    
+    <item>
+      <title>Компрометация шлюзов Barracuda ESG, требующая замены оборудования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/komprometaciya-shlyuzov-barracuda-esg-trebuyuschaya-zameny-oborudovaniya-20230611-123505/</link>
+      <pubDate>Sun, 11 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/komprometaciya-shlyuzov-barracuda-esg-trebuyuschaya-zameny-oborudovaniya-20230611-123505/</guid>
+      <description>Компания Barracuda Networks объявила о необходимости физической замены устройств ESG (Email Security Gateway), поражённых вредоносным ПО в результате 0-day уязвимости в модуле обработки вложений к электронной почте. Сообщается, что для блокирования проблемы установки ранее выпущенных патчей недостаточно. Подробности не приводятся, но предположительно решение о замене оборудования принято из-за атаки, приведшей к установке вредоносного ПО на низком уровне, и невозможности его удалить путём замены прошивки или сброса в заводское состояние. Оборудование будет заменено бесплатно, о компенсации расходов на доставку и работу по замене не уточняется.</description>
+    </item>
+    
+  </channel>
+</rss>

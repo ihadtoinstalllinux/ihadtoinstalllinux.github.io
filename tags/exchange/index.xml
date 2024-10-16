@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exchange on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exchange/</link>
+    <description>Recent content in Exchange on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exchange/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Thunderbird добавят реализацию протокола Microsoft Exchange на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</link>
+      <pubDate>Sat, 20 Apr 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</guid>
+      <description>Разработчики почтового клиента Thunderbird объявили о начале интеграции в кодовую базу компонентов, написанных на языке Rust. В следующий значительный выпуск Thunderbird, релиз которого ожидается в июле этого года, войдёт код с реализацией почтового протокола Microsoft Exchange Web Services (EWS), реализованный на языке Rust. Поддержка доступа к календарю и адресной книге Microsoft Exchange будет добавлена позднее. Встроенная реализация позволит обойтись без установки сторонних дополнений, через которые до сих пор обеспечивалась поддержка Microsoft Exchange.</description>
+    </item>
+    
+  </channel>
+</rss>

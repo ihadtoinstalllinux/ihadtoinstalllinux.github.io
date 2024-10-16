@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Superset on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/superset/</link>
+    <description>Recent content in Superset on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/superset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>67% публичных серверов Apache Superset используют ключ доступа из примера настроек</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/67-publichnyh-serverov-apache-superset-ispolzuyut-klyuch-dostupa-iz-primera-nastroek-20230426-113507/</link>
+      <pubDate>Wed, 26 Apr 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/67-publichnyh-serverov-apache-superset-ispolzuyut-klyuch-dostupa-iz-primera-nastroek-20230426-113507/</guid>
+      <description>Исследователи из компании Horizon3 обратили внимание на проблемы с безопасностью в большинстве установок платформы анализа и визуализации данных Apache Superset. На 2124 из 3176 изученных публичных серверов с Apache Superset выявлено использование типового ключа шифрования, указанного по умолчанию в примере файла конфигурации. Данный ключ используется в Python-библиотеке Flask для генерации сессионных Cookie, что позволяет знающему ключ атакующему сформировать фиктивные параметры сеанса, подключиться к web-интерфейсу Apache Superset и загрузить данные из привязанных БД или организовать выполнение кода с правами Apache Superset.</description>
+    </item>
+    
+  </channel>
+</rss>

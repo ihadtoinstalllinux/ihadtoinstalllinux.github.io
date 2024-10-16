@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qmmp on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qmmp/</link>
+    <description>Recent content in Qmmp on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 17:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qmmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуски музыкального проигрывателя Qmmp 1.7 и 2.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypuski-muzykalnogo-proigryvatelya-qmmp-1-7-i-2-2-20241005-173539/</link>
+      <pubDate>Sat, 05 Oct 2024 17:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypuski-muzykalnogo-proigryvatelya-qmmp-1-7-i-2-2-20241005-173539/</guid>
+      <description>После более двухлетнего перерыва опубликованы выпуски музыкального проигрывателя Qmmp 1.7.0 и Qmmp 2.2 (версия Qmmp 2.2 продолжает развитие ветки, перешедшей на Qt 6, а для версии 1.7 достаточно Qt 5.15). В состав плеера входит два интерфейса: &amp;ldquo;простой&amp;rdquo;, с использованием стандартных элементов, и &amp;ldquo;классический&amp;rdquo;, который копирует интерфейс Xmms/Winamp/Audacious. Для вывода звука могут использоваться OSS4 (FreeBSD), ALSA (Linux), Pulse Audio, JACK, QtMultimedia, Icecast, WaveOut (Win32), DirectSound (Win32) и WASAPI (Win32). Код написан на языке C++ и распространяется под лицензией GPLv2.</description>
+    </item>
+    
+  </channel>
+</rss>

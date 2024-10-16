@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XenServer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xenserver/</link>
+    <description>Recent content in XenServer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xenserver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск XCP-ng 8.3, свободного варианта XenServer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xcp-ng-8-3-svobodnogo-varianta-xenserver-20241009-123506/</link>
+      <pubDate>Wed, 09 Oct 2024 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xcp-ng-8-3-svobodnogo-varianta-xenserver-20241009-123506/</guid>
+      <description>После четырёх лет разработки опубликован релиз проекта XCP-ng 8.3, развивающего свободную и бесплатную замену проприетарной платформе XenServer для развертывания облачной инфраструктуры и управления её работой. XCP-ng воссоздаёт функциональность, которую компания Citrix исключила из бесплатного варианта Citrix Hypervisor/XenServer, начиная c версии 7.3, и позволяет быстро развернуть систему виртуализации серверов и рабочих станций, предлагая средства для централизованного управления неограниченным числом серверов и виртуальных машин. Для загрузки подготовлен установочный образ размером 640 Мб.</description>
+    </item>
+    
+  </channel>
+</rss>

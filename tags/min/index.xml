@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MIN on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/min/</link>
+    <description>Recent content in MIN on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 10:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/min/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект CentOS начал формирование консольной Live-сборки CentOS Stream MIN</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-centos-nachal-formirovanie-konsolnoy-live-sborki-centos-stream-min-20240924-103526/</link>
+      <pubDate>Tue, 24 Sep 2024 10:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-centos-nachal-formirovanie-konsolnoy-live-sborki-centos-stream-min-20240924-103526/</guid>
+      <description>Разработчики дистрибутива CentOS представили новую сборку &amp;ldquo;MIN&amp;rdquo;, в рамках которой сформировано загрузочное Live-окружение CentOS Stream, работающее только в конcольном режиме. Для установки загруженной системы на диск предложена утилита &amp;ldquo;install_to_hard_drive&amp;rdquo;, предоставляющая текстовый интерфейс. Размер сборки 1.2 ГБ. Кроме MIN проектом также формируются Live-сборки Cinnamon, GNOME, KDE, MATE, XFce и MAX (коллекция разных графических окружений).
+https://www.opennet.ru/opennews/art.shtml?num=61918</description>
+    </item>
+    
+    <item>
+      <title>Выпуск web-браузера Min 1.32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-min-1-32-20240428-003601/</link>
+      <pubDate>Sun, 28 Apr 2024 00:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-min-1-32-20240428-003601/</guid>
+      <description>Опубликована новая версия браузера Min 1.32, предлагающего минималистичный интерфейс, построенный вокруг манипуляций с адресной строкой. Браузер создан с использованием платформы Electron, позволяющей создавать обособленные приложения на основе движка Chromium и платформы Node.js. Интерфейс Min написан на JavaScript, CSS и HTML. Код распространяется под лицензией Apache 2.0. Сборки сформированы для Linux, macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=61079</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deepin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/deepin/</link>
+    <description>Recent content in Deepin on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 23:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deepin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Deepin 23, развивающего собственное графическое окружение</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-deepin-23-razvivayuschego-sobstvennoe-graficheskoe-okruzhenie-20240815-233511/</link>
+      <pubDate>Thu, 15 Aug 2024 23:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-deepin-23-razvivayuschego-sobstvennoe-graficheskoe-okruzhenie-20240815-233511/</guid>
+      <description>Опубликован релиз дистрибутива Deepin 23, развивающего собственный рабочий стол Deepin Desktop Environment (DDE), а также около 40 пользовательских приложений, среди которых музыкальный проигрыватель DMusic, видеоплеер DMovie, система обмена сообщениями DTalk, инсталлятор и центр установки программ Deepin Software Center. Проект основан группой разработчиков из Китая, но трансформировался в международный проект и поддерживает русский язык. Репозиторий дистрибутива включает более 8000 пакетов. Все наработки распространяются под лицензией GPLv3. Размер загрузочного iso-образа 5 ГБ (amd64, arm64 и loongarch64, в процессе подготовка сборки для RISC-V).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива UbuntuDDE 23.04 с рабочим столом Deepin </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntudde-23-04-s-rabochim-stolom-deepin-20230823-123505/</link>
+      <pubDate>Wed, 23 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-ubuntudde-23-04-s-rabochim-stolom-deepin-20230823-123505/</guid>
+      <description>Опубликован выпуск дистрибутива UbuntuDDE 23.04 (Remix), основанный на кодовой базе Ubuntu 23.04 и поставляемый с графическим окружением DDE (Deepin Desktop Environment). Проект является неофициальной редакцией Ubuntu, но разработчики предпринимают попытки добиться включения UbuntuDDE в число официальных редакций Ubuntu. Размер iso-образа 3.5 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=59645</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Deepin 20.9, развивающего собственное графическое окружение </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-deepin-20-9-razvivayuschego-sobstvennoe-graficheskoe-okruzhenie-20230418-003505/</link>
+      <pubDate>Tue, 18 Apr 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-deepin-20-9-razvivayuschego-sobstvennoe-graficheskoe-okruzhenie-20230418-003505/</guid>
+      <description>Опубликован релиз дистрибутива Deepin 20.9, основанного на пакетной базе Debian 10, но развивающего собственный рабочий стол Deepin Desktop Environment (DDE) и около 40 пользовательских приложений, среди которых музыкальный проигрыватель DMusic, видеоплеер DMovie, система обмена сообщениями DTalk, инсталлятор и центр установки программ Deepin Software Center. Проект основан группой разработчиков из Китая, но трансформировался в международный проект. Дистрибутив поддерживает русский язык. Все наработки распространяются под лицензией GPLv3. Размер загрузочного iso-образа 4 ГБ (amd64).</description>
+    </item>
+    
+  </channel>
+</rss>

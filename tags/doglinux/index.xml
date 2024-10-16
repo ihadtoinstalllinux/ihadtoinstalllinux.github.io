@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DogLinux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/doglinux/</link>
+    <description>Recent content in DogLinux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 09:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/doglinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление сборки DogLinux для проверки оборудования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-sborki-doglinux-dlya-proverki-oborudovaniya-20241005-093551/</link>
+      <pubDate>Sat, 05 Oct 2024 09:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-sborki-doglinux-dlya-proverki-oborudovaniya-20241005-093551/</guid>
+      <description>Опубликовано обновление специализированной сборки дистрибутива DogLinux (Debian LiveCD в стиле Puppy Linux), построенной на пакетной базе Debian 12 &amp;ldquo;Bookworm&amp;rdquo; и предназначенной для тестирования и обслуживания ПК и ноутбуков. В состав входят такие приложения, как GPUTest, Unigine Heaven, CPU-X, GSmartControl, GParted, Partimage, Partclone, TestDisk, ddrescue, WHDD, DMDE. Дистрибутив позволяет проверить работоспособность оборудования, нагрузить процессор и видеокарту, проверить SMART HDD и NVMe SSD. Размер Live-образа, загружаемого с USB-накопителей, 1.36 ГБ (torrent).
+https://www.opennet.ru/opennews/art.shtml?num=61989</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск сборки DogLinux для проверки оборудования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-sborki-doglinux-dlya-proverki-oborudovaniya-20230506-113505/</link>
+      <pubDate>Sat, 06 May 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-sborki-doglinux-dlya-proverki-oborudovaniya-20230506-113505/</guid>
+      <description>Опубликован выпуск специализированной сборки дистрибутива DogLinux (Debian LiveCD в стиле Puppy Linux), построенной на пакетной базе Debian 12 &amp;ldquo;Bookworm&amp;rdquo; и предназначенной для тестирования и обслуживания ПК и ноутбуков. В состав входят такие приложения, как GPUTest, Unigine Heaven, CPU-X, GSmartControl, GParted, Partimage, Partclone, TestDisk, ddrescue, WHDD, DMDE. Дистрибутив позволяет проверить работоспособность оборудования, нагрузить процессор и видеокарту, проверить SMART HDD и NVMe SSD. Размер Live-образа, загружаемого с USB-накопителей, 1.3 ГБ (torrent).
+https://www.opennet.ru/opennews/art.shtml?num=59085</description>
+    </item>
+    
+  </channel>
+</rss>

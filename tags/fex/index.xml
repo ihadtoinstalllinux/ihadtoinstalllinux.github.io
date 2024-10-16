@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FEX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fex/</link>
+    <description>Recent content in FEX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2024 12:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 42 намерены включить инсталлятор на основе web-интерфейса и добавить эмулятор FEX </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-vklyuchit-installyator-na-osnove-web-interfeysa-i-dobavit-emulyator-f-20240913-123535/</link>
+      <pubDate>Fri, 13 Sep 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-vklyuchit-installyator-na-osnove-web-interfeysa-i-dobavit-emulyator-f-20240913-123535/</guid>
+      <description>Выпуск Fedora Workstation 42, намеченный на весну следующего года, предложено перевести по умолчанию на вариант инсталлятора Anaconda, в котором вместо интерфейса на основе библиотеки GTK используется web-интерфейс. Отдельно обсуждается вопрос задействования в новом инсталляторе принципиально иного интерфейса для разбивки дисковых разделов. Предложения пока не утверждены комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora (изначально переход на новый инсталлятор предлагалось выполнить в Fedora 39, но с тех пор миграция несколько раз откладывалась).</description>
+    </item>
+    
+  </channel>
+</rss>

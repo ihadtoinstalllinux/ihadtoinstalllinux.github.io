@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CentOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/centos/</link>
+    <description>Recent content in CentOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 10:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект CentOS начал формирование консольной Live-сборки CentOS Stream MIN</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-centos-nachal-formirovanie-konsolnoy-live-sborki-centos-stream-min-20240924-103526/</link>
+      <pubDate>Tue, 24 Sep 2024 10:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-centos-nachal-formirovanie-konsolnoy-live-sborki-centos-stream-min-20240924-103526/</guid>
+      <description>Разработчики дистрибутива CentOS представили новую сборку &amp;ldquo;MIN&amp;rdquo;, в рамках которой сформировано загрузочное Live-окружение CentOS Stream, работающее только в конcольном режиме. Для установки загруженной системы на диск предложена утилита &amp;ldquo;install_to_hard_drive&amp;rdquo;, предоставляющая текстовый интерфейс. Размер сборки 1.2 ГБ. Кроме MIN проектом также формируются Live-сборки Cinnamon, GNOME, KDE, MATE, XFce и MAX (коллекция разных графических окружений).
+https://www.opennet.ru/opennews/art.shtml?num=61918</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn перешёл с CentOS на Azure Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linkedin-pereshel-s-centos-na-azure-linux-20240828-133529/</link>
+      <pubDate>Wed, 28 Aug 2024 13:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linkedin-pereshel-s-centos-na-azure-linux-20240828-133529/</guid>
+      <description>Принадлежащая компании Microsoft социальная сеть LinkedIn отчиталась о переводе большей части серверов, виртуальных машин и контейнеров с CentOS на дистрибутив Azure Linux. Помимо решения проблемы с прекращением сопровождения использовавшейся ветки CentOS 7 в процессе миграции также удалось добиться повышения защищённости инфраструктуры, снижения издержек, увеличения гибкости при настройке и упрощения внедрения новых возможностей, основанных на применении компонентов для машинного обучения.
+https://www.opennet.ru/opennews/art.shtml?num=61778</description>
+    </item>
+    
+    <item>
+      <title>SUSE обеспечит поддержку CentOS 7 до 2028 года, а SUSE Linux 15 до 2037 года</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/suse-obespechit-podderzhku-centos-7-do-2028-goda-a-suse-linux-15-do-2037-goda-20240620-133518/</link>
+      <pubDate>Thu, 20 Jun 2024 13:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/suse-obespechit-podderzhku-centos-7-do-2028-goda-a-suse-linux-15-do-2037-goda-20240620-133518/</guid>
+      <description>Компания SUSE объявила о предоставлении в рамках проекта SUSE Liberty Linux Lite расширенной поддержки систем, использующих CentOS 7. Пользователям CentOS 7 предоставлена возможность переключения на использование репозиториев SUSE Liberty Linux, выпуск обновлений и оказание технической поддержки для которых будет осуществляться до 30 июня 2028 года. Стоимость сервиса заявлена в $2500 в год на 100 подписок или $20000 в год на 1000 подписок. Штатное время сопровождения ветки CentOS 7 истекает 30 июня 2024 года, после чего обновления с устранением уязвимостей для CentOS 7 выпускаться не будут.</description>
+    </item>
+    
+    <item>
+      <title>Началось формирование сборок CentOS Stream 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-formirovanie-sborok-centos-stream-10-20240606-233547/</link>
+      <pubDate>Thu, 06 Jun 2024 23:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-formirovanie-sborok-centos-stream-10-20240606-233547/</guid>
+      <description>Разработчики из компании Red Hat приступили к формированию сборок CentOS Stream 10 и создали репозиторий с пакетами, заверенными цифровой подписью. Представленная ветка используется для разработки будущего значительного выпуска Red Hat Enterprise Linux 10. CentOS Stream позволяет раньше получить доступ к возможностям будущей ветки RHEL, но включает ещё не полностью стабилизированные пакеты. Сборки CentOS Stream 10 формируются для архитектур x86_64, Aarch64, ppc64le и s390x в форме установочных iso-файлов и образов для изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива blendOS 4, поддерживающего пакеты из Arch, Fedora, Debian, CentOS и Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</link>
+      <pubDate>Thu, 06 Jun 2024 22:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</guid>
+      <description>Представлен релиз дистрибутива blendOS 4, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Помимо пакетов из дистрибутива Arch Linux, который задействован в базовом окружении, и универсальных пакетов в формате Flatpak, предоставляется возможность установки пакетов из Fedora 39, Debian 13 (ветка testing), CentOS Stream и Ubuntu 22.04 (пакеты устанавливаются в основанных на данных дистрибутивах контейнерах). Кроме того, в blendOS предоставляется окружение для установки и запуска Android-приложений из каталогов Google Play и F-Droid.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 9.4, развиваемого основателем CentOS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-4-razvivaemogo-osnovatelem-centos-20240510-123559/</link>
+      <pubDate>Fri, 10 May 2024 12:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-4-razvivaemogo-osnovatelem-centos-20240510-123559/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 9.4, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS. Дистрибутив бинарно совместим с Red Hat Enterprise Linux и может использоваться в качестве замены RHEL 9.4 и CentOS 4 Stream. Поддержка ветки Rocky Linux 9 будет осуществляться до 31 мая 2032 года. Установочные iso-образы Rocky Linux подготовлены для архитектур x86_64, aarch64, ppc64le и s390x (IBM Z). Дополнительно предложены live-сборки с рабочими столами GNOME, KDE, Cinnamon и Xfce, опубликованные для архитектуры x86_64.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 9.3, развиваемого основателем CentOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-3-razvivaemogo-osnovatelem-centos-20231121-113538/</link>
+      <pubDate>Tue, 21 Nov 2023 11:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-3-razvivaemogo-osnovatelem-centos-20231121-113538/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 9.3, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS. Дистрибутив бинарно совместим с Red Hat Enterprise Linux и может использоваться в качестве замены RHEL 9.3 и CentOS 9 Stream. Поддержка ветки Rocky Linux 9 будет осуществляться до 31 мая 2032 года. Установочные iso-образы Rocky Linux подготовлены для архитектур x86_64, aarch64, ppc64le и s390x (IBM Z). Дополнительно предложены live-сборки с рабочими столами GNOME и Xfce, опубликованные для архитектуры x86_64 (live-сборка с KDE задерживается).</description>
+    </item>
+    
+    <item>
+      <title>Компания Intel присоединилась к разработке CentOS Stream </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-prisoedinilas-k-razrabotke-centos-stream-20230924-013506/</link>
+      <pubDate>Sun, 24 Sep 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-intel-prisoedinilas-k-razrabotke-centos-stream-20230924-013506/</guid>
+      <description>Компания Red Hat приветствовала присоединение Intel к разработке дистрибутива CentOS Stream. Intel подключился к рабочим группам CentOS Stream, курирующим вопросы, связанные с поддержкой процессорных архитектур и наборов инструкций, виртуализации и создания решений для больших инфраструктур. Ожидается, что участие Intel повысит эффективность поддержки новейших аппаратных архитектур, а также позволит увеличить производительность продуктов Red Hat на системах с процессорами Intel и реализовать в RHEL поддержку таких технологий Intel, как QAT (QuickAssist Technology).</description>
+    </item>
+    
+    <item>
+      <title>Alma Linux столкнулся с нежеланием Red Hat принимать их исправление в CentOS Stream</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/alma-linux-stolknulsya-s-nezhelaniem-red-hat-prinimat-ih-ispravlenie-v-centos-stream-20230731-003532/</link>
+      <pubDate>Mon, 31 Jul 2023 00:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/alma-linux-stolknulsya-s-nezhelaniem-red-hat-prinimat-ih-ispravlenie-v-centos-stream-20230731-003532/</guid>
+      <description>После перехода на новую модель сопровождения дистрибутива, допускающую применение собственных патчей, разработчики Alma Linux устранили в пакете iperf3 уязвимость (CVE-2023-38403) и попытались передать подготовленное исправление в CentOS Stream, так как уязвимость оставалась неисправленная в RHEL и CentOS Stream. Сотрудник Red Hat отказался принимать исправление, сославшись на правило, допускающее устранение только важных проблем.
+https://www.opennet.ru/opennews/art.shtml?num=59520</description>
+    </item>
+    
+    <item>
+      <title>CentOS Stream станет единственным публичным источником кода пакетов RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/centos-stream-stanet-edinstvennym-publichnym-istochnikom-koda-paketov-rhel-20230621-203505/</link>
+      <pubDate>Wed, 21 Jun 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/centos-stream-stanet-edinstvennym-publichnym-istochnikom-koda-paketov-rhel-20230621-203505/</guid>
+      <description>Компания Red Hat объявила об изменении подхода к публикации исходных текстов пакетов дистрибутива Red Hat Enterprise Linux и прекращении публикации кода пакетов в Git-репозитории git.centos.org. Единственным публично доступным источником исходных текстов пакетов RHEL теперь будет репозиторий CentOS Stream. Для клиентов и партнёров Red Hat будет оставлена возможность загрузки кода пакетов, соответствующих релизам RHEL, через клиентский портал компании, доступ к которому требует наличия учётной записи.
+https://www.opennet.ru/opennews/art.shtml?num=59323</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 8.8, развиваемого основателем CentOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-8-razvivaemogo-osnovatelem-centos-20230522-193505/</link>
+      <pubDate>Mon, 22 May 2023 19:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-8-razvivaemogo-osnovatelem-centos-20230522-193505/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 8.8, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS, после того как компания Red Hat досрочно прекратила поддержку ветки CentOS 8 в конце 2021 года, а не в 2029 году, как предполагалось изначально. Сборки Rocky Linux подготовлены для архитектур x86_64 и aarch64. Дополнительно формируются сборки для облачных окружений Oracle Cloud Platform (OCP).
+https://www.opennet.ru/opennews/art.shtml?num=59176</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 8.8, продолжающий развитие CentOS 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-8-prodolzhayuschiy-razvitie-centos-8-20230521-023508/</link>
+      <pubDate>Sun, 21 May 2023 02:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-8-prodolzhayuschiy-razvitie-centos-8-20230521-023508/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 8.8, синхронизированный c дистрибутивом Red Hat Enterprise Linux 8.8 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64, s390x и ppc64le в форме загрузочного (900 МБ), минимального (1.9 ГБ) и полного образа (12 ГБ). Позднее планируют сформировать Live-сборки с GNOME, KDE, Xfce и MATE, а также образы для плат Raspberry Pi, WSL, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=59165</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 9.2, развиваемого основателем CentOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-2-razvivaemogo-osnovatelem-centos-20230517-103503/</link>
+      <pubDate>Wed, 17 May 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-9-2-razvivaemogo-osnovatelem-centos-20230517-103503/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 9.2, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS. Дистрибутив полностью бинарно совместим с Red Hat Enterprise Linux и может использоваться в качестве замены RHEL 9.2 и CentOS 9 Stream. Поддержка ветки Rocky Linux 9 будет осуществляться до 31 мая 2032 года. Установочные iso-образы Rocky Linux подготовлены для архитектур x86_64, aarch64 и s390x (IBM Z). Публикация сборок для архитектуры ppc64le (POWER9) отложена из-за выявления серьёзной проблемы c работой Python 3.</description>
+    </item>
+    
+  </channel>
+</rss>

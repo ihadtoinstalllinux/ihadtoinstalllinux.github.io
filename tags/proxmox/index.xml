@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Proxmox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/proxmox/</link>
+    <description>Recent content in Proxmox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 00:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Proxmox VE 8.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-ve-8-2-20240425-003543/</link>
+      <pubDate>Thu, 25 Apr 2024 00:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-ve-8-2-20240425-003543/</guid>
+      <description>Опубликован релиз Proxmox Virtual Environment 8.2, специализированного Linux-дистрибутива на базе Debian GNU/Linux, нацеленного на развертывание и обслуживание виртуальных серверов с использованием LXC и KVM, и способного выступить в роли замены таких продуктов, как VMware vSphere, Microsoft Hyper-V и Citrix Hypervisor. Размер установочного iso-образа 1.3 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=61064</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox Mail Gateway 8.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-mail-gateway-8-1-20240302-143528/</link>
+      <pubDate>Sat, 02 Mar 2024 14:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-mail-gateway-8-1-20240302-143528/</guid>
+      <description>Компания Proxmox, известная разработкой дистрибутива Proxmox Virtual Environment для развертывания инфраструктур виртуальных серверов, представила релиз дистрибутива Proxmox Mail Gateway 8.1, который преподносится как готовое решение для быстрого создания системы контроля за почтовым трафиком и защиты внутреннего почтового сервера.
+https://www.opennet.ru/opennews/art.shtml?num=60710</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Proxmox Backup Server 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</link>
+      <pubDate>Fri, 01 Dec 2023 15:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.1, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=60214</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox VE 8.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-ve-8-1-20231124-163552/</link>
+      <pubDate>Fri, 24 Nov 2023 16:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-ve-8-1-20231124-163552/</guid>
+      <description>Опубликован релиз Proxmox Virtual Environment 8.1, специализированного Linux-дистрибутива на базе Debian GNU/Linux, нацеленного на развертывание и обслуживание виртуальных серверов с использованием LXC и KVM, и способного выступить в роли замены таких продуктов, как VMware vSphere, Microsoft Hyper-V и Citrix Hypervisor. Размер установочного iso-образа 1.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60175</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox Mail Gateway 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-mail-gateway-8-0-20230706-233505/</link>
+      <pubDate>Thu, 06 Jul 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-mail-gateway-8-0-20230706-233505/</guid>
+      <description>Компания Proxmox, известная разработкой дистрибутива Proxmox Virtual Environment для развертывания инфраструктур виртуальных серверов, представила релиз дистрибутива Proxmox Mail Gateway 8.0. Proxmox Mail Gateway преподносится как готовое решение для быстрого создания системы контроля за почтовым трафиком и защиты внутреннего почтового сервера.
+https://www.opennet.ru/opennews/art.shtml?num=59392</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox Backup Server 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</link>
+      <pubDate>Wed, 28 Jun 2023 21:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.0, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=59353</description>
+    </item>
+    
+    <item>
+      <title>Релиз Proxmox VE 8.0, дистрибутива для организации работы виртуальных серверов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-8-0-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20230623-163505/</link>
+      <pubDate>Fri, 23 Jun 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-8-0-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20230623-163505/</guid>
+      <description>Опубликован релиз Proxmox Virtual Environment 8.0, специализированного Linux-дистрибутива на базе Debian GNU/Linux, нацеленного на развертывание и обслуживание виртуальных серверов с использованием LXC и KVM, и способного выступить в роли замены таких продуктов, как VMware vSphere, Microsoft Hyper-V и Citrix Hypervisor. Размер установочного iso-образа 1.1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=59334</description>
+    </item>
+    
+    <item>
+      <title>Релиз Proxmox VE 7.4, дистрибутива для организации работы виртуальных серверов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-7-4-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20230324-113507/</link>
+      <pubDate>Fri, 24 Mar 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-proxmox-ve-7-4-distributiva-dlya-organizacii-raboty-virtualnyh-serverov-20230324-113507/</guid>
+      <description>Опубликован релиз Proxmox Virtual Environment 7.4, специализированного Linux-дистрибутива на базе Debian GNU/Linux, нацеленного на развертывание и обслуживание виртуальных серверов с использованием LXC и KVM, и способного выступить в роли замены таких продуктов, как VMware vSphere, Microsoft Hyper-V и Citrix Hypervisor. Размер установочного iso-образа 1.1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=58856</description>
+    </item>
+    
+  </channel>
+</rss>

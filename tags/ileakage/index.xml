@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>iLeakage on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ileakage/</link>
+    <description>Recent content in iLeakage on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 14:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ileakage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iLeakage - метод эксплуатации уязвимости в CPU Apple через браузеры на базе движка WebKit</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ileakage-metod-ekspluatacii-uyazvimosti-v-cpu-apple-cherez-brauzery-na-baze-dvizhka-webkit-20231027-143516/</link>
+      <pubDate>Fri, 27 Oct 2023 14:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ileakage-metod-ekspluatacii-uyazvimosti-v-cpu-apple-cherez-brauzery-na-baze-dvizhka-webkit-20231027-143516/</guid>
+      <description>Исследователи из Технологический института Джорджии, Мичиганского университета и Рурского университета разработали технику атаки iLeakage, позволяющую эксплуатировать уязвимость в ARM-процессорах Apple серий &amp;ldquo;A&amp;rdquo; и &amp;ldquo;M&amp;rdquo; через открытие в браузере специально оформленной страницы. Подготовленные исследователями прототипы эксплоитов позволяют при запуске JavaScript-кода в браузере узнать содержимое сайтов, открытых в других вкладках, например, продемонстрирована возможность определения текста письма, открытого во вкладке с Gmail, просмотра истории YouTube и извлечения пароля, подставленного менеджером паролей LastPass в форму входа в Instagram.</description>
+    </item>
+    
+  </channel>
+</rss>

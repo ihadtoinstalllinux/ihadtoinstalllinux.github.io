@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XuanTie on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xuantie/</link>
+    <description>Recent content in XuanTie on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2024 12:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xuantie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость GhostWrite, предоставляющая полный доступ к физической памяти на CPU RISC-V XuanTie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</link>
+      <pubDate>Thu, 08 Aug 2024 12:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали результаты исследования защищённости процессоров на базе архитектуры RISC-V и раскрыли сведения об уязвимости, получившей кодовое имя GhostWrite. Уязвимость затрагивает RISC-V-процессоры XuanTie C910, производимые китайской компанией T-Head (подразделение Alibaba) и развиваемые в форме открытых проектов. Уязвимость даёт возможность атакующему, имеющему непривилегированный ограниченный доступ к системе, добиться чтения и записи в любые области физической памяти, а также получить доступ к управлению периферийными устройствами, такими как сетевые карты, использующими MMIO (Memory-Mapped Input/Output).</description>
+    </item>
+    
+  </channel>
+</rss>

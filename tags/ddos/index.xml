@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DDoS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ddos/</link>
+    <description>Recent content in DDoS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 15:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ddos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в CUPS оказалась пригодна для усиления трафика при DDoS-атаках</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cups-okazalas-prigodna-dlya-usileniya-trafika-pri-ddos-atakah-20241007-153516/</link>
+      <pubDate>Mon, 07 Oct 2024 15:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cups-okazalas-prigodna-dlya-usileniya-trafika-pri-ddos-atakah-20241007-153516/</guid>
+      <description>Группа, отвечающая за безопасность сети доставки контента Akamai, выявила дополнительный вектор атаки на процесс cups-browsed, помимо его использования в качестве одного из звеньев в эксплоите, приводящем к выполнению кода в системе. Через отправку запросов к процессу cups-browsed, без ограничений принимающему соединения на 631 порту, можно добиться отправки данных на другой хост, размер которых будет превышать исходный запрос до 600 раз. Для сравнения коэффициент усиления для memcached может достигать 10-50 тысяч раз, NTP - 556 раз, DNS - 28-54, RIPv2 - 21, SNMPv2 - 6.</description>
+    </item>
+    
+    <item>
+      <title>Платформа совместной разработки SourceHut была выведена из строя на 7  дней из-за DDoS-атаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/platforma-sovmestnoy-razrabotki-sourcehut-byla-vyvedena-iz-stroya-na-7-dney-iz-za-ddos-ata-20240120-163529/</link>
+      <pubDate>Sat, 20 Jan 2024 16:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/platforma-sovmestnoy-razrabotki-sourcehut-byla-vyvedena-iz-stroya-na-7-dney-iz-za-ddos-ata-20240120-163529/</guid>
+      <description>Разработчики платформы совместной разработки SourceHut опубликовали отчёт об инциденте, в результате которого работа сервиса была нарушена в течение 7 дней из-за продолжительно DDoS-атаки, к которой инфраструктура проекта оказалась не готова. Базовые сервисы удалось восстановить на третий день, но некоторые службы оказались недоступны с 10 по 17 января. На начальном этапе атаки разработчики не успели среагировать и попытаться противостоять проблеме на стороне своих серверов, так весь трафик к серверам SourceHut был полностью блокирован на стороне вышестоящего провайдера.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в протоколе HTTP/2, применённая в крупнейшей DDoS-атаке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-http-2-primenennaya-v-krupneyshey-ddos-atake-20231011-013506/</link>
+      <pubDate>Wed, 11 Oct 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-http-2-primenennaya-v-krupneyshey-ddos-atake-20231011-013506/</guid>
+      <description>Компания Google зафиксировала крупнейшую DDoS-атаку на свою инфраструктуру, интенсивность которой составила 398 миллионов запросов в секунду. Для сравнения новая атака в 7 раз превосходит по интенсивности прошлую рекордную DDoS-атаку, в которой злоумышленникам удалось сформировать поток из 47 миллионов запросов в секунду. Помимо Google с атакой также столкнулись компании Amazon и Сloudflare. Возможность совершения новой атаки связана с выявлением в протоколе HTTP/2 уязвимости (CVE-2023-44487), позволяющей при минимальной нагрузке на клиента направлять огромный поток запросов на сервер.</description>
+    </item>
+    
+  </channel>
+</rss>

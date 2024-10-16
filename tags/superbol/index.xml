@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SuperBOL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/superbol/</link>
+    <description>Recent content in SuperBOL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 15:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/superbol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компилятор GnuCOBOL достиг зрелости. Первый выпуск среды разработки SuperBOL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompilyator-gnucobol-dostig-zrelosti-pervyy-vypusk-sredy-razrabotki-superbol-20240318-153523/</link>
+      <pubDate>Mon, 18 Mar 2024 15:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompilyator-gnucobol-dostig-zrelosti-pervyy-vypusk-sredy-razrabotki-superbol-20240318-153523/</guid>
+      <description>Фабрис Ле Фессант (Fabrice Le Fessant) подвёл итоги 20-летной разработки свободного компилятора GnuCOBOL, позволяющего транслировать программы на языке COBOL в представление на языке Си для последующей компиляции при помощи GCC или других Си-компиляторов. По мнению Фабриса проект достиг зрелости, готовности к использованию в промышленных системах и способности конкурировать с проприетарными решениями. Из конкурентных преимуществ GnuCOBOL отмечается поддержка 19 диалектов языка COBOL, высокая производительность и кросс-платформенность, позволяющая использовать инструментарий на различных системах, включая Linux, BSD, macOS, Windows, Android и многие проприетаные Unix-подобные ОС.</description>
+    </item>
+    
+  </channel>
+</rss>

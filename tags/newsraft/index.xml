@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Newsraft on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/newsraft/</link>
+    <description>Recent content in Newsraft on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Aug 2023 10:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/newsraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск консольного RSS-агрегатора Newsraft 0.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-konsolnogo-rss-agregatora-newsraft-0-20-20230808-103527/</link>
+      <pubDate>Tue, 08 Aug 2023 10:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-konsolnogo-rss-agregatora-newsraft-0-20-20230808-103527/</guid>
+      <description>Состоялся релиз консольной программы для чтения новостных лент Newsraft 0.20, поддерживающей форматы RSS и Atom. Newsraft предназначен для получения контента из различных блогов и платформ, и его просмотра через единый интерфейс, построенный на базе библиотеки ncurses. Проект вдохновлён идеями приложения Newsboat, однако является самостоятельной разработкой и представляется его легковесным аналогом. Целью проекта является предоставление наиболее востребованной функциональности полноценного фидридера при как можно меньшем количестве строк исходного кода (для сравнения, Newsboat содержит около 40 тысяч строк исходного кода, тогда как Newsraft - около 9 тысяч).</description>
+    </item>
+    
+  </channel>
+</rss>

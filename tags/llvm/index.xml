@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLVM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/llvm/</link>
+    <description>Recent content in LLVM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 01:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован набор компиляторов LLVM 19</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-kompilyatorov-llvm-19-20240918-013600/</link>
+      <pubDate>Wed, 18 Sep 2024 01:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-kompilyatorov-llvm-19-20240918-013600/</guid>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 19.1.0, развивающего инструментарий (компиляторы, оптимизаторы и генераторы кода), компилирующий программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован в машинный код для заданной целевой платформы или использован JIT-компилятором для формирования машинных инструкций непосредственно во время выполнения программы. На базе технологий LLVM проектом развивается компилятор Clang, поддерживающий языки программирования C, C++ и Objective-C. Начиная с прошлой ветки проект перешёл на новую схему формирования номеров версий, в соответствии с которой нулевой выпуск (&amp;ldquo;N.</description>
+    </item>
+    
+    <item>
+      <title>Обеспечена возможность сборки ядра Linux в окружении macOS с LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obespechena-vozmozhnost-sborki-yadra-linux-v-okruzhenii-macos-s-llvm-20240908-233529/</link>
+      <pubDate>Sun, 08 Sep 2024 23:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obespechena-vozmozhnost-sborki-yadra-linux-v-okruzhenii-macos-s-llvm-20240908-233529/</guid>
+      <description>В списке рассылки ядра Linux опубликован набор патчей с реализацией возможности сборки ядра Linux для архитектуры ARM64 в окружении macOS со штатным сборочным инструментарием на базе LLVM. Кроме изменения сборочных сценариев в ядре и включения дополнительных заголовочных файлов в несколько файлов с кодом, для сборки также требуется установка в macOS пакета со специфичными для Linux-окружения заголовочными файлами (byteswap.h, elf.h и endian.h).
+https://www.opennet.ru/opennews/art.shtml?num=61829</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Tinygo 0.32, компилятор языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</link>
+      <pubDate>Wed, 19 Jun 2024 01:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-tinygo-0-32-kompilyator-yazyka-go-na-baze-llvm-20240619-013532/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.32, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61396</description>
+    </item>
+    
+    <item>
+      <title>Доступен набор компиляторов LLVM 18 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-kompilyatorov-llvm-18-20240307-163544/</link>
+      <pubDate>Thu, 07 Mar 2024 16:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-kompilyatorov-llvm-18-20240307-163544/</guid>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 18.1.0 - GCC-совместимого инструментария (компиляторы, оптимизаторы и генераторы кода), компилирующего программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован при помощи JIT-компилятора в машинные инструкции непосредственно в момент выполнения программы.
+https://www.opennet.ru/opennews/art.shtml?num=60744</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы результаты аудита безопасности кодовой базы LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-rezultaty-audita-bezopasnosti-kodovoy-bazy-llvm-20240302-023558/</link>
+      <pubDate>Sat, 02 Mar 2024 02:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-rezultaty-audita-bezopasnosti-kodovoy-bazy-llvm-20240302-023558/</guid>
+      <description>Фонд OSTIF (Open Source Technology Improvement Fund), созданный с целью усиления защищённости открытых проектов, объявил о завершении независимого аудита кода проекта LLVM. Работа выполнена английской компанией Ada Logics. В ходе проведённой работы был восстановлен прерванный более года назад процесс тестирования в OSS-Fuzz. С 1.1 до 2.4 млн строк кода увеличен охват кодовой бызы, вовлечённой в fuzzing-тестирование. Также был расширен используемый для fuzzing-тестирования инструментарий, а число применяемых для проверки fuzzing-движков увеличено с 12 до 15.</description>
+    </item>
+    
+    <item>
+      <title>Проект LLVM меняет схему нумерации версий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-llvm-menyaet-shemu-numeracii-versiy-20231223-213546/</link>
+      <pubDate>Sat, 23 Dec 2023 21:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-llvm-menyaet-shemu-numeracii-versiy-20231223-213546/</guid>
+      <description>Разработчики проекта LLVM одобрили переход на новую схему формирования номеров версий продукта. По аналогии с проектами GCC и GDB, нулевой выпуск (&amp;ldquo;N.0&amp;rdquo;) в каждой новой ветке будет использоваться в процессе разработки, а первая стабильная версия будет снабжаться номером &amp;ldquo;N.1&amp;rdquo;. Изменение позволит отделить сборки на основе находящейся в разработке ветки (mainline) от сборок ветки с финальными релизами.
+https://www.opennet.ru/opennews/art.shtml?num=60340</description>
+    </item>
+    
+    <item>
+      <title>Доступен набор компиляторов LLVM 17.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-kompilyatorov-llvm-17-0-20230921-153506/</link>
+      <pubDate>Thu, 21 Sep 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nabor-kompilyatorov-llvm-17-0-20230921-153506/</guid>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 17.0 - GCC-совместимого инструментария (компиляторы, оптимизаторы и генераторы кода), компилирующего программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован при помощи JIT-компилятора в машинные инструкции непосредственно в момент выполнения программы.
+https://www.opennet.ru/opennews/art.shtml?num=59789</description>
+    </item>
+    
+    <item>
+      <title>Выпуск компоновщика Mold 2.0, развиваемого разработчиком LLVM lld </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-komponovschika-mold-2-0-razvivaemogo-razrabotchikom-llvm-lld-20230728-143509/</link>
+      <pubDate>Fri, 28 Jul 2023 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-komponovschika-mold-2-0-razvivaemogo-razrabotchikom-llvm-lld-20230728-143509/</guid>
+      <description>Опубликован выпуск компоновщика Mold 2.0, который может применяться в качестве более быстрой прозрачной замены GNU linker на Linux-системах. Проект развивает автор компоновщика LLVM lld. Ключевой особенностью Mold является очень высокая скорость связывания объектных файлов, заметно опережающая компоновщики GNU gold и LLVM lld (компоновка в Mold выполняется со скоростью, всего в два раза медленнее простого копирования файлов утилитой cp). Код написан на языке С++ (C++20) и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59510</description>
+    </item>
+    
+    <item>
+      <title>Проект Minotaur развивает оптимизатор векторных инструкций для LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-minotaur-razvivaet-optimizator-vektornyh-instrukciy-dlya-llvm-20230716-123507/</link>
+      <pubDate>Sun, 16 Jul 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-minotaur-razvivaet-optimizator-vektornyh-instrukciy-dlya-llvm-20230716-123507/</guid>
+      <description>Группа исследователей из университета Юты (США) предложила оптимизатор Minotaur для набора компиляторов LLVM, использующий метод на основе решения задач выполнимости формул (SMT Solver) для выявления недостающих оптимизаций в промежуточном представлении кода (LLVM IR), генерируемом оптимизатором LLVM. Minotaur главным образом нацелен на оптимизацию целочисленных векторных инструкций (SIMD), как переносимых, так и специфичных для систем x86_64 (SSE, AVX, AVX2 и AVX-512).
+https://www.opennet.ru/opennews/art.shtml?num=59447</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Tinygo 0.28, компилятора языка Go на базе LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</link>
+      <pubDate>Mon, 12 Jun 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tinygo-0-28-kompilyatora-yazyka-go-na-baze-llvm-20230612-153504/</guid>
+      <description>Доступен выпуск проекта Tinygo 0.28, развивающего компилятор языка Go для областей, в которых необходимо компактное представление результирующего кода и низкое потребление ресурсов, таких как микроконтроллеры и компактные однопроцессорные системы. Компиляция для различных целевых платформ реализована при помощи LLVM, а для поддержки языка применяются библиотеки, применяемые в основном инструментарии от проекта Go. Код распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59281</description>
+    </item>
+    
+    <item>
+      <title>Создатель LLVM развивает новый язык программирования Mojo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdatel-llvm-razvivaet-novyy-yazyk-programmirovaniya-mojo-20230508-143504/</link>
+      <pubDate>Mon, 08 May 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdatel-llvm-razvivaet-novyy-yazyk-programmirovaniya-mojo-20230508-143504/</guid>
+      <description>Крис Латнер (Chris Lattner), основатель и главный архитектор LLVM, а также создатель языка программирования Swift, и Тим Дэвис (Tim Davis), бывший руководитель AI-проектов Google, таких как Tensorflow и JAX, представили новый язык программирования Mojo, сочетающий простоту применения для исследовательских разработок и быстрого создания прототипов с пригодностью для формирования высокопроизводительных конечных продуктов. Первое достигается благодаря использованию привычного синтаксиса языка Python, а второе за счёт возможности компиляции в машинный код, механизмов безопасной работы с памятью и задействованию средств для аппаратного ускорения вычислений.</description>
+    </item>
+    
+    <item>
+      <title>Релиз набора компиляторов LLVM 16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nabora-kompilyatorov-llvm-16-0-20230319-113502/</link>
+      <pubDate>Sun, 19 Mar 2023 11:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nabora-kompilyatorov-llvm-16-0-20230319-113502/</guid>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 16.0 - GCC-совместимого инструментария (компиляторы, оптимизаторы и генераторы кода), компилирующего программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован при помощи JIT-компилятора в машинные инструкции непосредственно в момент выполнения программы.
+https://www.opennet.ru/opennews/art.shtml?num=58817</description>
+    </item>
+    
+    <item>
+      <title>Cheerp 3.0, компилятор C/C&#43;&#43; в JavaScript, переведён на лицензии Apache 2.0 и LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</link>
+      <pubDate>Fri, 17 Mar 2023 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</guid>
+      <description>Представлен компилятор Cheerp 3.0, позволяющий скомпилировать любой код C/C++ в WebAssembly или JavaScript. Новая ветка примечательна переводом компилятора и сопутствующих библиотек на использование пермиссивных лицензий Apache 2.0 и LLVM, вместо ранее применяемой ограниченной лицензионной политики, предлагающей вариант с лицензией GPLv2 для некоммерческих проектов и проприетарную лицензию для коммерческих. Код компилятора основан на наработках LLVM и Clang, и включает дополнительные оптимизации для повышения производительности и уменьшения размера скомпилированного результата.
+https://www.opennet.ru/opennews/art.shtml?num=58807</description>
+    </item>
+    
+  </channel>
+</rss>

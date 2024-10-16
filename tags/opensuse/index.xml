@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>openSUSE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opensuse/</link>
+    <description>Recent content in openSUSE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2024 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Началась разработка дистрибутива openSUSE Leap 16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalas-razrabotka-distributiva-opensuse-leap-16-0-20241008-113557/</link>
+      <pubDate>Tue, 08 Oct 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalas-razrabotka-distributiva-opensuse-leap-16-0-20241008-113557/</guid>
+      <description>Объявлено о начале работы над дистрибутивом openSUSE Leap 16.0, построенным на технологиях следующей значительной ветки коммерческого дистрибутива SLES 16, переходящего на новую платформу SLFO (SUSE Linux Framework One), ранее известную под именем ALP (Adaptable Linux Platform). Отмечается, что в ветке openSUSE Leap 16.0 предпринята попытка совместить традиционные возможности дистрибутива с новыми технологиями SLFO. Новая ветка позиционируется как традиционный дистрибутив, поставляемый в принципиальной новой форме и использующий пакеты из SLES 16 и поддерживаемого сообществом репозитория Factory.</description>
+    </item>
+    
+    <item>
+      <title>Компания SUSE попросила прекратить использование бренда SUSE в проекте openSUSE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-suse-poprosila-prekratit-ispolzovanie-brenda-suse-v-proekte-opensuse-20240717-013554/</link>
+      <pubDate>Wed, 17 Jul 2024 01:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-suse-poprosila-prekratit-ispolzovanie-brenda-suse-v-proekte-opensuse-20240717-013554/</guid>
+      <description>Разработчики openSUSE начали обсуждение вопроса изменения имени проекта, а также реструктуризации управления. Необходимость смены имени вызвана тем, что компания SUSE попросила проект openSUSE прекратить использовать бренд SUSE, чтобы исключить путаницу между компанией SUSE и развиваемом сообществом проектом openSUSE.
+https://www.opennet.ru/opennews/art.shtml?num=61561</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE представил инсталлятор Agama 9 с новым web-интерфейсом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-predstavil-installyator-agama-9-s-novym-web-interfeysom-20240628-183522/</link>
+      <pubDate>Fri, 28 Jun 2024 18:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-predstavil-installyator-agama-9-s-novym-web-interfeysom-20240628-183522/</guid>
+      <description>Разработчики проекта openSUSE опубликовали выпуск инсталлятора Agama 9, разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора сформированы live-сборки для архитектур x86_64, ppc64le, s390x и ARM64, поддерживающие установку openSUSE Leap, непрерывно обновляемой сборки openSUSE Tumbleweed, а также нескольких редакций SUSE ALP на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован атомарно обновляемый дистрибутив openSUSE Leap Micro 6.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</link>
+      <pubDate>Tue, 25 Jun 2024 18:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</guid>
+      <description>Разработчики проекта openSUSE представили релиз атомарно обновляемого дистрибутива openSUSE Leap Micro 6.0, предназначенного для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны установочные сборки для архитектур x86_64 и ARM64 (Aarch64), а также готовые системные образы для систем виртуализации и raw-образы для копирования на носители.
+https://www.opennet.ru/opennews/art.shtml?num=61437</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива openSUSE Leap 15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-6-20240612-203524/</link>
+      <pubDate>Wed, 12 Jun 2024 20:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-6-20240612-203524/</guid>
+      <description>После года разработки состоялся релиз дистрибутива openSUSE Leap 15.6. Выпуск сформирован на основе единого с SUSE Linux Enterprise 15 SP 6 набора бинарных пакетов c некоторыми пользовательскими приложениями из репозитория openSUSE Tumbleweed. Использование одних и тех же бинарных пакетов в SUSE и openSUSE упрощает переход между дистрибутивами, экономит ресурсы на сборку пакетов, распространение обновлений и тестирование, унифицирует различия в spec-файлах и позволяет отойти от диагностики разных сборок пакетов при разборе сообщений об ошибках.</description>
+    </item>
+    
+    <item>
+      <title>Обновление инсталлятора Agama 8, развиваемого для openSUSE и SUSE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-agama-8-razvivaemogo-dlya-opensuse-i-suse-20240518-183535/</link>
+      <pubDate>Sat, 18 May 2024 18:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-agama-8-razvivaemogo-dlya-opensuse-i-suse-20240518-183535/</guid>
+      <description>Разработчики проекта openSUSE опубликовали выпуск инсталлятора Agama 8 (бывший D-Installer), разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора сформированы live-сборки для архитектур x86_64, ppc64le, s390x и ARM64, поддерживающие установку openSUSE Leap, непрерывно обновляемой сборки openSUSE Tumbleweed, а также нескольких редакций SUSE ALP на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Factory реализована поддержка повторяемых сборок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-factory-realizovana-podderzhka-povtoryaemyh-sborok-20240418-233507/</link>
+      <pubDate>Thu, 18 Apr 2024 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-factory-realizovana-podderzhka-povtoryaemyh-sborok-20240418-233507/</guid>
+      <description>Разработчики проекта openSUSE объявили об обеспечении поддержки повторяемых сборок в репозитории openSUSE Factory, который применяет модель непрерывного цикла обновления версий программ (rolling-обновления) и служит основой для построения дистрибутива openSUSE Tumbleweed. Сборочная конфигурация openSUSE Factory теперь позволяет убедиться, что распространяемые в пакетах бинарные файлы собраны из предоставляемых исходных текстов и не содержат скрытых изменений. Например, любой пользователь может лично проверить, что предлагаемые сборки побитово совпадает со сборками, собранными лично из исходных текстов.</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск дистрибутива openSUSE Leap 15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-6-20240308-003601/</link>
+      <pubDate>Fri, 08 Mar 2024 00:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-6-20240308-003601/</guid>
+      <description>Началось тестирование первого бета-выпуска дистрибутива openSUSE Leap 15.6. Выпуск сформирован на основе базового набора пакетов, единого с дистрибутивом SUSE Linux Enterprise 15 SP 6 и также включает некоторые пользовательские приложения из репозитория openSUSE Tumbleweed. Для загрузки доступна универсальная DVD-сборка, размером 4.3 ГБ (x86_64, aarch64, ppc64les, 390x). Релиз openSUSE Leap 15.6 ожидается 12 июня 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=60748</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE раскрыл планы по развитию нового инсталлятора Agama</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-raskryl-plany-po-razvitiyu-novogo-installyatora-agama-20240217-133523/</link>
+      <pubDate>Sat, 17 Feb 2024 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-raskryl-plany-po-razvitiyu-novogo-installyatora-agama-20240217-133523/</guid>
+      <description>Разработчики проекта openSUSE опубликовали план по развитию нового инсталлятора Agama (бывший D-Installer), разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора формируются live-сборки для архитектур x86_64 и ARM64, поддерживающие установку непрерывно обновляемой сборки openSUSE Tumbleweed, а также редакций SUSE ALP, openSUSE MicroOS и openSUSE MicroOS Desktop, построенных на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>openSUSE Leap 16 будет построен на платформе ALP, использующей контейнеры</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opensuse-leap-16-budet-postroen-na-platforme-alp-ispolzuyuschey-konteynery-20240116-113639/</link>
+      <pubDate>Tue, 16 Jan 2024 11:36:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opensuse-leap-16-budet-postroen-na-platforme-alp-ispolzuyuschey-konteynery-20240116-113639/</guid>
+      <description>Разработчики проекта openSUSE анонсировали начало работы над следующим значительным выпуском дистрибутива openSUSE Leap 16, который будет основан на новой технологической платформе ALP (Adaptable Linux Platform), на которую также переходит коммерческий дистрибутив SUSE. Релиз openSUSE Leap 16.0 планируют выпустить в 2025 году.
+https://www.opennet.ru/opennews/art.shtml?num=60443</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE назначил дополнительное голосование по выбору логотипа</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-naznachil-dopolnitelnoe-golosovanie-po-vyboru-logotipa-20231216-023605/</link>
+      <pubDate>Sat, 16 Dec 2023 02:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-naznachil-dopolnitelnoe-golosovanie-po-vyboru-logotipa-20231216-023605/</guid>
+      <description>Дуглас ДеМайо (Douglas DeMaio), менеджер SUSE, отвечающий за маркетинг и взаимодействие с сообществом openSUSE, объявил о решении провести дополнительное голосование по выбору логотипа, принятое в ответ на.
+https://www.opennet.ru/opennews/art.shtml?num=60296</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE подвёл итоги конкурса логотипов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-podvel-itogi-konkursa-logotipov-20231215-143616/</link>
+      <pubDate>Fri, 15 Dec 2023 14:36:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-podvel-itogi-konkursa-logotipov-20231215-143616/</guid>
+      <description>Опубликованы результаты конкурса по выбору новых логотиов для проекта openSUSE и развиваемых в его составе дистрибутивов Tumbleweed, Leap, Slowroll и Kalpa. Победители было отобраны в результате общедоступного голосования.
+https://www.opennet.ru/opennews/art.shtml?num=60290</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE выбирает новый логотип</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-vybiraet-novyy-logotip-20231124-103554/</link>
+      <pubDate>Fri, 24 Nov 2023 10:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-vybiraet-novyy-logotip-20231124-103554/</guid>
+      <description>Разработчики дистрибутива openSUSE объявили о завершении стадии приёма заявок на конкурс логотипов и перешли к голосованию, в котором может участвовать любой желающий. Голосование продлится до 10 декабря и позволит выбрать новые логотипы для всего проекта openSUSE и для развиваемых в его составе дистрибутивов Tumbleweed, Leap, Slowroll и Kalpa. Всего на участие в конкурсе заявлено 36 логотипов openSUSE, 18 - Kalpa, 24 - Slowroll, 21 - Leap и 32 - Tumbleweed.</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE опубликовал альтернативный инсталлятор Agama 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-opublikoval-alternativnyy-installyator-agama-5-20231024-133552/</link>
+      <pubDate>Tue, 24 Oct 2023 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-opublikoval-alternativnyy-installyator-agama-5-20231024-133552/</guid>
+      <description>Разработчики проекта openSUSE опубликовали новый выпуск инсталлятора Agama (бывший D-Installer), развиваемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для установки пакетов, проверки оборудования, разбивки дисков и прочих необходимых при инсталляции функций продолжают использоваться библиотеки YaST, поверх которых реализованы сервисы-прослойки, абстрагирующие доступ к библиотекам через унифицированный интерфейс D-Bus.</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив openSUSE Leap Micro 5.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</link>
+      <pubDate>Fri, 13 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</guid>
+      <description>Разработчики проекта openSUSE опубликовали атомарно обновляемый дистрибутив openSUSE Leap Micro 5.5, предназначенный для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны сборки для архитектур x86_64 и ARM64 (Aarch64), поставляемые как с инсталлятором (Offline-сборки, размером 2.1 ГБ), так и в форме готовых загрузочных образов: 782 МБ (преднастроенный), 959 МБ (с Real-Time ядром) и 1.1 ГБ. Образы могут запускаться под управлением гипервизоров Xen и KVM или поверх оборудования, включая платы Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>Сформирован дистрибутив openSUSE Slowroll, идущий на смену openSUSE Leap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</link>
+      <pubDate>Tue, 12 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</guid>
+      <description>Проект openSUSE начал разработку нового дистрибутива openSUSE Slowroll, созданного на основе дистрибутива openSUSE Tumbleweed, но отличающегося применением более медленного непрерывного цикла обновления версий программ (rolling-обновления). Предполагается, что новые версии openSUSE Slowroll, будут формироваться раз в один или два месяца, с промежуточной постоянной публикацией обновлений пакетов с исправлением ошибок и уязвимостей. Готовые iso-образы подготовлены (4.4ГБ) для архитектуры x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=59743</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в приложении openSUSE-welcome, позволяющая выполнить код под другим пользователем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozhenii-opensuse-welcome-pozvolyayuschaya-vypolnit-kod-pod-drugim-polzova-20230824-123507/</link>
+      <pubDate>Thu, 24 Aug 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-prilozhenii-opensuse-welcome-pozvolyayuschaya-vypolnit-kod-pod-drugim-polzova-20230824-123507/</guid>
+      <description>В приложении openSUSE-welcome, применяемом в дистрибутиве openSUSE для ознакомления новых пользователей с особенностями системы, выявлена уязвимость (CVE-2023-32184), позволяющая выполнить код с правами другого пользователя. Приложение openSUSE-welcome запускается автоматически после первого входа пользователя в систему и в случае выбора графического окружения Xfce предлагает возможность включения альтернативных вариантов раскладки элементов на рабочем столе. Обработчик, выполняющий выбор раскладки, некорректно обрабатывал временные файлы, что позволяло другому пользователю организовать выполнение своего кода с правами жертвы, перешедшего к выбору раскладки рабочего стола Xfce.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива openSUSE Leap 15.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-5-20230607-193507/</link>
+      <pubDate>Wed, 07 Jun 2023 19:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-5-20230607-193507/</guid>
+      <description>После года разработки состоялся релиз дистрибутива openSUSE Leap 15.5. Выпуск сформирован на основе единого с SUSE Linux Enterprise 15 SP 5 набора бинарных пакетов c некоторыми пользовательскими приложениями из репозитория openSUSE Tumbleweed. Использование одних и тех же бинарных пакетов в SUSE и openSUSE упрощает переход между дистрибутивами, экономит ресурсы на сборку пакетов, распространение обновлений и тестирование, унифицирует различия в spec-файлах и позволяет отойти от диагностики разных сборок пакетов при разборе сообщений об ошибках.</description>
+    </item>
+    
+  </channel>
+</rss>

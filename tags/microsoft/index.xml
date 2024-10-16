@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microsoft on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/microsoft/</link>
+    <description>Recent content in Microsoft on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 12:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft начал продвижение в ядро Linux компонентов хост-окружения Hyper-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-nachal-prodvizhenie-v-yadro-linux-komponentov-host-okruzheniya-hyper-v-20241011-123542/</link>
+      <pubDate>Fri, 11 Oct 2024 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-nachal-prodvizhenie-v-yadro-linux-komponentov-host-okruzheniya-hyper-v-20241011-123542/</guid>
+      <description>Компания Microsoft предложила для включение в основной состав ядра Linux первую серию патчей, связанных с работой в качестве хост-окружения (Dom0, root partition) для гипервизора Hyper-V. Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием.
+https://www.opennet.ru/opennews/art.shtml?num=62028</description>
+    </item>
+    
+    <item>
+      <title>Microsoft добавил алгоритмы постквантового шифрования в библиотеку SymCrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-algoritmy-postkvantovogo-shifrovaniya-v-biblioteku-symcrypt-20240913-003555/</link>
+      <pubDate>Fri, 13 Sep 2024 00:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-dobavil-algoritmy-postkvantovogo-shifrovaniya-v-biblioteku-symcrypt-20240913-003555/</guid>
+      <description>Компания Microsoft объявила об интеграции криптоалгоритмов, стойких к подбору на квантовом компьютере, в открытую библиотеку SymCrypt, предоставляющую базовые криптографические функции, применяемые в таких проектах Microsoft, как Windows, Azure, Microsoft 365, Azure Stack HCI и Azure Linux. Библиотека SymCrypt написана на языке Си и распространяется под лицензией MIT. В Linux библиотека SymCrypt может быть использована сама по себе, в виде движка для OpenSSL и в форме обвязки на языке Rust.
+https://www.opennet.ru/opennews/art.shtml?num=61850</description>
+    </item>
+    
+    <item>
+      <title>Компания Microsoft передала разработку проекта Mono сообществу Wine</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-peredala-razrabotku-proekta-mono-soobschestvu-wine-20240828-123551/</link>
+      <pubDate>Wed, 28 Aug 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-peredala-razrabotku-proekta-mono-soobschestvu-wine-20240828-123551/</guid>
+      <description>Компания Microsoft объявила о передаче проекта Mono, разрабатывающего альтернативную реализацию платформы .NET, под крыло организации WineHQ, развивающей открытую реализацию API Win32. Компания Microsoft получила проект Mono в свои руки после поглощения компании Xamarin в 2016 году. На базе платформы Mono планировалось развивать средства для разработки мобильных приложений на языке C# с использованием технологий .NET, но со временем проект впал в стагнацию и с 2019 года значительные релизы не выпускались, хотя корректирующие обновления продолжали регулярно публиковаться.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал дистрибутив Azure Linux 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20240803-123540/</link>
+      <pubDate>Sat, 03 Aug 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20240803-123540/</guid>
+      <description>Компания Microsoft опубликовала первое стабильное обновление новой ветки дистрибутива Azure Linux 3.0, который ранее распространялся под именем CBL-Mariner. Дистрибутив развивается в качестве универсальной базовой платформы для Linux-окружений, используемых в облачной инфраструктуре, edge-системах и различных сервисах Microsoft. Проект нацелен на унификацию применяемых в Microsoft Linux-решений и упрощение поддержания Linux-систем различного назначения в актуальном состоянии. Наработки проекта распространяются под лицензией MIT. Сборки пакетов формируются для архитектур aarch64 и x86_64. Размер установочного образа 740 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Как справиться с блокировкой облаков Microsoft, что такое онлайн-демокафе и как «подружить» технических специалистов — рассказывают «Базальт СПО» и ГК Softline</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kak-spravitsya-s-blokirovkoy-oblakov-microsoft-chto-takoe-onlayn-demokafe-i-kak-podruzhit-20240722-213732/</link>
+      <pubDate>Mon, 22 Jul 2024 21:37:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kak-spravitsya-s-blokirovkoy-oblakov-microsoft-chto-takoe-onlayn-demokafe-i-kak-podruzhit-20240722-213732/</guid>
+      <description>Как бизнес справляется с блокировкой облаков Microsoft, можно ли опробовать операционные системы «Альт» в демокафе Softline и в сервисе Softline Enterprise Agreement, как создавать партнерские команды, обсудили в интервью вице-президент Softline Андрей Благоразумов и руководитель отдела маркетинга «Базальт СПО» Дария Маркова.
+https://www.basealt.ru/about/news/archive/view/kak-spravitsja-s-blokirovkoi-oblakov-microsoft-chto-takoe-onlain-demokafe-i-kak-podruzhit-tekhnicheskikh-specialistov-rasskazyvajut-bazalt-spo-i-gk-softline</description>
+    </item>
+    
+    <item>
+      <title>Microsoft развивает GUI для настройки WSL, прослойки для запуска Linux-приложений в Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</link>
+      <pubDate>Thu, 30 May 2024 23:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</guid>
+      <description>Компания Microsoft объявила о разработке графического конфигуратора для WSL (Windows Subsystem for Linux), прослойки для запуска Linux-приложений в Windows. Конфигуратор упростит настройку WSL под свои потребности и позволит управлять и просматривать различные параметраы WSL без необходимости ручного редактирования файла &amp;ldquo;.wslconfig&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61278</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал открытый шрифт Cascadia Code 2404.23</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-otkrytyy-shrift-cascadia-code-2404-23-20240501-123525/</link>
+      <pubDate>Wed, 01 May 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-otkrytyy-shrift-cascadia-code-2404-23-20240501-123525/</guid>
+      <description>Компания Microsoft представила новую версию открытого моноширинного шрифта Cascadia Code 2404.23, оптимизированного для использования в эмуляторах терминалов и редакторах кода. Шрифт примечателен поддержкой программируемых лигатур, позволяющих создавать новые глифы через комбинирование уже существующих символов. Подобные глифы поддерживаются в открытом редакторе Visual Studio Code и упрощают читаемость кода.
+https://www.opennet.ru/opennews/art.shtml?num=61096</description>
+    </item>
+    
+    <item>
+      <title>Microsoft и IBM открыли код операционной системы MS-DOS 4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-i-ibm-otkryli-kod-operacionnoy-sistemy-ms-dos-4-0-20240426-103536/</link>
+      <pubDate>Fri, 26 Apr 2024 10:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-i-ibm-otkryli-kod-operacionnoy-sistemy-ms-dos-4-0-20240426-103536/</guid>
+      <description>Спустя 10 лет с момента открытия кода MS-DOS 1.25 и 2.0 компания Microsoft объявила об открытии исходных текстов операционной системы MS-DOS 4.0, изначально выпущенной в 1988 году и разработанной совместно с IBM. Код открыт под лицензией MIT, которая позволяет свободно вносить изменения, распространять и использовать в своих продуктах. Кроме кода, в открытом доступе размещена документация и дисковые образы.
+https://www.opennet.ru/opennews/art.shtml?num=61071</description>
+    </item>
+    
+    <item>
+      <title>В Thunderbird добавят реализацию протокола Microsoft Exchange на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</link>
+      <pubDate>Sat, 20 Apr 2024 13:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-thunderbird-dobavyat-realizaciyu-protokola-microsoft-exchange-na-yazyke-rust-20240420-133542/</guid>
+      <description>Разработчики почтового клиента Thunderbird объявили о начале интеграции в кодовую базу компонентов, написанных на языке Rust. В следующий значительный выпуск Thunderbird, релиз которого ожидается в июле этого года, войдёт код с реализацией почтового протокола Microsoft Exchange Web Services (EWS), реализованный на языке Rust. Поддержка доступа к календарю и адресной книге Microsoft Exchange будет добавлена позднее. Встроенная реализация позволит обойтись без установки сторонних дополнений, через которые до сих пор обеспечивалась поддержка Microsoft Exchange.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft открыл код хранилища Garnet, совместимого с Redis </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</link>
+      <pubDate>Tue, 19 Mar 2024 16:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-hranilischa-garnet-sovmestimogo-s-redis-20240319-163531/</guid>
+      <description>Компания Microsoft открыла исходные тексты NoSQL-системы Garnet, рассчитанной на создание кэширующих хранилищ и совместимой с существующими клиентскими библиотеками для хранилища Redis. Garnet поддерживает создание масштабируемых кластеров для кэширования данных, в которых может использоваться репликация, миграция ключей и сегментирование данных между узлами кластера. Проект написан на языке C# с ядром хранения на C++, открыт под лицензией MIT и может работать на всех платформах, поддерживаемых в .NET (первичными платформами заявлены Linux и Windows).</description>
+    </item>
+    
+    <item>
+      <title>Mozilla, Google, Microsoft и Apple разработали тест производительности браузеров Speedometer 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-google-microsoft-i-apple-razrabotali-test-proizvoditelnosti-brauzerov-speedometer-20240312-123534/</link>
+      <pubDate>Tue, 12 Mar 2024 12:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-google-microsoft-i-apple-razrabotali-test-proizvoditelnosti-brauzerov-speedometer-20240312-123534/</guid>
+      <description>Спустя шесть лет c момента прошлого выпуска представлен обновлённый инструментарий для тестирования производительности и отзывчивости web-браузеров - Speedometer 3.0, подготовленный совместно компаниями Mozilla, Google, Microsoft и Apple. Ключевой задачей тестового набора называется оценка задержек при симуляции работы пользователя с типовыми web-приложениями.
+https://www.opennet.ru/opennews/art.shtml?num=60773</description>
+    </item>
+    
+    <item>
+      <title>Microsoft переименовал дистрибутив CBL-Mariner в Azure Linux и опубликовал Azure Sphere OS 24.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</link>
+      <pubDate>Wed, 06 Mar 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</guid>
+      <description>Компания Microsoft переименовала дистрибутив CBL-Mariner в Azure Linux. Ранее имя Azure Linux использовалось для специализированной сборки, устанавливаемой в Azure Kubernetes Service (AKS), а общая платформа для создания дистрибутивов развивалась под именем CBL-Mariner (Common Base Linux Mariner). Несколько дней назад Microsoft переименовал репозиторий CBL-Mariner в azurelinux, поменял названия утилит и заменил упоминание CBL-Mariner в документации на Azure Linux. После этого был сформирован первый выпуск платформы с новым именем - Azure Linux 2.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft прекращает поддержку прослойки WSA для запуска Android-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</link>
+      <pubDate>Wed, 06 Mar 2024 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</guid>
+      <description>Компания Microsoft опубликовала предупреждение о прекращении поддержи прослойки WSA (Windows Subsystem for Android), обеспечивающей запуск в Windows 11 мобильных приложений и игр, созданных для платформы Android. Android-приложения, установленные до 5 марта 2024 года, продолжат работать ещё год, после чего поддержка подсистемы будет полностью прекращена. 5 марта 2025 года также будет прекращена поддержка каталога приложений Amazon Appstore для Windows.
+https://www.opennet.ru/opennews/art.shtml?num=60735</description>
+    </item>
+    
+    <item>
+      <title>Microsoft предложил систему управления доступом IPE для ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-predlozhil-sistemu-upravleniya-dostupom-ipe-dlya-yadra-linux-20240229-163543/</link>
+      <pubDate>Thu, 29 Feb 2024 16:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-predlozhil-sistemu-upravleniya-dostupom-ipe-dlya-yadra-linux-20240229-163543/</guid>
+      <description>Компания выставила на обсуждение в списке рассылки разработчиков ядра Linux код LSM-модуля с реализацией механизма IPE (Integrity Policy Enforcemen), расширяющего существующие системы мандатного управления доступом. Вместо привязки к меткам и путям в IPE решение о разрешении или запрете операции принимается на основе постоянных свойств системного компонента с которым выполняется операция. Модуль позволяет определить общую политику обеспечения целостности для всей системы, указывающую какие операции допустимы и каким способом следует верифицировать подлинность компонентов.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал собственную реализацию утилиты sudo для Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</link>
+      <pubDate>Fri, 09 Feb 2024 15:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-sobstvennuyu-realizaciyu-utility-sudo-dlya-windows-20240209-153548/</guid>
+      <description>Компания Microsoft представила собственную реализацию утилиты sudo, предназначенную для организации выборочного выполнения команд в терминале с правами администратора. Утилита включена в тестовые сборки Windows 11 Insider Preview Build 26052 (активируется в секции настроек &amp;ldquo;Developer Features&amp;rdquo;), войдёт в состав следующего обновления Windows 11 и в будущем возможно будет портирована для Windows 10. Код утилиты планируют открыть под лицензией MIT (в настоящий момент доступен только каркас репозитория и обвязка на PowerShell).
+https://www.opennet.ru/opennews/art.shtml?num=60581</description>
+    </item>
+    
+    <item>
+      <title>Microsoft наймёт разработчиков для переписывания сервисов с C# на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</link>
+      <pubDate>Thu, 01 Feb 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</guid>
+      <description>Судя по опубликованной вакансии архитектора компания Microsoft намерена переписать с использованием языка Rust ключевые сервисы Microsoft 365, изначально написанные на языке C#. В объявлении упоминается создание новой команды разработчиков, которая будет заниматься внедрением Rust и его использованием качестве основы для модернизации глобально масштабируемых сервисов. Ранее компания Microsoft задействовала язык Rust для разработки компонентов ядра Windows 11.
+https://www.opennet.ru/opennews/art.shtml?num=60533</description>
+    </item>
+    
+    <item>
+      <title>Microsoft анонсировал открытие кода Azure RTOS и передачу проекта сообществу Eclipse</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</link>
+      <pubDate>Sun, 26 Nov 2023 21:36:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</guid>
+      <description>Компания Microsoft объявила об открытии под пермиссивной лицензией MIT исходных текстов операционной системы реального времени Azure RTOS, которая была получена после поглощения компании Express Logic в 2019 году и до этого более 20 лет поставлялась под именем ThreadX. Утверждается, что во всём мире рассматриваемая ОС была установлена на более чем 12 миллиардов устройств, среди которых потребительская электроника, промышленные системы, медицинские устройства, принтеры, WiFi чипы и даже бортовые системы космических аппаратов.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал открытую платформу .NET 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-otkrytuyu-platformu-net-8-20231115-003540/</link>
+      <pubDate>Wed, 15 Nov 2023 00:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-otkrytuyu-platformu-net-8-20231115-003540/</guid>
+      <description>Компания Microsoft представила выпуск открытой платформы .NET 8, созданной благодаря унификации продуктов .NET Framework, .NET Core и Mono. На основе .NET 8 можно создавать многоплатформенные приложения для браузера, облачных систем, рабочего стола, IoT-устройств и мобильных платформ, используя единые библиотеки и общий процесс сборки, не зависящий от типа приложения. Сборки .NET SDK 8, .NET Runtime 8 и ASP.NET Core Runtime 8 сформированы для Linux, macOS и Windows. .NET Desktop Runtime 8 поставляется только для Windows.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал WSL 2.0.0, прослойку для запуска Linux-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</link>
+      <pubDate>Wed, 20 Sep 2023 03:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</guid>
+      <description>Компания Microsoft представила выпуск прослойки для запуска Linux-приложений в Windows - WSL 2.0.0 (Windows Subsystem for Linux). Для обеспечения запуска исполняемых файлов Linux в WSL предоставляется окружение с полноценным ядром Linux, основанном на выпуске ядра Linux 5.15, который расширен специфичными для WSL патчами, включающими оптимизации для сокращения времени запуска ядра, уменьшения потребления памяти, возвращения Windows освобождённой Linux-процессами памяти, оставления в ядре минимально необходимого набора драйверов и подсистем.
+https://www.opennet.ru/opennews/art.shtml?num=59784</description>
+    </item>
+    
+    <item>
+      <title>В Microsoft Excel встроена поддержка языка программирования Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-microsoft-excel-vstroena-podderzhka-yazyka-programmirovaniya-python-20230823-003505/</link>
+      <pubDate>Wed, 23 Aug 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-microsoft-excel-vstroena-podderzhka-yazyka-programmirovaniya-python-20230823-003505/</guid>
+      <description>Компания Microsoft, в которой с 2020 года работает Гвидо ван Россум, создатель языка программирования Python, объявила об интеграции Python в табличный процессор Excel. Python можно использовать в Excel для написания формул, работы с данными, анализа информации и формирования диаграмм. Python-код добавляется в ячейки, обрабатывается по аналогии с макросами и функциями, но выполняется не локально, а в облаке Microsoft Cloud.
+https://www.opennet.ru/opennews/art.shtml?num=59641</description>
+    </item>
+    
+    <item>
+      <title>Проект GNU GMP заблокировал доступ с IP-адресов Microsoft из-за DoS-аттаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</link>
+      <pubDate>Sat, 17 Jun 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</guid>
+      <description>Torbjörn Granlund, создатель математической библиотеки GNU GMP (GNU Multiple Precision Arithmetic Library) предупредил пользователей о блокировке доступа к серверам, обслуживающим репозиторий проекта, для всего диапазона IP-адресов компании Microsoft.
+https://www.opennet.ru/opennews/art.shtml?num=59310</description>
+    </item>
+    
+    <item>
+      <title>Компания Microsoft добавит код на Rust в ядро Windows 11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</link>
+      <pubDate>Fri, 28 Apr 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-dobavit-kod-na-rust-v-yadro-windows-11-20230428-163505/</guid>
+      <description>Дэвид Вестон, вице-президент Microsoft, отвечающий за безопасность операционной системы Windows, в своём докладе на конференции BlueHat IL 2023 поделился информацией о развитии механизмов защиты Windows. Среди прочего упомянут прогресс в задействовании языка Rust для повышения безопасности ядра Windows. Более того, заявлено, что написанный Rust код будет добавлен ядро Windows 11 возможно уже через несколько месяцев или даже недель.
+https://www.opennet.ru/opennews/art.shtml?num=59044</description>
+    </item>
+    
+  </channel>
+</rss>

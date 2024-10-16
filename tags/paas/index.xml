@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaaS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/paas/</link>
+    <description>Recent content in PaaS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 23:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/paas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Cozystack 0.16.0, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cozystack-0-16-0-otkrytoy-paas-platformy-na-baze-kubernetes-20241003-233536/</link>
+      <pubDate>Thu, 03 Oct 2024 23:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cozystack-0-16-0-otkrytoy-paas-platformy-na-baze-kubernetes-20241003-233536/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.16.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61979</description>
+    </item>
+    
+    <item>
+      <title>Релиз Cozystack 0.11, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-11-otkrytoy-paas-platformy-na-baze-kubernetes-20240813-203522/</link>
+      <pubDate>Tue, 13 Aug 2024 20:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-11-otkrytoy-paas-platformy-na-baze-kubernetes-20240813-203522/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.11.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61697</description>
+    </item>
+    
+    <item>
+      <title>Релиз Cozystack 0.8.0, открытой PaaS-платформы на базе Kubernetes </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</link>
+      <pubDate>Thu, 04 Jul 2024 23:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-cozystack-0-8-0-otkrytoy-paas-platformy-na-baze-kubernetes-20240704-233547/</guid>
+      <description>Опубликован выпуск свободной PaaS-платформы Cozystack 0.8.0, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61489</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</link>
+      <pubDate>Wed, 21 Feb 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-svobodnoy-paas-platformy-cozystack-na-baze-kubernetes-20240221-163518/</guid>
+      <description>Опубликован первый выпуск свободной PaaS-платформы Cozystack на базе Kubernetes. Проект позиционирует себя как готовую платформу для хостинг провайдеров и фреймворк для построения частных и публичных облаков. Платформа устанавливается напрямую на сервера и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять по требованию Kubernetes-кластера, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60637</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rockchip on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rockchip/</link>
+    <description>Recent content in Rockchip on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 15:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rockchip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Код поддержки кодека VP9 в V4L2 для чипов Hantro и Rockchip переписан на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kod-podderzhki-kodeka-vp9-v-v4l2-dlya-chipov-hantro-i-rockchip-perepisan-na-rust-20240228-153537/</link>
+      <pubDate>Wed, 28 Feb 2024 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kod-podderzhki-kodeka-vp9-v-v4l2-dlya-chipov-hantro-i-rockchip-perepisan-na-rust-20240228-153537/</guid>
+      <description>Дэниел Алмейда (Daniel Almeida), занимающийся развитием видеокодеков в компании Collabora, представил для обсуждения разработчиками ядра Linux новую реализацию прослойки для использования аппаратных декодировщиков видео в формате VP9 в подсистеме V4L2, применяемой для организации доступа устройствам видеозахвата, таким как web-камеры и TV-тюнеры. Код прослойки полностью переписан на языке Rust и ориентирован на работу с драйверами rkvdec и hantro, предоставляющими доступ к аппаратным средствам ускорения декодирования видео, доступным в чипах Rockchip и Hantro.</description>
+    </item>
+    
+  </channel>
+</rss>

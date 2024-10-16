@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cloud/</link>
+    <description>Recent content in Cloud on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2024 21:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контроллер домена от «Базальт СПО» управляет операционными системами разных производителей: подтверждено испытаниями Cloud.ru</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kontroller-domena-ot-bazalt-spo-upravlyaet-operacionnymi-sistemami-raznyh-proizvoditeley-p-20240717-213744/</link>
+      <pubDate>Wed, 17 Jul 2024 21:37:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kontroller-domena-ot-bazalt-spo-upravlyaet-operacionnymi-sistemami-raznyh-proizvoditeley-p-20240717-213744/</guid>
+      <description>Задача поддержания жизненного цикла учетных записей и гибкое разграничение доступа к ресурсам теперь легко решается даже для большого количества администраторов разных уровней.
+https://www.basealt.ru/about/news/archive/view/kontroller-domena-ot-bazalt-spo-upravljaet-operacionnymi-sistemami-raznykh-proizvoditelei-podtverzhdeno-ispytanijami-cloudru</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 14.1 с улучшенным звуковым стеком и поддержкой cloud-init</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-1-s-uluchshennym-zvukovym-stekom-i-podderzhkoy-cloud-init-20240604-133519/</link>
+      <pubDate>Tue, 04 Jun 2024 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-1-s-uluchshennym-zvukovym-stekom-i-podderzhkoy-cloud-init-20240604-133519/</guid>
+      <description>После шести месяцев разработки сформирован релиз FreeBSD 14.1. Установочные образы подготовлены для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
+https://www.opennet.ru/opennews/art.shtml?num=61305</description>
+    </item>
+    
+    <item>
+      <title>ОС «Альт Сервер» и «Альт СП» появились в облаке Cloud.ru</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/os-alt-server-i-alt-sp-poyavilis-v-oblake-cloud-ru-20240427-213622/</link>
+      <pubDate>Sat, 27 Apr 2024 21:36:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/os-alt-server-i-alt-sp-poyavilis-v-oblake-cloud-ru-20240427-213622/</guid>
+      <description>Операционные системы «Альт Сервер» и «Альт СП Сервер» от «Базальт СПО» доступны на облачной платформе провайдера Cloud.ru.
+https://www.basealt.ru/about/news/archive/view/os-alt-server-i-alt-sp-pojavilis-v-oblake-cloudru</description>
+    </item>
+    
+    <item>
+      <title>Покоряем облака — ОС «Альт» доступны в T1 Cloud</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pokoryaem-oblaka-os-alt-dostupny-v-t1-cloud-20231127-213716/</link>
+      <pubDate>Mon, 27 Nov 2023 21:37:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pokoryaem-oblaka-os-alt-dostupny-v-t1-cloud-20231127-213716/</guid>
+      <description>Операционные системы «Альт Сервер» и «Альт СП Сервер» появились в облаке провайдера T1 Cloud.
+https://www.basealt.ru/about/news/archive/view/pokorjaem-oblaka-os-alt-dostupny-v-t1-cloud</description>
+    </item>
+    
+    <item>
+      <title>Российские операционные системы РОСА — теперь в Yandex Cloud</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rossiyskie-operacionnye-sistemy-rosa-teper-v-yandex-cloud-20230905-213520/</link>
+      <pubDate>Tue, 05 Sep 2023 21:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rossiyskie-operacionnye-sistemy-rosa-teper-v-yandex-cloud-20230905-213520/</guid>
+      <description>НТЦ ИТ РОСА объявляет о добавлении своих передовых операционных систем на маркетплейс облачной платформы Yandex Cloud. Пользователям стал доступен для развёртывания облачный образ ОС РОСА «ХРОМ» в двух версиях ОС РОСА «ХРОМ» Рабочая станция и ОС РОСА «ХРОМ» Сервер. Операционная система РОСА «ХРОМ» создана на основе собственного репозитория ROSA 2021.1, в которой используются самые актуальные версии ядра, а все компоненты […]
+https://www.rosalinux.ru/rossijskie-operaczionnye-sistemy-rosa-teper-v-yandex-cloud/</description>
+    </item>
+    
+    <item>
+      <title>На платформе VK Cloud стала доступна ОС «Альт Сервер» </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-platforme-vk-cloud-stala-dostupna-os-alt-server-20230524-213553/</link>
+      <pubDate>Wed, 24 May 2023 21:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-platforme-vk-cloud-stala-dostupna-os-alt-server-20230524-213553/</guid>
+      <description>Пользователи платформы VK Cloud получили доступ к операционным системам «Альт Сервер» и «Альт СП Сервер», предназначенным для работы с инфраструктурами любого масштаба.
+https://www.basealt.ru/about/news/archive/view/na-platforme-vk-cloud-stala-dostupna-os-alt-server</description>
+    </item>
+    
+  </channel>
+</rss>
