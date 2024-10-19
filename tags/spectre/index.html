@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Обход защиты от атак Spectre и эксплоит для извлечения данных из памяти другого процесса
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Исследователи из Швейцарской высшей технической школы Цюриха выявили два способа обхода защиты от атак класса Spectre, основанной на использовании процессорных инструкций IBPB (Indirect Branch Prediction Barriers) для сброса состояния блока предсказания переходов при каждом переключении контекста (например, при передаче управления между пространством пользователя в ядром или между гостевой системой и хост окружением). Первый способ затрагивает процессоры Intel, а второй - процессоры AMD. Кроме того, исследователи впервые реализовали рабочий эксплоит, использующий уязвимость Spectre для организации утечки содержимого памяти между процессами, и продемонстрировали его применение для извлечения паролей из памяти suid-процессов, таких как sudo, su и polkit....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-10-19 15:35:16 +0500 +05'>October 19, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Обход защиты от атак Spectre и эксплоит для извлечения данных из памяти другого процесса" href="https://ihadtoinstalllinux.github.io/posts/obhod-zaschity-ot-atak-spectre-i-eksploit-dlya-izvlecheniya-dannyh-iz-pamyati-drugogo-proc-20241019-153516/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Уязвимость в ядре Linux 6.2, позволяющая обойти защиту от атак Spectre v2
     </h2>
   </header>
