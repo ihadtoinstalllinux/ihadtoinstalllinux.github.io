@@ -6,7 +6,17 @@
     <description>Recent content in Coreboot on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 16:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreboot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 13:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/coreboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel начал продвигать решения на базе CoreBoot для систем с процессорами Intel Xeon 6 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-nachal-prodvigat-resheniya-na-baze-coreboot-dlya-sistem-s-processorami-intel-xeon-6-20241020-133516/</link>
+      <pubDate>Sun, 20 Oct 2024 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-nachal-prodvigat-resheniya-na-baze-coreboot-dlya-sistem-s-processorami-intel-xeon-6-20241020-133516/</guid>
+      <description>Компания Intel объявила о работе по добавлению поддержки платформ на базе процессоров Intel Xeon 6 (&amp;ldquo;Granite Rapids&amp;rdquo;) в проект CoreBoot, развивающий свободную альтернативу проприетарным прошивкам и BIOS. Работа ведётся совместно с компанией 9elements, специализирующейся на адаптации CoreBoot для различного оборудования. Для CoreBoot планируется подготовить пакет FSP (Firmware Support Package), включающий реализацию процедур, необходимых для инициализации и настройки систем с процессорами Intel Xeon 6.
+https://www.opennet.ru/opennews/art.shtml?num=62078</description>
+    </item>
+    
     <item>
       <title>Выпуск Coreboot 24.05</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-coreboot-24-05-20240524-163549/</link>
