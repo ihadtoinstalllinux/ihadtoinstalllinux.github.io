@@ -6,7 +6,16 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 11:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 18:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск IWD 3.0, пакета для организации подключения к Wi-Fi в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-iwd-3-0-paketa-dlya-organizacii-podklyucheniya-k-wi-fi-v-linux-20241021-183605/</link>
+      <pubDate>Mon, 21 Oct 2024 18:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-iwd-3-0-paketa-dlya-organizacii-podklyucheniya-k-wi-fi-v-linux-20241021-183605/</guid>
+      <description>Доступен выпуск Wi-Fi демона IWD 3.0 (iNet Wireless Daemon), развиваемого компанией Intel в качестве альтернативы инструментария wpa_supplicant для организации подключения Linux-систем к беспроводной сети. IWD может использоваться как самодостаточно, так и выступать в качестве бэкенда для сетевых конфигураторов Network Manager и ConnMan. Проект подходит для применения на встраиваемых устройствах и оптимизирован для минимального потребления памяти и дискового пространства. IWD не использует внешних библиотек и обращается только к возможностям, предоставляемым штатным ядром Linux (для работы достаточно ядра Linux и Glibc).</description>
+    </item>
+    
     <item>
       <title>enjmO3Sg-u8D2guKAIF9WB_T0ItQhSo6ubhiIUWj0r4CkamyTPXZJEGmmJObIajwSAw4xqBPcQHDnqgahtIoxg-z.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20241021-113540/</link>
