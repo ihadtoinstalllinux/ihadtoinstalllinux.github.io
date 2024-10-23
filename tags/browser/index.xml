@@ -6,7 +6,16 @@
     <description>Recent content in Browser on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 12:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз Tor Browser 14.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-tor-browser-14-0-20241023-123526/</link>
+      <pubDate>Wed, 23 Oct 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-tor-browser-14-0-20241023-123526/</guid>
+      <description>Представлен выпуск специализированного браузера Tor Browser 14.0, в котором осуществлён переход на ESR-ветку Firefox 128. Браузер сосредоточен на обеспечении конфиденциальности и безопасности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix). Сборки Tor Browser подготовлены для Linux, Android, Windows и macOS.</description>
+    </item>
+    
     <item>
       <title>Обновления Firefox 131.0.2 и Tor Browser 13.5.7 с устранением критической уязвимости</title>
       <link>https://ihadtoinstalllinux.github.io/posts/obnovleniya-firefox-131-0-2-i-tor-browser-13-5-7-s-ustraneniem-kriticheskoy-uyazvimosti-20241010-123603/</link>
