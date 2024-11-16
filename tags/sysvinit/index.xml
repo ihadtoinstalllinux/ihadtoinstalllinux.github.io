@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sysvinit on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sysvinit/</link>
+    <description>Recent content in sysvinit on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 10:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sysvinit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-11-20241022-103551/</link>
+      <pubDate>Tue, 22 Oct 2024 10:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-11-20241022-103551/</guid>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.11, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-10-20240729-213554/</link>
+      <pubDate>Mon, 29 Jul 2024 21:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-10-20240729-213554/</guid>
+      <description>Представлен релиз классической системы инициализации SysVinit 3.10, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.09 с поддержкой Си-библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</link>
+      <pubDate>Mon, 25 Mar 2024 11:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</guid>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.09, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.
+https://www.opennet.ru/opennews/art.shtml?num=60839</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы инициализации sysvinit 3.08</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-08-20230818-113506/</link>
+      <pubDate>Fri, 18 Aug 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-08-20230818-113506/</guid>
+      <description>Представлен релиз классической системы инициализации sysvinit 3.08, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.
+https://www.opennet.ru/opennews/art.shtml?num=59624</description>
+    </item>
+    
+  </channel>
+</rss>

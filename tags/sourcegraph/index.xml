@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sourcegraph on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sourcegraph/</link>
+    <description>Recent content in Sourcegraph on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2023 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sourcegraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атакующие получили доступ к сайту проекта Sourcegraph</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/atakuyuschie-poluchili-dostup-k-saytu-proekta-sourcegraph-20230901-153506/</link>
+      <pubDate>Fri, 01 Sep 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/atakuyuschie-poluchili-dostup-k-saytu-proekta-sourcegraph-20230901-153506/</guid>
+      <description>Проект Sourcegraph, развивающий движок для навигации по исходным текстам, рефакторинга и поиска в коде, раскрыл сведения об инциденте, в результате которого злоумышленники получили доступ к сайту Sourcegraph.com с правами администратора. Атакующим удалось загрузить данные о пользователях Sourcegraph, включающие email-адреса зарегистрированных пользователей, имена и email коммерческих клиентов и лицензионные ключи некоторых коммерческих пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=59696</description>
+    </item>
+    
+    <item>
+      <title>Проект Sourcegraph перешёл с открытой лицензии на проприетарную</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-sourcegraph-pereshel-s-otkrytoy-licenzii-na-proprietarnuyu-20230706-163504/</link>
+      <pubDate>Thu, 06 Jul 2023 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-sourcegraph-pereshel-s-otkrytoy-licenzii-na-proprietarnuyu-20230706-163504/</guid>
+      <description>Проект Sourcegraph, развивающий движок для навигации по исходным текстам, рефакторинга и поиска в коде, начиная с версии 5.1 отказался от разработки под лицензией Apache 2.0 в пользу проприетарной лицензии, запрещающей тиражирование и продажу, но допускающей копирование и изменение в процессе разработки и тестирования.
+https://www.opennet.ru/opennews/art.shtml?num=59389</description>
+    </item>
+    
+  </channel>
+</rss>

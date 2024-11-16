@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oracle on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/oracle/</link>
+    <description>Recent content in Oracle on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2024 12:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Oracle выпустила ядро Unbreakable Enterprise Kernel R7U3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-vypustila-yadro-unbreakable-enterprise-kernel-r7u3-20241002-123553/</link>
+      <pubDate>Wed, 02 Oct 2024 12:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-vypustila-yadro-unbreakable-enterprise-kernel-r7u3-20241002-123553/</guid>
+      <description>Компания Oracle представила третье функциональное обновление для ядра Unbreakable Enterprise Kernel R7, развиваемого для использования в дистрибутиве Oracle Linux в качестве альтернативы штатному пакету с ядром из Red Hat Enterprise Linux. Ядро доступно для архитектур x86_64 и ARM64 (aarch64). Исходные тексты ядра, включая разбивку на отдельные патчи, опубликованы в публичном Git-репозитории Oracle.
+https://www.opennet.ru/opennews/art.shtml?num=61971</description>
+    </item>
+    
+    <item>
+      <title>Компания Oracle перевела Linux-ядро UEK-next на ветку 6.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-perevela-linux-yadro-uek-next-na-vetku-6-10-20240921-193554/</link>
+      <pubDate>Sat, 21 Sep 2024 19:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-perevela-linux-yadro-uek-next-na-vetku-6-10-20240921-193554/</guid>
+      <description>Компания Oracle обновила пакет с ядром UEK-next (Next Unbreakable Enterprise Kernel) до ветки ядра Linux 6.10. В дистрибутиве Oracle Linux вместо ядра из Red Hat Enterprise Linux по умолчанию используется ядро UEK 7, основанное на ядре Linux 5.15, в то время как ветка UEK-next развивается в виде непрерывно обновляемой опции для разработчиков, позволяющей получить доступ к наиболее свежим улучшениям из основной ветки ядра, сохранив при этом доступ к специфичным для ядра UEK расширенным возможностям, таким как как интеграция DTrace и улучшенная поддержка Btrfs, а также оптимизациям для работы с программным обеспечением и оборудованием Oracle.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Valkey 8.0, форк СУБД Redis от Amazon, Google, Oracle и Ericsson</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</link>
+      <pubDate>Wed, 18 Sep 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</guid>
+      <description>Представлен релиз проекта Valkey 8.0, развивающего форк СУБД Redis, созданный после перевода кодовой базы Redis на проприетарную лицензию. Проект развивается на нейтральной площадке под покровительством организации Linux Foundation при участии разработчиков из таких компаний, как Amazon, Google, Oracle, Ericsson и Snap. В числе разработчиков Valkey - Маделин Олсон (Madelyn Olson), бывший мэйнтейнер Redis. Код проекта написан на языке Си и распространяется под лицензией BSD. Поддерживается работа в Linux, macOS, OpenBSD, NetBSD и FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240718-183523/</link>
+      <pubDate>Thu, 18 Jul 2024 18:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240718-183523/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В июльском обновлении в сумме устранена 386 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=61573</description>
+    </item>
+    
+    <item>
+      <title>Компания Oracle опубликовала первый выпуск ядра UEK-next, основанный на ядре Linux 6.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-pervyy-vypusk-yadra-uek-next-osnovannyy-na-yadre-linux-6-9-20240704-133534/</link>
+      <pubDate>Thu, 04 Jul 2024 13:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-pervyy-vypusk-yadra-uek-next-osnovannyy-na-yadre-linux-6-9-20240704-133534/</guid>
+      <description>Компания Oracle объявила о формировании пакетов с ядром UEK-next (Next Unbreakable Enterprise Kernel), построенных на базе выпуска ядра Linux 6.9. По умолчанию вместо ядра из Red Hat Enterprise Linux в дистрибутиве Oracle Linux продолжает использоваться ядро UEK 7, основанное на ядре Linux 5.15, в то время как ядро UEK-next позиционируется как непрерывно обновляемая опция для разработчиков, позволяющая получить доступ к наиболее свежим улучшениям из основной ветки ядра, сохранив при этом доступ к специфичным для ядра UEK расширенным возможностям, таким как как интеграция DTrace и улучшенная поддержка Btrfs, а также оптимизациям для работы с промышленным программным обеспечением и оборудованием Oracle.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 8.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-10-20240529-213546/</link>
+      <pubDate>Wed, 29 May 2024 21:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-10-20240529-213546/</guid>
+      <description>Компания Oracle опубликовала релиз дистрибутива Oracle Linux 8.10, созданного на основе пакетной базы Red Hat Enterprise Linux 8.10. Для загрузки без ограничений распространяются установочные iso-образы размером 14 ГБ и 1 ГБ, подготовленные для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые модули Application Stream.
+https://www.opennet.ru/opennews/art.shtml?num=61268</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 9.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-9-4-20240515-213544/</link>
+      <pubDate>Wed, 15 May 2024 21:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-9-4-20240515-213544/</guid>
+      <description>Компания Oracle опубликовала выпуск дистрибутива Oracle Linux 9.4, созданного на основе пакетной базы Red Hat Enterprise Linux 9.4 и полностью бинарно совместимого с ней. Для загрузки без ограничений предложены установочные iso-образы, размером 10 ГБ и 900 МБ, подготовленные для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux 9 открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240417-123525/</link>
+      <pubDate>Wed, 17 Apr 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240417-123525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В апрельском обновлении в сумме устранена 441 уязвимость.
+https://www.opennet.ru/opennews/art.shtml?num=61008</description>
+    </item>
+    
+    <item>
+      <title>Компания Oracle опубликовала DTrace для Linux 2.0.0-1.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-dtrace-dlya-linux-2-0-0-1-14-20240412-003536/</link>
+      <pubDate>Fri, 12 Apr 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-dtrace-dlya-linux-2-0-0-1-14-20240412-003536/</guid>
+      <description>Представлен экспериментальный выпуск инструментария динамической отладки DTrace для Linux 2.0.0-1.14, реализованный в виде работающего в пространстве пользователя процесса, использующего подсистему eBPF и штатные механизмы трассировки, предоставляемых ядром Linux. По функциональности реализация DTrace на базе eBPF близка к первой реализации DTrace для Linux, выполненной в форме модуля ядра. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=60973</description>
+    </item>
+    
+    <item>
+      <title>Amazon, Google, Oracle, Ericsson и Snap основали Valkey, форк СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</link>
+      <pubDate>Thu, 28 Mar 2024 23:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</guid>
+      <description>Организация Linux Foundation объявила о создании проекта Valkey, который продолжит развитие открытой кодовой базы СУБД Redis, распространяемой под лицензией BSD. Проект будет развиваться под эгидой организации Linux Foundation на независимой площадке с привлечением сообщества разработчиков и компаний, заинтересованных в продолжении сохранения открытой кодовой базы Redis. К работе над проектом уже присоединились такие компании, как Amazon Web Services (AWS), Google Cloud, Oracle, Ericsson и Snap Inc.
+https://www.opennet.ru/opennews/art.shtml?num=60871</description>
+    </item>
+    
+    <item>
+      <title>Rocky Linux, Oracle и SUSE обеспечат дальнейшее сопровождение ядра Linux 4.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-obespechat-dalneyshee-soprovozhdenie-yadra-linux-4-14-20240316-223540/</link>
+      <pubDate>Sat, 16 Mar 2024 22:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-obespechat-dalneyshee-soprovozhdenie-yadra-linux-4-14-20240316-223540/</guid>
+      <description>Ассоциация OpenELA (Open Enterprise Linux Association), в прошлом году образованная компаниями CIQ (Rocky Linux), Oracle и SUSE для объединения усилий по обеспечению совместимости с RHEL, представила проект kernel-lts, в рамках которого обеспечит дополнительное сопровождения для некоторых устаревших LTS-веток ядра, после прекращения их официальной поддержки.
+https://www.opennet.ru/opennews/art.shtml?num=60794</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 9.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-9-3-20231117-233602/</link>
+      <pubDate>Fri, 17 Nov 2023 23:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-9-3-20231117-233602/</guid>
+      <description>Компания Oracle опубликовала выпуск дистрибутива Oracle Linux 9.3, созданного на основе пакетной базы Red Hat Enterprise Linux 9.3 и полностью бинарно совместимого с ней. Для загрузки без ограничений предложены установочные iso-образы, размером 10 ГБ и 900 МБ, подготовленные для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux 9 открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</link>
+      <pubDate>Thu, 19 Oct 2023 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В октябрьском обновлении в сумме устранено 387 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59954</description>
+    </item>
+    
+    <item>
+      <title>Rocky Linux, Oracle и SUSE создали совместный репозиторий для RHEL-совместимых дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-sozdali-sovmestnyy-repozitoriy-dlya-rhel-sovmestimyh-distributiv-20230810-233505/</link>
+      <pubDate>Thu, 10 Aug 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rocky-linux-oracle-i-suse-sozdali-sovmestnyy-repozitoriy-dlya-rhel-sovmestimyh-distributiv-20230810-233505/</guid>
+      <description>Компании CIQ (Rocky Linux), Oracle и SUSE объявили о создании ассоциации разработчиков дистрибутивов OpenELA (Open Enterprise Linux Association), нацеленной на совместную разработку пакетной базы, совместимой с Red Hat Enterprise Linux. Целью ассоциации является объединение усилий разработчиков дистрибутивов в работе по обеспечению совместимости с RHEL. Среди прочего, в рамках проекта создан совместно поддерживаемый общедоступный репозиторий с исходными текстами пакетов, который можно использовать для построения дистрибутивов, совместимых с RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59580</description>
+    </item>
+    
+    <item>
+      <title>Oracle Linux продолжит поддерживать совместимость с RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oracle-linux-prodolzhit-podderzhivat-sovmestimost-s-rhel-20230711-003506/</link>
+      <pubDate>Tue, 11 Jul 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oracle-linux-prodolzhit-podderzhivat-sovmestimost-s-rhel-20230711-003506/</guid>
+      <description>Компания Oracle заявила о готовности продолжать поддержание совместимости с Red Hat Enterprise Linux в своём дистрибутиве Oracle Linux, несмотря на ограничение компанией Red Hat публичного доступа к исходным текстам пакетов RHEL. Потеря доступа к эталонным исходным текстам пакетов повышает вероятность появления проблем с совместимостью, но компания Oracle готова устранять данные проблемы, если они затрагивают клиентов. Компания Oracle также приветствует создание производных дистрибутивов, как общественных, так и коммерческих, и готова сотрудничать с другими производителями дистрибутивов для облегчения совместной работы над Oracle Linux и сертификации продуктов Oracle для других дистрибутивов.</description>
+    </item>
+    
+    <item>
+      <title>Oracle опубликовал систему автоматической оптимизации параметров ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oracle-opublikoval-sistemu-avtomaticheskoy-optimizacii-parametrov-yadra-linux-20230629-133506/</link>
+      <pubDate>Thu, 29 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oracle-opublikoval-sistemu-avtomaticheskoy-optimizacii-parametrov-yadra-linux-20230629-133506/</guid>
+      <description>Компания Oracle представила инструментарий bpftune, предназначенный для автоматической оптимизации настроек ядра Linux с учётом выполняемых задач, активности в системе и характера нагрузки. Основу bpftune составляет фоновый процесс, работающий в пространстве пользователя и использующий подсистему ядра BPF. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=59354</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Oracle Linux 8.8 и 9.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-8-i-9-2-20230527-093505/</link>
+      <pubDate>Sat, 27 May 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-oracle-linux-8-8-i-9-2-20230527-093505/</guid>
+      <description>Компания Oracle опубликовала выпуски дистрибутива Oracle Linux 9.2 и 8.8, созданные на основе пакетных баз Red Hat Enterprise Linux 9.2 и 8.8, cоответственно, и полностью бинарно совместимого с ними. Для загрузки без ограничений предложены установочные iso-образы, размером 9.8 ГБ и 880 МБ, подготовленные для архитектур x86_64 и ARM64 (aarch64). Для Oracle Linux открыт неограниченный и бесплатный доступ к yum-репозиторию с бинарными обновлениями пакетов с устранением ошибок (errata) и проблем безопасности. Для загрузки также подготовлены отдельно поддерживаемые репозитории с наборами пакетов Application Stream и CodeReady Builder.</description>
+    </item>
+    
+  </channel>
+</rss>

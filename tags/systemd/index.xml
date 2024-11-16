@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>systemd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/systemd/</link>
+    <description>Recent content in systemd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2024 10:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен порт systemd для систем на базе библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-port-systemd-dlya-sistem-na-baze-biblioteki-musl-20240906-103514/</link>
+      <pubDate>Fri, 06 Sep 2024 10:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-port-systemd-dlya-sistem-na-baze-biblioteki-musl-20240906-103514/</guid>
+      <description>Создатель самобытного дистрибутива Adelie Linux, использующего стандартную Си-библиотеку Musl, систему инициализации OpenRC и пакетный менеджер APK, объявил об успешном портировании системного менеджера systemd для работы с библиотекой Musl. Несмотря на то, что реализация имеет статус начальной, она уже достаточно стабильна и демонстрирует трёхкратное сокращение времени загрузки, по сравнению с использованием OpenRC.
+https://www.opennet.ru/opennews/art.shtml?num=61818</description>
+    </item>
+    
+    <item>
+      <title>Пользователи systemd столкнулись с проблемой, приводившей к удалению домашних каталогов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovateli-systemd-stolknulis-s-problemoy-privodivshey-k-udaleniyu-domashnih-katalogov-20240619-183540/</link>
+      <pubDate>Wed, 19 Jun 2024 18:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovateli-systemd-stolknulis-s-problemoy-privodivshey-k-udaleniyu-domashnih-katalogov-20240619-183540/</guid>
+      <description>Опубликован корректирующий выпуск системного менеджера systemd 256.1, в котором устранена проблема, приводившая к удалению содержимого раздела /home при выполнении команды &amp;ldquo;systemd-tmpfiles &amp;ndash;purge&amp;rdquo;, добавленной в systemd 256 для удаления всех файлов и каталогов, созданных через настройки в tmpfiles.d.
+https://www.opennet.ru/opennews/art.shtml?num=61403</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системного менеджера systemd 256 с утилитой run0 для замены sudo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</link>
+      <pubDate>Wed, 12 Jun 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-256-s-utilitoy-run0-dlya-zameny-sudo-20240612-123551/</guid>
+      <description>После полугода разработки представлен релиз системного менеджера systemd 256. Ключевые изменения: утилита run0 для замены sudo, утилита importctl для работы с дисковыми образами, возможность версионированного доступа к ресурсам, концепция капсул для запуска дополнительных сервисных менеджеров, режим перенаправления логов systemd-journald в произвольный сокет, в systemd-networkd, systemd-machined, bootctl, systemd-creds и systemd-hostnamed добавлена поддержка протокола Varlink, предложены генератор юнитов &amp;ldquo;systemd-ssh-generator&amp;rdquo; и утилита &amp;ldquo;systemd-ssh-proxy&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61234</description>
+    </item>
+    
+    <item>
+      <title>GNOME OS переходит на организацию атомарных обновлений при помощи systemd-sysupdate</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</link>
+      <pubDate>Wed, 15 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</guid>
+      <description>Разработчики GNOME OS, экспериментального дистрибутива для разработчиков и тестировщиков GNOME, позволяющего оценить состояние разработки среды рабочего стола, ознакомиться с появляющимися новыми возможностями и протестировать работу своих приложений в находящихся в разработке ветках GNOME, объявили о переходе на использование компонента systemd-sysupdate для организации атомарного обновления системы. Целью изменения является желание адаптировать ночные сборки GNOME OS для проведения ежедневного контроля качества разработки GNOME.
+https://www.opennet.ru/opennews/art.shtml?num=61181</description>
+    </item>
+    
+    <item>
+      <title>Проект ALDOS развивает вариант Fedora без systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</link>
+      <pubDate>Wed, 15 May 2024 10:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-aldos-razvivaet-variant-fedora-bez-systemd-20240515-103550/</guid>
+      <description>Представлен выпуск мексиканского дистрибутива ALDOS 1.4.18, предлагающего пользовательское окружение в классическом стиле, рассчитанное на минимальное потребление ресурсов и способность работы на маломощных системах. Дистрибутив основан на технологиях Fedora Linux, но поставляется без системного менеджера systemd, вместо которого для инициализации и запуска сервисов задействована система Upstart, для координации работы с устройствами - Eudev, а для управления сеансами elogind. Размер установочного образа 1.9 ГБ. Актуальная ветка дистрибутива ALDOS 1.4 будет сопровождаться до конца сентября 2029 года.</description>
+    </item>
+    
+    <item>
+      <title>Леннарт Поттеринг представил run0, замену sudo, интегрированную в systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</link>
+      <pubDate>Tue, 30 Apr 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predstavil-run0-zamenu-sudo-integrirovannuyu-v-systemd-20240430-003537/</guid>
+      <description>Леннарт Поттеринг представил утилиту run0, позволяющую выполнять процессы под идентификаторами других пользователей. Новая утилита позиционируется как более безопасная замена программы sudo, реализованная в форме надстройки над командой systemd-run и позволяющая избавиться от применения исполняемого файла с флагом SUID. Утилита run0 включена в состав выпуска systemd 256, который находится на стадии кандидата в релизы.
+https://www.opennet.ru/opennews/art.shtml?num=61088</description>
+    </item>
+    
+    <item>
+      <title>Проект postmarketOS представил сборки на базе systemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-postmarketos-predstavil-sborki-na-baze-systemd-20240306-123519/</link>
+      <pubDate>Wed, 06 Mar 2024 12:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-postmarketos-predstavil-sborki-na-baze-systemd-20240306-123519/</guid>
+      <description>Разработчики проекта postmarketOS, развивающего дистрибутив Linux для смартфонов, базирующийся на пакетной базе Alpine Linux, стандартной Си-библиотеке Musl и наборе утилит BusyBox, объявили о предоставлении возможности использования системного менеджера systemd. В результате работы по реализации поддержки systemd, которая велась около года, подготовлен и доступен для тестирования прототип сборки, в которой вместо системы инициализации OpenRC задействован systemd.
+https://www.opennet.ru/opennews/art.shtml?num=60737</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системного менеджера systemd 255</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-255-20231207-153534/</link>
+      <pubDate>Thu, 07 Dec 2023 15:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-255-20231207-153534/</guid>
+      <description>После четырёх месяцев разработки представлен релиз системного менеджера systemd 255. Среди наиболее важных улучшений: поддержка экспорта накопителей через NVMe-TCP, компонент systemd-bsod для полноэкранного вывода сообщений об ошибках, утилита systemd-vmspawn для запуска виртуальных машин, утилита varlinkctl для управления сервисами Varlink, утилита systemd-pcrlock для анализа регистров TPM2 PCR и генерации правил доступа, модуль аутентификации pam_systemd_loadkey.so.
+https://www.opennet.ru/opennews/art.shtml?num=60248</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Devuan 5.0, форка Debian 12 без systemd </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</link>
+      <pubDate>Tue, 15 Aug 2023 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</guid>
+      <description>Представлен выпуск дистрибутива Devuan 5.0 &amp;ldquo;Daedalus&amp;rdquo;, форка Debian GNU/Linux, поставляемого без системного менеджера systemd. Новая ветка примечательна переходом на пакетную базу Debian 12 &amp;ldquo;Bullseye&amp;rdquo;. Для загрузки подготовлены Live-сборки и установочные iso-образы для архитектур i386, amd64, armel, armhf, arm64 и ppc64el.
+https://www.opennet.ru/opennews/art.shtml?num=59602</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системного менеджера systemd 254 с поддержкой мягкой перезагрузки </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-254-s-podderzhkoy-myagkoy-perezagruzki-20230728-213509/</link>
+      <pubDate>Fri, 28 Jul 2023 21:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnogo-menedzhera-systemd-254-s-podderzhkoy-myagkoy-perezagruzki-20230728-213509/</guid>
+      <description>После пяти месяцев разработки представлен релиз системного менеджера systemd 254. Наиболее заметным изменением в новой версии стала поддержка режима мягкой перезагрузки (команда &amp;ldquo;systemctl soft-reboot&amp;rdquo;), который приводит к перезапуску только компонентов пространства пользователя, не трогая ядро Linux. В новом режиме при перезагрузке не применяются стадии инициализации оборудования, вызова загрузчика, запуска и загрузки ядра, инициализации драйверов, загрузки прошивок и обработки initrd, что позволяет заметно ускорить перезапуск и уменьшить время простоя во время обновления окружений, использующих готовые системные образы.</description>
+    </item>
+    
+    <item>
+      <title>Леннарт Поттеринг предложил добавить в systemd режим мягкой перезагрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predlozhil-dobavit-v-systemd-rezhim-myagkoy-perezagruzki-20230509-113507/</link>
+      <pubDate>Tue, 09 May 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lennart-pottering-predlozhil-dobavit-v-systemd-rezhim-myagkoy-perezagruzki-20230509-113507/</guid>
+      <description>Леннарт Поттеринг рассказал о подготовке к добавлению в системный менеджер systemd режима мягкой перезагрузки (&amp;ldquo;systemctl soft-reboot&amp;rdquo;), который приводит к перезапуску только компонентов пространства пользователя, не трогая ядро Linux. Предполагается, что по сравнению с обычной перезагрузкой мягкая перезагрузка сократит время простоя во время обновления окружений, использующих готовые системные образы.
+https://www.opennet.ru/opennews/art.shtml?num=59099</description>
+    </item>
+    
+  </channel>
+</rss>

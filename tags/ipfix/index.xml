@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPFIX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipfix/</link>
+    <description>Recent content in IPFIX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Nov 2023 01:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipfix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Netflow/IPFIX коллектора Xenoeye 23.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-netflow-ipfix-kollektora-xenoeye-23-11-20231109-013545/</link>
+      <pubDate>Thu, 09 Nov 2023 01:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-netflow-ipfix-kollektora-xenoeye-23-11-20231109-013545/</guid>
+      <description>Опубликован релиз Netflow/IPFIX коллектора Xenoeye 23.11, позволяющего собирать с различных сетевых устройств статистику о потоках трафика, передаваемую с использованием протоколов Netflow v5, v9 и IPFIX, а также обрабатывать данные, генерировать отчёты и строить графики. Ядро проекта написано на языке С, код распространяется под лицензией ISC.
+https://www.opennet.ru/opennews/art.shtml?num=60077</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Business on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/business/</link>
+    <description>Recent content in Business on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Критические уязвимости в коммутаторах Cisco серии Small Business</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskie-uyazvimosti-v-kommutatorah-cisco-serii-small-business-20230518-113506/</link>
+      <pubDate>Thu, 18 May 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskie-uyazvimosti-v-kommutatorah-cisco-serii-small-business-20230518-113506/</guid>
+      <description>В коммутаторах Cisco серии Small Business выявлено 4 уязвимости, позволяющие удалённому атакующему без прохождения аутентификации получить полный доступ к устройству с правами root. Для эксплуатации проблем атакующий должен иметь возможность отправки запросов на сетевой порт, обеспечивающий работу web-интерфейса. Проблемам присвоен критических уровень опасности (9.8 из 10). Сообщается о наличии прототипа рабочего эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=59151</description>
+    </item>
+    
+  </channel>
+</rss>

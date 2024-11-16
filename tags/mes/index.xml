@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mes on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mes/</link>
+    <description>Recent content in Mes on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2024 02:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GNU Mes 0.27, инструментария для самодостаточной сборки дистрибутивов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-27-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20240707-023506/</link>
+      <pubDate>Sun, 07 Jul 2024 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-27-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20240707-023506/</guid>
+      <description>Опубликован выпуск инструментария GNU Mes 0.27, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов. Инструментарий решает задачу верифицированной начальной сборки компилятора в дистрибутивах, разрывая цепочку цикличной пересборки (для сборки компилятора требуются исполняемые файлы уже собранного компилятора, а бинарные сборки компилятора являются потенциальным источником скрытых закладок, что не позволяет полностью гарантировать целостность сборок из эталонных исходных текстов).
+https://www.opennet.ru/opennews/art.shtml?num=61501</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Mes 0.26, инструментария для самодостаточной сборки дистрибутивов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-26-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231204-013602/</link>
+      <pubDate>Mon, 04 Dec 2023 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-26-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231204-013602/</guid>
+      <description>Опубликован выпуск инструментария GNU Mes 0.26, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов.
+https://www.opennet.ru/opennews/art.shtml?num=60228</description>
+    </item>
+    
+    <item>
+      <title>Выпуск GNU Mes 0.25, инструментария для самодостаточной сборки дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-25-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231112-133543/</link>
+      <pubDate>Sun, 12 Nov 2023 13:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-mes-0-25-instrumentariya-dlya-samodostatochnoy-sborki-distributivov-20231112-133543/</guid>
+      <description>После полутора лет разработки состоялся выпуск инструментария GNU Mes 0.25, обеспечивающего процесс бутстрэппинга (bootstrap) для GCC и позволяющего добиться замкнутого цикла пересборки из исходных текстов.
+https://www.opennet.ru/opennews/art.shtml?num=60097</description>
+    </item>
+    
+  </channel>
+</rss>

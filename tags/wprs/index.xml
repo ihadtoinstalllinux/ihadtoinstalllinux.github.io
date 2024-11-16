@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wprs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wprs/</link>
+    <description>Recent content in Wprs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2024 13:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wprs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Xpra 6.0, аналога утилиты screen для GUI. Развитие Wprs, реализации Xpra для Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xpra-6-0-analoga-utility-screen-dlya-gui-razvitie-wprs-realizacii-xpra-dlya-wayland-20240510-133533/</link>
+      <pubDate>Fri, 10 May 2024 13:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xpra-6-0-analoga-utility-screen-dlya-gui-razvitie-wprs-realizacii-xpra-dlya-wayland-20240510-133533/</guid>
+      <description>Опубликован выпуск проекта Xpra 6.0, развивающего подобие утилит screen и tmux для работы с графическими приложениями. Xpra позволяет запустить X11-приложения на локальной или удалённой системе, отсоединить сеанс, не завершая выполнение программ, и вернуться к работе с приложениями через какое-то время или продолжить работу с другого хоста (можно начать работу с программой на одной машине и продолжить на другой). Например, Xpra позволяет запустить графическое приложение на внешнем Linux-сервере и отобразить содержимое на экране текущей рабочей станции, функционирующей под управлением Linux, Windows или macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

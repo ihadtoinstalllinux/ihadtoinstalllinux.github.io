@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Itanium on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/itanium/</link>
+    <description>Recent content in Itanium on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/itanium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gentoo прекращает поддержку платформы IA-64 (Itanium)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gentoo-prekraschaet-podderzhku-platformy-ia-64-itanium-20240815-003603/</link>
+      <pubDate>Thu, 15 Aug 2024 00:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gentoo-prekraschaet-podderzhku-platformy-ia-64-itanium-20240815-003603/</guid>
+      <description>Проект Gentoo Linux принял решение прекратить поддержку архитектуры IA-64 (Itanium) в дистрибутиве. В первой половине сентября все профили ia64 будут удалены и во всех пакетах прекращено упоминание архитектуры ia64 в секции KEYWORDS. В качестве причины изменения называется невозможность продолжения поддержки IA-64 в дистрибутиве в условиях прекращения поддержки данной архитектуры в ядре Linux и Glibc, а также в связи с незначительным числом пользователей, заинтересованных в поддержке данного типа оборудования.
+https://www.opennet.ru/opennews/art.shtml?num=61703</description>
+    </item>
+    
+  </channel>
+</rss>

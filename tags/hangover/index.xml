@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hangover on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hangover/</link>
+    <description>Recent content in Hangover on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hangover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Hangover 9.0, пакета для запуска Windows-приложений на системах ARM64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</link>
+      <pubDate>Fri, 19 Jan 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hangover-9-0-paketa-dlya-zapuska-windows-prilozheniy-na-sistemah-arm64-20240119-113537/</guid>
+      <description>Опубликована новая ветка проекта Hangover, позволяющего запускать 32-разрядные Windows-приложения, собранные для архитектур x86 (i386) и ARM32, в окружениях на базе архитектуры ARM64 (Aarch64). В разработке находится реализация варианта Hangover для архитектуры RISC-V. Выпуск основан на кодовой базе Wine 9.0, что отражено в номере версии. Наработки проекта распространяются под лицензией LGPL-2.1.
+https://www.opennet.ru/opennews/art.shtml?num=60462</description>
+    </item>
+    
+  </channel>
+</rss>

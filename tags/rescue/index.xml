@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rescue on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rescue/</link>
+    <description>Recent content in rescue on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2024 19:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rescue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск утилиты для восстановления данных dd_rescue 1.99.17</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-vosstanovleniya-dannyh-dd-rescue-1-99-17-20241103-193515/</link>
+      <pubDate>Sun, 03 Nov 2024 19:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-utility-dlya-vosstanovleniya-dannyh-dd-rescue-1-99-17-20241103-193515/</guid>
+      <description>Вышла новая версия dd_rescue 1.99.17, утилиты для восстановления данных со сбойных носителей, резервного копирования и развёртывания образов дисков. Не стоит путать ее с утилитой GNU ddrescue, в отличие от которой dd_rescue имеет дополнительные полезные возможности, такие как, например, поддержка разрежённых файлов, ввод/вывод в обход кэша, прозрачные сжатие и шифрование. Утилита dd_rescue входит в поставку многих популярных дистрибутивов GNU/Linux, таких как Fedora, openSUSE, Mageia и ALT Linux. Код утилиты написан на языке Си и распространяется под лицензией GPLv2+.</description>
+    </item>
+    
+  </channel>
+</rss>

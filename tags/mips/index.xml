@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MIPS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mips/</link>
+    <description>Recent content in MIPS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Gentoo Linux значительно улучшена поддержка архитектур MIPS и Alpha</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gentoo-linux-znachitelno-uluchshena-podderzhka-arhitektur-mips-i-alpha-20240912-003509/</link>
+      <pubDate>Thu, 12 Sep 2024 00:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gentoo-linux-znachitelno-uluchshena-podderzhka-arhitektur-mips-i-alpha-20240912-003509/</guid>
+      <description>Проект Gentoo объявил о возобновлении работы над архитектурами MIPS и Alpha, сопровождение которых последние годы находилось в стагнации. Благодаря появлению энтузиастов, заинтересованных в использовании данных архитектур, для MIPS и Alpha опубликованы актуальные stage-сборки и бинарные пакеты, а также налажены процессы проверки дерева зависимостей и тестирования в системе непрерывной интеграции. Для MIPS ABI поддержка обеспечена для ABI o32, n32 и n64 в вариантах big endian и little endian. Для Alpha помимо stage-сборок дополнительно подготовлен установочный CD-образ.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>src on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/src/</link>
+    <description>Recent content in src on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2024 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/src/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В репозитории OpenELA обеспечена оперативная публикация src-пакетов для новых релизов RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-openela-obespechena-operativnaya-publikaciya-src-paketov-dlya-novyh-relizov-20240717-123506/</link>
+      <pubDate>Wed, 17 Jul 2024 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-openela-obespechena-operativnaya-publikaciya-src-paketov-dlya-novyh-relizov-20240717-123506/</guid>
+      <description>Ассоциация OpenELA (Open Enterprise Linux Association), образованная компаниями CIQ (Rocky Linux), Oracle и SUSE для объединения усилий по обеспечению совместимости с RHEL, объявила о введении в строй автоматизированной системы, позволяющей размещать в открытом доступе исходные тексты пакетов спустя несколько дней после выхода очередных релизов Red Hat Enterprise Linux (RHEL). В настоящее время в поддерживаемом проектом репозитории размещены src-пакеты, соответствующие актуальным релизам RHEL 9.4 и 8.10, а также накопившимся обновлениям.
+https://www.opennet.ru/opennews/art.shtml?num=61562</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux и Rocky Linux перестроят свои процессы с учётом ограничения доступа к src-пакетам RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</link>
+      <pubDate>Fri, 23 Jun 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</guid>
+      <description>Проекты AlmaLinux и Rocky Linux, публикующие бинарно совместимые сборки Red Hat Enterprise Linux, опубликовали заявления c планом дальнейших действий после ограничения компанией Red Hat публичного доступа к исходным текстам пакетов RHEL. Для клиентов компания Red Hat оставила возможность загрузки кода пакетов через закрытый раздел сайта, на котором действует дополнительное пользовательское соглашение (EULA), запрещающее редистрибуцию RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59332</description>
+    </item>
+    
+  </channel>
+</rss>

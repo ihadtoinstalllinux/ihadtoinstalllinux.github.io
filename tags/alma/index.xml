@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alma on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/alma/</link>
+    <description>Recent content in Alma on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jul 2023 00:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/alma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alma Linux столкнулся с нежеланием Red Hat принимать их исправление в CentOS Stream</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/alma-linux-stolknulsya-s-nezhelaniem-red-hat-prinimat-ih-ispravlenie-v-centos-stream-20230731-003532/</link>
+      <pubDate>Mon, 31 Jul 2023 00:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/alma-linux-stolknulsya-s-nezhelaniem-red-hat-prinimat-ih-ispravlenie-v-centos-stream-20230731-003532/</guid>
+      <description>После перехода на новую модель сопровождения дистрибутива, допускающую применение собственных патчей, разработчики Alma Linux устранили в пакете iperf3 уязвимость (CVE-2023-38403) и попытались передать подготовленное исправление в CentOS Stream, так как уязвимость оставалась неисправленная в RHEL и CentOS Stream. Сотрудник Red Hat отказался принимать исправление, сославшись на правило, допускающее устранение только важных проблем.
+https://www.opennet.ru/opennews/art.shtml?num=59520</description>
+    </item>
+    
+  </channel>
+</rss>

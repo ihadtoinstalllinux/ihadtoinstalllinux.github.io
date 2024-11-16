@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>chasquid on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chasquid/</link>
+    <description>Recent content in chasquid on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 22:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chasquid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен SMTP-сервер chasquid 1.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-smtp-server-chasquid-1-13-20240207-223601/</link>
+      <pubDate>Wed, 07 Feb 2024 22:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-smtp-server-chasquid-1-13-20240207-223601/</guid>
+      <description>Представлен выпуск SMTP-сервера chasquid 1.13, при разработке которого акцент делается на простоту настройки и безопасность. Chasquid в основном рассчитан на использование в типовых проектах, в которых избыточна гибкость и функциональности Postfix и Exim. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60568</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AVX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/avx/</link>
+    <description>Recent content in AVX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 13:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/avx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Использование в FFmpeg инструкций AVX-512 позволило в 94 раза ускорить некоторые операции</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-v-ffmpeg-instrukciy-avx-512-pozvolilo-v-94-raza-uskorit-nekotorye-operacii-20241105-133552/</link>
+      <pubDate>Tue, 05 Nov 2024 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-v-ffmpeg-instrukciy-avx-512-pozvolilo-v-94-raza-uskorit-nekotorye-operacii-20241105-133552/</guid>
+      <description>Разработчики проекта FFmpeg сообщили о реализации новых ассемблерных оптимизаций, в которых, благодаря применению инструкций AVX-512, удалось ускорить некоторые операции, применяемые при декодировании видео, в 94, 64, 43 и 4.24 раза по сравнению с кодом на языке Си. В оптимизациях на базе инструкций AVX-2 прирост по сравнению с Си-кодом составлял 67, 27, 55 и 4.38 раз, соответственно, а на основе инструкций SSSE3 - 40, 21, 29 и 2.49 раз. Изменения добавлены в состав библиотеки dav1d, предлагающей альтернативный декодировщик для формата кодирования видео AV1.</description>
+    </item>
+    
+  </channel>
+</rss>

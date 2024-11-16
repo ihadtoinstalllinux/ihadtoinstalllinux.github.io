@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GDM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gdm/</link>
+    <description>Recent content in GDM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2024 00:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gdm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В gnome-session и GDM реализована возможность сборки без поддержки X11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-session-i-gdm-realizovana-vozmozhnost-sborki-bez-podderzhki-x11-20240818-003520/</link>
+      <pubDate>Sun, 18 Aug 2024 00:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-session-i-gdm-realizovana-vozmozhnost-sborki-bez-podderzhki-x11-20240818-003520/</guid>
+      <description>В кодовую базу менеджера сеансов gnome-session, отвечающего за запуск GNOME, а также дисплейного менеджера GDM, предоставляющего экран входа в систему, приняты изменения, позволяющие осуществить сборку без поддержки X11, оставив только компоненты для Wayland. В июне аналогичные изменения приняты в состав оболочки GNOME Shell и композитного менеджера Mutter. Возможность сборки GNOME без X11 даст возможность разработчиками Fedora Linux и других дистрибутивов исключить компоненты X11 из основных сборок и снизит трудозатраты на сопровождение.</description>
+    </item>
+    
+  </channel>
+</rss>

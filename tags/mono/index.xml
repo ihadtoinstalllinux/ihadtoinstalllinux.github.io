@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mono on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mono/</link>
+    <description>Recent content in Mono on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mono/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Microsoft передала разработку проекта Mono сообществу Wine</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-peredala-razrabotku-proekta-mono-soobschestvu-wine-20240828-123551/</link>
+      <pubDate>Wed, 28 Aug 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-microsoft-peredala-razrabotku-proekta-mono-soobschestvu-wine-20240828-123551/</guid>
+      <description>Компания Microsoft объявила о передаче проекта Mono, разрабатывающего альтернативную реализацию платформы .NET, под крыло организации WineHQ, развивающей открытую реализацию API Win32. Компания Microsoft получила проект Mono в свои руки после поглощения компании Xamarin в 2016 году. На базе платформы Mono планировалось развивать средства для разработки мобильных приложений на языке C# с использованием технологий .NET, но со временем проект впал в стагнацию и с 2019 года значительные релизы не выпускались, хотя корректирующие обновления продолжали регулярно публиковаться.</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал открытый моноширинный шрифт One Mono</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-otkrytyy-monoshirinnyy-shrift-one-mono-20230608-153505/</link>
+      <pubDate>Thu, 08 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-otkrytyy-monoshirinnyy-shrift-one-mono-20230608-153505/</guid>
+      <description>Компания Intel опубликовала открытый моноширинный шрифт One Mono, предназначенный для использования в эмуляторах терминалов и редакторах кода. Исходные компоненты шрифта распространяются под лицензией OFL 1.1 (Open Font License), позволяющей неограниченно модифицировать шрифт, использовать его в том числе для коммерческих целей, печати и на сайтах в Web. Для загрузки подготовлены файлы в форматах TrueType (TTF), OpenType (OTF), UFO (исходные файлы), WOFF и WOFF2, подходящие для загрузки в редакторах кода, таких как VSCode и Sublime Text, а также для использования в Web.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EPM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/epm/</link>
+    <description>Recent content in EPM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2023 10:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/epm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск программы для работы с эфемеридами EPM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-programmy-dlya-raboty-s-efemeridami-epm-20231015-103507/</link>
+      <pubDate>Sun, 15 Oct 2023 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-programmy-dlya-raboty-s-efemeridami-epm-20231015-103507/</guid>
+      <description>Состоялся выпуск программы EphEPM 1.1, предназначенно для расчёта барицентрических координат тел Солнечной системы и физической либрации Луны. Код программы написан на языке С++ и распространяется (GitFlic, GitHub) под лицензией GPLv3. Для использования программы необходимы файлы эфемерид (доступны для загрузки на сайте Лаборатории эфемеридной астрономии ИПА РАН). Поддерживаются версии эфемерид с 2015 по 2021 г. (как &amp;ldquo;обычной&amp;rdquo;, так и &amp;ldquo;долгой&amp;rdquo; версий) в формате SPICE (расширения файлов .bsp и .bpc).
+https://www.opennet.ru/opennews/art.shtml?num=59933</description>
+    </item>
+    
+  </channel>
+</rss>

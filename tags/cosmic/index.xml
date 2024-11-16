@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>COSMIC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cosmic/</link>
+    <description>Recent content in COSMIC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2024 14:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Третий альфа-выпуск среды рабочего стола COSMIC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tretiy-alfa-vypusk-sredy-rabochego-stola-cosmic-20241102-143514/</link>
+      <pubDate>Sat, 02 Nov 2024 14:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tretiy-alfa-vypusk-sredy-rabochego-stola-cosmic-20241102-143514/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, представила третий альфа-версии среды рабочего стола COSMIC, написанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Для тестирования предложены iso-образы для систем с GPU NVIDIA (3 ГБ) и Intel/AMD (2.6 ГБ), построенных на основе тестовой сборки дистрибутива Pop!_OS 24.04. Также доступны готовые пакеты для Fedora, NixOS, Arch Linux, openSUSE, Serpent OS, Redox и CachyOS.
+https://www.opennet.ru/opennews/art.shtml?num=62159</description>
+    </item>
+    
+    <item>
+      <title>Второй альфа-выпуск среды рабочего стола COSMIC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoroy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240929-013547/</link>
+      <pubDate>Sun, 29 Sep 2024 01:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoroy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240929-013547/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, начала тестирование второй альфа-версии среды рабочего стола COSMIC, написанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Для тестирования предложены iso-образы для систем с GPU NVIDIA (3 ГБ) и Intel/AMD (2.5 ГБ), построенных на основе тестовой сборки дистрибутива Pop!_OS 24.04. Также доступны готовые пакеты для Fedora, NixOS, Arch Linux, openSUSE, Serpent OS, Redox и CachyOS.
+https://www.opennet.ru/opennews/art.shtml?num=61948</description>
+    </item>
+    
+    <item>
+      <title>Первый альфа-выпуск среды рабочего стола COSMIC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240809-003542/</link>
+      <pubDate>Fri, 09 Aug 2024 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-sredy-rabochego-stola-cosmic-20240809-003542/</guid>
+      <description>После почти двух лет разработки компания компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, представила первый альфа-выпуск среды рабочего стола COSMIC, написанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Сформировано два iso-образа с COSMIC - для систем с GPU NVIDIA (3 ГБ) и Intel/AMD (2.6 ГБ), построенных на основе дистрибутива Pop!_OS 24.04. Также доступны готовые пакеты для Fedora, NixOS, Arch Linux и Serpent OS.
+https://www.opennet.ru/opennews/art.shtml?num=61674</description>
+    </item>
+    
+    <item>
+      <title>Разработка пользовательской оболочки COSMIC приближается к альфа-выпуску</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotka-polzovatelskoy-obolochki-cosmic-priblizhaetsya-k-alfa-vypusku-20240116-193527/</link>
+      <pubDate>Tue, 16 Jan 2024 19:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotka-polzovatelskoy-obolochki-cosmic-priblizhaetsya-k-alfa-vypusku-20240116-193527/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, объявила о прогрессе в разработке пользовательской оболочки COSMIC, переписанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Оболочка находится в разработке уже более двух лет и близка к формированию первого альфа-выпуска, который ознаменует готовность базового набора возможностей, позволяющих рассматривать оболочку как рабочий продукт. Предполагается, что альфа-версию удастся опубликовать в конце марта и она поможет собрать больше отзывов для финального оттачивания функциональности и повышения удобства работы.</description>
+    </item>
+    
+    <item>
+      <title>В пользовательском окружении COSMIC появился режим замены окон</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-polzovatelskom-okruzhenii-cosmic-poyavilsya-rezhim-zameny-okon-20230929-143506/</link>
+      <pubDate>Fri, 29 Sep 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-polzovatelskom-okruzhenii-cosmic-poyavilsya-rezhim-zameny-okon-20230929-143506/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала сентябрьский отчёт о развитии новой редакции пользовательского окружения COSMIC, переписанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Окружение развивается как универсальный проект, не привязанный к конкретному дистрибутиву и соответствующий спецификациям Freedesktop. Проектом также разрабатывается композитный сервер cosmic-comp на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=59842</description>
+    </item>
+    
+    <item>
+      <title>Пользовательское окружение COSMIC развивает новую панель, написанную на Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-razvivaet-novuyu-panel-napisannuyu-na-rust-20230516-113505/</link>
+      <pubDate>Tue, 16 May 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/polzovatelskoe-okruzhenie-cosmic-razvivaet-novuyu-panel-napisannuyu-na-rust-20230516-113505/</guid>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала отчёт о развитии новой редакции пользовательского окружения COSMIC, переписанной на языке Rust (не путать со старым COSMIC, который был основан на GNOME Shell). Окружение развивается как универсальный проект, не привязанный к конкретному дистрибутиву и соответствующий спецификациям Freedesktop. Проектом также разрабатывает композитный сервер cosmic-comp на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=59137</description>
+    </item>
+    
+  </channel>
+</rss>

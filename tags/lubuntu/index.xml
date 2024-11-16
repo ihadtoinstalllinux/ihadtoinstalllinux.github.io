@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lubuntu on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lubuntu/</link>
+    <description>Recent content in Lubuntu on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 19:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дистрибутив Lubuntu перейдёт на использование Qt 6 и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</link>
+      <pubDate>Sun, 10 Dec 2023 19:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</guid>
+      <description>Разработчики проекта Lubuntu опубликовали план перевода дистрибутива на Qt 6 и Wayland. Поддержка опционального сеанса на базе Wayland появится в выпуске Lubuntu 24.02, а в версии Lubuntu 24.10 данный сеанс будет задействован по умолчанию. Параллельно продолжается работа по интеграции поддержки Wayland и Qt 6 в пользовательское окружение LXQt, поставляемое в Lubuntu (актуальный выпуск LXQt 1.4 продолжает основываться на ветке Qt 5.15, но следующий выпуск LXQt обещают перевести на Qt 6).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Verso on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/verso/</link>
+    <description>Recent content in Verso on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 01:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/verso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Verso развивает web-браузер на базе движка Servo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-verso-razvivaet-web-brauzer-na-baze-dvizhka-servo-20240812-013601/</link>
+      <pubDate>Mon, 12 Aug 2024 01:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-verso-razvivaet-web-brauzer-na-baze-dvizhka-servo-20240812-013601/</guid>
+      <description>В рамках проекта Verso ведётся разработка нового web-браузера, построенного на основе движка Servo. Код Verso, как и Servo, написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0. Браузер пока находится на ранней стадии развития и, помимо предоставляемых движком Servo средства для обработки web-контента, реализует простой интерфейс пользователя. Готовые для тестирования сборки публикуются для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=61689</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Smuggling on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smuggling/</link>
+    <description>Recent content in Smuggling on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 12:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smuggling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Exim 4.97.1 с добавлением защиты от атаки SMTP Smuggling</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-exim-4-97-1-s-dobavleniem-zaschity-ot-ataki-smtp-smuggling-20231229-123546/</link>
+      <pubDate>Fri, 29 Dec 2023 12:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-exim-4-97-1-s-dobavleniem-zaschity-ot-ataki-smtp-smuggling-20231229-123546/</guid>
+      <description>Доступен корректирующий выпуск почтового сервера Exim 4.97.1, в котором включены изменения для защиты от атаки SMTP Smuggling, позволяющей расщепить одно сообщение на несколько разных сообщений через использование нестандартной последовательности для разделения писем. Изначально предполагалось, что проблема проявляется только в postfix и sendmail, но позднее выяснилось, что она затрагивает и Exim (CVE-2023-51766).
+https://www.opennet.ru/opennews/art.shtml?num=60362</description>
+    </item>
+    
+    <item>
+      <title>SMTP Smuggling - новая техника спуфинга почтовых сообщений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/smtp-smuggling-novaya-tehnika-spufinga-pochtovyh-soobscheniy-20231222-023506/</link>
+      <pubDate>Fri, 22 Dec 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/smtp-smuggling-novaya-tehnika-spufinga-pochtovyh-soobscheniy-20231222-023506/</guid>
+      <description>Исследователи из компании SEC Consult опубликовали новую технику спуфинга, вызванную расхождениями в следовании спецификации в различных реализациях протокола SMTP. Предложенная техника атаки позволяет расщепить одно сообщение на несколько разных сообщений при его передаче исходным SMTP-сервером на другой SMTP-сервер, по иному трактующий последовательность для разделения писем, передаваемых через одно соединение. Метод может использоваться для отправки фиктивных писем от имени других отправителей в почтовых сервисах, верифицирующих исходного отправителя.
+https://www.opennet.ru/opennews/art.shtml?num=60329</description>
+    </item>
+    
+  </channel>
+</rss>

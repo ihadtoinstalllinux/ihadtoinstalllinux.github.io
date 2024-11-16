@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zen1 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zen1/</link>
+    <description>Recent content in Zen1 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 16:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zen1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в CPU AMD Zen1, приводящая к утечке информации о прошлых операциях при делении на ноль</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</link>
+      <pubDate>Tue, 26 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</guid>
+      <description>В процессорах AMD выявлена уязвимость (CVE-2023-20588), приводящая к утечке данных, используемых в ходе выполнения операций на том же ядре CPU при обработке процессором исключения #DE (Divide Error), возникающего при попытке деления на ноль. Уязвимость проявляется только в процессорах AMD на базе микроархитектуры Zen1, например, в сериях AMD EPYC 7001, AMD Athlon 3000, AMD Ryzen 3000 с GPU Radeon, AMD Athlon PRO 3000 c GPU Radeon Vega и AMD Ryzen PRO 3000 с GPU Radeon Vega.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Suricata on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/suricata/</link>
+    <description>Recent content in Suricata on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 20:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/suricata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Suricata 7.0.3 и 6.0.16 с устранением критических уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-suricata-7-0-3-i-6-0-16-s-ustraneniem-kriticheskih-uyazvimostey-20240208-203531/</link>
+      <pubDate>Thu, 08 Feb 2024 20:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-suricata-7-0-3-i-6-0-16-s-ustraneniem-kriticheskih-uyazvimostey-20240208-203531/</guid>
+      <description>Организация OISF (Open Information Security Foundation) опубликовала корректирующие выпуски системы обнаружения и предотвращения сетевых вторжений Suricata 7.0.3 и 6.0.16, в которых устранены пять уязвимостей, трём из которых (CVE-2024-23839, CVE-2024-23836, CVE-2024-23837) присвоен критический уровень опасности. Описание уязвимостей пока не раскрывается, тем не менее критический уровень обычно присваивается при возможности удалённого выполнения кода атакующего. Всем пользователям Suricata рекомендуется срочно обновить свои системы.
+https://www.opennet.ru/opennews/art.shtml?num=60573</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы обнаружения атак Suricata 7.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-obnaruzheniya-atak-suricata-7-0-20230719-133508/</link>
+      <pubDate>Wed, 19 Jul 2023 13:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-obnaruzheniya-atak-suricata-7-0-20230719-133508/</guid>
+      <description>После двух с половиной лет разработки организация OISF (Open Information Security Foundation) опубликовала релиз системы обнаружения и предотвращения сетевых вторжений Suricata 7.0, которая предоставляет средства инспектирования различных видов трафика. В конфигурациях Suricata допустимо задействование базы сигнатур, развиваемой проектом Snort, а также наборов правил Emerging Threats и Emerging Threats Pro. Исходные тексты проекта распространяются под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=59463</description>
+    </item>
+    
+  </channel>
+</rss>

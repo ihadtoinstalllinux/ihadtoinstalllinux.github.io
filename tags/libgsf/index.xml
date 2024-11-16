@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libgsf on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libgsf/</link>
+    <description>Recent content in libgsf on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 11:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libgsf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в библиотеке libgsf, затрагивающая GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-libgsf-zatragivayuschaya-gnome-20241007-113539/</link>
+      <pubDate>Mon, 07 Oct 2024 11:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-biblioteke-libgsf-zatragivayuschaya-gnome-20241007-113539/</guid>
+      <description>В библиотеке libgsf, развиваемой проектом GNOME, выявлена уязвимость (CVE-2024-42415), которая может привести к выполнению кода при обработке специально оформленного файла. Уязвимость вызвана целочисленным переполнением, приводящим к записи данных за пределы выделенного буфера при обработке таблицы распределения секторов в процессе разбора параметров из заголовка файлов в формате CDF (Compound Document Format).
+https://www.opennet.ru/opennews/art.shtml?num=62006</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>POP3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pop3/</link>
+    <description>Recent content in POP3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2023 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pop3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новая версия POP3 и IMAP4 сервера Dovecot 2.3.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-pop3-i-imap4-servera-dovecot-2-3-21-20231009-153505/</link>
+      <pubDate>Mon, 09 Oct 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-pop3-i-imap4-servera-dovecot-2-3-21-20231009-153505/</guid>
+      <description>Опубликована новая версия многоплатформенного высокопроизводительного POP3/IMAP4-сервера Dovecot 2.3.21, поддерживающего протоколы POP3 и IMAP4rev1 с популярными расширениями, такими как SORT, THREAD и IDLE, и механизмами аутентификации и шифрования (SASL, TLS, SCRAM). Dovecot сохраняет полную совместимость с классическими mbox и Maildir, применяя внешние индексы для повышения производительности. Для расширения функциональности могут использоваться плагины (например, через плагины реализованы квоты и ACL). Код проекта распространяется под лицензиями LGPL и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59895</description>
+    </item>
+    
+  </channel>
+</rss>

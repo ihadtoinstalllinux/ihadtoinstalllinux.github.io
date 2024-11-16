@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Warpinator on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/warpinator/</link>
+    <description>Recent content in Warpinator on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/warpinator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в утилите Warpinator, позволяющая удалить файлы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-warpinator-pozvolyayuschaya-udalit-fayly-20230427-133506/</link>
+      <pubDate>Thu, 27 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-utilite-warpinator-pozvolyayuschaya-udalit-fayly-20230427-133506/</guid>
+      <description>В Warpinator, развиваемой проектом Linux Mint утилите для шифрованного обмена файлами между двумя компьютерами, выявлена уязвимость (CVE-2023-29380), позволяющая отправителю удалить произвольные файлы на компьютере получателя. Уязвимость устранена в выпуске Warpinator 1.6.0, в котором также добавлена дополнительная защита от похожих проблем при выполнении других операций, реализованная через использование изоляции части файловой системы при помощи Landlock или Bubblewrap.
+https://www.opennet.ru/opennews/art.shtml?num=59040</description>
+    </item>
+    
+  </channel>
+</rss>

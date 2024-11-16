@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ce/</link>
+    <description>Recent content in CE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 14:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива OmniOS CE r151052, построенного на технологиях OpenSolaris</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-omnios-ce-r151052-postroennogo-na-tehnologiyah-opensolaris-20241105-143530/</link>
+      <pubDate>Tue, 05 Nov 2024 14:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-omnios-ce-r151052-postroennogo-na-tehnologiyah-opensolaris-20241105-143530/</guid>
+      <description>Опубликован релиз дистрибутива OmniOS Community Edition r151052, основанного на наработках проекта Illumos, продолжающего развитие ядра, сетевого стека, файловых систем, драйверов, библиотек и базового набора системных утилит OpenSolaris. OmniOS примечателен предоставлением полноценной поддержки гипервизоров bhyve и KVM, виртуального сетевого стека Crossbow, файловой системы ZFS и средств запуска легковесных Linux-контейнеров. Дистрибутив может применяться для построения масштабируемых web-систем, виртуализации и создания систем хранения.
+https://www.opennet.ru/opennews/art.shtml?num=62178</description>
+    </item>
+    
+    <item>
+      <title>Доступны OmniOS CE r151048 и OpenIndiana 2023.10,  продолжающие развитие OpenSolaris</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-omnios-ce-r151048-i-openindiana-2023-10-prodolzhayuschie-razvitie-opensolaris-20231107-153528/</link>
+      <pubDate>Tue, 07 Nov 2023 15:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-omnios-ce-r151048-i-openindiana-2023-10-prodolzhayuschie-razvitie-opensolaris-20231107-153528/</guid>
+      <description>Доступен релиз дистрибутива OmniOS Community Edition r151048, основанного на наработках проекта Illumos и предоставляющего полноценную поддержку гипервизоров bhyve и KVM, виртуального сетевого стека Crossbow, файловой системы ZFS и средств запуска легковесных Linux-контейнеров. Дистрибутив может применяться как для построения масштабируемых web-систем, так и для создания систем хранения.
+https://www.opennet.ru/opennews/art.shtml?num=60066</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Binder on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/binder/</link>
+    <description>Recent content in Binder on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 15:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/binder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск языка программирования Rust 1.73. Аудит RustVMM. Переписывание  Binder на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-audit-rustvmm-perepisyvanie-binder-na-rust-20231117-153551/</link>
+      <pubDate>Fri, 17 Nov 2023 15:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-rust-1-73-audit-rustvmm-perepisyvanie-binder-na-rust-20231117-153551/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.74, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=60133</description>
+    </item>
+    
+  </channel>
+</rss>

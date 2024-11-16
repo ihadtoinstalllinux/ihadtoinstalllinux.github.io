@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PGS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pgs/</link>
+    <description>Recent content in PGS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2023 01:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pgs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в GStreamer, приводящие к выполнению кода при обработке файлов SRT и PGS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gstreamer-privodyaschie-k-vypolneniyu-koda-pri-obrabotke-faylov-srt-i-pgs-20230709-013506/</link>
+      <pubDate>Sun, 09 Jul 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-gstreamer-privodyaschie-k-vypolneniyu-koda-pri-obrabotke-faylov-srt-i-pgs-20230709-013506/</guid>
+      <description>В мультимедийном фреймворке GStreamer выявлены две уязвимости, которые могут привести к выполнению кода при обработке специально оформленных файлов в форматах SRT (CVE-2023-37329) и PGS (CVE-2023-37328) в приложениях, использующих GStreamer. Уязвимости вызваны переполнениями буфера в коде разбора и декодирования субтитров из файлов в форматах SRT и PGS. Переполнения возникают из-за отсутствия должной проверки размера присутствующих в файлах полей, перед копированием их содержимого в выделенный буфер. Уязвимости устранены в выпуске 1.22.4 наборов gst-plugins-good, gst-plugins-bad и gst-plugins-base.</description>
+    </item>
+    
+  </channel>
+</rss>

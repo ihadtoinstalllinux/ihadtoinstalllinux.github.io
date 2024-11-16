@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Memory on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/memory/</link>
+    <description>Recent content in Memory on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google предложил Device Memory TCP для сетевой передачи данных между устройствами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</link>
+      <pubDate>Thu, 13 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predlozhil-device-memory-tcp-dlya-setevoy-peredachi-dannyh-mezhdu-ustroystvami-20230713-143506/</guid>
+      <description>Компания Google представила в списке разработчиков ядра Linux реализацию механизма Device memory TCP (devmem TCP), позволяющего напрямую по сети передавать данные из памяти одних устройств в память других устройств, без промежуточного копирования этих данных в буферы, размещённые в системной памяти хоста. Реализация пока находится на стадии RFC, т.е. выставлена для обсуждения и рецензирования сообществом, но не оформлена для передачи в основной состав ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59434</description>
+    </item>
+    
+  </channel>
+</rss>

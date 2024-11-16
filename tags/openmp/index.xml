@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenMP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openmp/</link>
+    <description>Recent content in OpenMP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2024 13:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован стандарт параллельного программирования OpenMP 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-standart-parallelnogo-programmirovaniya-openmp-6-0-20241115-133545/</link>
+      <pubDate>Fri, 15 Nov 2024 13:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-standart-parallelnogo-programmirovaniya-openmp-6-0-20241115-133545/</guid>
+      <description>После трёх лет разработки опубликован набор спецификаций OpenMP 6.0 (Open Multi-Processing), определяющих API и способы применения методов параллельного программирования для языков Си, Си++ и Фортран на многоядерных и гибридных (CPU+GPU/DSP) системах с общей памятью и блоками векторизации (SIMD). Предполагается, что начальная поддержка отдельных возможностей OpenMP 6.0 будет включена в состав выпусков LLVM/Clang 20 и GCC 15.
+https://www.opennet.ru/opennews/art.shtml?num=62236</description>
+    </item>
+    
+  </channel>
+</rss>

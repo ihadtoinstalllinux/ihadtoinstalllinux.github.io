@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/raspberry/</link>
+    <description>Recent content in Raspberry on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 12:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новая версия дистрибутива Raspberry Pi OS, перешедшего на Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-distributiva-raspberry-pi-os-pereshedshego-na-wayland-20241029-123511/</link>
+      <pubDate>Tue, 29 Oct 2024 12:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-distributiva-raspberry-pi-os-pereshedshego-na-wayland-20241029-123511/</guid>
+      <description>Разработчики проекта Raspberry Pi представили новую версию дистрибутива Raspberry Pi OS 2024-10-22 (Raspbian), основанного на пакетной базе Debian 12 и ядре Linux 6.6. В репозитории доступно около 35 тысяч пакетов. Для загрузки подготовлены три сборки - сокращённая (438 МБ) для серверных систем, с базовым рабочим столом (1.1 ГБ) и полная с дополнительным набором приложений (2.9 ГБ), доступные для 32- и 64-разрядных архитектур. Дополнительно сформировано обновление для старой редакции Raspberry Pi OS (Legacy), основанной на ядре Linux 6.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OSMC 2024.08-1, дистрибутива для создания медиацентра на основе Raspberry Pi </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-osmc-2024-08-1-distributiva-dlya-sozdaniya-mediacentra-na-osnove-raspberry-pi-20240826-103544/</link>
+      <pubDate>Mon, 26 Aug 2024 10:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-osmc-2024-08-1-distributiva-dlya-sozdaniya-mediacentra-na-osnove-raspberry-pi-20240826-103544/</guid>
+      <description>Представлен выпуск дистрибутива OSMC 2024.08-1, предназначенного для создания медиацентра на базе одноплатных компьютеров Raspberry Pi или телеприставок Vero, развиваемых разработчиками дистрибутива. Дистрибутив укомплектован медиацентром Kodi и предлагает из коробки полный набор инструментов для создания домашнего кинотеатра, поддерживающего отображение видео с качеством 4K, 2K и HD (1080p). Для загрузки доступны как образы для прямой записи на USB-накопитель или SD-карту, так и специализированные инсталляторы для Windows, macOS и Linux, позволяющие начинающему пользователю установить дистрибутив.</description>
+    </item>
+    
+    <item>
+      <title>Представлена плата Raspberry Pi Pico 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-plata-raspberry-pi-pico-2-20240810-163604/</link>
+      <pubDate>Sat, 10 Aug 2024 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlena-plata-raspberry-pi-pico-2-20240810-163604/</guid>
+      <description>Проект Raspberry Pi представил новую плату Raspberry Pi Pico 2, продолжающую развитие миниатюрных плат Pico и Pico W, оснащённых микроконтроллером собственной разработки. Плата производится на заводе Sony и доступна по цене 5 долларов. Как и прошлые платы Pico новая модель ориентирована главным образом для совместного использования с компьютерами Raspberry Pi, разработки встраиваемых систем и систем управления различными устройствами. До конца года планируется дополнительно выпустить модель Pico 2 W с поддержкой Bluetooth и Wi-Fi (2.</description>
+    </item>
+    
+    <item>
+      <title>Представлен Raspberry Pi Connect, сервис для подключения к Raspberry Pi OS из браузера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-raspberry-pi-connect-servis-dlya-podklyucheniya-k-raspberry-pi-os-iz-brauzera-20240508-143507/</link>
+      <pubDate>Wed, 08 May 2024 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-raspberry-pi-connect-servis-dlya-podklyucheniya-k-raspberry-pi-os-iz-brauzera-20240508-143507/</guid>
+      <description>Разработчики проекта Raspberry Pi представили сервис Raspberry Pi Connect, предназначенный для удалённого подключения к рабочему столу дистрибутива Raspberry Pi OS через web-браузер. Сервис может использоваться в окружениях Raspberry Pi OS для плат Raspberry Pi 4, Raspberry Pi 400 и Raspberry Pi 5, построенных на базе Debian 12 и переведённых на графический стек на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=61137</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OSMC 2024.04-1, дистрибутива для создания медиацентра на основе Raspberry Pi </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-osmc-2024-04-1-distributiva-dlya-sozdaniya-mediacentra-na-osnove-raspberry-pi-20240427-123540/</link>
+      <pubDate>Sat, 27 Apr 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-osmc-2024-04-1-distributiva-dlya-sozdaniya-mediacentra-na-osnove-raspberry-pi-20240427-123540/</guid>
+      <description>Представлен выпуск дистрибутива OSMC 2024.04-1, предназначенного для создания медиацентра на базе одноплатных компьютеров Raspberry Pi или телеприставок Vero, развиваемых разработчиками дистрибутива. Дистрибутив укомплектован медиацентром Kodi и предлагает из коробки полный набор инструментов для создания домашнего кинотеатра, поддерживающего отображение видео с качеством 4K, 2K и HD (1080p). Для загрузки доступны как образы для прямой записи на USB-накопитель или SD-карту, так и специализированные инсталляторы для Windows, macOS и Linux, позволяющие начинающему пользователю установить дистрибутив.</description>
+    </item>
+    
+    <item>
+      <title>Проект Raspberry Pi Media Center развивает серию открытых Hi-Fi устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-raspberry-pi-media-center-razvivaet-seriyu-otkrytyh-hi-fi-ustroystv-20240423-013545/</link>
+      <pubDate>Tue, 23 Apr 2024 01:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-raspberry-pi-media-center-razvivaet-seriyu-otkrytyh-hi-fi-ustroystv-20240423-013545/</guid>
+      <description>В рамках проекта Raspberry Pi Home Media Center развивается несколько компактных открытых аппаратных устройств для организации работы домашнего медиацентра. В качестве основы в устройствах задействована плата Raspberry Pi Zero, сопряжённая с цифро-аналоговым преобразователем, позволяющим добиться высококачественного вывода звука. Устройства поддерживают подключение к сети через Wi-Fi или Ethernet, и могут управляться через пульт дистанционного управления. Схемы и распайки печатных плат, а также модели для корпусов опубликованы под лицензией GPLv3. Код для использования цифро-аналогового преобразователя вместе с платой Raspberry Pi открыт под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Новые сборки дистрибутива Raspberry Pi OS. Разгон плат Raspberry Pi 5 до 3.14 GHz</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</link>
+      <pubDate>Mon, 18 Mar 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-sborki-distributiva-raspberry-pi-os-razgon-plat-raspberry-pi-5-do-3-14-ghz-20240318-123555/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали обновлённые сборки дистрибутива Raspberry Pi OS 2024-03-15 (Raspbian), основанного на пакетной базе Debian 12. Для плат Raspberry Pi 4/5 по умолчанию используется композитный менеджер Wayfire на базе протокола Wayland, а для остальных плат - X-сервер с оконным менеджером Openbox. Для управления звуком применяется мультимедийный сервер Pipewire. В репозитории доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=60798</description>
+    </item>
+    
+    <item>
+      <title>Проект PiDP-10 развивает клон мэйнфрейма PDP-10 на базе платы Raspberry Pi 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</link>
+      <pubDate>Thu, 14 Mar 2024 20:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</guid>
+      <description>Энтузиасты ретрокомпьютеров опубликовали проект PiDP-10, нацеленный на создание рабочей реконструкции мэйнфрейма DEC PDP-10 KA10 , образца 1968 года. Для устройства изготовлен новый пластиковый корпус управляющей панели, оснащённый 124 ламповыми индикаторами и 74 переключателями. Вычислительные составляющие и программное окружение воссозданы при помощи платы Raspberry Pi 5 с дистрибутивом Raspberry Pi OS, основанным на Debian, и инструментария SIMH, который поддерживает полную симуляцию PDP-10, включая воспроизведение известных ошибок.
+https://www.opennet.ru/opennews/art.shtml?num=60785</description>
+    </item>
+    
+    <item>
+      <title>Подготовлена редакция дистрибутива MX Linux для плат Raspberry Pi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</link>
+      <pubDate>Sun, 31 Dec 2023 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podgotovlena-redakciya-distributiva-mx-linux-dlya-plat-raspberry-pi-20231231-013531/</guid>
+      <description>Представлен новый вариант легковесного дистрибутива MX Linux, сформированный для плат Raspberry Pi. Сборка протестирована на платах Raspberry Pi 4, 400 и 5. Для установки требуется 16 ГБ свободного пространства на карте памяти или загрузка с USB-накопителя. Размер сжатого системного образа 2.2 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60372</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+    <item>
+      <title>Анонсирована плата Raspberry Pi 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovana-plata-raspberry-pi-5-20230928-203508/</link>
+      <pubDate>Thu, 28 Sep 2023 20:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovana-plata-raspberry-pi-5-20230928-203508/</guid>
+      <description>Спустя более четырёх лет с момента создания платы Raspberry Pi 4 организация Raspberry Pi Foundation представила плату нового поколения - Raspberry Pi 5, которая поступит в продажу в конце октября по цене $60 за вариант с 4 ГБ ОЗУ и $80 за вариант с 8 ГБ ОЗУ. Для сравнения плата Raspberry Pi 4 с 2 ГБ ОЗУ продавалась за $35, 4 ГБ ОЗУ - $55, а 8 ГБ ОЗУ - $75, но при этом заявлено, что производительность платы Raspberry Pi 5 в 2-3 раза выше Raspberry Pi 4.</description>
+    </item>
+    
+  </channel>
+</rss>

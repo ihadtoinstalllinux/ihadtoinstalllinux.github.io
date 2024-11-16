@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Binutils on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/binutils/</link>
+    <description>Recent content in Binutils on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2024 23:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/binutils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск GNU Binutils 2.43</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-binutils-2-43-20240805-233552/</link>
+      <pubDate>Mon, 05 Aug 2024 23:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-gnu-binutils-2-43-20240805-233552/</guid>
+      <description>Опубликован релиз набора системных утилит GNU Binutils 2.43, в состав которого входят такие программы, как GNU linker, GNU assembler, nm, objdump, strings, strip.
+https://www.opennet.ru/opennews/art.shtml?num=61659</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.39 и набора утилит GNU Binutils 2.42</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</link>
+      <pubDate>Thu, 01 Feb 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-39-i-nabora-utilit-gnu-binutils-2-42-20240201-143538/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.39, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=60534</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системной библиотеки Glibc 2.38 и набора утилит GNU Binutils 2.41</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</link>
+      <pubDate>Tue, 01 Aug 2023 11:37:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemnoy-biblioteki-glibc-2-38-i-nabora-utilit-gnu-binutils-2-41-20230801-113737/</guid>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library (glibc) 2.38, которая полностью следует требованиям стандартов ISO C11 и POSIX.1-2017. В состав нового выпуска включены исправления от 67 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=59529</description>
+    </item>
+    
+  </channel>
+</rss>

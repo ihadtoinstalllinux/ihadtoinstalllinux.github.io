@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ussury on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ussury/</link>
+    <description>Recent content in Ussury on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2024 23:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ussury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проектом Ussury развивается новая стандартная библиотека Си</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proektom-ussury-razvivaetsya-novaya-standartnaya-biblioteka-si-20240402-233515/</link>
+      <pubDate>Tue, 02 Apr 2024 23:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proektom-ussury-razvivaetsya-novaya-standartnaya-biblioteka-si-20240402-233515/</guid>
+      <description>Начата постепенная адаптация ONTL (Open NT Native Template Library) под операционную систему Linux (проект ONTL реализует стандартную библиотеку Си++11, применявшуюся для создания исполняемых файлов, как для NativeAPI пространства пользователя, так и ядра ОС Windows). Возможность использования Си++ в ядре Linux принципиально не рассматривается, поскольку идёт вразрез с устоявшейся традицией.
+https://www.opennet.ru/opennews/art.shtml?num=60913</description>
+    </item>
+    
+  </channel>
+</rss>

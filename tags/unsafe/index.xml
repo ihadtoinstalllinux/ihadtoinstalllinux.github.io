@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unsafe on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unsafe/</link>
+    <description>Recent content in unsafe on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 00:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unsafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В каждом пятом пакете на языке Rust используется режим unsafe</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kazhdom-pyatom-pakete-na-yazyke-rust-ispolzuetsya-rezhim-unsafe-20240527-003510/</link>
+      <pubDate>Mon, 27 May 2024 00:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kazhdom-pyatom-pakete-na-yazyke-rust-ispolzuetsya-rezhim-unsafe-20240527-003510/</guid>
+      <description>Организация Rust Foundation опубликовала статистику, в соответствии с которой из 127 тысяч значительных пакетов, представленных в каталоге crates.io, более 24 тысяч (19.11%) используют ключевое слово &amp;ldquo;unsafe&amp;rdquo; для отключения проверок безопасной работы с памятью в отдельных блоках кода или при вызове функций. 34.35% пакетов совершают прямые вызовы функций из других crate-пакетов, в которых используется режим &amp;ldquo;unsafe&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61251</description>
+    </item>
+    
+  </channel>
+</rss>

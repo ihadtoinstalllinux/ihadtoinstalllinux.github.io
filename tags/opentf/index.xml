@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenTF on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opentf/</link>
+    <description>Recent content in OpenTF on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 19:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opentf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenTF, форк платформы Terraform, переименован в OpenTofu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opentf-fork-platformy-terraform-pereimenovan-v-opentofu-20230920-193506/</link>
+      <pubDate>Wed, 20 Sep 2023 19:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opentf-fork-platformy-terraform-pereimenovan-v-opentofu-20230920-193506/</guid>
+      <description>Проект по созданию форка платформы управления конфигурацией и автоматизации поддержания инфраструктуры Terraform переименован из OpenTF в OpenTofu для исключения пересечений с проектом Terraform и товарными знаками компании Hashicorp. Сокращение &amp;ldquo;tf&amp;rdquo; решено заменить на &amp;ldquo;Tofu&amp;rdquo; так как оно уже используется в расширениях файлов Terraform, в переменных и функциях в коде, а также в названиях продуктов TFC (Terraform Cloud) и TFE (Terraform Enterprise). Так как OpenTofu позиционируется как продукт для предприятий, создатели форка решили исключить все потенциальные риски, связанные с возможными судебными претензиями о нарушении товарных знаков и интеллектуальной собственности Hashicorp.</description>
+    </item>
+    
+    <item>
+      <title>Организация OpenTF создала форк платформы управления конфигурацией Terraform </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/organizaciya-opentf-sozdala-fork-platformy-upravleniya-konfiguraciey-terraform-20230826-103507/</link>
+      <pubDate>Sat, 26 Aug 2023 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/organizaciya-opentf-sozdala-fork-platformy-upravleniya-konfiguraciey-terraform-20230826-103507/</guid>
+      <description>Объявлено о создании организации OpenTF, которая будет развивать форк платформы управления конфигурацией и автоматизации поддержания инфраструктуры Terraform. Разработку планируют перевести под покровительство организации Linux Foundation для дальнейшего развития платформы на нейтральной площадке Cloud Native Computing Foundation при участии заинтересованных в проекте компаний и энтузиастов. Присоединение к Linux Foundation позволит гарантировать сохранение открытого характера платформы и защитить проект от изменений в политике отдельных компаний. В настоящее время уже подготовлены все необходимые документы для присоединения проекта к Linux Foundation.</description>
+    </item>
+    
+  </channel>
+</rss>

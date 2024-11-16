@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hub on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hub/</link>
+    <description>Recent content in Hub on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2024 00:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Nextcloud Hub 9, платформы для организации совместной работы </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nextcloud-hub-9-platformy-dlya-organizacii-sovmestnoy-raboty-20240916-003516/</link>
+      <pubDate>Mon, 16 Sep 2024 00:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nextcloud-hub-9-platformy-dlya-organizacii-sovmestnoy-raboty-20240916-003516/</guid>
+      <description>Представлен выпуск платформы Nextcloud Hub 9, предоставляющей самодостаточное решение для организации совместной работы сотрудников предприятий и команд, развивающих различные проекты. Одновременно опубликована лежащая в основе Nextcloud Hub облачная платформа Nextcloud 30, позволяющая развернуть облачное хранилище с поддержкой синхронизации и обмена данными, предоставляющее возможность просмотра и редактирования данных с любого устройства в любой точке сети (при помощи web-интерфейса или WebDAV). Сервер Nextcloud можно развернуть на любом хостинге, поддерживающем выполнение PHP-скриптов и предоставляющем доступ к SQLite, MariaDB/MySQL или PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</link>
+      <pubDate>Fri, 21 Jun 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</guid>
+      <description>Стефан Шперлинг (Stefan Sperling), мейнтейнер стека протоколов 802.11 в OpenBSD и автор системы управления версиями Got (Game of Trees), объявил о работе по созданию нового хостинга Git-репозиториев Game of Trees Hub, построенного с использованием инструментария Got и развёрнутого на операционной системе OpenBSD. В Got предоставляется возможность размещения на своём оборудовании сервера и web-интерфейса для удалённого доступа к репозиториям, но остаётся большая категория пользователей которые не желают самостоятельно заниматься сопровождением личных Git-серверов и готовы воспользоваться для размещения кода внешним сервисом.</description>
+    </item>
+    
+    <item>
+      <title>Docker Hub начал блокировать доступ из России</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-nachal-blokirovat-dostup-iz-rossii-20240530-163518/</link>
+      <pubDate>Thu, 30 May 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-nachal-blokirovat-dostup-iz-rossii-20240530-163518/</guid>
+      <description>Сайт Docker Hub, предоставляющий каталог и репозиторий образов контейнеров для системы Docker, перестал принимать запросы с российских подсетей. Попытка открытия ресурса теперь приводит к выводу ошибки &amp;ldquo;403 Forbidden&amp;rdquo; с пояснением, что доступ ограничен, так как американская компания обязана выполнять требования законодательства США по экспортному контролю. При этом в списке блокируемых регионов перечислены только Куба, Иран, Северная Корея, Республика Крым, Судан и Сирия.
+https://www.opennet.ru/opennews/art.shtml?num=61274</description>
+    </item>
+    
+    <item>
+      <title>Представлена платформа для организации совместной работы Nextcloud Hub 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlena-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-8-20240425-183533/</link>
+      <pubDate>Thu, 25 Apr 2024 18:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlena-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-8-20240425-183533/</guid>
+      <description>Представлен выпуск платформы Nextcloud Hub 8, предоставляющей самодостаточное решение для организации совместной работы сотрудников предприятий и команд, развивающих различные проекты. Одновременно опубликована лежащая в основе Nextcloud Hub облачная платформа Nextcloud 28, позволяющая развернуть облачное хранилище с поддержкой синхронизации и обмена данными, предоставляющее возможность просмотра и редактирования данных с любого устройства в любой точке сети (при помощи web-интерфейса или WebDAV). Сервер Nextcloud можно развернуть на любом хостинге, поддерживающем выполнение PHP-скриптов и предоставляющем доступ к SQLite, MariaDB/MySQL или PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Доступна платформа для организации совместной работы Nextcloud Hub 7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-7-20231213-223559/</link>
+      <pubDate>Wed, 13 Dec 2023 22:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-7-20231213-223559/</guid>
+      <description>Представлен выпуск платформы Nextcloud Hub 7, предоставляющей самодостаточное решение для организации совместной работы сотрудников предприятий и команд, развивающих различные проекты. Одновременно опубликована лежащая в основе Nextcloud Hub облачная платформа Nextcloud 28, позволяющая развернуть облачное хранилище с поддержкой синхронизации и обмена данными, предоставляющее возможность просмотра и редактирования данных с любого устройства в любой точке сети (при помощи web-интерфейса или WebDAV). Сервер Nextcloud можно развернуть на любом хостинге, поддерживающем выполнение PHP-скриптов и предоставляющем доступ к SQLite, MariaDB/MySQL или PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Доступна платформа для организации совместной работы Nextcloud Hub 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-5-20230614-203505/</link>
+      <pubDate>Wed, 14 Jun 2023 20:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-dlya-organizacii-sovmestnoy-raboty-nextcloud-hub-5-20230614-203505/</guid>
+      <description>Представлен выпуск платформы Nextcloud Hub 5, предоставляющей самодостаточное решение для организации совместной работы сотрудников предприятий и команд, развивающих различные проекты. Одновременно опубликована лежащая в основе Nextcloud Hub облачная платформа Nextcloud 27, позволяющая развернуть облачное хранилище с поддержкой синхронизации и обмена данными, предоставляющее возможность просмотра и редактирования данных с любого устройства в любой точке сети (при помощи web-интерфейса или WebDAV). Сервер Nextcloud можно развернуть на любом хостинге, поддерживающем выполнение PHP-скриптов и предоставляющем доступ к SQLite, MariaDB/MySQL или PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Правительство Москвы запустило площадку для совместной разработки  Mos.Hub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-moskvy-zapustilo-ploschadku-dlya-sovmestnoy-razrabotki-mos-hub-20230530-163505/</link>
+      <pubDate>Tue, 30 May 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-moskvy-zapustilo-ploschadku-dlya-sovmestnoy-razrabotki-mos-hub-20230530-163505/</guid>
+      <description>Департамент информационных технологий Правительства Москвы ввёл в строй отечественную площадку для совместной разработки ПО - Mos.Hub, позиционируемую как &amp;ldquo;Российское сообщество разработчиков программного кода&amp;rdquo;. Платформа продолжает развитие московского городского репозитория программного обеспечения, который развивается более 10 лет. Площадка даст возможность делиться собственными разработками и повторно использовать отдельные элементы городских цифровых сервисов Москвы. После регистрации имеется возможность создания своих групп и публичных или приватных проектов. Существующие на Mos.Hub публичные репозитории пока ограничиваются двумя тестовыми проектами.</description>
+    </item>
+    
+    <item>
+      <title>Правительство Москвы запустило площадку для совместной разработки  Mos.Hub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-moskvy-zapustilo-ploschadku-dlya-sovmestnoy-razrabotki-mos-hub-20230530-153505/</link>
+      <pubDate>Tue, 30 May 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pravitelstvo-moskvy-zapustilo-ploschadku-dlya-sovmestnoy-razrabotki-mos-hub-20230530-153505/</guid>
+      <description>Департамент информационных технологий Правительства Москвы ввёл в строй отечественную площадку для совместной разработки ПО - Mos.Hub, позиционируемой как &amp;ldquo;Российское сообщество разработчиков программного кода&amp;rdquo;. Платформа продолжает развитие московского городского репозитория программного обеспечения, который развивается более 10 лет. Репозиторий даст возможность делиться собственными разработками и повторно использовать отдельные элементы городских цифровых сервисов Москвы. После регистрации имеется возможность создания своих групп и публичных или приватных проектов. Существующие на Mos.Hub публичные репозитории пока ограничиваются двумя тестовыми проектами.</description>
+    </item>
+    
+    <item>
+      <title>Docker Hub отменил решение об упразднении бесплатного сервиса Free Team</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-otmenil-reshenie-ob-uprazdnenii-besplatnogo-servisa-free-team-20230325-103506/</link>
+      <pubDate>Sat, 25 Mar 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-otmenil-reshenie-ob-uprazdnenii-besplatnogo-servisa-free-team-20230325-103506/</guid>
+      <description>Компания Docker объявила об отмене ранее принятого решения о прекращении действия сервиса по подписке &amp;ldquo;Docker Free Team&amp;rdquo;, позволяющего организациям, курирующим открытые проекты, бесплатно размещать образы контейнеров в каталоге Docker Hub, организовать работу команд и использовать приватные репозитории. Сообщается, что пользователи &amp;ldquo;Free Team&amp;rdquo; могут продолжить работу в прежнем режиме и не опасаться ранее намеченного удаления их учётных записей.
+https://www.opennet.ru/opennews/art.shtml?num=58859</description>
+    </item>
+    
+    <item>
+      <title>Docker Hub упраздняет бесплатный сервис для организаций, развивающих открытые проекты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-uprazdnyaet-besplatnyy-servis-dlya-organizaciy-razvivayuschih-otkrytye-proekty-20230316-143502/</link>
+      <pubDate>Thu, 16 Mar 2023 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-uprazdnyaet-besplatnyy-servis-dlya-organizaciy-razvivayuschih-otkrytye-proekty-20230316-143502/</guid>
+      <description>Разработчики некоторых открытых проектов, размещающие образы контейнеров в каталоге Docker Hub, получили уведомление о скором прекращении действия сервиса по подписке &amp;ldquo;Docker Free Team&amp;rdquo;, ранее бесплатно предоставляемого организациям, курирующим открытые проекты. Возможность бесплатного персонального размещения образов отдельными разработчиками сохраняется. Также продолжат бесплатно размещаться официально поддерживаемые образы открытых проектов.
+https://www.opennet.ru/opennews/art.shtml?num=58803</description>
+    </item>
+    
+  </channel>
+</rss>

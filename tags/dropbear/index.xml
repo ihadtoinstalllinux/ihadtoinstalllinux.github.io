@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dropbear on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dropbear/</link>
+    <description>Recent content in Dropbear on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 01:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dropbear/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Dropbear SSH 2024.84</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dropbear-ssh-2024-84-20240407-013524/</link>
+      <pubDate>Sun, 07 Apr 2024 01:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dropbear-ssh-2024-84-20240407-013524/</guid>
+      <description>Доступен выпуск Dropbear 2024.84, компактного сервера и клиента SSH, применяемого преимущественно на встраиваемых системах, таких как беспроводные маршрутизаторы, и в дистрибутивах, подобных OpenWrt. Dropbear отличается низким потреблением памяти, возможностью отключения лишней функциональности на этапе сборки и поддержкой сборки клиента и сервера в одном исполняемом файле по аналогии с busybox. При статическом связывании с uClibc исполняемый файл Dropbear занимает всего 110kB. Dropbear поддерживает перенаправление X11, совместим с файлом ключей OpenSSH (~/.ssh/authorized_keys) и может создавать мультисоединения с пробросом через транзитный хост.</description>
+    </item>
+    
+  </channel>
+</rss>

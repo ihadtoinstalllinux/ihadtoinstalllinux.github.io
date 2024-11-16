@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nginx on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nginx/</link>
+    <description>Recent content in nginx on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск nginx 1.27.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-27-2-20241003-003512/</link>
+      <pubDate>Thu, 03 Oct 2024 00:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-27-2-20241003-003512/</guid>
+      <description>Опубликован выпуск основной ветки nginx 1.27.2, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.26.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.27.x будет сформирована стабильная ветка 1.28. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61975</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.7.0, форка Nginx </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-7-0-forka-nginx-20240921-013539/</link>
+      <pubDate>Sat, 21 Sep 2024 01:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-7-0-forka-nginx-20240921-013539/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.7.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Роса Хром Сервер, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=61900</description>
+    </item>
+    
+    <item>
+      <title>Проект Nginx перевёл разработку на Git и GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-perevel-razrabotku-na-git-i-github-20240907-203511/</link>
+      <pubDate>Sat, 07 Sep 2024 20:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-perevel-razrabotku-na-git-i-github-20240907-203511/</guid>
+      <description>Проект Nginx объявил о переводе разработки с использования системы управления версиями Mercurial на Git, переносе официального репозитория на GitHub и задействования платформ GitHub Issues и GitHub Discussions вместо системы отслеживания ошибок trac.nginx.org и обсуждений в почтовых рассылках. Ожидается, что переход на GitHub упростит взаимодействие с сообществом и привлечёт к участию в проекте сторонних разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=61821</description>
+    </item>
+    
+    <item>
+      <title>Обновления nginx 1.26.2 и 1.27.1 с устранением DoS-уязвимости в ngx_http_mp4_module</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovleniya-nginx-1-26-2-i-1-27-1-s-ustraneniem-dos-uyazvimosti-v-ngx-http-mp4-module-20240815-013530/</link>
+      <pubDate>Thu, 15 Aug 2024 01:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovleniya-nginx-1-26-2-i-1-27-1-s-ustraneniem-dos-uyazvimosti-v-ngx-http-mp4-module-20240815-013530/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.27.1, в рамках которой продолжается развитие новых возможностей, а также выпуск параллельно поддерживаемой стабильной ветки nginx 1.22.1, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В обновлениях устранена уязвимость (CVE-2024-7347) в модуле ngx_http_mp4_module, приводящая к аварийному завершению рабочего процесса при обработке специально оформленного файла в формате MP4. Проблема проявляется начиная с выпуска 1.5.13 при сборке nginx с модулем ngx_http_mp4_module (не собирается по умолчанию) и использовании в настройках директивы mp4.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.6.0, российского форка Nginx </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-6-0-rossiyskogo-forka-nginx-20240628-203550/</link>
+      <pubDate>Fri, 28 Jun 2024 20:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-6-0-rossiyskogo-forka-nginx-20240628-203550/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.6.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Роса Хром Сервер, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=61458</description>
+    </item>
+    
+    <item>
+      <title>Новая версия nginx 1.27.0 c устранением 4 уязвимостей в реализации HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</link>
+      <pubDate>Wed, 29 May 2024 22:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.27.0, в рамках которой будет продолжено развитие новых возможностей. Одновременно сформирован выпуск nginx 1.26.1, относящийся к параллельно поддерживаемой стабильной ветке, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.27.x будет сформирована стабильная ветка 1.28. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61269</description>
+    </item>
+    
+    <item>
+      <title>В Rustls обеспечена совместимость с OpenSSL и nginx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</link>
+      <pubDate>Thu, 09 May 2024 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, объявила о публикации прослойки rustls-openssl-compat, позволяющей использовать библиотеку Rustls в качестве прозрачной замены OpenSSL. В настоящее время проектом предоставлена реализация rustls-libssl, обеспечивающая совместимость с libssl, а в разработке находится реализация libcrypto.
+https://www.opennet.ru/opennews/art.shtml?num=61141</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.26.0 с поддержкой HTTP/3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-26-0-s-podderzhkoy-http-3-20240424-013527/</link>
+      <pubDate>Wed, 24 Apr 2024 01:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-26-0-s-podderzhkoy-http-3-20240424-013527/</guid>
+      <description>После года разработки опубликована новая стабильная ветка высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера nginx 1.26.0, которая вобрала в себя изменения, накопленные в основной ветке 1.25.x. В дальнейшем все изменения в стабильной ветке 1.26 будут связаны с устранением серьёзных ошибок и уязвимостей. В скором времени будет сформирована основная ветка nginx 1.27, в которой будет продолжено развитие новых возможностей. Для обычных пользователей, у которых нет задачи обеспечить совместимость со сторонними модулями, рекомендуется использовать основную ветку, на базе которой раз в три месяца формируются выпуски коммерческого продукта Nginx Plus.</description>
+    </item>
+    
+    <item>
+      <title>Новые версии nginx 1.25.5 и форка FreeNginx 1.26.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-nginx-1-25-5-i-forka-freenginx-1-26-0-20240417-003525/</link>
+      <pubDate>Wed, 17 Apr 2024 00:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-nginx-1-25-5-i-forka-freenginx-1-26-0-20240417-003525/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.5, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61003</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.5.0, российского форка Nginx </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-5-0-rossiyskogo-forka-nginx-20240327-193519/</link>
+      <pubDate>Wed, 27 Mar 2024 19:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-5-0-rossiyskogo-forka-nginx-20240327-193519/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.5.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Роса Хром Сервер, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=60863</description>
+    </item>
+    
+    <item>
+      <title>Представлен FreeNginx, форк Nginx, созданный из-за несогласия с политикой компании F5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-freenginx-fork-nginx-sozdannyy-iz-za-nesoglasiya-s-politikoy-kompanii-f5-20240215-033546/</link>
+      <pubDate>Thu, 15 Feb 2024 03:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-freenginx-fork-nginx-sozdannyy-iz-za-nesoglasiya-s-politikoy-kompanii-f5-20240215-033546/</guid>
+      <description>Максим Дунин, один из ключевых разработчиков Nginx, объявил о создании нового форка - FreeNginx. В отличие от проекта Angie, также создавшего ответвление от Nginx, новый форк будет разрабатываться исключительно как некоммерческий проект, развиваемый сообществом. FreeNginx позиционируется как основной потомок Nginx - &amp;ldquo;с учётом деталей - скорее, форк остался у F5&amp;rdquo;. Целью FreeNginx объявлено обеспечение разработки Nginx, свободной от произвольного корпоративного вмешательства.
+https://www.opennet.ru/opennews/art.shtml?num=60603</description>
+    </item>
+    
+    <item>
+      <title>В nginx 1.25.4 устранены две уязвимости, связанные с HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nginx-1-25-4-ustraneny-dve-uyazvimosti-svyazannye-s-http-3-20240215-013557/</link>
+      <pubDate>Thu, 15 Feb 2024 01:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nginx-1-25-4-ustraneny-dve-uyazvimosti-svyazannye-s-http-3-20240215-013557/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.4, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60601</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.4.0, российского форка Nginx </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-4-0-rossiyskogo-forka-nginx-20231212-203509/</link>
+      <pubDate>Tue, 12 Dec 2023 20:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-4-0-rossiyskogo-forka-nginx-20231212-203509/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.4.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Роса Хром 12 Сервер, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=60276</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ingress-nginx, позволяющие скомпрометировать кластеры Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</link>
+      <pubDate>Mon, 06 Nov 2023 11:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-ingress-nginx-pozvolyayuschie-skomprometirovat-klastery-kubernetes-20231106-113536/</guid>
+      <description>В развиваемом проектом Kubernetes ingress-контроллере ingress-nginx выявлены три уязвимости, позволяющие в конфигурации по умолчанию получить доступ к настройкам объекта Ingress, в которых, среди прочего, хранятся и учётные данные для обращения к серверам Kubernetes, позволяющие получить привилегированный доступ к кластеру. Проблемы проявляются только в ingress-контроллере ingress-nginx от проекта Kubernetes и не затрагивает контроллер kubernetes-ingress, развиваемый разработчиками NGINX.
+https://www.opennet.ru/opennews/art.shtml?num=60055</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.25.3, njs 0.8.2 и NGINX Unit 1.31.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-25-3-njs-0-8-2-i-nginx-unit-1-31-1-20231025-183535/</link>
+      <pubDate>Wed, 25 Oct 2023 18:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-25-3-njs-0-8-2-i-nginx-unit-1-31-1-20231025-183535/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.3, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59993</description>
+    </item>
+    
+    <item>
+      <title>Проект NGINX опубликовал инструментарий для разработки модулей на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-opublikoval-instrumentariy-dlya-razrabotki-moduley-na-yazyke-rust-20231013-133506/</link>
+      <pubDate>Fri, 13 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-opublikoval-instrumentariy-dlya-razrabotki-moduley-na-yazyke-rust-20231013-133506/</guid>
+      <description>Разработчики проекта NGINX представили инструментарий.
+https://www.opennet.ru/opennews/art.shtml?num=59923</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.3.0, российского форка Nginx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-3-0-rossiyskogo-forka-nginx-20230919-193506/</link>
+      <pubDate>Tue, 19 Sep 2023 19:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-3-0-rossiyskogo-forka-nginx-20230919-193506/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.3.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=59777</description>
+    </item>
+    
+    <item>
+      <title>Выпуск сервера приложений NGINX Unit 1.31</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-31-20230901-233505/</link>
+      <pubDate>Fri, 01 Sep 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-prilozheniy-nginx-unit-1-31-20230901-233505/</guid>
+      <description>Опубликован сервер приложений NGINX Unit 1.31.0, в рамках которого развивается решение для обеспечения запуска web-приложений на различных языках программирования (Python, PHP, Perl, Ruby, Go, JavaScript/Node.js, WebAssembly и Java). Под управлением NGINX Unit может одновременно выполняться несколько приложений на разных языках программирования, параметры запуска которых можно изменять динамически без необходимости правки файлов конфигурации и перезапуска. Код написан на языке Си и распространяется под лицензией Apache 2.0. С особенностями NGINX Unit можно познакомиться в анонсе первого выпуска.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.25.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-25-2-20230816-103505/</link>
+      <pubDate>Wed, 16 Aug 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-25-2-20230816-103505/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.2, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59607</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость конфигураций Nginx с некорректными настройками блока alias</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-konfiguraciy-nginx-s-nekorrektnymi-nastroykami-bloka-alias-20230705-223506/</link>
+      <pubDate>Wed, 05 Jul 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-konfiguraciy-nginx-s-nekorrektnymi-nastroykami-bloka-alias-20230705-223506/</guid>
+      <description>Некоторые серверы с nginx остаются уязвимы для техники Nginx Alias Traversal, которая была предложена на конференции Blackhat ещё в 2018 году и позволяет получить доступ к файлам и каталогам, размещённым вне корневого каталога, заданного в директиве &amp;ldquo;alias&amp;rdquo;. Проблема проявляется только в конфигурациях с директивой &amp;ldquo;alias&amp;rdquo;, размещённой внутри блока &amp;ldquo;location&amp;rdquo;, параметр которой не завершается на символ &amp;ldquo;/&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59383</description>
+    </item>
+    
+    <item>
+      <title>Выпускт nginx 1.25.1    </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypuskt-nginx-1-25-1-20230614-013507/</link>
+      <pubDate>Wed, 14 Jun 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypuskt-nginx-1-25-1-20230614-013507/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.25.1, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26.
+https://www.opennet.ru/opennews/art.shtml?num=59290</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Angie 1.2.0, форка Nginx от группы бывших разработчиков </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-2-0-forka-nginx-ot-gruppy-byvshih-razrabotchikov-20230602-013505/</link>
+      <pubDate>Fri, 02 Jun 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-angie-1-2-0-forka-nginx-ot-gruppy-byvshih-razrabotchikov-20230602-013505/</guid>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.2.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59231</description>
+    </item>
+    
+    <item>
+      <title>Доступен nginx 1.25.0 с экспериментальной поддержкой HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-nginx-1-25-0-s-eksperimentalnoy-podderzhkoy-http-3-20230524-013506/</link>
+      <pubDate>Wed, 24 May 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-nginx-1-25-0-s-eksperimentalnoy-podderzhkoy-http-3-20230524-013506/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.25.0, в рамках которой будет продолжено развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.24.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.25.x будет сформирована стабильная ветка 1.26.
+https://www.opennet.ru/opennews/art.shtml?num=59186</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.24.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-24-0-20230412-103507/</link>
+      <pubDate>Wed, 12 Apr 2023 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-24-0-20230412-103507/</guid>
+      <description>После 11 месяцев разработки представлена новая стабильная ветка высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера nginx 1.24.0, которая вобрала в себя изменения, накопленные в основной ветке 1.23.x. В дальнейшем все изменения в стабильной ветке 1.24 будут связаны с устранением серьёзных ошибок и уязвимостей. В скором времени будет сформирована основная ветка nginx 1.25, в которой будет продолжено развитие новых возможностей. Для обычных пользователей, у которых нет задачи обеспечить совместимость со сторонними модулями, рекомендуется использовать основную ветку, на базе которой раз в три месяца формируются выпуски коммерческого продукта Nginx Plus.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск nginx 1.23.4 с включением по умолчанию TLSv1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-23-4-s-vklyucheniem-po-umolchaniyu-tlsv1-3-20230329-013507/</link>
+      <pubDate>Wed, 29 Mar 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nginx-1-23-4-s-vklyucheniem-po-umolchaniyu-tlsv1-3-20230329-013507/</guid>
+      <description>Сформирован выпуск основной ветки nginx 1.23.4, в рамках которой продолжается развитие новых возможностей. В параллельно поддерживаемой стабильной ветке 1.22.x вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В дальнейшем на базе основной ветки 1.23.x будет сформирована стабильная ветка 1.24.
+https://www.opennet.ru/opennews/art.shtml?num=58882</description>
+    </item>
+    
+  </channel>
+</rss>

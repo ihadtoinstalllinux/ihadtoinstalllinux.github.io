@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MiraclePtr on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/miracleptr/</link>
+    <description>Recent content in MiraclePtr on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 18:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/miracleptr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Оценка эффективности применения MiraclePtr для предотвращения уязвимостей в Chrome </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ocenka-effektivnosti-primeneniya-miracleptr-dlya-predotvrascheniya-uyazvimostey-v-chrome-20240123-183525/</link>
+      <pubDate>Tue, 23 Jan 2024 18:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ocenka-effektivnosti-primeneniya-miracleptr-dlya-predotvrascheniya-uyazvimostey-v-chrome-20240123-183525/</guid>
+      <description>Компания Google проанализировала эффективность использования в коде на языке С++ типа MiraclePtr (raw_ptr‹T›) вместо обычных указателей для защиты от уязвимостей, вызванных обращением к уже освобождённым областям памяти (use-after-free). MiraclePtr предоставляет обвязку над указателями, выполняющую дополнительные проверки и аварийно завершающую работу в случае обнаружения обращения к освобождённым областям памяти. Поддержка MiraclePtr была включена по умолчанию на платформах Windows и Android в мае 2022 года (в Chrome 102), а на платформах ChromeOS, Linux и macOS в июне 2023 года.</description>
+    </item>
+    
+  </channel>
+</rss>

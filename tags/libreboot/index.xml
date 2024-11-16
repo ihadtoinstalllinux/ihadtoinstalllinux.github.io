@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libreboot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libreboot/</link>
+    <description>Recent content in Libreboot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 09:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libreboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована свободная загрузочная прошивка Libreboot 20241008</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-svobodnaya-zagruzochnaya-proshivka-libreboot-20241008-20241009-093601/</link>
+      <pubDate>Wed, 09 Oct 2024 09:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-svobodnaya-zagruzochnaya-proshivka-libreboot-20241008-20241009-093601/</guid>
+      <description>Опубликован релиз свободной загрузочной прошивки Libreboot 20241008, который имеет статус экспериментального выпуска, сосредоточенного на развитии функциональности (стабильные релизы в основном содержат исправления и публикуются примерно раз в год, прошлый стабильный релиз был в июне). Проект развивает готовую сборку проекта Coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=62019</description>
+    </item>
+    
+    <item>
+      <title>Выпуск загрузочных прошивок Libreboot 20240612 и Canoeboot 20240612</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnyh-proshivok-libreboot-20240612-i-canoeboot-20240612-20240613-013523/</link>
+      <pubDate>Thu, 13 Jun 2024 01:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnyh-proshivok-libreboot-20240612-i-canoeboot-20240612-20240613-013523/</guid>
+      <description>Доступен выпуск свободной загрузочной прошивки Libreboot 20240612. Проект развивает готовую сборку проекта Coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=61359</description>
+    </item>
+    
+    <item>
+      <title>Выпуск загрузочных прошивок Libreboot 20240504 и Canoeboot 20240504</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnyh-proshivok-libreboot-20240504-i-canoeboot-20240504-20240505-123543/</link>
+      <pubDate>Sun, 05 May 2024 12:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnyh-proshivok-libreboot-20240504-i-canoeboot-20240504-20240505-123543/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20240504, который получил статус стабильной версии (прошлый стабильный релиз был опубликован в июне 2023 года). Проект развивает готовую сборку проекта Coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=61120</description>
+    </item>
+    
+    <item>
+      <title>Доступны загрузочные прошивки Coreboot 24.02 и Libreboot 20240225</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-zagruzochnye-proshivki-coreboot-24-02-i-libreboot-20240225-20240226-123509/</link>
+      <pubDate>Mon, 26 Feb 2024 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-zagruzochnye-proshivki-coreboot-24-02-i-libreboot-20240225-20240226-123509/</guid>
+      <description>Опубликован выпуск проекта CoreBoot 24.02, разрабатывающего свободную альтернативу проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В создании новой версии приняло участие 111 разработчиков, которые подготовили 814 изменений. Начиная с этого выпуска проект перешёл на новую схему наименования версий, использующую привязку к дате (год.месяц.обновление), так в феврале 2024 года вместо версии 4.23 сформирован выпуск 24.02, а на май намечен выпуск 24.05.
+https://www.opennet.ru/opennews/art.shtml?num=60666</description>
+    </item>
+    
+    <item>
+      <title>Выпуск загрузочной прошивки Libreboot 20240126</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20240126-20240127-133551/</link>
+      <pubDate>Sat, 27 Jan 2024 13:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20240126-20240127-133551/</guid>
+      <description>После трёх месяцев разработки увидел свет выпуск свободной загрузочной прошивки Libreboot 20240126. Обновлению присвоен статус тестового выпуска (стабильные релизы публикуются примерно раз в год, прошлый стабильный релиз был в июне). Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=60506</description>
+    </item>
+    
+    <item>
+      <title>В Libreboot реализована поддержка ноутбука HP EliteBook 820 G2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-libreboot-realizovana-podderzhka-noutbuka-hp-elitebook-820-g2-20240111-113545/</link>
+      <pubDate>Thu, 11 Jan 2024 11:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-libreboot-realizovana-podderzhka-noutbuka-hp-elitebook-820-g2-20240111-113545/</guid>
+      <description>Лия Роу (Leah Rowe), основной разработчик и основатель дистрибутива Libreboot, объявила о реализации возможности использования Libreboot в качестве загрузочной прошивки в ноутбуке HP EliteBook 820 G2. Компания Minifree, основанная разработчиками LibreBoot, начала поставку варианта HP EliteBook 820 G2 с предустановленным LibreBoot. Отмечается, что доход, полученный с продажи будет направлен для финансирования дальнейшей работы над проектом. Модель HP EliteBook 820 G2 была создана в 2015 году, оснащена 12.5-дюймовым экраном и поставлялась с процессорами Intel Core i5-5200U, i5-5300U, i7-5500U и i7-5600U со.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск загрузочной прошивки Libreboot 20231106</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20231106-20231106-173510/</link>
+      <pubDate>Mon, 06 Nov 2023 17:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20231106-20231106-173510/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20231106. Обновлению присвоен статус тестового выпуска (стабильные релизы публикуются примерно раз в год, прошлый стабильный релиз был в июне). Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=60059</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Canoeboot, вариант дистрибутива Libreboot, отвечающий требованиям Фонда СПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-canoeboot-variant-distributiva-libreboot-otvechayuschiy-trebovaniyam-fonda-spo-20231028-223600/</link>
+      <pubDate>Sat, 28 Oct 2023 22:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-canoeboot-variant-distributiva-libreboot-otvechayuschiy-trebovaniyam-fonda-spo-20231028-223600/</guid>
+      <description>Лия Роу (Leah Rowe), основной разработчик и основатель дистрибутива Libreboot, представила первый выпуск проекта Canoeboot, развиваемого параллельно с Libreboot и позиционируемого как полностью свободная сборка Libreboot, соответствующая требованиям Фонда СПО к полностью свободным дистрибутивам. Ранее проект был опубликован под именем &amp;ldquo;неофициальный GNU Boot&amp;rdquo;, но после поступления претензии от создателей GNU Boot вначале был переименован в nonGeNUine Boot, а теперь в Canoeboot. Выпуск Canoeboot 20231026 основан на недавней версии Libreboot 20231021, из которой удалены компоненты и изменения, не соответствующие критериям Фонда СПО.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск загрузочной прошивки Libreboot 20231021</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20231021-20231022-113545/</link>
+      <pubDate>Sun, 22 Oct 2023 11:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-zagruzochnoy-proshivki-libreboot-20231021-20231022-113545/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20231021. Обновлению присвоен статус тестовоого выпуска (стабильные релизы публикуются примерно раз в год, прошлый стабильный релиз был в июне). Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=59972</description>
+    </item>
+    
+    <item>
+      <title>Представлен GNU Boot, форк загрузочной прошивки Libreboot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</link>
+      <pubDate>Tue, 18 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-gnu-boot-fork-zagruzochnoy-proshivki-libreboot-20230718-013508/</guid>
+      <description>Лия Роу (Leah Rowe), основной разработчик и основатель дистрибутива Libreboot, представила первый выпуск новой загрузочной прошивки GNU Boot, представляющей собой форк Libreboot, адаптированный для соответствия требованиям Фонда СПО к полностью свободным дистрибутивам. GNU Boot планируют развивать в составе проекта GNU в качестве свободного системного окружения, которое можно использовать вместо проприетарных прошивок, обеспечивающих загрузку (полностью свободный дистрибутив CoreBoot). Сопровождение GNU Boot, как и Libreboot, будет обеспечивать Лия Роу.
+https://www.opennet.ru/opennews/art.shtml?num=59456</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Libreboot 20230625</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230625-20230627-003507/</link>
+      <pubDate>Tue, 27 Jun 2023 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230625-20230627-003507/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20230625. Обновлению присвоен статус стабильного выпуска (прошлый стабильный релиз был опубликован год назад). Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=59346</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Libreboot 20230413, полностью свободного дистрибутива Coreboot </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230413-polnostyu-svobodnogo-distributiva-coreboot-20230414-123505/</link>
+      <pubDate>Fri, 14 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230413-polnostyu-svobodnogo-distributiva-coreboot-20230414-123505/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20230413. Следующему обновлению планируют присвоить статус официального стабильного релиза Libreboot. Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=58974</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Libreboot 20230319. Начало разработки Linux-дистрибутива с утилитами OpenBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230319-nachalo-razrabotki-linux-distributiva-s-utilitami-openbsd-20230320-113503/</link>
+      <pubDate>Mon, 20 Mar 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230319-nachalo-razrabotki-linux-distributiva-s-utilitami-openbsd-20230320-113503/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20230319. Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=58824</description>
+    </item>
+    
+  </channel>
+</rss>

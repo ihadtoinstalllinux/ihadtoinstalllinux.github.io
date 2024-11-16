@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wireshark on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wireshark/</link>
+    <description>Recent content in Wireshark on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2024 15:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wireshark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск сетевых анализаторов Wireshark 4.4.0 и Zeek 7.0.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-setevyh-analizatorov-wireshark-4-4-0-i-zeek-7-0-0-20240830-153519/</link>
+      <pubDate>Fri, 30 Aug 2024 15:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-setevyh-analizatorov-wireshark-4-4-0-i-zeek-7-0-0-20240830-153519/</guid>
+      <description>Опубликован релиз новой стабильной ветки сетевого анализатора Wireshark 4.4. Программа поддерживает более тысячи сетевых протоколов и несколько десятков форматов захвата трафика. Предоставляется гибкий интерфейс для создания фильтров, захвата трафика, анализа сохранённых дампов и инспектирования пакетов. Поддерживаются такие расширенные возможности, как пересборка порядка следования пакетов, выделение и сохранение содержимого файлов, передаваемых с использованием разных протколов, воспроизведение VoIP и RTP-потоков, расшифровка IPsec, ISAKMP, Kerberos, SNMPv3, SSL/TLS, WEP и WPA/WPA2. Код проекта распространяется под лицензией GPLv2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск сетевого анализатора Wireshark 4.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-setevogo-analizatora-wireshark-4-2-20231116-113507/</link>
+      <pubDate>Thu, 16 Nov 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-setevogo-analizatora-wireshark-4-2-20231116-113507/</guid>
+      <description>Опубликован релиз новой стабильной ветки сетевого анализатора Wireshark 4.2. Напомним, что изначально проект развивался под именем Ethereal, но в 2006 году из-за конфликта с владельцем торговой марки Ethereal, разработчики были вынуждены переименовать проект в Wireshark. Wireshark 4.2 стал первым выпуском, сформированным под эгидой некоммерческой организации Wireshark Foundation, которая теперь будет курировать развитие проекта. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=60122</description>
+    </item>
+    
+  </channel>
+</rss>

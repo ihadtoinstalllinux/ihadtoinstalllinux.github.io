@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libwebp on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libwebp/</link>
+    <description>Recent content in libwebp on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2023 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libwebp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Критическая 0-day уязвимость в Chrome и libwebp, эксплуатируемая через изображения WebP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</link>
+      <pubDate>Wed, 13 Sep 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kriticheskaya-0-day-uyazvimost-v-chrome-i-libwebp-ekspluatiruemaya-cherez-izobrazheniya-we-20230913-023505/</guid>
+      <description>Компания Google опубликовала обновление браузера Chrome 116.0.5845.187, в котором устранена критическая уязвимость (CVE-2023-4863), позволяющая обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что критическая уязвимость вызвана переполнением буфера в обработчике формата изображений WebP. Уязвимость позволяет выполнить свой код при обработке специально оформленных WebP-изображений. Опасность уязвимости усугубляет то, что в сети выявлен рабочий эксплоит, который уже применяется злоумышленниками для совершения атак (0-day).</description>
+    </item>
+    
+  </channel>
+</rss>

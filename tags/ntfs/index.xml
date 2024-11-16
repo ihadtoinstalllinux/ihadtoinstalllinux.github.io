@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NTFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntfs/</link>
+    <description>Recent content in NTFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 01:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Из ядра Linux 6.9 удалён старый драйвер NTFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-yadra-linux-6-9-udalen-staryy-drayver-ntfs-20240314-013540/</link>
+      <pubDate>Thu, 14 Mar 2024 01:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-yadra-linux-6-9-udalen-staryy-drayver-ntfs-20240314-013540/</guid>
+      <description>Линус Торвальдс утвердил запрос на удаление из состава ядра Linux старого драйвера файловой системы NTFS. Начиная с выпуска 5.15 в состав ядра включён новый драйвер NTFS3, разработанный и сопровождаемый компанией Paragon Software. Поставка в ядре двух драйверов с реализацией NTFS является нецелесообразной, с учётом того, что старый драйвер не обновлялся уже много лет, находится в плачевном состоянии и может работать только в режиме чтения.
+https://www.opennet.ru/opennews/art.shtml?num=60777</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NTFS-драйвере из состава GRUB2, позволяющая выполнить код и обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</link>
+      <pubDate>Wed, 04 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</guid>
+      <description>В драйвере, обеспечивающем работу с файловой системой NTFS в загрузчике GRUB2, выявлена уязвимость (CVE-2023-4692), позволяющая организовать выполнение своего кода на уровне загрузчик при обращении к специально оформленному образу файловой системы. Уязвимость может применяться для обхода механизма верифицированной загрузки UEFI Secure Boot.
+https://www.opennet.ru/opennews/art.shtml?num=59868</description>
+    </item>
+    
+  </channel>
+</rss>

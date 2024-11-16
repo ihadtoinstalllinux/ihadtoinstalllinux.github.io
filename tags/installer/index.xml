@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>installer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/installer/</link>
+    <description>Recent content in installer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 02:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/installer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora одобрена поставка в пакете asahi-installer исполняемых файлов для macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</link>
+      <pubDate>Thu, 30 May 2024 02:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-odobrena-postavka-v-pakete-asahi-installer-ispolnyaemyh-faylov-dlya-macos-20240530-023516/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, одобрил предоставление исключения из правил, дающего возможность поставлять в составе пакета с инсталлятором asahi-installer исполняемого файла и библиотеки, собранных для платформы macOS. Исключение предоставлено по просьбе разработчиков редакции Fedora Asahi Remix, предназначенной для установки на компьютеры Mac, оснащённые ARM-чипами AppleSilicon.
+https://www.opennet.ru/opennews/art.shtml?num=61270</description>
+    </item>
+    
+  </channel>
+</rss>

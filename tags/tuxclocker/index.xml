@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TuxClocker on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tuxclocker/</link>
+    <description>Recent content in TuxClocker on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tuxclocker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен TuxClocker 1.0, интерфейс для разгона видеокарт NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-tuxclocker-1-0-interfeys-dlya-razgona-videokart-nvidia-20230927-143506/</link>
+      <pubDate>Wed, 27 Sep 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-tuxclocker-1-0-interfeys-dlya-razgona-videokart-nvidia-20230927-143506/</guid>
+      <description>После четырёх с половиной лет разработки опубликован выпуск проекта TuxClocker 1.0, предоставляющего инструменты для оверклокинга (overclock) и мониторинга за работой видеокарт. TuxClocker состоит из фонового процесса, управляющего тактовой частотой, напряжением и параметрами системы охлаждения видеокарты, а также графического интерфейса на базе библиотеки Qt. Код написан на С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59829</description>
+    </item>
+    
+  </channel>
+</rss>

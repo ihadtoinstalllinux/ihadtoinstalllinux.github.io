@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>namespace on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/namespace/</link>
+    <description>Recent content in namespace on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2023 02:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/namespace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu ограничит доступ к user namespace</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ubuntu-ogranichit-dostup-k-user-namespace-20231010-023504/</link>
+      <pubDate>Tue, 10 Oct 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ubuntu-ogranichit-dostup-k-user-namespace-20231010-023504/</guid>
+      <description>Компания Canonical объявила о внесении в Ubuntu 23.10 изменений, ограничивающих доступ пользователей к пространствам имён идентификаторов пользователя (user namespace), что позволит повысить защищённость систем, использующих контейнерную изоляцию, от уязвимостей, для эксплуатации которых необходимы манипуляции с user namespace. По данным Google, 44% эксплоитов, участвующих в программе по выплате денежных вознаграждений за выявление уязвимостей в ядре Linux, требуют наличия возможности создания пространств имён идентификаторов пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59897</description>
+    </item>
+    
+  </channel>
+</rss>

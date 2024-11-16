@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Studio on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/studio/</link>
+    <description>Recent content in Studio on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 22:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/studio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск среды разработки Tizen Studio 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-tizen-studio-6-0-20241104-223540/</link>
+      <pubDate>Mon, 04 Nov 2024 22:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sredy-razrabotki-tizen-studio-6-0-20241104-223540/</guid>
+      <description>Представлен релиз Tizen Studio 6.0, SDK и среды разработки для для создания, сборки, отладки и профилирования мобильных приложений для платформы Tizen при помощи Web API и Native API. Среда разработки построена на базе свежего выпуска платформы Eclipse, имеет модульную архитектуру и на этапе установки или через специальный пакетный менеджер позволяет выбрать и установить только необходимую функциональность. Также предоставляются плагины для разработки с использованием редактора VS Code и интегрированной среды Visual Studio.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 30.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-2-20240713-093512/</link>
+      <pubDate>Sat, 13 Jul 2024 09:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-2-20240713-093512/</guid>
+      <description>Опубликован выпуск OBS Studio 30.2, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=61537</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 30.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-1-20240313-103522/</link>
+      <pubDate>Wed, 13 Mar 2024 10:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-1-20240313-103522/</guid>
+      <description>Опубликован выпуск OBS Studio 30.1, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60779</description>
+    </item>
+    
+    <item>
+      <title>Intel опубликовал программу 3D-визуализации OSPRay Studio 1.0 и движок  3D-рендеринга OSPRay 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</link>
+      <pubDate>Sun, 25 Feb 2024 15:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</guid>
+      <description>Компания Intel опубликовала выпуск проекта OSPRay Studio 1.0, развивающего приложение для интерактивной 3D-визуализации при помощи движка распределённой трассировки лучей OSPRay. Среди прочего, программа может использоваться для высокоточного рендеринга сложных сцен и обработки очень больших сцен, требующих распределённого выполнения вычислений в кластере из нескольких компьютеров. Код приложения написан на языке С++ и распространяется под лицензией Apache 2.0. Для отрисовки на экран используется OpenGL и библиотека GLFW.
+https://www.opennet.ru/opennews/art.shtml?num=60661</description>
+    </item>
+    
+    <item>
+      <title>Опубликована система потокового видеовещания OBS Studio 30.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-sistema-potokovogo-videoveschaniya-obs-studio-30-0-20231112-153557/</link>
+      <pubDate>Sun, 12 Nov 2023 15:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-sistema-potokovogo-videoveschaniya-obs-studio-30-0-20231112-153557/</guid>
+      <description>Доступен выпуск OBS Studio 30.0, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60098</description>
+    </item>
+    
+    <item>
+      <title>В OBS Studio добавлена поддержка WebRTC с возможностью вещания в режиме P2P</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</link>
+      <pubDate>Tue, 13 Jun 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</guid>
+      <description>В кодовую базу OBS Studio, пакета для потокового вещания, композитинга и записи видео, приняты изменения с реализацией поддержки технологии WebRTC, которая может применяться вместо протокола RTMP для потокового видеовещания без промежуточного сервера, при котором содержимое в режиме P2P напрямую передаётся в браузер пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59283</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 29.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-29-1-20230503-143506/</link>
+      <pubDate>Wed, 03 May 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-29-1-20230503-143506/</guid>
+      <description>Доступен выпуск OBS Studio 29.1, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=59071</description>
+    </item>
+    
+  </channel>
+</rss>

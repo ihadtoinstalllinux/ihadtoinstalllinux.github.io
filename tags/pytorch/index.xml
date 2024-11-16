@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PyTorch on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pytorch/</link>
+    <description>Recent content in PyTorch on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 12:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака на инфраструктуру PyTorch, компрометирующая репозиторий и релизы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-na-infrastrukturu-pytorch-komprometiruyuschaya-repozitoriy-i-relizy-20240112-123535/</link>
+      <pubDate>Fri, 12 Jan 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-na-infrastrukturu-pytorch-komprometiruyuschaya-repozitoriy-i-relizy-20240112-123535/</guid>
+      <description>Раскрыты детали атаки на инфраструктуру, используемую при разработке фреймворка машинного обучения PyTorch, позволившую извлечь ключи доступа, достаточные для размещения произвольных данных в репозитории с релизами проекта в GitHub и AWS, а также для подстановки кода в основную ветку репозитория и добавления бэкдора через зависимости. Подмена релизов PyTorch могла использоваться для осуществления атаки на крупные компании, такие как Google, Meta, Boeing и Lockheed Martin, использующие PyTorch в своих проектах. В рамках программы Bug Bounty компания Meta выплатила исследователям $16250 за информацию о проблеме.</description>
+    </item>
+    
+  </channel>
+</rss>

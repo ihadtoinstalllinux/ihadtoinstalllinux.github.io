@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Netgear on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/netgear/</link>
+    <description>Recent content in Netgear on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 00:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netgear/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в сетевых устройствах Juniper, ASUS, D-Link, Tenda и NETGEAR</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-setevyh-ustroystvah-juniper-asus-d-link-tenda-i-netgear-20230919-003504/</link>
+      <pubDate>Tue, 19 Sep 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-setevyh-ustroystvah-juniper-asus-d-link-tenda-i-netgear-20230919-003504/</guid>
+      <description>Несколько опасных уязвимостей в сетевых устройствах, позволяющих выполнить свой код или получить управляющий доступ без прохождения аутентификации.
+https://www.opennet.ru/opennews/art.shtml?num=59773</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в маршрутизаторах Netgear и D-Link, приводящие к удалённому выполнению кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-marshrutizatorah-netgear-i-d-link-privodyaschie-k-udalennomu-vypolneniyu-kod-20230701-123506/</link>
+      <pubDate>Sat, 01 Jul 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-marshrutizatorah-netgear-i-d-link-privodyaschie-k-udalennomu-vypolneniyu-kod-20230701-123506/</guid>
+      <description>Раскрыта информация об уязвимостях в маршрутизаторах Netgear и D-Link, позволяющих удалённо выполнить свой код на устройствах без прохождения аутентификации. Информация опубликована проектом Zero Day Initiative (ZDI), предоставляющем денежные вознаграждения за сообщения о неисправленных уязвимостях и проводящим соревнования Pwn2Own. Не понятно связаны ли раскрытые уязвимости с работами, представленными на декабрьском соревновании Pwn2Own в Торонто, на котором было успешно совершено 7 атак на маршрутизатор NETGEAR RAX30 AX2400 и две атаки на маршрутизатор TP-Link AX1800/Archer AX21.</description>
+    </item>
+    
+  </channel>
+</rss>

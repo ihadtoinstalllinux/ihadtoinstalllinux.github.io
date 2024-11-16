@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buildah on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/buildah/</link>
+    <description>Recent content in Buildah on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/buildah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Buildah и Podman, позволяющая обойти изоляцию контейнера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-buildah-i-podman-pozvolyayuschaya-oboyti-izolyaciyu-konteynera-20240319-003535/</link>
+      <pubDate>Tue, 19 Mar 2024 00:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-buildah-i-podman-pozvolyayuschaya-oboyti-izolyaciyu-konteynera-20240319-003535/</guid>
+      <description>В пакетах Buildah и Podman выявлена уязвимость (CVE-2024-1753), позволяющая получить полный доступ к файловой системе хост-окружения на стадии сборки контейнера, запускаемого с правами root. На системах с включённым SELinux доступ к хостовой ФС ограничивается режимом только чтения. Исправление пока доступно в виде патча.
+https://www.opennet.ru/opennews/art.shtml?num=60805</description>
+    </item>
+    
+  </channel>
+</rss>

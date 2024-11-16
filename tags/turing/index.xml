@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Turing on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/turing/</link>
+    <description>Recent content in Turing on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 10:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/turing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA начнёт использовать открытые модули ядра для GPU, начиная с Turing </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</link>
+      <pubDate>Sun, 12 May 2024 10:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</guid>
+      <description>Компания NVIDIA объявила, что в грядущем выпуске проприетарных драйверов NVIDIA 560 на системах с GPU на базе Turing (GeForce RTX 2000) и более новых микроархитектур по умолчанию будут задействованы открытые модули ядра Linux. Код модулей был открыт в 2022 году под лицензиями MIT и GPLv2, и обновляется синхронно с каждым новым выпуском проприетарных драйверов. При этом, несмотря на наличие открытых модулей при установке проприетарных драйверов NVIDIA до сих пор продолжали использоваться проприетарные варианты модулей, основанные на общей кодовой базе с открытыми, но отличающиеся и развивающиеся отдельно.</description>
+    </item>
+    
+  </channel>
+</rss>

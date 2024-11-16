@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cppcheck on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cppcheck/</link>
+    <description>Recent content in cppcheck on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Sep 2023 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cppcheck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск cppcheck 2.12, статического анализатора кода для языков C&#43;&#43; и С</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-12-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230916-003505/</link>
+      <pubDate>Sat, 16 Sep 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-12-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230916-003505/</guid>
+      <description>Вышла новая версия статического анализатора кода cppcheck 2.12, позволяющего выявлять различные классы ошибок в коде на языках Си и Си++, в том числе при использовании нестандартного синтаксиса, типичного для встраиваемых систем. Предоставляется коллекция плагинов, через которые обеспечена интеграция cppcheck с различными системами разработки, непрерывной интеграции и тестирования, а также предоставлены такие возможности как проверка соответствия кода стилю оформления кода. Для разбора кода может применяться как собственный парсер, так и внешний парсер.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск cppcheck 2.11, статического анализатора кода для языков C&#43;&#43; и С</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-11-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230629-143506/</link>
+      <pubDate>Thu, 29 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-11-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230629-143506/</guid>
+      <description>Вышла новая версия статического анализатора кода cppcheck 2.11, позволяющего выявлять различные классы ошибок в коде на языках Си и Си++.
+https://www.opennet.ru/opennews/art.shtml?num=59355</description>
+    </item>
+    
+  </channel>
+</rss>

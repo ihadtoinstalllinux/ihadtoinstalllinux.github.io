@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pacman on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pacman/</link>
+    <description>Recent content in Pacman on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2024 01:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pacman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного менеджера Pacman 7.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacman-7-0-20240715-013530/</link>
+      <pubDate>Mon, 15 Jul 2024 01:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-pacman-7-0-20240715-013530/</guid>
+      <description>Доступен релиз пакетного менеджера Pacman 7.0, применяемого в дистрибутиве Arch Linux. Из изменений можно выделить.
+https://www.opennet.ru/opennews/art.shtml?num=61546</description>
+    </item>
+    
+    <item>
+      <title>В Arch Linux обновлён пакетный менеджер Pacman 6.1 и инсталлятор Archinstall 2.7.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-obnovlen-paketnyy-menedzher-pacman-6-1-i-installyator-archinstall-2-7-2-20240310-143559/</link>
+      <pubDate>Sun, 10 Mar 2024 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-obnovlen-paketnyy-menedzher-pacman-6-1-i-installyator-archinstall-2-7-2-20240310-143559/</guid>
+      <description>Дистрибутив Arch Linux перешёл на использование нового выпуска пакетного менеджера Pacman 6.1, в котором появилась поддержка встроенного сервера CacheServer, кэширующего пакеты для ускорения загрузки пакетов и упрощения создания зеркал.
+https://www.opennet.ru/opennews/art.shtml?num=60766</description>
+    </item>
+    
+  </channel>
+</rss>

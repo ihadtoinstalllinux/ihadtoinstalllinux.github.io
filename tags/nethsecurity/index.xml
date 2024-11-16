@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NethSecurity on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nethsecurity/</link>
+    <description>Recent content in NethSecurity on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 00:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nethsecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива для создания межсетевых экранов NethSecurity 8.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-nethsecurity-8-3-20241105-003521/</link>
+      <pubDate>Tue, 05 Nov 2024 00:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-dlya-sozdaniya-mezhsetevyh-ekranov-nethsecurity-8-3-20241105-003521/</guid>
+      <description>Опубликован дистрибутив для создания межсетевых экранов NethSecurity 8.3, основанный на платформе NethServer и предназначенный для быстрого развёртывания межсетевого экрана. Помимо фильтрации пакетов предоставляются возможности для определения и предотвращения вторжений, антивирусной проверки, блокировки рекламы, расстановки приоритетов для разных видов трафика, глубокого инспектирования пакетов (DPI) и фильтрации контента. Развёрнутый в корпоративной сети NethSecurity также может выборочно блокировать Netflix, Youtube, Tiktok, Instagram, Faceboook и прочие сервисы, которые могут отвлекать сотрудников от работы. Размер загрузочного образа в сжатом виде 52 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Релизы дистрибутивов для создания межсетевых экранов IPFire 2.29 Core 186 и NethSecurity 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/relizy-distributivov-dlya-sozdaniya-mezhsetevyh-ekranov-ipfire-2-29-core-186-i-nethsecurit-20240614-233535/</link>
+      <pubDate>Fri, 14 Jun 2024 23:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/relizy-distributivov-dlya-sozdaniya-mezhsetevyh-ekranov-ipfire-2-29-core-186-i-nethsecurit-20240614-233535/</guid>
+      <description>Опубликован выпуск дистрибутива для создания маршрутизаторов и межсетевых экранов IPFire 2.29 Core 186. IPFire отличается простым процессом установки и организацией настройки через интуитивно понятный web-интерфейс, изобилующий наглядными графиками. Размер установочного iso-образа составляет 421 МБ (x86_64, AArch64).
+https://www.opennet.ru/opennews/art.shtml?num=61368</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EXT2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ext2/</link>
+    <description>Recent content in EXT2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2024 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ext2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для ядра Linux предложен драйвер EXT2, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhen-drayver-ext2-napisannyy-na-yazyke-rust-20240516-133544/</link>
+      <pubDate>Thu, 16 May 2024 13:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhen-drayver-ext2-napisannyy-na-yazyke-rust-20240516-133544/</guid>
+      <description>Уэдсон Алмейда Фильо (Wedson Almeida Filho) из компании Microsoft предложил для обсуждения в списке рассылки разработчиков ядра Linux вторую версию патчей с набором обвязок над подсистемой VFS, предназначенных для разработки на языке Rust файловых систем, работающих в режиме только для чтения. Вместе с обвязками опубликовано два созданных на их основе драйвера с реализацией файловых систем ext2 и tarfs, работающих в режиме только для чтения. В отличие от ранее доступной реализации ФС Ext2 на языке Rust - ext2-rs, новый вариант работает на уровне ядра (модуль rust_ext2), а не в пространстве пользователя.</description>
+    </item>
+    
+    <item>
+      <title>Драйвер для файловой системы Ext2 объявлен устаревшим</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/drayver-dlya-faylovoy-sistemy-ext2-obyavlen-ustarevshim-20240326-213536/</link>
+      <pubDate>Tue, 26 Mar 2024 21:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/drayver-dlya-faylovoy-sistemy-ext2-obyavlen-ustarevshim-20240326-213536/</guid>
+      <description>В кодовую базу, на основе которой формируется ядро Linux 6.9, принято изменение, переводящее драйвер с реализацией файловой системы Ext2 из категории поддерживаемых в разряд устаревших (deprecated). В качестве причины упоминается поддержка в драйвере только 32-разрядных счётчиков времени в inode, которые переполнятся 19 января 2038 года.
+https://www.opennet.ru/opennews/art.shtml?num=60853</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Util on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/util/</link>
+    <description>Recent content in Util on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 2023 12:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/util/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Util-linux 2.39</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-util-linux-2-39-20230519-123504/</link>
+      <pubDate>Fri, 19 May 2023 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-util-linux-2-39-20230519-123504/</guid>
+      <description>Опубликована новая версия пакета системных утилит Util-linux 2.39, в который входят как тесно связанные с Linux-ядром утилиты, так и утилиты общего назначения. Например, в пакете представлены утилиты mount/umount, fdisk, hwclock, cal, blkid, fsck/cfdisk/sfdisk, blockdev, chrt, mkfs, ionice, more, renice, su, kill, setsid, login, shutdown, dmesg, lscpu, logger, losetup, setterm, mkswap, swapon, taskset и т.п.
+https://www.opennet.ru/opennews/art.shtml?num=59154</description>
+    </item>
+    
+  </channel>
+</rss>
