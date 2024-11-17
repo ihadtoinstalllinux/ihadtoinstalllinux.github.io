@@ -6,7 +6,16 @@
     <description>Recent content in C on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Nov 2024 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 15:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fil-C - компилятор для языков C и C&#43;&#43;, гарантирующий безопасную работу с памятью </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fil-c-kompilyator-dlya-yazykov-c-i-c-garantiruyuschiy-bezopasnuyu-rabotu-s-pamyatyu-20241117-153605/</link>
+      <pubDate>Sun, 17 Nov 2024 15:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fil-c-kompilyator-dlya-yazykov-c-i-c-garantiruyuschiy-bezopasnuyu-rabotu-s-pamyatyu-20241117-153605/</guid>
+      <description>Филипп Пизло (Filip Pizlo) представил на конференции SPLASH&#39;24 открытый C/C++ компилятор Fil-C, предоставляющий защиту от проблем, вызванных ошибками при работе с памятью. Проект нацелен на обеспечение полной совместимости с существующим кодом на языках C и C++ - для обеспечения безопасной работы с памятью достаточно просто пересобрать существующий код. Компилятор построен с использованием компонентов от проекта LLVM и распространяется под лицензией Apache 2.0. Runtime поставляется под лицензией BSD. В отличие от недавно анонсированного проекта TrapC, находящегося на стадии проектирования, компилятор Fil-C уже доведён до готовности сборки существующего кода.</description>
+    </item>
+    
     <item>
       <title>Вариант Fedora c KDE получил статус базовой редакции, поддерживаемой на уровне Fedora Workstation с GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/variant-fedora-c-kde-poluchil-status-bazovoy-redakcii-podderzhivaemoy-na-urovne-fedora-wor-20241109-143559/</link>
