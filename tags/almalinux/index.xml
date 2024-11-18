@@ -6,7 +6,16 @@
     <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2024 01:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2024 23:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован дистрибутив AlmaLinux 9.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-5-20241118-233506/</link>
+      <pubDate>Mon, 18 Nov 2024 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-5-20241118-233506/</guid>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.5, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.5 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
+    </item>
+    
     <item>
       <title>AlmaLinux стал 7 дистрибутивом Linux, рекомендованным Microsoft для Azure</title>
       <link>https://ihadtoinstalllinux.github.io/posts/almalinux-stal-7-distributivom-linux-rekomendovannym-microsoft-dlya-azure-20241030-013514/</link>
