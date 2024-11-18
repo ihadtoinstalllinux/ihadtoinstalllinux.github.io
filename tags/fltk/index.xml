@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FLTK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fltk/</link>
+    <description>Recent content in FLTK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 20:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fltk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск графического тулкита  FLTK 1.4.0  с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-tulkita-fltk-1-4-0-s-podderzhkoy-wayland-20241118-203524/</link>
+      <pubDate>Mon, 18 Nov 2024 20:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-tulkita-fltk-1-4-0-s-podderzhkoy-wayland-20241118-203524/</guid>
+      <description>Спустя 13 лет с момента публикации ветки 1.3 увидел свет релиз легковесного кроссплатформенного графического тулкита FLTK 1.4.0 (Fast Light Toolkit). FLTK написан на языке C++ и распространяется под лицензией лицензии LGPLv2. Ветка FLTK 1.4 отмечена как обратно совместимая с выпусками 1.3.x, т.е. при переходе на FLTK 1.4 не требуется внесение изменений в код, но необходима пересборка из-за изменения ABI. Для визуального построения GUI-интерфейса в рамках проекта развивается оболочка FLUID. Поддерживается работа в Linux (X11 и Wayland), BSD-системах, Windows, macOS и различных UNIX-подобных ОС.</description>
+    </item>
+    
+  </channel>
+</rss>
