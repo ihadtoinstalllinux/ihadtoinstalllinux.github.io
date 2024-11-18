@@ -6,7 +6,17 @@
     <description>Recent content in Realtime on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 15:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/realtime/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2024 14:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/realtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз ядра Linux 6.12 с поддержкой Realtime-режима </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-6-12-s-podderzhkoy-realtime-rezhima-20241118-143513/</link>
+      <pubDate>Mon, 18 Nov 2024 14:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-yadra-linux-6-12-s-podderzhkoy-realtime-rezhima-20241118-143513/</guid>
+      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 6.12. Среди наиболее заметных изменений: возможность включения Realtime-режима, sched_ext для создания планировщиков CPU через eBPF, вывод QR-кода при аварийных состояниях, механизм Device Memory TCP, механизм резервирования ресурсов SCHED_DEADLINE server, улучшение планировщика задач EEVDF, модуль IPE для задания политик обеспечения целостности.
+https://www.opennet.ru/opennews/art.shtml?num=62243</description>
+    </item>
+    
     <item>
       <title>В ядре Linux 6.12 намерены реализовать возможность включения Realtime-режима</title>
       <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-12-namereny-realizovat-vozmozhnost-vklyucheniya-realtime-rezhima-20240908-153506/</link>
