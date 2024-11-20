@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>re2c on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/re2c/</link>
+    <description>Recent content in re2c on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2024 01:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/re2c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск генератора лексических анализаторов re2c 4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-generatora-leksicheskih-analizatorov-re2c-4-0-20241121-013558/</link>
+      <pubDate>Thu, 21 Nov 2024 01:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-generatora-leksicheskih-analizatorov-re2c-4-0-20241121-013558/</guid>
+      <description>Опубликован релиз re2c 4.0 - генератора лексических анализаторов (он же компилятор регулярных выражений в код на целевом языке программирования). Re2c специализируется на генерации быстрых и легко встраиваемых лексеров и отличается от более известного аналога Flex гибким интерфейсом, генерацией оптимизированных нетабличных лексеров и поддержкой захватов (submatch extraction) на основе детерминированных конечных автоматов с тэгами (TDFA). re2c используется в проектах, где важна скорость работы лексера, например в Ninja и в PHP.
+https://www.opennet.ru/opennews/art.shtml?num=62267</description>
+    </item>
+    
+  </channel>
+</rss>
