@@ -6,7 +6,17 @@
     <description>Recent content in WSL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 23:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2024 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft представил обновление WSL, прослойки для запуска Linux в Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-predstavil-obnovlenie-wsl-prosloyki-dlya-zapuska-linux-v-windows-20241120-143505/</link>
+      <pubDate>Wed, 20 Nov 2024 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-predstavil-obnovlenie-wsl-prosloyki-dlya-zapuska-linux-v-windows-20241120-143505/</guid>
+      <description>Компания Microsoft объявила о расширении возможностей прослойки WSL (Windows Subsystem for Linux) и реализации официальной поддержки запуска в WSL окружений с дистрибутивом Red Hat Enterprise Linux. Заявлено, что в скором времени компания Red Hat начнёт формировать специальные сборки RHEL для WSL, которые можно будет найти и установить при помощи команд &amp;ldquo;wsl &amp;ndash;list &amp;ndash;online&amp;rdquo; и &amp;ldquo;wsl &amp;ndash;install&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=62259</description>
+    </item>
+    
     <item>
       <title>Microsoft развивает GUI для настройки WSL, прослойки для запуска Linux-приложений в Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</link>
