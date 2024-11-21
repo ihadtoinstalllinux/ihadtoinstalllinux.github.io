@@ -6,7 +6,17 @@
     <description>Recent content in Direct3D on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 18:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/direct3d/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 20:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/direct3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Wine опубликовал Vkd3d 1.14 с реализацией Direct3D 12 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-wine-opublikoval-vkd3d-1-14-s-realizaciey-direct3d-12-20241121-203526/</link>
+      <pubDate>Thu, 21 Nov 2024 20:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-wine-opublikoval-vkd3d-1-14-s-realizaciey-direct3d-12-20241121-203526/</guid>
+      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.14 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
+https://www.opennet.ru/opennews/art.shtml?num=62272</description>
+    </item>
+    
     <item>
       <title>Выпуск DXVK 2.5, реализации Direct3D 8/9/10/11 поверх API Vulkan </title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-5-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20241113-183541/</link>
