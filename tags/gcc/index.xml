@@ -6,7 +6,16 @@
     <description>Recent content in GCC on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2024 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 00:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GCC 15 будет использовать стандарт C23 по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gcc-15-budet-ispolzovat-standart-c23-po-umolchaniyu-20241124-003558/</link>
+      <pubDate>Sun, 24 Nov 2024 00:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gcc-15-budet-ispolzovat-standart-c23-po-umolchaniyu-20241124-003558/</guid>
+      <description>В кодовую базу, на основе которой формируется запланированный на весну следующего года выпуск набора компиляторов GCC 15, принято изменение, включающее по умолчанию использование стандарта С23 с расширениями GNU (&amp;quot;-std=gnu23&amp;quot;) при компиляции программ на языке C (ранее по умолчанию использовался стандарт C17 - &amp;ldquo;-std=gnu17&amp;rdquo;). Изменение потенциально может привести к проблемам при сборке существующих проектов, так как в новом стандарте имеются отличия, такие как добавление константы nullptr, типа _BitInt(n) и ключевых слов bool, true и false, которые могут конфликтовать с заданными в приложениях одноимёнными идентификаторами.</description>
+    </item>
+    
     <item>
       <title>Релиз набора компиляторов GCC 14</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-nabora-kompilyatorov-gcc-14-20240507-163518/</link>
