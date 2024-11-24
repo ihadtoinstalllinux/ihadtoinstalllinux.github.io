@@ -6,7 +6,16 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2024 01:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 14:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инициатива по верификации стандартной библиотеки Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-verifikacii-standartnoy-biblioteki-rust-20241124-143507/</link>
+      <pubDate>Sun, 24 Nov 2024 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-verifikacii-standartnoy-biblioteki-rust-20241124-143507/</guid>
+      <description>Компания Amazon и организация Rust Foundation представили инициативу, нацеленную на повышение безопасности стандартной библиотеки языка Rust. Целью заявлена проверка надёжности и безопасности функций, в которых используется ключевое слово &amp;ldquo;unsafe&amp;rdquo;, допускающее операции, небезопасно работающие с памятью, такие как разыменование указателей, изменение статических переменных и обращение к внешним библиотекам на С/C++. Отмечается, что в настоящее время стандартная библиотека Rust насчитывает около 35 тысяч функций, из которых в 7500 встречаются блоки кода, выполняемые в контексте &amp;ldquo;unsafe&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Представлен новый вариант правил использования товарных знаков Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-novyy-variant-pravil-ispolzovaniya-tovarnyh-znakov-rust-20241107-013600/</link>
