@@ -6,7 +6,16 @@
     <description>Recent content in Ubuntu on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2024 11:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 18:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenStreetMap перевёл серверную инфраструктуру с Ubuntu на Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openstreetmap-perevel-servernuyu-infrastrukturu-s-ubuntu-na-debian-20241128-183505/</link>
+      <pubDate>Thu, 28 Nov 2024 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openstreetmap-perevel-servernuyu-infrastrukturu-s-ubuntu-na-debian-20241128-183505/</guid>
+      <description>Проект OpenStreetMap объявил о переводе серверов в своей инфраструктуре на Debian GNU/Linux. До этого в течение 18 лет на серверах проекта использовался дистрибутив Ubuntu. Миграция производилась постепенно начиная с августа и привела к замене имеющихся установок Ubuntu 20.04 и 22.04 на Debian 12. Переход также позволил обновить язык Ruby с версии 3.0 до версии 3.1, и задействовать более новый выпуск фрейворка Ruby on Rails, что привело к ускорению работы сервиса www.</description>
+    </item>
+    
     <item>
       <title>Разработчики Ubuntu проанализировали эффективность включения PGO-оптимизации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-ubuntu-proanalizirovali-effektivnost-vklyucheniya-pgo-optimizacii-20241120-113510/</link>
