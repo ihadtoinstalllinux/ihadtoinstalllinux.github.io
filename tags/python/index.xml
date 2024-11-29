@@ -6,7 +6,16 @@
     <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 13:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 12:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Snek 1.10, Python-подобного языка программирования для встраиваемых систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</link>
+      <pubDate>Fri, 29 Nov 2024 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</guid>
+      <description>Кит Паккард (Keith Packard), активный разработчик Debian, лидер проекта X.Org и создатель множества X-расширений, включая XRender, XComposite и XRandR, опубликовал новый выпуск языка программирования Snek 1.10, позиционируемого как упрощённый вариант языка Python, адаптированный для использования на встраиваемых системах, на которых недостаточно ресурсов для использования MicroPython и CircuitPython. Snek не претендует на полноценную поддержку языка Python, но может использоваться на чипах, имеющих всего 2КБ ОЗУ, 32 КБ Flash-памяти и 1КБ EEPROM. Код проекта распространяется под лицензией GPLv3.</description>
+    </item>
+    
     <item>
       <title>Python сместил JavaScript с 1 места в рейтинге GitHub. Статистика GitHub за 2024 год</title>
       <link>https://ihadtoinstalllinux.github.io/posts/python-smestil-javascript-s-1-mesta-v-reytinge-github-statistika-github-za-2024-god-20241103-133519/</link>
