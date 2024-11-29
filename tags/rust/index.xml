@@ -6,7 +6,17 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 14:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 15:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Rust 1.83. Развитие инструментария Xen и табличного процессора на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-83-razvitie-instrumentariya-xen-i-tablichnogo-processora-na-rust-20241129-153537/</link>
+      <pubDate>Fri, 29 Nov 2024 15:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-83-razvitie-instrumentariya-xen-i-tablichnogo-processora-na-rust-20241129-153537/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.83, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=62317</description>
+    </item>
+    
     <item>
       <title>Инициатива по верификации стандартной библиотеки Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-verifikacii-standartnoy-biblioteki-rust-20241124-143507/</link>
