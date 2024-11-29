@@ -151,6 +151,18 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>В OpenSSH код аутентификации вынесен в отдельный процесс sshd-auth
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Разработчики OpenSSH продолжили разделение sshd на несколько отдельных исполняемых файлов. На реализованном в мае первом этапе разделения из sshd в отдельный процесс sshd-session были вынесены функции, связанные с обработкой сеансов, а в sshd оставлена лишь функциональность, необходимая для приёма нового сетевого соединения и запуска sshd-session для каждого нового сеанса. Вчера в кодовую базу OpenSSH было внесено изменение, добавляющее ещё один процесс - sshd-auth, в который из sshd-session перенесён код, выполняющий аутентификацию....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-10-15 20:35:38 +0500 +05'>October 15, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В OpenSSH код аутентификации вынесен в отдельный процесс sshd-auth" href="https://ihadtoinstalllinux.github.io/posts/v-openssh-kod-autentifikacii-vynesen-v-otdelnyy-process-sshd-auth-20241015-203538/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Выпуск Sevimon 0.2, программы видеоконтроля напряжения мышц лица
     </h2>
   </header>
@@ -199,20 +211,6 @@ https://www.opennet.ru/opennews/art.shtml?num=62049</p>
   </section>
   <footer class="entry-footer"><span title='2024-10-15 10:35:29 +0500 +05'>October 15, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Обновление Firefox 131.0.3" href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-131-0-3-20241015-103529/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-51.userapi.com/s/v1/ig2/L2bRR3dgLicbqeeZ0hJap0z3SMwPg0Lz0QuLx_HYDpYi56qooMKciONfOBtQm7Z5dTp023ZEfhdgvki-Cv-fAagr.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>L2bRR3dgLicbqeeZ0hJap0z3SMwPg0Lz0QuLx_HYDpYi56qooMKciONfOBtQm7Z5dTp023ZEfhdgvki-Cv-fAagr.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2024-10-14 23:36:19 +0500 +05'>October 14, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to L2bRR3dgLicbqeeZ0hJap0z3SMwPg0Lz0QuLx_HYDpYi56qooMKciONfOBtQm7Z5dTp023ZEfhdgvki-Cv-fAagr.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20241014-233619/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
