@@ -6,7 +6,17 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:36:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 02:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выявлен UEFI-буткит Bootkitty, подставляющий вредоносный код в загружаемое ядро Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyyavlen-uefi-butkit-bootkitty-podstavlyayuschiy-vredonosnyy-kod-v-zagruzhaemoe-yadro-linu-20241201-023526/</link>
+      <pubDate>Sun, 01 Dec 2024 02:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyyavlen-uefi-butkit-bootkitty-podstavlyayuschiy-vredonosnyy-kod-v-zagruzhaemoe-yadro-linu-20241201-023526/</guid>
+      <description>Исследователи из компании ESET выявили новый буткит &amp;ldquo;Bootkitty&amp;rdquo;, устанавливаемый после взлома системы вместо загрузчика GRUB и применяемый для подстановки в ядро Linux вредоносных компонентов, которые затем позволяют атакующему скрыто контролировать систему и выполнять в ней свои действия. Утверждается, что это первый UEFI-буткит, нацеленный на поражение систем Linux.
+https://www.opennet.ru/opennews/art.shtml?num=62321</description>
+    </item>
+    
     <item>
       <title>zTTjxUXnW3_0g0PPXv_uAxYWBUKdcvA41GT-ALpz92eQcgcPlIgpXkX3SpwNfwhkEBZ41y1IZABlbxPizG1d_QAo.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20241201-013623/</link>
