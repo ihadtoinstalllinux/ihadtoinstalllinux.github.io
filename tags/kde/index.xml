@@ -6,7 +6,16 @@
     <description>Recent content in KDE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Nov 2024 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 13:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В KDE повышена надёжность работы при наличии сбойных виджетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-nadezhnost-raboty-pri-nalichii-sboynyh-vidzhetov-20241130-133513/</link>
+      <pubDate>Sat, 30 Nov 2024 13:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-nadezhnost-raboty-pri-nalichii-sboynyh-vidzhetov-20241130-133513/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. В кодовую базу, на основе которой будет сформирован корректирующий выпуск KDE Plasma 6.2.5, внесено изменение, нацеленное на предотвращение аварийного завершения всей оболочки в случае сбоев в отдельных виджетах. Некоторые проблемы в виджетах, из-за которых ранее происходили крахи оболочки KDE Plasma, теперь ограничиваются выводом ошибки. Кроме того, проведена работа по повышению надёжности обработки некорректно оформленных файлов с расширением &amp;ldquo;.</description>
+    </item>
+    
     <item>
       <title>Вариант Fedora c KDE получил статус базовой редакции, поддерживаемой на уровне Fedora Workstation с GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/variant-fedora-c-kde-poluchil-status-bazovoy-redakcii-podderzhivaemoy-na-urovne-fedora-wor-20241109-143559/</link>
