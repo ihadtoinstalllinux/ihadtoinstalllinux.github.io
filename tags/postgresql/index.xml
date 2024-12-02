@@ -6,7 +6,17 @@
     <description>Recent content in PostgreSQL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 01:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 10:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Седьмая бета версия OrioleDB, высокопроизводительного движка хранения для PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sedmaya-beta-versiya-orioledb-vysokoproizvoditelnogo-dvizhka-hraneniya-dlya-postgresql-20241202-103526/</link>
+      <pubDate>Mon, 02 Dec 2024 10:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sedmaya-beta-versiya-orioledb-vysokoproizvoditelnogo-dvizhka-hraneniya-dlya-postgresql-20241202-103526/</guid>
+      <description>Представлена бета-версия движка хранения OrioleDB beta7 и опубликованы результаты новых тестов, демонстрирующих значительное повышение производительности по сравнению с традиционным PostgreSQL. В версии beta7 были внедрены оптимизации, направленные на улучшение работы с многопоточными нагрузками и ускорение операций чтения и записи. Первый стабильный релиз OrioleDB планируется сформировать в 2025 году. Движок написан на языке Си и распространяется под лицензией PostgreSQL, похожей на лицензии BSD и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62327</description>
+    </item>
+    
     <item>
       <title>Уязвимость в PostgreSQL, позволяющая выполнить код с правами рабочего процесса</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postgresql-pozvolyayuschaya-vypolnit-kod-s-pravami-rabochego-processa-20241116-013514/</link>
