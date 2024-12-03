@@ -154,6 +154,18 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в эталонных реализациях кодеков AV1 и VP8/VP9
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В развиваемой альянсом Open Media (AOMedia) библиотеке libaom, предоставляющей эталонную реализацию формата кодирования видео AV1, выявлена критическая уязвимость (CVE-2024-5171), приводящая к целочисленному переполнению и записи в область вне границ буфера при обработке слишком больших значений в некоторых параметрах. Аналогичная уязвимость (CVE-2024-5197) выявлена в библиотеке libvpx с реализацией кодеков VP8 и VP9. Проблемы устранены в обновлениях libaom 3.9.0 и libvpx 1.14.1. В дистрибутивах уязвимости пока остаются неисправленными (Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD)....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-06-06 13:35:30 +0500 +05'>June 6, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в эталонных реализациях кодеков AV1 и VP8/VP9" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-etalonnyh-realizaciyah-kodekov-av1-i-vp8-vp9-20240606-133530/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Google добавит в Chrome OS технологию облачного выполнения классических приложений
     </h2>
   </header>
@@ -201,19 +213,6 @@ https://www.opennet.ru/opennews/art.shtml?num=61321</p>
   </section>
   <footer class="entry-footer"><span title='2024-06-06 02:35:53 +0500 +05'>June 6, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Опубликован дистрибутив для исследования безопасности Kali Linux 2024.2" href="https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-dlya-issledovaniya-bezopasnosti-kali-linux-2024-2-20240606-023553/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск медиаплеера VLC 3.0.21
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликован выпуск медиапроигрывателя VLC 3.0.21, в котором устранена потенциальная уязвимость (CVE не присвоен), приводящая к записи данных в область памяти за границей буфера при разборе некорректно оформленных данных в обработчике MMS (Microsoft Media Server). Уязвимость теоретически может быть эксплуатирована при попытке загрузки контента с вредоносных серверов, используя URL “mms://”.
-https://www.opennet.ru/opennews/art.shtml?num=61319</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-06-06 01:35:27 +0500 +05'>June 6, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск медиаплеера VLC 3.0.21" href="https://ihadtoinstalllinux.github.io/posts/vypusk-mediapleera-vlc-3-0-21-20240606-013527/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
