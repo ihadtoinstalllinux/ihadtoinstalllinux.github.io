@@ -6,7 +6,16 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 11:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 20:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз минималистичного дистрибутива Alpine Linux 3.21</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-21-20241205-203539/</link>
+      <pubDate>Thu, 05 Dec 2024 20:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-distributiva-alpine-linux-3-21-20241205-203539/</guid>
+      <description>Доступен релиз Alpine Linux 3.21, минималистичного дистрибутива, построенного на базе системной библиотеки Musl и набора утилит BusyBox. Дистрибутив отличается повышенными требованиями к обеспечению безопасности и собран с защитой SSP (Stack Smashing Protection). В качестве системы инициализации используется OpenRC, для управления пакетами применяется собственный пакетный менеджер apk. Alpine применяется для формирования официальных образов контейнеров Docker и используется в проекте PostmarketOS. Загрузочные iso-образы (x86_64, x86, armhf, aarch64, armv7, ppc64le, s390x, riscv64 и loongarch64) подготовлены в шести вариантах: стандартном (240 МБ), загружаемом по сети (258 МБ), расширенном (953 МБ), для виртуальных машин (63 MB) и для гипервизора Xen (1 ГБ).</description>
+    </item>
+    
     <item>
       <title>FbhaiJlHI8X63YXAMnAb9le4UAtqRphNhMNd5qC_6g4_LayiJ6b1rzMT9o78edbuSUyXFvZeCjJyB9Chn1Et1vs9.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20241205-113531/</link>
