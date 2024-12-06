@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vanir on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vanir/</link>
+    <description>Recent content in Vanir on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 19:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vanir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google опубликовал Vanir, статический анализатор для выявления неисправленных уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-vanir-staticheskiy-analizator-dlya-vyyavleniya-neispravlennyh-uyazvimos-20241206-193546/</link>
+      <pubDate>Fri, 06 Dec 2024 19:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-opublikoval-vanir-staticheskiy-analizator-dlya-vyyavleniya-neispravlennyh-uyazvimos-20241206-193546/</guid>
+      <description>Компания Google представила новый открытый проект Vanir, развивающий статический анализатор для автоматического выявления не применённых к коду патчей, устраняющих уязвимости. Vanir использует базу сигнатур с информацией об известных уязвимостях и патчах для устранения этих уязвимостей. Подобная БД ведётся Google с июля 2020 года и охватывает 95% уязвимостей в проектах, связанных с платформой Android, включая ядро Linux. В настоящее время поддерживается проверка исходного кода на языках C, C++ и Java. Код Vanir написан на языках С++ и Python, и распространяется под лицензией BSD.</description>
+    </item>
+    
+  </channel>
+</rss>
