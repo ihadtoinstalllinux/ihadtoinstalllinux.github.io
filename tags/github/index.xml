@@ -6,7 +6,17 @@
     <description>Recent content in GitHub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2024 13:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Dec 2024 17:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ошибка в обработчике GitHub Actions привела к публикации вредоносных релизов Ultralytics</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</link>
+      <pubDate>Sat, 07 Dec 2024 17:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</guid>
+      <description>Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics, применяемой для решения задач компьютерного зрения, таких как определение объектов на изображениях и сегментирование изображений. После получения доступа к репозиторию атакующие опубликовали в каталоге PyPI несколько новых релизов Ultralytics, включающих вредоносные изменения для майнинга криптовалют. За последний месяц библиотека Ultralytics была загружена из каталога PyPI более 6.4 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=62365</description>
+    </item>
+    
     <item>
       <title>Инициатива GitHub по финансированию повышения безопасности открытых проектов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-github-po-finansirovaniyu-povysheniya-bezopasnosti-otkrytyh-proektov-20241121-133559/</link>
