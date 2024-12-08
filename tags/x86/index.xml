@@ -6,7 +6,16 @@
     <description>Recent content in x86 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Dec 2024 17:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 22:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Линус Торвальдс раскритиковал попытки привязки к версиям микроархитектуры x86_64</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-raskritikoval-popytki-privyazki-k-versiyam-mikroarhitektury-x86-64-20241208-223518/</link>
+      <pubDate>Sun, 08 Dec 2024 22:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-raskritikoval-popytki-privyazki-k-versiyam-mikroarhitektury-x86-64-20241208-223518/</guid>
+      <description>В ответ на присланный для ядра Linux патч с поддержкой ключей компилятора, указывающих &amp;ldquo;версию&amp;rdquo; микроархитектуры x86_64 (microarchitecture level), Линус Торвальдс высказал довольно жёсткую и технически обоснованную критику насчёт данной инициативы. Под версиями подразумеваются упоминаемые компаниями AMD, Intel, Red Hat и SUSE срезы состояния микроархитектуры, охватывающие определённые наборы расширений, например, x86-64-v3 подразумевает наличие расширений AVX, AVX2, BMI2, FMA, LZCNT, MOVBE и SXSAVE, а x86-64-v4 - AVX512F, AVX512BW, AVX512CD, AVX512DQ и AVX512VL.</description>
+    </item>
+    
     <item>
       <title>Выпуск эмулятора FEX 2412, позволяющего запускать x86-программы на системах ARM64</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-emulyatora-fex-2412-pozvolyayuschego-zapuskat-x86-programmy-na-sistemah-arm64-20241204-173538/</link>
