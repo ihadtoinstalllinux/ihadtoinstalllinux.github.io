@@ -6,7 +6,17 @@
     <description>Recent content in OpenWrt on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2024 01:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 19:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости, позволяющие подменить образы и выполнить код на ASU-серверах проекта OpenWrt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-podmenit-obrazy-i-vypolnit-kod-na-asu-serverah-proekta-openwrt-20241208-193514/</link>
+      <pubDate>Sun, 08 Dec 2024 19:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-podmenit-obrazy-i-vypolnit-kod-na-asu-serverah-proekta-openwrt-20241208-193514/</guid>
+      <description>В развиваемом проектом OpenWrt инструментарии ASU (Attended SysUpgrade) выявлены критические уязвимости (CVE-2024-54143), позволяющие скомпрометировать сборочные артефакты, распространяемые через сервис sysupgrade.openwrt.org или сторонние ASU-серверы, и добиться установки модифицированных злоумышленником образов прошивок на системы.
+https://www.opennet.ru/opennews/art.shtml?num=62371</description>
+    </item>
+    
     <item>
       <title>Дистрибутив OpenWrt переходит на пакетный менеджер APK</title>
       <link>https://ihadtoinstalllinux.github.io/posts/distributiv-openwrt-perehodit-na-paketnyy-menedzher-apk-20241117-013600/</link>
