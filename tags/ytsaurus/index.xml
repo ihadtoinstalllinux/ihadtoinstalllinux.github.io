@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YTsaurus on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ytsaurus/</link>
+    <description>Recent content in YTsaurus on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 18:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ytsaurus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Яндекс открыл YTsaurus, платформу для обработки и хранения больших объёмов данных</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-ytsaurus-platformu-dlya-obrabotki-i-hraneniya-bolshih-obemov-dannyh-20230323-183505/</link>
+      <pubDate>Thu, 23 Mar 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-ytsaurus-platformu-dlya-obrabotki-i-hraneniya-bolshih-obemov-dannyh-20230323-183505/</guid>
+      <description>Компания Яндекс объявила об открытии исходных текстов платформы распределённого хранения и обработки больших объёмов данных YTsaurus, поддерживающей манипуляцию данными с использованием парадигмы MapReduce, движка SQL-запросов, распределённой файловой системы и NoSQL хранилища в формате ключ-значение. YTsaurus используется в инфраструктуре Яндекс для эффективного использования вычислительных мощностей суперкомпьютеров компании. Код проекта написан на языках C/C++ и открыт под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58850</description>
+    </item>
+    
+  </channel>
+</rss>

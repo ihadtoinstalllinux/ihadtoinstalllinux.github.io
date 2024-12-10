@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deno on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/deno/</link>
+    <description>Recent content in Deno on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 14:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна платформа Deno 2.0, развиваемая автором Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</link>
+      <pubDate>Thu, 10 Oct 2024 14:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</guid>
+      <description>Опубликован выпуск платформы Deno 2.0, предназначенной для обособленного выполнения серверных приложений на языках JavaScript и TypeScript с использованием движка V8, применяемого в браузерах на основе Chromium. Проект Deno развивает Райан Даль (Ryan Dahl), создатель Node.js, с целью предоставления более защищённого окружения и устранения концептуальных ошибок, допущенных в архитектуре Node.js. Для повышения безопасности обвязка вокруг движка V8 написана на языке Rust, а для обработки запросов в неблокирующем режиме применяется платформа Tokio. Код проекта распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Bun 1.0, более быстрая, чем Deno и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</link>
+      <pubDate>Mon, 11 Sep 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</guid>
+      <description>Представлен первый значительный выпуск платформы Bun, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript. Проект нацелен на использование в качестве прозрачной замены платформы Node.js, поддерживает используемые в Node.js механизмы работы с модулями и обработки зависимостей. Код проекта написан на языках Zig и С++, и распространяется под лицензией MIT. Для выполнения JavaScript задействован JavaScript-движок JavaScriptCore и компоненты проекта WebKit с дополнительными патчами.
+https://www.opennet.ru/opennews/art.shtml?num=59738</description>
+    </item>
+    
+  </channel>
+</rss>

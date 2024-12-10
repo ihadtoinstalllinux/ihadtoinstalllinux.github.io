@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PuzzleFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/puzzlefs/</link>
+    <description>Recent content in PuzzleFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 18:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/puzzlefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Cisco предложила файловую систему PuzzleFS для ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cisco-predlozhila-faylovuyu-sistemu-puzzlefs-dlya-yadra-linux-20230609-183508/</link>
+      <pubDate>Fri, 09 Jun 2023 18:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cisco-predlozhila-faylovuyu-sistemu-puzzlefs-dlya-yadra-linux-20230609-183508/</guid>
+      <description>Компания Cisco предложила новую файловую систему PuzzleFS, реализованную в виде модуля для ядра Linux, написанного на языке Rust. ФС рассчитана на использование для размещения изолированных контейнеров и продолжает развитие идей, предложенных в ФС Atomfs. Реализация пока находится на стадии прототипа, поддерживает сборку с веткой ядра Linux rust-next и открыта под лицензиями Apache 2.0 и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59271</description>
+    </item>
+    
+  </channel>
+</rss>

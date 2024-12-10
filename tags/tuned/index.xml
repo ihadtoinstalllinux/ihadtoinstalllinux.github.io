@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tuned on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tuned/</link>
+    <description>Recent content in tuned on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tuned/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в tuned, позволяющая выполнить код с правами root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-tuned-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20241128-203606/</link>
+      <pubDate>Thu, 28 Nov 2024 20:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-tuned-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20241128-203606/</guid>
+      <description>В развиваемом компанией Red Hat фоновом процессе tuned, выполняющем автоматическую оптимизацию настроек оборудования и ядра в зависимости от текущей нагрузки, выявлена уязвимость (CVE-2024-52336), позволяющая локальному непривилегированному пользователю выполнить любые команды с правами root.
+https://www.opennet.ru/opennews/art.shtml?num=62307</description>
+    </item>
+    
+  </channel>
+</rss>

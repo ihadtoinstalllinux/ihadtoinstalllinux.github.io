@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NIST on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nist/</link>
+    <description>Recent content in NIST on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2024 10:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIST стандартизировал три алгоритма постквантового шифрования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nist-standartiziroval-tri-algoritma-postkvantovogo-shifrovaniya-20240814-103547/</link>
+      <pubDate>Wed, 14 Aug 2024 10:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nist-standartiziroval-tri-algoritma-postkvantovogo-shifrovaniya-20240814-103547/</guid>
+      <description>Национальный институт стандартов и технологий США (NIST) представил первые три стандарта, определяющие криптоалгоритмы, стойкие к подбору на квантовом компьютере. Первый стандартизированный алгоритм (CRYSTALS-Kyber) определяет способ инкапсуляции ключей и предназначен для шифрования обмена данными, а два других (CRYSTALS-Dilithium и Sphincs+) реализуют варианты формирования цифровых подписей, которые могут использоваться для решения задач, связанных с аутентификацией. Для того, чтобы избежать путаницы стандартизированные варианты алгоритмов переименованы: CRYSTALS-Kyber в ML-KEM, CRYSTALS-Dilithium в ML-DSA, а Sphincs+ в SLH-DSA.</description>
+    </item>
+    
+  </channel>
+</rss>

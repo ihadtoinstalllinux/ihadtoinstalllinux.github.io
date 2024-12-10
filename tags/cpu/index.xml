@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cpu/</link>
+    <description>Recent content in CPU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 22:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инженер из AMD предложил упростить в ядре Linux управление блокировками уязвимостей CPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-predlozhil-uprostit-v-yadre-linux-upravlenie-blokirovkami-uyazvimostey-cpu-20240917-223529/</link>
+      <pubDate>Tue, 17 Sep 2024 22:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-predlozhil-uprostit-v-yadre-linux-upravlenie-blokirovkami-uyazvimostey-cpu-20240917-223529/</guid>
+      <description>Так как число поддерживаемых в ядре Linux режимов для противостояния уязвимостям в CPU достигло 15 и перечисление всех уязвимостей в командной строке ядра стало довольно сложной задачей, разработчик ядра из компании AMD предложил перейти от настройки блокировки конкретных уязвимостей к выбору блокировки векторов атаки.
+https://www.opennet.ru/opennews/art.shtml?num=61876</description>
+    </item>
+    
+    <item>
+      <title>Sinkclose - уязвимость в CPU AMD, позволяющая получить доступ к SMM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</link>
+      <pubDate>Sat, 10 Aug 2024 18:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</guid>
+      <description>Исследователи из компании IOActive выявили уязвимость (CVE-2023-31315) в процессорах AMD, которая при привилегированном локальном доступе к системе позволяет изменить конфигурацию SMM (System Management Mode, Ring -2), даже если включён механизм блокировки SMM (SMM Lock), а также потенциально даёт возможность добиться выполнения кода на уровне SMM. Уровень SMM, имеющий более высокий приоритет, чем режим гипервизора и нулевое кольцо защиты, позволяет получить неограниченный доступ ко всей системной памяти и может использоваться для контроля за операционной системой.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость GhostWrite, предоставляющая полный доступ к физической памяти на CPU RISC-V XuanTie</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</link>
+      <pubDate>Thu, 08 Aug 2024 12:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали результаты исследования защищённости процессоров на базе архитектуры RISC-V и раскрыли сведения об уязвимости, получившей кодовое имя GhostWrite. Уязвимость затрагивает RISC-V-процессоры XuanTie C910, производимые китайской компанией T-Head (подразделение Alibaba) и развиваемые в форме открытых проектов. Уязвимость даёт возможность атакующему, имеющему непривилегированный ограниченный доступ к системе, добиться чтения и записи в любые области физической памяти, а также получить доступ к управлению периферийными устройствами, такими как сетевые карты, использующими MMIO (Memory-Mapped Input/Output).</description>
+    </item>
+    
+    <item>
+      <title>Indirector - новая микроархитектурная атака, затрагивающая CPU Intel Raptor Lake и Alder Lake</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/indirector-novaya-mikroarhitekturnaya-ataka-zatragivayuschaya-cpu-intel-raptor-lake-i-alde-20240704-123542/</link>
+      <pubDate>Thu, 04 Jul 2024 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/indirector-novaya-mikroarhitekturnaya-ataka-zatragivayuschaya-cpu-intel-raptor-lake-i-alde-20240704-123542/</guid>
+      <description>Исследователи из Калифорнийского университета в Сан-Диего представили новый метод атаки на микроархитектурные структуры процессоров Intel, применимый среди прочего к CPU на базе микроархитектур Raptor Lake и Alder Lake. Атака, которая получила кодовое имя Indirector, позволяет добиться изменения хода спекулятивного выполнения инструкций в других процессах и на других уровнях привилегий (например в ядре или другой виртуальной машине), выполняемых в одном потоке CPU с кодом атакующего. В качестве демонстрации работы метода подготовлен прототип эксплоита, позволяющий определить раскладку адресов памяти для обхода механизма защиты ASLR (Address Space Layout Randomization).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в UEFI-прошивках Phoenix, затрагивающая многие устройства с CPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</link>
+      <pubDate>Mon, 24 Jun 2024 18:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</guid>
+      <description>В UEFI-прошивках Phoenix SecureCore, используемых на многих ноутбуках, ПК и серверах с процессорами Intel, выявлена уязвимость (CVE-2024-0762), позволяющая при наличии доступа к системе добиться выполнения кода на уровне прошивки. Уязвимость может использоваться после успешного совершения атаки на систему для оставления в прошивке бэкдора, работающего над операционной системой, обходящего механизмы обеспечения безопасности ОС, незаметного для программ определения вредоносного ПО и сохраняющего своё присутствие после переустановки ОС.
+https://www.opennet.ru/opennews/art.shtml?num=61432</description>
+    </item>
+    
+    <item>
+      <title>TikTag - атака на механизм спекулятивного выполнения в CPU ARM, позволяющая обойти защиту MemTag</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tiktag-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-cpu-arm-pozvolyayuschaya-oboyti-zas-20240618-113551/</link>
+      <pubDate>Tue, 18 Jun 2024 11:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tiktag-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-cpu-arm-pozvolyayuschaya-oboyti-zas-20240618-113551/</guid>
+      <description>Группа исследователей из Сеульского университета и компании Samsung разработала технику атаки на процессоры ARM, получившую кодовое имя TikTag, которую можно использовать для обхода аппаратного механизма защиты MemTag (MTE, Memory Tagging Extension), присутствующего в чипах на базе архитектуры ARMv8.5-A. Атака позволяет определить содержимое тегов TikTag для произвольных адресов памяти из-за утечек данных, возникающих в результате спекулятивного выполнения инструкций CPU.
+https://www.opennet.ru/opennews/art.shtml?num=61389</description>
+    </item>
+    
+    <item>
+      <title>Новый вариант атаки BHI на CPU Intel, позволяющий обойти защиту в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-variant-ataki-bhi-na-cpu-intel-pozvolyayuschiy-oboyti-zaschitu-v-yadre-linux-20240411-133512/</link>
+      <pubDate>Thu, 11 Apr 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-variant-ataki-bhi-na-cpu-intel-pozvolyayuschiy-oboyti-zaschitu-v-yadre-linux-20240411-133512/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета.
+https://www.opennet.ru/opennews/art.shtml?num=60963</description>
+    </item>
+    
+    <item>
+      <title>В Palemoon планируют повысить требования к CPU в готовых сборках</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-palemoon-planiruyut-povysit-trebovaniya-k-cpu-v-gotovyh-sborkah-20240324-153550/</link>
+      <pubDate>Sun, 24 Mar 2024 15:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-palemoon-planiruyut-povysit-trebovaniya-k-cpu-v-gotovyh-sborkah-20240324-153550/</guid>
+      <description>Разработчики браузера Palemoon планируют повысить требования к CPU в готовых сборках. В качестве причины указывается желание задействовать процессорные инструкции AVX, чтобы значительно ускорить работу браузера. Изменение запланировано на лето 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=60837</description>
+    </item>
+    
+    <item>
+      <title>SLAM - атака на CPU Intel, AMD и ARM, позволяющая определить содержимое памяти</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</link>
+      <pubDate>Wed, 06 Dec 2023 22:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета представила новую технику атаки SLAM (Spectre Linear Address Masking), предлагающую новый способ эксплуатации микроархитектурных уязвимостей класса Spectre, в котором утечка данных происходит при трансляции неканонических адресов, а для обхода проверок каноничности привлекаются предоставляемые в новых процессорах расширения для маскировки линейных адресов. Исследователями опубликован инструментарий с реализацией метода и предложена демонстрация, показывающая как можно извлечь из памяти ядра данные, соответствующие определённой маске (показано как за несколько десятков секунд в Ubuntu выделить из памяти ядра строку с хэшем пароля пользователя root).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD, позволяющая обойти механизм защиты SEV (Secure Encrypted Virtualization)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</link>
+      <pubDate>Wed, 15 Nov 2023 15:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали новый метод атаки CacheWarp, позволяющий скомпрометировать механизм защиты AMD SEV (Secure Encrypted Virtualization), применяемый в системах виртуализации для защиты виртуальных машин от вмешательства со стороны гипервизора или администратора хост системы. Предложенный метод позволяет злоумышленнику, имеющему доступ к гипервизору, добиться выполнения стороннего кода и повышения привилегий в виртуальной машине, защищённой при помощи AMD SEV.
+https://www.opennet.ru/opennews/art.shtml?num=60118</description>
+    </item>
+    
+    <item>
+      <title>iLeakage - метод эксплуатации уязвимости в CPU Apple через браузеры на базе движка WebKit</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ileakage-metod-ekspluatacii-uyazvimosti-v-cpu-apple-cherez-brauzery-na-baze-dvizhka-webkit-20231027-143516/</link>
+      <pubDate>Fri, 27 Oct 2023 14:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ileakage-metod-ekspluatacii-uyazvimosti-v-cpu-apple-cherez-brauzery-na-baze-dvizhka-webkit-20231027-143516/</guid>
+      <description>Исследователи из Технологический института Джорджии, Мичиганского университета и Рурского университета разработали технику атаки iLeakage, позволяющую эксплуатировать уязвимость в ARM-процессорах Apple серий &amp;ldquo;A&amp;rdquo; и &amp;ldquo;M&amp;rdquo; через открытие в браузере специально оформленной страницы. Подготовленные исследователями прототипы эксплоитов позволяют при запуске JavaScript-кода в браузере узнать содержимое сайтов, открытых в других вкладках, например, продемонстрирована возможность определения текста письма, открытого во вкладке с Gmail, просмотра истории YouTube и извлечения пароля, подставленного менеджером паролей LastPass в форму входа в Instagram.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD Zen1, приводящая к утечке информации о прошлых операциях при делении на ноль</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</link>
+      <pubDate>Tue, 26 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</guid>
+      <description>В процессорах AMD выявлена уязвимость (CVE-2023-20588), приводящая к утечке данных, используемых в ходе выполнения операций на том же ядре CPU при обработке процессором исключения #DE (Divide Error), возникающего при попытке деления на ноль. Уязвимость проявляется только в процессорах AMD на базе микроархитектуры Zen1, например, в сериях AMD EPYC 7001, AMD Athlon 3000, AMD Ryzen 3000 с GPU Radeon, AMD Athlon PRO 3000 c GPU Radeon Vega и AMD Ryzen PRO 3000 с GPU Radeon Vega.</description>
+    </item>
+    
+    <item>
+      <title>Реализована загрузка Linux на ПК Commodore 64 с восьмиразрядным CPU и 64КБ ОЗУ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/realizovana-zagruzka-linux-na-pk-commodore-64-s-vosmirazryadnym-cpu-i-64kb-ozu-20230906-163505/</link>
+      <pubDate>Wed, 06 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/realizovana-zagruzka-linux-na-pk-commodore-64-s-vosmirazryadnym-cpu-i-64kb-ozu-20230906-163505/</guid>
+      <description>Продемонстрирована возможность загрузки Linux на персональном компьютере Commodore 64, выпускавшемся в 80-х годах прошлого века. Для организации запуска Linux на устройстве с разработанным в 1975 году восьмиразрядным микропроцессором MOS 6502 был задействован semu, минималистичный эмулятор системы с процессором RISC-V (RV32IMA), способной выполнить ядро и компоненты пользовательского окружения Linux. Сборка эмулятора для работы на CPU серии MOS 65xx была произведена при помощи инструментария llvm-mos, основанного на LLVM и позволяющего собирать для устаревших процессоров современные программы, написанные на С/C++.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD, приводящая к переполнению микроархитектурного стека</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-privodyaschaya-k-perepolneniyu-mikroarhitekturnogo-steka-20230809-193505/</link>
+      <pubDate>Wed, 09 Aug 2023 19:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-privodyaschaya-k-perepolneniyu-mikroarhitekturnogo-steka-20230809-193505/</guid>
+      <description>Группа исследователей из Швейцарской высшей технической школы Цюриха выявила новую уязвимость (CVE-2023-20569) в реализации микроархитектурных структур процессоров AMD, получившую кодовое имя Inception. Уязвимость позволяет локальному непривилегированному пользователю определить содержимое памяти процессов других пользователей. При использовании систем виртуализации уязвимость даёт возможность извлечь информацию из других гостевых систем.
+https://www.opennet.ru/opennews/art.shtml?num=59574</description>
+    </item>
+    
+    <item>
+      <title>Downfall - атака на CPU Intel, приводящая к утечке данных из других процессов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</link>
+      <pubDate>Wed, 09 Aug 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</guid>
+      <description>Даниэль Могими (Daniel Moghimi) из компании Google, занимающийся исследовательской деятельностью в Калифорнийском университете в Сан-Диего, выявил новую уязвимость (CVE-2022-40982) в системе спекулятивного выполнения инструкций процессоров Intel, позволяющую определить содержимое векторных регистров XMM, YMM и ZMM, до этого использованных в других процессах при выполнении инструкций AVX (Advanced Vector Extensions) на том же ядре CPU. Уязвимости присвоено имя Downfall, а техника атаки названа Gather Data Sampling (GDS).
+https://www.opennet.ru/opennews/art.shtml?num=59571</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в CPU AMD EPYC 7002 приводит к зависанию после 1044 дней работы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</link>
+      <pubDate>Sat, 03 Jun 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</guid>
+      <description>В поставляемой с 2018 года серии серверных процессоров AMD EPYC 7002 (&amp;ldquo;Rome&amp;rdquo;), построенных на базе микроархитектуры &amp;ldquo;Zen 2&amp;rdquo;, выявлена ошибка, в результате которой процессор зависает после 1044 дней работы без сброса состояния (перезагрузки системы). В качестве обходных путей блокирования проблемы рекомендуется отключить поддержку энергосберегающего режима CC6 или перезагружать сервер чаще, чем раз в 1044 дней (примерно 2 года 10 месяцев).
+https://www.opennet.ru/opennews/art.shtml?num=59243</description>
+    </item>
+    
+    <item>
+      <title>Атака PMFault, позволяющая вывести из строя CPU на некоторых серверных системах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-pmfault-pozvolyayuschaya-vyvesti-iz-stroya-cpu-na-nekotoryh-servernyh-sistemah-20230517-003505/</link>
+      <pubDate>Wed, 17 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-pmfault-pozvolyayuschaya-vyvesti-iz-stroya-cpu-na-nekotoryh-servernyh-sistemah-20230517-003505/</guid>
+      <description>Исследователи из Бирмингемского университета, ранее известные разработкой атак Plundervolt и VoltPillager, выявили уязвимость (CVE-2022-43309) в некоторых серверных материнских платах, позволяющую физически вывести из строя CPU без возможности его последующего восстановления. Уязвимость, которая получила кодовое имя PMFault, может быть использована для повреждения серверов, к которым у атакующего нет физического доступа, но есть привилегированный доступ к операционной системе, полученный, например, в результате эксплуатации неисправленной уязвимости или перехвата учётных данных администратора.
+https://www.opennet.ru/opennews/art.shtml?num=59136</description>
+    </item>
+    
+  </channel>
+</rss>

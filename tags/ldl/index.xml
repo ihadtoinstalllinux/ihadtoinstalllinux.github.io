@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LDL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ldl/</link>
+    <description>Recent content in LDL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 21:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ldl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована мультимедийная библиотека LDL, оптимизированная для маломощных систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-multimediynaya-biblioteka-ldl-optimizirovannaya-dlya-malomoschnyh-sistem-20231203-213550/</link>
+      <pubDate>Sun, 03 Dec 2023 21:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-multimediynaya-biblioteka-ldl-optimizirovannaya-dlya-malomoschnyh-sistem-20231203-213550/</guid>
+      <description>Доступен первый выпуск мультимедийной библиотеки LDL (Little DirectMedia Layer), разработанной с расчётом на возможность работы на устаревшем оборудовании. Библиотека предоставляет простой кроссплатформенный API для работы с 2D-графикой, управления окнами и событиями ОС, пригодный для разработки простых игр и мультимедийных приложений. На практике библиотека уже используется при разработке альтернативного открытого игрового движка для игры Arcanum. Код проекта написан на языке С++ 98 и распространяется под лицензией BSL 1.0 (Boost Software License).</description>
+    </item>
+    
+  </channel>
+</rss>

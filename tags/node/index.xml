@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Node on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/node/</link>
+    <description>Recent content in Node on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2024 14:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована платформа Node.js 23.0 с начальной поддержкой языка TypeScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-platforma-node-js-23-0-s-nachalnoy-podderzhkoy-yazyka-typescript-20241017-143554/</link>
+      <pubDate>Thu, 17 Oct 2024 14:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-platforma-node-js-23-0-s-nachalnoy-podderzhkoy-yazyka-typescript-20241017-143554/</guid>
+      <description>Состоялся релиз Node.js 23.0.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 23.0 отнесён к промежуточным веткам, сопровождение которых осуществляется в течение 7 месяцев (до июня 2025 года). В ближайшие дни будет завершена стабилизация ветки Node.js 22, которая 29 октября получит статус LTS и будет поддерживаться до апреля 2027 года. Поддержка прошлых LTS-веток Node.js 20.x и 18.x продлится до апреля 2026 и 2025 годов соответственно.
+https://www.opennet.ru/opennews/art.shtml?num=62066</description>
+    </item>
+    
+    <item>
+      <title>Доступна платформа Deno 2.0, развиваемая автором Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</link>
+      <pubDate>Thu, 10 Oct 2024 14:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-deno-2-0-razvivaemaya-avtorom-node-js-20241010-143518/</guid>
+      <description>Опубликован выпуск платформы Deno 2.0, предназначенной для обособленного выполнения серверных приложений на языках JavaScript и TypeScript с использованием движка V8, применяемого в браузерах на основе Chromium. Проект Deno развивает Райан Даль (Ryan Dahl), создатель Node.js, с целью предоставления более защищённого окружения и устранения концептуальных ошибок, допущенных в архитектуре Node.js. Для повышения безопасности обвязка вокруг движка V8 написана на языке Rust, а для обработки запросов в неблокирующем режиме применяется платформа Tokio. Код проекта распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>В Node.js добавлена экспериментальная поддержка языка TypeScript</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-node-js-dobavlena-eksperimentalnaya-podderzhka-yazyka-typescript-20240725-173546/</link>
+      <pubDate>Thu, 25 Jul 2024 17:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-node-js-dobavlena-eksperimentalnaya-podderzhka-yazyka-typescript-20240725-173546/</guid>
+      <description>В кодовую базу JavaScript-платформы Node.js принято изменение, добавляющее возможность выполнения файлов с кодом на языке программирования TypeScript. Поддержка языка TypeScript включается при помощи опции &amp;ldquo;&amp;ndash;experimental-strip-types&amp;rdquo; и сводится к очистке специфичных для данного языка определений типов, т.е. преобразованию перед выполнением исходного кода в JavaScript. Протестировать новую возможность можно воспользовавшись сегодняшними ночными сборками Node.js 23.
+https://www.opennet.ru/opennews/art.shtml?num=61607</description>
+    </item>
+    
+    <item>
+      <title>Раздутый отчёт об уязвимости вынудил разработчика node-ip перевести репозиторий в архивный режим</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</link>
+      <pubDate>Mon, 01 Jul 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</guid>
+      <description>Фёдор Индутный (Fedor Indutny), автор платформы Io.js (форк Node.js), входящий в технический комитет, управляющий разработкой Node.js, попытался привлечь внимание к проблеме с назначением CVE-идентификаторов некорректным отчётам об уязвимостям, не соответствующим действительности или неадекватно представляющим уровень опасности. Номер CVE, применяемый для идентификации уязвимости, присваивается без должной проверки и без консультации с разработчиками уязвимых программ, что приводит к появлению злоупотреблений, в которых под видом опасных уязвимостей преподносятся несущественные ошибки, на деле не представляющие угрозу безопасности.</description>
+    </item>
+    
+    <item>
+      <title>Доступна JavaScript-платформа Node.js 22.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-javascript-platforma-node-js-22-0-0-20240425-123511/</link>
+      <pubDate>Thu, 25 Apr 2024 12:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-javascript-platforma-node-js-22-0-0-20240425-123511/</guid>
+      <description>Состоялся релиз Node.js 22.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 22.0 отнесён к веткам с длительным сроком поддержки, но данный статус будет присвоен только в октябре, после проведения стабилизации. Поддержка Node.js 22.x будет осуществляться до 30 апреля 2027 года. Сопровождение прошлой LTS-ветки Node.js 20.x продлится до апреля 2026 года, а позапрошлой LTS-ветки 18.x до апреля 2025 года. Сопровождение промежуточной ветки Node.js 21.x будет прекращено 1 июня 2024 года.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Node.js и libuv</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</link>
+      <pubDate>Fri, 16 Feb 2024 22:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-node-js-i-libuv-20240216-223528/</guid>
+      <description>Доступны корректирующие выпуски серверной JavaScript-платформы Node.js 21.6.2, 20.11.1, 18.19.1, в которых исправлено 8 уязвимостей, из которых 4 присвоен высокий уровень опасности.
+https://www.opennet.ru/opennews/art.shtml?num=60612</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 21.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</link>
+      <pubDate>Sat, 21 Oct 2023 17:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-21-0-20231021-173514/</guid>
+      <description>Состоялся релиз Node.js 21.0, платформы для выполнения сетевых приложений на языке JavaScript. Поддержка ветки Node.js 21.0 будет осуществляться в течение 6 месяцев. В ближайшие дни будет завершена стабилизация ветки Node.js 20, которая получит статус LTS и будет поддерживаться до апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.0 продлится до сентября 2025 года, а позапрошлой LTS-ветки 16.0 до апреля 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=59969</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Bun 1.0, более быстрая, чем Deno и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</link>
+      <pubDate>Mon, 11 Sep 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-bun-1-0-bolee-bystraya-chem-deno-i-node-js-20230911-153504/</guid>
+      <description>Представлен первый значительный выпуск платформы Bun, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript, JSX и TypeScript. Проект нацелен на использование в качестве прозрачной замены платформы Node.js, поддерживает используемые в Node.js механизмы работы с модулями и обработки зависимостей. Код проекта написан на языках Zig и С++, и распространяется под лицензией MIT. Для выполнения JavaScript задействован JavaScript-движок JavaScriptCore и компоненты проекта WebKit с дополнительными патчами.
+https://www.opennet.ru/opennews/art.shtml?num=59738</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>Выпуск СУБД AlaSQL 4.0, нацеленной на использование в браузерах и Node.js</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-alasql-4-0-nacelennoy-na-ispolzovanie-v-brauzerah-i-node-js-20230506-133505/</link>
+      <pubDate>Sat, 06 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-subd-alasql-4-0-nacelennoy-na-ispolzovanie-v-brauzerah-i-node-js-20230506-133505/</guid>
+      <description>Доступен выпуск СУБД AlaSQL 4.0, предназначенной для использования в web-приложениях в браузере, в мобильных приложениях на базе web-технологий или в серверных обработчиках на основе платформы Node.js. СУБД оформлена в виде JavaScript-библиотеки и позволяет использовать язык SQL. Поддерживается хранение данных в традиционных реляционных таблицах или в форме вложенных JSON-структур, не требующих жёсткого определения схемы хранения. Для манипуляции с данными из командной строки предоставляется утилита alasql. Код проекта написан на JavaScript и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Доступна серверная JavaScript-платформа Node.js 20.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</link>
+      <pubDate>Wed, 19 Apr 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-servernaya-javascript-platforma-node-js-20-0-20230419-143505/</guid>
+      <description>Состоялся релиз Node.js 20.0, платформы для выполнения сетевых приложений на языке JavaScript. Node.js 20.0 отнесён к веткам с длительным сроком поддержки, но данный статус будет присвоен только в октябре, после проведения стабилизации. Поддержка Node.js 20.x будет осуществляться до 30 апреля 2026 года. Сопровождение прошлой LTS-ветки Node.js 18.x продлится до апреля 2025 года, а позапрошлой LTS-ветки 16.x до сентября 2023 года. Сопровождение LTS-ветки 14.x будет прекращено 30 апреля, а промежуточной ветки Node.</description>
+    </item>
+    
+  </channel>
+</rss>

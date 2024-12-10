@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenVMM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openvmm/</link>
+    <description>Recent content in OpenVMM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Oct 2024 13:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvmm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft открыл код гипервизора OpenVMM и платформы паравиртуализации OpenHCL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-gipervizora-openvmm-i-platformy-paravirtualizacii-openhcl-20241018-133512/</link>
+      <pubDate>Fri, 18 Oct 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-gipervizora-openvmm-i-platformy-paravirtualizacii-openhcl-20241018-133512/</guid>
+      <description>Компания Microsoft объявила об открытии исходных текстов слоя для обеспечения паравиртуализации OpenHCL и монитора виртуальных машин OpenVMM, специально развиваемого для организации работы OpenHCL. Код OpenVMM и OpenHCL написан на языке Rust и распространяется под лицензией MIT. OpenVMM относится к гипервизорам второго уровня, работающим в одном кольце защиты с ядром операционной системы по аналогии с такими продуктами, как VirtualBox и VMware Workstation. Поддерживается работа поверх хост-систем на базе Linux (x86_64), Windows (x86_64, Aarch64) и macOS (x86_64, Aarch64), используя предоставляемые данными ОС API виртуализации KVM, SHV (Microsoft Hypervisor), WHP (Windows Hypervisor Platform) и Hypervisor.</description>
+    </item>
+    
+  </channel>
+</rss>

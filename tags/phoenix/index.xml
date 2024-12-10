@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phoenix on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/phoenix/</link>
+    <description>Recent content in Phoenix on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 18:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/phoenix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в UEFI-прошивках Phoenix, затрагивающая многие устройства с CPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</link>
+      <pubDate>Mon, 24 Jun 2024 18:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</guid>
+      <description>В UEFI-прошивках Phoenix SecureCore, используемых на многих ноутбуках, ПК и серверах с процессорами Intel, выявлена уязвимость (CVE-2024-0762), позволяющая при наличии доступа к системе добиться выполнения кода на уровне прошивки. Уязвимость может использоваться после успешного совершения атаки на систему для оставления в прошивке бэкдора, работающего над операционной системой, обходящего механизмы обеспечения безопасности ОС, незаметного для программ определения вредоносного ПО и сохраняющего своё присутствие после переустановки ОС.
+https://www.opennet.ru/opennews/art.shtml?num=61432</description>
+    </item>
+    
+  </channel>
+</rss>

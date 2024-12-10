@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ASU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/asu/</link>
+    <description>Recent content in ASU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 19:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/asu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости, позволяющие подменить образы и выполнить код на ASU-серверах проекта OpenWrt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-podmenit-obrazy-i-vypolnit-kod-na-asu-serverah-proekta-openwrt-20241208-193514/</link>
+      <pubDate>Sun, 08 Dec 2024 19:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-pozvolyayuschie-podmenit-obrazy-i-vypolnit-kod-na-asu-serverah-proekta-openwrt-20241208-193514/</guid>
+      <description>В развиваемом проектом OpenWrt инструментарии ASU (Attended SysUpgrade) выявлены критические уязвимости (CVE-2024-54143), позволяющие скомпрометировать сборочные артефакты, распространяемые через сервис sysupgrade.openwrt.org или сторонние ASU-серверы, и добиться установки модифицированных злоумышленником образов прошивок на системы.
+https://www.opennet.ru/opennews/art.shtml?num=62371</description>
+    </item>
+    
+  </channel>
+</rss>

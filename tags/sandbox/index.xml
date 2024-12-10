@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sandbox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sandbox/</link>
+    <description>Recent content in sandbox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sandbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость во flatpak, позволяющая обойти  sandbox-изоляцию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</link>
+      <pubDate>Fri, 19 Apr 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</guid>
+      <description>В инструментарии Flatpak, предназначенном для создания самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и изолированных от остальной системы, выявлена уязвимость (CVE-2024-32462). Уязвимость позволяет вредоносному или скомпрометированному приложению, поставляемому в пакете flatpak, обойти установленный режим sandbox-изоляции и получить доступ к файлам в основной системе. Проблема проявляется только в пакетах, использующих порталы Freedesktop (xdg-desktop-portal), применяемые для организации доступа к ресурсам пользовательского окружения из изолированных приложений. Уязвимость устранена в корректирующих обновлениях flatpak 1.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован secimport 0.8 для sandbox-изоляции отдельных Python-модулей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-secimport-0-8-dlya-sandbox-izolyacii-otdelnyh-python-moduley-20230526-133504/</link>
+      <pubDate>Fri, 26 May 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-secimport-0-8-dlya-sandbox-izolyacii-otdelnyh-python-moduley-20230526-133504/</guid>
+      <description>Доступен выпуск инструментария secimport 0.8, позволяющего изолировать определённые Python-модули при их использовании в своих проектах. Код secimport написан на Python, распространяется под лицензией MIT и может работать в Linux, Windows, macOS и Solaris. Для трассировки выполнения и блокирования системных вызовов применяются подсистемы DTrace и eBPF.
+https://www.opennet.ru/opennews/art.shtml?num=59200</description>
+    </item>
+    
+  </channel>
+</rss>

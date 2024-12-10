@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LibGodot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libgodot/</link>
+    <description>Recent content in LibGodot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 12:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libgodot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Библиотека LibGodot для встраивания в приложения сцен, созданных для игрового движка Godot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/biblioteka-libgodot-dlya-vstraivaniya-v-prilozheniya-scen-sozdannyh-dlya-igrovogo-dvizhka-20240414-123523/</link>
+      <pubDate>Sun, 14 Apr 2024 12:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/biblioteka-libgodot-dlya-vstraivaniya-v-prilozheniya-scen-sozdannyh-dlya-igrovogo-dvizhka-20240414-123523/</guid>
+      <description>Мигель де Икаса (Miguel de Icaza), основатель таких проектов, как GNOME, Midnight Commander и Mono, представил инициативу по реализации возможности встраивания в приложения произвольных сцен, подготовленных для игрового движка Godot. Для включения в состав Godot предложена библиотека LibGodot, позволяющая отрисовывать контент, созданный для движка Godot, а также предоставляющая API для управления движком и взаимодействия с контентом. Библиотека поддерживает динамическое и статическое связывание и может использоваться с кодом на C++, Swift, Rust, Python и других языках, для которых созданы обвязки GDExtension.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gsm on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gsm/</link>
+    <description>Recent content in gsm on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 23:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gsm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0-day уязвимость в драйвере n_gsm, позволяющая выполнить код на уровне ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-drayvere-n-gsm-pozvolyayuschaya-vypolnit-kod-na-urovne-yadra-linux-20240412-233537/</link>
+      <pubDate>Fri, 12 Apr 2024 23:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-drayvere-n-gsm-pozvolyayuschaya-vypolnit-kod-na-urovne-yadra-linux-20240412-233537/</guid>
+      <description>В открытом доступе обнаружены два эксплоита, в которых задействована ранее неизвестная уязвимость в драйвере n_gsm, входящем в состав ядра Linux. Уязвимость позволяет непривилегированному локальному пользователю выполнить код на уровне ядра и поднять свои привилегии в системе. CVE-идентификатор не присвоен. Проблема пока остаётся неисправленной.
+https://www.opennet.ru/opennews/art.shtml?num=60980</description>
+    </item>
+    
+  </channel>
+</rss>

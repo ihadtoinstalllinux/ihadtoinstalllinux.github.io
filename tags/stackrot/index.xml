@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>StackRot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/stackrot/</link>
+    <description>Recent content in StackRot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Aug 2023 21:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/stackrot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>НТЦ ИТ РОСА устранил уязвимости StackRot в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-ustranil-uyazvimosti-stackrot-v-yadre-linux-20230808-213517/</link>
+      <pubDate>Tue, 08 Aug 2023 21:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ntc-it-rosa-ustranil-uyazvimosti-stackrot-v-yadre-linux-20230808-213517/</guid>
+      <description>Команда разработчиков НТЦ ИТ РОСА оперативно устранила недавно обнаруженную уязвимость StackRot в ядре Linux и выпустила обновление ядра с устранением проблемы. Пакет kernel-6.1-generic версии 6.1.38-1 появился в репозитории и стал доступен для установки путем штатного обновления системы. Выполненный в ядре Linux 6.1 перевод VMA (Virtual Memory Area) со структуры данных «red-black tree» на «maple tree» привел к появлению уязвимости […]
+https://www.rosalinux.ru/ntcz-it-rosa-ustranil-uyazvimosti-stackrot-v-yadre-linux/</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость StackRot в ядре Linux, позволяющая повысить свои привилегии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-stackrot-v-yadre-linux-pozvolyayuschaya-povysit-svoi-privilegii-20230706-013508/</link>
+      <pubDate>Thu, 06 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-stackrot-v-yadre-linux-pozvolyayuschaya-povysit-svoi-privilegii-20230706-013508/</guid>
+      <description>Выполненный в ядре Linux 6.1 перевод VMA (Virtual Memory Area) со структуры данных &amp;ldquo;red-black tree&amp;rdquo; на &amp;ldquo;maple tree&amp;rdquo; привёл к появлению уязвимости (CVE-2023-3269), позволяющей непривилегированному пользователю добиться выполнения своего кода с правами ядра. Уязвимость, которой присвоено кодовое имя StackRot, проявляется начиная с выпуска ядра 6.1 и устранена в обновлениях 6.4.1, 6.3.11 и 6.1.37.
+https://www.opennet.ru/opennews/art.shtml?num=59385</description>
+    </item>
+    
+  </channel>
+</rss>

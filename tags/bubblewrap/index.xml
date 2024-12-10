@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bubblewrap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bubblewrap/</link>
+    <description>Recent content in Bubblewrap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2024 19:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bubblewrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Bubblewrap 0.11, прослойки для создания изолированных окружений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bubblewrap-0-11-prosloyki-dlya-sozdaniya-izolirovannyh-okruzheniy-20241031-193525/</link>
+      <pubDate>Thu, 31 Oct 2024 19:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bubblewrap-0-11-prosloyki-dlya-sozdaniya-izolirovannyh-okruzheniy-20241031-193525/</guid>
+      <description>Опубликована новая версия инструментария для организации работы изолированных окружений Bubblewrap 0.11, используемого для ограничения отдельных приложений непривилегированных пользователей. На практике Bubblewrap применяется проектом Flatpak в качестве прослойки для изоляции запускаемых из пакетов приложений. Для изоляции используются традиционные для Linux технологии контейнерной виртуализации, основанные на использовании cgroups, пространств имён (namespaces), Seccomp и SELinux. Код проекта написан на языке Си и распространяется под лицензией LGPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=62149</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Bubblewrap 0.9, прослойки для создания изолированных окружений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-bubblewrap-0-9-prosloyki-dlya-sozdaniya-izolirovannyh-okruzheniy-20240327-113545/</link>
+      <pubDate>Wed, 27 Mar 2024 11:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-bubblewrap-0-9-prosloyki-dlya-sozdaniya-izolirovannyh-okruzheniy-20240327-113545/</guid>
+      <description>После года разработки опубликована новая версия инструментария для организации работы изолированных окружений Bubblewrap 0.9, используемого для ограничения отдельных приложений непривилегированных пользователей. На практике Bubblewrap применяется проектом Flatpak в качестве прослойки для изоляции запускаемых из пакетов приложений. Код проекта написан на языке Си и распространяется под лицензией LGPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=60857</description>
+    </item>
+    
+  </channel>
+</rss>

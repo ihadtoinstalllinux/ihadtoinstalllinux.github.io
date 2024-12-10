@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spring on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/spring/</link>
+    <description>Recent content in Spring on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 18:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Spring отказался принимать изменения от разработчиков из РФ из-за санкций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-spring-otkazalsya-prinimat-izmeneniya-ot-razrabotchikov-iz-rf-iz-za-sankciy-20241108-183538/</link>
+      <pubDate>Fri, 08 Nov 2024 18:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-spring-otkazalsya-prinimat-izmeneniya-ot-razrabotchikov-iz-rf-iz-za-sankciy-20241108-183538/</guid>
+      <description>Ахтям Сакаев из компании Яндекс предложил изменение для включения в Java-библиотеку Reactor, связанное с добавлением в объект Flux метода &amp;ldquo;unfold&amp;rdquo; для генерации последовательностей в стиле Scala и Haskell. Несмотря на то, что изменение содержит всего несколько строк кода, поведение которого очевидно, сопровождающие проект отказались принимать изменение по юридическим причинам. Библиотеку Reactor развивает проект Spring, контролируемый компанией VMware, которая год назад была поглощена Broadcom. Майкл Минелла (Michael Minella), занимающий в Broadcom пост директора по развитию открытого проекта Spring, пояснил, что компания Broadcom должна соблюдать экспортные ограничения США и не может принимать изменения от источников из России.</description>
+    </item>
+    
+  </channel>
+</rss>

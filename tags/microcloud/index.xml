@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MicroCloud on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/microcloud/</link>
+    <description>Recent content in MicroCloud on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 17:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/microcloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Canonical представила первый LTS-выпуск инструментария MicroCloud</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-predstavila-pervyy-lts-vypusk-instrumentariya-microcloud-20241120-173537/</link>
+      <pubDate>Wed, 20 Nov 2024 17:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-predstavila-pervyy-lts-vypusk-instrumentariya-microcloud-20241120-173537/</guid>
+      <description>Компания Canonical опубликовала инструментарий управления облачной инфраструктурой MicroCloud 2.1, позволяющий быстро развёртывать на своём оборудовании облачные системы и вычислительные кластеры с общим распределённым хранилищем данных и защищённой виртуальной сетью. MicroCloud 2.1 заявлен как первый LTS-выпуск для которого будет обеспечен длительный цикл поддержки. MicroCloud оформлен в виде snap-пакета, включающего компоненты, необходимые для управление работой узлов кластера. Инструментарий написан на языке Go и распространяется под лицензией AGPL 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=62265</description>
+    </item>
+    
+    <item>
+      <title>Canonical представил MicroCloud, инструментарий для быстрого развёртывания кластеров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/canonical-predstavil-microcloud-instrumentariy-dlya-bystrogo-razvertyvaniya-klasterov-20231118-023518/</link>
+      <pubDate>Sat, 18 Nov 2023 02:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/canonical-predstavil-microcloud-instrumentariy-dlya-bystrogo-razvertyvaniya-klasterov-20231118-023518/</guid>
+      <description>Компания Canonical объявила о готовности инструментария MicroCloud, позволяющего быстро развёртывать на своём оборудовании вычислительные кластеры и облачные системы с общим распределённым хранилищем данных и защищённой виртуальной сетью. Инструментарий оформлен в виде snap-пакета, включающего компоненты, необходимые для управление работой узлов кластера. Коммерческая техническая поддержка решений на базе MicroCloud предоставляется в рамках сервиса Ubuntu Pro, но те, кто может обойтись без поддержки, могут использовать инструментарий без ограничений. Наработки проекта написаны на языке Go и распространяются под лицензией AGPL 3.</description>
+    </item>
+    
+  </channel>
+</rss>

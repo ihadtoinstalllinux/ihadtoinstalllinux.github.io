@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maestro on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/maestro/</link>
+    <description>Recent content in Maestro on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2024 16:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/maestro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен консольный музыкальный проигрыватель Maestro</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-konsolnyy-muzykalnyy-proigryvatel-maestro-20240913-163554/</link>
+      <pubDate>Fri, 13 Sep 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-konsolnyy-muzykalnyy-proigryvatel-maestro-20240913-163554/</guid>
+      <description>Проектом Maestro развивается консольный музыкальный проигрыватель, нацеленный на создание максимально функционального инструмента для прослушивания музыки в консоли. Поддерживаются такие возможности, как работа со списками воспроизведения, проигрывание музыки с сервисов YouTube, YouTube Music и Spotify, визуализация звуковой волны в терминале, загрузка, отображение и перевод на другие языки текстов песен, создание клипов для воспроизведения только части композиции, интеграция с Discord (публикация статусов с прослушиваемой композицией и стриминг на другие системы через Discord). Код проекта написан на языке Python и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Ядро Maestro, написанное на Rust и частично совместимое с Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</link>
+      <pubDate>Thu, 04 Jan 2024 17:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yadro-maestro-napisannoe-na-rust-i-chastichno-sovmestimoe-s-linux-20240104-173521/</guid>
+      <description>Представлен проект по разработке на языке Rust легковесного Unix-подобного ядра, реализующего подмножество системных вызовов ядра Linux, достаточное для создания типовых рабочих окружений. Проект был создан в 2018 году и вначале использовал язык Си, но в 2020 году был полностью перезапущен с нуля с учётом накопленного опыта и перешёл на Rust для снижения вероятности совершения ошибок, возникающих при работе с памятью. Код ядра распространяется под лицензией MIT. Помимо ядра проектом на языке Rust также развиваются X11-сервер, пакетный менеджер, загрузчик, инсталлятор, набор утилит и другие компоненты, необходимые для построения операционной системы.</description>
+    </item>
+    
+  </channel>
+</rss>

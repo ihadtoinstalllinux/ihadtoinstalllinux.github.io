@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SOCKS5 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/socks5/</link>
+    <description>Recent content in SOCKS5 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2023 18:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/socks5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Переполнение буфера в curl и libcurl, проявляющееся при обращении через SOCKS5-прокси</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-curl-i-libcurl-proyavlyayuscheesya-pri-obraschenii-cherez-socks5-pro-20231011-183504/</link>
+      <pubDate>Wed, 11 Oct 2023 18:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-curl-i-libcurl-proyavlyayuscheesya-pri-obraschenii-cherez-socks5-pro-20231011-183504/</guid>
+      <description>В утилите для получения и отправки данных по сети curl и развивающейся параллельно библиотеке libcurl выявлена уязвимость (CVE-2023-38545), которая может привести к переполнению буфера и потенциально к выполнению кода атакующего на стороне клиента при обращении при помощи утилиты curl или приложения, использующего libcurl, к HTTPS-серверу, подконтрольному злоумышленнику. Проблема проявляется только в случае включения в curl доступа через прокси SOCKS5. При прямом обращении без прокси уязвимость не проявляется. Уязвимость устранена в выпуске curl 8.</description>
+    </item>
+    
+  </channel>
+</rss>

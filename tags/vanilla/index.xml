@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vanilla on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vanilla/</link>
+    <description>Recent content in Vanilla on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vanilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива Vanilla OS 2, использующего контейнеры и атомарные обновления</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-vanilla-os-2-ispolzuyuschego-konteynery-i-atomarnye-obnovleniya-20240729-143559/</link>
+      <pubDate>Mon, 29 Jul 2024 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-vanilla-os-2-ispolzuyuschego-konteynery-i-atomarnye-obnovleniya-20240729-143559/</guid>
+      <description>После полутора лет разработки опубликован выпуск пользовательского дистрибутива Vanilla OS 2, основанного на пакетной базе Debian, но выходящего за рамки обычной пересборки. Системное окружение в Vanilla OS монтируется в режиме только для чтения и обновляется атомарно, а приложения запускаются в отдельных контейнерах, используя прослойку на базе инструментария Distrobox. В качестве пользовательского окружения предлагается немодифицированный GNOME, поставляемый в то виде, в каком он изначально выпускается разработчиками. Собственные графические конфигураторы написаны на GTK4 с использованием Libadwaita.</description>
+    </item>
+    
+  </channel>
+</rss>

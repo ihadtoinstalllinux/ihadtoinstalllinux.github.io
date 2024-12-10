@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Infineon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/infineon/</link>
+    <description>Recent content in Infineon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2024 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/infineon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака EUCLEAK, позволяющая клонировать YubiKey 5 и другие ключи на чипах Infineon</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-eucleak-pozvolyayuschaya-klonirovat-yubikey-5-i-drugie-klyuchi-na-chipah-infineon-20240906-133506/</link>
+      <pubDate>Fri, 06 Sep 2024 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-eucleak-pozvolyayuschaya-klonirovat-yubikey-5-i-drugie-klyuchi-na-chipah-infineon-20240906-133506/</guid>
+      <description>Исследователи безопасности из компании NinjaLab разработали технику атаки по сторонним каналам, позволяющую клонировать ECDSA-ключи, хранимые в криптографических токенах YubiKey 5 и других устройствах, в которых используется криптографическая библиотека от компании Infineon. Атака получила кодовое имя EUCLEAK и помимо токенов с чипами Infineon SLE78, таких как YubiKey 5, может применяться ко многим другим системам с микроконтроллерами компании Infineon, включая чипы Infineon Optiga Trust M и Infineon Optiga TPM.
+https://www.opennet.ru/opennews/art.shtml?num=61817</description>
+    </item>
+    
+  </channel>
+</rss>

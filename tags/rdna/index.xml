@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RDNA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rdna/</link>
+    <description>Recent content in RDNA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 13:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rdna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания AMD опубликовала документацию по архитектуре набора команд GPU RDNA 3.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</link>
+      <pubDate>Tue, 17 Sep 2024 13:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</guid>
+      <description>Компания AMD объявила о публикации в открытом доступе руководства по архитектуре набора команд GPU RDNA 3.5, применяемой в новейших сериях процессоров Ryzen AI 300 (APU Strix Point) и Ryzen 9000, а также в платформах с GPU Radeon 880M и 890M. Документация может пригодиться тем, кто хочет разобраться в низкоуровневой работе с GPU, а также будет полезна для реализации оптимизаций при разработке шейдеров, игр и взаимодействующих с GPU утилит. Руководство полностью охватывает реализованную в RDNA 3.</description>
+    </item>
+    
+  </channel>
+</rss>

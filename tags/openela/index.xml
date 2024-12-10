@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenELA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openela/</link>
+    <description>Recent content in OpenELA on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2024 12:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openela/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В репозитории OpenELA обеспечена оперативная публикация src-пакетов для новых релизов RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-openela-obespechena-operativnaya-publikaciya-src-paketov-dlya-novyh-relizov-20240717-123506/</link>
+      <pubDate>Wed, 17 Jul 2024 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-openela-obespechena-operativnaya-publikaciya-src-paketov-dlya-novyh-relizov-20240717-123506/</guid>
+      <description>Ассоциация OpenELA (Open Enterprise Linux Association), образованная компаниями CIQ (Rocky Linux), Oracle и SUSE для объединения усилий по обеспечению совместимости с RHEL, объявила о введении в строй автоматизированной системы, позволяющей размещать в открытом доступе исходные тексты пакетов спустя несколько дней после выхода очередных релизов Red Hat Enterprise Linux (RHEL). В настоящее время в поддерживаемом проектом репозитории размещены src-пакеты, соответствующие актуальным релизам RHEL 9.4 и 8.10, а также накопившимся обновлениям.
+https://www.opennet.ru/opennews/art.shtml?num=61562</description>
+    </item>
+    
+    <item>
+      <title>Опубликован репозиторий OpenELA для создания дистрибутивов, совместимых с RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-repozitoriy-openela-dlya-sozdaniya-distributivov-sovmestimyh-s-rhel-20231103-133536/</link>
+      <pubDate>Fri, 03 Nov 2023 13:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-repozitoriy-openela-dlya-sozdaniya-distributivov-sovmestimyh-s-rhel-20231103-133536/</guid>
+      <description>Ассоциация OpenELA (Open Enterprise Linux Association), образованная в августе компаниями CIQ (Rocky Linux), Oracle и SUSE для объединения усилий по обеспечению совместимости с RHEL, объявила о готовности репозитория с пакетами, который можно использовать в качестве основы для создания дистрибутивов, полностью бинарно совместимых с Red Hat Enterprise Linux, идентичных по поведению (на уровне ошибок) с RHEL и пригодных для использования в качестве замены RHEL. Исходные тексты подготовленных пакетов распространяются бесплатно и без ограничений.</description>
+    </item>
+    
+  </channel>
+</rss>

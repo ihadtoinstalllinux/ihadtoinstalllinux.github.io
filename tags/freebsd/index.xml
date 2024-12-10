@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FreeBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/freebsd/</link>
+    <description>Recent content in FreeBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 13:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз FreeBSD 14.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-2-20241203-133538/</link>
+      <pubDate>Tue, 03 Dec 2024 13:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-2-20241203-133538/</guid>
+      <description>После шести месяцев разработки сформирован релиз FreeBSD 14.2. Установочные образы подготовлены для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
+https://www.opennet.ru/opennews/art.shtml?num=62333</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в libnv во FreeBSD и уязвимости в Netfilter в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</link>
+      <pubDate>Mon, 30 Sep 2024 11:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</guid>
+      <description>В выпущенном в начале сентября исправлении уязвимости в библиотеке libnv выявлена логическая ошибка, из-за которой уязвимость не устранялась должным образом и система оставалась подвержена атаке. Библиотека libnv развивается проектом FreeBSD и используется в ядре и в приложениях из базовой системы для обработки списков в формате ключ/значение и для организации передачи данных при межпроцессном взаимодействии. Библиотека основана на алгоритме nvlist, применяемом в проекте OpenZFS, но во FreeBSD создана собственная реализация, поэтому уязвимость не затрагивает OpenZFS.</description>
+    </item>
+    
+    <item>
+      <title>Улучшение работы FreeBSD на ноутбуках названо новой стратегической целью проекта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uluchshenie-raboty-freebsd-na-noutbukah-nazvano-novoy-strategicheskoy-celyu-proekta-20240928-113527/</link>
+      <pubDate>Sat, 28 Sep 2024 11:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uluchshenie-raboty-freebsd-na-noutbukah-nazvano-novoy-strategicheskoy-celyu-proekta-20240928-113527/</guid>
+      <description>Некоммерческая организация FreeBSD Foundation и компания Quantum Leap Research инициировали проект по улучшению поддержки ноутбуков во FreeBSD. Работа будет вестись в сотрудничестве с ведущими производителями, среди которых компании Dell, AMD и Framework. На первом этапе проекту выделено 750 тысяч долларов, а общий объём инвестиций заявлен в 1 млн долларов.
+https://www.opennet.ru/opennews/art.shtml?num=61951</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 13.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-4-20240917-113537/</link>
+      <pubDate>Tue, 17 Sep 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-4-20240917-113537/</guid>
+      <description>После 6 месяцев разработки опубликован релиз операционной системы FreeBSD 13.4, который стал первым выпуском, сформированным в рамках обновлённого цикла разработки, подразумевающего формирование промежуточных выпусков раз в полгода. Установочные образы FreeBSD 13.4 сформированы для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant. Следующий выпуск 13.5, который намечен на март, станет финальным и будет сопровождаться до апреля 2026 года.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости во FreeBSD, позволяющие повысить свои привилегии или обойти изоляцию гостевой системы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-vo-freebsd-pozvolyayuschie-povysit-svoi-privilegii-ili-oboyti-izolyaciyu-goste-20240910-123527/</link>
+      <pubDate>Tue, 10 Sep 2024 12:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-vo-freebsd-pozvolyayuschie-povysit-svoi-privilegii-ili-oboyti-izolyaciyu-goste-20240910-123527/</guid>
+      <description>Во FreeBSD устранено несколько уязвимостей, позволяющих локальному пользователю поднять свои привилегии, выполнить код в контексте ядра или выйти из изолированного окружения.
+https://www.opennet.ru/opennews/art.shtml?num=61838</description>
+    </item>
+    
+    <item>
+      <title>Фонд Sovereign инвестирует 686 тысяч евро в обновление инфраструктуры FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fond-sovereign-investiruet-686-tysyach-evro-v-obnovlenie-infrastruktury-freebsd-20240826-213508/</link>
+      <pubDate>Mon, 26 Aug 2024 21:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fond-sovereign-investiruet-686-tysyach-evro-v-obnovlenie-infrastruktury-freebsd-20240826-213508/</guid>
+      <description>Организация FreeBSD Foundation сообщила о получении от немецкого фонда STF (Sovereign Tech Fund) инвестиций в размере 686400 евро, выделенных для улучшения инфраструктуры, безопасности, средств для разработчиков и соответствия регуляторным требованиям. Работу, на которую получено финансирование, планируют провести с августа 2024 года до начала 2025 года, и сосредоточить на пяти проектах.
+https://www.opennet.ru/opennews/art.shtml?num=61767</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в поставляемом во FreeBSD варианте OpenSSH, допускающая удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postavlyaemom-vo-freebsd-variante-openssh-dopuskayuschaya-udalennoe-vypolneni-20240812-113525/</link>
+      <pubDate>Mon, 12 Aug 2024 11:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postavlyaemom-vo-freebsd-variante-openssh-dopuskayuschaya-udalennoe-vypolneni-20240812-113525/</guid>
+      <description>В поставляемом в составе FreeBSD сервере OpenSSH выявлена уязвимость (CVE-2024-7589), позволяющая добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость является вариантом выявленной в начале июля проблемы в OpenSSH (CVE-2024-6387) и также вызвана состоянием гонки, возникающем из-за выполнения в обработчике сигналов функций, не рассчитанных на вызов в асинхронном режиме.
+https://www.opennet.ru/opennews/art.shtml?num=61690</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD переходит на сокращённый цикл подготовки релизов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/freebsd-perehodit-na-sokraschennyy-cikl-podgotovki-relizov-20240712-153533/</link>
+      <pubDate>Fri, 12 Jul 2024 15:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/freebsd-perehodit-na-sokraschennyy-cikl-podgotovki-relizov-20240712-153533/</guid>
+      <description>Колин Персиваль (Colin Percival), лидер команды, отвечающей за подготовку релизов FreeBSD, объявил об изменении процессов формирования и сопровождения выпусков. Начиная с ветки FreeBSD 15, намеченной на конец 2025 года, время сопровождения значительных веток после формирования первого релиза (15.0) будет сокращён с 5 до 4 лет. При этом новые значительные ветки будут формироваться раз в два года.
+https://www.opennet.ru/opennews/art.shtml?num=61532</description>
+    </item>
+    
+    <item>
+      <title>Обсуждение ветки FreeBSD 15 и интеграции поддержки Rust во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obsuzhdenie-vetki-freebsd-15-i-integracii-podderzhki-rust-vo-freebsd-20240629-013522/</link>
+      <pubDate>Sat, 29 Jun 2024 01:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obsuzhdenie-vetki-freebsd-15-i-integracii-podderzhki-rust-vo-freebsd-20240629-013522/</guid>
+      <description>Организация FreeBSD Foundation опубликовала серию отчётов, подготовленных по мотивам обсуждений на прошедшем в Канаде саммите разработчиков FreeBSD. Среди рассмотренных на саммите тем.
+https://www.opennet.ru/opennews/art.shtml?num=61456</description>
+    </item>
+    
+    <item>
+      <title>X Window System исполнилось 40 лет, а FreeBSD - 31 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</link>
+      <pubDate>Thu, 20 Jun 2024 11:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</guid>
+      <description>Исполнилось 40 лет с момента объявления Робертом Шеффлером о создании протокола X Window System. Путь от выпуска X1 до X11 протокол прошёл всего за три года, после чего состояние X11 стабилизировалось и со временем лишь обрастает расширениями, но не меняет своей сути. Например, в качестве расширений в своё время были представлены такие распространённые возможности как XVideo, X Font Server, XKB, Xinerama, XCB, Multi-Pointer X, Present, DRI2, DRI3, RandR, X Input и т.</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 14.1 с улучшенным звуковым стеком и поддержкой cloud-init</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-1-s-uluchshennym-zvukovym-stekom-i-podderzhkoy-cloud-init-20240604-133519/</link>
+      <pubDate>Tue, 04 Jun 2024 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-1-s-uluchshennym-zvukovym-stekom-i-podderzhkoy-cloud-init-20240604-133519/</guid>
+      <description>После шести месяцев разработки сформирован релиз FreeBSD 14.1. Установочные образы подготовлены для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
+https://www.opennet.ru/opennews/art.shtml?num=61305</description>
+    </item>
+    
+    <item>
+      <title>Результаты опроса пользователей FreeBSD и план устранения выявленных проблем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rezultaty-oprosa-polzovateley-freebsd-i-plan-ustraneniya-vyyavlennyh-problem-20240530-123539/</link>
+      <pubDate>Thu, 30 May 2024 12:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rezultaty-oprosa-polzovateley-freebsd-i-plan-ustraneniya-vyyavlennyh-problem-20240530-123539/</guid>
+      <description>Организация FreeBSD Foundation опубликовала результаты (PDF, 62 стр.) опроса пользователей и разработчиков проекта, проведённого для понимания состояния сообщества, определения типовых сценариев использования FreeBSD, расстановки приоритетов в разработке и выявления областей, требующих особого внимания. Опрос, который включал в себя около 50 вопросов, прошло 1446 участников.
+https://www.opennet.ru/opennews/art.shtml?num=61272</description>
+    </item>
+    
+    <item>
+      <title>Проект ravynOS развивает редакцию FreeBSD, нацеленную на совместимость c macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</link>
+      <pubDate>Tue, 28 May 2024 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</guid>
+      <description>После двух лет разработки опубликован выпуск проекта ravynOS 0.5, развивающего операционную систему на основе FreeBSD, нацеленную на достижение совместимости с приложениями для macOS и предоставление пользовательской оболочки в стиле macOS. Наработки проекта распространяются под лицензией BSD. Размер загрузочного iso-образа - 869 МБ (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=61254</description>
+    </item>
+    
+    <item>
+      <title>Для FreeBSD развивается новый графический инсталлятор. Отчёт FreeBSD за 1 квартал</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-novyy-graficheskiy-installyator-otchet-freebsd-za-1-kvartal-20240505-003612/</link>
+      <pubDate>Sun, 05 May 2024 00:36:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-freebsd-razvivaetsya-novyy-graficheskiy-installyator-otchet-freebsd-za-1-kvartal-20240505-003612/</guid>
+      <description>Организация FreeBSD Foundation ведёт разработку нового графического инсталлятора для FreeBSD, который призван сделать более удобным для новичков процесс установки и начальной настройки системы. Отмечается, что новый инсталлятор повысит привлекательность системы для пользователей, привыкших к графическим инсталляторам и воспринимающих текстовые интерфейсы как анахронизм. Кроме того, графический режим установки позволит сформировать более целостное окружение в сборках, использующих FreeBSD в качестве основы для запуска пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=61117</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NFS-сервере FreeBSD и OpenBSD, приводящая к удалённому выполнению кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</link>
+      <pubDate>Mon, 25 Mar 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</guid>
+      <description>В реализации NFS-сервера, применяемого BSD-системах, выявлена критическая уязвимость (CVE-2024-29937), позволяющая добиться удалённого выполнения своего кода с правами root на сервере. Проблема проявляется во всех выпусках OpenBSD и FreeBSD, вплоть до OpenBSD 7.4 и FreeBSD 14.0-RELEASE. Детальная информация об уязвимости пока не раскрывается, известно только то, что проблема вызвана логической ошибкой, не связанной с повреждением памяти. Отмечается, что уязвимость легко может быть эксплуатирована и использована для атаки на системы, в которых применяется NFS, но судя по видеодемонстрации уязвимость позволяет получить полный доступ к коревой ФС сервера и требует для эксплуатации наличия прав для монтирования разделов по NFS.</description>
+    </item>
+    
+    <item>
+      <title>После TrueNAS CORE 13.3 ветка на основе FreeBSD будет переведена в режим сопровождения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</link>
+      <pubDate>Mon, 25 Mar 2024 16:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-truenas-core-13-3-vetka-na-osnove-freebsd-budet-perevedena-v-rezhim-soprovozhdeniya-20240325-163554/</guid>
+      <description>Компания iXsystems объявила о планах по дальнейшей разработке дистрибутива для быстрого развёртывания сетевого хранилища TrueNAS CORE, продолжающего развитие проекта FreeNAS. В июне планируется сформировать выпуск TrueNAS CORE 13.3 на основе FreeBSD 13.3 (прошлый выпуск был сформирован в 2021 году на основе FreeBSD 13.0), OpenZFS 2.2.3 и Samba 4.19. В дальнейшем разработка будет сосредоточена только на дистрибутиве TrueNAS SCALE, в котором используется ядро Linux и пакетная база Debian.
+https://www.opennet.ru/opennews/art.shtml?num=60843</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 13.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-3-20240306-023529/</link>
+      <pubDate>Wed, 06 Mar 2024 02:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-3-20240306-023529/</guid>
+      <description>После 11 месяцев разработки опубликован релиз FreeBSD 13.3. Установочные образы сформированы для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant. Ветка FreeBSD 13.x развивается параллельно веткой FreeBSD 14, для которой осенью был сформирован релиз 14.0, и продолжит сопровождаться до конца января 2026 года. Примерно через год ожидается формирование выпуска FreeBSD 13.</description>
+    </item>
+    
+    <item>
+      <title>Проект NixBSD развивает вариант NixOS с ядром из FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nixbsd-razvivaet-variant-nixos-s-yadrom-iz-freebsd-20240305-013525/</link>
+      <pubDate>Tue, 05 Mar 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nixbsd-razvivaet-variant-nixos-s-yadrom-iz-freebsd-20240305-013525/</guid>
+      <description>Представлен проект NixBSD, развивающий неофициальное ответвление от дистрибутива NixOS, в котором вместо ядра Linux задействовано ядро из FreeBSD. Для установки программ используется пакетный менеджер Nix, хранящий результат сборки пакетов в подкаталогах внутри /nix/store и предоставляющий возможность использования нескольких версий одной программы. Настройка параметров системы производится через один файл конфигурации. Имеется возможность быстрого отката системы на предыдущую версию конфигурации.
+https://www.opennet.ru/opennews/art.shtml?num=60724</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD прекращает поддержку 32-разрядных платформ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/freebsd-prekraschaet-podderzhku-32-razryadnyh-platform-20240213-023509/</link>
+      <pubDate>Tue, 13 Feb 2024 02:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/freebsd-prekraschaet-podderzhku-32-razryadnyh-platform-20240213-023509/</guid>
+      <description>Разработчики FreeBSD опубликовали план прекращения поддержки 32-разрядных платформ. В ветке FreeBSD 15 не будут поставляться платформы armv6, i386 и powerpc, а в ветке FreeBSD 16 будет преркащена поддержка платформы armv7. Возможность сборки 32-разрядных программ и использования режима COMPAT_FREEBSD32 для запуска 32-разрядных исполняемых файлов в окружении на базе 64-разрядного ядра сохранится как минимум до конца жизненного цикла ветки FreeBSD 16.
+https://www.opennet.ru/opennews/art.shtml?num=60592</description>
+    </item>
+    
+    <item>
+      <title>Разработчики FreeBSD обсуждают использование языка Rust в базовой системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-freebsd-obsuzhdayut-ispolzovanie-yazyka-rust-v-bazovoy-sisteme-20240122-013550/</link>
+      <pubDate>Mon, 22 Jan 2024 01:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-freebsd-obsuzhdayut-ispolzovanie-yazyka-rust-v-bazovoy-sisteme-20240122-013550/</guid>
+      <description>Алан Сомерс (Alan Somers), разработчик новой реализации драйвера FUSE для FreeBSD и автор Rust-обвязок над некоторыми библиотеками FreeBSD, начал обсуждение процесса включения кода на языке Rust в состав базовой системы. В ходе дискуссии коммиттеров проекта были определены цена и преимущество внедрения. Ценой включения поддержки Rust станет удвоение времени сборки, а преимуществом - упрощение разработки некоторых утилит.
+https://www.opennet.ru/opennews/art.shtml?num=60473</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 14.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-0-20231121-103519/</link>
+      <pubDate>Tue, 21 Nov 2023 10:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-14-0-20231121-103519/</guid>
+      <description>После двух с половиной лет с момента публикации ветки 13.0 сформирован релиз FreeBSD 14.0. Установочные образы подготовлены для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant. Ветка FreeBSD 14 станет последней с поддержкой 32-разрядных платформ. Во FreeBSD 15 останется только поддержка 64-разрядных систем, но при этом сохранится возможность сборки 32-разрядных программ и использования режима COMPAT_FREEBSD32 для запуска 32-разрядных исполняемых файлов в 64-разрядном окружении.</description>
+    </item>
+    
+    <item>
+      <title>Во FreeBSD появился драйвер SquashFS и улучшены возможности для рабочих столов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vo-freebsd-poyavilsya-drayver-squashfs-i-uluchsheny-vozmozhnosti-dlya-rabochih-stolov-20231102-133535/</link>
+      <pubDate>Thu, 02 Nov 2023 13:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vo-freebsd-poyavilsya-drayver-squashfs-i-uluchsheny-vozmozhnosti-dlya-rabochih-stolov-20231102-133535/</guid>
+      <description>В отчёте о развитии проекта FreeBSD с июля по сентябрь 2023 года представлен новый драйвер с реализацией файловой системы SquashFS, который можно использовать для повышения эффективности работы загрузочных образов, Live-сборок и прошивок на базе FreeBSD. SquashFS работает в режиме только для чтения и обеспечивает очень компактное представление метаданных и хранение данных в сжатом виде. Драйвер реализован на уровне ядра, поддерживает работу с выпуском FreeBSD 13.2 и, среди прочего, позволяет загружать FreeBSD с ФС SquashFS, размещённой в оперативной памяти.</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenZFS 2.2, реализации ZFS для Linux и FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</link>
+      <pubDate>Sat, 14 Oct 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</guid>
+      <description>После более двух лет разработки опубликован релиз проекта OpenZFS 2.2, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. Проект получил известность как &amp;ldquo;ZFS on Linux&amp;rdquo; и ранее ограничивался разработкой модуля для ядра Linux, но после переноса поддержки FreeBSD был признан основной реализацией OpenZFS и переименован.
+https://www.opennet.ru/opennews/art.shtml?num=59930</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wifibox 0.12, окружения для использования WiFi-драйверов Linux во FreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wifibox-0-12-okruzheniya-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20230927-123505/</link>
+      <pubDate>Wed, 27 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wifibox-0-12-okruzheniya-dlya-ispolzovaniya-wifi-drayverov-linux-vo-freebsd-20230927-123505/</guid>
+      <description>Доступен выпуск проекта Wifibox 0.12, нацеленного на решение проблемы с использованием во FreeBSD беспроводных адаптеров, для которых отсутствуют необходимые драйверы. Работа проблемных для FreeBSD адаптеров в Wifibox обеспечивается через запуск гостевой системы с Linux, в которой загружаются родные для Linux драйверы беспроводных устройств. Окружение потенциально может применяться для любых WiFi-карт, поддерживаемых в Linux, но протестировано в основном на чипах Intel, Qualcomm Atheros и AMD RZ608 (MediaTek MT7921K).
+https://www.opennet.ru/opennews/art.shtml?num=59830</description>
+    </item>
+    
+    <item>
+      <title>Началось бета-тестирование FreeBSD 14. Загрузка FreeBSD за 25 миллисекунд</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-freebsd-14-zagruzka-freebsd-za-25-millisekund-20230910-023506/</link>
+      <pubDate>Sun, 10 Sep 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-freebsd-14-zagruzka-freebsd-za-25-millisekund-20230910-023506/</guid>
+      <description>Подготовлен первый бета-выпуск FreeBSD 14.0. Выпуск FreeBSD 14.0-BETA1 доступен для архитектур i386, amd64, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены образы для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2. Релиз FreeBSD 14.0 намечен на 23 октября 2023 года.
+https://www.opennet.ru/opennews/art.shtml?num=59733</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость, позволяющая обойти блокировку пакетным фильтром pf во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-oboyti-blokirovku-paketnym-filtrom-pf-vo-freebsd-20230909-103537/</link>
+      <pubDate>Sat, 09 Sep 2023 10:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-oboyti-blokirovku-paketnym-filtrom-pf-vo-freebsd-20230909-103537/</guid>
+      <description>Во FreeBSD выявлена уязвимость (CVE-2023-4809) в коде пакетного фильтра pf, позволяющая обойти заданные для IPv6 правила блокировки через манипуляцию с фрагментированными пакетами IPv6. Проблема проявляется при использовании pf для фильтрации трафика IPv6 при включённом режиме.
+https://www.opennet.ru/opennews/art.shtml?num=59731</description>
+    </item>
+    
+    <item>
+      <title>Замена алгоритма сортировки в sysinit позволила ускорить загрузку FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zamena-algoritma-sortirovki-v-sysinit-pozvolila-uskorit-zagruzku-freebsd-20230821-123505/</link>
+      <pubDate>Mon, 21 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zamena-algoritma-sortirovki-v-sysinit-pozvolila-uskorit-zagruzku-freebsd-20230821-123505/</guid>
+      <description>Во FreeBSD принято изменение, меняющее в коде инициализации ядра (sysinit) алгоритм сортировки массивов. Вместо ранее применявшегося алгоритма пузырьковой сортировки в sysinit задействован более эффективный алгоритм сортировки слиянием, что позволило на 2 мс сократить время загрузки ядра в виртуальных машинах Firecracker.
+https://www.opennet.ru/opennews/art.shtml?num=59634</description>
+    </item>
+    
+    <item>
+      <title>Проекту FreeBSD исполнилось 30 лет </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proektu-freebsd-ispolnilos-30-let-20230619-103505/</link>
+      <pubDate>Mon, 19 Jun 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proektu-freebsd-ispolnilos-30-let-20230619-103505/</guid>
+      <description>Проект FreeBSD празднует тридцатилетие. Днём рождения проекта считается 19 июня 1993 года. В этот день на базе неофициального набора патчей к 386BSD был создан форк 4.3BSD, в рамках которого планировалось развивать быструю, стабильную и надёжную ОС для систем с процессорами i386. При выборе имени проекта, в качестве вариантов рассматривались FreeBSD, BSDFree86 и Free86BSD. В итоге предпочтение было отдано варианту FreeBSD, который предложил Дэвид Гринман (David Greenman). В ноябре 1993 года на основе 4.</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 13.2 с поддержкой Netlink и WireGuard</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-2-s-podderzhkoy-netlink-i-wireguard-20230411-133506/</link>
+      <pubDate>Tue, 11 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-2-s-podderzhkoy-netlink-i-wireguard-20230411-133506/</guid>
+      <description>После 11 месяцев разработки опубликован релиз FreeBSD 13.2. Установочные образы сформированы для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
+https://www.opennet.ru/opennews/art.shtml?num=58946</description>
+    </item>
+    
+  </channel>
+</rss>

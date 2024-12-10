@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Polyfill on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/polyfill/</link>
+    <description>Recent content in Polyfill on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 01:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/polyfill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Смена владельца библиотеки Polyfill привела к подстановке вредоносного кода на 110 тысяч сайтов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/smena-vladelca-biblioteki-polyfill-privela-k-podstanovke-vredonosnogo-koda-na-110-tysyach-20240626-013548/</link>
+      <pubDate>Wed, 26 Jun 2024 01:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/smena-vladelca-biblioteki-polyfill-privela-k-podstanovke-vredonosnogo-koda-na-110-tysyach-20240626-013548/</guid>
+      <description>Более 110 тысяч сайтов, использующих открытую JavaScript-библиотеку Polyfill для обеспечения совместимости со старыми версиями браузеров, стали жертвой вредоносных изменений, внесённых в код библиотеки новым владельцем проекта. В библиотеку, загружаемую на сайты через домен cdn.polyfill.io, был встроен вредоносный код, перенаправляющий пользователя на мошеннические сайты (например, googie-anaiytics.com), букмекерские конторы и online-казино.
+https://www.opennet.ru/opennews/art.shtml?num=61440</description>
+    </item>
+    
+  </channel>
+</rss>

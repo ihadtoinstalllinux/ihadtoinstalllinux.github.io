@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Js2Py on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/js2py/</link>
+    <description>Recent content in Js2Py on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 01:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/js2py/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Python-пакете Js2Py, загружаемого более миллиона раз в месяц</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</link>
+      <pubDate>Sun, 23 Jun 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</guid>
+      <description>В Python-пакете Js2Py, который был загружен в прошлом месяце 1.2 млн раз, выявлена уязвимость (CVE-2024-28397), позволяющая обойти sandbox-изоляцию и выполнить код в системе при обработке специально оформленных данных на JavaScript. Уязвимость может использоваться для атаки на программы, применяющие Js2Py для выполнения JavaScript-кода. Исправление пока доступно только в виде патча. Для проверки возможности атаки подготовлен прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=61421</description>
+    </item>
+    
+  </channel>
+</rss>

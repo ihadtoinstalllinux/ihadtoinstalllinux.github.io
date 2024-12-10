@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kFreeBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kfreebsd/</link>
+    <description>Recent content in kFreeBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 06:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kfreebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian прекращает поддержку порта GNU/kFreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</link>
+      <pubDate>Sat, 15 Jul 2023 06:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</guid>
+      <description>Порты kfreebsd-amd64 и kfreebsd-i386 удалены из архива портов Debian (debian-ports). Тем не менее, пакеты GNU/kFreeBSD ещё можно.
+https://www.opennet.ru/opennews/art.shtml?num=59441</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/android/</link>
+    <description>Recent content in Android on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Предварительный выпуск Android 16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-android-16-20241120-133528/</link>
+      <pubDate>Wed, 20 Nov 2024 13:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-android-16-20241120-133528/</guid>
+      <description>Компания Google представила первую тестовую версию открытой мобильной платформы Android 16. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 6/6a/6 Pro, Pixel 7/7a/7 Pro, Pixel 8/8a/8 Pro, Pixel 9/9 Pro/9 Pro XL/9 Pro Fold, Pixel Fold и Pixel Tablet.
+https://www.opennet.ru/opennews/art.shtml?num=62263</description>
+    </item>
+    
+    <item>
+      <title>Google намерен перевести Chrome OS на платформу Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-nameren-perevesti-chrome-os-na-platformu-android-20241119-163535/</link>
+      <pubDate>Tue, 19 Nov 2024 16:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-nameren-perevesti-chrome-os-na-platformu-android-20241119-163535/</guid>
+      <description>Издание Android Authority получило сведения о намерении компании Google заменить платформу Chrome OS на новую реализацию, построенную на базе платформы Android. О планах задействования отдельных компонентов Android в Chrome OS, таких как ядро и системные библиотеки, сообщалось в июне, но судя по новым сведениям планы более глобальные, чем просто задействование частей Androd в Chrome OS, и сводятся к полной унификации и оставлению только Android с воссозданием интерфейса в стиле Chrome OS поверх данной платформы.</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск Thunderbird для Android, продолжающий развитие K-9 Mail</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-thunderbird-dlya-android-prodolzhayuschiy-razvitie-k-9-mail-20241031-023543/</link>
+      <pubDate>Thu, 31 Oct 2024 02:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-thunderbird-dlya-android-prodolzhayuschiy-razvitie-k-9-mail-20241031-023543/</guid>
+      <description>Представлен первый стабильный выпуск почтового клиента Thunderbird для Android, построенный с использованием технологий, полученных после слияния с проектом K-9 Mail. Thunderbird для Android получил номер версии 8.0, продолжающий нумерацию версий K-9 Mail. Поддерживаются все штатные возможности K-9 Mail, среди которых шифрование email при помощи OpenPGP, работа с несколькими учётными записями, наличие тёмной и светлой тем оформления. Установочные пакеты размещены в Google Play, GitHub и на сайте проекта (в скором времени ожидается публикация в каталоге F-Droid).</description>
+    </item>
+    
+    <item>
+      <title>Google экспериментирует с возможностью запуска Linux-приложений в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-vozmozhnostyu-zapuska-linux-prilozheniy-v-android-20241014-193516/</link>
+      <pubDate>Mon, 14 Oct 2024 19:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-vozmozhnostyu-zapuska-linux-prilozheniy-v-android-20241014-193516/</guid>
+      <description>Компания Google добавила в кодовую базу платформы Android приложение Terminal, позволяющее запустить эмулятор терминала с доступом к полноценному Linux-окружению, выполняемому в виртуальной машине. Функциональность виртуальной машины развивается в рамках проекта Ferrochrome и подразумевает запуск гостевой системы с Debian GNU/Linux 12.
+https://www.opennet.ru/opennews/art.shtml?num=62045</description>
+    </item>
+    
+    <item>
+      <title>Методы безопасной работы с памятью позволили существенно снизить число уязвимостей в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/metody-bezopasnoy-raboty-s-pamyatyu-pozvolili-suschestvenno-snizit-chislo-uyazvimostey-v-a-20240926-153525/</link>
+      <pubDate>Thu, 26 Sep 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/metody-bezopasnoy-raboty-s-pamyatyu-pozvolili-suschestvenno-snizit-chislo-uyazvimostey-v-a-20240926-153525/</guid>
+      <description>Компания Google подвела итоги инициативы по внедрению в Android методов безопасной разработки (Safe Coding), таких как использование языков программирования, обеспечивающих безопасную работу с памятью, применение статических анализаторов и проектирование API с оглядкой на безопасность. Изменения позволили снизить долю связанных с памятью уязвимостей в Android c 76% в 2019 году до 24% в 2024 году, что значительно ниже среднего показателя по индустрии - 70%.
+https://www.opennet.ru/opennews/art.shtml?num=61933</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мобильной платформы Android 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-android-15-20240904-113533/</link>
+      <pubDate>Wed, 04 Sep 2024 11:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-android-15-20240904-113533/</guid>
+      <description>Компания Google опубликовала релиз открытой мобильной платформы Android 15. Связанные с новым выпуском исходные тексты размещены в Git-репозитории проекта (ветка android-15.0.0_r1). В ближайшие недели обновление прошивки будет подготовлено для устройств серии Pixel, а в ближайшие месяцы для смартфонов производства Samsung, Honor, iQOO, Lenovo, Motorola, Nothing, OnePlus, Oppo, realme, Sharp, Sony, Tecno, vivo и Xiaomi. Дополнительно будут сформированы универсальные сборки GSI (Generic System Images), подходящие для разных устройств на базе архитектур ARM64 и x86_64.</description>
+    </item>
+    
+    <item>
+      <title>Google развивает MicroFuchsia, урезанный вариант ОС Fuchsia для виртуальных машин в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-microfuchsia-urezannyy-variant-os-fuchsia-dlya-virtualnyh-mashin-v-androi-20240706-153529/</link>
+      <pubDate>Sat, 06 Jul 2024 15:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-microfuchsia-urezannyy-variant-os-fuchsia-dlya-virtualnyh-mashin-v-androi-20240706-153529/</guid>
+      <description>Компания Google развивает окружение MicroFuchsia, включающее урезанную версию операционной системы Fuchsia, оптимизированную для выполнение в виртуальных машинах в платформе Android. В состав кодовой базы Android уже начался приём изменений для обеспечения работы.
+https://www.opennet.ru/opennews/art.shtml?num=61500</description>
+    </item>
+    
+    <item>
+      <title>Обновление Bliss OS, сборки Android для ПК и ноутбуков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-bliss-os-sborki-android-dlya-pk-i-noutbukov-20240619-163601/</link>
+      <pubDate>Wed, 19 Jun 2024 16:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-bliss-os-sborki-android-dlya-pk-i-noutbukov-20240619-163601/</guid>
+      <description>Доступно июньское обновление проекта Bliss OS, продолжающего развитие Android-x86, порта платформы Android для архитектуры x86 (в проект Bliss OS перешло большинство разработчиков Android-x86). Bliss OS предоставляет готовые сборки с пользовательским окружением на базе Android, оптимизированные для использования на ПК, планшетах и ноутбуках. Bliss OS также может использоваться для замены Chrome OS на Chromebook. Наработки проекта распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61393</description>
+    </item>
+    
+    <item>
+      <title>Google переводит ChromeOS на компоненты платформы Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-perevodit-chromeos-na-komponenty-platformy-android-20240613-103555/</link>
+      <pubDate>Thu, 13 Jun 2024 10:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-perevodit-chromeos-na-komponenty-platformy-android-20240613-103555/</guid>
+      <description>Компания Google объявила о работе по переводу операционной системы Chrome OS на вариант ядра Linux и фреймворки, используемые в платформе Android. Отмечается, что работа по переводу системного окружения Chrome OS на компоненты платформы Android находится на начальном этапе и потребует много времени, прежде чем новый вариант системы станет пригоден для работы конечных пользователей. Из уже предпринятых действий упоминается интеграция в ChromeOS 122 нового Bluetooth-стека Floss, основанный на Bluetooth-стеке Fluoride из платформы Android.</description>
+    </item>
+    
+    <item>
+      <title>Анализ безопасности 100 бесплатных VPN-приложений для платформы Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/analiz-bezopasnosti-100-besplatnyh-vpn-prilozheniy-dlya-platformy-android-20240611-153532/</link>
+      <pubDate>Tue, 11 Jun 2024 15:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/analiz-bezopasnosti-100-besplatnyh-vpn-prilozheniy-dlya-platformy-android-20240611-153532/</guid>
+      <description>Издание Top10VPN, занимающееся рецензированием и проверкой VPN-сервисов, провело тестирование 100 самых популярных бесплатных VPN-приложений для платформы Android, суммарно насчитывающих более 2.5 миллиарда установок (для проверки были взяты 100 бесплатных VPN-приложений, для которых в каталоге Google Play зафиксировано наибольшее число загрузок). Основные выводы.
+https://www.opennet.ru/opennews/art.shtml?num=61352</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Winlator 7.0, окружения для запуска Windows-приложений в Android </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-7-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20240611-103515/</link>
+      <pubDate>Tue, 11 Jun 2024 10:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-7-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20240611-103515/</guid>
+      <description>Опубликован выпуск Android-приложения Winlator 7.0, предоставляющего обвязку над Wine и эмуляторами Box86/Box64 для выполнения Windows-приложений на платформе Android. Winlator разворачивает Linux-окружение на базе Ubuntu с Mesa, DXVK, D8VK, Vkd3d и CNC DDraw, в котором при помощи эмулятора и Wine на ARM-устройствах с Android выполняются Windows-приложения, собранные для архитектуры x86. Код проекта распространяется под лицензией MIT. Размер APK-пакета 251 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=61347</description>
+    </item>
+    
+    <item>
+      <title>В Android-платформе GrapheneOS появилась возможность создания деструктивного PIN-кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-android-platforme-grapheneos-poyavilas-vozmozhnost-sozdaniya-destruktivnogo-pin-koda-20240604-113515/</link>
+      <pubDate>Tue, 04 Jun 2024 11:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-android-platforme-grapheneos-poyavilas-vozmozhnost-sozdaniya-destruktivnogo-pin-koda-20240604-113515/</guid>
+      <description>В очередном обновлении защищённой мобильной платформы GrapheneOS 2024053100 появилась функция экстренной блокировки данных на устройстве. Пользователю предоставлена возможность задания дополнительного пароля и PIN-кода, ввод которых приведёт к очистке всех ключей в аппаратных хранилищах, включая ключи, используемые для шифрования данных на накопителе, а также к очистке eSIM и перезагрузке. Таким образом, в случае оказания давления на пользователя и его принуждения к разблокировке экрана или при появлении угрозы попадания смартфона не в те руки, владелец устройства может ввести деструктивный PIN-код и блокировать данные без возможности восстановления доступа.</description>
+    </item>
+    
+    <item>
+      <title>Вторая бета-версия Android 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoraya-beta-versiya-android-15-20240517-163603/</link>
+      <pubDate>Fri, 17 May 2024 16:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoraya-beta-versiya-android-15-20240517-163603/</guid>
+      <description>Компания Google опубликовала вторую бета-версию открытой мобильной платформы Android 15. Релиз Android 15 ожидается в третьем квартале 2024 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 6/6a/6 Pro, Pixel 7/7a/7 Pro, Pixel 8/8 Pro, Pixel Fold и Pixel Tablet, а также для некоторых смартфонов и планшетов от компаний Honor, iQOO, Lenovo, Nothing, OnePlus, OPPO, Realme, Sharp, Tecno, vivo и Xiaomi.
+https://www.opennet.ru/opennews/art.shtml?num=61196</description>
+    </item>
+    
+    <item>
+      <title>Google экспериментирует с запуском Chromium OS в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</link>
+      <pubDate>Tue, 14 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-eksperimentiruet-s-zapuskom-chromium-os-v-android-20240514-233510/</guid>
+      <description>Компания Google продемонстрировала партнёрам на закрытом мероприятии проект FerroChrome, в рамках которого подготовлена специальная сборка операционной системы Chromium OS, предназначенная для запуска в виртуальной машине на устройствах с платформой Android. При демонстрации интерфейс Chromium OS выводился на большой экран, подключённый к смартфону Pixel 8. Предполагается, что возможность запуска Chromium OS может применяться для создания полнофункционального рабочего окружения, которое можно использовать при подключении смартфона к монитору, клавиатуре и мыши.
+https://www.opennet.ru/opennews/art.shtml?num=61171</description>
+    </item>
+    
+    <item>
+      <title>Число дополнений для Android-версии Firefox превысило 1000</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/chislo-dopolneniy-dlya-android-versii-firefox-prevysilo-1000-20240503-103548/</link>
+      <pubDate>Fri, 03 May 2024 10:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/chislo-dopolneniy-dlya-android-versii-firefox-prevysilo-1000-20240503-103548/</guid>
+      <description>Компания Mozilla сообщила о преодолении рубежа в 1000 дополнений, доступных для Android-версии Firefox в каталоге AMO (addons.mozilla.org). В декабре 2023 года, после введения в строй инфраструктуры дополнений для Android-версии Firefox, в каталоге насчитывалось 489 дополнений. Менее чем за пять месяцев число дополнений, портированных для Android-версии Firefox, удвоилось.
+https://www.opennet.ru/opennews/art.shtml?num=61106</description>
+    </item>
+    
+    <item>
+      <title>Первая бета-версия Android 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervaya-beta-versiya-android-15-20240412-163536/</link>
+      <pubDate>Fri, 12 Apr 2024 16:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervaya-beta-versiya-android-15-20240412-163536/</guid>
+      <description>Компания Google начала бета-тестирование открытой мобильной платформы Android 15. Релиз Android 15 ожидается в третьем квартале 2024 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 6/6a/6 Pro, Pixel 7/7a/7 Pro, Pixel 8/8a/8 Pro, Pixel Fold и Pixel Tablet.
+https://www.opennet.ru/opennews/art.shtml?num=60975</description>
+    </item>
+    
+    <item>
+      <title>Второй предварительный выпуск Android 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-android-15-20240324-023521/</link>
+      <pubDate>Sun, 24 Mar 2024 02:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-android-15-20240324-023521/</guid>
+      <description>Компания Google представила вторую тестовую версию открытой мобильной платформы Android 15. Релиз Android 15 ожидается в третьем квартале 2024 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 6/6a/6 Pro, Pixel 7/7a/7 Pro, Pixel 8/8a/8 Pro, Pixel Fold и Pixel Tablet.
+https://www.opennet.ru/opennews/art.shtml?num=60834</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Android 14, эксплуатируемая через Bluetooth LE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-android-14-ekspluatiruemaya-cherez-bluetooth-le-20240312-143512/</link>
+      <pubDate>Tue, 12 Mar 2024 14:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-android-14-ekspluatiruemaya-cherez-bluetooth-le-20240312-143512/</guid>
+      <description>Разработчики проекта GrapheneOS, развивающего защищённое ответвление от кодовой базы AOSP (Android Open Source Project), выявили уязвимость в Bluetooth-стеке платформы Android 14, которая потенциально может привести к удалённому выполнению кода. Проблема вызвана обращением к уже освобождённой области памяти (use-after-free) в коде обработки звука, передаваемого через Bluetooth LE.
+https://www.opennet.ru/opennews/art.shtml?num=60771</description>
+    </item>
+    
+    <item>
+      <title>Microsoft прекращает поддержку прослойки WSA для запуска Android-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</link>
+      <pubDate>Wed, 06 Mar 2024 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-prekraschaet-podderzhku-prosloyki-wsa-dlya-zapuska-android-prilozheniy-v-windows-20240306-013506/</guid>
+      <description>Компания Microsoft опубликовала предупреждение о прекращении поддержи прослойки WSA (Windows Subsystem for Android), обеспечивающей запуск в Windows 11 мобильных приложений и игр, созданных для платформы Android. Android-приложения, установленные до 5 марта 2024 года, продолжат работать ещё год, после чего поддержка подсистемы будет полностью прекращена. 5 марта 2025 года также будет прекращена поддержка каталога приложений Amazon Appstore для Windows.
+https://www.opennet.ru/opennews/art.shtml?num=60735</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск Android 15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-android-15-20240217-163543/</link>
+      <pubDate>Sat, 17 Feb 2024 16:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-android-15-20240217-163543/</guid>
+      <description>Компания Google представила первую тестовую версию открытой мобильной платформы Android 15. Релиз Android 15 ожидается в третьем квартале 2024 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 6/6a/6 Pro, Pixel 7/7a/7 Pro, Pixel 8/8a/8 Pro, Pixel Fold и Pixel Tablet.
+https://www.opennet.ru/opennews/art.shtml?num=60616</description>
+    </item>
+    
+    <item>
+      <title>Опубликована мобильная платформа LineageOS 21 на основе Android 14 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-mobilnaya-platforma-lineageos-21-na-osnove-android-14-20240215-153530/</link>
+      <pubDate>Thu, 15 Feb 2024 15:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-mobilnaya-platforma-lineageos-21-na-osnove-android-14-20240215-153530/</guid>
+      <description>Представлен выпуск мобильной платформы LineageOS 21, основанный на кодовой базе Android 14. Отмечается, что ветка LineageOS 21 достигла паритета по функциональности и стабильности c веткой 20, и признана готовой для формирования первого релиза. Сборки подготовлены для 109 моделей устройств. LineageOS также можно запустить в эмуляторе Android Emulator и в среде Android Studio. Дополнительно, предоставлена возможность сборки в режиме Android TV и Android Automotive.
+https://www.opennet.ru/opennews/art.shtml?num=60609</description>
+    </item>
+    
+    <item>
+      <title>Обновление защищённой Android-платформы GrapheneOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-zaschischennoy-android-platformy-grapheneos-20240115-223507/</link>
+      <pubDate>Mon, 15 Jan 2024 22:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-zaschischennoy-android-platformy-grapheneos-20240115-223507/</guid>
+      <description>Доступен выпуск защищённой мобильной платформы GrapheneOS 2024011300, представляющей собой ответвление от кодовой базы Android (AOSP, Android Open Source Project), расширенное и изменённое для усиления безопасности и обеспечения конфиденциальности. Ранее проект развивался под именем AndroidHardening, а до этого ответвился от проекта CopperheadOS после конфликта его основателей. В GrapheneOS официально поддерживается большинство актуальных устройств Google Pixel (Pixel 4/5/6/7/8, Pixel Fold, Pixel Tablet). Наработки проекта распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60440</description>
+    </item>
+    
+    <item>
+      <title>Запуск в Linux-дистрибутивах Android-окружения Aliendalvik из Sailfish</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zapusk-v-linux-distributivah-android-okruzheniya-aliendalvik-iz-sailfish-20231226-013539/</link>
+      <pubDate>Tue, 26 Dec 2023 01:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zapusk-v-linux-distributivah-android-okruzheniya-aliendalvik-iz-sailfish-20231226-013539/</guid>
+      <description>Джонас Дресслер (Jonas Dressler) из проекта GNOME, развивающий редакцию GNOME Shell для мобильных устройств, опубликовал наработки, позволяющие запустить окружение Aliendalvik (AppSupport) в обычных дистрибутивах Linux. Aliendalvik представляет собой прослойку для мобильной платформы Sailfish, обеспечивающую запуск приложений, написанных для платформы Android. В ходе проведение обратного инжинирига Aliendalvik подготовлены патчи к композитному серверу Мutter, скрипты и обвязки над звуковым сервером и системой ввода, необходимые для запуска Aliendalvik вне окружения платформы Sailfish.
+https://www.opennet.ru/opennews/art.shtml?num=60349</description>
+    </item>
+    
+    <item>
+      <title>Mozilla ввела в строй каталог дополнений для Android-версии Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-katalog-dopolneniy-dlya-android-versii-firefox-20231215-133629/</link>
+      <pubDate>Fri, 15 Dec 2023 13:36:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-vvela-v-stroy-katalog-dopolneniy-dlya-android-versii-firefox-20231215-133629/</guid>
+      <description>Компания Mozilla объявила о готовности инфраструктуры и каталога дополнений для Android-версии Firefox. Firefox для Android стал первым мобильным браузером, для которого доступна полноценная открытая экосистема дополнений.
+https://www.opennet.ru/opennews/art.shtml?num=60293</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Bluetooth-стеках Linux, macOS, Android и iOS, допускающая подстановку нажатий клавиш</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</link>
+      <pubDate>Sat, 09 Dec 2023 21:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-bluetooth-stekah-linux-macos-android-i-ios-dopuskayuschaya-podstanovku-nazhat-20231209-213525/</guid>
+      <description>Марк Ньюлин (Marc Newlin), семь лет назад выявивший уязвимость MouseJack, раскрыл сведения о похожей уязвимости (CVE-2023-45866), затрагивающей Bluetooth-стеки Android, Linux, macOS и iOS, и позволяющей осуществить подстановку нажатий клавиш через симуляцию активности устройства ввода, подключённого через Bluetooth. Имея доступ к клавиатурному вводу атакующий может выполнить такие действия, как запуск команд в системе, установка приложений и перенаправление сообщений.
+https://www.opennet.ru/opennews/art.shtml?num=60260</description>
+    </item>
+    
+    <item>
+      <title>Amazon развивает Linux-окружение Vega для использования вместо Android на  Fire TV</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-razvivaet-linux-okruzhenie-vega-dlya-ispolzovaniya-vmesto-android-na-fire-tv-20231110-143534/</link>
+      <pubDate>Fri, 10 Nov 2023 14:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-razvivaet-linux-okruzhenie-vega-dlya-ispolzovaniya-vmesto-android-na-fire-tv-20231110-143534/</guid>
+      <description>По информации, полученной изданием LowPass из инсайдерских источников, компания Amazon разрабатывает окружение Vega на базе ядра Linux, которое планируют использовать на телеприставках Fire TV, умных экранах и прочих потребительских устройствах Amazon вместо ныне используемой прошивки Fire OS на базе платформы Android (актуальный выпуск Fire OS 7 основан на Android 9). Первые устройства на основе новой системы планируют выпустить в продажу в следующем году.
+https://www.opennet.ru/opennews/art.shtml?num=60086</description>
+    </item>
+    
+    <item>
+      <title>Отечественная мобильная платформа РЕД ОС М, построенная на кодовой базе Android из репозитория AOSP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otechestvennaya-mobilnaya-platforma-red-os-m-postroennaya-na-kodovoy-baze-android-iz-repoz-20231028-123517/</link>
+      <pubDate>Sat, 28 Oct 2023 12:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otechestvennaya-mobilnaya-platforma-red-os-m-postroennaya-na-kodovoy-baze-android-iz-repoz-20231028-123517/</guid>
+      <description>Российская компания РЕД СОФТ, известная разработкой RHEL-подобного дистрибутива РЕД ОС и СУБД Ред База Данных (редакция открытой СУБД Firebird), зарегистрировала в реестре российского ПО операционную систему РЕД ОС М (RED OS M), нацеленную на использование на мобильных устройствах и стационарных системах с сенсорными экранами. РЕД ОС М собирается из исходных текстов платформы Android, размещённых в репозитории AOSP (Android Open Source Project) и избавленных от привязок к сервисам и продуктам Google.</description>
+    </item>
+    
+    <item>
+      <title>Google переписал на языке Rust прошивку pvmfm, используемую в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</link>
+      <pubDate>Tue, 10 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-perepisal-na-yazyke-rust-proshivku-pvmfm-ispolzuemuyu-v-android-20231010-143504/</guid>
+      <description>В рамках работы по усилению безопасности критически важных программных компонентов платформы Android компания Google переписала на языке Rust прошивку pvmfm, используемую для организации работы виртуальных машин, запускаемых гипервизором pVM из состава Android Virtualization Framework. Ранее прошивка была написана на языке Си и реализована поверх загрузчика U-Boot, в коде которого ранее находили уязвимости, вызванные проблемами при работе с памятью.
+https://www.opennet.ru/opennews/art.shtml?num=59900</description>
+    </item>
+    
+    <item>
+      <title>Выпуск мобильной платформы Android 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-android-14-20231005-033505/</link>
+      <pubDate>Thu, 05 Oct 2023 03:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-mobilnoy-platformy-android-14-20231005-033505/</guid>
+      <description>Компания Google опубликовала релиз открытой мобильной платформы Android 14. Связанные с новым выпуском исходные тексты размещены в Git-репозиторий проекта (ветка android-14.0.0_r1). Обновления прошивки подготовлены для устройств серии Pixel. Позднее планируется подготовить обновления прошивок для смартфонов производства Samsung Galaxy, iQOO, Nothing, OnePlus, Oppo, Realme, Sharp, Sony, Tecno, vivo и Xiaomi. Дополнительно сформированы универсальные сборки GSI (Generic System Images), подходящие для разных устройств на базе архитектур ARM64 и x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=59873</description>
+    </item>
+    
+    <item>
+      <title>В Android 14 пользователь не сможет изменить системные сертификаты, даже при наличии root-доступа</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-android-14-polzovatel-ne-smozhet-izmenit-sistemnye-sertifikaty-dazhe-pri-nalichii-root-d-20230906-133505/</link>
+      <pubDate>Wed, 06 Sep 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-android-14-polzovatel-ne-smozhet-izmenit-sistemnye-sertifikaty-dazhe-pri-nalichii-root-d-20230906-133505/</guid>
+      <description>Разработчики HTTP Toolkit, открытого инструментария для инспектирования HTTPS-трафика, обратили внимание на изменение способа обновления сертификатов удостоверяющих центров (CA) в будущем выпуске платформы Android 14. Системные сертификаты больше не будут привязаны к прошивке, а станут доставляться отдельным пакетом, обновляемым через Google Play.
+https://www.opennet.ru/opennews/art.shtml?num=59722</description>
+    </item>
+    
+    <item>
+      <title>Релиз браузера Vivaldi 6.2 для ПК и Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-brauzera-vivaldi-6-2-dlya-pk-i-android-20230830-143505/</link>
+      <pubDate>Wed, 30 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-brauzera-vivaldi-6-2-dlya-pk-i-android-20230830-143505/</guid>
+      <description>Состоялся релиз браузера Vivaldi 6.2 для десктопов и Android. Сборки Vivaldi подготовлены для Linux, Windows, Android и macOS. Изменения, вносимые в кодовую базу Chromium , проект распространяет под открытой лицензией. Интерфейс браузера написан на языке JavaScript с использованием библиотеки React, платформы Node.js, Browserify и различных готовых NPM-модулей. Реализация интерфейса доступна в исходных текстах, но под проприетарной лицензией.
+https://www.opennet.ru/opennews/art.shtml?num=59684</description>
+    </item>
+    
+    <item>
+      <title>Mozilla анонсировала полноценную экосистему дополнений для Android-версии Firefox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-anonsirovala-polnocennuyu-ekosistemu-dopolneniy-dlya-android-versii-firefox-20230812-013505/</link>
+      <pubDate>Sat, 12 Aug 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-anonsirovala-polnocennuyu-ekosistemu-dopolneniy-dlya-android-versii-firefox-20230812-013505/</guid>
+      <description>Разработчики из компании Mozilla анонсировали скорую реализацию поддержки в мобильной версии браузера всех имеющихся для Firefox дополнений, представленных в каталоге addons.mozilla.org (AMO). Данная возможность сделает Firefox для Android первым мобильным браузером, поддерживающим полноценную открытую экосистему дополнений. Задуманное планируется реализовать до конца года (точная дата реализации полной поддержки дополнений будет объявлена в начале сентября).
+https://www.opennet.ru/opennews/art.shtml?num=59588</description>
+    </item>
+    
+    <item>
+      <title>Google отключил поддержку io_uring в ChromeOS и Android из-за плачевного состояния безопасности</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</link>
+      <pubDate>Thu, 15 Jun 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-otklyuchil-podderzhku-io-uring-v-chromeos-i-android-iz-za-plachevnogo-sostoyaniya-b-20230615-113508/</guid>
+      <description>Компания Google объявила об отключении по умолчанию интерфейса асинхронного ввода/вывода io_uring в ChromeOS, Android и на рабочих серверах. Дополнительно рассматривается возможность отключения io_uring по умолчанию в GKE AutoPilot (Google Kubernetes Engine). В качестве причины отключения называется плачевная ситуация с безопасностью в io_uring, которая перевешивает достоинства применения io_uring для повышения производительности.
+https://www.opennet.ru/opennews/art.shtml?num=59297</description>
+    </item>
+    
+    <item>
+      <title>Google прекратил поддержку приложений Dialer и Messaging в открытой кодовой базе Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-prekratil-podderzhku-prilozheniy-dialer-i-messaging-v-otkrytoy-kodovoy-baze-android-20230614-123505/</link>
+      <pubDate>Wed, 14 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-prekratil-podderzhku-prilozheniy-dialer-i-messaging-v-otkrytoy-kodovoy-baze-android-20230614-123505/</guid>
+      <description>Компания Google перевела в разряд устаревших приложения Dialer и Messaging, поставляемые в репозитории AOSP (Android Open Source Project), в котором развиваются открытые исходные тексты платформы Android. Объявлено, что в будущем данные приложения, предоставляющие интерфейс для осуществления звонков и работы с SMS, будут удалены из репозитория AOSP, что потребует при создании сборок на основе AOSP обязательного использования внешних приложений для реализации данной функциональности.
+https://www.opennet.ru/opennews/art.shtml?num=59292</description>
+    </item>
+    
+    <item>
+      <title>Третья бета-версия мобильной платформы Android 14 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tretya-beta-versiya-mobilnoy-platformy-android-14-20230609-133505/</link>
+      <pubDate>Fri, 09 Jun 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tretya-beta-versiya-mobilnoy-platformy-android-14-20230609-133505/</guid>
+      <description>Компания Google представила третью бета-версию открытой мобильной платформы Android 14, которая ознаменовала переход разработки на стадию стабилизации платформы (Platform Stability), подразумевающую фиксацию поведения и состояния API для приложений. В следующих тестовых выпусках Android 14 программные интерфейсы останутся неизменны, что позволяет разработчикам начать адаптацию своих программ для использования новых возможностей платформы.
+https://www.opennet.ru/opennews/art.shtml?num=59267</description>
+    </item>
+    
+    <item>
+      <title>Атака BrutePrint для разблокировки Android-смартфона через подбор отпечатков пальцев</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-bruteprint-dlya-razblokirovki-android-smartfona-cherez-podbor-otpechatkov-palcev-20230522-153505/</link>
+      <pubDate>Mon, 22 May 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-bruteprint-dlya-razblokirovki-android-smartfona-cherez-podbor-otpechatkov-palcev-20230522-153505/</guid>
+      <description>Группа исследователей из компании Tencent и Чжэцзянского университета (Китай) представила технику атаки BrutePrint, позволяющую обойти методы защиты от подбора отпечатков пальцев, реализованные в устройствах на базе платформы Android. В штатном режиме подбору отпечатков пальцев мешает ограничение на число попыток - после нескольких неудачных попыток разблокировки устройство приостанавливает попытки биометрической аутентификации или переходит к запросу пароля. Предложенный метод атаки позволяет организовать бесконечный неограниченный цикл подбора.
+https://www.opennet.ru/opennews/art.shtml?num=59174</description>
+    </item>
+    
+    <item>
+      <title>Вторая бета-версия мобильной платформы Android 14 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoraya-beta-versiya-mobilnoy-platformy-android-14-20230514-133505/</link>
+      <pubDate>Sun, 14 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoraya-beta-versiya-mobilnoy-platformy-android-14-20230514-133505/</guid>
+      <description>Компания Google представила вторую бета-версию открытой мобильной платформы Android 14. Релиз Android 14 ожидается в третьем квартале 2023 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для смартфонов Pixel 7/7 Pro, Pixel 6/6a/6 Pro, Pixel 5/5a 5G и Pixel 4a (5G), а также некоторых моделей устройств iQOO, Lenovo, Nothing, OnePlus, OPPO, Realme, Tecno, vivo и Xiaomi.
+https://www.opennet.ru/opennews/art.shtml?num=59130</description>
+    </item>
+    
+    <item>
+      <title>Первая бета-версия мобильной платформы Android 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervaya-beta-versiya-mobilnoy-platformy-android-14-20230413-173505/</link>
+      <pubDate>Thu, 13 Apr 2023 17:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervaya-beta-versiya-mobilnoy-platformy-android-14-20230413-173505/</guid>
+      <description>Компания Google представила первую бета-версию открытой мобильной платформы Android 14. Релиз Android 14 ожидается в третьем квартале 2023 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 7/7 Pro, Pixel 6/6a/6 Pro, Pixel 5/5a 5G и Pixel 4a (5G).
+https://www.opennet.ru/opennews/art.shtml?num=58968</description>
+    </item>
+    
+    <item>
+      <title>Звуковые кодеки aptX и aptX HD вошли в состав открытой кодовой базы Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zvukovye-kodeki-aptx-i-aptx-hd-voshli-v-sostav-otkrytoy-kodovoy-bazy-android-20230320-173503/</link>
+      <pubDate>Mon, 20 Mar 2023 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zvukovye-kodeki-aptx-i-aptx-hd-voshli-v-sostav-otkrytoy-kodovoy-bazy-android-20230320-173503/</guid>
+      <description>Компания Qualcomm приняла решение реализовать поддержку звуковых кодеков aptX и aptX HD (High Definition) в репозитории AOSP (Android Open Source Project), что даст возможность использования данных кодеков во всех Android-устройствах. Речь ведётся только о кодеках aptX и aptX HD, более продвинутые версии которых, такие как aptX Adaptive и aptX Low Latency, по-прежнему будут поставляться отдельно.
+https://www.opennet.ru/opennews/art.shtml?num=58828</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Scrcpy 2.0, приложения для зеркалирования экрана Android-смартфона</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-scrcpy-2-0-prilozheniya-dlya-zerkalirovaniya-ekrana-android-smartfona-20230320-153506/</link>
+      <pubDate>Mon, 20 Mar 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-scrcpy-2-0-prilozheniya-dlya-zerkalirovaniya-ekrana-android-smartfona-20230320-153506/</guid>
+      <description>Опубликован выпуск приложения Scrcpy 2.0, позволяющего отзеркалить содержимое экрана смартфона в стационарном пользовательском окружении с возможностью управлять устройством, удалённо работать в мобильных приложениях с использованием клавиатуры и мыши, просматривать видео и прослушивать звук. Клиентские программы для управления смартфоном подготовлены для Linux, Windows и macOS. Код проекта написан на языке Си (мобильное приложение на Java) и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58827</description>
+    </item>
+    
+    <item>
+      <title>Второй предварительный выпуск Android 14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-android-14-20230309-133503/</link>
+      <pubDate>Thu, 09 Mar 2023 13:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-android-14-20230309-133503/</guid>
+      <description>Компания Google представила вторую тестовую версию открытой мобильной платформы Android 14. Релиз Android 14 ожидается в третьем квартале 2023 года. Для оценки новых возможностей платформы предложена программа предварительного тестирования. Сборки прошивки подготовлены для устройств Pixel 7/7 Pro, Pixel 6/6a/6 Pro, Pixel 5/5a 5G и Pixel 4a (5G).
+https://www.opennet.ru/opennews/art.shtml?num=58766</description>
+    </item>
+    
+  </channel>
+</rss>

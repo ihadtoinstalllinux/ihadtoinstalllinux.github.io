@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Metal on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/metal/</link>
+    <description>Recent content in Metal on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 22:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/metal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск графической библиотеки IGL 1.0, абстрагирующей работу с OpenGL, Metal, Vulkan и WebGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</link>
+      <pubDate>Thu, 11 Jul 2024 22:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</guid>
+      <description>Компания Meta* опубликовала релиз графической библиотеки IGL 1.0 (Intermediate Graphics Library), предоставляющей универсальный низкоуровневый API для управления GPU. Предложенный API охватывает типовую функциональность GPU и позволяет создавать кросс-платформенные приложения, способные работать поверх графических API OpenGL, Metal и Vulkan на системах с Android, iOS, Linux, macOS и Windows, а также использовать WebGL для отрисовки в Web при компиляции приложения в промежуточный код WebAssembly. Код IGL написан на языке С++ и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ksmbd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ksmbd/</link>
+    <description>Recent content in ksmbd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2024 13:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ksmbd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в ядре Linux, позволяющие поднять свои привилегии через nf_tables и ksmbd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-pozvolyayuschie-podnyat-svoi-privilegii-cherez-nf-tables-i-ksmbd-20240327-133530/</link>
+      <pubDate>Wed, 27 Mar 2024 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-pozvolyayuschie-podnyat-svoi-privilegii-cherez-nf-tables-i-ksmbd-20240327-133530/</guid>
+      <description>В Netfilter, подсистеме ядра Linux, используемой для фильтрации и модификации сетевых пакетов, выявлена уязвимость (CVE-2024-1086), позволяющая локальному пользователю выполнить код на уровне ядра и поднять свои привилегии в системе. Проблема вызвана двойным освобождением памяти (double-free) в модуле nf_tables, обеспечивающем работу пакетного фильтра nftables. Выявивший уязвимость исследователь безопасности разработал и опубликовал рабочий прототип эксплоита, применимый к ядрам Linux начиная с выпуска 3.15 и заканчивая 6.8-rc1.
+https://www.opennet.ru/opennews/art.shtml?num=60860</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, затрагивающие ksmbd, ktls, uio и сетевой стек</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-zatragivayuschie-ksmbd-ktls-uio-i-setevoy-stek-20240227-013534/</link>
+      <pubDate>Tue, 27 Feb 2024 01:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-zatragivayuschie-ksmbd-ktls-uio-i-setevoy-stek-20240227-013534/</guid>
+      <description>В модуле ksmbd, предлагающем встроенную в ядро Linux реализацию файлового сервера на базе протокола SMB, выявлены две уязвимости, которые позволяют удалённо без прохождения аутентификации добиться выполнения своего кода с правами ядра или определить содержимое памяти ядра на системах с активированным модулем ksmbd. Проблемы проявляются начиная с ядра 5.15, в состав которого был принят модуль ksmbd. Уязвимости устранены в обновлениях ядра 6.7.2, 6.6.14, 6.1.75 и 5.15.145. Проследить за исправлением в дистрибутивах можно на следующих страницах: Debian, Ubuntu, Gentoo, RHEL, SUSE, Fedora, Arch.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в модуле ksmbd ядра Linux, позволяющие удалённо выполнить свой код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-module-ksmbd-yadra-linux-pozvolyayuschie-udalenno-vypolnit-svoy-kod-20230524-143507/</link>
+      <pubDate>Wed, 24 May 2023 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-module-ksmbd-yadra-linux-pozvolyayuschie-udalenno-vypolnit-svoy-kod-20230524-143507/</guid>
+      <description>В модуле ksmbd, предлагающем встроенную в ядро Linux реализацию файлового сервера на базе протокола SMB, выявлено 14 уязвимостей, из которых четыре позволяют удалённо добиться выполнения своего кода с правами ядра. Атака может быть проведена без аутентификации, достаточно чтобы на системе был активирован модуль ksmbd. Проблемы проявляются начиная с ядра 5.15, в состав которого был принят модуль ksmbd. Уязвимости устранены в обновлениях ядра 6.3.2.
+https://www.opennet.ru/opennews/art.shtml?num=59189</description>
+    </item>
+    
+  </channel>
+</rss>

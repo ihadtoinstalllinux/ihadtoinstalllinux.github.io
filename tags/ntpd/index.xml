@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ntpd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntpd/</link>
+    <description>Recent content in ntpd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2024 12:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Encrypt перешёл на NTP-сервер ntpd-rs, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</link>
+      <pubDate>Tue, 25 Jun 2024 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, объявил о переходе на использование NTP-сервера ntpd-rs, написанного на языке Rust с оглядкой на обеспечение безопасности и стабильности. Проект распространяется под лицензиями Apache 2.0 и MIT, полностью поддерживает протоколы NTP и NTS (Network Time Security) на уровне клиента и сервера, и может использоваться в качестве замены NTP-серверам chrony, ntpd и NTPsec.
+https://www.opennet.ru/opennews/art.shtml?num=61435</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ops on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ops/</link>
+    <description>Recent content in ops on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 02:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро Linux принят 21-строчный патч, ускоряющий прохождение теста per_thread_ops на 2.6%</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-prinyat-21-strochnyy-patch-uskoryayuschiy-prohozhdenie-testa-per-thread-ops-20241101-023540/</link>
+      <pubDate>Fri, 01 Nov 2024 02:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-prinyat-21-strochnyy-patch-uskoryayuschiy-prohozhdenie-testa-per-thread-ops-20241101-023540/</guid>
+      <description>Джош Пуамбеф (Josh Poimboeuf) из компании Red Hat опубликовал патч для ядра Linux, ускоряющий на 2.6% прохождение теста &amp;ldquo;per_thread_ops&amp;rdquo;, оценивающего число операций, которые могут быть выполнены в одном потоке. Патч содержит всего несколько строк кода, заменяющих медленный вызов barrier_nospec() на более быстрое маскирование указателя в 64-битной функции copy_from_user(), используемой для копирования данных в пространство ядра из пространства пользователя. Линус Торвальдс уже перенёс данную оптимизацию в состав ветки ядра 6.12.
+https://www.opennet.ru/opennews/art.shtml?num=62153</description>
+    </item>
+    
+  </channel>
+</rss>

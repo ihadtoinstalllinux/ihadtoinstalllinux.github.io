@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PuTTY on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/putty/</link>
+    <description>Recent content in PuTTY on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 21:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/putty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск SSH-клиента PuTTY 0.82</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ssh-klienta-putty-0-82-20241205-213530/</link>
+      <pubDate>Thu, 05 Dec 2024 21:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ssh-klienta-putty-0-82-20241205-213530/</guid>
+      <description>Сформирован релиз PuTTY 0.82, клиента для протоколов SSH, Telnet, Rlogin и SUPDUP, поставляемого со встроенным эмулятором терминала и поддерживающего работу в Unix-подобных системах и Windows. Исходные тексты проекта доступны под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62349</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в PuTTY, позволяющая восстановить закрытый ключ пользователя</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-putty-pozvolyayuschaya-vosstanovit-zakrytyy-klyuch-polzovatelya-20240416-143551/</link>
+      <pubDate>Tue, 16 Apr 2024 14:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-putty-pozvolyayuschaya-vosstanovit-zakrytyy-klyuch-polzovatelya-20240416-143551/</guid>
+      <description>В PuTTY, клиенте для протокола SSH, пользующегося популярностью на платформе Windows, выявлена опасная уязвимость (CVE-2024-31497), позволяющая воссоздать закрытый ключ пользователя, сгенерированный с использованием алгоритма ECDSA с эллиптической кривой NIST P-521 (ecdsa-sha2-nistp521). Для подбора закрытого ключа достаточно проанализировать примерно 60 цифровых подписей, сформированных проблемным ключом.
+https://www.opennet.ru/opennews/art.shtml?num=60998</description>
+    </item>
+    
+  </channel>
+</rss>

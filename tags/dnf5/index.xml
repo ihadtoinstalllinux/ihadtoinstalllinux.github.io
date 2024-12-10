@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNF5 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dnf5/</link>
+    <description>Recent content in DNF5 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2024 07:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dnf5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 41 утверждён переход на пакетный менеджер DNF5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-utverzhden-perehod-na-paketnyy-menedzher-dnf5-20240411-073542/</link>
+      <pubDate>Thu, 11 Apr 2024 07:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-utverzhden-perehod-na-paketnyy-menedzher-dnf5-20240411-073542/</guid>
+      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки дистрибутива Fedora Linux, утвердил задействование по умолчанию пакетного менеджера DNF5 в осеннем выпуске Fedora 41. Пакеты dnf, libdnf и dnf-cutomatic будут заменены в Fedora 41 на инструментарий DNF5 и новую библиотеку libdnf5, а символическая ссылка /usr/bin/dnf начнёт указывать на исполняемый файл dnf5.
+https://www.opennet.ru/opennews/art.shtml?num=60955</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 намечен переход на пакетный менеджер DNF5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namechen-perehod-na-paketnyy-menedzher-dnf5-20240326-023524/</link>
+      <pubDate>Tue, 26 Mar 2024 02:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-namechen-perehod-na-paketnyy-menedzher-dnf5-20240326-023524/</guid>
+      <description>В выпуске Fedora 41 предложено перевести дистрибутив по умолчанию на пакетный менеджер DNF5. Изначально, переход на DNF5 планировалось произвести в выпуске Fedora 39, но миграция была отложена из-за неготовности инструментария. Несмотря на то, что полный паритет в функциональности со старым инструментарием всё ещё не достигнут, разработчики считают, что дистрибутив готов к миграции, а недостающие возможности можно реализовать позднее. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>etcd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/etcd/</link>
+    <description>Recent content in etcd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 11:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/etcd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект etcd-await-election для запуска процессов с учётом выбора лидирующего экземпляра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-etcd-await-election-dlya-zapuska-processov-s-uchetom-vybora-lidiruyuschego-ekzemply-20240711-113558/</link>
+      <pubDate>Thu, 11 Jul 2024 11:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-etcd-await-election-dlya-zapuska-processov-s-uchetom-vybora-lidiruyuschego-ekzemply-20240711-113558/</guid>
+      <description>Команда Ænix представила новый проект etcd-await-election, который позволяет выполнять операцию &amp;ldquo;leader election&amp;rdquo; на нескольких узлах с помощью распределённого хранилища etcd, для того чтобы гарантировать выполнение только одного экземпляра процесса в кластерных окружениях. Проект продолжает развитие идеи k8s-await-election, гарантируя эксклюзивный запуск пользовательского процесса, только после проведения выборов лидирующего экземпляра сервиса, но в отличие от него не требует наличия Kubernetes и работает напрямую с etcd. Код написан на языке Go и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Первый альфа-выпуск etcd-оператора для Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</link>
+      <pubDate>Sat, 23 Mar 2024 18:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-alfa-vypusk-etcd-operatora-dlya-kubernetes-20240323-183510/</guid>
+      <description>Опубликована первая альфа-версия проекта etcd-operator, развивающего инструментарий для упрощения развёртывания распределённого хранилища etcd в окружении Kubernetes и управления кластерами etcd. Инструментарий может решать такие задачи, как развёртывание узлов, настройка, управление, масштабирование и восстановление в случае сбоев. Конфигурация задаётся в формате YAML. Код проекта написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60833</description>
+    </item>
+    
+  </channel>
+</rss>

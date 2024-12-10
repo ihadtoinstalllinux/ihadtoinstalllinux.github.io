@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XUL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xul/</link>
+    <description>Recent content in XUL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 10:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xul/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox избавлен от применения XUL Layout в интерфейсе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/firefox-izbavlen-ot-primeneniya-xul-layout-v-interfeyse-20230402-103506/</link>
+      <pubDate>Sun, 02 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/firefox-izbavlen-ot-primeneniya-xul-layout-v-interfeyse-20230402-103506/</guid>
+      <description>После девяти лет работы из кодовой базы Firefox удалены последние компоненты формирования интерфейса, в которых использовалось пространство имён XUL. Таким образом, за единичными исключениями, для отрисовки пользовательского интерфейса Firefox теперь применяются обычные web-технологии (главным образом CSS flexbox), а не специфичные XUL-обработчики (-moz-box, -moz-inline-box, -moz-grid, -moz-stack, -moz-popup). В качестве исключения XUL продолжает использоваться для отображения системных меню и всплывающих панелей (‹xul:menupopup› и ‹xul:panel›), но в будущем для подобной функциональности планируют задействовать API Popover.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toxiproxy on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/toxiproxy/</link>
+    <description>Recent content in Toxiproxy on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 13:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/toxiproxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Toxiproxy 2.6, прокси для проверки устойчивости приложений к сетевым проблемам </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-toxiproxy-2-6-proksi-dlya-proverki-ustoychivosti-prilozheniy-k-setevym-problemam-20230823-133505/</link>
+      <pubDate>Wed, 23 Aug 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-toxiproxy-2-6-proksi-dlya-proverki-ustoychivosti-prilozheniy-k-setevym-problemam-20230823-133505/</guid>
+      <description>Доступен выпуск прокси-сервера Toxiproxy 2.6, предназначенного для симуляции сбоев в работе сети и тестирования работоспособности приложений при возникновении различных аномалий. Сервер развивается компанией Shopify, разрабатывающей одну из крупнейших платформ электронной коммерции. Прокси может применяться для проведения отдельных экспериментов или интегрироваться с системами unit-тестирования, платформами непрерывной интеграции и окружениями для разработки. Код Toxiproxy написан на языке Go и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59646</description>
+    </item>
+    
+  </channel>
+</rss>

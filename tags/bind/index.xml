@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BIND on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bind/</link>
+    <description>Recent content in BIND on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 00:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DNS-сервера BIND 9.20.0, переведённый на libuv и новый бэкенд для БД</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-20-0-perevedennyy-na-libuv-i-novyy-bekend-dlya-bd-20240724-003550/</link>
+      <pubDate>Wed, 24 Jul 2024 00:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dns-servera-bind-9-20-0-perevedennyy-na-libuv-i-novyy-bekend-dlya-bd-20240724-003550/</guid>
+      <description>После двух с половиной лет разработки консорциум ISC представил первый стабильный релиз новой значительной ветки DNS-сервера BIND 9.20, который вобрал в себя изменения, развивавшиеся в экспериментальной ветке BIND 9.19. Поддержка ветки 9.20 будет осуществляться в рамках расширенного цикла сопровождения до первого квартала 2028 года. Поддержка ветки 9.18 прекратится во 2 квартале 2025 года. Для развития функциональности следующей стабильной версии BIND будет сформирована экспериментальная ветка BIND 9.21.0. Код проекта написан на языке Си и распространяется под лицензией MPL 2.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в ядре Linux, Glibc, GStreamer, Ghostscript, BIND и CUPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</link>
+      <pubDate>Sun, 01 Oct 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-yadre-linux-glibc-gstreamer-ghostscript-bind-i-cups-20231001-153506/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59852</description>
+    </item>
+    
+  </channel>
+</rss>

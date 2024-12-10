@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mkdir on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mkdir/</link>
+    <description>Recent content in mkdir on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 12:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mkdir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Построение полной по Тьюрингу вычислительной среды при помощи утилит GNU find и mkdir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/postroenie-polnoy-po-tyuringu-vychislitelnoy-sredy-pri-pomoschi-utilit-gnu-find-i-mkdir-20240731-123559/</link>
+      <pubDate>Wed, 31 Jul 2024 12:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/postroenie-polnoy-po-tyuringu-vychislitelnoy-sredy-pri-pomoschi-utilit-gnu-find-i-mkdir-20240731-123559/</guid>
+      <description>Японский разработчик Keigo Oka продемонстрировал, что на основе утилит GNU find и mkdir можно сформировать вычислительную среду, являющуюся полной по Тьюрингу, т.е. позволяющую реализовать на нём любую вычислимую функцию и воссоздать себя. Ранее возможность создания подобной среды была продемонстрирована для утилит sed и awk. Для подтверждения полноты по Тьюрингу предоставлены реализации на связке из find и mkdir игры Fizz buzz и клеточного автомата, действующего по &amp;ldquo;правилу 110&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61635</description>
+    </item>
+    
+  </channel>
+</rss>

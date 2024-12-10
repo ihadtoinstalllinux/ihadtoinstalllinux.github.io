@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rTorrent on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rtorrent/</link>
+    <description>Recent content in rTorrent on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 01:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rtorrent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>После пятилетнего перерыва выпущен BitTorrent-клиент rTorrent 0.10.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-pyatiletnego-pereryva-vypuschen-bittorrent-klient-rtorrent-0-10-0-20240930-013604/</link>
+      <pubDate>Mon, 30 Sep 2024 01:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-pyatiletnego-pereryva-vypuschen-bittorrent-klient-rtorrent-0-10-0-20240930-013604/</guid>
+      <description>Спустя пять лет после формирования прошлого выпуска доступен релиз консольного BitTorrent-клиента rTorrent 0.10.0. Интерфейс программы построен с использованием библиотеки ncurses и может использоваться при подключении через SSH в мультиплексорах терминала, таких как tmux и screen. Возможен перевод клиента в фоновый режим, управляемый при помощи XMLRPC (например, для управления может использоваться web-интерфейс ruTorrent или утилиты pyrocore). rTorrent совместим почти со всеми BitTorrent-трекерами, поддерживает Magnet-ссылки, PE (Protocol Encryption), суперсид (Super-seeding), DHT (Distributed Hash Table) и PEX (Peer exchange).</description>
+    </item>
+    
+  </channel>
+</rss>

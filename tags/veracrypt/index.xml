@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VeraCrypt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/veracrypt/</link>
+    <description>Recent content in VeraCrypt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 10:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/veracrypt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы шифрования дисковых разделов VeraCrypt 1.26.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-shifrovaniya-diskovyh-razdelov-veracrypt-1-26-14-20240828-103552/</link>
+      <pubDate>Wed, 28 Aug 2024 10:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-shifrovaniya-diskovyh-razdelov-veracrypt-1-26-14-20240828-103552/</guid>
+      <description>После 11 месяцев разработки опубликован выпуск проекта VeraCrypt 1.26.14, развивающего форк системы шифрования дисковых разделов TrueCrypt, прекратившей своё существование. VeraCrypt примечателен заменой используемого в TrueCrypt алгоритма RIPEMD-160 на SHA-512 и SHA-256, увеличением числа итераций хэширования, упрощением процесса сборки для Linux и macOS, устранением проблем, выявленных в процессе аудита исходных текстов TrueCrypt. Разработанный проектом VeraCrypt код распространяется под лицензией Apache 2.0, а заимствования из TrueCrypt продолжают поставляться под лицензией TrueCrypt License 3.</description>
+    </item>
+    
+    <item>
+      <title>Доступна система шифрования дисковых разделов VeraCrypt 1.26, пришедшая на смену TrueCrypt </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-shifrovaniya-diskovyh-razdelov-veracrypt-1-26-prishedshaya-na-smenu-truec-20231002-133507/</link>
+      <pubDate>Mon, 02 Oct 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-shifrovaniya-diskovyh-razdelov-veracrypt-1-26-prishedshaya-na-smenu-truec-20231002-133507/</guid>
+      <description>После полутора лет разработки опубликован выпуск проекта VeraCrypt 1.26, развивающего форк системы шифрования дисковых разделов TrueCrypt, прекратившей своё существование. VeraCrypt примечателен заменой используемого в TrueCrypt алгоритма RIPEMD-160 на SHA-512 и SHA-256, увеличением числа итераций хэширования, упрощением процесса сборки для Linux и macOS, устранением проблем, выявленных в процессе аудита исходных текстов TrueCrypt. Прошлый официальный релиз VeraCrypt 1.25.9 был опубликован в феврале 2022 года. Разработанный проектом VeraCrypt код распространяется под лицензией Apache 2.</description>
+    </item>
+    
+  </channel>
+</rss>

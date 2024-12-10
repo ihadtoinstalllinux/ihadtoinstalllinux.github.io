@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LibreQoS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libreqos/</link>
+    <description>Recent content in LibreQoS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 15:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libreqos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна платформа оптимизации трафика LibreQoS 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-optimizacii-trafika-libreqos-1-4-20231130-153526/</link>
+      <pubDate>Thu, 30 Nov 2023 15:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-platforma-optimizacii-trafika-libreqos-1-4-20231130-153526/</guid>
+      <description>Опубликован выпуск платформы LibreQoS 1.4, предназначенной для организации справедливого распределения имеющейся полосы пропускания между пользователями и снижения негативных эффектов, возникающих из-за промежуточной буферизации пакетов (Bufferbloat) сетевым оборудованием. Платформа может использоваться провайдерами или администраторами частных сетей для оптимизации потоков трафика, поддержания задержек на минимальном уровне и распределения полосы пропускания с учётом приоритетов. Код проекта написан на языках Си, Python и Rust, и распространяется под лицензией GPLv2. Проект развивается при участии Дэйва Тахта (Dave Taht), сооснователя проекта Bufferbloat, создателя дистрибутива CeroWrt и автора многочисленных RFC, связанных с обработкой сетевых очередей.</description>
+    </item>
+    
+  </channel>
+</rss>

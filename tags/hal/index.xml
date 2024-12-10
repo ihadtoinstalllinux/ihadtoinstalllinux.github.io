@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hal on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hal/</link>
+    <description>Recent content in hal on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 13:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован embedded-hal 1.0, инструментарий для создания драйверов на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-embedded-hal-1-0-instrumentariy-dlya-sozdaniya-drayverov-na-yazyke-rust-20240114-133601/</link>
+      <pubDate>Sun, 14 Jan 2024 13:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-embedded-hal-1-0-instrumentariy-dlya-sozdaniya-drayverov-na-yazyke-rust-20240114-133601/</guid>
+      <description>Рабочая группа Rust Embedded, созданная для разработки технологий повышения качества и безопасности приложений, прошивок и драйверов к встраиваемым системам, представила первый выпуск фреймворка embedded-hal, предоставляющего набор программных интерфейсов для взаимодействия с периферией, обычно применяемой с микроконтроллерами (например, предоставляются типажи для работы с GPIO, UART, SPI и I2C). Наработки проекта написаны на языке Rust и распространяются под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60435</description>
+    </item>
+    
+  </channel>
+</rss>

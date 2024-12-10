@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>X on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x/</link>
+    <description>Recent content in X on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 02:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление X.Org Server 21.1.14 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-14-s-ustraneniem-uyazvimosti-20241030-023546/</link>
+      <pubDate>Wed, 30 Oct 2024 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-14-s-ustraneniem-uyazvimosti-20241030-023546/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.14 и DDX-компонента (Device-Dependent X) xwayland 24.1.4, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранена уязвимость (CVE-2024-9632), которая может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=62136</description>
+    </item>
+    
+    <item>
+      <title>X Window System исполнилось 40 лет, а FreeBSD - 31 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</link>
+      <pubDate>Thu, 20 Jun 2024 11:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/x-window-system-ispolnilos-40-let-a-freebsd-31-god-20240620-113604/</guid>
+      <description>Исполнилось 40 лет с момента объявления Робертом Шеффлером о создании протокола X Window System. Путь от выпуска X1 до X11 протокол прошёл всего за три года, после чего состояние X11 стабилизировалось и со временем лишь обрастает расширениями, но не меняет своей сути. Например, в качестве расширений в своё время были представлены такие распространённые возможности как XVideo, X Font Server, XKB, Xinerama, XCB, Multi-Pointer X, Present, DRI2, DRI3, RandR, X Input и т.</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива Rocky Linux 8.10, последний в серии 8.x</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-10-posledniy-v-serii-8-x-20240601-173539/</link>
+      <pubDate>Sat, 01 Jun 2024 17:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-rocky-linux-8-10-posledniy-v-serii-8-x-20240601-173539/</guid>
+      <description>Представлен релиз дистрибутива Rocky Linux 8.10, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS, после того как компания Red Hat досрочно прекратила поддержку ветки CentOS 8 в конце 2021 года, а не в 2029 году, как предполагалось изначально. Сборки Rocky Linux подготовлены для архитектур x86_64 и aarch64. Дополнительно формируются сборки для облачных окружений Oracle Cloud Platform (OCP), GenericCloud, Amazon AWS (EC2), Google Cloud Platform и Microsoft Azure, а также образы для контейнеров и виртуальных машин в форматах RootFS/OCI и Vagrant (Libvirt, VirtualBox, VMWare).</description>
+    </item>
+    
+    <item>
+      <title>Qualcomm обеспечит поддержку чипов Snapdragon X Elite в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/qualcomm-obespechit-podderzhku-chipov-snapdragon-x-elite-v-yadre-linux-20240523-163531/</link>
+      <pubDate>Thu, 23 May 2024 16:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/qualcomm-obespechit-podderzhku-chipov-snapdragon-x-elite-v-yadre-linux-20240523-163531/</guid>
+      <description>Компания Qualcomm сообщила о проведении работы по передаче в основной состав ядра Linux изменений, обеспечивающих поддержку ARM SoC Snapdragon X Elite, в котором используется собственный 12-ядерный CPU Qualcomm Oryon и GPU Qualcomm Adreno. Чип нацелен на использование в ноутбуках и ПК, и опережает по многих тестах производительности чипы Apple M3 и Intel Core Ultra 155H. Первые устройства на базе Snapdragon X Elite ожидаются в середине года и будут оснащены платформой Windows.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.13 с устранением потенциальной уязвимости в исправлении уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-13-s-ustraneniem-potencialnoy-uyazvimosti-v-ispravlenii-uyazv-20240413-113553/</link>
+      <pubDate>Sat, 13 Apr 2024 11:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-13-s-ustraneniem-potencialnoy-uyazvimosti-v-ispravlenii-uyazv-20240413-113553/</guid>
+      <description>Опубликован корректирующий выпуск X.Org Server 21.1.13, в котором устранена ошибка, допущенная при исправлении уязвимости CVE-2024-31083 в прошлой версии. Исправление привело к двойному вызову функции free() в определённых ситуациях. Несмотря на наличие ошибки, которая обычно воспринимается как уязвимость класса &amp;ldquo;double-free&amp;rdquo;, проблема явно не помечена разработчиками X.Org как уязвимость - упоминается только то, что она приводит к аварийному завершению X-сервера.
+https://www.opennet.ru/opennews/art.shtml?num=60983</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.12 с устранением 4 уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-12-s-ustraneniem-4-uyazvimostey-20240405-023602/</link>
+      <pubDate>Fri, 05 Apr 2024 02:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-12-s-ustraneniem-4-uyazvimostey-20240405-023602/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.12 и DDX-компонента (Device-Dependent X) xwayland 23.2.5, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новой версии X.Org Server устранены 4 уязвимости. Одна уязвимость может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60927</description>
+    </item>
+    
+    <item>
+      <title>Выпуск X.Org-видеодрайверов nv 2.1.23, vboxvideo 1.0.1, savage 2.4.1 и chips 1.5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-x-org-videodrayverov-nv-2-1-23-vboxvideo-1-0-1-savage-2-4-1-i-chips-1-5-0-20240325-133552/</link>
+      <pubDate>Mon, 25 Mar 2024 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-x-org-videodrayverov-nv-2-1-23-vboxvideo-1-0-1-savage-2-4-1-i-chips-1-5-0-20240325-133552/</guid>
+      <description>Состоялся релиз развиваемых проектом X.Org DDX-драйверов, работающих в пространстве пользователя и не требующих наличия KMS/DRM-драйверов на стороне ядра. В новых версиях предложены накопившиеся исправления ошибок и обеспечена совместимость с современными компиляторами. Доступны обновления.
+https://www.opennet.ru/opennews/art.shtml?num=60841</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.11 с устранением 6 уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-11-s-ustraneniem-6-uyazvimostey-20240118-113549/</link>
+      <pubDate>Thu, 18 Jan 2024 11:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-11-s-ustraneniem-6-uyazvimostey-20240118-113549/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.11 и DDX-компонента (Device-Dependent X) xwayland 23.2.4, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранено 6 уязвимостей, некоторые из которых могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60456</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.10 с устранением уязвимостей. Удаление поддержки UMS из ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</link>
+      <pubDate>Wed, 13 Dec 2023 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.10 и DDX-компонента (Device-Dependent X) xwayland 23.2.3, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены две уязвимости. Первая уязвимость может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60280</description>
+    </item>
+    
+    <item>
+      <title>Red Hat удалит сервер X.org и связанные компоненты из RHEL 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-udalit-server-x-org-i-svyazannye-komponenty-iz-rhel-10-20231128-143600/</link>
+      <pubDate>Tue, 28 Nov 2023 14:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-udalit-server-x-org-i-svyazannye-komponenty-iz-rhel-10-20231128-143600/</guid>
+      <description>Компания Red Hat опубликовала план прекращения поддержки сервера X.org в дистрибутиве Red Hat Enterprise Linux 10. Изначально, X.org Server был объявлен устаревшим и намеченным на удаление в будущей ветке RHEL ещё год назад в примечании к выпуску RHEL 9.1. Возможность запуска X11-приложений в сеансе Wayland, обеспечиваемая при помощи DDX-сервера XWayland, будет сохранена. Первый выпуск ветки RHEL 10, в котором будет прекращена поставка X.org Server, запланирован на первую половину 2025 года.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.9 и xwayland 23.2.2 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-9-i-xwayland-23-2-2-s-ustraneniem-uyazvimostey-20231025-123556/</link>
+      <pubDate>Wed, 25 Oct 2023 12:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-9-i-xwayland-23-2-2-s-ustraneniem-uyazvimostey-20231025-123556/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.9 и DDX-компонента (Device-Dependent X) xwayland 22.2.2, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены уязвимости, которые потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=59991</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в библиотеках X.Org, две из которых присутствуют с 1988 года</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-bibliotekah-x-org-dve-iz-kotoryh-prisutstvuyut-s-1988-goda-20231011-143504/</link>
+      <pubDate>Wed, 11 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-bibliotekah-x-org-dve-iz-kotoryh-prisutstvuyut-s-1988-goda-20231011-143504/</guid>
+      <description>Обнародована информация о пяти уязвимостях в библиотеках libX11 и libXpm, развиваемых проектом X.Org. Проблемы устранены в выпусках libXpm 3.5.17 и libX11 1.8.7. Три уязвимости выявлены в библиотеке libx11, предлагающей функции с клиентской реализацией протокола X11.
+https://www.opennet.ru/opennews/art.shtml?num=59906</description>
+    </item>
+    
+    <item>
+      <title>Проект X.Org прекращает поддержку 20 устаревших библиотек и утилит</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-x-org-prekraschaet-podderzhku-20-ustarevshih-bibliotek-i-utilit-20230503-113506/</link>
+      <pubDate>Wed, 03 May 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-x-org-prekraschaet-podderzhku-20-ustarevshih-bibliotek-i-utilit-20230503-113506/</guid>
+      <description>Разработчики проекта X.Org объявили о прекращении сопровождения некоторых библиотек, драйверов и утилит X Window System, обновления для которых больше не будут выпускаться, даже в случае выявления уязвимостей. Репозитории данных пакетов переведены в архивный статус, подразумевающий прекращение приёма исправлений и сообщений об ошибках. Дистрибутивы могут продолжать поставку этих пакетов, но на свой страх и риск. Выбранные для прекращения поддержки пакеты потеряли актуальность, неработоспособны с новыми версиями X-сервера или привязаны к устаревшим API.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.8 и xwayland  23.1.1 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-8-i-xwayland-23-1-1-s-ustraneniem-uyazvimosti-20230331-003504/</link>
+      <pubDate>Fri, 31 Mar 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-8-i-xwayland-23-1-1-s-ustraneniem-uyazvimosti-20230331-003504/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.8 и DDX-компонента (Device-Dependent X) xwayland 22.1.6 и 23.1.1, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранена уязвимость (CVE-2023-1393), которая потенциально может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58897</description>
+    </item>
+    
+    <item>
+      <title>Обновления драйверов X.org для видеокарт S3 и Trident</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovleniya-drayverov-x-org-dlya-videokart-s3-i-trident-20230318-193502/</link>
+      <pubDate>Sat, 18 Mar 2023 19:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovleniya-drayverov-x-org-dlya-videokart-s3-i-trident-20230318-193502/</guid>
+      <description>Состоялись релизы X.org-драйверов xf86-video-trident 1.4 и xf86-video-s3virge 1.11.1 для видеокарт Trident и S3, которые ныне не производятся, однако некоторые люди продолжают их использовать, зачастую в качестве второй видеокарты. Кроме того, видеочипы этих производителей могут использоваться в серверах и эмулироваться виртуальными машинами.
+https://www.opennet.ru/opennews/art.shtml?num=58816</description>
+    </item>
+    
+  </channel>
+</rss>

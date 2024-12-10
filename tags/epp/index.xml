@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EPP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/epp/</link>
+    <description>Recent content in EPP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 18:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/epp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в EPP-серверах позволяла получить контроль над 19 доменами первого уровня</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-epp-serverah-pozvolyala-poluchit-kontrol-nad-19-domenami-pervogo-urovnya-20230613-183505/</link>
+      <pubDate>Tue, 13 Jun 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-epp-serverah-pozvolyala-poluchit-kontrol-nad-19-domenami-pervogo-urovnya-20230613-183505/</guid>
+      <description>Исследователи безопасности из группы Hackcompute опубликовали результат своих экспериментов по изучению защищённости регистраторов доменных имён, атака на которых может привести, например, к изменению DNS-серверов для перенаправления запросов на хост злоумышленника. В результате исследования в одной из реализаций XML-протокола.
+https://www.opennet.ru/opennews/art.shtml?num=59285</description>
+    </item>
+    
+  </channel>
+</rss>

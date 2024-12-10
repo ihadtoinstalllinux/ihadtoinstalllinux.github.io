@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Delta on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/delta/</link>
+    <description>Recent content in Delta on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 01:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/delta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован мессенджер Delta Chat 1.42, использующий email в качестве транспорта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-messendzher-delta-chat-1-42-ispolzuyuschiy-email-v-kachestve-transporta-20231128-013550/</link>
+      <pubDate>Tue, 28 Nov 2023 01:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-messendzher-delta-chat-1-42-ispolzuyuschiy-email-v-kachestve-transporta-20231128-013550/</guid>
+      <description>Доступен выпуск мессенджера Delta Chat 1.42, работающего без специализированных серверов и использующего email в качестве транспорта (chat-over-email, специализированный почтовый клиент, работающий как мессенджер). Код приложений распространяется под лицензией GPLv3, а базовая библиотека доступна под лицензией MPL 2.0 (Mozilla Public License). Релиз доступен в Google Play и F-Droid, а также в сборках для Linux (AppImage, pacman, rpm, deb), Windows и MacOS.
+https://www.opennet.ru/opennews/art.shtml?num=60186</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DeltaTouch 1.0.0, клиента Delta Chat для Ubuntu Touch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</link>
+      <pubDate>Tue, 04 Jul 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-deltatouch-1-0-0-klienta-delta-chat-dlya-ubuntu-touch-20230704-093505/</guid>
+      <description>Вышла первая версия мессенджера DeltaTouch для платформы Ubuntu Touch, применяющего технологию Delta Chat для использования email в качестве транспорта вместо собственных серверов (chat-over-email, специализированный почтовый клиент, работающий как мессенджер). Исходные тексты написаны на С++ и распространяются под лицензией GPLv3. Сборки DeltaTouch доступны для загрузки в каталоге OpenStore для веток Ubuntu Touch на базе Ubuntu 16.04 и 20.04.
+https://www.opennet.ru/opennews/art.shtml?num=59376</description>
+    </item>
+    
+  </channel>
+</rss>

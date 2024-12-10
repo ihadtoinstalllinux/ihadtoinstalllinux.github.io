@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frigate on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/frigate/</link>
+    <description>Recent content in Frigate on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 14:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/frigate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Frigate 0.14, системы определения объектов на камерах наблюдения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-frigate-0-14-sistemy-opredeleniya-obektov-na-kamerah-nablyudeniya-20240812-143523/</link>
+      <pubDate>Mon, 12 Aug 2024 14:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-frigate-0-14-sistemy-opredeleniya-obektov-na-kamerah-nablyudeniya-20240812-143523/</guid>
+      <description>Доступен выпуск проекта Frigate 0.14, предоставляющего средства для создания сетевых видеорегистраторов (NVR, Network Video Recorder) в реальном режиме времени анализирующих видео, передаваемое с IP-камер видеонаблюдения, а также выявляющих и фиксирующих изменения и объекты. Например, система может сохранять изображений людей, проходивших мимо камеры. Для выявления объектов используется модель машинного обучения, выполняемая на локальной системе без обращения к внешним сервисам. Код платформы написан на языке Python и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61692</description>
+    </item>
+    
+  </channel>
+</rss>

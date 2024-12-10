@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ledger on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ledger/</link>
+    <description>Recent content in Ledger on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2023 13:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ledger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компрометация NPM-репозитория Ledger привела к подстановке вредоносных изменений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/komprometaciya-npm-repozitoriya-ledger-privela-k-podstanovke-vredonosnyh-izmeneniy-20231216-133530/</link>
+      <pubDate>Sat, 16 Dec 2023 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/komprometaciya-npm-repozitoriya-ledger-privela-k-podstanovke-vredonosnyh-izmeneniy-20231216-133530/</guid>
+      <description>Компания Ledger, выпускающая одноимённые аппаратные криптокошельки, раскрыла информацию о компрометации своего NPM-репозитория, которая привела к внедрению вредоносного кода в JavaScript-библиотеку Ledger Connect Kit, применяемую для обеспечения доступа децентрализованных web-приложений к криптокошелькам. Злоумышленникам удалось выпустить фиктивные версии Connect Kit, в которые был встроен код, подставляющий обманные транзакции для перевода средств с криптокошелька жертвы.
+https://www.opennet.ru/opennews/art.shtml?num=60294</description>
+    </item>
+    
+  </channel>
+</rss>

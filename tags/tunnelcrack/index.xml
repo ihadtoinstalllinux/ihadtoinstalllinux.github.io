@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TunnelCrack on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tunnelcrack/</link>
+    <description>Recent content in TunnelCrack on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 13:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tunnelcrack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Серия атак TunnelCrack, направленных на перехват трафика VPN </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/seriya-atak-tunnelcrack-napravlennyh-na-perehvat-trafika-vpn-20230811-133510/</link>
+      <pubDate>Fri, 11 Aug 2023 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/seriya-atak-tunnelcrack-napravlennyh-na-perehvat-trafika-vpn-20230811-133510/</guid>
+      <description>Группа исследователей из Нью-Йоркского университета разработала два метода атаки на VPN, представленных под именем TunnelCrack. Выявленные уязвимости позволяют злоумышленнику, контролирующему беспроводную точку доступа или локальную сеть жертвы, перенаправить на свой сервер запросы к целевому хосту, в обход VPN-туннеля. Атака может быть совершена, например, при подключении через не заслуживающего доверия интернет-провайдера или развёрнутую атакующими беспроводную сеть. В результате атаки злоумышленник может организовать перехват незашифрвоанного пользовательского трафика (соединения устанавливаемые через HTTPS остаются защищены).</description>
+    </item>
+    
+  </channel>
+</rss>

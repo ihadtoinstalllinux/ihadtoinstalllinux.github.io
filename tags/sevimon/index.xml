@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sevimon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sevimon/</link>
+    <description>Recent content in Sevimon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2024 19:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sevimon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Sevimon 0.2, программы видеоконтроля напряжения мышц лица</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sevimon-0-2-programmy-videokontrolya-napryazheniya-myshc-lica-20241015-193509/</link>
+      <pubDate>Tue, 15 Oct 2024 19:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sevimon-0-2-programmy-videokontrolya-napryazheniya-myshc-lica-20241015-193509/</guid>
+      <description>Доступен выпуск программы Sevimon 0.2 для отслеживания изменения эмоций с использованием видеокамеры, которая может использоваться для контроля нервного перенапряжения, осознанного управления настроением и, при длительном применении, предотвращения появления мимических морщин. При первом запуске программа скачивает нейросетевые модели и в дальнейшем работает без доступа к сети. Для определения позиции лица на видео задействована библиотека CenterFace. Код sevimon написан на Python и распространяется под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=62051</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RADIUS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/radius/</link>
+    <description>Recent content in RADIUS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2024 14:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/radius/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в протоколе RADIUS, позволяющая подделать ответ при аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-radius-pozvolyayuschaya-poddelat-otvet-pri-autentifikacii-20240710-143535/</link>
+      <pubDate>Wed, 10 Jul 2024 14:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-protokole-radius-pozvolyayuschaya-poddelat-otvet-pri-autentifikacii-20240710-143535/</guid>
+      <description>Группа исследователей из нескольких американских университетов и компаний Cloudflare и Microsoft разработала новую технику атаки на протокол RADIUS, применяемый операторами связи, облачными сервисами и VPN-провайдерами для аутентификации, авторизации и аккаунтинга пользователей. Атака, которая получила кодовое имя Blast-RADIUS, даёт возможность подделать ответ RADIUS-сервера при прохождении аутентификации и организовать подключение абонента без знания пароля доступа.
+https://www.opennet.ru/opennews/art.shtml?num=61517</description>
+    </item>
+    
+  </channel>
+</rss>

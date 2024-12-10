@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pf on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pf/</link>
+    <description>Recent content in pf on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2023 10:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость, позволяющая обойти блокировку пакетным фильтром pf во FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-oboyti-blokirovku-paketnym-filtrom-pf-vo-freebsd-20230909-103537/</link>
+      <pubDate>Sat, 09 Sep 2023 10:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-oboyti-blokirovku-paketnym-filtrom-pf-vo-freebsd-20230909-103537/</guid>
+      <description>Во FreeBSD выявлена уязвимость (CVE-2023-4809) в коде пакетного фильтра pf, позволяющая обойти заданные для IPv6 правила блокировки через манипуляцию с фрагментированными пакетами IPv6. Проблема проявляется при использовании pf для фильтрации трафика IPv6 при включённом режиме.
+https://www.opennet.ru/opennews/art.shtml?num=59731</description>
+    </item>
+    
+  </channel>
+</rss>

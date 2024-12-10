@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNF on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dnf/</link>
+    <description>Recent content in DNF on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dnf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного менеджера DNF 4.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-dnf-4-15-20230409-123505/</link>
+      <pubDate>Sun, 09 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-menedzhera-dnf-4-15-20230409-123505/</guid>
+      <description>Доступен релиз пакетного менеджера DNF 4.15, который используется по умолчанию в дистрибутивах Fedora Linux и RHEL. DNF является ответвлением от Yum 3.4, адаптированным для работы с Python 3 и использующим библиотеку hawkey в качестве бэкенда для разрешения зависимостей. По сравнению с Yum, DNF обладает заметно более высокой скоростью работы, низким потреблением памяти и более качественным управлением зависимостями.
+https://www.opennet.ru/opennews/art.shtml?num=58937</description>
+    </item>
+    
+  </channel>
+</rss>

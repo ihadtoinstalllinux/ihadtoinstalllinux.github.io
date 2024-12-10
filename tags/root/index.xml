@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>root on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/root/</link>
+    <description>Recent content in root on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:36:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в tuned, позволяющая выполнить код с правами root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-tuned-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20241128-203606/</link>
+      <pubDate>Thu, 28 Nov 2024 20:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-tuned-pozvolyayuschaya-vypolnit-kod-s-pravami-root-20241128-203606/</guid>
+      <description>В развиваемом компанией Red Hat фоновом процессе tuned, выполняющем автоматическую оптимизацию настроек оборудования и ядра в зависимости от текущей нагрузки, выявлена уязвимость (CVE-2024-52336), позволяющая локальному непривилегированному пользователю выполнить любые команды с правами root.
+https://www.opennet.ru/opennews/art.shtml?num=62307</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в утилите needrestart, позволяющие получить root-доступ в Ubuntu Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-utilite-needrestart-pozvolyayuschie-poluchit-root-dostup-v-ubuntu-server-20241120-023540/</link>
+      <pubDate>Wed, 20 Nov 2024 02:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-utilite-needrestart-pozvolyayuschie-poluchit-root-dostup-v-ubuntu-server-20241120-023540/</guid>
+      <description>Компания Qualys выявила три уязвимости в утилите needrestart, предназначенной для перезапуска фоновых процессов после обновления используемых данными процессами библиотек. Начиная с Ubuntu 21.04 утилита needrestart включена в состав базового окружения Ubuntu Server, в котором запускается с правами root в конце каждой транзакции пакетного менеджера APT, сканирует запущенные процессы и перезапускает те их них, что связанны с файлами, изменившимися после обновления пакетов. Выявленные уязвимости позволяют локальному непривилегированному пользователю получить права root в Ubuntu Server в конфигурации по умолчанию.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в pam_oath, позволяющая получить права root в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-pam-oath-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20241005-003513/</link>
+      <pubDate>Sat, 05 Oct 2024 00:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-pam-oath-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20241005-003513/</guid>
+      <description>В PAM-модуле pam_oath, входящем в состав пакета oath-toolkit и применяемого при двухфакторной аутентификации с использованием одноразовых паролей (OTP), выявлена уязвимость (CVE-2024-47191), позволяющая непривилегированному пользователю получить root-доступ в системе.
+https://www.opennet.ru/opennews/art.shtml?num=61987</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в OpenSSH, позволяющая удалённо выполнить код с правами root на серверах с Glibc</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</link>
+      <pubDate>Mon, 01 Jul 2024 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openssh-pozvolyayuschaya-udalenno-vypolnit-kod-s-pravami-root-na-serverah-s-g-20240701-163553/</guid>
+      <description>Компания Qualys выявила критическую уязвимость (CVE-2024-6387) в OpenSSH, позволяющую добиться удалённого выполнения кода с правами root без прохождения аутентификации. Уязвимость, которая получила кодовое имя regreSSHion, проявляется начиная с версии OpenSSH 8.5 на системах со стандартной библиотекой Glibc.
+https://www.opennet.ru/opennews/art.shtml?num=61470</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в подсистеме io_uring, позволяющая получить привилегии root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-pozvolyayuschaya-poluchit-privilegii-root-20240401-133526/</link>
+      <pubDate>Mon, 01 Apr 2024 13:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-podsisteme-io-uring-pozvolyayuschaya-poluchit-privilegii-root-20240401-133526/</guid>
+      <description>В интерфейсе асинхронного ввода/вывода io_uring, предоставляемом ядром Linux, выявлена уязвимость (CVE-2024-0582), позволяющая непривилегированному пользователю получить права root в системе. Для эксплуатации уязвимости достаточно обычного локального доступа к системе, без необходимости манипуляций с пространствами имён. В настоящее время публично доступен работающий эксплоит, а также подробно описана вторая техника эксплуатации уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=60891</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в glibc, позволяющая получить root-доступ в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20240131-163533/</link>
+      <pubDate>Wed, 31 Jan 2024 16:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-pozvolyayuschaya-poluchit-root-dostup-v-sisteme-20240131-163533/</guid>
+      <description>Компания Qualys выявила опасную уязвимость (CVE-2023-6246) в стандартной Си-библиотеке Glibc, позволяющую через манипуляции с запуском SUID-приложений добиться выполнения своего кода с повышенными привилегиями. Исследователи смогли разработать рабочий эксплоит, позволяющий получить права root через манипуляцию с аргументами командной строки при запуске утилиты su.
+https://www.opennet.ru/opennews/art.shtml?num=60528</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Glibc ld.so, позволяющая получить права root в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</link>
+      <pubDate>Wed, 04 Oct 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-glibc-ld-so-pozvolyayuschaya-poluchit-prava-root-v-sisteme-20231004-023504/</guid>
+      <description>Компания Qualys выявила опасную уязвимость (CVE-2023-4911) в компоновщике ld.so, поставляемом в составе системной Си-библиотеки Glibc (GNU libc). Уязвимость позволяет локальному пользователю поднять свои привилегии в системе через указание специально оформленных данных в переменной окружения GLIBC_TUNABLES перед запуском исполняемого файла с флагом suid root, например, /usr/bin/su.
+https://www.opennet.ru/opennews/art.shtml?num=59867</description>
+    </item>
+    
+    <item>
+      <title>В Android 14 пользователь не сможет изменить системные сертификаты, даже при наличии root-доступа</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-android-14-polzovatel-ne-smozhet-izmenit-sistemnye-sertifikaty-dazhe-pri-nalichii-root-d-20230906-133505/</link>
+      <pubDate>Wed, 06 Sep 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-android-14-polzovatel-ne-smozhet-izmenit-sistemnye-sertifikaty-dazhe-pri-nalichii-root-d-20230906-133505/</guid>
+      <description>Разработчики HTTP Toolkit, открытого инструментария для инспектирования HTTPS-трафика, обратили внимание на изменение способа обновления сертификатов удостоверяющих центров (CA) в будущем выпуске платформы Android 14. Системные сертификаты больше не будут привязаны к прошивке, а станут доставляться отдельным пакетом, обновляемым через Google Play.
+https://www.opennet.ru/opennews/art.shtml?num=59722</description>
+    </item>
+    
+  </channel>
+</rss>

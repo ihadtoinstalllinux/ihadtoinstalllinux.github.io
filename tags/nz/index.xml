@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NZ on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nz/</link>
+    <description>Recent content in NZ on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ошибка при обновлении ключей DNSSEC привела к нарушению работы доменной зоны NZ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-pri-obnovlenii-klyuchey-dnssec-privela-k-narusheniyu-raboty-domennoy-zony-nz-20230530-123505/</link>
+      <pubDate>Tue, 30 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-pri-obnovlenii-klyuchey-dnssec-privela-k-narusheniyu-raboty-domennoy-zony-nz-20230530-123505/</guid>
+      <description>Новозеландский регистратор InternetNZ, отвечающих за доменную зону &amp;ldquo;.NZ&amp;rdquo;, предупредил об инциденте, в результате которого возникли массовые сбои в разрешении доменных имён в зоне &amp;ldquo;.nz&amp;rdquo; и 15 связанных вторичных зонах, таких как &amp;ldquo;co.nz&amp;rdquo; и &amp;ldquo;net.nz&amp;rdquo;. Причиной сбоя стала ошибка, допущенная при ротации KSK-ключей (Key Signing Key), применяемых для цифровой подписи записей DNSKEY, содержащих ключи для подписи доменной зоны (ZSK, Zone Signing Key). После инцидента на DNS-серверах, применяющих DNSSEC для проверки достоверности данных, перестали определяться все домены в зоне &amp;ldquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

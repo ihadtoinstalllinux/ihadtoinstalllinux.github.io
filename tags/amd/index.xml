@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AMD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/amd/</link>
+    <description>Recent content in AMD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 20:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива CachyOS 241110 с поддержкой THP Shrinker и  AMD Cache Optimizer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241110-s-podderzhkoy-thp-shrinker-i-amd-cache-optimizer-20241112-203545/</link>
+      <pubDate>Tue, 12 Nov 2024 20:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241110-s-podderzhkoy-thp-shrinker-i-amd-cache-optimizer-20241112-203545/</guid>
+      <description>Опубликован выпуск дистрибутива CachyOS 241110, основанного на пакетной базе Arch Linux и развиваемого в рамках непрерывной модели доставки обновлений. Дистрибутив примечателен включением оптимизаций для повышения производительности и предоставлением возможности установки различных сред рабочего стола. Помимо базового окружения на основе KDE для установки доступны GNOME, XFCE, i3WM, Wayfire, LXQT, OpenBox, Cinnamon, Cosmic, UKUI, LXDE, Mate, Budgie, Qtile, Hyprland и Sway. Размер установочного iso-образа 2.7 ГБ. Отдельно поставляются сборки (2.9) для носимых устройств (Handheld Edition) с интерфейсом в стиле GameMode и компонентами для любителей компьютерных игр.</description>
+    </item>
+    
+    <item>
+      <title>В Mesa-драйвере RADV сертифицирована поддержка Vulkan 1.3 для старых GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</link>
+      <pubDate>Fri, 08 Nov 2024 16:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость развиваемого проектом Mesa открытого драйвера RADV со спецификацией Vulkan 1.3. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.
+https://www.opennet.ru/opennews/art.shtml?num=62197</description>
+    </item>
+    
+    <item>
+      <title>Intel и AMD при участии Линуса Торвальдса создали консультативную группу по экосистеме x86</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-i-amd-pri-uchastii-linusa-torvaldsa-sozdali-konsultativnuyu-gruppu-po-ekosisteme-x86-20241016-013552/</link>
+      <pubDate>Wed, 16 Oct 2024 01:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-i-amd-pri-uchastii-linusa-torvaldsa-sozdali-konsultativnuyu-gruppu-po-ekosisteme-x86-20241016-013552/</guid>
+      <description>Компании Intel и AMD объявили.
+https://www.opennet.ru/opennews/art.shtml?num=62056</description>
+    </item>
+    
+    <item>
+      <title>Инженер из AMD предложил упростить в ядре Linux управление блокировками уязвимостей CPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-predlozhil-uprostit-v-yadre-linux-upravlenie-blokirovkami-uyazvimostey-cpu-20240917-223529/</link>
+      <pubDate>Tue, 17 Sep 2024 22:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-predlozhil-uprostit-v-yadre-linux-upravlenie-blokirovkami-uyazvimostey-cpu-20240917-223529/</guid>
+      <description>Так как число поддерживаемых в ядре Linux режимов для противостояния уязвимостям в CPU достигло 15 и перечисление всех уязвимостей в командной строке ядра стало довольно сложной задачей, разработчик ядра из компании AMD предложил перейти от настройки блокировки конкретных уязвимостей к выбору блокировки векторов атаки.
+https://www.opennet.ru/opennews/art.shtml?num=61876</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD опубликовала документацию по архитектуре набора команд GPU RDNA 3.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</link>
+      <pubDate>Tue, 17 Sep 2024 13:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</guid>
+      <description>Компания AMD объявила о публикации в открытом доступе руководства по архитектуре набора команд GPU RDNA 3.5, применяемой в новейших сериях процессоров Ryzen AI 300 (APU Strix Point) и Ryzen 9000, а также в платформах с GPU Radeon 880M и 890M. Документация может пригодиться тем, кто хочет разобраться в низкоуровневой работе с GPU, а также будет полезна для реализации оптимизаций при разработке шейдеров, игр и взаимодействующих с GPU утилит. Руководство полностью охватывает реализованную в RDNA 3.</description>
+    </item>
+    
+    <item>
+      <title>Sinkclose - уязвимость в CPU AMD, позволяющая получить доступ к SMM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</link>
+      <pubDate>Sat, 10 Aug 2024 18:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</guid>
+      <description>Исследователи из компании IOActive выявили уязвимость (CVE-2023-31315) в процессорах AMD, которая при привилегированном локальном доступе к системе позволяет изменить конфигурацию SMM (System Management Mode, Ring -2), даже если включён механизм блокировки SMM (SMM Lock), а также потенциально даёт возможность добиться выполнения кода на уровне SMM. Уровень SMM, имеющий более высокий приоритет, чем режим гипервизора и нулевое кольцо защиты, позволяет получить неограниченный доступ ко всей системной памяти и может использоваться для контроля за операционной системой.</description>
+    </item>
+    
+    <item>
+      <title>Требования юристов AMD привели к удалению части кода ZLUDA, открытой реализации CUDA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</link>
+      <pubDate>Wed, 07 Aug 2024 13:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/trebovaniya-yuristov-amd-priveli-k-udaleniyu-chasti-koda-zluda-otkrytoy-realizacii-cuda-20240807-133515/</guid>
+      <description>Анджей Яник (Andrzej Janik), известный своей работой по созданию реализаций технологии CUDA для GPU Intel и AMD, был вынужден по требованию компании AMD убрать из открытого доступа часть кода открытого проекта ZLUDA, позволяющего выполнять немодифицированные CUDA-приложения на системах с GPU AMD, используя стек ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Отдельно отмечается, что каких-либо связанных с проектом ZLUDA обращений от компании NVIDIA, которой принадлежит права на технологию CUDA, разработчику не поступало.</description>
+    </item>
+    
+    <item>
+      <title>ZenHammer - метод атаки для искажения содержимого памяти на платформах AMD Zen</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zenhammer-metod-ataki-dlya-iskazheniya-soderzhimogo-pamyati-na-platformah-amd-zen-20240326-133556/</link>
+      <pubDate>Tue, 26 Mar 2024 13:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zenhammer-metod-ataki-dlya-iskazheniya-soderzhimogo-pamyati-na-platformah-amd-zen-20240326-133556/</guid>
+      <description>Исследователи из Швейцарской высшей технической школы Цюриха разработали метод атаки ZenHammer, представляющий собой вариант атак класса RowHammer для изменения содержимого отдельных битов динамической оперативной памяти (DRAM), адаптированный для использования на платформах с процессорами AMD. Прошлые методы атак класса RowHammer ограничивались системами на базе процессоров Intel, но проведённое исследование показало, что искажения ячеек памяти также можно добиться на платформах с контроллерами памяти от компании AMD.
+https://www.opennet.ru/opennews/art.shtml?num=60850</description>
+    </item>
+    
+    <item>
+      <title>GhostRace - атака на механизм спекулятивного выполнения в процессорах Intel, AMD, ARM и IBM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</link>
+      <pubDate>Wed, 13 Mar 2024 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета и компании IBM разработала новый вариант атаки на механизм спекулятивного выполнения в современных процессорах, получивший кодовое имя GhostRace (CVE-2024-2193). Проблема проявляется в процессорах, производимых компаниями Intel, AMD, ARM и IBM. Для демонстрации принципов проведения атаки опубликован прототип эксплоита, позволяющий извлекать данные из памяти ядра Linux с производительностью 12 Кб в секунду при уровне надёжности, типичном для атак класса Spectre. При проведении атак на системы виртуализации, атакующий из гостевой системы может определить содержимое памяти хост-окружения или других гостевых систем.</description>
+    </item>
+    
+    <item>
+      <title>AMD не смог реализовать HDMI 2.1 в открытых драйверах из-за требований HDMI Forum</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-ne-smog-realizovat-hdmi-2-1-v-otkrytyh-drayverah-iz-za-trebovaniy-hdmi-forum-20240304-123554/</link>
+      <pubDate>Mon, 04 Mar 2024 12:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-ne-smog-realizovat-hdmi-2-1-v-otkrytyh-drayverah-iz-za-trebovaniy-hdmi-forum-20240304-123554/</guid>
+      <description>Организация HDMI Forum, занимающаяся разработкой спецификаций и тестового набора, связанных с интерфейсом передачи данных HDMI (High-Definition Multimedia Interface), не позволила компании AMD реализовать поддержку спецификации HDMI 2.1 в открытых драйверах. Отмечено, что в настоящее время создание открытых реализаций HDMI 2.1 невозможно без нарушения лицензионных требований HDMI Forum.
+https://www.opennet.ru/opennews/art.shtml?num=60721</description>
+    </item>
+    
+    <item>
+      <title>Инженер из AMD признал, что графический стек Linux нуждается в совершенствовании</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-priznal-chto-graficheskiy-stek-linux-nuzhdaetsya-v-sovershenstvovanii-20240224-023547/</link>
+      <pubDate>Sat, 24 Feb 2024 02:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/inzhener-iz-amd-priznal-chto-graficheskiy-stek-linux-nuzhdaetsya-v-sovershenstvovanii-20240224-023547/</guid>
+      <description>При обсуждении ошибки, связанной с относительно высоким по сравнению с Windows потреблением электроэнергии на APU AMD с поддержкой аппаратного декодирования видео, инженер из AMD, Алекс Дойкер (Alex Deucher, основной разработчик драйвера amdgpu), признал, что отображение видео в Linux в принципе неэффективно.
+https://www.opennet.ru/opennews/art.shtml?num=60656</description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструментарий ZLUDA, позволяющий запускать CUDA-приложения на GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</link>
+      <pubDate>Tue, 13 Feb 2024 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</guid>
+      <description>Проект ZLUDA подготовил открытую реализацию технологии CUDA для GPU AMD, позволяющую выполнять немодифицированные CUDA-приложения с производительностью, близкой к производительности приложений, выполняемых без прослоек. Опубликованный инструментарий обеспечивает бинарную совместимость с существующими CUDA-приложениями, собранными при помощи компилятора CUDA для GPU NVIDIA. Реализация работает поверх развиваемого компанией AMD стека ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Код проекта написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0. Поддерживается работа в Linux и Windows.</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD открыла код драйвера для NPU на базе архитектуры XDNA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-kod-drayvera-dlya-npu-na-baze-arhitektury-xdna-20240128-203534/</link>
+      <pubDate>Sun, 28 Jan 2024 20:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-otkryla-kod-drayvera-dlya-npu-na-baze-arhitektury-xdna-20240128-203534/</guid>
+      <description>Компания AMD опубликовала исходные тексты драйвера для карт с движком на базе архитектуры XDNA, предоставляющим средства для ускорения вычислений, связанных с машинным обучением и обработкой сигналов (NPU, Neural Processing Unit). NPU на базе архитектуры XDNA поставляется в сериях 7040 и 8040 процессоров AMD Ryzen, ускорителях AMD Alveo V70 и SoC AMD Versal. Код написан на языках С и С++, и открыт под лицензией GPLv2. Для работы драйвера требуется ядро Linux 6.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость LeftoverLocals в GPU AMD, Apple, Qualcomm и Imagination</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</link>
+      <pubDate>Thu, 18 Jan 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</guid>
+      <description>В графических процессорах компаний AMD, Apple, Qualcomm и Imagination выявлена уязвимость (CVE-2023-4969), получившая кодовое имя LeftoverLocals и позволяющая извлечь данные из локальной памяти GPU, оставшиеся после выполнения другого процесса и возможно содержащие конфиденциальную информацию. С практической стороны уязвимость может представлять опасность на многопользовательских системах, в которых обработчики разных пользователей запускаются на одном GPU, а также может применяться во вредоносном ПО для отслеживания активности выполняемых на GPU процессов. Например, в ходе атаки можно определить данные, обрабатываемые выполняемыми на GPU процессами (GPU kernel).</description>
+    </item>
+    
+    <item>
+      <title>SLAM - атака на CPU Intel, AMD и ARM, позволяющая определить содержимое памяти</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</link>
+      <pubDate>Wed, 06 Dec 2023 22:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slam-ataka-na-cpu-intel-amd-i-arm-pozvolyayuschaya-opredelit-soderzhimoe-pamyati-20231206-223520/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета представила новую технику атаки SLAM (Spectre Linear Address Masking), предлагающую новый способ эксплуатации микроархитектурных уязвимостей класса Spectre, в котором утечка данных происходит при трансляции неканонических адресов, а для обхода проверок каноничности привлекаются предоставляемые в новых процессорах расширения для маскировки линейных адресов. Исследователями опубликован инструментарий с реализацией метода и предложена демонстрация, показывающая как можно извлечь из памяти ядра данные, соответствующие определённой маске (показано как за несколько десятков секунд в Ubuntu выделить из памяти ядра строку с хэшем пароля пользователя root).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD, позволяющая обойти механизм защиты SEV (Secure Encrypted Virtualization)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</link>
+      <pubDate>Wed, 15 Nov 2023 15:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-pozvolyayuschaya-oboyti-mehanizm-zaschity-sev-secure-encrypted-virtua-20231115-153544/</guid>
+      <description>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали новый метод атаки CacheWarp, позволяющий скомпрометировать механизм защиты AMD SEV (Secure Encrypted Virtualization), применяемый в системах виртуализации для защиты виртуальных машин от вмешательства со стороны гипервизора или администратора хост системы. Предложенный метод позволяет злоумышленнику, имеющему доступ к гипервизору, добиться выполнения стороннего кода и повышения привилегий в виртуальной машине, защищённой при помощи AMD SEV.
+https://www.opennet.ru/opennews/art.shtml?num=60118</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD Zen1, приводящая к утечке информации о прошлых операциях при делении на ноль</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</link>
+      <pubDate>Tue, 26 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-zen1-privodyaschaya-k-utechke-informacii-o-proshlyh-operaciyah-pri-de-20230926-163505/</guid>
+      <description>В процессорах AMD выявлена уязвимость (CVE-2023-20588), приводящая к утечке данных, используемых в ходе выполнения операций на том же ядре CPU при обработке процессором исключения #DE (Divide Error), возникающего при попытке деления на ноль. Уязвимость проявляется только в процессорах AMD на базе микроархитектуры Zen1, например, в сериях AMD EPYC 7001, AMD Athlon 3000, AMD Ryzen 3000 с GPU Radeon, AMD Athlon PRO 3000 c GPU Radeon Vega и AMD Ryzen PRO 3000 с GPU Radeon Vega.</description>
+    </item>
+    
+    <item>
+      <title>AMD опубликовал код прошивки для механизма защиты SEV (Secure Encrypted Virtualization)</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-proshivki-dlya-mehanizma-zaschity-sev-secure-encrypted-virtualization-20230831-123506/</link>
+      <pubDate>Thu, 31 Aug 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-kod-proshivki-dlya-mehanizma-zaschity-sev-secure-encrypted-virtualization-20230831-123506/</guid>
+      <description>Компания AMD объявила о публикации исходных текстов прошивки AMD-ASPFW, обеспечивающей работу механизма защиты AMD SEV (Secure Encrypted Virtualization), позволяющего защитить виртуальные машины от компрометации со стороны гипервизора или администратора хост системы. Код опубликован под отдельным лицензионным соглашением и соответствует прошивке SEV FW 1.55.25, применяемой в 4 поколении процессоров AMD EPYC (Genoa).
+https://www.opennet.ru/opennews/art.shtml?num=59692</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в CPU AMD, приводящая к переполнению микроархитектурного стека</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-privodyaschaya-k-perepolneniyu-mikroarhitekturnogo-steka-20230809-193505/</link>
+      <pubDate>Wed, 09 Aug 2023 19:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-cpu-amd-privodyaschaya-k-perepolneniyu-mikroarhitekturnogo-steka-20230809-193505/</guid>
+      <description>Группа исследователей из Швейцарской высшей технической школы Цюриха выявила новую уязвимость (CVE-2023-20569) в реализации микроархитектурных структур процессоров AMD, получившую кодовое имя Inception. Уязвимость позволяет локальному непривилегированному пользователю определить содержимое памяти процессов других пользователей. При использовании систем виртуализации уязвимость даёт возможность извлечь информацию из других гостевых систем.
+https://www.opennet.ru/opennews/art.shtml?num=59574</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в процессорах AMD Zen2, позволяющая определить содержимое регистров в других процессах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-amd-zen2-pozvolyayuschaya-opredelit-soderzhimoe-registrov-v-drugi-20230725-013508/</link>
+      <pubDate>Tue, 25 Jul 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-amd-zen2-pozvolyayuschaya-opredelit-soderzhimoe-registrov-v-drugi-20230725-013508/</guid>
+      <description>Тэвис Орманди (Tavis Ormandy), исследователь безопасности из компании Google, выявил уязвимость (CVE-2023-20593) в процессорах AMD на базе микроархитектуры Zen2, которая может быть использована для отслеживания содержимого регистров во время выполнения других процессов на том же ядре CPU. Среди прочего атака может быть осуществлена из виртуальных машин и изолированных окружений.
+https://www.opennet.ru/opennews/art.shtml?num=59491</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD добавлена загрузка микрокода для процессоров AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-zagruzka-mikrokoda-dlya-processorov-amd-20230724-153506/</link>
+      <pubDate>Mon, 24 Jul 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-zagruzka-mikrokoda-dlya-processorov-amd-20230724-153506/</guid>
+      <description>В ветке OpenBSD-Current, на основе которой осенью будет сформирован релиз OpenBSD 7.4, в сборки для архитектур amd64 и i386 добавлены компоненты для обновления микрокода к процессорам AMD. Для распространения бинарных файлов с микрокодом подготовлен порт &amp;ldquo;ports/sysutils/firmware/amd&amp;rdquo;. Установка нового микрокода будет осуществляться при помощи штатной утилиты fw_update. Новые версии микрокода будут устанавливаться автоматически при загрузке. Аналогичная поддержка обновления микрокода для процессоров Intel была реализована в 2018 году после выявления уязвимостей класса Meltdown и Spectre, и предложена в выпуске OpenBSD 6.</description>
+    </item>
+    
+    <item>
+      <title>AMD опубликовал прототип openSIL, платформы для создания открытых прошивок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-prototip-opensil-platformy-dlya-sozdaniya-otkrytyh-proshivok-20230615-123849/</link>
+      <pubDate>Thu, 15 Jun 2023 12:38:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-opublikoval-prototip-opensil-platformy-dlya-sozdaniya-otkrytyh-proshivok-20230615-123849/</guid>
+      <description>Компания AMD опубликовала исходные тексты первого рабочего прототипа платформы openSIL (Open-Source Silicon Initialization Library), развивающей компоненты для упрощения создания прошивок. openSIL предполагает вынос кода для инициализации оборудования в отдельно сопровождаемые и тестируемые библиотеки, которые могут статически связываться с основными прошивками без задействования специфичных протоколов. Библиотеки написаны на языке Си и распространяются под лицензией MIT. Кроме AMD в проекте также принимают участие компании AMI, AWS, Google, Meta, 9elements, 3mdeb, Datacom и Oxide.</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в CPU AMD EPYC 7002 приводит к зависанию после 1044 дней работы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</link>
+      <pubDate>Sat, 03 Jun 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-cpu-amd-epyc-7002-privodit-k-zavisaniyu-posle-1044-dney-raboty-20230603-213506/</guid>
+      <description>В поставляемой с 2018 года серии серверных процессоров AMD EPYC 7002 (&amp;ldquo;Rome&amp;rdquo;), построенных на базе микроархитектуры &amp;ldquo;Zen 2&amp;rdquo;, выявлена ошибка, в результате которой процессор зависает после 1044 дней работы без сброса состояния (перезагрузки системы). В качестве обходных путей блокирования проблемы рекомендуется отключить поддержку энергосберегающего режима CC6 или перезагружать сервер чаще, чем раз в 1044 дней (примерно 2 года 10 месяцев).
+https://www.opennet.ru/opennews/art.shtml?num=59243</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD представила открытый проект openSIL для разработки прошивок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-predstavila-otkrytyy-proekt-opensil-dlya-razrabotki-proshivok-20230414-153509/</link>
+      <pubDate>Fri, 14 Apr 2023 15:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-predstavila-otkrytyy-proekt-opensil-dlya-razrabotki-proshivok-20230414-153509/</guid>
+      <description>В рамках проекта AMD openSIL (Open-Source Silicon Initialization Library) развивается набор открытых библиотек, содержащих компоненты для упрощения создания прошивок. Идея в выносе кода для инициализации оборудования в отдельные, независимо тестируемые и сопровождаемые, библиотеки openSIL, которые написаны на распространённом языке Си и могут статически связываться с основными прошивками без задействования специфичных протоколов.
+https://www.opennet.ru/opennews/art.shtml?num=58976</description>
+    </item>
+    
+  </channel>
+</rss>

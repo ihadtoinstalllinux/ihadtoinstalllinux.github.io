@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AAC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/aac/</link>
+    <description>Recent content in AAC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 03:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/aac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект FFMpeg представил собственную реализацию декодировщика xHE-AAC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-ffmpeg-predstavil-sobstvennuyu-realizaciyu-dekodirovschika-xhe-aac-20240606-033532/</link>
+      <pubDate>Thu, 06 Jun 2024 03:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-ffmpeg-predstavil-sobstvennuyu-realizaciyu-dekodirovschika-xhe-aac-20240606-033532/</guid>
+      <description>Разработчики мультимедийного пакета FFMpeg объявили о создании собственной реализации декодировщика для формата кодирования звука xHE-AAC (Extended High-Efficiency AAC), определённого в стандарте ISO/IEC 23003-3. Декодировщик xHE-AAC уже принят в основную кодовую базу FFMpeg и войдёт в состав следующего выпуска. Реализация может использоваться для большинства стерео-потоков xHE-AAC. Потоки SBR, USAC и MPEG-H с объёмным звуком, а также кодировние речи пока не поддерживается. Поддержку USAC и SBR обещают добавить в ближайшее время.
+https://www.opennet.ru/opennews/art.shtml?num=61321</description>
+    </item>
+    
+  </channel>
+</rss>
