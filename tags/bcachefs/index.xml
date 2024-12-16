@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bcachefs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bcachefs/</link>
+    <description>Recent content in Bcachefs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Nov 2024 13:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bcachefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Автора BcacheFS временно отстранили от разработки ядра Linux из-за нарушения кодекса поведения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/avtora-bcachefs-vremenno-otstranili-ot-razrabotki-yadra-linux-iz-za-narusheniya-kodeksa-po-20241122-133556/</link>
+      <pubDate>Fri, 22 Nov 2024 13:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/avtora-bcachefs-vremenno-otstranili-ot-razrabotki-yadra-linux-iz-za-narusheniya-kodeksa-po-20241122-133556/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, сообщил, что будущее развиваемой им файловой системы в ядре под вопросом из-за действий комитета, отвечающего за соблюдение кодекса поведения в сообществе разработчиков (CoC Committee). Линус Торвальдс отказался принимать очередной набор исправлений к Bcachefs в состав ветки ядра 6.13, сославшись на наличие претензий со стороны комитета CoC.
+https://www.opennet.ru/opennews/art.shtml?num=62276</description>
+    </item>
+    
+    <item>
+      <title>Автор Bcachefs констатировал снижение числа выявляемых ошибок на 40%</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/avtor-bcachefs-konstatiroval-snizhenie-chisla-vyyavlyaemyh-oshibok-na-40-20241104-143521/</link>
+      <pubDate>Mon, 04 Nov 2024 14:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/avtor-bcachefs-konstatiroval-snizhenie-chisla-vyyavlyaemyh-oshibok-na-40-20241104-143521/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, сообщил о снижении числа всплывающих при использовании тестового инструментария ошибок на 40% по сравнению с прошлым месяцем, а также о кардинальном уменьшении числа сообщений о критических проблемах. В результате проделанной работы, общее качество кода повысилось и поток ошибок пошёл на убыль. Тестовый робот Syzbot выловил большую часть тривиальных ошибок вида &amp;ldquo;упс, мы забыли проверить это&amp;rdquo; и теперь находит в основном реально редкие и интересные ситуации.</description>
+    </item>
+    
+    <item>
+      <title>Линус Торвальдс снова недоволен коммитами в Bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-snova-nedovolen-kommitami-v-bcachefs-20241007-103531/</link>
+      <pubDate>Mon, 07 Oct 2024 10:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-snova-nedovolen-kommitami-v-bcachefs-20241007-103531/</guid>
+      <description>Линус Торвальдс выступил с новой критикой методов сопровождения Bcachefs в основном ядре Linux. Суть претензий сводится к тому, что Кент Оверстрит (Kent Overstreet), автор Bcachefs, всегда присылает много изменений в последний момент перед выходом очередной предварительной версии (&amp;quot;-RC&amp;quot;) и на этот раз его изменения привели к нарушению сборки 6.12-RC1 на системах с порядком байт &amp;ldquo;big-endian&amp;rdquo; при включении Bcachefs, так как патчи были протестированы только в локальной ветке Кента и для их рецензирования не были привлечены другие участники.</description>
+    </item>
+    
+    <item>
+      <title>Линус Торвальдс начал сожалеть, что одобрил добавление Bcachefs в ядро Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-nachal-sozhalet-chto-odobril-dobavlenie-bcachefs-v-yadro-linux-20240825-223534/</link>
+      <pubDate>Sun, 25 Aug 2024 22:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-nachal-sozhalet-chto-odobril-dobavlenie-bcachefs-v-yadro-linux-20240825-223534/</guid>
+      <description>При обсуждении очередной порции исправлений, предложенных для включения в ядро 6.11-rc5 автором Bcachefs, Линус Торвальдс написал, что начинает сожалеть о том, что принял файловую систему Bcachefs в состав ядра. Недовольство Торвальдса связано с тем, что Кент Оверстрит (Kent Overstreet), автор Bcachefs, на стадии финальных кандидатов в релизы, присылает слишком объёмные исправления, которые по сути, не только исправляют ошибки, но и продолжают развитие функциональности, при том, что функциональные изменения допускаются только на начальной стадии разработки новой ветки, а на стадии rc5 принимаются только отдельные небольшие исправления, размер которых желательно не должен превышать 100 строк кода.</description>
+    </item>
+    
+    <item>
+      <title>В Bcachefs реализована возможность самовосстановления ФС из избыточных кодов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-bcachefs-realizovana-vozmozhnost-samovosstanovleniya-fs-iz-izbytochnyh-kodov-20240718-163519/</link>
+      <pubDate>Thu, 18 Jul 2024 16:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-bcachefs-realizovana-vozmozhnost-samovosstanovleniya-fs-iz-izbytochnyh-kodov-20240718-163519/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, предложил для включение в состав ядра Linux 6.11 изменение с реализацией в ФС Bcachefs возможности автоматического прозрачного восстановления проблемных данных, используя сохраняемые избыточные коды восстановления ошибок. Логика работы предложенной функциональности напоминает реализацию подобной функции в Btrfs: если при чтении возникает ошибка ввода/вывода или вычислено не соответствие контрольной суммы, проблемный блок данных будет автоматически перезаписан заново, при наличии избыточности для его восстановления.
+https://www.opennet.ru/opennews/art.shtml?num=61570</description>
+    </item>
+    
+    <item>
+      <title>Автор Bcachefs представил патчи для исправления ФС, разрушенных недавней ошибкой</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/avtor-bcachefs-predstavil-patchi-dlya-ispravleniya-fs-razrushennyh-nedavney-oshibkoy-20240410-223606/</link>
+      <pubDate>Wed, 10 Apr 2024 22:36:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/avtor-bcachefs-predstavil-patchi-dlya-ispravleniya-fs-razrushennyh-nedavney-oshibkoy-20240410-223606/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, предложил патчи, позволяющие ядру Linux работать с ФС Bcachefs даже после повреждения существенного объёма метаданных, при необходимости перестраивая испорченные b-деревья по метаданным из структур inode и dirent. Изменения приняты Линусом Торвальдсом и включены в состав сегодняшнего тестового обновления ядра 6.9-rc3.
+https://www.opennet.ru/opennews/art.shtml?num=60946</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в Bcachefs, приводящая к разрушению ФС при использовании нескольких устройств</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-bcachefs-privodyaschaya-k-razrusheniyu-fs-pri-ispolzovanii-neskolkih-ustroystv-20240318-223529/</link>
+      <pubDate>Mon, 18 Mar 2024 22:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-bcachefs-privodyaschaya-k-razrusheniyu-fs-pri-ispolzovanii-neskolkih-ustroystv-20240318-223529/</guid>
+      <description>В ядре Linux 6.7 обнаружена достаточно серьёзная ошибка в логике работы файловой системы Bcachefs, проявляющаяся в конфигурациях с несколькими устройствами хранения при использовании новых версий инструментов для создания ФС. Проблема выражается в том, что возможно создать ситуацию, когда ФС попробует обновить версию, это не будет завершено, после чего ядро может попробовать сделать версию ФС более старой - и в результате такого взаимодействия может произойти серьёзное разрушение ФС.
+https://www.opennet.ru/opennews/art.shtml?num=60804</description>
+    </item>
+    
+    <item>
+      <title>В ядре Linux 6.8 исправлены две серьёзные проблемы в bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-8-ispravleny-dve-sereznye-problemy-v-bcachefs-20240207-163538/</link>
+      <pubDate>Wed, 07 Feb 2024 16:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-6-8-ispravleny-dve-sereznye-problemy-v-bcachefs-20240207-163538/</guid>
+      <description>В файловой системе bcachefs, входящей в состав ядра Linux начиная с выпуска 6.7, при подготовке к релизу ядра 6.8 были обнаружены и исправлены две серьёзные проблемы (исправления войдут в состав выпуска 6.8-rc4). Первая проблема связана с некорректным функционированием блокировок при работе с директориями, из-за чего при удалении несуществующих подразделов (subvolume) первая попытка удаления могла завершиться ошибкой, а вторая - зависанием, из-за оставления неснятой блокировки.
+https://www.opennet.ru/opennews/art.shtml?num=60565</description>
+    </item>
+    
+    <item>
+      <title>Код Bcachefs принят в основной состав ядра Linux 6.7</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kod-bcachefs-prinyat-v-osnovnoy-sostav-yadra-linux-6-7-20231031-093520/</link>
+      <pubDate>Tue, 31 Oct 2023 09:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kod-bcachefs-prinyat-v-osnovnoy-sostav-yadra-linux-6-7-20231031-093520/</guid>
+      <description>Линус Торвальдс утвердил запрос на включение файловой системы Bcachefs в основной состав ядра Linux и добавил реализацию Bcachefs в репозиторий, в котором развивается ветка ядра 6.7, релиз которой ожидается в начале января. Добавленный в ядро патч включает около 95 тысяч строк кода. Проект уже более 10 лет развивает Кент Оверстрит (Kent Overstreet), который также разработал входящую в состав ядра систему кэширования блочных устройств на SSD-накопителях BCache.
+https://www.opennet.ru/opennews/art.shtml?num=60021</description>
+    </item>
+    
+    <item>
+      <title>В ветку ядра Linux-next добавлена реализация ФС Bcachefs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</link>
+      <pubDate>Wed, 20 Sep 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vetku-yadra-linux-next-dobavlena-realizaciya-fs-bcachefs-20230920-103503/</guid>
+      <description>В состав ветки linux-next, в которой тестируются возможности для будущих выпусков ядра Linux, принят код файловой системы Bcachefs. Ранее, Кент Оверстрит (Kent Overstreet), автор Bcachefs и входящей в состав ядра Linux системы кэширования блочных устройств на SSD-накопителях BCache, отправил Линусу Торвальдсу poll-запрос на включение кода Bcachefs в основной состав ядра Linux, но Линус отклонил их и рекомендовал вначале оценить пригодность предложенных патчей в экспериментальной ветке Linux-next. В случае успешного рецензирования ФС Bcachefs может быть включена в состав ядра 6.</description>
+    </item>
+    
+    <item>
+      <title>Продвижение Bcachefs в состав ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodvizhenie-bcachefs-v-sostav-yadra-linux-20230619-133506/</link>
+      <pubDate>Mon, 19 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodvizhenie-bcachefs-v-sostav-yadra-linux-20230619-133506/</guid>
+      <description>Кент Оверстрит (Kent Overstreet), автор входящей в состав ядра Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59314</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yescrypt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/yescrypt/</link>
+    <description>Recent content in yescrypt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2023 21:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/yescrypt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux переходит на yescrypt для хэширования паролей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arch-linux-perehodit-na-yescrypt-dlya-heshirovaniya-paroley-20230923-213508/</link>
+      <pubDate>Sat, 23 Sep 2023 21:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arch-linux-perehodit-na-yescrypt-dlya-heshirovaniya-paroley-20230923-213508/</guid>
+      <description>Разработчики Arch Linux объявили о смене применяемой по умолчанию схемы хеширования паролей с SHA512 на yescrypt, а также о переходе на хранение настроек параметра umask в файле конфигурации /etc/login.defs вместо /etc/profile. Yescrypt расширяет возможности классического scrypt поддержкой использования схем с большим расходом оперативной памяти и снижает эффективность атак, использующих GPU, FPGA и специализированные чипы. Безопасность Yescrypt обеспечивается благодаря применению уже проверенных криптографических примитивов SHA-256, HMAC и PBKDF2.
+https://www.opennet.ru/opennews/art.shtml?num=59801</description>
+    </item>
+    
+  </channel>
+</rss>

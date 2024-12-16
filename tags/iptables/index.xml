@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>iptables on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/iptables/</link>
+    <description>Recent content in iptables on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2024 14:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/iptables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск пакетного фильтра iptables 1.8.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-iptables-1-8-11-20241110-143513/</link>
+      <pubDate>Sun, 10 Nov 2024 14:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-iptables-1-8-11-20241110-143513/</guid>
+      <description>После года разработки опубликован выпуск классического инструментария для управления пакетным фильтром iptables 1.8.11, развитие которого последнее время сосредоточено на компонентах для сохранения обратной совместимости - iptables-nft и ebtables-nft, предоставляющих утилиты с тем же синтаксисом командной строки, как в iptables и ebtables, но транслирующих полученные правила в байткод nftables. Оригинальный набор программ iptables, включая ip6tables, arptables и ebtables, в 2018 году переведён в разряд устаревших и уже заменён на nftables в большинстве дистрибутивов.</description>
+    </item>
+    
+    <item>
+      <title>Создатель iptables выразил сожаление о том, во что превратилось Linux-сообщество</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdatel-iptables-vyrazil-sozhalenie-o-tom-vo-chto-prevratilos-linux-soobschestvo-20241026-133526/</link>
+      <pubDate>Sat, 26 Oct 2024 13:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdatel-iptables-vyrazil-sozhalenie-o-tom-vo-chto-prevratilos-linux-soobschestvo-20241026-133526/</guid>
+      <description>Харальд Вельте (Harald Welte), известный разработчик ядра Linux, лауреат премии за значительный вклад в развитие свободного ПО, основатель организации gpl-violations.org и один из создателей netfilter/iptables, опубликовал своё мнение относительно удаления участников из списка мэйнтейнеров ядра Linux на основании их предполагаемой работы в подсанкционных компаниях. По словам Харальда, он гордился вовлечённостью в работу сообщества разработчиков ядра, но нынешнее сообщество не похоже на то, которое он помнит, и ему больно видеть, что сейчас там происходит.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пакетного фильтра iptables 1.8.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-iptables-1-8-10-20231011-123506/</link>
+      <pubDate>Wed, 11 Oct 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-paketnogo-filtra-iptables-1-8-10-20231011-123506/</guid>
+      <description>Опубликован выпуск классического инструментария для управления пакетным фильтром iptables 1.8.10, развитие которого последнее время сосредоточено на компонентах для сохранения обратной совместимости - iptables-nft и ebtables-nft, предоставляющих утилиты с тем же синтаксисом командной строки, как в iptables и ebtables, но транслирующих полученные правила в байткод nftables. Оригинальный набор программ iptables, включая ip6tables, arptables и ebtables, в 2018 году переведён в разряд устаревших и уже заменён на nftables в большинстве дистрибутивов.
+https://www.opennet.ru/opennews/art.shtml?num=59905</description>
+    </item>
+    
+  </channel>
+</rss>

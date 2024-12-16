@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rowhammer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rowhammer/</link>
+    <description>Recent content in Rowhammer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rowhammer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Применение метода атаки Rowhammer для создания уникальных идентификаторов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/primenenie-metoda-ataki-rowhammer-dlya-sozdaniya-unikalnyh-identifikatorov-20230708-153504/</link>
+      <pubDate>Sat, 08 Jul 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/primenenie-metoda-ataki-rowhammer-dlya-sozdaniya-unikalnyh-identifikatorov-20230708-153504/</guid>
+      <description>Группа исследователей из Калифорнийского университета в Дейвисе проанализировала возможность применения метода искажения битов динамической оперативной памяти Rowhammer для идентификации систем. Оказалось, что характер возникающих в результате атаки Rowhammer искажений достаточно уникален для каждого экземпляра чипа DRAM и не изменяется со временем. В итоге была разработана техника Centauri, позволяющая идентифицировать системы в среднем с точностью 99.91%.
+https://www.opennet.ru/opennews/art.shtml?num=59393</description>
+    </item>
+    
+  </channel>
+</rss>

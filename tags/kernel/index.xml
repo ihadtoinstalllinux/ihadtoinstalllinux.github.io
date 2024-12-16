@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kernel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kernel/</link>
+    <description>Recent content in Kernel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2024 12:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Oracle выпустила ядро Unbreakable Enterprise Kernel R7U3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-vypustila-yadro-unbreakable-enterprise-kernel-r7u3-20241002-123553/</link>
+      <pubDate>Wed, 02 Oct 2024 12:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-vypustila-yadro-unbreakable-enterprise-kernel-r7u3-20241002-123553/</guid>
+      <description>Компания Oracle представила третье функциональное обновление для ядра Unbreakable Enterprise Kernel R7, развиваемого для использования в дистрибутиве Oracle Linux в качестве альтернативы штатному пакету с ядром из Red Hat Enterprise Linux. Ядро доступно для архитектур x86_64 и ARM64 (aarch64). Исходные тексты ядра, включая разбивку на отдельные патчи, опубликованы в публичном Git-репозитории Oracle.
+https://www.opennet.ru/opennews/art.shtml?num=61971</description>
+    </item>
+    
+    <item>
+      <title>SSH-бэкдор, установленный при взломе kernel.org, два года оставался незамеченным</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ssh-bekdor-ustanovlennyy-pri-vzlome-kernel-org-dva-goda-ostavalsya-nezamechennym-20240516-113558/</link>
+      <pubDate>Thu, 16 May 2024 11:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ssh-bekdor-ustanovlennyy-pri-vzlome-kernel-org-dva-goda-ostavalsya-nezamechennym-20240516-113558/</guid>
+      <description>Исследователи из компании ESET опубликовали 43-страничный отчёт с анализом руткита Ebury и связанной с ним активности. Утверждается, что Ebury применяется с 2009 года и с тех пор был установлен на более чем 400 тысяч серверов под управлением Linux и несколько сотен систем на базе FreeBSD, OpenBSD и Solaris. Около 110 тысяч серверов оставались поражены Ebury по состоянию на конец 2023 года. Исследование представляет отдельный интерес с учётом того, что Ebury был задействован при атаке на kernel.</description>
+    </item>
+    
+  </channel>
+</rss>

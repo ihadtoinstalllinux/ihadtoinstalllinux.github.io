@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ECH on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ech/</link>
+    <description>Recent content in ECH on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox и Cloudflare включена поддержка ECH для скрытия домена в HTTPS-трафике </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</link>
+      <pubDate>Wed, 04 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</guid>
+      <description>Компания Mozilla объявила о включении для пользователей стабильной ветки Firefox поддержки механизма ECH (Encrypted Client Hello), продолжающего развитие технологии ESNI (Encrypted Server Name Indication) и предназначенного для шифрования информации о параметрах TLS-сеансов, таких как запрошенное доменное имя. Изначально код для работы с ECH был добавлен в выпуск Firefox 85, но был отключён по умолчанию. В Chrome поддержку ECH начали постепенно включать, начиная с выпуска Chrome 115.
+https://www.opennet.ru/opennews/art.shtml?num=59869</description>
+    </item>
+    
+  </channel>
+</rss>

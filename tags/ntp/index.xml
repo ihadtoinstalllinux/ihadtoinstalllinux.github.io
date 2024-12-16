@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NTP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntp/</link>
+    <description>Recent content in NTP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2024 12:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Encrypt перешёл на NTP-сервер ntpd-rs, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</link>
+      <pubDate>Tue, 25 Jun 2024 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, объявил о переходе на использование NTP-сервера ntpd-rs, написанного на языке Rust с оглядкой на обеспечение безопасности и стабильности. Проект распространяется под лицензиями Apache 2.0 и MIT, полностью поддерживает протоколы NTP и NTS (Network Time Security) на уровне клиента и сервера, и может использоваться в качестве замены NTP-серверам chrony, ntpd и NTPsec.
+https://www.opennet.ru/opennews/art.shtml?num=61435</description>
+    </item>
+    
+    <item>
+      <title>Доступен NTP-сервер NTPsec 1.2.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-ntp-server-ntpsec-1-2-3-20231231-223539/</link>
+      <pubDate>Sun, 31 Dec 2023 22:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-ntp-server-ntpsec-1-2-3-20231231-223539/</guid>
+      <description>После года разработки опубликован выпуск системы синхронизации точного времени NTPsec 1.2.3, являющейся форком эталонной реализации протокола NTPv4 (NTP Classic 4.3.34), сфокусированным на переработке кодовой базы с целью повышения безопасности (выполнена чистка устаревшего кода, задействованы методы предотвращения атак, защищённые функции для работы с памятью и строками). Проект развивается под руководством Эрика Реймонда (Eric S. Raymond) при участии некоторых разработчиков оригинального NTP Classic, инженеров из компаний Hewlett Packard и Akamai Technologies, а также проектов GPSD и RTEMS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VP8 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vp8/</link>
+    <description>Recent content in VP8 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 13:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vp8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в эталонных реализациях кодеков AV1 и VP8/VP9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-etalonnyh-realizaciyah-kodekov-av1-i-vp8-vp9-20240606-133530/</link>
+      <pubDate>Thu, 06 Jun 2024 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-etalonnyh-realizaciyah-kodekov-av1-i-vp8-vp9-20240606-133530/</guid>
+      <description>В развиваемой альянсом Open Media (AOMedia) библиотеке libaom, предоставляющей эталонную реализацию формата кодирования видео AV1, выявлена критическая уязвимость (CVE-2024-5171), приводящая к целочисленному переполнению и записи в область вне границ буфера при обработке слишком больших значений в некоторых параметрах. Аналогичная уязвимость (CVE-2024-5197) выявлена в библиотеке libvpx с реализацией кодеков VP8 и VP9. Проблемы устранены в обновлениях libaom 3.9.0 и libvpx 1.14.1. В дистрибутивах уязвимости пока остаются неисправленными (Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD).</description>
+    </item>
+    
+    <item>
+      <title>0-day уязвимость в Chrome и libvpx, затрагивающая кодировщик видео VP8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-chrome-i-libvpx-zatragivayuschaya-kodirovschik-video-vp8-20230928-133506/</link>
+      <pubDate>Thu, 28 Sep 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-v-chrome-i-libvpx-zatragivayuschaya-kodirovschik-video-vp8-20230928-133506/</guid>
+      <description>Компания Google опубликовала обновление браузера Chrome 117.0.5938.132, в котором устранена уязвимость (CVE-2023-5217) в библиотеке libvpx, приводящая к переполнению буфера при использовании функций кодирования в формате VP8. В отличие от недавно выявленной уязвимости в декодировщике изображений в формате WebP проблеме в кодировщике VP8 присвоен высокий, но не критический уровень опасности, т.е. проблема не позволяет обойти все уровни защиты браузера и для выполнения кода в системе за пределами sandbox-окружения требуется задействование ещё каких-то уязвимостей.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ruby on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ruby/</link>
+    <description>Recent content in Ruby on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 01:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Ruby-SAML, позволяющая обойти аутентификацию в GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</link>
+      <pubDate>Fri, 20 Sep 2024 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки GitLab - 17.3.3, 17.2.6 и 17.1.8, в которых устранена критическая уязвимость, позволяющая обойти аутентификацию на базе SAML (Security Assertion Markup Language). Проблема вызвана уязвимостью (CVE-2024-45409) в Ruby-библиотеках ruby-saml и omniauth-saml, реализующих клиентскую часть SAML-авторизации. Уязвимости присвоен максимальный уровень опасности 10 из 10. Проблема устранена в обновлениях пакетов ruby-saml (1.17.0 и 1.12.3) и omniauth-saml (2.2.0).
+https://www.opennet.ru/opennews/art.shtml?num=61893</description>
+    </item>
+    
+    <item>
+      <title>Представлен RubyWM, оконный менеджер, написанный целиком на Ruby</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-rubywm-okonnyy-menedzher-napisannyy-celikom-na-ruby-20240123-123732/</link>
+      <pubDate>Tue, 23 Jan 2024 12:37:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-rubywm-okonnyy-menedzher-napisannyy-celikom-na-ruby-20240123-123732/</guid>
+      <description>Опубликован проект RubyWM, развивающий оконный менеджер на базе протокола X11, написанный на языке Ruby, включая драйвер для работы с протоколом X11. RubyWM поддерживает виртуальные рабочие столы и может использовать как мозаичную (tailing) компоновку окон, так и произвольное позиционирование окон на рабочем столе. Код RubyWM распространяется под лицензией MIT. Проект также развивает библиотеку pure-X11 с реализацией протокола X11 на языке Ruby.
+https://www.opennet.ru/opennews/art.shtml?num=60481</description>
+    </item>
+    
+    <item>
+      <title>Опубликован язык программирования Ruby 3.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-yazyk-programmirovaniya-ruby-3-3-20231225-143548/</link>
+      <pubDate>Mon, 25 Dec 2023 14:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-yazyk-programmirovaniya-ruby-3-3-20231225-143548/</guid>
+      <description>Состоялся релиз Ruby 3.3.0, динамического объектно-ориентированного языка программирования, отличающегося высокой эффективностью разработки программ и вобравшего в себя лучшие черты Perl, Java, Python, Smalltalk, Eiffel, Ada и Lisp. Код проекта распространяется под лицензиями BSD (&amp;ldquo;2-clause BSDL&amp;rdquo;) и &amp;ldquo;Ruby&amp;rdquo;, которая ссылается на последний вариант лицензии GPL и полностью совместима с GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60347</description>
+    </item>
+    
+  </channel>
+</rss>

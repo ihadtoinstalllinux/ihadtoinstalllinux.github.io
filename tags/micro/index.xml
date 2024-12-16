@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Micro on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/micro/</link>
+    <description>Recent content in Micro on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 23:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен атомарно обновляемый дистрибутив openSUSE Leap Micro 6.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-1-20241206-233510/</link>
+      <pubDate>Fri, 06 Dec 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-1-20241206-233510/</guid>
+      <description>Проект openSUSE опубликовал релиз атомарно обновляемого дистрибутива openSUSE Leap Micro 6.1, предназначенного для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны установочные сборки для архитектур x86_64 и ARM64 (Aarch64), а также готовые системные образы для систем виртуализации.
+https://www.opennet.ru/opennews/art.shtml?num=62359</description>
+    </item>
+    
+    <item>
+      <title>Опубликован атомарно обновляемый дистрибутив openSUSE Leap Micro 6.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</link>
+      <pubDate>Tue, 25 Jun 2024 18:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</guid>
+      <description>Разработчики проекта openSUSE представили релиз атомарно обновляемого дистрибутива openSUSE Leap Micro 6.0, предназначенного для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны установочные сборки для архитектур x86_64 и ARM64 (Aarch64), а также готовые системные образы для систем виртуализации и raw-образы для копирования на носители.
+https://www.opennet.ru/opennews/art.shtml?num=61437</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив openSUSE Leap Micro 5.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</link>
+      <pubDate>Fri, 13 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</guid>
+      <description>Разработчики проекта openSUSE опубликовали атомарно обновляемый дистрибутив openSUSE Leap Micro 5.5, предназначенный для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны сборки для архитектур x86_64 и ARM64 (Aarch64), поставляемые как с инсталлятором (Offline-сборки, размером 2.1 ГБ), так и в форме готовых загрузочных образов: 782 МБ (преднастроенный), 959 МБ (с Real-Time ядром) и 1.1 ГБ. Образы могут запускаться под управлением гипервизоров Xen и KVM или поверх оборудования, включая платы Raspberry Pi.</description>
+    </item>
+    
+  </channel>
+</rss>

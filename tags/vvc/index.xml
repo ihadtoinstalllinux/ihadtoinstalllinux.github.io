@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VVC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vvc/</link>
+    <description>Recent content in VVC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vvc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск кодировщика видео VVenC 1.8, поддерживающего формат H.266/VVC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-vvenc-1-8-podderzhivayuschego-format-h-266-vvc-20230410-133506/</link>
+      <pubDate>Mon, 10 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-vvenc-1-8-podderzhivayuschego-format-h-266-vvc-20230410-133506/</guid>
+      <description>Доступен выпуск проекта VVenC 1.8, развивающего высокопроизводительный кодировщик для видео в формате H.266/VVC (отдельно той же командой разработчиков развивается декодировщик VVDeC). Код проекта написан на языке С++ и распространяется под лицензией BSD. В новой версии предложены дополнительные оптимизации, позволившие на 15% ускорить кодирование в быстром режиме, на 5% в медленном и на 10% в остальных преднастройках. Сокращён разрыв в эффективности многопоточных и однопоторчных операций.
+https://www.opennet.ru/opennews/art.shtml?num=58941</description>
+    </item>
+    
+  </channel>
+</rss>

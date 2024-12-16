@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gpu/</link>
+    <description>Recent content in GPU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 16:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Mesa-драйвере RADV сертифицирована поддержка Vulkan 1.3 для старых GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</link>
+      <pubDate>Fri, 08 Nov 2024 16:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость развиваемого проектом Mesa открытого драйвера RADV со спецификацией Vulkan 1.3. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.
+https://www.opennet.ru/opennews/art.shtml?num=62197</description>
+    </item>
+    
+    <item>
+      <title>В Vulkan-драйвер PanVK добавлена поддержка GPU ARM на базе архитектуры V10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</link>
+      <pubDate>Wed, 18 Sep 2024 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</guid>
+      <description>Компания Collabora объявила о реализации поддержки GPU ARM Mali на базе микроархитектуры V10 в драйвере PanVK, обеспечивающем поддержку графического API Vulkan. Изменения, которые уже приняты в основную ветку проекта Mesa, позволяют использовать открытые драйверы на системах с GPU ARM Mali-G610 и Mali-G310. Тем не менее, отмечается, что поддержка ещё достаточно сырая, так как сам драйвер PanVK и добавленный для ARM V10 код не признаны готовыми для повсеместного использования (некоторые приложения могут не запускаться), а также ограничены поддержкой версии Vulkan 1.</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD опубликовала документацию по архитектуре набора команд GPU RDNA 3.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</link>
+      <pubDate>Tue, 17 Sep 2024 13:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-amd-opublikovala-dokumentaciyu-po-arhitekture-nabora-komand-gpu-rdna-3-5-20240917-133604/</guid>
+      <description>Компания AMD объявила о публикации в открытом доступе руководства по архитектуре набора команд GPU RDNA 3.5, применяемой в новейших сериях процессоров Ryzen AI 300 (APU Strix Point) и Ryzen 9000, а также в платформах с GPU Radeon 880M и 890M. Документация может пригодиться тем, кто хочет разобраться в низкоуровневой работе с GPU, а также будет полезна для реализации оптимизаций при разработке шейдеров, игр и взаимодействующих с GPU утилит. Руководство полностью охватывает реализованную в RDNA 3.</description>
+    </item>
+    
+    <item>
+      <title>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</link>
+      <pubDate>Sat, 10 Aug 2024 01:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/</guid>
+      <description>В рамках проекта LibreCUDA ведётся разработка открытой реализации API драйвера CUDA, позволяющего выполнять код CUDA на GPU NVIDIA без использования проприетарного CUDA Runtime. Работа без Runtime достигается благодаря прямому обращению к оборудованию, используя предоставляемые драйвером ioctl-вызовы и манипулируя очередью команд через MMIO (Memory-mapped I/O). Код проекта написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61675</description>
+    </item>
+    
+    <item>
+      <title>В драйвере Panthor для GPU Mali G610 обеспечена совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</link>
+      <pubDate>Mon, 15 Jul 2024 21:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Panthor со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Сертификация пройдена для GPU Mali G610. Проверка была выполнена на плате Rock5b (SoC RK3588) в окружении на базе Wayland, ядра Linux 6.10.0-rc1 и Mesa 24.1.1. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 планируют добавить AI-инструменты и расширить поддержку GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</link>
+      <pubDate>Sun, 16 Jun 2024 01:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-planiruyut-dobavit-ai-instrumenty-i-rasshirit-podderzhku-gpu-nvidia-20240616-013517/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, рассказал о некоторых возможностях, которые планируют добавить в следующий выпуск Fedora Workstation.
+https://www.opennet.ru/opennews/art.shtml?num=61374</description>
+    </item>
+    
+    <item>
+      <title>В KDE повышена эффективность кэширования и включено ускорение отрисовки курсора на GPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-effektivnost-keshirovaniya-i-vklyucheno-uskorenie-otrisovki-kursora-na-gpu-20240608-123602/</link>
+      <pubDate>Sat, 08 Jun 2024 12:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-povyshena-effektivnost-keshirovaniya-i-vklyucheno-uskorenie-otrisovki-kursora-na-gpu-20240608-123602/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Среди наиболее заметных изменений.
+https://www.opennet.ru/opennews/art.shtml?num=61335</description>
+    </item>
+    
+    <item>
+      <title>Проект Bend развивает высокоуровневый язык для параллельных вычислений на GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-bend-razvivaet-vysokourovnevyy-yazyk-dlya-parallelnyh-vychisleniy-na-gpu-20240521-163523/</link>
+      <pubDate>Tue, 21 May 2024 16:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-bend-razvivaet-vysokourovnevyy-yazyk-dlya-parallelnyh-vychisleniy-na-gpu-20240521-163523/</guid>
+      <description>Опубликованы первые выпуски проекта Bend, развивающего высокоуровневый язык программирования для параллельных вычислений, который позиционируется как альтернатива низкоуровневыми языкам, таким как CUDA и Metal, обладающая выразительным синтаксисом и возможностями для повышения удобства разработки, свойственными таким языкам, как Python и Haskell. Код проекта написан на языке Rust и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61224</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA начнёт использовать открытые модули ядра для GPU, начиная с Turing </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</link>
+      <pubDate>Sun, 12 May 2024 10:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvidia-nachnet-ispolzovat-otkrytye-moduli-yadra-dlya-gpu-nachinaya-s-turing-20240512-103603/</guid>
+      <description>Компания NVIDIA объявила, что в грядущем выпуске проприетарных драйверов NVIDIA 560 на системах с GPU на базе Turing (GeForce RTX 2000) и более новых микроархитектур по умолчанию будут задействованы открытые модули ядра Linux. Код модулей был открыт в 2022 году под лицензиями MIT и GPLv2, и обновляется синхронно с каждым новым выпуском проприетарных драйверов. При этом, несмотря на наличие открытых модулей при установке проприетарных драйверов NVIDIA до сих пор продолжали использоваться проприетарные варианты модулей, основанные на общей кодовой базе с открытыми, но отличающиеся и развивающиеся отдельно.</description>
+    </item>
+    
+    <item>
+      <title>Проект FuryGpu развивает GPU на базе FPGA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-furygpu-razvivaet-gpu-na-baze-fpga-20240329-123535/</link>
+      <pubDate>Fri, 29 Mar 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-furygpu-razvivaet-gpu-na-baze-fpga-20240329-123535/</guid>
+      <description>Представлен рабочий прототип проекта FuryGpu, развивающего самодельный GPU на основе FPGA Xilinx Zynq UltraScale+, оформленный в виде отдельной платы, подключаемой к ПК через интерфейс PCIe. Описания аппаратных блоков реализованы на языке SystemVerilog, а проект платы подготовлен в свободной системе автоматизированного проектирования печатных плат KiCAD. В текущем виде GPU FuryGpu уже позволяет запустить игру Quake с производительностью отрисовки 60 FPS при разрешении 1280 x 720.
+https://www.opennet.ru/opennews/art.shtml?num=60873</description>
+    </item>
+    
+    <item>
+      <title>Red Hat представил Nova, драйвер для GPU NVIDIA, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</link>
+      <pubDate>Thu, 21 Mar 2024 19:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</guid>
+      <description>Компания Red Hat начала работу над проектом Nova, развивающим новый открытый драйвер для GPU NVIDIA, в которых операции инициализации и управления GPU вынесены в прошивку и выполняются отдельным микроконтроллером GSP (GPU System Processor). Новый драйвер оформлен в виде модуля для ядра Linux и использует подсистему DRM (Direct Rendering Manager). Проект позиционируется как продолжение развитие драйвера Nouveau для GPU с GSP-прошивками, используемыми начиная с серии NVIDIA GeForce RTX 2000 на базе микроархитектуры Turing, и в долгосрочной перспективе может заменить Nouveau.</description>
+    </item>
+    
+    <item>
+      <title>Объявлено о готовности panthor, открытого драйвера для 10 поколения GPU Mali</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obyavleno-o-gotovnosti-panthor-otkrytogo-drayvera-dlya-10-pokoleniya-gpu-mali-20240305-123539/</link>
+      <pubDate>Tue, 05 Mar 2024 12:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obyavleno-o-gotovnosti-panthor-otkrytogo-drayvera-dlya-10-pokoleniya-gpu-mali-20240305-123539/</guid>
+      <description>Компания Collabora объявила о готовности открытого драйвера panthor, развиваемого для десятого поколения GPU Mali (G310, G510, G710), в котором применяется технология CSF (Сommand Stream Frontend), выносящая на сторону прошивки некоторые функции драйвера для снижения нагрузки на CPU и предлагающая новую модель организации выполнения работ на GPU. DRM-драйвер (Direct Rendering Manager) panthor принят в ветку drm-misc и предположительно войдёт в состав ядра Linux 6.10. Изменения для поддержки нового драйвера также приняты в Mesa и включены в состав Gallium-драйвера panfrost для GPU Mali.</description>
+    </item>
+    
+    <item>
+      <title>NVK и Zink существенно улучшили ситуацию с открытыми драйверами для GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nvk-i-zink-suschestvenno-uluchshili-situaciyu-s-otkrytymi-drayverami-dlya-gpu-nvidia-20240301-113514/</link>
+      <pubDate>Fri, 01 Mar 2024 11:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nvk-i-zink-suschestvenno-uluchshili-situaciyu-s-otkrytymi-drayverami-dlya-gpu-nvidia-20240301-113514/</guid>
+      <description>Компания Сollabora объявила о доведении открытого драйвера NVK для видеокарт NVIDIA до готовности к повседневному использованию широким кругом пользователей и сертификации данного драйвера в консорциуме Khronos, занимающемся разработкой графических стандартов. Драйвер признан полностью совместимым со спецификацией Vulkan 1.3, успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов.
+https://www.opennet.ru/opennews/art.shtml?num=60699</description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструментарий ZLUDA, позволяющий запускать CUDA-приложения на GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</link>
+      <pubDate>Tue, 13 Feb 2024 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrumentariy-zluda-pozvolyayuschiy-zapuskat-cuda-prilozheniya-na-gpu-amd-20240213-013507/</guid>
+      <description>Проект ZLUDA подготовил открытую реализацию технологии CUDA для GPU AMD, позволяющую выполнять немодифицированные CUDA-приложения с производительностью, близкой к производительности приложений, выполняемых без прослоек. Опубликованный инструментарий обеспечивает бинарную совместимость с существующими CUDA-приложениями, собранными при помощи компилятора CUDA для GPU NVIDIA. Реализация работает поверх развиваемого компанией AMD стека ROCm и runtime HIP (Heterogeneous-computing Interface for Portability). Код проекта написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0. Поддерживается работа в Linux и Windows.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость LeftoverLocals в GPU AMD, Apple, Qualcomm и Imagination</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</link>
+      <pubDate>Thu, 18 Jan 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-leftoverlocals-v-gpu-amd-apple-qualcomm-i-imagination-20240118-153604/</guid>
+      <description>В графических процессорах компаний AMD, Apple, Qualcomm и Imagination выявлена уязвимость (CVE-2023-4969), получившая кодовое имя LeftoverLocals и позволяющая извлечь данные из локальной памяти GPU, оставшиеся после выполнения другого процесса и возможно содержащие конфиденциальную информацию. С практической стороны уязвимость может представлять опасность на многопользовательских системах, в которых обработчики разных пользователей запускаются на одном GPU, а также может применяться во вредоносном ПО для отслеживания активности выполняемых на GPU процессов. Например, в ходе атаки можно определить данные, обрабатываемые выполняемыми на GPU процессами (GPU kernel).</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в драйвере к GPU ARM, уже применяемые для совершения атак</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-k-gpu-arm-uzhe-primenyaemye-dlya-soversheniya-atak-20231003-163504/</link>
+      <pubDate>Tue, 03 Oct 2023 16:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-drayvere-k-gpu-arm-uzhe-primenyaemye-dlya-soversheniya-atak-20231003-163504/</guid>
+      <description>Компания ARM раскрыла сведения о трёх уязвимостях в драйверах для своих GPU, используемых в Android, ChromeOS и дистрибутивах Linux. Уязвимости позволяют непривилегированному локальному пользователю выполнить свой код с правами ядра. В октябрьском отчёте о проблемах с безопасностью в платформе Android упоминается, что до появления исправления одна из уязвимостей (CVE-2023-4211) уже задействована злоумышленниками в рабочих эксплоитах для совершения целевых атак (0-day). Например, уязвимость может применяться в распространяемых через сомнительные источники вредоносных приложениях для получения полного доступа к системе и установки компонентов, шпионящих за пользователем.</description>
+    </item>
+    
+    <item>
+      <title>Атака GPU.zip, позволяющая воссоздать данные, отрисовываемые GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-gpu-zip-pozvolyayuschaya-vossozdat-dannye-otrisovyvaemye-gpu-20230927-213504/</link>
+      <pubDate>Wed, 27 Sep 2023 21:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-gpu-zip-pozvolyayuschaya-vossozdat-dannye-otrisovyvaemye-gpu-20230927-213504/</guid>
+      <description>Группа исследователей из нескольких университетов США разработала новую технику атаки по сторонним каналам, позволяющую воссоздать визуальную информацию, обрабатываемую в GPU. При помощи предложенного метода, который получил название GPU.zip, атакующий может определить выводимую на экран информацию. Среди прочего атака может быть проведена через web-браузер, например, продемонстрировано, как открытая в Chrome вредоносная web-страница может получить информацию о пикселях, выводимых при отрисовке другой web-страницы, открытой в том же браузере.
+https://www.opennet.ru/opennews/art.shtml?num=59833</description>
+    </item>
+    
+    <item>
+      <title>Компания Imagination использовала драйвер Zink для поддержки OpenGL 4.6 в своих GPU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-imagination-ispolzovala-drayver-zink-dlya-podderzhki-opengl-4-6-v-svoih-gpu-20230707-113505/</link>
+      <pubDate>Fri, 07 Jul 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-imagination-ispolzovala-drayver-zink-dlya-podderzhki-opengl-4-6-v-svoih-gpu-20230707-113505/</guid>
+      <description>Компания Imagination Technologies объявила об обеспечении поддержки графического API OpenGL 4.6 в своих GPU, реализованной при помощи открытого драйвера Zink, развиваемого в репозитории проекта Mesa. Zink предоставляет реализацию OpenGL поверх Vulkan, позволяющую получить аппаратно ускоренный OpenGL на устройствах, поддерживающих только API Vulkan. Производительность Zink близка к производительности родных реализаций OpenGL, что даёт возможность производителям аппаратного обеспечения не тратить ресурсы на реализацию OpenGL в своих GPU и ограничиться поддержкой в них только API Vulkan, а OpenGL реализовать через прослойку.</description>
+    </item>
+    
+    <item>
+      <title>Для рецензирования предложен Linux-драйвер для GPU Apple AGX, написанный на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</link>
+      <pubDate>Wed, 08 Mar 2023 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</guid>
+      <description>В списке рассылки разработчиков ядра Linux предложена предварительная реализация драйвера drm-asahi для GPU Apple AGX серий G13 и G14, используемых в чипах Apple M1 и M2. Драйвер написан на языке Rust и дополнительно включает набор универсальных обвязок над подсистемой DRM (Direct Rendering Manager), которые можно использовать для разработки других графических драйверов на языке Rust. Опубликованный набор патчей пока предложен только для обсуждения разработчиками ядра (RFC), но может быть принят в основной состав после завершения рецензирования и устранения выявленных недочётов.</description>
+    </item>
+    
+  </channel>
+</rss>

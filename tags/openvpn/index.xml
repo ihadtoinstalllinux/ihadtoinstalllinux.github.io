@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenVPN on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openvpn/</link>
+    <description>Recent content in OpenVPN on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Определение сеансов OpenVPN в транзитном трафике</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opredelenie-seansov-openvpn-v-tranzitnom-trafike-20240317-133550/</link>
+      <pubDate>Sun, 17 Mar 2024 13:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opredelenie-seansov-openvpn-v-tranzitnom-trafike-20240317-133550/</guid>
+      <description>Группа исследователей из Мичиганского университета опубликовала результаты исследования возможности идентификации (VPN Fingerprinting) соединений к серверам на базе OpenVPN при мониторинге транзитного трафика. В итоге было выявлено три способа идентификации протокола OpenVPN среди других сетевых пакетов, которые могут использоваться в системах инспектирования трафика для блокирования виртуальных сетей на базе OpenVPN.
+https://www.opennet.ru/opennews/art.shtml?num=60795</description>
+    </item>
+    
+    <item>
+      <title>Обновление OpenVPN 2.6.9 с изменением лицензии</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openvpn-2-6-9-s-izmeneniem-licenzii-20240214-003542/</link>
+      <pubDate>Wed, 14 Feb 2024 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openvpn-2-6-9-s-izmeneniem-licenzii-20240214-003542/</guid>
+      <description>Подготовлен выпуск OpenVPN 2.6.7, пакета для создания виртуальных частных сетей, позволяющего организовать шифрованное соединение между двумя клиентскими машинами или обеспечить работу централизованного VPN-сервера для одновременной работы нескольких клиентов. Новая версия примечательна проведением перелицензирования. Код проекта переведён с использования чистой лицензии GPLv2, на совмещённую лицензию, в которой текст GPLv2 расширен исключением, разрешающим связывание с кодом под лицензией Apache 2.0, которое невозможно в обычных условиях без перелицензирования кода из-за несовместимости лицензией GPLv2 и Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в OpenVPN и SoftEther VPN</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-openvpn-i-softether-vpn-20231113-133540/</link>
+      <pubDate>Mon, 13 Nov 2023 13:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-openvpn-i-softether-vpn-20231113-133540/</guid>
+      <description>Подготовлен выпуск OpenVPN 2.5.7, пакета для создания виртуальных частных сетей, позволяющего организовать шифрованное соединение между двумя клиентскими машинами или обеспечить работу централизованного VPN-сервера для одновременной работы нескольких клиентов. В новой версии устранены две уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=60103</description>
+    </item>
+    
+  </channel>
+</rss>

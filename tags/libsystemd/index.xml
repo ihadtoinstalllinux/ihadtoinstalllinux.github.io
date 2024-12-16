@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libsystemd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libsystemd/</link>
+    <description>Recent content in libsystemd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 15:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libsystemd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инициатива по сокращению зависимостей у libsystemd</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-sokrascheniyu-zavisimostey-u-libsystemd-20240403-153540/</link>
+      <pubDate>Wed, 03 Apr 2024 15:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-sokrascheniyu-zavisimostey-u-libsystemd-20240403-153540/</guid>
+      <description>Среди разработчиков системного менеджера systemd ведётся обсуждение вопроса сокращения зависимостей у библиотеки libsystemd, которая связывается не только с компонентами systemd, но и со многими внешними приложениями. Например, в Fedora более 150 пакетов используют libsystemd в зависимостях. Инициатор обсуждения считает, что подтягивание в libsystemd дополнительных сторонних библиотек, которые не контролируют разработчики systemd, существенно увеличивает поверхность атаки в случае компрометации сторонних библиотек, как это произошло с библиотекой liblzma.
+https://www.opennet.ru/opennews/art.shtml?num=60912</description>
+    </item>
+    
+  </channel>
+</rss>

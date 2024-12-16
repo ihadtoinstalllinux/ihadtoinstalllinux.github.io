@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CRC32C on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/crc32c/</link>
+    <description>Recent content in CRC32C on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 18:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/crc32c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядре Linux оптимизирована реализация алгоритма CRC32C</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-optimizirovana-realizaciya-algoritma-crc32c-20241028-183520/</link>
+      <pubDate>Mon, 28 Oct 2024 18:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-optimizirovana-realizaciya-algoritma-crc32c-20241028-183520/</guid>
+      <description>Для включения в состав будущей ветки ядра Linux 6.13 предложен патч с переработанной реализацией алгоритма нахождения контрольной суммы CRC32C. Код реализации CRC32C уменьшен примерно в 10 раз (с 4546 до 418 байт). При выключенной защите retpoline от атак класса Spectre прирост производительности при использовании новой реализации достигает 11.8% на процессорах AMD Zen 2, 6.4% - Intel Emerald Rapids и 4.8% Intel Haswell. При включении retpoline прирост производительности более заметен и достигает 66.</description>
+    </item>
+    
+  </channel>
+</rss>

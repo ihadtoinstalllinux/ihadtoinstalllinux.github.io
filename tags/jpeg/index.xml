@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JPEG on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/jpeg/</link>
+    <description>Recent content in JPEG on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 14:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/jpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google представил библиотеку jpegli для более эффективного сжатия JPEG-изрбражений </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</link>
+      <pubDate>Thu, 04 Apr 2024 14:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-predstavil-biblioteku-jpegli-dlya-bolee-effektivnogo-szhatiya-jpeg-izrbrazheniy-20240404-143533/</guid>
+      <description>Компания Google представила новую открытую библиотеку jpegli с реализацией кодировщика и декодировщика изображений в формате JPEG. Библиотека включает дополнительные оптимизации для повышения эффективности кодирования, позволяющие на 35% увеличить степень сжатия высококачественных изображений, по сравнению с традиционными кодеками JPEG. В сравнении с libjpeg-turbo библиотека jpegli позволяет добиться аналогичного уровня качества при снижении битрейта на 32%. На уровне API и ABI библиотека полностью совместима с libjpeg62 и может применяться для её прозрачной замены.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в реализации JPEG XL из состава FFmpeg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-realizacii-jpeg-xl-iz-sostava-ffmpeg-20240130-173519/</link>
+      <pubDate>Tue, 30 Jan 2024 17:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-realizacii-jpeg-xl-iz-sostava-ffmpeg-20240130-173519/</guid>
+      <description>Раскрыты сведения о двух уязвимостях в поставляемом в пакете FFmpeg декодировщике формата JPEG XL, которые могут привести к выполнению кода злоумышленника при обработке в FFmpeg специально оформленных изображений. Проблемы были устранены в выпуске FFmpeg 6.1, но так как поддержка JPEG XL включена начиная с ветки 6.1, уязвимость затрагивает только системы, использующие экспериментальные сборки FFmpeg 6.1 или переносящие из них изменения.
+https://www.opennet.ru/opennews/art.shtml?num=60521</description>
+    </item>
+    
+    <item>
+      <title>Samsung обеспечил поддержку формата изображений JPEG XL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/samsung-obespechil-podderzhku-formata-izobrazheniy-jpeg-xl-20240120-143512/</link>
+      <pubDate>Sat, 20 Jan 2024 14:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/samsung-obespechil-podderzhku-formata-izobrazheniy-jpeg-xl-20240120-143512/</guid>
+      <description>Компания Samsung добавила поддержку формата изображений JPEG XL в приложение для работы с камерой, поставляемое в смартфонах Galaxy S24. Ранее в числе сторонников формата также выступили компании Apple, Facebook, Adobe, Intel, Krita, The Guardian, libvips, Cloudinary, Shopify и Free Software Foundation. До этого компания Google удалила экспериментальную реализацию JPEG XL из кодовой базы Chromium, мотивируя данное решение отсутствием достаточного интереса к формату со стороны экосистемы.
+https://www.opennet.ru/opennews/art.shtml?num=60467</description>
+    </item>
+    
+    <item>
+      <title>В Safari 17 и WebKit включена поддержка формата изображений JPEG XL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-safari-17-i-webkit-vklyuchena-podderzhka-formata-izobrazheniy-jpeg-xl-20230610-163505/</link>
+      <pubDate>Sat, 10 Jun 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-safari-17-i-webkit-vklyuchena-podderzhka-formata-izobrazheniy-jpeg-xl-20230610-163505/</guid>
+      <description>Компания Apple включила по умолчанию в бета-версии браузера Safari 17 и движке WebKit поддержку формата изображений JPEG XL, от поддержки которого в Chrome в прошлом году отказалась компания Google. В Firefox поддержка формата JPEG XL доступна в ночных сборках (включается через image.jxl.enabled = true в about:config), но Mozilla пока сохраняет нейтральную позицию в вопросе продвижения этого формата.
+https://www.opennet.ru/opennews/art.shtml?num=59276</description>
+    </item>
+    
+  </channel>
+</rss>

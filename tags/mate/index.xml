@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MATE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mate/</link>
+    <description>Recent content in MATE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2024 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз среды рабочего стола MATE 1.28 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-mate-1-28-s-podderzhkoy-wayland-20240603-113557/</link>
+      <pubDate>Mon, 03 Jun 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-mate-1-28-s-podderzhkoy-wayland-20240603-113557/</guid>
+      <description>После почти трёх лет разработки официально объявлен релиз среды рабочего стола MATE 1.28, продолжающей развитие кодовой базы GNOME 2.32 с сохранением классической концепции формирования рабочего стола. Анонс релиза датирован февралём, но объявление на сайте проекта появилось всего несколько часов назад, а до этого новая ветка упоминалась только в виде тегов в Git-репозитории проекта, без явного объявления о релизе и без публикации общего перечня изменений. Пакеты с MATE 1.28 уже доступны в репозиториях таких дистрибутивов, как Fedora 40, Gentoo, Mageia, Manjaro, openSUSE Tumbleweed, Arch Linux, ALT Linux, Artix, OpenIndiana, GhostBSD, Parabola, Solus и Void Linux.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск редакции дистрибутива Slackel 7.7 с рабочим столом MATE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-redakcii-distributiva-slackel-7-7-s-rabochim-stolom-mate-20240127-173508/</link>
+      <pubDate>Sat, 27 Jan 2024 17:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-redakcii-distributiva-slackel-7-7-s-rabochim-stolom-mate-20240127-173508/</guid>
+      <description>Разработчики дистрибутива Slackel, построенного на наработках проектов Slackware и Salix, представили сборку с пользовательской оболочной MATE, дополняющую ранее опубликованное окружение на основе оконного менеджера Openbox. Дистрибутив формируется на основе постоянно обновляемой ветки Slackware-Current и полностью совместим с репозиториями Slackware и Salix. Размер загрузочного образа, способного работать в Live-режиме, 2.9 ГБ (i386 и x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=60508</description>
+    </item>
+    
+  </channel>
+</rss>

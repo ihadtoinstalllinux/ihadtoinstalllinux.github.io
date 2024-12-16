@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft представил обновление WSL, прослойки для запуска Linux в Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-predstavil-obnovlenie-wsl-prosloyki-dlya-zapuska-linux-v-windows-20241120-143505/</link>
+      <pubDate>Wed, 20 Nov 2024 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-predstavil-obnovlenie-wsl-prosloyki-dlya-zapuska-linux-v-windows-20241120-143505/</guid>
+      <description>Компания Microsoft объявила о расширении возможностей прослойки WSL (Windows Subsystem for Linux) и реализации официальной поддержки запуска в WSL окружений с дистрибутивом Red Hat Enterprise Linux. Заявлено, что в скором времени компания Red Hat начнёт формировать специальные сборки RHEL для WSL, которые можно будет найти и установить при помощи команд &amp;ldquo;wsl &amp;ndash;list &amp;ndash;online&amp;rdquo; и &amp;ldquo;wsl &amp;ndash;install&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=62259</description>
+    </item>
+    
+    <item>
+      <title>Microsoft развивает GUI для настройки WSL, прослойки для запуска Linux-приложений в Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</link>
+      <pubDate>Thu, 30 May 2024 23:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-razvivaet-gui-dlya-nastroyki-wsl-prosloyki-dlya-zapuska-linux-prilozheniy-v-wind-20240530-233523/</guid>
+      <description>Компания Microsoft объявила о разработке графического конфигуратора для WSL (Windows Subsystem for Linux), прослойки для запуска Linux-приложений в Windows. Конфигуратор упростит настройку WSL под свои потребности и позволит управлять и просматривать различные параметраы WSL без необходимости ручного редактирования файла &amp;ldquo;.wslconfig&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=61278</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал WSL 2.0.0, прослойку для запуска Linux-приложений в Windows </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</link>
+      <pubDate>Wed, 20 Sep 2023 03:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-wsl-2-0-0-prosloyku-dlya-zapuska-linux-prilozheniy-v-windows-20230920-033505/</guid>
+      <description>Компания Microsoft представила выпуск прослойки для запуска Linux-приложений в Windows - WSL 2.0.0 (Windows Subsystem for Linux). Для обеспечения запуска исполняемых файлов Linux в WSL предоставляется окружение с полноценным ядром Linux, основанном на выпуске ядра Linux 5.15, который расширен специфичными для WSL патчами, включающими оптимизации для сокращения времени запуска ядра, уменьшения потребления памяти, возвращения Windows освобождённой Linux-процессами памяти, оставления в ядре минимально необходимого набора драйверов и подсистем.
+https://www.opennet.ru/opennews/art.shtml?num=59784</description>
+    </item>
+    
+  </channel>
+</rss>

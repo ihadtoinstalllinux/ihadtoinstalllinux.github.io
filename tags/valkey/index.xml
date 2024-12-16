@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Valkey on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/valkey/</link>
+    <description>Recent content in Valkey on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 16:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/valkey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Valkey 8.0, форк СУБД Redis от Amazon, Google, Oracle и Ericsson</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</link>
+      <pubDate>Wed, 18 Sep 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-valkey-8-0-fork-subd-redis-ot-amazon-google-oracle-i-ericsson-20240918-163509/</guid>
+      <description>Представлен релиз проекта Valkey 8.0, развивающего форк СУБД Redis, созданный после перевода кодовой базы Redis на проприетарную лицензию. Проект развивается на нейтральной площадке под покровительством организации Linux Foundation при участии разработчиков из таких компаний, как Amazon, Google, Oracle, Ericsson и Snap. В числе разработчиков Valkey - Маделин Олсон (Madelyn Olson), бывший мэйнтейнер Redis. Код проекта написан на языке Си и распространяется под лицензией BSD. Поддерживается работа в Linux, macOS, OpenBSD, NetBSD и FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>Amazon, Google, Oracle, Ericsson и Snap основали Valkey, форк СУБД Redis</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</link>
+      <pubDate>Thu, 28 Mar 2024 23:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-google-oracle-ericsson-i-snap-osnovali-valkey-fork-subd-redis-20240328-233509/</guid>
+      <description>Организация Linux Foundation объявила о создании проекта Valkey, который продолжит развитие открытой кодовой базы СУБД Redis, распространяемой под лицензией BSD. Проект будет развиваться под эгидой организации Linux Foundation на независимой площадке с привлечением сообщества разработчиков и компаний, заинтересованных в продолжении сохранения открытой кодовой базы Redis. К работе над проектом уже присоединились такие компании, как Amazon Web Services (AWS), Google Cloud, Oracle, Ericsson и Snap Inc.
+https://www.opennet.ru/opennews/art.shtml?num=60871</description>
+    </item>
+    
+  </channel>
+</rss>

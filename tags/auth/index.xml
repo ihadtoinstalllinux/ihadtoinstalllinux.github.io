@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>auth on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/auth/</link>
+    <description>Recent content in auth on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2024 20:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/auth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenSSH код аутентификации вынесен в отдельный процесс sshd-auth</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openssh-kod-autentifikacii-vynesen-v-otdelnyy-process-sshd-auth-20241015-203538/</link>
+      <pubDate>Tue, 15 Oct 2024 20:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openssh-kod-autentifikacii-vynesen-v-otdelnyy-process-sshd-auth-20241015-203538/</guid>
+      <description>Разработчики OpenSSH продолжили разделение sshd на несколько отдельных исполняемых файлов. На реализованном в мае первом этапе разделения из sshd в отдельный процесс sshd-session были вынесены функции, связанные с обработкой сеансов, а в sshd оставлена лишь функциональность, необходимая для приёма нового сетевого соединения и запуска sshd-session для каждого нового сеанса. Вчера в кодовую базу OpenSSH было внесено изменение, добавляющее ещё один процесс - sshd-auth, в который из sshd-session перенесён код, выполняющий аутентификацию.</description>
+    </item>
+    
+  </channel>
+</rss>

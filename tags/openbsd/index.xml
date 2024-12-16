@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openbsd/</link>
+    <description>Recent content in OpenBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 01:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск OpenBSD 7.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-6-20241009-013546/</link>
+      <pubDate>Wed, 09 Oct 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-6-20241009-013546/</guid>
+      <description>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.6. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD запретили использование нулевых символов в shell-скриптах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-zapretili-ispolzovanie-nulevyh-simvolov-v-shell-skriptah-20240925-153516/</link>
+      <pubDate>Wed, 25 Sep 2024 15:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-zapretili-ispolzovanie-nulevyh-simvolov-v-shell-skriptah-20240925-153516/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) добавил в ветку OpenBSD-Current, на базе которой будет сформирован релиз OpenBSD 7.6, изменение, запрещающее использование символа с нулевым кодом в shell-скриптах, обрабатываемых командным интерпретатором ksh, используемым в OpenBSD по умолчанию. Наличие нулевых символов в скриптах теперь будет приводить к завершению выполнения с выводом ошибки, за исключением из размещения среди данных в конце файла, прикреплённых после кода.
+https://www.opennet.ru/opennews/art.shtml?num=61929</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenBSD охватил изменениями всю отделившуюся от NetBSD кодовую базу</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</link>
+      <pubDate>Tue, 27 Aug 2024 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) объявил о достижении проектом OpenBSD рубежа, при котором вся импортированная в 1995 году кодовая база охвачена изменениями - не осталось ни одного не изменённого или не удалённого оригинального файла оригинальной кодовой базы. Последним не изменённым компонентом оставалась игра quiz, в которой на днях проверка знаний, связанных с Грецией, заменена на проверку терминологии, связанной с кораблями. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS-репозиторию NetBSD.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD добавлена поддержка VA-API для аппаратного ускорения декодирования видео</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-podderzhka-va-api-dlya-apparatnogo-uskoreniya-dekodirovaniya-video-20240722-133650/</link>
+      <pubDate>Mon, 22 Jul 2024 13:36:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-podderzhka-va-api-dlya-apparatnogo-uskoreniya-dekodirovaniya-video-20240722-133650/</guid>
+      <description>В состав OpenBSD приняты изменения, добавляющие библиотеку libva 2.22.0 в состав X11-стека Xenocara, применяемого в OpenBSD для формирования графического окружения и основанного на изменённых версиях X.Org 7.7, X Server 21.1.11, freetype 2.13.0 и Mesa 23.1.9. Включение библиотеки libva позволяет использовать программный интерфейс VA-API (Video Acceleration API) для аппаратного ускорения кодирования и декодирования видео в различных форматах.
+https://www.opennet.ru/opennews/art.shtml?num=61591</description>
+    </item>
+    
+    <item>
+      <title>Из OpenBSD удалена утилита dhclient в пользу фонового процесса dhcpleased</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</link>
+      <pubDate>Mon, 01 Jul 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-openbsd-udalena-utilita-dhclient-v-polzu-fonovogo-processa-dhcpleased-20240701-153559/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) внёс в кодовую базу OpenBSD-current, на основе которой формируется следующий значительный релиз, изменение, удаляющее DHCP-клиент dhclient. Вместо dhclient предлагается использовать постоянно запущенный фоновый процесс dhcpleased, поставляющийся начиная с OpenBSD 6.9 и использующий утилиту ifconfig для включения автоконфигурации сетевых интерфейсов через DHCP (включается через запуск &amp;ldquo;ifconfig $if autoconf&amp;rdquo; или добавление &amp;ldquo;inet autoconf&amp;rdquo; в /etc/hostname.$if). Начиная с OpenBSD 7.0 фоновый процесс dhcpleased был включён по умолчанию, а утилита dhclient переведена в разряд опций.</description>
+    </item>
+    
+    <item>
+      <title>Анонсирован хостинг Git-репозиториев Game of Trees Hub, использующий OpenBSD и Got</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</link>
+      <pubDate>Fri, 21 Jun 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/anonsirovan-hosting-git-repozitoriev-game-of-trees-hub-ispolzuyuschiy-openbsd-i-got-20240621-173604/</guid>
+      <description>Стефан Шперлинг (Stefan Sperling), мейнтейнер стека протоколов 802.11 в OpenBSD и автор системы управления версиями Got (Game of Trees), объявил о работе по созданию нового хостинга Git-репозиториев Game of Trees Hub, построенного с использованием инструментария Got и развёрнутого на операционной системе OpenBSD. В Got предоставляется возможность размещения на своём оборудовании сервера и web-интерфейса для удалённого доступа к репозиториям, но остаётся большая категория пользователей которые не желают самостоятельно заниматься сопровождением личных Git-серверов и готовы воспользоваться для размещения кода внешним сервисом.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD обеспечена поддержка среды рабочего стола KDE 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-obespechena-podderzhka-sredy-rabochego-stola-kde-6-20240520-193513/</link>
+      <pubDate>Mon, 20 May 2024 19:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-obespechena-podderzhka-sredy-rabochego-stola-kde-6-20240520-193513/</guid>
+      <description>В ветке OpenBSD-Current, на основе которой формируется осенний релиз OpenBSD 7.6, появилась возможность запуска среды рабочего стола KDE Plasma 6. После прекращения поддержки KDE4, в OpenBSD многие годы отсутствовала возможность использования рабочего стола KDE Plasma 5, поддержка которого появилась лишь в недавнем выпуске OpenBSD 7.5. Спустя месяц выполнена адаптация KDE Plasma 6 для работы в OpenBSD, а в штатном репозитории обновлены необходимые для работы пакеты (kde, kde-plasma, kde-plasma-extras). Отмечается, что композитный сервер kwin уже работает в OpenBSD достаточно стабильно, а пользователей приглашают принять участие в тестировании для выявления имеющихся проблем.</description>
+    </item>
+    
+    <item>
+      <title>Для OpenBSD реализована настройка, включающая режим TCP_NODELAY для всей системы </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-nastroyka-vklyuchayuschaya-rezhim-tcp-nodelay-dlya-vsey-sistemy-20240515-113532/</link>
+      <pubDate>Wed, 15 May 2024 11:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-nastroyka-vklyuchayuschaya-rezhim-tcp-nodelay-dlya-vsey-sistemy-20240515-113532/</guid>
+      <description>Джоб Снейдерс (Job Snijders), маститый разработчик OpenBSD, руководитель одного из комитетов в IETF (Internet Engineering Task Force), автор 11 RFC, связанных с маршрутизацией и RPKI, и создатель IRRd (Internet Routing Registry Daemon), опубликовал набор патчей для OpenBSD, добавляющих новый sysctl-параметр &amp;ldquo;net.inet.tcp.nodelay&amp;rdquo; для отключения алгоритма Нейгла на уровне всей системы. Параметр избавляет разработчиков приложений от выставления флага TCP_NODELAY для отдельных сокетов.
+https://www.opennet.ru/opennews/art.shtml?num=61176</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenBSD перешёл на использование формата PAX для tar-архивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-pereshel-na-ispolzovanie-formata-pax-dlya-tar-arhivov-20240417-143548/</link>
+      <pubDate>Wed, 17 Apr 2024 14:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-pereshel-na-ispolzovanie-formata-pax-dlya-tar-arhivov-20240417-143548/</guid>
+      <description>В кодовую базу OpenBSD принято изменение, переводящее утилиту tar на использование по умолчанию формата PAX при создании архивов. Изменение войдёт в состав выпуска OpenBSD 7.6. Использование формата PAX даст возможность сохранять более длинные имена файлов, обрабатывать ссылки, использовать более точные сведения о времени и помещать в архив файлы очень большого размера.
+https://www.opennet.ru/opennews/art.shtml?num=61011</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenBSD 7.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-5-20240405-153524/</link>
+      <pubDate>Fri, 05 Apr 2024 15:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-5-20240405-153524/</guid>
+      <description>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.5. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NFS-сервере FreeBSD и OpenBSD, приводящая к удалённому выполнению кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</link>
+      <pubDate>Mon, 25 Mar 2024 17:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-nfs-servere-freebsd-i-openbsd-privodyaschaya-k-udalennomu-vypolneniyu-koda-20240325-173604/</guid>
+      <description>В реализации NFS-сервера, применяемого BSD-системах, выявлена критическая уязвимость (CVE-2024-29937), позволяющая добиться удалённого выполнения своего кода с правами root на сервере. Проблема проявляется во всех выпусках OpenBSD и FreeBSD, вплоть до OpenBSD 7.4 и FreeBSD 14.0-RELEASE. Детальная информация об уязвимости пока не раскрывается, известно только то, что проблема вызвана логической ошибкой, не связанной с повреждением памяти. Отмечается, что уязвимость легко может быть эксплуатирована и использована для атаки на системы, в которых применяется NFS, но судя по видеодемонстрации уязвимость позволяет получить полный доступ к коревой ФС сервера и требует для эксплуатации наличия прав для монтирования разделов по NFS.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD-current добавлен новый wi-fi драйвер для чипов Mediatek</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-current-dobavlen-novyy-wi-fi-drayver-dlya-chipov-mediatek-20240223-203550/</link>
+      <pubDate>Fri, 23 Feb 2024 20:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-current-dobavlen-novyy-wi-fi-drayver-dlya-chipov-mediatek-20240223-203550/</guid>
+      <description>Клаудио Джекер (Claudio Jeker (claudio@)) добавил в ядро OpenBSD драйвер mwx с поддержкой беспроводных карт на базе чипов Mediatek MT7921 и MT7922, использующих стандарт 802.11ax. В текущем виде драйвер продолжает находиться на стадии разработки и пока не пригоден для использования на рабочих системах. Например, нормально работает сканирование сетей и приём пакетов (scan + rx), но временно не работает передача пакетов (tx). При разработке используется чип MT7921. Дополнительно заявлена поддержка чипа MT7922, но у разработчика пока нет на руках требуемого оборудования для проверки.</description>
+    </item>
+    
+    <item>
+      <title>Для OpenBSD реализована возможность использования рабочего стола KDE Plasma</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-vozmozhnost-ispolzovaniya-rabochego-stola-kde-plasma-20240109-123551/</link>
+      <pubDate>Tue, 09 Jan 2024 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-openbsd-realizovana-vozmozhnost-ispolzovaniya-rabochego-stola-kde-plasma-20240109-123551/</guid>
+      <description>Рафаэль Садовский (Rafael Sadowski) объявил о доступности пользовательского окружения KDE Plasma 5.27 для установки в OpenBSD-current, формировании готовых для установки пакетов kde-plasma и kde-plasma-extra, и намерении обеспечить поддержку KDE Plasma в весеннем выпуске OpenBSD 7.5. После прекращения поддержки KDE4 в OpenBSD так и не была перенесена возможность использования новой ветки рабочего стола KDE Plasma 5. Пакеты с приложениями KDE Gears 5 и библиотеками KDE Frameworks 5 достаточно давно доступны в портах OpenBSD, но сама оболочка до настоящего времени оставалась неработоспособной.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD портирован драйвер ath11k для беспроводных чипов Qualcomm</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-portirovan-drayver-ath11k-dlya-besprovodnyh-chipov-qualcomm-20231231-023601/</link>
+      <pubDate>Sun, 31 Dec 2023 02:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-portirovan-drayver-ath11k-dlya-besprovodnyh-chipov-qualcomm-20231231-023601/</guid>
+      <description>В ветку OpenBSD-current добавлен драйвер qwx для беспроводных чипов Qualcomm IEEE 802.11ax, созданный путём портирования драйвера ath11k из ядра Linux (входит в состав ядра, начиная с ветки 5.6). Драйвер позволяет задействовать беспроводные адаптеры, применяемые на таких ноутбуках, как Lenovo ThinkPad X13s и DELL XPS 9500. Для работы драйвера требуется ручная установка файлов с прошивкой.
+https://www.opennet.ru/opennews/art.shtml?num=60373</description>
+    </item>
+    
+    <item>
+      <title>В языке системного программирования Hare реализована поддержка OpenBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yazyke-sistemnogo-programmirovaniya-hare-realizovana-podderzhka-openbsd-20231204-163514/</link>
+      <pubDate>Mon, 04 Dec 2023 16:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yazyke-sistemnogo-programmirovaniya-hare-realizovana-podderzhka-openbsd-20231204-163514/</guid>
+      <description>В состав языка программирования Hare, который преподносится как язык системного программирования, близкий к языку Си, но проще, чем Си, добавлена поддержка операционной системы OpenBSD. OpenBSD стала первой новой платформой, добавленной в Hare с момента публикации проекта в апреле 2022 года (изначально Hare поддерживал только Linux и FreeBSD). Компилятор Hare был портирован для OpenBSD около года назад, но стандартная библиотека до настоящего времени оставалась без поддержки данной платформы.
+https://www.opennet.ru/opennews/art.shtml?num=60231</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenBSD 7.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-4-20231017-003505/</link>
+      <pubDate>Tue, 17 Oct 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-4-20231017-003505/</guid>
+      <description>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.4. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства.</description>
+    </item>
+    
+    <item>
+      <title>В OpenBSD добавлена загрузка микрокода для процессоров AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-zagruzka-mikrokoda-dlya-processorov-amd-20230724-153506/</link>
+      <pubDate>Mon, 24 Jul 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-dobavlena-zagruzka-mikrokoda-dlya-processorov-amd-20230724-153506/</guid>
+      <description>В ветке OpenBSD-Current, на основе которой осенью будет сформирован релиз OpenBSD 7.4, в сборки для архитектур amd64 и i386 добавлены компоненты для обновления микрокода к процессорам AMD. Для распространения бинарных файлов с микрокодом подготовлен порт &amp;ldquo;ports/sysutils/firmware/amd&amp;rdquo;. Установка нового микрокода будет осуществляться при помощи штатной утилиты fw_update. Новые версии микрокода будут устанавливаться автоматически при загрузке. Аналогичная поддержка обновления микрокода для процессоров Intel была реализована в 2018 году после выявления уязвимостей класса Meltdown и Spectre, и предложена в выпуске OpenBSD 6.</description>
+    </item>
+    
+    <item>
+      <title>Разработчики OpenBSD экспериментируют с использованием Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-openbsd-eksperimentiruyut-s-ispolzovaniem-wayland-20230710-103505/</link>
+      <pubDate>Mon, 10 Jul 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-openbsd-eksperimentiruyut-s-ispolzovaniem-wayland-20230710-103505/</guid>
+      <description>На прошедшем в Таллине хакатоне g2k23 разработчики проекта OpenBSD провели эксперимент по запуску в OpenBSD графического окружения, использующего протокол Wayland. До сих пор для формирования графического окружения в OpenBSD применялась собственная редакция X11-стека - Xenocara, основанная на библиотеках X.Org 7.7, X Server 1.21.6 и Mesa 22.3.4. Участники хакатона исследовали вопрос применения в OpenBSD отличных от X11 систем и попытались создать окружение на основе композитного менеджера Sway, построенного с использованием протокола Wayland и совместимого с мозаичным оконным менеджером i3 и панелью i3bar.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenSMTPD 7.3.0p0, SMTP-сервера от проекта OpenBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</link>
+      <pubDate>Sat, 17 Jun 2023 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-opensmtpd-7-3-0p0-smtp-servera-ot-proekta-openbsd-20230617-223505/</guid>
+      <description>Спустя два с половиной года с момента прошлого обновления сформирован выпуск переносимой редакции SMTP-сервера OpenSMTPD 7.3.0p0, развиваемого под эгидой проекта OpenBSD и нацеленного на создание простой замены Sendmail. Сервер поддерживает большую часть требований спецификации RFC 5321 и реализует ряд используемых повсеместно расширений протокола, таких как поддержка аутентификации пользователей (SMTP AUTH), TLS-шифрование трафика, уведомления о доставке DSN (Delivery Status Notification), расширенные коды статуса (Enhanced Status Codes), блокирование спама по &amp;ldquo;серым спискам&amp;rdquo; через интеграцию со spamd.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenBSD 7.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-3-20230411-013507/</link>
+      <pubDate>Tue, 11 Apr 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openbsd-7-3-20230411-013507/</guid>
+      <description>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.3. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Libreboot 20230319. Начало разработки Linux-дистрибутива с утилитами OpenBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230319-nachalo-razrabotki-linux-distributiva-s-utilitami-openbsd-20230320-113503/</link>
+      <pubDate>Mon, 20 Mar 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-libreboot-20230319-nachalo-razrabotki-linux-distributiva-s-utilitami-openbsd-20230320-113503/</guid>
+      <description>Представлен выпуск свободной загрузочной прошивки Libreboot 20230319. Проект развивает готовую сборку проекта coreboot, предоставляющую замену проприетарным прошивкам UEFI и BIOS, отвечающим за инициализации CPU, памяти, периферийных устройств и других компонентов оборудования, с минимизацией бинарных вставок.
+https://www.opennet.ru/opennews/art.shtml?num=58824</description>
+    </item>
+    
+  </channel>
+</rss>

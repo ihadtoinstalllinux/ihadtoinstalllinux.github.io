@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snapchange on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/snapchange/</link>
+    <description>Recent content in Snapchange on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2023 13:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/snapchange/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon и Google открыли код систем fuzzing-тестирования Snapchange и Buzzer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</link>
+      <pubDate>Mon, 15 May 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amazon-i-google-otkryli-kod-sistem-fuzzing-testirovaniya-snapchange-i-buzzer-20230515-133504/</guid>
+      <description>Компания Amazon открыла исходные тексты инструментария Snapchange с реализацией метода fuzzing-тестирования срезов памяти, позволяющего организовать проверку исполняемых файлов без их модификации и без наличия исходного кода приложения. Snapchange даёт возможность загрузить дамп физической памяти с производным исполняемым кодом и организовать при помощи гипервизора KVM циклическое выполнение присутствующего в дампе кода, перебирая различных комбинации входных данных, отслеживая возникающие сбои или аномалии и перезапуская проверку после очередной итерации, каждый раз сбрасывая срез памяти и регистров CPU в исходное состояние.</description>
+    </item>
+    
+  </channel>
+</rss>

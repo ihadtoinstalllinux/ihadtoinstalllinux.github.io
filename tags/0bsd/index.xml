@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>0BSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/0bsd/</link>
+    <description>Recent content in 0BSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 00:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/0bsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux переводит сценарии сборки пакетов на лицензию 0BSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arch-linux-perevodit-scenarii-sborki-paketov-na-licenziyu-0bsd-20241120-003551/</link>
+      <pubDate>Wed, 20 Nov 2024 00:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arch-linux-perevodit-scenarii-sborki-paketov-na-licenziyu-0bsd-20241120-003551/</guid>
+      <description>Разработчики дистрибутива Arch Linux объявили о решении перевести весь исходный код компонентов, используемых для формирования пакетов, таких как файлы PKGBUILD, &amp;ldquo;.install&amp;rdquo; и &amp;ldquo;.desktop&amp;rdquo;, на лицензию 0BSD, которую можно рассматривать как аналог перевода в общественное достояние. Ранее исходный код сценариев сборки пакетов в Arch Linux распространялся без указания лицензии, что приводило к неопределённости, позволяло по разному трактовать возможность их использования и создавало проблемы при желании задействовать их в других проектах, имеющих строгую лицензионную политику.</description>
+    </item>
+    
+  </channel>
+</rss>

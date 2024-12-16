@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NPM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/npm/</link>
+    <description>Recent content in NPM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2024 22:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8.2% наиболее популярных загрузок в NPM приходится на устаревшие пакеты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/8-2-naibolee-populyarnyh-zagruzok-v-npm-prihoditsya-na-ustarevshie-pakety-20240121-223507/</link>
+      <pubDate>Sun, 21 Jan 2024 22:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/8-2-naibolee-populyarnyh-zagruzok-v-npm-prihoditsya-na-ustarevshie-pakety-20240121-223507/</guid>
+      <description>Исследователи из компании Aqua Security опубликовали результаты анализа статистики о 50 тысячах наиболее загружаемых пакетов в репозитории NPM. 7500 (15%) из наиболее загружаемых пакетов оказались связаны с устаревшими пакетами и прекратившими существование проектами. Для упрощения определения устаревших пакетов среди зависимостей, используемых в своём проекте, предложена утилита Dependency-Deprecated-Checker, опубликованная под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60472</description>
+    </item>
+    
+    <item>
+      <title>Эксперимент с созданием NPM-пакета, зависимого от всех пакетов в репозитории</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-sozdaniem-npm-paketa-zavisimogo-ot-vseh-paketov-v-repozitorii-20240105-143528/</link>
+      <pubDate>Fri, 05 Jan 2024 14:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/eksperiment-s-sozdaniem-npm-paketa-zavisimogo-ot-vseh-paketov-v-repozitorii-20240105-143528/</guid>
+      <description>Один из разработчиков JavaScript-пакетов провёл эксперимент с созданием и размещением в репозитории NPM пакета &amp;ldquo;everything&amp;rdquo;, который охватывает зависимостями все существующие пакеты в репозитории. Для реализации подобной возможности пакет &amp;ldquo;everything&amp;rdquo; связан прямыми зависимостями с пятью пакетами &amp;ldquo;@everything-registry/chunk-N&amp;rdquo;, которые в свою очередь привязываются зависимостями к более 3000 пакетов &amp;ldquo;sub-chunk-N&amp;rdquo;, в каждом из которых осуществляется привязка к 800 существующих пакетов в репозитории.
+https://www.opennet.ru/opennews/art.shtml?num=60392</description>
+    </item>
+    
+    <item>
+      <title>Компрометация NPM-репозитория Ledger привела к подстановке вредоносных изменений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/komprometaciya-npm-repozitoriya-ledger-privela-k-podstanovke-vredonosnyh-izmeneniy-20231216-133530/</link>
+      <pubDate>Sat, 16 Dec 2023 13:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/komprometaciya-npm-repozitoriya-ledger-privela-k-podstanovke-vredonosnyh-izmeneniy-20231216-133530/</guid>
+      <description>Компания Ledger, выпускающая одноимённые аппаратные криптокошельки, раскрыла информацию о компрометации своего NPM-репозитория, которая привела к внедрению вредоносного кода в JavaScript-библиотеку Ledger Connect Kit, применяемую для обеспечения доступа децентрализованных web-приложений к криптокошелькам. Злоумышленникам удалось выпустить фиктивные версии Connect Kit, в которые был встроен код, подставляющий обманные транзакции для перевода средств с криптокошелька жертвы.
+https://www.opennet.ru/opennews/art.shtml?num=60294</description>
+    </item>
+    
+  </channel>
+</rss>

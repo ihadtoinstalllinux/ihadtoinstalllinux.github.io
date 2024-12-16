@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mercurial on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mercurial/</link>
+    <description>Recent content in Mercurial on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 23:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mercurial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla переводит разработку Firefox с Mercurial на Git</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</link>
+      <pubDate>Mon, 06 Nov 2023 23:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-perevodit-razrabotku-firefox-s-mercurial-na-git-20231106-233520/</guid>
+      <description>Разработчики из компании Mozilla объявили о решении прекратить использование для разработки Firefox системы управления версиями Mercurial в пользу Git. До сих пор проект предоставлял возможность использования Mercurial или Git на выбор разработчиков, но в основном репозитории применялся Mercurial. В связи с тем, что обеспечение поддержки сразу двух систем создаёт большую нагрузку на команды, отвечающие за сопровождение инфраструктуры, в будущем решено ограничиться применением для разработки только Git. При этом Mozilla продолжит использование сервисов Bugzilla, moz-phab, Phabricator и Lando.</description>
+    </item>
+    
+  </channel>
+</rss>

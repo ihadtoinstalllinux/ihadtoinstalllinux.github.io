@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eclipse on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/eclipse/</link>
+    <description>Recent content in Eclipse on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2024 11:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сообщество Eclipse представило интегрированную среду разработки Theia IDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/soobschestvo-eclipse-predstavilo-integrirovannuyu-sredu-razrabotki-theia-ide-20240630-113512/</link>
+      <pubDate>Sun, 30 Jun 2024 11:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/soobschestvo-eclipse-predstavilo-integrirovannuyu-sredu-razrabotki-theia-ide-20240630-113512/</guid>
+      <description>Состоялся первый официальный релиз новой интегрированной среды разработки Theia IDE, развиваемой организацией Eclipse Foundation на базе редактора кода Theia и разработанных для него плагинов. Код проекта написан на языке TypeScript и распространяется под лицензией EPLv2 (Eclipse Public License). Продукт Theia IDE поставляется как самодостаточное приложение для рабочего стола, рассчитанное на установку на локальных системах, а также в форме online-версии для работы из браузера (для развёртывания online-версии на своём сервере предоставляется готовый Docker-образ).</description>
+    </item>
+    
+    <item>
+      <title>Microsoft анонсировал открытие кода Azure RTOS и передачу проекта сообществу Eclipse</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</link>
+      <pubDate>Sun, 26 Nov 2023 21:36:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</guid>
+      <description>Компания Microsoft объявила об открытии под пермиссивной лицензией MIT исходных текстов операционной системы реального времени Azure RTOS, которая была получена после поглощения компании Express Logic в 2019 году и до этого более 20 лет поставлялась под именем ThreadX. Утверждается, что во всём мире рассматриваемая ОС была установлена на более чем 12 миллиардов устройств, среди которых потребительская электроника, промышленные системы, медицинские устройства, принтеры, WiFi чипы и даже бортовые системы космических аппаратов.</description>
+    </item>
+    
+    <item>
+      <title>General Motors присоединился к Eclipse Foundation и  предоставил протокол uProtocol</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/general-motors-prisoedinilsya-k-eclipse-foundation-i-predostavil-protokol-uprotocol-20230428-003508/</link>
+      <pubDate>Fri, 28 Apr 2023 00:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/general-motors-prisoedinilsya-k-eclipse-foundation-i-predostavil-protokol-uprotocol-20230428-003508/</guid>
+      <description>Компания General Motors объявила о присоединении к некоммерческой организации Eclipse Foundation, курирующей разработку более 400 открытых проектов и координирующей работу более 20 тематических рабочих групп. General Motors примет участие в рабочей группе Software Defined Vehicle (SDV), которая сосредоточена на развитии автомобильных программных стеков, создаваемых с использованием открытого исходного кода и открытых спецификаций. В группе участвуют разработчики программной платформы GM Ultifi, а также представители Microsoft, Red Hat и нескольких других автопроизводителей.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>POSIX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/posix/</link>
+    <description>Recent content in POSIX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/posix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Набор POSIX-утилит и декодировщик AV1, написанные на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nabor-posix-utilit-i-dekodirovschik-av1-napisannye-na-rust-20240922-113537/</link>
+      <pubDate>Sun, 22 Sep 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nabor-posix-utilit-i-dekodirovschik-av1-napisannye-na-rust-20240922-113537/</guid>
+      <description>Опубликован выпуск проекта posixutils-rs 0.2.1, нацеленного на разработку на языке Rust коллекции утилит командной строки, упоминаемых в стандарте POSIX и соответствующих его требованиям (cp, mv, awk, make, vi, find, sort, wc, xargs, sh, m4, sed и т.п.). При разработке по возможности используются уже существующие crate-пакеты. Код posixutils-rs распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61908</description>
+    </item>
+    
+    <item>
+      <title>Утверждён стандарт POSIX 1003.1-2024</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utverzhden-standart-posix-1003-1-2024-20240615-133510/</link>
+      <pubDate>Sat, 15 Jun 2024 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utverzhden-standart-posix-1003-1-2024-20240615-133510/</guid>
+      <description>После семи лет разработки профессиональное общество института инженеров электротехники и электроники (IEEE Computer Society) и консорциум Open Group утвердили новую версию стандарта POSIX 1003.1-2024, нацеленного на обеспечение переносимости программ между UNIX-подобными системами. Стандарт определяет программные интерфейсы между операционными системами и прикладными программами, и охватывает набор библиотечных функций, возможностей командного интерпретатора и утилит.
+https://www.opennet.ru/opennews/art.shtml?num=61372</description>
+    </item>
+    
+  </channel>
+</rss>

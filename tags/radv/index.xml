@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>radv on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/radv/</link>
+    <description>Recent content in radv on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 16:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/radv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Mesa-драйвере RADV сертифицирована поддержка Vulkan 1.3 для старых GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</link>
+      <pubDate>Fri, 08 Nov 2024 16:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость развиваемого проектом Mesa открытого драйвера RADV со спецификацией Vulkan 1.3. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.
+https://www.opennet.ru/opennews/art.shtml?num=62197</description>
+    </item>
+    
+    <item>
+      <title>В Mesa-драйвере radv реализована поддержка расширений Vulkan для кодирования видео h.265</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</link>
+      <pubDate>Tue, 19 Dec 2023 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, сообщил о реализации в radv, поставляемом в Mesa Vulkan-драйвере для GPU AMD, возможности использования Vulkan-расширений для аппаратного ускорения кодирования видео. Для формата видео h.265 реализация уже успешно проходит все тесты CTS (Compatibility Test Suite), а для формата h.264 остаётся один непройденный тест. Кроме того, сообщается о добавлении в FFmpeg начальной поддержки использования Vulkan для кодирования видео в форматах h.</description>
+    </item>
+    
+  </channel>
+</rss>

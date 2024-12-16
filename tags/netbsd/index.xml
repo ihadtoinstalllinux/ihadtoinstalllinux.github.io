@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NetBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/netbsd/</link>
+    <description>Recent content in NetBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 01:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenBSD охватил изменениями всю отделившуюся от NetBSD кодовую базу</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</link>
+      <pubDate>Tue, 27 Aug 2024 01:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</guid>
+      <description>Тэо де Раадт (Theo de Raadt) объявил о достижении проектом OpenBSD рубежа, при котором вся импортированная в 1995 году кодовая база охвачена изменениями - не осталось ни одного не изменённого или не удалённого оригинального файла оригинальной кодовой базы. Последним не изменённым компонентом оставалась игра quiz, в которой на днях проверка знаний, связанных с Грецией, заменена на проверку терминологии, связанной с кораблями. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS-репозиторию NetBSD.</description>
+    </item>
+    
+    <item>
+      <title>SmolBSD - инструментарий для создания микро-сборок NetBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/smolbsd-instrumentariy-dlya-sozdaniya-mikro-sborok-netbsd-20240522-123509/</link>
+      <pubDate>Wed, 22 May 2024 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/smolbsd-instrumentariy-dlya-sozdaniya-mikro-sborok-netbsd-20240522-123509/</guid>
+      <description>Проект SmolBSD развивает инструментарий для формирования микро-сборок NetBSD, которые включают только минимально необходимые для определённого приложения компоненты и могут загружаться менее чем за секунду. SmolBSD может применяться для создания урезанных виртуализированных окружений для изолированного запуска отдельных сервисов. Размер создаваемого базового окружения около 10 МБ. Код проекта распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61228</description>
+    </item>
+    
+    <item>
+      <title>В NetBSD введён запрет на использование кода, сгенерированного AI-системами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-netbsd-vveden-zapret-na-ispolzovanie-koda-sgenerirovannogo-ai-sistemami-20240516-023546/</link>
+      <pubDate>Thu, 16 May 2024 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-netbsd-vveden-zapret-na-ispolzovanie-koda-sgenerirovannogo-ai-sistemami-20240516-023546/</guid>
+      <description>Организация NetBSD Foundation представила обновлённые правила внесения изменений в дерево исходных текстов проекта. В новых правилах появился пункт, запрещающий включение в состав NetBSD кода, сгенерированного с использованием AI-инструментов на базе больших языковых моделей, таких как ChatGPT, GitHub Copilot и Code Llama, без предварительного письменного утверждения командой Core Team. В качестве причины упомянуты неопределённость в области авторских прав и несоответствия политике лицензирования NetBSD.
+https://www.opennet.ru/opennews/art.shtml?num=61183</description>
+    </item>
+    
+    <item>
+      <title>Выпуск NetBSD 8.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-netbsd-8-3-20240508-113523/</link>
+      <pubDate>Wed, 08 May 2024 11:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-netbsd-8-3-20240508-113523/</guid>
+      <description>Спустя четыре года с момента прошлого обновления ветки 8.x опубликован релиз операционной системы NetBSD 8.3, который завершил цикл сопровождения ветки netbsd-8. Таким оборазом, ветка NetBSD 8.x получала обновления на протяжении 6 лет. Выпуск отнесён к категории корректирующих обновлений и включает в исправления накопившихся проблем, связанных со стабильностью и безопасностью, выявленных с момента публикации NetBSD 8.2 в апреле 2020 года. Для тех, кому важна новая функциональность в марте был выпущен значительный релиз NetBSD 10.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск NetBSD 9.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-netbsd-9-4-20240423-133531/</link>
+      <pubDate>Tue, 23 Apr 2024 13:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-netbsd-9-4-20240423-133531/</guid>
+      <description>Опубликован релиз операционной системы NetBSD 9.4, который завершил цикл сопровождения прошлой значительной ветки 9.x. NetBSD 9.4 отнесён к категории корректирующих обновлений и включает в основном исправления проблем и уявзимостей, выявленных с момента публикации NetBSD 9.3 в августе 2022 года. Для тех, кому важна новая функциональность недавно был выпущен значительный релиз NetBSD 10.0. Для загрузки подготовлены установочные образы размером 507 МБ, доступные в сборках для 57 системных архитектур и 16 различных семейств CPU.</description>
+    </item>
+    
+    <item>
+      <title>Релиз операционной системы NetBSD 10.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-operacionnoy-sistemy-netbsd-10-0-20240331-153557/</link>
+      <pubDate>Sun, 31 Mar 2024 15:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-operacionnoy-sistemy-netbsd-10-0-20240331-153557/</guid>
+      <description>Спустя полтора года после формирования прошлого обновления опубликован релиз операционной системы NetBSD 10. Для загрузки подготовлены установочные образы размером 630 МБ, доступные в сборках для 57 системных архитектур и 16 различных семейств CPU. Новая ветка включает ряд существенных улучшений, таких как поддержка списков контроля доступа в файловой системе FFS, значительная оптимизация производительности, шифрование диска с использованием алгоритма Adiantum и реализация в ядре драйвера для VPN WireGuard.
+https://www.opennet.ru/opennews/art.shtml?num=60886</description>
+    </item>
+    
+  </channel>
+</rss>

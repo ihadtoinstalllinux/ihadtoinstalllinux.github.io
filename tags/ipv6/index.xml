@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPv6 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipv6/</link>
+    <description>Recent content in IPv6 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2024 19:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в IPv6-стеке ядра Linux, допускающая удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ipv6-steke-yadra-linux-dopuskayuschaya-udalennoe-vypolnenie-koda-20240129-193535/</link>
+      <pubDate>Mon, 29 Jan 2024 19:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ipv6-steke-yadra-linux-dopuskayuschaya-udalennoe-vypolnenie-koda-20240129-193535/</guid>
+      <description>Раскрыта информация об уязвимости CVE-2023-6200) в сетевом стеке ядра Linux, которая при определённых обстоятельствах позволяет злоумышленнику из локальной сети добиться выполнения своего кода через отправку специально оформленного пакета ICMPv6 с сообщением RA (Router Advertisement), предназначенным для анонсирования информации о маршрутизаторе.
+https://www.opennet.ru/opennews/art.shtml?num=60516</description>
+    </item>
+    
+    <item>
+      <title>Оценка популярности IPv6 в трафике Cloudflare</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ocenka-populyarnosti-ipv6-v-trafike-cloudflare-20231215-193553/</link>
+      <pubDate>Fri, 15 Dec 2023 19:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ocenka-populyarnosti-ipv6-v-trafike-cloudflare-20231215-193553/</guid>
+      <description>Компания Cloudflare проанализировала степень внедрения протокола IPv6 в глобальной сети, используя в качестве источника данных сведения о трафике в своих сервисах. В трафике сети доставки контента число пользователей, поддерживающих IPv6, оценено в 35.9% (доля поддержки IPv6 среди ботов составляет 24%, а среди людей - 46%). Для сравнения по данным интернет-регистратора APNIC общемировая степень внедрения IPv6 оценена в 36.64%. Лидеры по внедрению IPv6: Индия (81.53%), Малазия (69.48%), Франция (66.67%), Бельгия (66.02%) и Германия (64.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в маршрутизаторах MikroTik, приводящая к выполнению кода при обработке IPv6 RA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-marshrutizatorah-mikrotik-privodyaschaya-k-vypolneniyu-koda-pri-obrabotke-ipv-20230524-123508/</link>
+      <pubDate>Wed, 24 May 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-marshrutizatorah-mikrotik-privodyaschaya-k-vypolneniyu-koda-pri-obrabotke-ipv-20230524-123508/</guid>
+      <description>В операционной системе RouterOS, применяемой в маршрутизаторах MikroTik, выявлена критическая уязвимость (CVE-2023-32154), позволяющая неаутентифицированному пользователю удалённо выполнить код на устройстве через отправку специально оформленного анонса маршрутизатора IPv6 (RA, Router Advertisement).
+https://www.opennet.ru/opennews/art.shtml?num=59188</description>
+    </item>
+    
+    <item>
+      <title>0-day уязвимость IPv6-стеке Linux, позволяющая удалённо вызвать крах ядра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-ipv6-steke-linux-pozvolyayuschaya-udalenno-vyzvat-krah-yadra-20230517-123504/</link>
+      <pubDate>Wed, 17 May 2023 12:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/0-day-uyazvimost-ipv6-steke-linux-pozvolyayuschaya-udalenno-vyzvat-krah-yadra-20230517-123504/</guid>
+      <description>Раскрыты сведения о неисправленной (0-day) уязвимости (CVE-2023-2156) в ядре Linux, позволяющей остановить работу системы через отправку специально оформленных пакетов IPv6 (packet-of-death). Проблема проявляется только при включении поддержки протокола RPL (Routing Protocol for Low-Power and Lossy Networks), который в дистрибутивах по умолчанию отключён и применяется, главным образом, на встраиваемых устройствах, работающих в беспроводных сетях с большой потерей пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59146</description>
+    </item>
+    
+  </channel>
+</rss>

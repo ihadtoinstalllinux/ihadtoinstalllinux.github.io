@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Widelands on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/widelands/</link>
+    <description>Recent content in Widelands on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 11:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/widelands/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск стратегической игры Widelands 1.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-strategicheskoy-igry-widelands-1-2-20240401-113540/</link>
+      <pubDate>Mon, 01 Apr 2024 11:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-strategicheskoy-igry-widelands-1-2-20240401-113540/</guid>
+      <description>После полутора лет разработки опубликован выпуск свободной игры Widelands 1.2, включающей элементы стратегии в реальном времени (RTS) и градостроительного симулятора. Игра развивается под впечатлением от игры Settlers II и имеет сходный игровой процесс. Поддерживается как многопользовательский режим, так и однопользовательские кампании c компьютерными-игроками. Код проекта написан на языках С++ и Lua с использованием библиотеки SDL и распространяется под лицензией GPLv2. Сборки формируются для Linux (AppImage, Flatpak, PPA), Windows и macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

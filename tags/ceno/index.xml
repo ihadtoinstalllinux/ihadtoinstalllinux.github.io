@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CENO on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ceno/</link>
+    <description>Recent content in CENO on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 02:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ceno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск web-браузера CENO 2.1, использующего P2P-сеть для доступа к сайтам</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</link>
+      <pubDate>Thu, 04 Apr 2024 02:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-web-brauzera-ceno-2-1-ispolzuyuschego-p2p-set-dlya-dostupa-k-saytam-20240404-023515/</guid>
+      <description>После года разработки опубликован выпуск мобильного web-браузера CENO 2.1.0, предназначенного для организации доступа к информации в условиях невозможности прямого доступа к информации, например, при отключения сегментов интернета от глобальной сети в результате сбоев или действий злоумышленников. Браузер построен на основе движка GeckoView (применяется в Firefox для Android), расширенного возможностью обмена данными через децентрализованную P2P-сеть, в которой пользователи участвуют в перенаправлении трафика к внешним шлюзам, обеспечивающим доступ к информации. Наработки проекта распространяются под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

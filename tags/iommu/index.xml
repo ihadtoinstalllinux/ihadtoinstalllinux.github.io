@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IOMMU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/iommu/</link>
+    <description>Recent content in IOMMU on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 16:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/iommu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для Xen развивается механизм паравиртуализации IOMMU</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-xen-razvivaetsya-mehanizm-paravirtualizacii-iommu-20240419-163541/</link>
+      <pubDate>Fri, 19 Apr 2024 16:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-xen-razvivaetsya-mehanizm-paravirtualizacii-iommu-20240419-163541/</guid>
+      <description>Разработчики проекта XCP-NG, развивающего свободную платформу для развертывания и управления работой облачной инфраструктурой, представили проект PV-IOMMU, позволяющий гостевым системам получить доступ к ограниченной функциональности IOMMU, реализованной с использованием инфраструктуры паравиртуализации Xen. На практике PV-IOMMU может применяться для реализации защиты DMA в Dom0 или обеспечения поддержки подсистемы ядра Linux VFIO. Ранее гипервизор Xen использовал IOMMU для проброса доступа к PCI-устройствам и ограничения доступа устройств к памяти, но из соображений стабильности и безопасности гостевые системы не могли напрямую обращаться к предоставляемому оборудованием блоку IOMMU.</description>
+    </item>
+    
+  </channel>
+</rss>

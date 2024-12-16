@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MaginotDNS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/maginotdns/</link>
+    <description>Recent content in MaginotDNS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2023 01:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/maginotdns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака MaginotDNS, позволяющая подменить данные в кэше DNS </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-maginotdns-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20230815-013505/</link>
+      <pubDate>Tue, 15 Aug 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-maginotdns-pozvolyayuschaya-podmenit-dannye-v-keshe-dns-20230815-013505/</guid>
+      <description>Группа китайских исследователей раскрыла детали атаки MaginotDNS, позволяющей осуществить подстановку некорректных NS-записей в кэш DNS-серверов (отравление кэша), используемых одновременно для перенаправления запросов (forwarder) и рекурсивного определения имён (resolver). Успешное проведение атаки может привести к обращению к неверным DNS-серверам, отдающим ложные сведения о целевом домене, и подмене атакующим целиком DNS-зон, в том числе для доменов верхнего уровня ( .com, .net, .ru и т.п.).
+https://www.opennet.ru/opennews/art.shtml?num=59598</description>
+    </item>
+    
+  </channel>
+</rss>

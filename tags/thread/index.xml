@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thread on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/thread/</link>
+    <description>Recent content in Thread on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 02:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ядро Linux принят 21-строчный патч, ускоряющий прохождение теста per_thread_ops на 2.6%</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-prinyat-21-strochnyy-patch-uskoryayuschiy-prohozhdenie-testa-per-thread-ops-20241101-023540/</link>
+      <pubDate>Fri, 01 Nov 2024 02:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-prinyat-21-strochnyy-patch-uskoryayuschiy-prohozhdenie-testa-per-thread-ops-20241101-023540/</guid>
+      <description>Джош Пуамбеф (Josh Poimboeuf) из компании Red Hat опубликовал патч для ядра Linux, ускоряющий на 2.6% прохождение теста &amp;ldquo;per_thread_ops&amp;rdquo;, оценивающего число операций, которые могут быть выполнены в одном потоке. Патч содержит всего несколько строк кода, заменяющих медленный вызов barrier_nospec() на более быстрое маскирование указателя в 64-битной функции copy_from_user(), используемой для копирования данных в пространство ядра из пространства пользователя. Линус Торвальдс уже перенёс данную оптимизацию в состав ветки ядра 6.12.
+https://www.opennet.ru/opennews/art.shtml?num=62153</description>
+    </item>
+    
+    <item>
+      <title>Опубликована операционная система реального времени RT-Thread 5.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-operacionnaya-sistema-realnogo-vremeni-rt-thread-5-1-20240424-163517/</link>
+      <pubDate>Wed, 24 Apr 2024 16:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-operacionnaya-sistema-realnogo-vremeni-rt-thread-5-1-20240424-163517/</guid>
+      <description>После года разработки доступен выпуск RT-Thread 5.1, операционной системы реального времени (RTOS) для устройств интернета-вещей. Система развивается с 2006 года сообществом китайских разработчиков и в настоящее время портирована для 154 плат, чипов и микроконтроллеров на базе архитектур x86, ARM, MIPS, С-SKY, Xtensa, ARC и RISC-V. Минималистичная сборка RT-Thread (Nano) требует для работы всего 3 КБ Flash и 1.2 КБ ОЗУ. Для IoT-устройств, сильно не ограниченных в ресурсах, предлагается полнофункциональная версия, поддерживающая управление пакетами, конфигураторы, сетевой стек, пакеты с реализацией графического интерфейса, системы голосового управления, СУБД, сетевых сервисов и движков для выполнения скриптов.</description>
+    </item>
+    
+    <item>
+      <title>Доступна операционная система реального времени RT-Thread 5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-realnogo-vremeni-rt-thread-5-0-20230403-123506/</link>
+      <pubDate>Mon, 03 Apr 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-operacionnaya-sistema-realnogo-vremeni-rt-thread-5-0-20230403-123506/</guid>
+      <description>Опубликован выпуск RT-Thread 5.0, операционной системы реального времени (RTOS) для устройств интернета-вещей. Система развивается с 2006 года сообществом китайских разработчиков и в настоящее время портирована для почти 200 плат, чипов и микроконтроллеров на базе архитектур x86, ARM, MIPS, С-SKY, Xtensa, ARC и RISC-V. Минималистичная сборка RT-Thread (Nano) требует для работы всего 3 КБ Flash и 1.2 КБ ОЗУ. Для IoT-устройств, сильно не ограниченных в ресурсах, предлагается полнофункциональная версия, поддерживающая управление пакетами, конфигураторы, сетевой стек, пакеты с реализацией графического интерфейса, системы голосового управления, СУБД, сетевых сервисов и движков для выполнения скриптов.</description>
+    </item>
+    
+  </channel>
+</rss>

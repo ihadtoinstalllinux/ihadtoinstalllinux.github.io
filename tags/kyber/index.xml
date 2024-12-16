@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kyber on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kyber/</link>
+    <description>Recent content in Kyber on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 23:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kyber/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в реализациях постквантового алгоритма шифрования Kyber</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizaciyah-postkvantovogo-algoritma-shifrovaniya-kyber-20240109-233605/</link>
+      <pubDate>Tue, 09 Jan 2024 23:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-realizaciyah-postkvantovogo-algoritma-shifrovaniya-kyber-20240109-233605/</guid>
+      <description>В реализации алгоритма шифрования Kyber, победившего на конкурсе криптоалгоритмов, стойких к подбору на квантовом компьютере, выявлена уязвимость, допускающая проведение атак по сторонним каналам для воссоздания секретных ключей на основе измерения времени операций во время расшифровки предоставленного атакующим шифротекста. Проблема затрагивает как эталонную реализацию механизма инкапсуляции ключей CRYSTALS-Kyber KEM, так и многие сторонние библиотеки шифрования с поддержкой Kyber, в том числе библиотеку pqcrypto применяемую в мессенджере Signal.
+https://www.opennet.ru/opennews/art.shtml?num=60405</description>
+    </item>
+    
+  </channel>
+</rss>

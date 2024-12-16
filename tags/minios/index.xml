@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MiniOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minios/</link>
+    <description>Recent content in MiniOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 10:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз MiniOS 4, дистрибутива для съёмных носителей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minios-4-distributiva-dlya-semnyh-nositeley-20241210-103548/</link>
+      <pubDate>Tue, 10 Dec 2024 10:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minios-4-distributiva-dlya-semnyh-nositeley-20241210-103548/</guid>
+      <description>Доступен выпуск MiniOS 4.0.0, лёгкого модульного live-дистрибутива Linux, предназначенного для использования на съёмных USB-накопителях. Ключевой особенностью MiniOS является модульная архитектура, позволяющая создавать специализированные конфигурации, исключая ненужные компоненты и добавляя необходимые, для адаптации системы под конкретные задачи. В качестве основы используется пакетная база Debian 12. Предлагаемое по умолчанию графическое окружение основано на Xfce.
+https://www.opennet.ru/opennews/art.shtml?num=62377</description>
+    </item>
+    
+    <item>
+      <title>Релиз MiniOS 3.3.4, российского дистрибутива для съемных носителей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minios-3-3-4-rossiyskogo-distributiva-dlya-semnyh-nositeley-20240817-223552/</link>
+      <pubDate>Sat, 17 Aug 2024 22:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minios-3-3-4-rossiyskogo-distributiva-dlya-semnyh-nositeley-20240817-223552/</guid>
+      <description>Доступен выпуск MiniOS 3.3.4, лёгкого модульного live-дистрибутива Linux, предназначенного для использования на съёмных USB-накопителях. Проект был основан в 2009 году и изначально базировался на Mandriva Linux, но после ликвидации Mandriva перешёл на использование пакетной базы Debian. Особенностью дистрибутива является возможность добавлять или удалять модули для формирования live-окружения, удовлетворяющего собственным потребностям. В качестве пользовательских оболочек поддерживаются Fluxbox, LXQt и Xfce. Для загрузки доступны различные варианты ISO-образов. В зависимости от варианта сборки дистрибутив занимает 350-1660 МБ дискового пространства.</description>
+    </item>
+    
+  </channel>
+</rss>

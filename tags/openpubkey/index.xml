@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenPubKey on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openpubkey/</link>
+    <description>Recent content in OpenPubKey on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Oct 2023 16:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openpubkey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен OpenPubKey, протокол криптографической верификации объектов </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-openpubkey-protokol-kriptograficheskoy-verifikacii-obektov-20231008-163507/</link>
+      <pubDate>Sun, 08 Oct 2023 16:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-openpubkey-protokol-kriptograficheskoy-verifikacii-obektov-20231008-163507/</guid>
+      <description>Linux Foundation, BastionZero и Docker представили новый открытый проект OpenPubKey, развивающий одноимённый криптографический протокол для заверения цифровой подписью произвольных объектов. Технология разработана как совместный проект компаний BastionZero и Docker с целью упрощения заверения цифровыми подписями образов контейнеров Docker для исключения их подмены и подтверждения сборки заявленным создателем. Проект будет развиваться на нейтральной площадке под покровительством организации Linux Foundation, что исключит зависимость от отдельных коммерческих компаний и упростит совместную работу с привлечением сторонних участников.</description>
+    </item>
+    
+  </channel>
+</rss>

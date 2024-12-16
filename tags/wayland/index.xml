@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wayland on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wayland/</link>
+    <description>Recent content in Wayland on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 21:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз среды рабочего стола Xfce 4.20 c частичной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</link>
+      <pubDate>Sun, 15 Dec 2024 21:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</guid>
+      <description>После двух лет разработки представлен релиз среды рабочего стола Xfce 4.20, предлагающей классический рабочий стол, потребляющий по возможности минимальные системные ресурсы. Xfce состоит из нескольких взаимосвязанных компонентов, которые при желании можно использовать в других проектах. Среди таких компонентов: оконный менеджер xfwm4, панель для запуска приложений, менеджер управления пользовательскими сеансами, система управления энергопотреблением, графический конфигуратор, файловый менеджер Thunar, календарь-палнировщик Orage, медиапроигрыватель Parole, текстовый редактор Mousepad, эмулятор терминала xfce4-terminal.
+https://www.opennet.ru/opennews/art.shtml?num=62406</description>
+    </item>
+    
+    <item>
+      <title>Выпуск miracle-wm 0.4, композитного менеджера на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-miracle-wm-0-4-kompozitnogo-menedzhera-na-baze-wayland-i-mir-20241215-133543/</link>
+      <pubDate>Sun, 15 Dec 2024 13:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-miracle-wm-0-4-kompozitnogo-menedzhera-na-baze-wayland-i-mir-20241215-133543/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical опубликовал выпуск композитного менеджера miracle-wm 0.4, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле проектов i3 и Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap, а также в пакетах rpm и deb для Fedora и Ubuntu.
+https://www.opennet.ru/opennews/art.shtml?num=62405</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 9.22 с включением по умолчанию драйвера Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-9-22-s-vklyucheniem-po-umolchaniyu-drayvera-wayland-20241123-103600/</link>
+      <pubDate>Sat, 23 Nov 2024 10:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-9-22-s-vklyucheniem-po-umolchaniyu-drayvera-wayland-20241123-103600/</guid>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 9.22. С момента выпуска 9.21 было закрыто 19 отчётов об ошибках и внесено 313 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=62282</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графического тулкита  FLTK 1.4.0  с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-tulkita-fltk-1-4-0-s-podderzhkoy-wayland-20241118-203524/</link>
+      <pubDate>Mon, 18 Nov 2024 20:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskogo-tulkita-fltk-1-4-0-s-podderzhkoy-wayland-20241118-203524/</guid>
+      <description>Спустя 13 лет с момента публикации ветки 1.3 увидел свет релиз легковесного кроссплатформенного графического тулкита FLTK 1.4.0 (Fast Light Toolkit). FLTK написан на языке C++ и распространяется под лицензией лицензии LGPLv2. Ветка FLTK 1.4 отмечена как обратно совместимая с выпусками 1.3.x, т.е. при переходе на FLTK 1.4 не требуется внесение изменений в код, но необходима пересборка из-за изменения ABI. Для визуального построения GUI-интерфейса в рамках проекта развивается оболочка FLUID. Поддерживается работа в Linux (X11 и Wayland), BSD-системах, Windows, macOS и различных UNIX-подобных ОС.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск композитного сервера Niri 0.1.10, использующего Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kompozitnogo-servera-niri-0-1-10-ispolzuyuschego-wayland-20241111-113519/</link>
+      <pubDate>Mon, 11 Nov 2024 11:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kompozitnogo-servera-niri-0-1-10-ispolzuyuschego-wayland-20241111-113519/</guid>
+      <description>Опубликован выпуск композитного сервера Niri 0.1.10, реализующего метод мозаичной (tiling) компоновки в стиле GNOME-расширения PaperWM, в котором окна группируются в бесконечно прокручиваемую на экране ленту. Открытие нового окна приводит к расширению ленты, а ранее добавленные окна не меняют свой размер. Проект базируется на использовании протокола Wayland, но позволяет запускать приложения X11 при помощи DDX-сервера Xwayland. Код проекта распространяется под лицензией GPLv3. Пакеты формируются для Fedora, NixOS , Arch Linux и FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>Состояние поддержи Wayland в проприетарных драйверах NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sostoyanie-podderzhi-wayland-v-proprietarnyh-drayverah-nvidia-20241110-163542/</link>
+      <pubDate>Sun, 10 Nov 2024 16:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sostoyanie-podderzhi-wayland-v-proprietarnyh-drayverah-nvidia-20241110-163542/</guid>
+      <description>Аарон Плaттнер (Aaron Plattner), один из ведущих разработчиков проприетарных драйверов NVIDIA, оценил состояние поддержки Wayland в проприетарных драйверах NVIDIA, и перечислил области в которых связанные с Wayland возможности пока отстают от X11. Информация соответствует ветке драйверов NVIDIA 565, находящейся на стадии бета-тестирования. Отставание связано как с проблемами в самом драйвере NVIDIA, так и с общими ограничениями протокола Wayland и композитных серверов на его основе.
+https://www.opennet.ru/opennews/art.shtml?num=62214</description>
+    </item>
+    
+    <item>
+      <title>Доступен для тестирования предварительный выпуск Xfce 4.20 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-predvaritelnyy-vypusk-xfce-4-20-s-podderzhkoy-wayland-20241102-103555/</link>
+      <pubDate>Sat, 02 Nov 2024 10:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-predvaritelnyy-vypusk-xfce-4-20-s-podderzhkoy-wayland-20241102-103555/</guid>
+      <description>Опубликован тестовый выпуск десктоп-окружения Xfce 4.20 Pre1, нацеленного на предоставление классической среды рабочего стола, требующей для своей работы минимальных системных ресурсов. Ветка Xfce 4.20 переведена на стадию заморозки, запрещающую добавление новых возможностей в базовые компоненты и смещающую внимание разработчиков на стабилизацию имеющейся кодовой базы. До релиза, который запланирован на 15 декабря, будет сформировано ещё один или два тестовых выпуска.
+https://www.opennet.ru/opennews/art.shtml?num=62160</description>
+    </item>
+    
+    <item>
+      <title>Новая версия дистрибутива Raspberry Pi OS, перешедшего на Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-distributiva-raspberry-pi-os-pereshedshego-na-wayland-20241029-123511/</link>
+      <pubDate>Tue, 29 Oct 2024 12:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-distributiva-raspberry-pi-os-pereshedshego-na-wayland-20241029-123511/</guid>
+      <description>Разработчики проекта Raspberry Pi представили новую версию дистрибутива Raspberry Pi OS 2024-10-22 (Raspbian), основанного на пакетной базе Debian 12 и ядре Linux 6.6. В репозитории доступно около 35 тысяч пакетов. Для загрузки подготовлены три сборки - сокращённая (438 МБ) для серверных систем, с базовым рабочим столом (1.1 ГБ) и полная с дополнительным набором приложений (2.9 ГБ), доступные для 32- и 64-разрядных архитектур. Дополнительно сформировано обновление для старой редакции Raspberry Pi OS (Legacy), основанной на ядре Linux 6.</description>
+    </item>
+    
+    <item>
+      <title>Опубликовано пользовательское окружение Sway 1.10, использующее Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-sway-1-10-ispolzuyuschee-wayland-20241028-193548/</link>
+      <pubDate>Mon, 28 Oct 2024 19:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovano-polzovatelskoe-okruzhenie-sway-1-10-ispolzuyuschee-wayland-20241028-193548/</guid>
+      <description>После 8 месяцев разработки опубликован релиз композитного менеджера Sway 1.10, построенного с использованием протокола Wayland и совместимого с мозаичным оконным менеджером i3 и панелью i3bar. Код проекта написан на языке Си и распространяется под лицензией MIT. Проект нацелен на использование в Linux и FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=62124</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.38</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-38-20241012-223509/</link>
+      <pubDate>Sat, 12 Oct 2024 22:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-38-20241012-223509/</guid>
+      <description>Опубликован выпуск пакета wayland-protocols 1.38, содержащего набор протоколов и расширений, дополняющих базовый протокол Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=62038</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Hyprland 0.44, композитного сервера на базе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-44-kompozitnogo-servera-na-baze-wayland-20241007-023538/</link>
+      <pubDate>Mon, 07 Oct 2024 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-44-kompozitnogo-servera-na-baze-wayland-20241007-023538/</guid>
+      <description>Опубликован выпуск композитного сервера Hyprland 0.44, использующего протокол Wayland. Композитный сервер ориентирован на мозаичную (tiling) компоновку окон, но также поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Поддерживаются элементы для создания визуально привлекательных интерфейсов, такие как градиенты в обрамлении окон, размытие, анимационные эффекты и тени. Для расширения функциональности могут подключаться плагины, а для внешнего управления работой предоставляется IPC на базе сокетов. Код написан на языке С++ и распространяется под лицензией BSD.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cage 0.2, композитного сервера на базе Wayland для создания киосков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cage-0-2-kompozitnogo-servera-na-baze-wayland-dlya-sozdaniya-kioskov-20241006-223549/</link>
+      <pubDate>Sun, 06 Oct 2024 22:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cage-0-2-kompozitnogo-servera-na-baze-wayland-dlya-sozdaniya-kioskov-20241006-223549/</guid>
+      <description>Доступен выпуск композитного сервера Cage 0.2, использующего Wayland и ориентированного на обособленный запуск отдельных приложений в режиме киоска. Из областей применения Cage отмечается создание систем домашней автоматизации, демонстрационных стендов, электронных вывесок и терминалов самообслуживания. Код проекта написан на языке Си и поставляется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62002</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve запустила проект Frog для ускорения продвижения новых протоколов Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</link>
+      <pubDate>Wed, 25 Sep 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</guid>
+      <description>Разработчики из компании Valve представили проект frog-protocols, в рамах которого планируется развивать дополнительный набор протоколов для Wayland, дополняющих протоколы из набора wayland-protocols, поставляющего Wayland-расширения для построения композитных серверов и пользовательских окружений. Создание отдельного набора протоколов к Wayland объясняется слишком медленным и буксующим в бесконечных обсуждениях процессом принятия новых протоколов в wayland-protocols, который может затягиваться на месяцы и годы.
+https://www.opennet.ru/opennews/art.shtml?num=61925</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.36</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-36-20240902-033524/</link>
+      <pubDate>Mon, 02 Sep 2024 03:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-36-20240902-033524/</guid>
+      <description>Опубликован выпуск пакета wayland-protocols 1.36, содержащего набор протоколов и расширений, которые дополняют возможности базового протокола Wayland и предоставляют возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=61800</description>
+    </item>
+    
+    <item>
+      <title>Опубликован композитный сервер Wayfire 0.9, использующий Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-kompozitnyy-server-wayfire-0-9-ispolzuyuschiy-wayland-20240826-013558/</link>
+      <pubDate>Mon, 26 Aug 2024 01:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-kompozitnyy-server-wayfire-0-9-ispolzuyuschiy-wayland-20240826-013558/</guid>
+      <description>После десяти месяцев разработки представлен релиз композитного сервера Wayfire 0.9, использующего Wayland и позволяющего формировать нетребовательные к ресурсам интерфейсы пользователя c 3D-эффектами в стиле 3D-плагинов к Compiz (переключение экранов через 3D-куб, пространственная раскладка окон, морфинг при работе с окнами и т.п.). Wayfire поддерживает расширение через плагины и предоставляет гибкую систему настройки. Код проекта написан на языке C++ и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61763</description>
+    </item>
+    
+    <item>
+      <title>Выпуск labwc 0.8.0, композитного сервера для Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-8-0-kompozitnogo-servera-dlya-wayland-20240817-123515/</link>
+      <pubDate>Sat, 17 Aug 2024 12:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-8-0-kompozitnogo-servera-dlya-wayland-20240817-123515/</guid>
+      <description>Опубликован выпуск проекта labwc 0.8.0 (Lab Wayland Compositor), развивающего композитный сервер для Wayland с возможностями, напоминающими оконный менеджер Openbox (проект преподносится как попытка создания альтернативы Openbox для Wayland). Из особенностей labwc упоминается минимализм, компактная реализация, широкие возможности настройки и высокая производительность. Анимированные эффекты, градиенты и пиктограммы, за исключением кнопок для окон, не поддерживаются принципиально. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=61722</description>
+    </item>
+    
+    <item>
+      <title>В KDE модернизирован конфигуратор и улучшено управление цветом при использовании Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-modernizirovan-konfigurator-i-uluchsheno-upravlenie-cvetom-pri-ispolzovanii-wayland-20240817-113554/</link>
+      <pubDate>Sat, 17 Aug 2024 11:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-modernizirovan-konfigurator-i-uluchsheno-upravlenie-cvetom-pri-ispolzovanii-wayland-20240817-113554/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметные изменения, который войдут в состав KDE Plasma 6.2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61721</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив RebeccaBlackOS 2024-08-12 с подборкой окружений на основе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-rebeccablackos-2024-08-12-s-podborkoy-okruzheniy-na-osnove-wayland-20240813-133541/</link>
+      <pubDate>Tue, 13 Aug 2024 13:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-rebeccablackos-2024-08-12-s-podborkoy-okruzheniy-na-osnove-wayland-20240813-133541/</guid>
+      <description>Сформирован выпуск дистрибутива RebeccaBlackOS 2024-08-12, нацеленного на ознакомление с последними наработками, связанными с поддержкой Wayland в различных десктоп-окружениях и приложениях. Дистрибутив построен на пакетной базе Debian и включает свежие сборки библиотек Wayland (срез из master-ветки), композитный сервер Weston и преднастроенные для работы поверх Wayland окружения KDE, GNOME, Wayfire (с компонентами MATE), Sway, LXQt и Xfce. Выбор окружения производится через меню менеджера входа, при этом возможен запуск оболочки из уже запущенного окружения в форме вложенного сеанса.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Hyprland 0.42, композитного сервера на базе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-42-kompozitnogo-servera-na-baze-wayland-20240813-013510/</link>
+      <pubDate>Tue, 13 Aug 2024 01:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-hyprland-0-42-kompozitnogo-servera-na-baze-wayland-20240813-013510/</guid>
+      <description>Опубликован выпуск композитного сервера Hyprland 0.42, использующего протокол Wayland. Композитный сервер ориентирован на мозаичную (tiling) компоновку окон, но также поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Поддерживаются элементы для создания визуально привлекательных интерфейсов, такие как градиенты в обрамлении окон, размытие, анимационные эффекты и тени. Для расширения функциональности могут подключаться плагины, а для внешнего управления работой предоставляется IPC на базе сокетов. Код написан на языке С++ и распространяется под лицензией BSD.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск labwc 0.7.4, композитного сервера для Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-4-kompozitnogo-servera-dlya-wayland-20240720-174028/</link>
+      <pubDate>Sat, 20 Jul 2024 17:40:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-4-kompozitnogo-servera-dlya-wayland-20240720-174028/</guid>
+      <description>Опубликован выпуск проекта labwc 0.7.3 (Lab Wayland Compositor), развивающего композитный сервер для Wayland с возможностями, напоминающими оконный менеджер Openbox (проект преподносится как попытка создания альтернативы Openbox для Wayland). Следом опубликовано корректирующее обновление 0.7.4 c внесёнными по горячим следам исправлениями. Из особенностей labwc называется минимализм, компактная реализация, широкие возможности настройки и высокая производительность. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=61586</description>
+    </item>
+    
+    <item>
+      <title>В KDE устранены крахи и улучшена поддержка Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-ustraneny-krahi-i-uluchshena-podderzhka-wayland-20240720-134228/</link>
+      <pubDate>Sat, 20 Jul 2024 13:42:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-ustraneny-krahi-i-uluchshena-podderzhka-wayland-20240720-134228/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Из наиболее важных изменений за последние две недели отмечается устранение пяти наиболее распространённых причин аварийного завершения KDE Plasma, которые были вызваны как ошибками в коде KDE, так и регрессивными изменениями в Qt. Для определения проблем, требующих исправления в первую очередь, была задействована новая автоматическая система отправки уведомлений о проблемах, которая позволила понять какими сбоями пользователи сталкиваются наиболее часто.</description>
+    </item>
+    
+    <item>
+      <title>Доступен miracle-wm 0.3, композитный менеджер на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-miracle-wm-0-3-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240703-153604/</link>
+      <pubDate>Wed, 03 Jul 2024 15:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-miracle-wm-0-3-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240703-153604/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical опубликовал выпуск композитного менеджера miracle-wm 0.3, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3 и Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=61480</description>
+    </item>
+    
+    <item>
+      <title>В GNOME реализована возможность сборки только с Wayland и улучшена поддержка планшетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gnome-realizovana-vozmozhnost-sborki-tolko-s-wayland-i-uluchshena-podderzhka-planshetov-20240629-183524/</link>
+      <pubDate>Sat, 29 Jun 2024 18:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gnome-realizovana-vozmozhnost-sborki-tolko-s-wayland-i-uluchshena-podderzhka-planshetov-20240629-183524/</guid>
+      <description>В кодовую базу GNOME Shell и композитного менеджера Mutter приняты изменения, позволяющие осуществить сборку без поддержки X11, оставив только компоненты для Wayland. Изменение выполнено в рамках развиваемой последние два года инициативы по переводу X11 в разряд необязательных зависимостей (до сих пор Mutter не мог быть собран только как композитный сервер Wayland, без привязок к X11).
+https://www.opennet.ru/opennews/art.shtml?num=61462</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 41 предложено перевести инсталлятор на Wayland и удалить X11-пакеты из сборок с GNOME </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</link>
+      <pubDate>Sat, 08 Jun 2024 13:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-41-predlozheno-perevesti-installyator-na-wayland-i-udalit-x11-pakety-iz-sborok-s-20240608-133512/</guid>
+      <description>В выпуске Fedora 41 предложено перевести инсталлятор Anaconda на использование протокола Wayland. В настоящее время Anaconda использует протокол X11, что не позволяет избавиться в установочных носителях от зависимостей, обеспечивающих поддержку X11.
+https://www.opennet.ru/opennews/art.shtml?num=61336</description>
+    </item>
+    
+    <item>
+      <title>Релиз среды рабочего стола MATE 1.28 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-mate-1-28-s-podderzhkoy-wayland-20240603-113557/</link>
+      <pubDate>Mon, 03 Jun 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-mate-1-28-s-podderzhkoy-wayland-20240603-113557/</guid>
+      <description>После почти трёх лет разработки официально объявлен релиз среды рабочего стола MATE 1.28, продолжающей развитие кодовой базы GNOME 2.32 с сохранением классической концепции формирования рабочего стола. Анонс релиза датирован февралём, но объявление на сайте проекта появилось всего несколько часов назад, а до этого новая ветка упоминалась только в виде тегов в Git-репозитории проекта, без явного объявления о релизе и без публикации общего перечня изменений. Пакеты с MATE 1.28 уже доступны в репозиториях таких дистрибутивов, как Fedora 40, Gentoo, Mageia, Manjaro, openSUSE Tumbleweed, Arch Linux, ALT Linux, Artix, OpenIndiana, GhostBSD, Parabola, Solus и Void Linux.</description>
+    </item>
+    
+    <item>
+      <title>Доступен Wayland 1.23</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-23-20240531-143513/</link>
+      <pubDate>Fri, 31 May 2024 14:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-23-20240531-143513/</guid>
+      <description>После более года разработки представлен стабильный релиз протокола, механизма межпроцессного взаимодействия и библиотек Wayland 1.23. Ветка 1.23 обратно совместима на уровне API и ABI с выпусками 1.x и содержит в основном исправления ошибок и незначительные обновления протокола. Наработки проекта распространяются под лицензией MIT. Эталонный композитный сервер Weston, предоставляющий код и рабочие примеры для использования Wayland в десктоп-окружениях и встраиваемых решениях, развивается в рамках отдельного цикла разработки.
+https://www.opennet.ru/opennews/art.shtml?num=61281</description>
+    </item>
+    
+    <item>
+      <title>Выпуск XWayland 24.1.0, компонента для запуска X11-приложений в Wayland-окружениях </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-24-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20240517-003552/</link>
+      <pubDate>Fri, 17 May 2024 00:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-24-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20240517-003552/</guid>
+      <description>Доступен выпуск XWayland 24.1.0, DDX-компонента (Device-Dependent X), обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=61187</description>
+    </item>
+    
+    <item>
+      <title>Выпуск labwc 0.7.2, композитного сервера для Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-2-kompozitnogo-servera-dlya-wayland-20240514-153557/</link>
+      <pubDate>Tue, 14 May 2024 15:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-2-kompozitnogo-servera-dlya-wayland-20240514-153557/</guid>
+      <description>Доступен выпуск проекта labwc 0.7.2 (Lab Wayland Compositor), развивающего композитный сервер для Wayland с возможностями, напоминающими оконный менеджер Openbox (проект преподносится как попытка создания альтернативы Openbox для Wayland). Из особенностей labwc называется минимализм, компактная реализация, широкие возможности настройки и высокая производительность. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=61165</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Xpra 6.0, аналога утилиты screen для GUI. Развитие Wprs, реализации Xpra для Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xpra-6-0-analoga-utility-screen-dlya-gui-razvitie-wprs-realizacii-xpra-dlya-wayland-20240510-133533/</link>
+      <pubDate>Fri, 10 May 2024 13:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xpra-6-0-analoga-utility-screen-dlya-gui-razvitie-wprs-realizacii-xpra-dlya-wayland-20240510-133533/</guid>
+      <description>Опубликован выпуск проекта Xpra 6.0, развивающего подобие утилит screen и tmux для работы с графическими приложениями. Xpra позволяет запустить X11-приложения на локальной или удалённой системе, отсоединить сеанс, не завершая выполнение программ, и вернуться к работе с приложениями через какое-то время или продолжить работу с другого хоста (можно начать работу с программой на одной машине и продолжить на другой). Например, Xpra позволяет запустить графическое приложение на внешнем Linux-сервере и отобразить содержимое на экране текущей рабочей станции, функционирующей под управлением Linux, Windows или macOS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск композитного сервера Niri 0.1.5, использующего Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kompozitnogo-servera-niri-0-1-5-ispolzuyuschego-wayland-20240421-123533/</link>
+      <pubDate>Sun, 21 Apr 2024 12:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kompozitnogo-servera-niri-0-1-5-ispolzuyuschego-wayland-20240421-123533/</guid>
+      <description>Опубликован выпуск композитного сервера Niri 0.1.5, развиваемого под впечатлением от GNOME-расширения PaperWM и реализующего метод мозаичной (tiling) компоновки, при котором окна группируются в бесконечно прокручиваемую на экране ленту. Открытие нового окна приводит к расширению ленты, а ранее добавленные окна никогда не меняют свой размер. Код проекта распространяется под лицензией GPLv3. Пакеты собраны для Fedora, NixOS , Arch Linux и FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=61038</description>
+    </item>
+    
+    <item>
+      <title>Опубликован miracle-wm 0.2, композитный менеджер на базе Wayland и Mir </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</link>
+      <pubDate>Fri, 19 Apr 2024 22:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-miracle-wm-0-2-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240419-223511/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил второй выпуск композитного менеджера miracle-wm, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3 и пользовательского окружения Sway. В качестве панели может применяться Waybar. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=61032</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.35</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-35-20240417-233559/</link>
+      <pubDate>Wed, 17 Apr 2024 23:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-35-20240417-233559/</guid>
+      <description>Опубликован выпуск пакета wayland-protocols 1.35, содержащего набор протоколов и расширений, которые дополняют возможности базового протокола Wayland и предоставляют возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=61018</description>
+    </item>
+    
+    <item>
+      <title>В библиотеке SDL3 отложили переход на Wayland по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-sdl3-otlozhili-perehod-na-wayland-po-umolchaniyu-20240326-143603/</link>
+      <pubDate>Tue, 26 Mar 2024 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-biblioteke-sdl3-otlozhili-perehod-na-wayland-po-umolchaniyu-20240326-143603/</guid>
+      <description>Разработчики библиотеки SDL (Simple DirectMedia Layer), нацеленной на упрощение написания игр и мультимедийных приложений, отменили изменение, переводящее ветку SDL3 на использование по умолчанию протокола Wayland в окружениях, предоставляющих одновременную поддержку Wayland и X11. В качестве причины упоминается наличие проблем, нерешённых в экосистеме Wayland, связанных с блокировкой поверхностей и реализацией FIFO (vsync). Указанные проблемы приводят к снижению производительности и не могут быть полноценно решены без реализации дополнительных протоколов fifo-v1 и commit-timing-v1.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.34</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-34-20240321-113530/</link>
+      <pubDate>Thu, 21 Mar 2024 11:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-34-20240321-113530/</guid>
+      <description>После полугода разработки опубликован выпуск пакета wayland-protocols 1.34, содержащего набор протоколов и расширений, дополняющих возможности базового протокола Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=60819</description>
+    </item>
+    
+    <item>
+      <title>Рабочий стол LXQt признан полностью готовым для использования Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/rabochiy-stol-lxqt-priznan-polnostyu-gotovym-dlya-ispolzovaniya-wayland-20240309-223519/</link>
+      <pubDate>Sat, 09 Mar 2024 22:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/rabochiy-stol-lxqt-priznan-polnostyu-gotovym-dlya-ispolzovaniya-wayland-20240309-223519/</guid>
+      <description>Разработчики пользовательского окружения LXQt сообщили о 100% готовности рабочего стола к использованию Wayland. В кодовую базу LXQt внесены изменения, переводящие PCManFM-Qt на использование компонента layer-shell-qt, что позволяет организовать функционирование рабочего стола в окружениях на базе Wayland без дополнительных хаков, обходным путём реализующих совместимость с некоторыми композитными менеджерами, такими как LabWC.
+https://www.opennet.ru/opennews/art.shtml?num=60762</description>
+    </item>
+    
+    <item>
+      <title>Релиз пользовательского окружения Sway 1.9, использующего Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-sway-1-9-ispolzuyuschego-wayland-20240225-003511/</link>
+      <pubDate>Sun, 25 Feb 2024 00:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-polzovatelskogo-okruzheniya-sway-1-9-ispolzuyuschego-wayland-20240225-003511/</guid>
+      <description>После 14 месяцев разработки опубликован релиз композитного менеджера Sway 1.9, построенного с использованием протокола Wayland и полностью совместимого с мозаичным оконным менеджером i3 и панелью i3bar. Код проекта написан на языке Си и распространяется под лицензией MIT. Проект нацелен на использование в Linux и FreeBSD.
+https://www.opennet.ru/opennews/art.shtml?num=60662</description>
+    </item>
+    
+    <item>
+      <title>Сотрудник Canonical представил miracle-wm, композитный менеджер на базе Wayland и Mir</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</link>
+      <pubDate>Mon, 19 Feb 2024 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sotrudnik-canonical-predstavil-miracle-wm-kompozitnyy-menedzher-na-baze-wayland-i-mir-20240219-233538/</guid>
+      <description>Мэтью Косарек (Matthew Kosarek) из компании Canonical представил первый выпуск нового композитного менеджера miracle-wm, который базируется на использовании протокола Wayland и компонентов для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон в стиле оконного менеджера i3, композитного менеджера Hyprland и пользовательского окружения Sway. Код проекта написан на языке C++ и распространяется под лицензией GPLv3. Готовые сборки сформированы в формате snap.
+https://www.opennet.ru/opennews/art.shtml?num=60626</description>
+    </item>
+    
+    <item>
+      <title>Опубликован план перевода LXQt на Qt6 и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-perevoda-lxqt-na-qt6-i-wayland-20240219-163510/</link>
+      <pubDate>Mon, 19 Feb 2024 16:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-perevoda-lxqt-na-qt6-i-wayland-20240219-163510/</guid>
+      <description>Разработчики пользовательского окружения LXQt (Qt Lightweight Desktop Environment) рассказали о процессе перехода на использование библиотеки Qt6 и протокола Wayland. Миграция всех составных частей LXQt на Qt6 в настоящее время рассматривается как первичная задача, которой уделено всё внимание проекта. После завершения миграции поддержка Qt5 будет прекращена.
+https://www.opennet.ru/opennews/art.shtml?num=60625</description>
+    </item>
+    
+    <item>
+      <title>Новая версия Louvre 1.2, библиотеки для разработки композитных серверов на базе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-louvre-1-2-biblioteki-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20240215-133527/</link>
+      <pubDate>Thu, 15 Feb 2024 13:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-louvre-1-2-biblioteki-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20240215-133527/</guid>
+      <description>Доступен выпуск библиотеки Louvre 1.2.0, предоставляющей компоненты для разработки композитных серверов на базе протокола Wayland. Библиотека берёт на себя выполнение всех низкоуровневых операций, включая управления графическими буферами, взаимодействие с подсистемами ввода и графическими API в Linux, и также предлагает готовые реализации различных расширений протокола Wayland. Созданный на базе Louvre композитный сервер, потребляет заметно меньше ресурсов и демонстрирует более высокую производительность, по сравнению с Weston и Sway. Код написан на языке С++ и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Проект Xfce обновил планы, связанные с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</link>
+      <pubDate>Fri, 09 Feb 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</guid>
+      <description>Разработчики Xfce обновили страницу с планами, связанными с добавлением поддержки протокола Wayland. В план добавлено упоминание реализации начальной поддержки Wayland в базовых компонентах следующего значительного выпуска Xfce 4.20 с сохранением поддержки X11. Ранее вопрос сохранения обратной совместимости с X11 находится на стадии дискуссии, в которой не удавалось добиться консенсуса. Теперь решено, что поддержка X11 в обозримом будущем прекращена не будет.
+https://www.opennet.ru/opennews/art.shtml?num=60580</description>
+    </item>
+    
+    <item>
+      <title>Выпуск окружения рабочего стола Budgie 10.9 с начальной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-okruzheniya-rabochego-stola-budgie-10-9-s-nachalnoy-podderzhkoy-wayland-20240128-233602/</link>
+      <pubDate>Sun, 28 Jan 2024 23:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-okruzheniya-rabochego-stola-budgie-10-9-s-nachalnoy-podderzhkoy-wayland-20240128-233602/</guid>
+      <description>Организация Buddies Of Budgie, курирующая разработку проекта после его отделения от дистрибутива Solus, опубликовала обновление окружения рабочего стола Budgie 10.9.0. Пользовательское окружение образуют поставляемые раздельно компоненты с реализацией рабочего стола Budgie Desktop, набором пиктограмм Budgie Desktop View, интерфейсом для настройки системы Budgie Control Center (форк GNOME Control Center) и хранителем экрана Budgie Screensaver (форк gnome-screensaver). Код проекта распространяется под лицензией GPLv2. Для ознакомления с Budgie можно использовать такие дистрибутивы, как Ubuntu Budgie, Fedora Budgie, Solus, GeckoLinux и EndeavourOS.</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск композитного сервера Niri, использующего Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-kompozitnogo-servera-niri-ispolzuyuschego-wayland-20240128-133525/</link>
+      <pubDate>Sun, 28 Jan 2024 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-kompozitnogo-servera-niri-ispolzuyuschego-wayland-20240128-133525/</guid>
+      <description>Опубликован первый выпуск композитного сервера Niri. Проект создан под впечатлением от GNOME-расширения.
+https://www.opennet.ru/opennews/art.shtml?num=60511</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.33</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-33-20240119-233504/</link>
+      <pubDate>Fri, 19 Jan 2024 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-33-20240119-233504/</guid>
+      <description>После полугода разработки опубликован выпуск пакета wayland-protocols 1.33, содержащего набор протоколов и расширений, дополняющих возможности базового протокола Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=60465</description>
+    </item>
+    
+    <item>
+      <title>Выпуск labwc 0.7, композитного сервера для Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-kompozitnogo-servera-dlya-wayland-20231223-013543/</link>
+      <pubDate>Sat, 23 Dec 2023 01:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-labwc-0-7-kompozitnogo-servera-dlya-wayland-20231223-013543/</guid>
+      <description>Доступен выпуск проекта labwc 0.7 (Lab Wayland Compositor), развивающего композитный сервер для Wayland с возможностями, напоминающими оконный менеджер Openbox (проект преподносится как попытка создания альтернативы Openbox для Wayland). Из особенностей labwc называется минимализм, компактная реализация, широкие возможности настройки и высокая производительность. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=60336</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Lubuntu перейдёт на использование Qt 6 и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</link>
+      <pubDate>Sun, 10 Dec 2023 19:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-lubuntu-pereydet-na-ispolzovanie-qt-6-i-wayland-20231210-193552/</guid>
+      <description>Разработчики проекта Lubuntu опубликовали план перевода дистрибутива на Qt 6 и Wayland. Поддержка опционального сеанса на базе Wayland появится в выпуске Lubuntu 24.02, а в версии Lubuntu 24.10 данный сеанс будет задействован по умолчанию. Параллельно продолжается работа по интеграции поддержки Wayland и Qt 6 в пользовательское окружение LXQt, поставляемое в Lubuntu (актуальный выпуск LXQt 1.4 продолжает основываться на ветке Qt 5.15, но следующий выпуск LXQt обещают перевести на Qt 6).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск пользовательского окружения Cinnamon 6.0 с начальной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-6-0-s-nachalnoy-podderzhkoy-wayland-20231130-143508/</link>
+      <pubDate>Thu, 30 Nov 2023 14:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-polzovatelskogo-okruzheniya-cinnamon-6-0-s-nachalnoy-podderzhkoy-wayland-20231130-143508/</guid>
+      <description>После 6 месяцев разработки сформирован релиз пользовательского окружения Cinnamon 6.0, в рамках которого сообществом разработчиков дистрибутива Linux Mint развивается форк оболочки GNOME Shell, файлового менеджера Nautilus и оконного менеджера Mutter, нацеленный на предоставление окружения в классическом стиле GNOME 2 с поддержкой удачных элементов взаимодействия из GNOME Shell. Cinnamon основывается на компонентах GNOME, но эти компоненты поставляются как периодически синхронизируемый форк, не связанный внешними зависимостями с GNOME. Смена номера версии на 6.</description>
+    </item>
+    
+    <item>
+      <title>Доступна Louvre 1.0, библиотека для разработки композитных серверов на базе Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-louvre-1-0-biblioteka-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20231120-203520/</link>
+      <pubDate>Mon, 20 Nov 2023 20:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-louvre-1-0-biblioteka-dlya-razrabotki-kompozitnyh-serverov-na-baze-wayland-20231120-203520/</guid>
+      <description>Разработчики проекта Cuarzo OS представили первый выпуск библиотеки Louvre, предоставляющей компоненты для разработки композитных серверов на базе протокола Wayland. Код написан на языке С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60149</description>
+    </item>
+    
+    <item>
+      <title>В KDE реализована поддержка Wayland-расширений для управления цветом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-realizovana-podderzhka-wayland-rasshireniy-dlya-upravleniya-cvetom-20231028-153545/</link>
+      <pubDate>Sat, 28 Oct 2023 15:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-realizovana-podderzhka-wayland-rasshireniy-dlya-upravleniya-cvetom-20231028-153545/</guid>
+      <description>В кодовой базе, на основе которой формируется выпуск пользовательского окружения KDE Plasma 6, в композитный сервер KWin добавлена поддержка расширений протокола Wayland, отвечающих за управление цветом. В сеансе KDE Plasma 6 на базе Wayland реализована возможность раздельного управления цветом для каждого экрана. Пользователи теперь могут назначить свои ICC-профили для каждого экрана, и в приложениях, использующих Wayland, будет обеспечена корректная цветопередача. Кроме того, цвета, выбираемые при помощи приложения &amp;ldquo;Пипетка&amp;rdquo; (Color Picker) теперь преобразуются в цветовое пространство sRGB и обрабатываются с учётом цветовых профилей.</description>
+    </item>
+    
+    <item>
+      <title>Первые результаты портирования Cinnamon на Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervye-rezultaty-portirovaniya-cinnamon-na-wayland-20231027-013549/</link>
+      <pubDate>Fri, 27 Oct 2023 01:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervye-rezultaty-portirovaniya-cinnamon-na-wayland-20231027-013549/</guid>
+      <description>Разработчики проекта Linux Mint объявили о работе по адаптации пользовательской оболочки Cinnamon для функционирования в окружении на базе протокола Wayland. Экспериментальная поддержка Wayland появится в выпуске Cinnamon 6.0, запланированном на ноябрь, а опциональный сеанс с Cinnamon на базе Wayland будет предложен для тестирования в выпуске Linux Mint 21.3, который ожидается в декабре.
+https://www.opennet.ru/opennews/art.shtml?num=60002</description>
+    </item>
+    
+    <item>
+      <title>Выпуск платформы Electron 27.0 с включением режима декорирования окон для Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-platformy-electron-27-0-s-vklyucheniem-rezhima-dekorirovaniya-okon-dlya-wayland-20231015-123509/</link>
+      <pubDate>Sun, 15 Oct 2023 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-platformy-electron-27-0-s-vklyucheniem-rezhima-dekorirovaniya-okon-dlya-wayland-20231015-123509/</guid>
+      <description>Опубликован релиз платформы Electron 27.0.0, которая предоставляет самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js. Значительное изменение номера версии связано с обновлением до кодовой базы Chromium 118, платформы Node.js 18.17.1 и JavaScript-движка V8 11.8.
+https://www.opennet.ru/opennews/art.shtml?num=59934</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+    <item>
+      <title>Доступен композитный сервер Wayfire 0.8, использующий Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-kompozitnyy-server-wayfire-0-8-ispolzuyuschiy-wayland-20231010-113506/</link>
+      <pubDate>Tue, 10 Oct 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-kompozitnyy-server-wayfire-0-8-ispolzuyuschiy-wayland-20231010-113506/</guid>
+      <description>После почти трёх лет разработки опубликован релиз композитного сервера Wayfire 0.8, использующего Wayland и позволяющего формировать нетребовательные к ресурсам интерфейсы пользователя c 3D-эффектами в стиле 3D-плагинов к Compiz (переключение экранов через 3D-куб, пространственная раскладка окон, морфинг при работе с окнами и т.п.). Wayfire поддерживает расширение через плагины и предоставляет гибкую систему настройки. Код проекта написан на языке C++ и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59899</description>
+    </item>
+    
+    <item>
+      <title>Компания JetBrains объявила о поддержке Wayland в IDE IntelliJ и OpenJDK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</link>
+      <pubDate>Thu, 31 Aug 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</guid>
+      <description>Компания JetBrains анонсировала реализацию поддержки протокола Wayland в платформе IntelliJ и построенных на её основе интегрированных средах разработки. Предложенные изменения имеют значение для всех разработчиков графических приложений на языке Java, так как охватывают и добавление поддержки Wayland в OpenJDK. После включения подготовленных изменений в один из будущих релизов OpenJDK, Java-программы смогут напрямую запускаться в окружениях на основе Wayland без задействования прослойки XWayland. Для тестирования уже доступен JetBrainsRuntime 21, форк OpenJDK 21 со встроенной поддержкой Wayland, используемый в продуктах JetBrains.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск текстового редактора GNU Emacs 29.1 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-1-s-podderzhkoy-wayland-20230801-133507/</link>
+      <pubDate>Tue, 01 Aug 2023 13:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-tekstovogo-redaktora-gnu-emacs-29-1-s-podderzhkoy-wayland-20230801-133507/</guid>
+      <description>Проект GNU опубликовал релиз текстового редактора GNU Emacs 29.1 (первый выпуск серии 29.x, ветка 29.0 использовалась для разработки). Вплоть до выпуска GNU Emacs 24.5 проект развивался под личным руководством Ричарда Столлмана, который передал пост лидера проекта Джону Вигли (John Wiegley) осенью 2015 года. Код проекта написан на зыках Си и Lisp и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=59530</description>
+    </item>
+    
+    <item>
+      <title>Разработчики OpenBSD экспериментируют с использованием Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-openbsd-eksperimentiruyut-s-ispolzovaniem-wayland-20230710-103505/</link>
+      <pubDate>Mon, 10 Jul 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-openbsd-eksperimentiruyut-s-ispolzovaniem-wayland-20230710-103505/</guid>
+      <description>На прошедшем в Таллине хакатоне g2k23 разработчики проекта OpenBSD провели эксперимент по запуску в OpenBSD графического окружения, использующего протокол Wayland. До сих пор для формирования графического окружения в OpenBSD применялась собственная редакция X11-стека - Xenocara, основанная на библиотеках X.Org 7.7, X Server 1.21.6 и Mesa 22.3.4. Участники хакатона исследовали вопрос применения в OpenBSD отличных от X11 систем и попытались создать окружение на основе композитного менеджера Sway, построенного с использованием протокола Wayland и совместимого с мозаичным оконным менеджером i3 и панелью i3bar.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wayland-Protocols 1.32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-32-20230704-103553/</link>
+      <pubDate>Tue, 04 Jul 2023 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wayland-protocols-1-32-20230704-103553/</guid>
+      <description>Опубликован выпуск пакета wayland-protocols 1.32, содержащего набор протоколов и расширений, дополняющих возможности базового протокола Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=59377</description>
+    </item>
+    
+    <item>
+      <title>В KDE Plasma 6 будут включены по умолчанию Wayland и плавающая панель</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-budut-vklyucheny-po-umolchaniyu-wayland-i-plavayuschaya-panel-20230511-203506/</link>
+      <pubDate>Thu, 11 May 2023 20:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kde-plasma-6-budut-vklyucheny-po-umolchaniyu-wayland-i-plavayuschaya-panel-20230511-203506/</guid>
+      <description>Разработчики проекта KDE приняли решение изменить некоторые настройки по умолчанию в грядущем выпуске KDE Plasma 6, который ожидается ожидается осенью 2023 года. Среди наиболее важных решений.
+https://www.opennet.ru/opennews/art.shtml?num=59120</description>
+    </item>
+    
+    <item>
+      <title>Доступен Wayland 1.22</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-22-20230405-013507/</link>
+      <pubDate>Wed, 05 Apr 2023 01:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-wayland-1-22-20230405-013507/</guid>
+      <description>После девяти месяцев разработки представлен стабильный релиз протокола, механизма межпроцессного взаимодействия и библиотек Wayland 1.22. Ветка 1.22 обратно совместима на уровне API и ABI с выпусками 1.x и содержит в основном исправления ошибок и незначительные обновления протокола. Композитный сервер Weston, предоставляющий код и рабочие примеры для использования Wayland в десктоп-окружениях и встраиваемых решениях, развивается в рамках отдельного цикла разработки.
+https://www.opennet.ru/opennews/art.shtml?num=58919</description>
+    </item>
+    
+    <item>
+      <title>Выпуск XWayland 23.1.0, компонента для запуска X11-приложений в Wayland-окружениях </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-23-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20230323-143506/</link>
+      <pubDate>Thu, 23 Mar 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-xwayland-23-1-0-komponenta-dlya-zapuska-x11-prilozheniy-v-wayland-okruzheniyah-20230323-143506/</guid>
+      <description>Доступен выпуск XWayland 23.1.0, DDX-компонента (Device-Dependent X), обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=58847</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.4 с начальной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-4-s-nachalnoy-podderzhkoy-wayland-20230318-103503/</link>
+      <pubDate>Sat, 18 Mar 2023 10:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-4-s-nachalnoy-podderzhkoy-wayland-20230318-103503/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.4. С момента выпуска версии 8.3 было закрыт 51 отчёт об ошибках и внесено 344 изменения.
+https://www.opennet.ru/opennews/art.shtml?num=58814</description>
+    </item>
+    
+  </channel>
+</rss>

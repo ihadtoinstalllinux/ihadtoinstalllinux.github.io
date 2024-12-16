@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Archinstall on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/archinstall/</link>
+    <description>Recent content in Archinstall on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2024 20:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/archinstall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск инсталлятора Archinstall 3.0.0, применяемого в дистрибутиве Arch Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-3-0-0-primenyaemogo-v-distributive-arch-linux-20241117-203551/</link>
+      <pubDate>Sun, 17 Nov 2024 20:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-3-0-0-primenyaemogo-v-distributive-arch-linux-20241117-203551/</guid>
+      <description>Опубликован выпуск инсталлятора Archinstall 3.0, который с апреля 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Код Archinstall написан на языке Python и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=62242</description>
+    </item>
+    
+    <item>
+      <title>В Arch Linux обновлён пакетный менеджер Pacman 6.1 и инсталлятор Archinstall 2.7.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-obnovlen-paketnyy-menedzher-pacman-6-1-i-installyator-archinstall-2-7-2-20240310-143559/</link>
+      <pubDate>Sun, 10 Mar 2024 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-obnovlen-paketnyy-menedzher-pacman-6-1-i-installyator-archinstall-2-7-2-20240310-143559/</guid>
+      <description>Дистрибутив Arch Linux перешёл на использование нового выпуска пакетного менеджера Pacman 6.1, в котором появилась поддержка встроенного сервера CacheServer, кэширующего пакеты для ускорения загрузки пакетов и упрощения создания зеркал.
+https://www.opennet.ru/opennews/art.shtml?num=60766</description>
+    </item>
+    
+    <item>
+      <title>Выпуск инсталлятора Archinstall 2.7, применяемого в дистрибутиве Arch Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-7-primenyaemogo-v-distributive-arch-linux-20231123-173547/</link>
+      <pubDate>Thu, 23 Nov 2023 17:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-installyatora-archinstall-2-7-primenyaemogo-v-distributive-arch-linux-20231123-173547/</guid>
+      <description>Опубликован выпуск инсталлятора Archinstall 2.7, который с апреля 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Отдельно развивается реализация графического интерфейса установки, но она не включена в состав установочных образов Arch Linux и уже более трёх лет не обновлялась.
+https://www.opennet.ru/opennews/art.shtml?num=60170</description>
+    </item>
+    
+    <item>
+      <title>Обновление инсталлятора Archinstall 2.6, применяемого в дистрибутиве Arch Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-archinstall-2-6-primenyaemogo-v-distributive-arch-linux-20230731-103540/</link>
+      <pubDate>Mon, 31 Jul 2023 10:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-archinstall-2-6-primenyaemogo-v-distributive-arch-linux-20230731-103540/</guid>
+      <description>Опубликован выпуск инсталлятора Archinstall 2.6, который с апреля 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Отдельно развивается реализация графического интерфейса установки, но она не включена в состав установочных образов Arch Linux и уже более трёх лет не обновлялась.
+https://www.opennet.ru/opennews/art.shtml?num=59523</description>
+    </item>
+    
+  </channel>
+</rss>

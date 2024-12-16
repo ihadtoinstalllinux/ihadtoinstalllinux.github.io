@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nxs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nxs/</link>
+    <description>Recent content in nxs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2024 14:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nxs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз инструмента анонимизации баз данных nxs-data-anonymizer 1.11.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-11-0-20240919-143534/</link>
+      <pubDate>Thu, 19 Sep 2024 14:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-11-0-20240919-143534/</guid>
+      <description>Опубликован nxs-data-anonymizer 1.11.0 - инструмент для анонимизации дампа баз данных PostgreSQL и MySQL/MariaDB/Percona. Инструмент написан на языке Go и выпускается под лицензией Apache License 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61887</description>
+    </item>
+    
+    <item>
+      <title>Релиз инструмента резервного копирования nxs-backup 3.11.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-11-0-20240829-173516/</link>
+      <pubDate>Thu, 29 Aug 2024 17:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-11-0-20240829-173516/</guid>
+      <description>Опубликован релиз инструмента резервного копирования nxs-backup 3.11.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД: MySQL, PostgreSQL, MongoDB, Redis. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61784</description>
+    </item>
+    
+    <item>
+      <title>Релиз инструмента анонимизации баз данных nxs-data-anonymizer 1.9.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-9-0-20240722-143554/</link>
+      <pubDate>Mon, 22 Jul 2024 14:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-9-0-20240722-143554/</guid>
+      <description>Опубликован nxs-data-anonymizer 1.9.0 - инструмент для анонимизации дампа баз данных PostgreSQL и MySQL/MariaDB/Percona. Инструмент написан на языке Go и выпускается под лицензией Apache License 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61592</description>
+    </item>
+    
+    <item>
+      <title>Релиз инструмента резервного копирования nxs-backup 3.9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-9-0-20240718-173507/</link>
+      <pubDate>Thu, 18 Jul 2024 17:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-rezervnogo-kopirovaniya-nxs-backup-3-9-0-20240718-173507/</guid>
+      <description>Опубликован релиз инструмента резервного копирования nxs-backup 3.9.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД: MySQL, PostgreSQL, MongoDB, Redis. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61572</description>
+    </item>
+    
+    <item>
+      <title>Доступен инструмент для анонимизации баз данных nxs-data-anonymizer 1.6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-instrument-dlya-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-6-0-20240607-123536/</link>
+      <pubDate>Fri, 07 Jun 2024 12:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-instrument-dlya-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-6-0-20240607-123536/</guid>
+      <description>Опубликован nxs-data-anonymizer 1.6.0 - инструмент для анонимизации дампа баз данных PostgreSQL и MySQL/MariaDB/Percona. Инструмент написан на языке Go и выпускается под лицензией Apache License 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61330</description>
+    </item>
+    
+    <item>
+      <title>Доступна система резервного копирования nxs-backup 3.7.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-nxs-backup-3-7-0-20240605-183507/</link>
+      <pubDate>Wed, 05 Jun 2024 18:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-rezervnogo-kopirovaniya-nxs-backup-3-7-0-20240605-183507/</guid>
+      <description>Опубликован выпуск инструментария резервного копирования nxs-backup 3.7.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД: MySQL, PostgreSQL, MongoDB, Redis. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=61315</description>
+    </item>
+    
+    <item>
+      <title>Релиз инструмента для анонимизации баз данных nxs-data-anonymizer 1.4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-dlya-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-4-0-20240424-153544/</link>
+      <pubDate>Wed, 24 Apr 2024 15:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-instrumenta-dlya-anonimizacii-baz-dannyh-nxs-data-anonymizer-1-4-0-20240424-153544/</guid>
+      <description>Опубликован nxs-data-anonymizer 1.4.0 - инструмент для анонимизации дампа баз данных PostgreSQL и MySQL/MariaDB/Percona. Утилита поддерживает анонимизацию данных на основе шаблонов и функций библиотеки Sprig. Среди прочего, для заполнения можно использовать значения других столбцов для той же строки. Допустимо использовать инструмент через неименованные каналы (pipe) в командной строке и перенаправить дамп из исходной БД непосредственно в целевую БД с необходимыми преобразованиями. Инструмент написан на языке Go и выпускается под лицензией Apache License 2.</description>
+    </item>
+    
+    <item>
+      <title>Релиз системы резервного копирования nxs-backup 3.4.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-rezervnogo-kopirovaniya-nxs-backup-3-4-0-20240411-103507/</link>
+      <pubDate>Thu, 11 Apr 2024 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-rezervnogo-kopirovaniya-nxs-backup-3-4-0-20240411-103507/</guid>
+      <description>Опубликован выпуск инструментария резервного копирования nxs-backup 3.4.0, позволяющего создавать резервные копии, выполнять их ротацию и сохранять на локальных или внешних хранилищах. Помимо резервного копирования файлов поддерживается создание бэкапов различных СУБД. Код проекта распространяется под лицензией GPLv3. Начиная с ветки nxs-backup 3.x код проекта полностью переписан на языке Go (ранее использовался язык Python) с целью повышения производительности и расширения функциональности.
+https://www.opennet.ru/opennews/art.shtml?num=60957</description>
+    </item>
+    
+    <item>
+      <title>Релиз nxs-data-anonymizer 1.0.0, инструмента для анонимизации баз данных</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-nxs-data-anonymizer-1-0-0-instrumenta-dlya-anonimizacii-baz-dannyh-20230724-133510/</link>
+      <pubDate>Mon, 24 Jul 2023 13:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-nxs-data-anonymizer-1-0-0-instrumenta-dlya-anonimizacii-baz-dannyh-20230724-133510/</guid>
+      <description>Состоялся релиз nxs-data-anonymizer 1.0.0 — инструмента для анонимизации дампа баз данных PostgreSQL и MySQL. Инструмент написан на языке Go и выпускается под лицензией Apache License 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59486</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LXD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/lxd/</link>
+    <description>Recent content in LXD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 12:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/lxd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск инструментариев управления контейнерами LXC 6.0, Incus 6.0 и LXD 5.21.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-instrumentariev-upravleniya-konteynerami-lxc-6-0-incus-6-0-i-lxd-5-21-1-20240404-123525/</link>
+      <pubDate>Thu, 04 Apr 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-instrumentariev-upravleniya-konteynerami-lxc-6-0-incus-6-0-i-lxd-5-21-1-20240404-123525/</guid>
+      <description>Сообщество Linux Containers опубликовало релиз инструментария для организации работы изолированных контейнеров LXC 6.0, предоставляющий runtime, подходящий как для запуска контейнеров с полным системным окружением, близких к виртуальным машинам, так и для выполнения непривилегированных контейнеров отдельных приложений (OCI). LXC относится к низкоуровневым инструментариям, работающим на уровне отдельных контейнеров. Для централизованного управления контейнерами, развёрнутыми в кластере из нескольких серверов, на базе LXC развиваются системы Incus и LXD. Ветка LXC 6.0 отнесена к выпускам с длительной поддержкой, обновления для которых формируются в течение 5 лет (до 2029 года).</description>
+    </item>
+    
+    <item>
+      <title>Компания Canonical перевела проект LXD на лицензию AGPLv3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-perevela-proekt-lxd-na-licenziyu-agplv3-20231213-143551/</link>
+      <pubDate>Wed, 13 Dec 2023 14:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-perevela-proekt-lxd-na-licenziyu-agplv3-20231213-143551/</guid>
+      <description>Компания Canonical опубликовала новую версию системы управления контейнерами LXD 5.20, которая примечательна изменением лицензии на проект и введением необходимости подписания CLA-соглашения о передаче имущественных прав на код при приёме изменений в LXD. Лицензия на код, добавленный в LXD сотрудниками Canonical, изменена с Apache 2.0 на AGPLv3, а код сторонних участников, на который у Canonical нет имущественных прав, остаётся под Apache 2.0. Так как Canonical не имеет возможность изменить лицензию на весь код LXD, проект теперь будет поставляться под смешанными условиями - часть кода под AGPLv3, а часть под Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Incus 0.2, форка системы управления контейнерами LXD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-incus-0-2-forka-sistemy-upravleniya-konteynerami-lxd-20231031-133533/</link>
+      <pubDate>Tue, 31 Oct 2023 13:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-incus-0-2-forka-sistemy-upravleniya-konteynerami-lxd-20231031-133533/</guid>
+      <description>Представлен второй выпуск проекта Incus, в рамках которого сообществом Linux Containers развивается форк системы управления контейнерами LXD, созданный старой командой разработчиков, когда-то создавшей LXD. Код Incus написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60022</description>
+    </item>
+    
+    <item>
+      <title>Первый выпуск Incus, форка системы управления контейнерами LXD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-incus-forka-sistemy-upravleniya-konteynerami-lxd-20231009-003504/</link>
+      <pubDate>Mon, 09 Oct 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-incus-forka-sistemy-upravleniya-konteynerami-lxd-20231009-003504/</guid>
+      <description>Представлен первый выпуск проекта Incus, в рамках которого сообществом Linux Containers развивается форк системы управления контейнерами LXD, созданный старой командой разработчиков, когда-то создавшей LXD. Код Incus написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59891</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы управления контейнерами LXD 5.17</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxd-5-17-20230901-143507/</link>
+      <pubDate>Fri, 01 Sep 2023 14:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-upravleniya-konteynerami-lxd-5-17-20230901-143507/</guid>
+      <description>Компания Canonical представила новые версии системы управления контейнерами LXD 5.16 и 5.17, сформированные после преобразования LXD из проекта, развиваемого сообществом Linux Containers, в корпоративный проект, полностью подконтрольный компании Canonical (после действий Canonical сообщество Linux Containers основало свой форк LXD, который доступен под именем Incus). Код LXD написан на языке Go и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59695</description>
+    </item>
+    
+    <item>
+      <title>Форк LXD будет развиваться под эгидой сообщества Linux Containers</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fork-lxd-budet-razvivatsya-pod-egidoy-soobschestva-linux-containers-20230807-213506/</link>
+      <pubDate>Mon, 07 Aug 2023 21:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fork-lxd-budet-razvivatsya-pod-egidoy-soobschestva-linux-containers-20230807-213506/</guid>
+      <description>Разработка созданного несколько дней назад форка системы управления контейнерами LXD перешла под крыло сообщества Linux Containers, которое ранее курировало разработку LXD. Форк будет развиваться под именем Incus в репозитории github.com/lxc/incus. Для разработки Incus будет использоваться та же инфраструктура, что ранее использовалась для LXD. Целью проекта называется предоставление управляемой независимым сообществом альтернативы проекту LXD, развиваемому компанией Canonical.
+https://www.opennet.ru/opennews/art.shtml?num=59564</description>
+    </item>
+    
+    <item>
+      <title>Создан форк системы управления контейнерами LXD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sozdan-fork-sistemy-upravleniya-konteynerami-lxd-20230805-113509/</link>
+      <pubDate>Sat, 05 Aug 2023 11:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sozdan-fork-sistemy-upravleniya-konteynerami-lxd-20230805-113509/</guid>
+      <description>Алекса Сарай (Alexa Sarai), работающий в компании SUSE и занимающийся сопровождением пакетов с LXD в проекте openSUSE, создал репозиторий Incus, в котором намерен заниматься развитием форка системы управления контейнерами LXD. Форк создан после того, как компания Canonical, которая является создателем и основным разработчиком LXD, решила вывести LXD из разработки в составе сообщества Linux Containers и развивать LXD в дальнейшем как корпоративный проект.
+https://www.opennet.ru/opennews/art.shtml?num=59556</description>
+    </item>
+    
+    <item>
+      <title>LXD будет развиваться компаний Canonical отдельно от проекта Linux Containers</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/lxd-budet-razvivatsya-kompaniy-canonical-otdelno-ot-proekta-linux-containers-20230706-023506/</link>
+      <pubDate>Thu, 06 Jul 2023 02:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/lxd-budet-razvivatsya-kompaniy-canonical-otdelno-ot-proekta-linux-containers-20230706-023506/</guid>
+      <description>Команда проекта Linux Containers, развивающая инструментарий для организации работы изолированных контейнеров LXC, менеджер контейнеров LXD, виртуальную ФС LXCFS, инструментарий сборки образов distrobuilder, библиотеку libresource и runtime lxcri, объявила, что менеджер контейнеров LXD отныне будет отдельно разрабатываться компанией Canonical. Компания Canonical, которая является создателем и основным разработчиком LXD, после 8 лет разработки в составе Linux Containers, решила, что LXD более оптимально развивать как корпоративный проект, а не проект независимого сообщества. Разработка остальных проектов Linux Containers останется без изменений.</description>
+    </item>
+    
+  </channel>
+</rss>

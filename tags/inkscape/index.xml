@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Inkscape on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/inkscape/</link>
+    <description>Recent content in Inkscape on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 12:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/inkscape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск редактора векторной графики Inkscape 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-redaktora-vektornoy-grafiki-inkscape-1-4-20241014-123604/</link>
+      <pubDate>Mon, 14 Oct 2024 12:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-redaktora-vektornoy-grafiki-inkscape-1-4-20241014-123604/</guid>
+      <description>После более года разработки представлен релиз свободного векторного графического редактора Inkscape 1.4. Редактор предоставляет гибкие инструменты для рисования и обеспечивает поддержку чтения и сохранения изображений в форматах SVG, OpenDocument Drawing, DXF, WMF, EMF, sk1, PDF, EPS, PostScript и PNG. Готовые сборки Inkscape подготовлены для Linux (AppImage, ожидается публикация Snap и Flatpak), macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=62044</description>
+    </item>
+    
+    <item>
+      <title>Обновление редактора векторной графики Inkscape 1.3.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-redaktora-vektornoy-grafiki-inkscape-1-3-1-20231119-123509/</link>
+      <pubDate>Sun, 19 Nov 2023 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-redaktora-vektornoy-grafiki-inkscape-1-3-1-20231119-123509/</guid>
+      <description>Доступно обновление свободного векторного графического редактора Inkscape 1.3.1. Редактор предоставляет гибкие инструменты для рисования и обеспечивает поддержку чтения и сохранения изображений в форматах SVG, OpenDocument Drawing, DXF, WMF, EMF, sk1, PDF, EPS, PostScript и PNG. Готовые сборки Inkscape подготовлены для Linux (AppImage, Snap, Flatpak), macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=60141</description>
+    </item>
+    
+    <item>
+      <title>Возможная компрометация сервера загрузки Inkscape</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vozmozhnaya-komprometaciya-servera-zagruzki-inkscape-20230822-233507/</link>
+      <pubDate>Tue, 22 Aug 2023 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vozmozhnaya-komprometaciya-servera-zagruzki-inkscape-20230822-233507/</guid>
+      <description>Разработчики дистрибутива NixOS обратили внимание на появление следов вредоносной активности на хосте media.inkscape.org, используемом для загрузки свободного векторного графического редактора Inkscape. В каталоге &amp;ldquo;/dl/resources/file/&amp;rdquo;, из которого организована загрузка официальных выпусков Inkscape (/dl/resources/file/inkscape-1.3.tar.xz), появился индексный файл с формой регистрации в Online-казино. Потенциально в ходе атаки могли быть скомпрометированы отдаваемые для загрузки файлы с Inkscape. Комментариев об инциденте от представителей проекта Inkscape пока нет.
+https://www.opennet.ru/opennews/art.shtml?num=59642</description>
+    </item>
+    
+    <item>
+      <title>Выпуск редактора векторной графики Inkscape 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-redaktora-vektornoy-grafiki-inkscape-1-3-20230724-113508/</link>
+      <pubDate>Mon, 24 Jul 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-redaktora-vektornoy-grafiki-inkscape-1-3-20230724-113508/</guid>
+      <description>После 14 месяцев разработки опубликован релиз свободного векторного графического редактора Inkscape 1.3. Редактор предоставляет гибкие инструменты для рисования и обеспечивает поддержку чтения и сохранения изображений в форматах SVG, OpenDocument Drawing, DXF, WMF, EMF, sk1, PDF, EPS, PostScript и PNG. Готовые сборки Inkscape подготовлены для Linux (AppImage, ожидается публикация Snap и Flatpak), macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=59484</description>
+    </item>
+    
+  </channel>
+</rss>

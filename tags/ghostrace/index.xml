@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GhostRace on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghostrace/</link>
+    <description>Recent content in GhostRace on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 13:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghostrace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhostRace - атака на механизм спекулятивного выполнения в процессорах Intel, AMD, ARM и IBM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</link>
+      <pubDate>Wed, 13 Mar 2024 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ghostrace-ataka-na-mehanizm-spekulyativnogo-vypolneniya-v-processorah-intel-amd-arm-i-ibm-20240313-133509/</guid>
+      <description>Группа исследователей из Амстердамского свободного университета и компании IBM разработала новый вариант атаки на механизм спекулятивного выполнения в современных процессорах, получивший кодовое имя GhostRace (CVE-2024-2193). Проблема проявляется в процессорах, производимых компаниями Intel, AMD, ARM и IBM. Для демонстрации принципов проведения атаки опубликован прототип эксплоита, позволяющий извлекать данные из памяти ядра Linux с производительностью 12 Кб в секунду при уровне надёжности, типичном для атак класса Spectre. При проведении атак на системы виртуализации, атакующий из гостевой системы может определить содержимое памяти хост-окружения или других гостевых систем.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Debian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/debian/</link>
+    <description>Recent content in Debian on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 23:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Debian testing добавлена графическая версия файлового менеджера far2l</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-testing-dobavlena-graficheskaya-versiya-faylovogo-menedzhera-far2l-20241211-233514/</link>
+      <pubDate>Wed, 11 Dec 2024 23:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-testing-dobavlena-graficheskaya-versiya-faylovogo-menedzhera-far2l-20241211-233514/</guid>
+      <description>В репозитории Debian testing добавлен пакет far2l-wx с графической версией порта файлового менеджера FAR 2 для Linux, использующей wxGTK. Появление пакета far2l-wx в Ubuntu ожидается в версии 25.04.
+https://www.opennet.ru/opennews/art.shtml?num=62386</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenStreetMap перевёл серверную инфраструктуру с Ubuntu на Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openstreetmap-perevel-servernuyu-infrastrukturu-s-ubuntu-na-debian-20241128-183505/</link>
+      <pubDate>Thu, 28 Nov 2024 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openstreetmap-perevel-servernuyu-infrastrukturu-s-ubuntu-na-debian-20241128-183505/</guid>
+      <description>Проект OpenStreetMap объявил о переводе серверов в своей инфраструктуре на Debian GNU/Linux. До этого в течение 18 лет на серверах проекта использовался дистрибутив Ubuntu. Миграция производилась постепенно начиная с августа и привела к замене имеющихся установок Ubuntu 20.04 и 22.04 на Debian 12. Переход также позволил обновить язык Ruby с версии 3.0 до версии 3.1, и задействовать более новый выпуск фрейворка Ruby on Rails, что привело к ускорению работы сервиса www.</description>
+    </item>
+    
+    <item>
+      <title>Проект Debian Junior начал формирование Live-сборок для детей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-debian-junior-nachal-formirovanie-live-sborok-dlya-detey-20241114-113530/</link>
+      <pubDate>Thu, 14 Nov 2024 11:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-debian-junior-nachal-formirovanie-live-sborok-dlya-detey-20241114-113530/</guid>
+      <description>Разработчики проекта Debian Junior, занимающегося развитием возможностей для комфортной работы детей с дистрибутивом Debian GNU/Linux, объявили о формировании Live-сборок (3 ГБ), содержащих оптимизированное для детей пользовательское окружение и подборку программ, полезных и интересных для детей до 12 лет. Предложенную Live-сборку планируют обновлять еженедельно. Изначально Debian Junior был нацелен на доработку штатного Debian и поддержание набора пакетов для детей.
+https://www.opennet.ru/opennews/art.shtml?num=62232</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Debian 12.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-debian-12-8-20241110-003542/</link>
+      <pubDate>Sun, 10 Nov 2024 00:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-debian-12-8-20241110-003542/</guid>
+      <description>Сформировано восьмое корректирующее обновление дистрибутива Debian 12, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 68 обновлений с устранением проблем со стабильностью и 50 обновлений с устранением уязвимостей. Из изменений в Debian 12.8 можно отметить обновление до свежих стабильных версий пакетов systemd, clamav, dpdk, galera-4, intel-microcode, openssl и wireshark.
+https://www.opennet.ru/opennews/art.shtml?num=62211</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Droidian 99, вариант Debian для смартфонов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-droidian-99-variant-debian-dlya-smartfonov-20240910-153559/</link>
+      <pubDate>Tue, 10 Sep 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-droidian-99-variant-debian-dlya-smartfonov-20240910-153559/</guid>
+      <description>Доступен релиз проекта Droidian 99, развивающего сборку на основе пакетной базы Debian GNU/Linux, предназначенную для использования на смартфонах вместо платформы Android. В качестве графического окружения предлагается оболочка Phosh, основанная на технологиях GNOME и библиотеке GTK. Системное и пользовательское окружение построены с использованием репозиториев Debian и Mobian. В отличие от дистрибутива Mobian, который нацелен на использование на платах и специализированных Linux-смартфонах, таких как PinePhone, Droidian ориентирован на установку на обычные Android-смартфоны.</description>
+    </item>
+    
+    <item>
+      <title>Новые версии Debian 12.7 и 11.11</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-debian-12-7-i-11-11-20240901-233530/</link>
+      <pubDate>Sun, 01 Sep 2024 23:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-debian-12-7-i-11-11-20240901-233530/</guid>
+      <description>Сформировано седьмое корректирующее обновление дистрибутива Debian 12, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 51 обновление с устранением проблем со стабильностью и 55 обновлений с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=61794</description>
+    </item>
+    
+    <item>
+      <title>Debian 11 переведён на стадию LTS-сопровождения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-11-pereveden-na-stadiyu-lts-soprovozhdeniya-20240815-143512/</link>
+      <pubDate>Thu, 15 Aug 2024 14:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-11-pereveden-na-stadiyu-lts-soprovozhdeniya-20240815-143512/</guid>
+      <description>Проект Debian объявил о завершении цикла штатной поддержки дистрибутива Debian 11 &amp;ldquo;Bullseye&amp;rdquo;, который был выпущен три года назад. В дальнейшем обновления с устранением уязвимостей для Debian 11 будут выпускаться в рамках программы расширенной поддержки (LTS), которая продлится до 31 августа 2026 года. Штатное сопровождение актуальной ветки Debian 12 продлится до 10 июня 2026 года, после чего для данной ветки до 30 июня 2028 года будет обеспечен выпуск LTS-обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=61707</description>
+    </item>
+    
+    <item>
+      <title>В Debian GNU/Hurd обеспечена сборка 71% пакетов Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-gnu-hurd-obespechena-sborka-71-paketov-debian-20240710-123540/</link>
+      <pubDate>Wed, 10 Jul 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-gnu-hurd-obespechena-sborka-71-paketov-debian-20240710-123540/</guid>
+      <description>Разработчики проекта Hurd объявили обеспечении возможности сборки в дистрибутиве Debian GNU/Hurd 71% пакетов архива Debian. В прошлом году этот показатель составлял 58%. Из других достижений GNU/Hurd отмечается портирование ядра Mach для архитектуры AArch64 и принятие патчей, позволяющих использовать GCC для сборки программ GNU/Hurd для AArch64. В настоящее время порт пока не обеспечивает всю желаемую функциональность, но уже может использоваться для запуска простых приложений. В ядре GNU Mach реализована экспериментальная поддержка симметричной многопоточности (SMP).</description>
+    </item>
+    
+    <item>
+      <title>Новые версии Debian 12.6 и 11.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-debian-12-6-i-11-10-20240629-233519/</link>
+      <pubDate>Sat, 29 Jun 2024 23:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-debian-12-6-i-11-10-20240629-233519/</guid>
+      <description>Сформировано шестое корректирующее обновление дистрибутива Debian 12, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 162 обновления с устранением проблем со стабильностью и 84 обновления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=61464</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива blendOS 4, поддерживающего пакеты из Arch, Fedora, Debian, CentOS и Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</link>
+      <pubDate>Thu, 06 Jun 2024 22:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</guid>
+      <description>Представлен релиз дистрибутива blendOS 4, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Помимо пакетов из дистрибутива Arch Linux, который задействован в базовом окружении, и универсальных пакетов в формате Flatpak, предоставляется возможность установки пакетов из Fedora 39, Debian 13 (ветка testing), CentOS Stream и Ubuntu 22.04 (пакеты устанавливаются в основанных на данных дистрибутивах контейнерах). Кроме того, в blendOS предоставляется окружение для установки и запуска Android-приложений из каталогов Google Play и F-Droid.</description>
+    </item>
+    
+    <item>
+      <title>Debian перешёл на поставку урезанного варианта менеджера паролей KeePassXC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-pereshel-na-postavku-urezannogo-varianta-menedzhera-paroley-keepassxc-20240513-213510/</link>
+      <pubDate>Mon, 13 May 2024 21:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-pereshel-na-postavku-urezannogo-varianta-menedzhera-paroley-keepassxc-20240513-213510/</guid>
+      <description>Мэйнтейнер, обеспечивающий сборку для Debian пакетов с менеджерами паролей KeePassXC, перешёл на поставку максимально урезанной версии программы, в которой оставлена только базовая функциональность, необходимая для безопасного хранения паролей на локальной системе. Расширенные функции, среди которых возможность сетевого взаимодействия, код для управления через IPC, компоненты для интеграции с web-браузерами, функции авто-ввода паролей и код для поддержки ключей Yubikey, удалены из стандартного пакета keepassxc, что объясняется избавлением от излишней функциональности, которая повышает поверхность атаки и потенциально может негативно влиять на безопасность и конфиденциальность.</description>
+    </item>
+    
+    <item>
+      <title>Избран новый лидер проекта Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izbran-novyy-lider-proekta-debian-20240420-123553/</link>
+      <pubDate>Sat, 20 Apr 2024 12:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izbran-novyy-lider-proekta-debian-20240420-123553/</guid>
+      <description>Объявлены результаты ежегодных выборов лидера проекта Debian. Победу одержал Андреас Тилле (Andreas Tille), который был избран впервые. В этом году на пост лидера претендовали два участника. Джонатан Картер, занимавший пост лидера четыре последних года, в выборах не участвовал. В голосовании приняли участие 362 разработчика, что составляет 36% от всех участников, имеющих право голоса (в прошлом году явка составила 28%, в позапрошлом 34%, исторический максимум в 2000 году - 62.25%, минимум в 2016 году - 27.</description>
+    </item>
+    
+    <item>
+      <title>Debian 10 Buster перемещён в архив</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-10-buster-peremeschen-v-arhiv-20240330-163553/</link>
+      <pubDate>Sat, 30 Mar 2024 16:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-10-buster-peremeschen-v-arhiv-20240330-163553/</guid>
+      <description>Репозитории Debian 10 &amp;ldquo;Buster&amp;rdquo; перемещены в archive.debian.org, после чего дистрибутив скоро перестанет быть доступным через основную сеть зеркал. Удаление с зеркал пакетов Debian 10 для архитектур, для которых отсутствует LTS-поддержка, планируют произвести в середине апреля.
+https://www.opennet.ru/opennews/art.shtml?num=60881</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Tails 6.0, перешедший на Debian 12 и GNOME 43</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-tails-6-0-pereshedshiy-na-debian-12-i-gnome-43-20240228-003554/</link>
+      <pubDate>Wed, 28 Feb 2024 00:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-tails-6-0-pereshedshiy-na-debian-12-i-gnome-43-20240228-003554/</guid>
+      <description>Сформирован релиз специализированного дистрибутива Tails 6.0 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=60675</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 12.5 и 11.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-5-i-11-9-20240211-103518/</link>
+      <pubDate>Sun, 11 Feb 2024 10:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-5-i-11-9-20240211-103518/</guid>
+      <description>Сформировано пятое корректирующее обновление дистрибутива Debian 12, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 68 обновлений с устранением проблем со стабильностью и 42 обновления с устранением уязвимостей. Из изменений в Debian 12.5 можно отметить обновление до свежих стабильных версий пакетов dpdk, mariadb, postfix, qemu, systemd и xen. В cryptsetup-initramfs добавлена поддержка сжатых модулей ядра.
+https://www.opennet.ru/opennews/art.shtml?num=60587</description>
+    </item>
+    
+    <item>
+      <title>В Debian 13 будет задействован 64-разрядный тип time_t на 32-разрядных архитектурах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-13-budet-zadeystvovan-64-razryadnyy-tip-time-t-na-32-razryadnyh-arhitekturah-20240205-013542/</link>
+      <pubDate>Mon, 05 Feb 2024 01:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-13-budet-zadeystvovan-64-razryadnyy-tip-time-t-na-32-razryadnyh-arhitekturah-20240205-013542/</guid>
+      <description>Разработчики Debian опубликовали план перевода всех пакетов на использование 64-разрядного типа time_t в портах дистрибутива для 32-разрядных архитектур. Изменения войдут в состав дистрибутива Debian 13 &amp;ldquo;Trixie&amp;rdquo;, в котором будет полностью решена проблема 2038 года.
+https://www.opennet.ru/opennews/art.shtml?num=60551</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Debian опубликовали заявление, связанное с законопроектом Cyber Resilience Act</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-opublikovali-zayavlenie-svyazannoe-s-zakonoproektom-cyber-resilience-20231228-153705/</link>
+      <pubDate>Thu, 28 Dec 2023 15:37:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-debian-opublikovali-zayavlenie-svyazannoe-s-zakonoproektom-cyber-resilience-20231228-153705/</guid>
+      <description>Опубликованы результаты общего голосования (GR, general resolution) разработчиков проекта Debian, участвующих в сопровождении пакетов и поддержании инфраструктуры, на котором был утверждён текст заявления с выражением позиции проекта в отношении продвигаемого в Евросоюзе законопроекта Cyber Resilience Act (CRA). Законопроект вводит дополнительные требования к производителям программного обеспечения, нацеленные на стимулирование поддержания безопасности, раскрытие сведений об инцидентах и оперативное устранение уязвимостей на протяжении жизненного цикла продукта.
+https://www.opennet.ru/opennews/art.shtml?num=60358</description>
+    </item>
+    
+    <item>
+      <title>Debian на пути к прекращению поставки 32-разрядных сборок для систем x86 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-na-puti-k-prekrascheniyu-postavki-32-razryadnyh-sborok-dlya-sistem-x86-20231220-183528/</link>
+      <pubDate>Wed, 20 Dec 2023 18:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-na-puti-k-prekrascheniyu-postavki-32-razryadnyh-sborok-dlya-sistem-x86-20231220-183528/</guid>
+      <description>На прошедшей в Кэмбридже встрече разработчиков Debian обсуждался вопрос постепенного прекращения поддержки 32-разрядной архитектуры x86 (i386). Из планов отмечается прекращение формирования официальных установочных сборок и пакетов с ядром для 32-разрядных систем x86, но сохранение наличия репозитория пакетов и возможности развёртывания 32-разрядных окружений в изолированных контейнерах. Также планируется продолжить поставку multi-arch-репозитория и инструментария для обеспечения сборки 32-разрядных приложений и их запуска в 64-разрядном окружении x86_64. В случае утверждения плана, он может быть воплощён в ветке Debian 13 &amp;ldquo;Trixie&amp;rdquo;, намеченной на 2025 год.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 12.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-4-20231211-103605/</link>
+      <pubDate>Mon, 11 Dec 2023 10:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-4-20231211-103605/</guid>
+      <description>Сформировано корректирующее обновление дистрибутива Debian 12.4, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 94 обновления с устранением проблем со стабильностью и 65 обновлений с устранением уязвимостей. Выпуск Debian 12.3 решено пропустить из-за выявления на финальной стадии его подготовки ошибки в пакете с ядром kernel-image-6.1.0-14, которая может привести к повреждению данных в ФС Ext4.
+https://www.opennet.ru/opennews/art.shtml?num=60265</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Debian 12.3 отложен из-за проблемы, приводящей к повреждению ФС Ext4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-debian-12-3-otlozhen-iz-za-problemy-privodyaschey-k-povrezhdeniyu-fs-ext4-20231210-133538/</link>
+      <pubDate>Sun, 10 Dec 2023 13:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-debian-12-3-otlozhen-iz-za-problemy-privodyaschey-k-povrezhdeniyu-fs-ext4-20231210-133538/</guid>
+      <description>Разработчики проекта Debian объявили о приостановке публикации установочных образов с обновлением Debian 12.3 из-за выявления в ядре Linux ошибки, приводящей к повреждению данных в файловой системе Ext4. Пользователям уже установленных систем рекомендовано воздержаться от установки обновлений пакетов с ядром из репозитория до публикации исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60261</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Raspberry Pi OS, переведённый на Debian 12, PipeWire и Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</link>
+      <pubDate>Thu, 12 Oct 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-raspberry-pi-os-perevedennyy-na-debian-12-pipewire-i-wayland-20231012-143506/</guid>
+      <description>Разработчики проекта Raspberry Pi опубликовали новый значительный выпуск дистрибутива Raspberry Pi OS 2023-10-10 (Raspbian), основанного на пакетной базе Debian. Для загрузки подготовлены три сборки - сокращённая (435 МБ) для серверных систем, с базовым рабочим столом (1 ГБ) и полная с дополнительным набором приложений (2.7 ГБ). Для установки из репозиториев доступно около 35 тысяч пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=59914</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 12.2 и 11.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-2-i-11-8-20231008-003504/</link>
+      <pubDate>Sun, 08 Oct 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-2-i-11-8-20231008-003504/</guid>
+      <description>Сформировано второе корректирующее обновление дистрибутива Debian 12, в которое включены накопившиеся обновления пакетов и устранены недоработки в инсталляторе. Выпуск включает 117 обновлений с устранением проблем со стабильностью и 52 обновления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59887</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Linux Mint Debian Edition 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-6-20230927-183506/</link>
+      <pubDate>Wed, 27 Sep 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-linux-mint-debian-edition-6-20230927-183506/</guid>
+      <description>Спустя полтора года с момента прошлого выпуска опубликован релиз альтернативной сборки дистрибутива Linux Mint - Linux Mint Debian Edition 6, выполненной на основе пакетной базы Debian (классический Linux Mint базируется на пакетной базе Ubuntu). Дистрибутив доступен в виде установочных iso-образов с десктоп-окружением Cinnamon 5.8.
+https://www.opennet.ru/opennews/art.shtml?num=59832</description>
+    </item>
+    
+    <item>
+      <title>Debian прекращает поддержку архитектуры Mipsel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-arhitektury-mipsel-20230903-233542/</link>
+      <pubDate>Sun, 03 Sep 2023 23:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-arhitektury-mipsel-20230903-233542/</guid>
+      <description>Разработчики проекта Debian объявили об удалении порта для архитектуры mipsel из репозиториев unstable/experimental. Mipsel являлся одним из старейших поддерживаемых портов Debian, старше которого только порт для процессоров i386. Вероятно, что Debian 12 будет последним релизом с поддержкой mipsel. Изменение не касается архитектуры mips64, которая продолжает поддерживаться.
+https://www.opennet.ru/opennews/art.shtml?num=59709</description>
+    </item>
+    
+    <item>
+      <title>Для Debian и Ubuntu создан репозиторий с самыми свежими версиями ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-debian-i-ubuntu-sozdan-repozitoriy-s-samymi-svezhimi-versiyami-yadra-linux-20230825-143505/</link>
+      <pubDate>Fri, 25 Aug 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-debian-i-ubuntu-sozdan-repozitoriy-s-samymi-svezhimi-versiyami-yadra-linux-20230825-143505/</guid>
+      <description>Stéphane Graber, лидер проекта Linux Containers, член управляющего технического совета Ubuntu и участник команд, отвечающих за выпуск релизов Ubuntu объявил о создании репозитория Zabbly, в котором будут публиковаться пакеты со свежими выпусками ядра Linux для Debian и LTS-выпусков Ubuntu. Представленный репозиторий позволит использовать в Ubuntu более новые версии ядра, чем предлагаемые в пакетах, поставляемых через штатную систему обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=59662</description>
+    </item>
+    
+    <item>
+      <title>В Debian добавлена поддержка архитектуры LoongArch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-dobavlena-podderzhka-arhitektury-loongarch-20230816-233505/</link>
+      <pubDate>Wed, 16 Aug 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-dobavlena-podderzhka-arhitektury-loongarch-20230816-233505/</guid>
+      <description>Разработчики проекта Debian объявили о реализации порта &amp;ldquo;loong64&amp;rdquo; для систем на базе архитектуры набора команд LoongArch, применяемой в процессорах Loongson 3 5000 и реализующей RISC ISA, похожий на MIPS и RISC-V. Поддержка нового порта добавлена в сборочную инфраструктуру и официальный архив Debian. На текущем этапе интеграции на базе имеющейся в debian-ports пакетной базы для LoongArch собран набор из примерно 200 пакетов, который будет постепенно расширяться.
+https://www.opennet.ru/opennews/art.shtml?num=59617</description>
+    </item>
+    
+    <item>
+      <title>Debian GNU/Linux исполнилось 30 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-gnu-linux-ispolnilos-30-let-20230816-093505/</link>
+      <pubDate>Wed, 16 Aug 2023 09:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-gnu-linux-ispolnilos-30-let-20230816-093505/</guid>
+      <description>Проект Debian празднует своё тридцатилетие. Дистрибутив был впервые анонсирован Яном Мёрдоком (Ian Murdock) 16 августа 1993 года в списке рассылки comp.os.linux.development. Первичной задачей проекта была разработка дистрибутива, развиваемого в соответствии с духом полной открытости, свойственной Linux и GNU, а также стремление к техническому совершенству и надёжности.
+https://www.opennet.ru/opennews/art.shtml?num=59605</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Devuan 5.0, форка Debian 12 без systemd </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</link>
+      <pubDate>Tue, 15 Aug 2023 23:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-devuan-5-0-forka-debian-12-bez-systemd-20230815-233538/</guid>
+      <description>Представлен выпуск дистрибутива Devuan 5.0 &amp;ldquo;Daedalus&amp;rdquo;, форка Debian GNU/Linux, поставляемого без системного менеджера systemd. Новая ветка примечательна переходом на пакетную базу Debian 12 &amp;ldquo;Bullseye&amp;rdquo;. Для загрузки подготовлены Live-сборки и установочные iso-образы для архитектур i386, amd64, armel, armhf, arm64 и ppc64el.
+https://www.opennet.ru/opennews/art.shtml?num=59602</description>
+    </item>
+    
+    <item>
+      <title>В Debian реализована официальная поддержка архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-debian-realizovana-oficialnaya-podderzhka-arhitektury-risc-v-20230724-143509/</link>
+      <pubDate>Mon, 24 Jul 2023 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-debian-realizovana-oficialnaya-podderzhka-arhitektury-risc-v-20230724-143509/</guid>
+      <description>Разработчики проекта Debian объявили о придании статуса официального порта редакции дистрибутива для систем на базе 64-разрядной архитектуры RISC-V (riscv64). Пакеты для RISC-V доступны для установки из репозитория Debian Sid (Unstable). В настоящее время для систем RISC-V обеспечена сборка примерно 96% от общего числа исходных пакетов, присутствующих в репозиториях Debian.
+https://www.opennet.ru/opennews/art.shtml?num=59483</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 12.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-1-20230723-013506/</link>
+      <pubDate>Sun, 23 Jul 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-12-1-20230723-013506/</guid>
+      <description>Сформировано первое корректирующее обновление дистрибутива Debian 12, в которое включены обновления пакетов, выпущенные за месяц с момента релиза новой ветки, и устранены недоработки в инсталляторе. Выпуск включает 89 обновлений с устранением проблем со стабильностью и 26 обновлений с устранением уязвимостей. Из изменений в Debian 12.1 можно отметить обновление до свежих стабильных версий пакетов libreoffice, dbus, dpdk, gnome-control-center, gnome-maps, gnome-shell, gnome-software, mutter, nvidia-graphics-drivers, postfix, qemu, systemd.
+https://www.opennet.ru/opennews/art.shtml?num=59480</description>
+    </item>
+    
+    <item>
+      <title>Debian прекращает поддержку порта GNU/kFreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</link>
+      <pubDate>Sat, 15 Jul 2023 06:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-prekraschaet-podderzhku-porta-gnu-kfreebsd-20230715-063543/</guid>
+      <description>Порты kfreebsd-amd64 и kfreebsd-i386 удалены из архива портов Debian (debian-ports). Тем не менее, пакеты GNU/kFreeBSD ещё можно.
+https://www.opennet.ru/opennews/art.shtml?num=59441</description>
+    </item>
+    
+    <item>
+      <title>Сформирован выпуск Linux-дистрибутива Peppermint OS на базе Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</link>
+      <pubDate>Sun, 02 Jul 2023 11:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-vypusk-linux-distributiva-peppermint-os-na-baze-debian-20230702-113503/</guid>
+      <description>Объявлено о релизе Linux-дистрибутива Peppermint OS, построенном на основе пакетной базы Debian GNU/Linux (изначально Peppermint OS основывался на Ubuntu, но потом перешёл на Debian). В ближайшее время также планируется сформировать сборки на основе Devuan, поставляемые без системного менеджера systemd. Дистрибутив предлагает пользовательское окружение на основе рабочего стола Xfce и файлового менеджера Thunar. Особенностью дистрибутива является ориентация на создание гибридного окружения, в котором локально установленные программы сосуществуют с web-приложениями, открываемыми в отдельных окнах без элементов интерфейса браузера (например, с Gmail можно работать как с обычным приложением).</description>
+    </item>
+    
+    <item>
+      <title>Релиз Debian GNU/Hurd 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-debian-gnu-hurd-2023-20230612-203507/</link>
+      <pubDate>Mon, 12 Jun 2023 20:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-debian-gnu-hurd-2023-20230612-203507/</guid>
+      <description>Представлен выпуск дистрибутива Debian GNU/Hurd 2023, сочетающего программное окружение Debian c ядром GNU/Hurd. Репозиторий Debian GNU/Hurd включает примерно 65% пакетов от общего размера архива Debian, в том числе портированы Firefox и Xfce. Установочные сборки сформированы (364МБ) только для архитектуры i386. Для ознакомления с дистрибутивом без установки подготовлены готовые образы (4.9ГБ) для виртуальных машин.
+https://www.opennet.ru/opennews/art.shtml?num=59282</description>
+    </item>
+    
+    <item>
+      <title>Релиз Debian 12 Bookworm</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-debian-12-bookworm-20230610-173503/</link>
+      <pubDate>Sat, 10 Jun 2023 17:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-debian-12-bookworm-20230610-173503/</guid>
+      <description>После почти двух лет разработки состоялся релиз Debian GNU/Linux 12.0 (Bookworm), доступный для девяти официально поддерживаемых архитектур: Intel IA-32/x86 (i686), AMD64/x86-64, ARM EABI (armel), ARM64, ARMv7 (armhf), mipsel, mips64el, PowerPC 64 (ppc64el) и IBM System z (s390x). Обновления для Debian 12 будут выпускаться в течение 5 лет.
+https://www.opennet.ru/opennews/art.shtml?num=59273</description>
+    </item>
+    
+    <item>
+      <title>Обновление Debian 11.7 и второй кандидат в релизы инсталлятора Debian 12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-7-i-vtoroy-kandidat-v-relizy-installyatora-debian-12-20230429-223506/</link>
+      <pubDate>Sat, 29 Apr 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-debian-11-7-i-vtoroy-kandidat-v-relizy-installyatora-debian-12-20230429-223506/</guid>
+      <description>Опубликовано седьмое корректирующее обновление дистрибутива Debian 11, в которое включены накопившиеся обновления пакетов и устранены недоработки в инсталляторе. Выпуск включает 92 обновления с устранением проблем со стабильностью и 102 обновления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59050</description>
+    </item>
+    
+    <item>
+      <title>Джонатан Картер в четвёртый раз переизбран на пост лидера проекта Debian</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dzhonatan-karter-v-chetvertyy-raz-pereizbran-na-post-lidera-proekta-debian-20230425-123506/</link>
+      <pubDate>Tue, 25 Apr 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dzhonatan-karter-v-chetvertyy-raz-pereizbran-na-post-lidera-proekta-debian-20230425-123506/</guid>
+      <description>Объявлены результаты ежегодных выборов лидера проекта Debian. Победу одержал Джонатан Картер (Jonathan Carter), который был переизбран на четвёртый срок. В голосовании приняли участие 274 разработчика, что составляет 28% от всех участников, имеющих право голоса, что является минимальным за всю историю проекта (в прошлом году явка составила 34%, в позапрошлом 44%, исторический максимум - 62%). В этом году выборы были примечательны тем, что на них был выставлен только один кандидат, что свело голосование к выбору между &amp;ldquo;за&amp;rdquo; и &amp;ldquo;против&amp;rdquo; (за проголосовало 259, против - 15).</description>
+    </item>
+    
+    <item>
+      <title>Debian 9 Stretch перемещён в архив </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-9-stretch-peremeschen-v-arhiv-20230327-233504/</link>
+      <pubDate>Mon, 27 Mar 2023 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-9-stretch-peremeschen-v-arhiv-20230327-233504/</guid>
+      <description>Репозитории Debian 9 (Stretch) перемещены в archive.debian.org, после чего дистрибутив скоро перестанет быть доступным через основную сеть зеркал. Удаление Debian 9 из основного архива запланировано на 23 апреля.
+https://www.opennet.ru/opennews/art.shtml?num=58877</description>
+    </item>
+    
+    <item>
+      <title>Debian 12 перешёл на стадию жёсткой заморозки перед релизом </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-12-pereshel-na-stadiyu-zhestkoy-zamorozki-pered-relizom-20230317-173502/</link>
+      <pubDate>Fri, 17 Mar 2023 17:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-12-pereshel-na-stadiyu-zhestkoy-zamorozki-pered-relizom-20230317-173502/</guid>
+      <description>Разработчики Debian сообщили о переводе Debian 12 на стадию жёсткой заморозки перед релизом, при которой процесс переноса ключевых пакетов и пакетов без autopkgtests из unstable в testing полностью остановлен и начался этап интенсивного тестирования и исправления блокирующих релиз проблем. Стадия жёсткой заморозки рассматривается как необходимый промежуточный этап перед полной заморозкой, охватывающей все пакеты. Полная заморозка будет произведена за несколько недель до релиза, точная дата которого пока не определена.
+https://www.opennet.ru/opennews/art.shtml?num=58810</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DTrace on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dtrace/</link>
+    <description>Recent content in DTrace on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 14:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dtrace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Gentoo Linux реализована поддержка DTrace 2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gentoo-linux-realizovana-podderzhka-dtrace-2-0-20241027-143541/</link>
+      <pubDate>Sun, 27 Oct 2024 14:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gentoo-linux-realizovana-podderzhka-dtrace-2-0-20241027-143541/</guid>
+      <description>Разработчики проекта Gentoo объявили о реализации в дистрибутиве поддержки инструментария DTrace 2.0 для динамической трассировки ядра и приложений в пространстве пользователя, а также для отслеживания поведения системы и диагностики проблем в режиме реального времени с минимальным влиянием на производительность. Особенностью ветки DTrace 2.0 является работа c использованием подсистемы eBPF и штатных механизмов трассировки ядра, не требующая загрузки в ядро специального модуля.
+https://www.opennet.ru/opennews/art.shtml?num=62116</description>
+    </item>
+    
+    <item>
+      <title>Компания Oracle опубликовала DTrace для Linux 2.0.0-1.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-dtrace-dlya-linux-2-0-0-1-14-20240412-003536/</link>
+      <pubDate>Fri, 12 Apr 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-oracle-opublikovala-dtrace-dlya-linux-2-0-0-1-14-20240412-003536/</guid>
+      <description>Представлен экспериментальный выпуск инструментария динамической отладки DTrace для Linux 2.0.0-1.14, реализованный в виде работающего в пространстве пользователя процесса, использующего подсистему eBPF и штатные механизмы трассировки, предоставляемых ядром Linux. По функциональности реализация DTrace на базе eBPF близка к первой реализации DTrace для Linux, выполненной в форме модуля ядра. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=60973</description>
+    </item>
+    
+  </channel>
+</rss>

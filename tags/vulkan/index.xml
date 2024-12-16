@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vulkan on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vulkan/</link>
+    <description>Recent content in Vulkan on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 14:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован эмулятор QEMU 9.2.0 с поддержкой Rust и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-emulyator-qemu-9-2-0-s-podderzhkoy-rust-i-vulkan-20241212-143505/</link>
+      <pubDate>Thu, 12 Dec 2024 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-emulyator-qemu-9-2-0-s-podderzhkoy-rust-i-vulkan-20241212-143505/</guid>
+      <description>Представлен релиз проекта QEMU 9.2. В качестве эмулятора QEMU позволяет запустить программу, собранную для одной аппаратной платформы на системе с совершенно иной архитектурой, например, выполнить приложение для ARM на x86-совместимом ПК. В режиме виртуализации в QEMU производительность выполнения кода в изолированном окружении близка к аппаратной системе за счёт прямого выполнения инструкций на CPU и задействования гипервизора Xen или модуля KVM в Linux, или модуля NVMM в NetBSD.
+https://www.opennet.ru/opennews/art.shtml?num=62390</description>
+    </item>
+    
+    <item>
+      <title>Опубликован графический стандарт Vulkan 1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-4-20241203-013559/</link>
+      <pubDate>Tue, 03 Dec 2024 01:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-graficheskiy-standart-vulkan-1-4-20241203-013559/</guid>
+      <description>После почти трёх лет работы консорциум Khronos, занимающийся разработкой графических стандартов, опубликовал спецификацию Vulkan 1.4, определяющую API для доступа к графическим и вычислительным возможностям GPU. Новая спецификация вобрала в себя накопившиеся расширения, которые ранее позиционировались как опциональные, а также предоставила ряд новых возможностей и повысила минимальные требования к оборудованию. Инструментарий Vulkan SDK планируют опубликовать в январе 2025 года.
+https://www.opennet.ru/opennews/art.shtml?num=62331</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.3, свободной реализации OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-3-svobodnoy-realizacii-opengl-i-vulkan-20241122-193530/</link>
+      <pubDate>Fri, 22 Nov 2024 19:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-3-svobodnoy-realizacii-opengl-i-vulkan-20241122-193530/</guid>
+      <description>После трёх месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.3.0. Первый выпуск ветки Mesa 24.3.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.3.1.
+https://www.opennet.ru/opennews/art.shtml?num=62277</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.5, реализации Direct3D 8/9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-5-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20241113-183541/</link>
+      <pubDate>Wed, 13 Nov 2024 18:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-5-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20241113-183541/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.5, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 24.0, NVIDIA 535.183.01, Intel ANV 24.0, AMDVLK 2024.Q1.3, AMDGPU-PRO и NVK 24.1. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>В Mesa-драйвере RADV сертифицирована поддержка Vulkan 1.3 для старых GPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</link>
+      <pubDate>Fri, 08 Nov 2024 16:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-sertificirovana-podderzhka-vulkan-1-3-dlya-staryh-gpu-amd-20241108-163542/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость развиваемого проектом Mesa открытого драйвера RADV со спецификацией Vulkan 1.3. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.
+https://www.opennet.ru/opennews/art.shtml?num=62197</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.4.1, реализации Direct3D поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-1-realizacii-direct3d-poverh-api-vulkan-20240927-223518/</link>
+      <pubDate>Fri, 27 Sep 2024 22:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-1-realizacii-direct3d-poverh-api-vulkan-20240927-223518/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.4.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>В Vulkan-драйвер PanVK добавлена поддержка GPU ARM на базе архитектуры V10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</link>
+      <pubDate>Wed, 18 Sep 2024 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-vulkan-drayver-panvk-dobavlena-podderzhka-gpu-arm-na-baze-arhitektury-v10-20240918-223506/</guid>
+      <description>Компания Collabora объявила о реализации поддержки GPU ARM Mali на базе микроархитектуры V10 в драйвере PanVK, обеспечивающем поддержку графического API Vulkan. Изменения, которые уже приняты в основную ветку проекта Mesa, позволяют использовать открытые драйверы на системах с GPU ARM Mali-G610 и Mali-G310. Тем не менее, отмечается, что поддержка ещё достаточно сырая, так как сам драйвер PanVK и добавленный для ARM V10 код не признаны готовыми для повсеместного использования (некоторые приложения могут не запускаться), а также ограничены поддержкой версии Vulkan 1.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.2, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-2-svobodnoy-realizacii-opengl-i-vulkan-20240815-123532/</link>
+      <pubDate>Thu, 15 Aug 2024 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-2-svobodnoy-realizacii-opengl-i-vulkan-20240815-123532/</guid>
+      <description>После трёх месяцев разработки опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.2.0. Первый выпуск ветки Mesa 24.2.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.2.1.
+https://www.opennet.ru/opennews/art.shtml?num=61705</description>
+    </item>
+    
+    <item>
+      <title>Выпуск графической библиотеки IGL 1.0, абстрагирующей работу с OpenGL, Metal, Vulkan и WebGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</link>
+      <pubDate>Thu, 11 Jul 2024 22:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-graficheskoy-biblioteki-igl-1-0-abstragiruyuschey-rabotu-s-opengl-metal-vulkan-i-we-20240711-223538/</guid>
+      <description>Компания Meta* опубликовала релиз графической библиотеки IGL 1.0 (Intermediate Graphics Library), предоставляющей универсальный низкоуровневый API для управления GPU. Предложенный API охватывает типовую функциональность GPU и позволяет создавать кросс-платформенные приложения, способные работать поверх графических API OpenGL, Metal и Vulkan на системах с Android, iOS, Linux, macOS и Windows, а также использовать WebGL для отрисовки в Web при компиляции приложения в промежуточный код WebAssembly. Код IGL написан на языке С++ и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.4, реализации Direct3D 8/9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20240710-223512/</link>
+      <pubDate>Wed, 10 Jul 2024 22:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20240710-223512/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.4, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Представлен новый видеодрайвер для чипа Apple M1, поддерживающий Vulkan 1.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-novyy-videodrayver-dlya-chipa-apple-m1-podderzhivayuschiy-vulkan-1-3-20240605-233550/</link>
+      <pubDate>Wed, 05 Jun 2024 23:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-novyy-videodrayver-dlya-chipa-apple-m1-podderzhivayuschiy-vulkan-1-3-20240605-233550/</guid>
+      <description>Алиса Розенцвейг (Alyssa Rosenzweig) из компании Collabora, развивающая OpenGL-драйверы Panfrost для GPU Mali и Asahi для GPU Apple AGX, представила новый Vulkan-драйвер Honeykrisp для графического процессора, поставляемого в чипах Apple M1. Несмотря на то, что драйвер разрабатывается всего месяц, он уже признан консорциумом Khronos, как полностью реализующий спецификацию Vulkan 1.3 на оборудовании Apple c чипом M1. Honeykrisp стал первым драйвером для чипов Apple, имеющим сертифицированную поддержку графического API Vulkan.
+https://www.opennet.ru/opennews/art.shtml?num=61318</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-1-svobodnoy-realizacii-opengl-i-vulkan-20240523-023549/</link>
+      <pubDate>Thu, 23 May 2024 02:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-1-svobodnoy-realizacii-opengl-i-vulkan-20240523-023549/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.1.0. Первый выпуск ветки Mesa 24.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=61232</description>
+    </item>
+    
+    <item>
+      <title>Новые версии DXVK 2.3.1 и vkd3d-proton 2.12 c реализацией Direct3D поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</link>
+      <pubDate>Thu, 21 Mar 2024 13:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.3.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Доступен графический тулкит GTK 4.14 с новыми движками для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</link>
+      <pubDate>Wed, 13 Mar 2024 02:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-graficheskiy-tulkit-gtk-4-14-s-novymi-dvizhkami-dlya-opengl-i-vulkan-20240313-023549/</guid>
+      <description>После семи месяцев разработки опубликован релиз многоплатформенного тулкита для создания графического интерфейса пользователя - GTK 4.14.0. GTK 4 развивается в рамках нового процесса разработки, который пытается предоставить разработчикам приложений стабильный и поддерживаемый в течение нескольких лет API, который можно использовать не опасаясь, что каждые полгода придётся переделывать приложения из-за изменения API в очередной ветке GTK.
+https://www.opennet.ru/opennews/art.shtml?num=60778</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 24.0, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</link>
+      <pubDate>Fri, 02 Feb 2024 00:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-24-0-svobodnoy-realizacii-opengl-i-vulkan-20240202-003537/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 24.0.0. Первый выпуск ветки Mesa 24.0.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 24.0.1.
+https://www.opennet.ru/opennews/art.shtml?num=60537</description>
+    </item>
+    
+    <item>
+      <title>Для GTK подготовлены новые движки отрисовки для OpenGL и Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</link>
+      <pubDate>Mon, 29 Jan 2024 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-gtk-podgotovleny-novye-dvizhki-otrisovki-dlya-opengl-i-vulkan-20240129-143555/</guid>
+      <description>Разработчики библиотеки GTK объявили о готовности двух новых движков отрисовки - &amp;ldquo;ngl&amp;rdquo; и &amp;ldquo;vulkan&amp;rdquo;, использующих графические API OpenGL (GL 3.3+ и GLES 3.0+) и Vulkan. Новые движки включены в состав экспериментального выпуска GTK 4.13.6. В экспериментальной ветки GTK движок ngl теперь используется по умолчанию, но в случае выявления значительных проблем в следующей стабильной ветке 4.14 будет возвращён старый движок отрисовки &amp;ldquo;gl&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=60515</description>
+    </item>
+    
+    <item>
+      <title>Доступен Vcc, C/C&#43;&#43; компилятор для Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-vcc-c-c-kompilyator-dlya-vulkan-20240110-123513/</link>
+      <pubDate>Wed, 10 Jan 2024 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-vcc-c-c-kompilyator-dlya-vulkan-20240110-123513/</guid>
+      <description>После трёх лет разработки представлен исследовательский проект Vcc (Vulkan Clang Compiler), нацеленный на создание компилятора, способного транслировать код на языке С++ в представление, выполняемое на GPU, поддерживающих графический API Vulkan. В отличие от моделей программирования GPU на базе языков шейдеров GLSL и HLSL в Vcc развивается идея полного отказа от использования отдельных языков шейдеров и предоставляется возможность прямой компиляции кода C/C++ для Vulkan. Наработки проекта распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60413</description>
+    </item>
+    
+    <item>
+      <title>В Mesa-драйвере radv реализована поддержка расширений Vulkan для кодирования видео h.265</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</link>
+      <pubDate>Tue, 19 Dec 2023 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-drayvere-radv-realizovana-podderzhka-rasshireniy-vulkan-dlya-kodirovaniya-video-h-2-20231219-113602/</guid>
+      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, сообщил о реализации в radv, поставляемом в Mesa Vulkan-драйвере для GPU AMD, возможности использования Vulkan-расширений для аппаратного ускорения кодирования видео. Для формата видео h.265 реализация уже успешно проходит все тесты CTS (Compatibility Test Suite), а для формата h.264 остаётся один непройденный тест. Кроме того, сообщается о добавлении в FFmpeg начальной поддержки использования Vulkan для кодирования видео в форматах h.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.3, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</link>
+      <pubDate>Fri, 01 Dec 2023 00:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-3-svobodnoy-realizacii-opengl-i-vulkan-20231201-003515/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.3.0. Первый выпуск ветки Mesa 23.3.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.3.1.
+https://www.opennet.ru/opennews/art.shtml?num=60210</description>
+    </item>
+    
+    <item>
+      <title>В NVK, открытом драйвере для видеокарт NVIDIA, обеспечена поддержка Vulkan 1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-nvk-otkrytom-drayvere-dlya-videokart-nvidia-obespechena-podderzhka-vulkan-1-0-20231121-003512/</link>
+      <pubDate>Tue, 21 Nov 2023 00:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-nvk-otkrytom-drayvere-dlya-videokart-nvidia-obespechena-podderzhka-vulkan-1-0-20231121-003512/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера NVK для видеокарт NVIDIA со спецификацией Vulkan 1.0. Драйвер успешно прошёл все тесты из набора CTS (Kronos Conformance Test Suite) и включён в список сертифицированных драйверов. Сертификация пройдена для GPU NVIDIA на базе микроархитектуры Turing (TITAN RTX, GeForce RTX 2060/2070/2080, GeForce GTX 1660, Quadro RTX 3000-8000, Quadro T1000/T2000). Проверка была выполнена в окружении с ядром Linux 6.5, X.Org X Server 1.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.3, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230905-133505/</link>
+      <pubDate>Tue, 05 Sep 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230905-133505/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.3, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>В Mesa принят код NVK, открытого Vulkan-драйвера для видеокарт NVIDIA </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</link>
+      <pubDate>Sat, 05 Aug 2023 10:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-mesa-prinyat-kod-nvk-otkrytogo-vulkan-drayvera-dlya-videokart-nvidia-20230805-103508/</guid>
+      <description>В основную ветку проекта Mesa принят код NVK, открытого драйвера с реализацией графического API Vulkan для видеокарт NVIDIA. Драйвер создан командой, в которую входят Карол Хербст (Karol Herbst, разработчик Nouveau из Red Hat), Дэвид Эйрли (David Airlie, мэйнтейнер подсистемы DRM из Red Hat) и Джейсон Экстранд (Jason Ekstrand, активный разработчик Mesa из Collabora).
+https://www.opennet.ru/opennews/art.shtml?num=59555</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.2, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230512-183506/</link>
+      <pubDate>Fri, 12 May 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230512-183506/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.2, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Первый стабильный выпуск D8VK, реализации Direct3D 8 поверх Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-d8vk-realizacii-direct3d-8-poverh-vulkan-20230512-173506/</link>
+      <pubDate>Fri, 12 May 2023 17:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-d8vk-realizacii-direct3d-8-poverh-vulkan-20230512-173506/</guid>
+      <description>Увидел свет выпуск проекта D8VK 1.0, предлагающего реализацию графического API Direct3D 8, работающую через трансляцию вызовов в API Vulkan и позволяющую при помощи Wine или Proton запускать в Linux разработанные для Windows 3D-приложения и игры, завязанные на API Direct3D 8. Код проекта написан на языке C++ и распространяется под лицензией Zlib. В качестве основы при разработке использована кодовая база проекта DXVK с реализацией Direct3D 9, 10 и 11 поверх Vulkan.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Mesa 23.1, свободной реализации OpenGL и Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</link>
+      <pubDate>Fri, 12 May 2023 00:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-mesa-23-1-svobodnoy-realizacii-opengl-i-vulkan-20230512-003506/</guid>
+      <description>Опубликован релиз свободной реализации API OpenGL и Vulkan - Mesa 23.1.0. Первый выпуск ветки Mesa 23.1.0 имеет экспериментальный статус - после проведения окончательной стабилизации кода будет выпущена стабильная версия 23.1.1.
+https://www.opennet.ru/opennews/art.shtml?num=59122</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>C | iHADtoinstalllinux</title>
+<meta name="keywords" content="" />
+<meta name="description" content="">
+<meta name="author" content="ihadtoinstalllinux">
+<link rel="canonical" href="https://ihadtoinstalllinux.github.io/tags/c/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
+<link rel="preload" href="apple-touch-icon.png" as="image">
+<link rel="icon" href="https://ihadtoinstalllinux.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ihadtoinstalllinux.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ihadtoinstalllinux.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ihadtoinstalllinux.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ihadtoinstalllinux.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://ihadtoinstalllinux.github.io/tags/c/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="C" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ihadtoinstalllinux.github.io/tags/c/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="C"/>
+<meta name="twitter:description" content=""/>
+
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ihadtoinstalllinux.github.io/" accesskey="h" title="iHADtoinstalllinux (Alt + H)">
+                <img src="https://ihadtoinstalllinux.github.io/apple-touch-icon.png" alt="logo" aria-label="logo"
+                    height=" 30px">iHADtoinstalllinux</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ihadtoinstalllinux.github.io/posts/about/" title="About Us">
+                    <span>About Us</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/tags/">Tags</a></div>
+  <h1>C</h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>В Arch Linux улучшили совместимость c Windows-играми, запускаемыми в Wine и Steam
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Разработчики Arch Linux объявили о внесении изменения, нацеленного на улучшение совместимости c Windows-играми, запускаемыми через Wine или Steam (используется Proton). По аналогии с изменением в выпуске Fedora 39, параметр sysctl vm.max_map_count, определяющий максимально доступное процессу число областей маппинга памяти, по умолчанию увеличен с 65530 до 1048576. Изменение включено в состав пакета filesystem 2024.04.07-1.
+https://www.opennet.ru/opennews/art.shtml?num=60950</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-04-11 02:35:54 +0500 +05'>April 11, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В Arch Linux улучшили совместимость c Windows-играми, запускаемыми в Wine и Steam" href="https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>Новые версии DXVK 2.3.1 и vkd3d-proton 2.12 c реализацией Direct3D поверх API Vulkan 
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Доступен выпуск прослойки DXVK 2.3.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-03-21 13:35:47 +0500 +05'>March 21, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Новые версии DXVK 2.3.1 и vkd3d-proton 2.12 c реализацией Direct3D поверх API Vulkan " href="https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>Подтверждена совместимость программы для ЭВМ «ГРАНД-Смета» и аппаратного ключа Guardant Code c ОС РОСА Кобальт
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Компании «Актив», МГК «Гранд» и РОСА подтвердили совместимость и корректность работы программы «ГРАНД-Смета» (версия 2023.2, Linux) и аппаратного ключа Guardant Code с операционной системой РОСА Кобальт 7.9 Рабочая станция. МГК «Гранд» использует практически всю линейку ключей Guardant для защиты от нелегального копирования и использования своих программных продуктов – Guardant Sign, Guardant Code, включая модели с […]
+https://rosa.ru/podtverzhdena-sovmestimost-programmy-dlya-evm-grand-smeta-i-apparatnogo-klyucha-guardant-code-c-os-rosa-kobalt/</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-02-27 21:36:32 +0500 +05'>February 27, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Подтверждена совместимость программы для ЭВМ «ГРАНД-Смета» и аппаратного ключа Guardant Code c ОС РОСА Кобальт" href="https://ihadtoinstalllinux.github.io/posts/podtverzhdena-sovmestimost-programmy-dlya-evm-grand-smeta-i-apparatnogo-klyucha-guardant-c-20240227-213632/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>Выпуск Ubuntu 22.04.4 LTS c обновлением графического стека и ядра Linux
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Сформировано обновление дистрибутива Ubuntu 22.04.4 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.4 LTS, Kubuntu 22.04.4 LTS, Ubuntu MATE 22.04.4 LTS, Ubuntu Studio 22.04.4 LTS, Lubuntu 22.04.4 LTS, Ubuntu Kylin 22....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-02-23 04:35:42 +0500 +05'>February 23, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Выпуск Ubuntu 22.04.4 LTS c обновлением графического стека и ядра Linux" href="https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>Microsoft наймёт разработчиков для переписывания сервисов с C# на Rust
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Судя по опубликованной вакансии архитектора компания Microsoft намерена переписать с использованием языка Rust ключевые сервисы Microsoft 365, изначально написанные на языке C#. В объявлении упоминается создание новой команды разработчиков, которая будет заниматься внедрением Rust и его использованием качестве основы для модернизации глобально масштабируемых сервисов. Ранее компания Microsoft задействовала язык Rust для разработки компонентов ядра Windows 11.
+https://www.opennet.ru/opennews/art.shtml?num=60533</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-02-01 11:35:37 +0500 +05'>February 1, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Microsoft наймёт разработчиков для переписывания сервисов с C# на Rust" href="https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ihadtoinstalllinux.github.io/tags/c/page/2/">« Prev Page</a>
+    <a class="next" href="https://ihadtoinstalllinux.github.io/tags/c/page/4/">Next Page »</a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="https://ihadtoinstalllinux.github.io/">iHADtoinstalllinux</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

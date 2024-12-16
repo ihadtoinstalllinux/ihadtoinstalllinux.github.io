@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FuryGpu on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/furygpu/</link>
+    <description>Recent content in FuryGpu on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 12:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/furygpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект FuryGpu развивает GPU на базе FPGA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-furygpu-razvivaet-gpu-na-baze-fpga-20240329-123535/</link>
+      <pubDate>Fri, 29 Mar 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-furygpu-razvivaet-gpu-na-baze-fpga-20240329-123535/</guid>
+      <description>Представлен рабочий прототип проекта FuryGpu, развивающего самодельный GPU на основе FPGA Xilinx Zynq UltraScale+, оформленный в виде отдельной платы, подключаемой к ПК через интерфейс PCIe. Описания аппаратных блоков реализованы на языке SystemVerilog, а проект платы подготовлен в свободной системе автоматизированного проектирования печатных плат KiCAD. В текущем виде GPU FuryGpu уже позволяет запустить игру Quake с производительностью отрисовки 60 FPS при разрешении 1280 x 720.
+https://www.opennet.ru/opennews/art.shtml?num=60873</description>
+    </item>
+    
+  </channel>
+</rss>

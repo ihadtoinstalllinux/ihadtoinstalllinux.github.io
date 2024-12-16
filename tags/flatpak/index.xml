@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Flatpak on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flatpak/</link>
+    <description>Recent content in Flatpak on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2024 13:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Fedora 42 намерены реализовать телеметрию и изменить модель доступа к дискам и flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</link>
+      <pubDate>Tue, 02 Jul 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</guid>
+      <description>В выпуск Fedora Workstation 42, намеченный на весну следующего года, предложено добавить компоненты для сбора и отправки метрик, которые позволят изучить реальные предпочтения пользователей и учесть их при принятии решений, связанных с развитием дистрибутива, определением приоритетов в разработке и повышением удобства работы пользователей. Предложение пока находится на стадии обсуждения и не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=61478</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость во flatpak, позволяющая обойти  sandbox-изоляцию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</link>
+      <pubDate>Fri, 19 Apr 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</guid>
+      <description>В инструментарии Flatpak, предназначенном для создания самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и изолированных от остальной системы, выявлена уязвимость (CVE-2024-32462). Уязвимость позволяет вредоносному или скомпрометированному приложению, поставляемому в пакете flatpak, обойти установленный режим sandbox-изоляции и получить доступ к файлам в основной системе. Проблема проявляется только в пакетах, использующих порталы Freedesktop (xdg-desktop-portal), применяемые для организации доступа к ресурсам пользовательского окружения из изолированных приложений. Уязвимость устранена в корректирующих обновлениях flatpak 1.</description>
+    </item>
+    
+    <item>
+      <title>unsnap - инструментарий для миграции Ubuntu со Snap на Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</link>
+      <pubDate>Sun, 02 Jul 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</guid>
+      <description>Проект unsnap развивает утилиту для перевода систем на базе Ubuntu с использования пакетов snap на пакеты в формате flatpak. Утилита не только заменяет пакетный менеджер snap на flatpak, но также подбирает и устанавливает flatpak-аналоги для уже установленных в системе snap-пакетов. В идеальном случае пользователь может получить полностью аналогичный набор приложений, но установленный в формате flatpak. Код написан на shell и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59366</description>
+    </item>
+    
+    <item>
+      <title>Обновление Flatpak с устранением двух уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-flatpak-s-ustraneniem-dvuh-uyazvimostey-20230320-133506/</link>
+      <pubDate>Mon, 20 Mar 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-flatpak-s-ustraneniem-dvuh-uyazvimostey-20230320-133506/</guid>
+      <description>Доступны корректирующие обновления инструментарии для создания самодостаточных пакетов Flatpak 1.14.4, 1.12.8, 1.10.8 и 1.15.4 в которых устранены две уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=58825</description>
+    </item>
+    
+  </channel>
+</rss>

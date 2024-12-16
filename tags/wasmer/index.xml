@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wasmer on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wasmer/</link>
+    <description>Recent content in Wasmer on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 11:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wasmer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен Wasmer 5.0, инструментарий для создания приложений на базе WebAssembly</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-wasmer-5-0-instrumentariy-dlya-sozdaniya-prilozheniy-na-baze-webassembly-20241030-113540/</link>
+      <pubDate>Wed, 30 Oct 2024 11:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-wasmer-5-0-instrumentariy-dlya-sozdaniya-prilozheniy-na-baze-webassembly-20241030-113540/</guid>
+      <description>Представлен выпуск проекта Wasmer 5.0, развивающего runtime для выполнения модулей WebAssembly, который можно использовать для создания универсальных приложений, способных выполняться в разных операционных системах. Wasmer также можно применять для изолированного выполнения не заслуживающих доверия блоков кода в составе обычных приложений. Код проекта написан на языке Rust и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62137</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Wasmer 4.0, инструментарий для создания приложений на базе WebAssembly </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-wasmer-4-0-instrumentariy-dlya-sozdaniya-prilozheniy-na-baze-webassembly-20230628-013506/</link>
+      <pubDate>Wed, 28 Jun 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-wasmer-4-0-instrumentariy-dlya-sozdaniya-prilozheniy-na-baze-webassembly-20230628-013506/</guid>
+      <description>Доступен выпуск проекта Wasmer 4.0, развивающего runtime для выполнения модулей WebAssembly, который можно использовать для создания универсальных приложений, способных выполняться в разных операционных системах, а также для изолированного выполнения кода, не заслуживающего доверия. Код проекта написан на языке Rust и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59350</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PiDP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pidp/</link>
+    <description>Recent content in PiDP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 20:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pidp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект PiDP-10 развивает клон мэйнфрейма PDP-10 на базе платы Raspberry Pi 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</link>
+      <pubDate>Thu, 14 Mar 2024 20:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-pidp-10-razvivaet-klon-meynfreyma-pdp-10-na-baze-platy-raspberry-pi-5-20240314-203556/</guid>
+      <description>Энтузиасты ретрокомпьютеров опубликовали проект PiDP-10, нацеленный на создание рабочей реконструкции мэйнфрейма DEC PDP-10 KA10 , образца 1968 года. Для устройства изготовлен новый пластиковый корпус управляющей панели, оснащённый 124 ламповыми индикаторами и 74 переключателями. Вычислительные составляющие и программное окружение воссозданы при помощи платы Raspberry Pi 5 с дистрибутивом Raspberry Pi OS, основанным на Debian, и инструментария SIMH, который поддерживает полную симуляцию PDP-10, включая воспроизведение известных ошибок.
+https://www.opennet.ru/opennews/art.shtml?num=60785</description>
+    </item>
+    
+  </channel>
+</rss>

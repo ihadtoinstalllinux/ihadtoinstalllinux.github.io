@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CPython on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cpython/</link>
+    <description>Recent content in CPython on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован план избавления CPython от глобальной блокировки интерпретатора</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-izbavleniya-cpython-ot-globalnoy-blokirovki-interpretatora-20230729-143506/</link>
+      <pubDate>Sat, 29 Jul 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-plan-izbavleniya-cpython-ot-globalnoy-blokirovki-interpretatora-20230729-143506/</guid>
+      <description>Руководящий совет проекта Python объявил о намерении утвердить предложение по расширению языка Python PEP-0703, в котором определяется добавление режима сборки CPython без глобальной блокировки интерпретатора (GIL, Global Interpreter Lock). В качестве вероятного срока реализации PEP-0703 упоминается выпуск Python 3.13, намеченный на осень следующего года.
+https://www.opennet.ru/opennews/art.shtml?num=59518</description>
+    </item>
+    
+  </channel>
+</rss>
