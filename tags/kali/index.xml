@@ -6,7 +6,16 @@
     <description>Recent content in Kali on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 02:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kali/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 19:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива для исследования безопасности Kali Linux 2024.4 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2024-4-20241218-193532/</link>
+      <pubDate>Wed, 18 Dec 2024 19:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2024-4-20241218-193532/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2024.4, основанного на пакетной базе Debian и предназначенного для тестирования систем на наличие уязвимостей, проведения аудита безопасности, анализа остаточной информации и выявления последствий атак. Все оригинальные наработки, созданные для дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены iso-образы размером 600 МБ и 4.1 ГБ. Сборки доступны для архитектур x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid). Hа выбор предоставляются рабочие столы Xfce, KDE и GNOME.</description>
+    </item>
+    
     <item>
       <title>Опубликован дистрибутив для исследования безопасности Kali Linux 2024.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-dlya-issledovaniya-bezopasnosti-kali-linux-2024-2-20240606-023553/</link>
