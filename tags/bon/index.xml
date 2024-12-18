@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BoN on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bon/</link>
+    <description>Recent content in BoN on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2024 01:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован BoN, метод обхода фильтров больших языковых моделей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-bon-metod-obhoda-filtrov-bolshih-yazykovyh-modeley-20241219-013516/</link>
+      <pubDate>Thu, 19 Dec 2024 01:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-bon-metod-obhoda-filtrov-bolshih-yazykovyh-modeley-20241219-013516/</guid>
+      <description>Выявлен новый метод атаки, позволяющий обойти механизмы противодействия генерации опасного контента, применяемые в AI-сервисах на основе больших языковых моделей. Метод, который получил кодовое имя BoN (Best-of-N), при тестировании на 10 тысячах запросов позволил обойти ограничения модели GPT-4o в 89% случаев, модели Claude 3.5 Sonnet - в 78%, а Gemini Pro - в 50%. Инструментарий для проведения атаки опубликован под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62433</description>
+    </item>
+    
+  </channel>
+</rss>
