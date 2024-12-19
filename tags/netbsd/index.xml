@@ -6,7 +6,16 @@
     <description>Recent content in NetBSD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 01:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Dec 2024 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз операционной системы NetBSD 10.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-operacionnoy-sistemy-netbsd-10-1-20241219-133549/</link>
+      <pubDate>Thu, 19 Dec 2024 13:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-operacionnoy-sistemy-netbsd-10-1-20241219-133549/</guid>
+      <description>Доступен релиз операционной системы NetBSD 10.1, поддерживающей 58 системных архитектур и 16 семейств CPU. Помимо переносимости и поддержки большого числа аппаратных платформ, операционная система NetBSD предлагает такие возможности, как гипервизор NVMM, межсетевой экран NPF, пакетный менеджер pkgin, репозиторий пакетов pkgsrc, механизм контроля целостности veriexec, режим W^X (страницы памяти не могут быть одновременно доступны на запись и исполнение), поддержка ФС ZFS, система шифрования дисков cgd. Установочные образы (640 МБ) подготовлены для 56 архитектур (пропущены epoc32 и ia64).</description>
+    </item>
+    
     <item>
       <title>Проект OpenBSD охватил изменениями всю отделившуюся от NetBSD кодовую базу</title>
       <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-ohvatil-izmeneniyami-vsyu-otdelivshuyusya-ot-netbsd-kodovuyu-bazu-20240827-013531/</link>
