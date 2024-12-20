@@ -6,7 +6,16 @@
     <description>Recent content in GStreamer on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 17:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gstreamer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 14:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gstreamer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В мультимедийном фреймворке GStreamer выявлено 29 уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-multimediynom-freymvorke-gstreamer-vyyavleno-29-uyazvimostey-20241220-143555/</link>
+      <pubDate>Fri, 20 Dec 2024 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-multimediynom-freymvorke-gstreamer-vyyavleno-29-uyazvimostey-20241220-143555/</guid>
+      <description>В мультимедийном фреймворке GStreamer, используемом в GNOME, выявлено 29 уязвимостей. Восемь уязвимостей приводят к записи данных за пределы буфера, а одна (CVE-2024-47540) к перезаписи указателя на функцию. Указанные уязвимости могут потенциально использоваться злоумышленниками для организации выполнения кода при обработке некорректно оформленных мультимедийных данных в форматах MKV, MP4, Ogg, Vorbis и Opus, а также субтитров в формате SSA. Остальные уязвимости приводят к разыменованию нулевого указателя или чтению из области памяти за границей буфера, т.</description>
+    </item>
+    
     <item>
       <title>Уязвимости в LibreOffice, позволяющие выполнить скрипт или плагин Gstreamer</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-libreoffice-pozvolyayuschie-vypolnit-skript-ili-plagin-gstreamer-20231212-173538/</link>
