@@ -6,7 +6,17 @@
     <description>Recent content in SDE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 11:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sde/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 14:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз T2 SDE 24.12, платформы для создания дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-t2-sde-24-12-platformy-dlya-sozdaniya-distributivov-20241221-143604/</link>
+      <pubDate>Sat, 21 Dec 2024 14:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-t2-sde-24-12-platformy-dlya-sozdaniya-distributivov-20241221-143604/</guid>
+      <description>Опубликован релиз мета-дистрибутива T2 SDE 24.12, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляется 37 загрузочных iso-образов с минимальным графическим окружением в вариантах с библиотеками Musl, uClibc и Glibc. Для актуальных архитектур подготовлены сборки с графическим окружением на базе GNOME и Wayland.
+https://www.opennet.ru/opennews/art.shtml?num=62449</description>
+    </item>
+    
     <item>
       <title>Релиз T2 SDE 24.6, платформы для создания дистрибутивов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-t2-sde-24-6-platformy-dlya-sozdaniya-distributivov-20240610-113546/</link>
