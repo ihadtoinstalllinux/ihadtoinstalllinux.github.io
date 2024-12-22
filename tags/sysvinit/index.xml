@@ -6,7 +6,17 @@
     <description>Recent content in sysvinit on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2024 10:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sysvinit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sysvinit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-12-20241222-123526/</link>
+      <pubDate>Sun, 22 Dec 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-12-20241222-123526/</guid>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.12, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=62453</description>
+    </item>
+    
     <item>
       <title>Выпуск системы инициализации SysVinit 3.11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-11-20241022-103551/</link>
