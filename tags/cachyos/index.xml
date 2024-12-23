@@ -6,7 +6,16 @@
     <description>Recent content in CachyOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 20:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cachyos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2024 12:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cachyos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива CachyOS 241221, включающего ядро с дополнительными оптимизациями</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241221-vklyuchayuschego-yadro-s-dopolnitelnymi-optimizaciyami-20241223-123535/</link>
+      <pubDate>Mon, 23 Dec 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241221-vklyuchayuschego-yadro-s-dopolnitelnymi-optimizaciyami-20241223-123535/</guid>
+      <description>Опубликован выпуск дистрибутива CachyOS 241221, основанного на пакетной базе Arch Linux и применяющего непрерывную модель доставки обновлений. Дистрибутив примечателен включением оптимизаций для повышения производительности и предоставлением возможности установки различных сред рабочего стола. Помимо базового окружения на основе KDE для установки доступны GNOME, Xfce, i3WM, Wayfire, LXQT, OpenBox, Cinnamon, Cosmic, UKUI, LXDE, Mate, Budgie, Qtile, Hyprland и Sway. Размер установочного iso-образа 2.7 ГБ. Отдельно поставляются сборки (2.8 ГБ) для носимых устройств (Handheld Edition) с интерфейсом в стиле GameMode и компонентами для любителей компьютерных игр.</description>
+    </item>
+    
     <item>
       <title>Выпуск дистрибутива CachyOS 241110 с поддержкой THP Shrinker и  AMD Cache Optimizer</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241110-s-podderzhkoy-thp-shrinker-i-amd-cache-optimizer-20241112-203545/</link>
