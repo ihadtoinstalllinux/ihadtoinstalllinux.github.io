@@ -151,6 +151,31 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в PostgreSQL, позволяющая выполнить SQL-код с правами пользователя, запускающего pg_dump
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Сформированы корректирующие обновления для всех поддерживаемых веток PostgreSQL 16.4, 15.8, 14.13, 13.16, 12.20, в которых исправлено 56 ошибок, выявленных за последние три месяца. Среди прочего в новых версиях устранена уязвимость (CVE-2024-7348), помеченная как опасная (уровень опасности 8.8 из 10). Уязвимость вызвана состоянием гонки в утилите pg_dump, позволяющем атакующему, имеющему возможность создания и удаления постоянных объектов в СУБД, добиться выполнения произвольного SQL-кода с правами пользователя, под которым запускается утилита pg_dump (обычно pg_dump запускается с правами суперпользователя для резервного копирования СУБД)....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-08-10 14:35:35 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в PostgreSQL, позволяющая выполнить SQL-код с правами пользователя, запускающего pg_dump" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postgresql-pozvolyayuschaya-vypolnit-sql-kod-s-pravami-polzovatelya-zapuskayu-20240810-143535/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В рамках проекта LibreCUDA ведётся разработка открытой реализации API драйвера CUDA, позволяющего выполнять код CUDA на GPU NVIDIA без использования проприетарного CUDA Runtime. Работа без Runtime достигается благодаря прямому обращению к оборудованию, используя предоставляемые драйвером ioctl-вызовы и манипулируя очередью команд через MMIO (Memory-mapped I/O). Код проекта написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61675</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-08-10 01:35:16 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Проект LibreCUDA для запуска кода CUDA на GPU NVIDIA без проприетарного Runtime" href="https://ihadtoinstalllinux.github.io/posts/proekt-librecuda-dlya-zapuska-koda-cuda-na-gpu-nvidia-bez-proprietarnogo-runtime-20240810-013516/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Первый альфа-выпуск среды рабочего стола COSMIC
     </h2>
   </header>
@@ -187,32 +212,6 @@ https://www.basealt.ru/about/news/archive/view/pervyi-rossiiskii-pak-dlja-rentge
   </section>
   <footer class="entry-footer"><span title='2024-08-08 21:36:39 +0500 +05'>August 8, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Первый российский ПАК для рентгенологов на операционной системе «Альт» успешно работает в Якутске" href="https://ihadtoinstalllinux.github.io/posts/pervyy-rossiyskiy-pak-dlya-rentgenologov-na-operacionnoy-sisteme-alt-uspeshno-rabotaet-v-y-20240808-213639/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Уязвимость GhostWrite, предоставляющая полный доступ к физической памяти на CPU RISC-V XuanTie
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Исследователи Центра Гельмгольца по информационной безопасности (CISPA) опубликовали результаты исследования защищённости процессоров на базе архитектуры RISC-V и раскрыли сведения об уязвимости, получившей кодовое имя GhostWrite. Уязвимость затрагивает RISC-V-процессоры XuanTie C910, производимые китайской компанией T-Head (подразделение Alibaba) и развиваемые в форме открытых проектов. Уязвимость даёт возможность атакующему, имеющему непривилегированный ограниченный доступ к системе, добиться чтения и записи в любые области физической памяти, а также получить доступ к управлению периферийными устройствами, такими как сетевые карты, использующими MMIO (Memory-Mapped Input/Output)....</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-08-08 12:35:52 +0500 +05'>August 8, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Уязвимость GhostWrite, предоставляющая полный доступ к физической памяти на CPU RISC-V XuanTie" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-ghostwrite-predostavlyayuschaya-polnyy-dostup-k-fizicheskoy-pamyati-na-cpu-risc-20240808-123552/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-56.userapi.com/s/v1/ig2/ZNEzPfPl0Y6U0ran4bqegPrE4lbGuizX5k4Vr_FoRA8YPx2J1okEyms9cKVPkg_N23dPCCFxP_e5qq5cSu3_62Z2.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>ZNEzPfPl0Y6U0ran4bqegPrE4lbGuizX5k4Vr_FoRA8YPx2J1okEyms9cKVPkg_N23dPCCFxP_e5qq5cSu3_62Z2.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2024-08-08 11:36:30 +0500 +05'>August 8, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to ZNEzPfPl0Y6U0ran4bqegPrE4lbGuizX5k4Vr_FoRA8YPx2J1okEyms9cKVPkg_N23dPCCFxP_e5qq5cSu3_62Z2.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20240808-113630/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
