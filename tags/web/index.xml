@@ -6,7 +6,17 @@
     <description>Recent content in web on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2024 14:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 13:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый тестовый выпуск web-браузера FixBrowser</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-testovyy-vypusk-web-brauzera-fixbrowser-20241225-133516/</link>
+      <pubDate>Wed, 25 Dec 2024 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-testovyy-vypusk-web-brauzera-fixbrowser-20241225-133516/</guid>
+      <description>Опубликован первый тестовый выпуск web-браузера FixBrowser, рассчитанного на низкое потребление ресурсов и обеспечение конфиденциальности. Браузер развивается с нуля и принципиально не поддерживает выполнение JavaScript, но при этом позволяет работать сайтами, завязанными на JavaScript. Код написан на языках Си и FixScript, и распространяется под лицензией ZLIB. Готовые сборки сформированы для Linux (GTK2) и Windows. Намечено создание сборок для Haiku и macOS 10.6+, а также формирование сборок для Linux, использующих GTK3/4.
+https://www.opennet.ru/opennews/art.shtml?num=62465</description>
+    </item>
+    
     <item>
       <title>Web-браузеру Dillo исполнилось 25 лет</title>
       <link>https://ihadtoinstalllinux.github.io/posts/web-brauzeru-dillo-ispolnilos-25-let-20241216-143544/</link>
