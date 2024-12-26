@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gogs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gogs/</link>
+    <description>Recent content in Gogs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пять уязвимостей в платформе совместной разработки Gogs, позволяющих выполнить код на сервере </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pyat-uyazvimostey-v-platforme-sovmestnoy-razrabotki-gogs-pozvolyayuschih-vypolnit-kod-na-s-20241226-113511/</link>
+      <pubDate>Thu, 26 Dec 2024 11:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pyat-uyazvimostey-v-platforme-sovmestnoy-razrabotki-gogs-pozvolyayuschih-vypolnit-kod-na-s-20241226-113511/</guid>
+      <description>Опубликован корректирующий релиз платформы совместной разработки Gogs 0.13.2, в котором устранено 6 уязвимостей. 5 уязвимостям присвоен критический уровень опасности (10 из 10). Исправленные проблемы позволяют непривилегированному пользователю Gogs выполнить код на сервере, изменить данные в репозиториях других пользователей или получить SSH-доступ к серверу. Судя по предварительной проверке, уязвимости не затрагивают платформы Forgejo и Gitea, продолжающие развитие форка Gogs, созданного в 2016 году.
+https://www.opennet.ru/opennews/art.shtml?num=62469</description>
+    </item>
+    
+  </channel>
+</rss>
