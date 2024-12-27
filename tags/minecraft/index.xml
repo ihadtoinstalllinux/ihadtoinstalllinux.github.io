@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MineCraft on iHADtoinstalllinux</title>
+    <title>Minecraft on iHADtoinstalllinux</title>
     <link>https://ihadtoinstalllinux.github.io/tags/minecraft/</link>
-    <description>Recent content in MineCraft on iHADtoinstalllinux</description>
+    <description>Recent content in Minecraft on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2023 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Dec 2024 14:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен CobolCraft, сервер для игры Minecraft, написанный на языке COBOL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-cobolcraft-server-dlya-igry-minecraft-napisannyy-na-yazyke-cobol-20241227-143537/</link>
+      <pubDate>Fri, 27 Dec 2024 14:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-cobolcraft-server-dlya-igry-minecraft-napisannyy-na-yazyke-cobol-20241227-143537/</guid>
+      <description>Проект CobolCraft развивает реализацию сервера для игры Minecraft, совместимую с декабрьским выпуском Minecraft 1.21.4. Код проекта написан на языке COBOL и распространяется под лицензией MIT. Для сборки может использоваться компилятор GnuCOBOL. Для быстрого запуска подготовлен образ контейнера для Docker. В качестве причины выбора языка COBOL, созданного в 1959 году, называется желание изучить данный язык и развеять связанные с ним предрассудки.
+https://www.opennet.ru/opennews/art.shtml?num=62472</description>
+    </item>
+    
     <item>
       <title>Релиз Minetest 5.7.0, открытого клона игры MineCraft </title>
       <link>https://ihadtoinstalllinux.github.io/posts/reliz-minetest-5-7-0-otkrytogo-klona-igry-minecraft-20230410-233505/</link>
