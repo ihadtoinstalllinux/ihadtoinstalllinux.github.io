@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ghostty on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ghostty/</link>
+    <description>Recent content in Ghostty on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 13:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ghostty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый стабильный выпуск эмулятора терминала Ghostty</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-emulyatora-terminala-ghostty-20241227-133517/</link>
+      <pubDate>Fri, 27 Dec 2024 13:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-vypusk-emulyatora-terminala-ghostty-20241227-133517/</guid>
+      <description>Опубликован первый стабильный выпуск эмулятора терминала Ghostty, примечательный задействованием GPU для ускорения отрисовки содержимого. Автор Ghostty пытается воплотить в одном приложении три качества - высокую производительность, обширную функциональность и интерфейс, выглядящий родным для каждой поддерживаемой платформы. Код проекта написан на языке Zig и распространяется под лицензией MIT. Готовые сборки сформированы для Linux и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=62471</description>
+    </item>
+    
+  </channel>
+</rss>
