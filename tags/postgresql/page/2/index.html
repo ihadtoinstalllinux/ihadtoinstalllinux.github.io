@@ -139,6 +139,18 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в PostgreSQL, позволяющая выполнить SQL-код с правами пользователя, запускающего pg_dump
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Сформированы корректирующие обновления для всех поддерживаемых веток PostgreSQL 16.4, 15.8, 14.13, 13.16, 12.20, в которых исправлено 56 ошибок, выявленных за последние три месяца. Среди прочего в новых версиях устранена уязвимость (CVE-2024-7348), помеченная как опасная (уровень опасности 8.8 из 10). Уязвимость вызвана состоянием гонки в утилите pg_dump, позволяющем атакующему, имеющему возможность создания и удаления постоянных объектов в СУБД, добиться выполнения произвольного SQL-кода с правами пользователя, под которым запускается утилита pg_dump (обычно pg_dump запускается с правами суперпользователя для резервного копирования СУБД)....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-08-10 14:35:35 +0500 +05'>August 10, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в PostgreSQL, позволяющая выполнить SQL-код с правами пользователя, запускающего pg_dump" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-postgresql-pozvolyayuschaya-vypolnit-sql-kod-s-pravami-polzovatelya-zapuskayu-20240810-143535/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2>Обновлён бесплатный курс по администрированию PostgreSQL
     </h2>
   </header>
@@ -187,19 +199,6 @@ https://www.opennet.ru/opennews/art.shtml?num=60388</p>
   </section>
   <footer class="entry-footer"><span title='2024-01-04 15:36:05 +0500 +05'>January 4, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Рейтинг популярности СУБД. PostgreSQL назван СУБД 2023 года " href="https://ihadtoinstalllinux.github.io/posts/reyting-populyarnosti-subd-postgresql-nazvan-subd-2023-goda-20240104-153605/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2>Релиз СУБД PostgreSQL 16
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>После 11 месяцев разработки опубликована новая стабильная ветка СУБД PostgreSQL 16. Обновления для новой ветки будут выходить в течение пяти лет до ноября 2028 года. Поддержка PostgreSQL 11.x, самой старой из поддерживаемых веток, будет прекращена 9 ноября.
-https://www.opennet.ru/opennews/art.shtml?num=59758</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-09-15 13:35:27 +0500 +05'>September 15, 2023</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Релиз СУБД PostgreSQL 16" href="https://ihadtoinstalllinux.github.io/posts/reliz-subd-postgresql-16-20230915-133527/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
