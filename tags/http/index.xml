@@ -6,7 +6,17 @@
     <description>Recent content in HTTP on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2024 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Cloudflare открыла код h3i, утилиты для тестирования HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-h3i-utility-dlya-testirovaniya-http-3-20241231-003519/</link>
+      <pubDate>Tue, 31 Dec 2024 00:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-h3i-utility-dlya-testirovaniya-http-3-20241231-003519/</guid>
+      <description>Компания Cloudflare объявила об открытии исходного кода инструментария h3i, включающего утилиту командной строки и библиотеку функций для низкоуровневого тестирования и отладки серверных реализаций протокола HTTP/3. Утилита может использоваться для оценки поведения серверов HTTP/3, определения уровня соответствия требованиям спецификаций и проверки реагирования на внештатные ситуации. Код утилиты написан на языке Rust и открыт под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=62492</description>
+    </item>
+    
     <item>
       <title>Выпуск HTTPS-анализатора Mitmproxy 11 с поддержкой HTTP/3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</link>
