@@ -154,6 +154,30 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>KVM: регрессии производительности и обсуждение поддержки 32-разрядных систем
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В состав ядра Linux 6.13-rc3 принято изменение, устраняющее регрессию производительности в гипервизоре KVM, связанную с медленной обработкой вызовов CPUID на новых CPU, например, на CPU Intel Emerald Rapids операции c CPUID выполняются в 3-4 раза медленнее, чем на CPU Intel Skylake. Подобная особенность привела к снижению производительности гипервизора KVM, который использует CPUID в процессе сохранения и восстановления состояния процессора при каждой передаче управления виртуальной машине, в случае использования вложенной виртуализации. Для решения проблемы в ветку ядра 6....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-12-16 17:35:56 +0500 +05'>December 16, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to KVM: регрессии производительности и обсуждение поддержки 32-разрядных систем" href="https://ihadtoinstalllinux.github.io/posts/kvm-regressii-proizvoditelnosti-i-obsuzhdenie-podderzhki-32-razryadnyh-sistem-20241216-173556/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Обновление голосовых данных Mozilla Common Voice 20
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Компания Mozilla обновила наборы голосовых данных Common Voice, включающие примеры произношения более 200 тысяч человек. Данные опубликованы как общественное достояние (CC0). Предложенные наборы можно использовать в системах машинного обучения для построения моделей распознавания и синтеза речи. По сравнению с прошлым обновлением объём речевого материала в коллекции увеличился с 32.6 до 33.1 тысячи часов речи, из которых 22.1 тысячи часов прошли процедуру проверки. Число поддерживаемых языков увеличилось со 129 до 133 - добавлены языки арагонский, исиндебеле, южный сото и тупури....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-12-16 15:35:43 +0500 +05'>December 16, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Обновление голосовых данных Mozilla Common Voice 20" href="https://ihadtoinstalllinux.github.io/posts/obnovlenie-golosovyh-dannyh-mozilla-common-voice-20-20241216-153543/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Web-браузеру Dillo исполнилось 25 лет
     </h2>
   </header>
@@ -189,33 +213,6 @@ https://www.opennet.ru/opennews/art.shtml?num=62407</p>
   </section>
   <footer class="entry-footer"><span title='2024-12-16 10:35:17 +0500 +05'>December 16, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to Для Btrfs представлены патчи с балансировкой чтения RAID1 по алгоритму Round-robin" href="https://ihadtoinstalllinux.github.io/posts/dlya-btrfs-predstavleny-patchi-s-balansirovkoy-chteniya-raid1-po-algoritmu-round-robin-20241216-103517/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sun9-27.userapi.com/s/v1/ig2/ZmpUjfY6ZhO225ecojDhmb0Jq5THNoBXWFPllHLN3TZDigd2ye0Cx2e6bN_xtr-eMnwQGrXyHKSLH79kJNWYUNcd.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>ZmpUjfY6ZhO225ecojDhmb0Jq5THNoBXWFPllHLN3TZDigd2ye0Cx2e6bN_xtr-eMnwQGrXyHKSLH79kJNWYUNcd.jpg
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p></p>
-  </section>
-  <footer class="entry-footer"><span title='2024-12-15 23:36:32 +0500 +05'>December 15, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to ZmpUjfY6ZhO225ecojDhmb0Jq5THNoBXWFPllHLN3TZDigd2ye0Cx2e6bN_xtr-eMnwQGrXyHKSLH79kJNWYUNcd.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20241215-233632/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Релиз среды рабочего стола Xfce 4.20 c частичной поддержкой Wayland
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>После двух лет разработки представлен релиз среды рабочего стола Xfce 4.20, предлагающей классический рабочий стол, потребляющий по возможности минимальные системные ресурсы. Xfce состоит из нескольких взаимосвязанных компонентов, которые при желании можно использовать в других проектах. Среди таких компонентов: оконный менеджер xfwm4, панель для запуска приложений, менеджер управления пользовательскими сеансами, система управления энергопотреблением, графический конфигуратор, файловый менеджер Thunar, календарь-палнировщик Orage, медиапроигрыватель Parole, текстовый редактор Mousepad, эмулятор терминала xfce4-terminal.
-https://www.opennet.ru/opennews/art.shtml?num=62406</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-12-15 21:35:19 +0500 +05'>December 15, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Релиз среды рабочего стола Xfce 4.20 c частичной поддержкой Wayland" href="https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
