@@ -6,7 +6,17 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2024 11:36:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 14:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Коллизии в сокращённых идентификаторах коммитов в ядре Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kollizii-v-sokraschennyh-identifikatorah-kommitov-v-yadre-linux-20241231-143518/</link>
+      <pubDate>Tue, 31 Dec 2024 14:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kollizii-v-sokraschennyh-identifikatorah-kommitov-v-yadre-linux-20241231-143518/</guid>
+      <description>Кейс Кук (Kees Cook), бывший главный системный администратор kernel.org и лидер Ubuntu Security Team, продемонстрировал возможность создания коммита, сокращённый идентификатор которого совпадает с коммитом, ранее добавленным в ядро Linux. Эксперимент проведён в качестве подтверждения целесообразности перехода на 16-символьные сокращённые идентификаторы коммитов в ядре Linux, ранее обсуждавшегося в списке рассылки разработчиков ядра, но не одобренного Линусом Торвальдсом.
+https://www.opennet.ru/opennews/art.shtml?num=62495</description>
+    </item>
+    
     <item>
       <title>OhTsNdevRD8uF0RN2fHDvc_x_B8f0qZrDLCdp5zr-YBxSqs1Sw1R4Ab6m2-3-OyTT3ITOr6WDgTdahmZ4YXce9aD.jpg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/img-20241231-113640/</link>
