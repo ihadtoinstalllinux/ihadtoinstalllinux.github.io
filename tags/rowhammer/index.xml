@@ -6,7 +6,17 @@
     <description>Recent content in Rowhammer on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2023 15:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rowhammer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 12:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rowhammer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FlippyRAM - дистрибутив для тестирования атаки Rowhammer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/flippyram-distributiv-dlya-testirovaniya-ataki-rowhammer-20250102-123514/</link>
+      <pubDate>Thu, 02 Jan 2025 12:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/flippyram-distributiv-dlya-testirovaniya-ataki-rowhammer-20250102-123514/</guid>
+      <description>На конференции 38C3 представлен фреймворк FlippyRAM, предназначенный для проверки наличия уязвимостей, позволяющих совершить атаки класса Rowhammer для изменения содержимого оперативной памяти. Код инструментария написан на С++ и распространяется под лицензией MIT. Для упрощения тестирования сформирован готовый live-дистрибутив (1 ГБ), позволяющий провести проверку, загрузившись с USB Flash, а также образ контейнера для Docker.
+https://www.opennet.ru/opennews/art.shtml?num=62488</description>
+    </item>
+    
     <item>
       <title>Применение метода атаки Rowhammer для создания уникальных идентификаторов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/primenenie-metoda-ataki-rowhammer-dlya-sozdaniya-unikalnyh-identifikatorov-20230708-153504/</link>
