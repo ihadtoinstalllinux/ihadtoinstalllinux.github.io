@@ -150,6 +150,31 @@
 <main class="main"> 
 
 <article class="post-entry"> 
+  <header class="entry-header">
+    <h2>В ядро Linux принят 21-строчный патч, ускоряющий прохождение теста per_thread_ops на 2.6%
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Джош Пуамбеф (Josh Poimboeuf) из компании Red Hat опубликовал патч для ядра Linux, ускоряющий на 2.6% прохождение теста “per_thread_ops”, оценивающего число операций, которые могут быть выполнены в одном потоке. Патч содержит всего несколько строк кода, заменяющих медленный вызов barrier_nospec() на более быстрое маскирование указателя в 64-битной функции copy_from_user(), используемой для копирования данных в пространство ядра из пространства пользователя. Линус Торвальдс уже перенёс данную оптимизацию в состав ветки ядра 6.12.
+https://www.opennet.ru/opennews/art.shtml?num=62153</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-11-01 02:35:40 +0500 +05'>November 1, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В ядро Linux принят 21-строчный патч, ускоряющий прохождение теста per_thread_ops на 2.6%" href="https://ihadtoinstalllinux.github.io/posts/v-yadro-linux-prinyat-21-strochnyy-patch-uskoryayuschiy-prohozhdenie-testa-per-thread-ops-20241101-023540/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Инициатива по отмене определения открытой AI-системы, как обесценивающего понятие Open Source
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>Бредли Кун (Bradley M. Kuhn), исполнительный директор и один из создателей правозащитной организации Software Freedom Conservancy (SFC), выступил c критикой недавно опубликованного организацией OSI (Open Source Initiative) определения открытой AI-системы (Open Source AI). По мнению Куна организация OSI поторопилась с публикацией финального варианта определения и утвердила его без длительного всестороннего обсуждения и на начальном этапе становления подобных систем. Для сравнения определение Open Source было дано после многих лет размышлений и обсуждений....</p>
+  </section>
+  <footer class="entry-footer"><span title='2024-11-01 01:35:21 +0500 +05'>November 1, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Инициатива по отмене определения открытой AI-системы, как обесценивающего понятие Open Source" href="https://ihadtoinstalllinux.github.io/posts/iniciativa-po-otmene-opredeleniya-otkrytoy-ai-sistemy-kak-obescenivayuschego-ponyatie-open-20241101-013521/"></a>
+</article>
+
+<article class="post-entry"> 
 <figure class="entry-cover"><img loading="lazy" src="https://sun9-41.userapi.com/s/v1/ig2/MTm01qklG9TZy-LRL44khuGcwGmK_eeY9443EdVE7QObGVGfTlWYQnL2s9nLRRCFwKmVykig6i8mYUDtKLevik5l.jpg" alt="">
 </figure>
   <header class="entry-header">
@@ -187,32 +212,6 @@ https://www.basealt.ru/about/news/archive/view/os-alt-sovmestima-s-agentom-bezop
   </section>
   <footer class="entry-footer"><span title='2024-10-31 21:36:40 +0500 +05'>October 31, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to ОС «Альт» совместима с агентом безопасности Staffcop Enterprise" href="https://ihadtoinstalllinux.github.io/posts/os-alt-sovmestima-s-agentom-bezopasnosti-staffcop-enterprise-20241031-213640/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск проекта FPDoom 1.20241031, развивающего порты Doom и других игр для кнопочных телефонов
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Продолжается развитие проекта FPDoom, который позволяет запустить классический Doom, его дополнения и другие портированные игры на очень распространённом на дешёвых кнопочных телефонах чипе Spreadtrum SC6531 и его модификациях. Чипсету уже около десяти лет, и телефоны выпускаются до сих пор.
-https://www.opennet.ru/opennews/art.shtml?num=62151</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-10-31 21:35:52 +0500 +05'>October 31, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск проекта FPDoom 1.20241031, развивающего порты Doom и других игр для кнопочных телефонов" href="https://ihadtoinstalllinux.github.io/posts/vypusk-proekta-fpdoom-1-20241031-razvivayuschego-porty-doom-i-drugih-igr-dlya-knopochnyh-t-20241031-213552/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Выпуск Bubblewrap 0.11, прослойки для создания изолированных окружений 
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликована новая версия инструментария для организации работы изолированных окружений Bubblewrap 0.11, используемого для ограничения отдельных приложений непривилегированных пользователей. На практике Bubblewrap применяется проектом Flatpak в качестве прослойки для изоляции запускаемых из пакетов приложений. Для изоляции используются традиционные для Linux технологии контейнерной виртуализации, основанные на использовании cgroups, пространств имён (namespaces), Seccomp и SELinux. Код проекта написан на языке Си и распространяется под лицензией LGPLv2&#43;.
-https://www.opennet.ru/opennews/art.shtml?num=62149</p>
-  </section>
-  <footer class="entry-footer"><span title='2024-10-31 19:35:25 +0500 +05'>October 31, 2024</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск Bubblewrap 0.11, прослойки для создания изолированных окружений " href="https://ihadtoinstalllinux.github.io/posts/vypusk-bubblewrap-0-11-prosloyki-dlya-sozdaniya-izolirovannyh-okruzheniy-20241031-193525/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
