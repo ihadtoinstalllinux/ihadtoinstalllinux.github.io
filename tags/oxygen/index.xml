@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oxygen on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/oxygen/</link>
+    <description>Recent content in Oxygen on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 20:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oxygen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован набор пиктограмм Oxygen 6, которая будет использоваться в KDE 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-piktogramm-oxygen-6-kotoraya-budet-ispolzovatsya-v-kde-6-20240221-203559/</link>
+      <pubDate>Wed, 21 Feb 2024 20:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-nabor-piktogramm-oxygen-6-kotoraya-budet-ispolzovatsya-v-kde-6-20240221-203559/</guid>
+      <description>Джонатан Риддел (Jonathan Riddell), бывший лидер проекта Kubuntu, в настоящее время занимающийся дистрибутивом KDE neon, объявил о готовности нового набора пиктограмм Oxygen 6, разработанного для поставки в KDE 6. Помимо KDE предложенные пиктограммы можно использовать в любых приложениях и пользовательских средах, соответствующих спецификациям XDG (FreeDesktop X Desktop Group). Набор развивается в составе KDE Frameworks 6, но публикуется отдельно. Для сборки Oxygen 6 требуется пакет extra-cmake-modules, который будет опубликован вместе с KDE Frameworks 6 на следующей неделе.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Serpent on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/serpent/</link>
+    <description>Recent content in Serpent on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 11:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/serpent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дистрибутив Serpent OS переименован в AerynOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-serpent-os-pereimenovan-v-aerynos-20250215-113508/</link>
+      <pubDate>Sat, 15 Feb 2025 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-serpent-os-pereimenovan-v-aerynos-20250215-113508/</guid>
+      <description>Разработчики дистрибутива Serpent OS объявили о переименовании проекта в AerynOS и проведении ребрендинга. Завершить миграцию инфраструктуры на новое имя планируют 17 марта. Отмечается, что при основании проекта имя Serpent OS было выбрано поспешно, без учёта того, что слово &amp;ldquo;serpent&amp;rdquo; воспринимается некоторыми людьми в негативной коннотации (змей-искуситель, мстительный человек). Разработчикам поступает много жалоб о неудачном выборе имени, поэтому решено воспользоваться моментом, пока проект не вышел из стадии альфа-тестирования, и поменять имя.</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив Serpent OS перешёл на стадию альфа-тестирвания</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-serpent-os-pereshel-na-stadiyu-alfa-testirvaniya-20241226-003505/</link>
+      <pubDate>Thu, 26 Dec 2024 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-serpent-os-pereshel-na-stadiyu-alfa-testirvaniya-20241226-003505/</guid>
+      <description>Представлен первый альфа-выпуск дистрибутива SerpentOS, использующего собственный пакетный менеджер moss и атомарную модель обновления системы. Разработчики преподносят Serpent OS как следующий этап в эволюции дистрибутивов Linux. Проект разрабатывается старой командой разработчиков дистрибутива Solus, в число которых входят Айки Доэрти (Ikey Doherty) - создатель Solus и Джошуа Стробл (Joshua Strobl) - ключевой разработчик среды рабочего стола Budgie. Сборки формируются для архитектуры x86_64-v2 и поставляются с рабочими столами GNOME и COSMIC.
+https://www.opennet.ru/opennews/art.shtml?num=62468</description>
+    </item>
+    
+    <item>
+      <title>Serpent OS переходит на применение языков Rust, TypeScript и Go в инструментарии и инфраструктуре</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</link>
+      <pubDate>Fri, 15 Sep 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/serpent-os-perehodit-na-primenenie-yazykov-rust-typescript-i-go-v-instrumentarii-i-infrast-20230915-013504/</guid>
+      <description>Айки Доэрти (Ikey), основатель дистрибутива Solus, опубликовал заметку о последних тенденциях в разработке дистрибутива Serpent OS, на технологиях которого будет построен выпуск Solus 5. Основные моменты.
+https://www.opennet.ru/opennews/art.shtml?num=59756</description>
+    </item>
+    
+    <item>
+      <title>Проект разработки  документации для Serpent OS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-razrabotki-dokumentacii-dlya-serpent-os-20230524-003505/</link>
+      <pubDate>Wed, 24 May 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-razrabotki-dokumentacii-dlya-serpent-os-20230524-003505/</guid>
+      <description>Айки Доэрти (Ikey) объявил о начале работы над сайтом документации дистрибутива Seprent OS. Для развёртывания используются Markdown и Docusaurus. Страницы документации размещены на GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=59185</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/leap/</link>
+    <description>Recent content in Leap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 23:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/leap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен атомарно обновляемый дистрибутив openSUSE Leap Micro 6.1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-1-20241206-233510/</link>
+      <pubDate>Fri, 06 Dec 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-1-20241206-233510/</guid>
+      <description>Проект openSUSE опубликовал релиз атомарно обновляемого дистрибутива openSUSE Leap Micro 6.1, предназначенного для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны установочные сборки для архитектур x86_64 и ARM64 (Aarch64), а также готовые системные образы для систем виртуализации.
+https://www.opennet.ru/opennews/art.shtml?num=62359</description>
+    </item>
+    
+    <item>
+      <title>Началась разработка дистрибутива openSUSE Leap 16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalas-razrabotka-distributiva-opensuse-leap-16-0-20241008-113557/</link>
+      <pubDate>Tue, 08 Oct 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalas-razrabotka-distributiva-opensuse-leap-16-0-20241008-113557/</guid>
+      <description>Объявлено о начале работы над дистрибутивом openSUSE Leap 16.0, построенным на технологиях следующей значительной ветки коммерческого дистрибутива SLES 16, переходящего на новую платформу SLFO (SUSE Linux Framework One), ранее известную под именем ALP (Adaptable Linux Platform). Отмечается, что в ветке openSUSE Leap 16.0 предпринята попытка совместить традиционные возможности дистрибутива с новыми технологиями SLFO. Новая ветка позиционируется как традиционный дистрибутив, поставляемый в принципиальной новой форме и использующий пакеты из SLES 16 и поддерживаемого сообществом репозитория Factory.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован программный KVM-переключатель Input Leap 3.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-programmnyy-kvm-pereklyuchatel-input-leap-3-0-0-20241006-103543/</link>
+      <pubDate>Sun, 06 Oct 2024 10:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-programmnyy-kvm-pereklyuchatel-input-leap-3-0-0-20241006-103543/</guid>
+      <description>Доступен релиз проекта Input Leap 3.0.0, развивающего программный KVM-переключатель (Keyboard, Video, Mouse), позволяющий использовать одну клавиатуру и мышь для управления несколькими компьютерами по сети, симулируя физическое подключение к системе. Input Leap отделился в 2021 году от проекта Barrier из-за проблем с сопровождением последнего. В свою очередь Barrier, был создан как форк проекта Deskflow, продолжающего активное развитие. Код проектов написан на языке C++ и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=61996</description>
+    </item>
+    
+    <item>
+      <title>Опубликован атомарно обновляемый дистрибутив openSUSE Leap Micro 6.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</link>
+      <pubDate>Tue, 25 Jun 2024 18:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-atomarno-obnovlyaemyy-distributiv-opensuse-leap-micro-6-0-20240625-183543/</guid>
+      <description>Разработчики проекта openSUSE представили релиз атомарно обновляемого дистрибутива openSUSE Leap Micro 6.0, предназначенного для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны установочные сборки для архитектур x86_64 и ARM64 (Aarch64), а также готовые системные образы для систем виртуализации и raw-образы для копирования на носители.
+https://www.opennet.ru/opennews/art.shtml?num=61437</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива openSUSE Leap 15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-6-20240612-203524/</link>
+      <pubDate>Wed, 12 Jun 2024 20:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-6-20240612-203524/</guid>
+      <description>После года разработки состоялся релиз дистрибутива openSUSE Leap 15.6. Выпуск сформирован на основе единого с SUSE Linux Enterprise 15 SP 6 набора бинарных пакетов c некоторыми пользовательскими приложениями из репозитория openSUSE Tumbleweed. Использование одних и тех же бинарных пакетов в SUSE и openSUSE упрощает переход между дистрибутивами, экономит ресурсы на сборку пакетов, распространение обновлений и тестирование, унифицирует различия в spec-файлах и позволяет отойти от диагностики разных сборок пакетов при разборе сообщений об ошибках.</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск дистрибутива openSUSE Leap 15.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-6-20240308-003601/</link>
+      <pubDate>Fri, 08 Mar 2024 00:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-opensuse-leap-15-6-20240308-003601/</guid>
+      <description>Началось тестирование первого бета-выпуска дистрибутива openSUSE Leap 15.6. Выпуск сформирован на основе базового набора пакетов, единого с дистрибутивом SUSE Linux Enterprise 15 SP 6 и также включает некоторые пользовательские приложения из репозитория openSUSE Tumbleweed. Для загрузки доступна универсальная DVD-сборка, размером 4.3 ГБ (x86_64, aarch64, ppc64les, 390x). Релиз openSUSE Leap 15.6 ожидается 12 июня 2024 года.
+https://www.opennet.ru/opennews/art.shtml?num=60748</description>
+    </item>
+    
+    <item>
+      <title>openSUSE Leap 16 будет построен на платформе ALP, использующей контейнеры</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opensuse-leap-16-budet-postroen-na-platforme-alp-ispolzuyuschey-konteynery-20240116-113639/</link>
+      <pubDate>Tue, 16 Jan 2024 11:36:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opensuse-leap-16-budet-postroen-na-platforme-alp-ispolzuyuschey-konteynery-20240116-113639/</guid>
+      <description>Разработчики проекта openSUSE анонсировали начало работы над следующим значительным выпуском дистрибутива openSUSE Leap 16, который будет основан на новой технологической платформе ALP (Adaptable Linux Platform), на которую также переходит коммерческий дистрибутив SUSE. Релиз openSUSE Leap 16.0 планируют выпустить в 2025 году.
+https://www.opennet.ru/opennews/art.shtml?num=60443</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив openSUSE Leap Micro 5.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</link>
+      <pubDate>Fri, 13 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-opensuse-leap-micro-5-5-20231013-163506/</guid>
+      <description>Разработчики проекта openSUSE опубликовали атомарно обновляемый дистрибутив openSUSE Leap Micro 5.5, предназначенный для создания микросервисов и для использования в качестве базовой системы для платформ виртуализации и контейнерной изоляции. Для загрузки доступны сборки для архитектур x86_64 и ARM64 (Aarch64), поставляемые как с инсталлятором (Offline-сборки, размером 2.1 ГБ), так и в форме готовых загрузочных образов: 782 МБ (преднастроенный), 959 МБ (с Real-Time ядром) и 1.1 ГБ. Образы могут запускаться под управлением гипервизоров Xen и KVM или поверх оборудования, включая платы Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>Сформирован дистрибутив openSUSE Slowroll, идущий на смену openSUSE Leap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</link>
+      <pubDate>Tue, 12 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</guid>
+      <description>Проект openSUSE начал разработку нового дистрибутива openSUSE Slowroll, созданного на основе дистрибутива openSUSE Tumbleweed, но отличающегося применением более медленного непрерывного цикла обновления версий программ (rolling-обновления). Предполагается, что новые версии openSUSE Slowroll, будут формироваться раз в один или два месяца, с промежуточной постоянной публикацией обновлений пакетов с исправлением ошибок и уязвимостей. Готовые iso-образы подготовлены (4.4ГБ) для архитектуры x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=59743</description>
+    </item>
+    
+    <item>
+      <title>Релиз дистрибутива openSUSE Leap 15.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-5-20230607-193507/</link>
+      <pubDate>Wed, 07 Jun 2023 19:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-opensuse-leap-15-5-20230607-193507/</guid>
+      <description>После года разработки состоялся релиз дистрибутива openSUSE Leap 15.5. Выпуск сформирован на основе единого с SUSE Linux Enterprise 15 SP 5 набора бинарных пакетов c некоторыми пользовательскими приложениями из репозитория openSUSE Tumbleweed. Использование одних и тех же бинарных пакетов в SUSE и openSUSE упрощает переход между дистрибутивами, экономит ресурсы на сборку пакетов, распространение обновлений и тестирование, унифицирует различия в spec-файлах и позволяет отойти от диагностики разных сборок пакетов при разборе сообщений об ошибках.</description>
+    </item>
+    
+  </channel>
+</rss>

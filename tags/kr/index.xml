@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KR on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kr/</link>
+    <description>Recent content in KR on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 18:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Musl, эксплуатируемая при перекодировании текста в кодировке EUC-KR</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-musl-ekspluatiruemaya-pri-perekodirovanii-teksta-v-kodirovke-euc-kr-20250214-183531/</link>
+      <pubDate>Fri, 14 Feb 2025 18:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-musl-ekspluatiruemaya-pri-perekodirovanii-teksta-v-kodirovke-euc-kr-20250214-183531/</guid>
+      <description>В стандартной Си-библиотеки Musl выявлена уязвимость (CVE-2024-2961), приводящая к переполнению буфера при преобразовании специально оформленного текста из кодировки EUC-KR в UTF-8 при помощи функции iconv(). Уязвимость проявляется начиная с версии musl 0.9.13 и будет исправлена в готовящемся к публикации выпуске 1.2.6 (до публикации обновления следует использовать патч). Уязвимость выявлена сопровождающим библиотеку libxml2 в процессе fuzzing-тестирования.
+https://www.opennet.ru/opennews/art.shtml?num=62719</description>
+    </item>
+    
+  </channel>
+</rss>

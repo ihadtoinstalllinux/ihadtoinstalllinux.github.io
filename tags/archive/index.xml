@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Archive on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/archive/</link>
+    <description>Recent content in Archive on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 10:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Взлом Internet Archive привёл к утечке 31 миллиона учётных записей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vzlom-internet-archive-privel-k-utechke-31-milliona-uchetnyh-zapisey-20241010-103540/</link>
+      <pubDate>Thu, 10 Oct 2024 10:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vzlom-internet-archive-privel-k-utechke-31-milliona-uchetnyh-zapisey-20241010-103540/</guid>
+      <description>Трой Хант (Troy Hunt), создатель сервиса проверки скомпрометированных паролей &amp;ldquo;Have I Been Pwned&amp;rdquo; (haveibeenpwned.com), получил сведения об утечке пользовательской базы организации Internet Archive (archive.org), сопровождающей архив сайтов &amp;ldquo;Wayback Machine&amp;rdquo; и крупнейшую библиотеку оцифрованного контента. Совершившие атаку передали Трою SQL-дамп с учётными записями 31 млн. пользователей archive.org. Кроме того, зафиксирована подстановка на сайт archive.org JavaScript-кода, выводящего всплывающее окно с информацией о взломе.
+https://www.opennet.ru/opennews/art.shtml?num=62022</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unsnap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unsnap/</link>
+    <description>Recent content in unsnap on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 10:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unsnap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>unsnap - инструментарий для миграции Ubuntu со Snap на Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</link>
+      <pubDate>Sun, 02 Jul 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</guid>
+      <description>Проект unsnap развивает утилиту для перевода систем на базе Ubuntu с использования пакетов snap на пакеты в формате flatpak. Утилита не только заменяет пакетный менеджер snap на flatpak, но также подбирает и устанавливает flatpak-аналоги для уже установленных в системе snap-пакетов. В идеальном случае пользователь может получить полностью аналогичный набор приложений, но установленный в формате flatpak. Код написан на shell и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59366</description>
+    </item>
+    
+  </channel>
+</rss>

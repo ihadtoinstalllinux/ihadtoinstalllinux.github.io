@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSINT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/osint/</link>
+    <description>Recent content in OSINT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2025 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Snoop 1.4.2, OSINT-инструмента для сбора информации о пользователе из открытых источников </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-snoop-1-4-2-osint-instrumenta-dlya-sbora-informacii-o-polzovatele-iz-otkrytyh-istoc-20250102-113557/</link>
+      <pubDate>Thu, 02 Jan 2025 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-snoop-1-4-2-osint-instrumenta-dlya-sbora-informacii-o-polzovatele-iz-otkrytyh-istoc-20250102-113557/</guid>
+      <description>Опубликован выпуск проекта Snoop 1.4.2, развивающего криминалистический OSINT-инструмент, разыскивающего учётные записи пользователей в публичных данных (разведка на основе открытых источников). Программа анализирует различные сайты, форумы и социальные сети на предмет наличия искомого имени пользователя, т.е. позволяет определить на каких сайтах имеется пользователь с указанным ником. Проект разработан на материалах исследовательской работы в области скрапинга публичных данных. Сборки подготовлены для Linux и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=62501</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Snoop 1.4.0, OSINT-инструмента для сбора информации о пользователях из открытых источников </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-snoop-1-4-0-osint-instrumenta-dlya-sbora-informacii-o-polzovatelyah-iz-otkrytyh-ist-20240102-133551/</link>
+      <pubDate>Tue, 02 Jan 2024 13:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-snoop-1-4-0-osint-instrumenta-dlya-sbora-informacii-o-polzovatelyah-iz-otkrytyh-ist-20240102-133551/</guid>
+      <description>Опубликован выпуск проекта Snoop 1.4.0, развивающего криминалистический OSINT-инструмент, который разыскивает учётные записи пользователей в публичных данных (разведка на основе открытых источников). Программа анализирует различные сайты, форумы и социальные сети на предмет наличия искомого имени пользователя, т.е. позволяет определить на каких сайтах имеется пользователь с указанным ником. Проект разработан на материалах исследовательской работы в области скрапинга публичных данных. Сборки подготовлены для Linux и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=60383</description>
+    </item>
+    
+  </channel>
+</rss>

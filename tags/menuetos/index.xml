@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MenuetOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/menuetos/</link>
+    <description>Recent content in MenuetOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2024 20:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/menuetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск операционной системы MenuetOS 1.53, написанной на ассемблере </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-menuetos-1-53-napisannoy-na-assemblere-20240820-203521/</link>
+      <pubDate>Tue, 20 Aug 2024 20:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-operacionnoy-sistemy-menuetos-1-53-napisannoy-na-assemblere-20240820-203521/</guid>
+      <description>Опубликован выпуск операционной системы MenuetOS 1.53, разработка которой ведётся полностью на ассемблере. Сборки MenuetOS подготовлены для 64-разрядных систем x86 и могут быть запущены под управлением QEMU. Сборка системы занимает 1.4 МБ и сформирована в виде образа дискеты и iso-образа для записи на CD (поддерживается запуск в VirtualBox). Исходные тексты проекта Menuet64 распространяются под ограничивающей лицензией, требующей согласования любого использования в коммерческих целях, а Menuet32 под лицензией GPL.
+https://www.opennet.ru/opennews/art.shtml?num=61732</description>
+    </item>
+    
+    <item>
+      <title>Обновление операционной системы MenuetOS 1.50, написанной на ассемблере </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-operacionnoy-sistemy-menuetos-1-50-napisannoy-na-assemblere-20240302-153533/</link>
+      <pubDate>Sat, 02 Mar 2024 15:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-operacionnoy-sistemy-menuetos-1-50-napisannoy-na-assemblere-20240302-153533/</guid>
+      <description>Опубликован выпуск операционной системы MenuetOS 1.50, разработка которой ведётся полностью на ассемблере. Сборки MenuetOS подготовлены для 64-разрядных систем x86 и могут быть запущены под управлением QEMU. Сборка системы занимает 1.4 МБ и сформирована в виде образа дискеты и iso-образа для записи на CD (поддерживается запуск в VirtualBox). Исходные тексты проекта распространяются под модифицированной лицензией MIT, дополненной требованием согласования любого использования в коммерческих целях.
+https://www.opennet.ru/opennews/art.shtml?num=60711</description>
+    </item>
+    
+  </channel>
+</rss>

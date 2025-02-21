@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EROFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/erofs/</link>
+    <description>Recent content in EROFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 10:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/erofs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live-сборки Fedora намерены перевести со SquashFS на EROFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/live-sborki-fedora-namereny-perevesti-so-squashfs-na-erofs-20250116-103507/</link>
+      <pubDate>Thu, 16 Jan 2025 10:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/live-sborki-fedora-namereny-perevesti-so-squashfs-na-erofs-20250116-103507/</guid>
+      <description>В выпуске Fedora 42, намеченном на конец апреля, планируется перевести все Live-сборки дистрибутива со SquashFS на файловую систему EROFS, поддержка которой в прошлом году была реализована в инструментарии для создания загрузочных образов Dracut 103. Предложение пока не утверждено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=62566</description>
+    </item>
+    
+    <item>
+      <title>Composefs вместо развития отдельной ФС, будет использовать OverlayFS и EROFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/composefs-vmesto-razvitiya-otdelnoy-fs-budet-ispolzovat-overlayfs-i-erofs-20230718-163505/</link>
+      <pubDate>Tue, 18 Jul 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/composefs-vmesto-razvitiya-otdelnoy-fs-budet-ispolzovat-overlayfs-i-erofs-20230718-163505/</guid>
+      <description>Доступен экспериментальный выпуск файловой системы Composefs 0.1.4, предназначенной для совместного хранения содержимого нескольких примонтированных дисковых образов. Проект развивает Александр Ларсон (Alexander Larsson), создатель Flatpak, работающий в компании Red Hat, с целью повышения эффективности монтирования образов контейнеров и размещения Git-подобного репозитория OSTree. Код проекта написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=59460</description>
+    </item>
+    
+  </channel>
+</rss>

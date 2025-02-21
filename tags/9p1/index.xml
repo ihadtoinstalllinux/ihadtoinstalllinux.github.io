@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>9p1 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/9p1/</link>
+    <description>Recent content in 9p1 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2025 21:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/9p1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление OpenSSH 9.9p1 с устранением возможности совершения MITM-атаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-9p1-s-ustraneniem-vozmozhnosti-soversheniya-mitm-ataki-20250218-213518/</link>
+      <pubDate>Tue, 18 Feb 2025 21:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-9p1-s-ustraneniem-vozmozhnosti-soversheniya-mitm-ataki-20250218-213518/</guid>
+      <description>Доступен корректирующий выпуск OpenSSH 9.9p1, в котором устранены две уязвимости, выявленные компанией Qualys. Продемонстрирован пример использования данных уязвимостей для совершения MITM-атаки, позволяющей при попытке подключения клиента к SSH-серверу, перенаправить трафик на собственный фиктивный сервер, обойти проверку хостовых ключей и создать у клиента видимость подключения к желаемому серверу (ssh-клиент примет хостовый ключ фиктивного сервера вместо ключа легитимного сервера).
+https://www.opennet.ru/opennews/art.shtml?num=62742</description>
+    </item>
+    
+  </channel>
+</rss>

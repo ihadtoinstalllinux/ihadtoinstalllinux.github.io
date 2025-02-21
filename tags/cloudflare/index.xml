@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Cloudflare открыла код h3i, утилиты для тестирования HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-h3i-utility-dlya-testirovaniya-http-3-20241231-003519/</link>
+      <pubDate>Tue, 31 Dec 2024 00:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-h3i-utility-dlya-testirovaniya-http-3-20241231-003519/</guid>
+      <description>Компания Cloudflare объявила об открытии исходного кода инструментария h3i, включающего утилиту командной строки и библиотеку функций для низкоуровневого тестирования и отладки серверных реализаций протокола HTTP/3. Утилита может использоваться для оценки поведения серверов HTTP/3, определения уровня соответствия требованиям спецификаций и проверки реагирования на внештатные ситуации. Код утилиты написан на языке Rust и открыт под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=62492</description>
+    </item>
+    
+    <item>
+      <title>По статистике Cloudflare 6.8% интернет-трафика является потенциально мусорным</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/po-statistike-cloudflare-6-8-internet-trafika-yavlyaetsya-potencialno-musornym-20240720-003538/</link>
+      <pubDate>Sat, 20 Jul 2024 00:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/po-statistike-cloudflare-6-8-internet-trafika-yavlyaetsya-potencialno-musornym-20240720-003538/</guid>
+      <description>Компания Cloudflare опубликовала статистику о характере трафика, обработанного системной доставки контента с 1 апреля 2023 года по 31 марта 2024 года. За год доля сомнительного, вредоносного или мусорного HTTP-трафика, который был блокирован или перенаправлен на проверочные страницы для отсеивания ботов (JavaScript-проверка или капча), увеличилась с 6% до 6.8% в среднем за год. Пиковые значения подобного трафика достигали 12% в определённые дни.
+https://www.opennet.ru/opennews/art.shtml?num=61580</description>
+    </item>
+    
+    <item>
+      <title>Компания Cloudflare открыла код Pingora, инструментария для создания сетевых сервисов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-pingora-instrumentariya-dlya-sozdaniya-setevyh-servisov-20240304-133558/</link>
+      <pubDate>Mon, 04 Mar 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-otkryla-kod-pingora-instrumentariya-dlya-sozdaniya-setevyh-servisov-20240304-133558/</guid>
+      <description>Компания Cloudflare объявила об открытии исходного кода фреймворка Pingora, предназначенного для разработки на языке Rust защищённых высокопроизводительных сетевых сервисов и программируемых сетевых систем. Фреймворк хорошо протестирован и уже применяется в работе высоконагруженных систем - построенный на его базе прокси более года задействован в сети доставки контента Cloudflare вместо nginx и обрабатывает более 40 млн запросов в секунду. Код написан на языке Rust и опубликован под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60722</description>
+    </item>
+    
+    <item>
+      <title>Компания Cloudflare раскрыла сведения о взломе одного из своих серверов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-raskryla-svedeniya-o-vzlome-odnogo-iz-svoih-serverov-20240202-163557/</link>
+      <pubDate>Fri, 02 Feb 2024 16:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-cloudflare-raskryla-svedeniya-o-vzlome-odnogo-iz-svoih-serverov-20240202-163557/</guid>
+      <description>Компания Cloudflare, предоставляющая сеть доставки контента, обслуживающую примерно 20% интернет-трафика, опубликовала отчёт о взломе одного из серверов в своей инфраструктуре, на котором функционировал внутренний wiki-сайт на базе платформы Atlassian Confluence, система отслеживания ошибок Atlassian Jira и система управления кодом Bitbucket. Разбор показал, что атакующий смог получить доступ к серверу, воспользовавшись токенами, полученными в результате октябрьского взлома компании Okta, приведшего к утечке токенов доступа.
+https://www.opennet.ru/opennews/art.shtml?num=60542</description>
+    </item>
+    
+    <item>
+      <title>Оценка популярности IPv6 в трафике Cloudflare</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ocenka-populyarnosti-ipv6-v-trafike-cloudflare-20231215-193553/</link>
+      <pubDate>Fri, 15 Dec 2023 19:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ocenka-populyarnosti-ipv6-v-trafike-cloudflare-20231215-193553/</guid>
+      <description>Компания Cloudflare проанализировала степень внедрения протокола IPv6 в глобальной сети, используя в качестве источника данных сведения о трафике в своих сервисах. В трафике сети доставки контента число пользователей, поддерживающих IPv6, оценено в 35.9% (доля поддержки IPv6 среди ботов составляет 24%, а среди людей - 46%). Для сравнения по данным интернет-регистратора APNIC общемировая степень внедрения IPv6 оценена в 36.64%. Лидеры по внедрению IPv6: Индия (81.53%), Малазия (69.48%), Франция (66.67%), Бельгия (66.02%) и Германия (64.</description>
+    </item>
+    
+    <item>
+      <title>В Firefox и Cloudflare включена поддержка ECH для скрытия домена в HTTPS-трафике </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</link>
+      <pubDate>Wed, 04 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</guid>
+      <description>Компания Mozilla объявила о включении для пользователей стабильной ветки Firefox поддержки механизма ECH (Encrypted Client Hello), продолжающего развитие технологии ESNI (Encrypted Server Name Indication) и предназначенного для шифрования информации о параметрах TLS-сеансов, таких как запрошенное доменное имя. Изначально код для работы с ECH был добавлен в выпуск Firefox 85, но был отключён по умолчанию. В Chrome поддержку ECH начали постепенно включать, начиная с выпуска Chrome 115.
+https://www.opennet.ru/opennews/art.shtml?num=59869</description>
+    </item>
+    
+  </channel>
+</rss>

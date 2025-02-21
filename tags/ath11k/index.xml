@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ath11k on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ath11k/</link>
+    <description>Recent content in ath11k on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Dec 2023 02:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ath11k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В OpenBSD портирован драйвер ath11k для беспроводных чипов Qualcomm</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openbsd-portirovan-drayver-ath11k-dlya-besprovodnyh-chipov-qualcomm-20231231-023601/</link>
+      <pubDate>Sun, 31 Dec 2023 02:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openbsd-portirovan-drayver-ath11k-dlya-besprovodnyh-chipov-qualcomm-20231231-023601/</guid>
+      <description>В ветку OpenBSD-current добавлен драйвер qwx для беспроводных чипов Qualcomm IEEE 802.11ax, созданный путём портирования драйвера ath11k из ядра Linux (входит в состав ядра, начиная с ветки 5.6). Драйвер позволяет задействовать беспроводные адаптеры, применяемые на таких ноутбуках, как Lenovo ThinkPad X13s и DELL XPS 9500. Для работы драйвера требуется ручная установка файлов с прошивкой.
+https://www.opennet.ru/opennews/art.shtml?num=60373</description>
+    </item>
+    
+  </channel>
+</rss>

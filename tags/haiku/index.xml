@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haiku on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/haiku/</link>
+    <description>Recent content in Haiku on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haiku ограничит доступ из Великобритании из-за риска нарушения закона Online Safety Act</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/haiku-ogranichit-dostup-iz-velikobritanii-iz-za-riska-narusheniya-zakona-online-safety-act-20250118-133550/</link>
+      <pubDate>Sat, 18 Jan 2025 13:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/haiku-ogranichit-dostup-iz-velikobritanii-iz-za-riska-narusheniya-zakona-online-safety-act-20250118-133550/</guid>
+      <description>Александр фон Глюк (Alexander von Gluck), входящий в совет директоров некоммерческой компании Haiku Inc, курирующей разработку операционной системы Haiku, сообщил о намерении до 16 марта заблокировать доступ пользователей из Великобритании к форуму проекта и другим платформам, на которых осуществляется взаимодействие с сообществом. Решение объясняется юридическими и финансовыми рисками, возникшими из-за принятого в Великобритании закона Online Safety Act, вступающего в силу 16 марта.
+https://www.opennet.ru/opennews/art.shtml?num=62579</description>
+    </item>
+    
+    <item>
+      <title>Порт Firefox принят в состав официального  репозитория ОС Haiku</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/port-firefox-prinyat-v-sostav-oficialnogo-repozitoriya-os-haiku-20241210-003529/</link>
+      <pubDate>Tue, 10 Dec 2024 00:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/port-firefox-prinyat-v-sostav-oficialnogo-repozitoriya-os-haiku-20241210-003529/</guid>
+      <description>Группой разработчиков ОС Haiku был подготовлен и принят к публикации первый общедоступный порт браузера Mozilla Firefox. Совместными усилиями в процессе подготовки порта были внесены изменения как в базовую систему, так и в другие используемые порты, например в прослойку Wayland для Haiku, подготовленную разработчиком x512.
+https://www.opennet.ru/opennews/art.shtml?num=62375</description>
+    </item>
+    
+    <item>
+      <title>Вторая экспериментальная сборка Firefox для ОС Haiku</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoraya-eksperimentalnaya-sborka-firefox-dlya-os-haiku-20241014-233530/</link>
+      <pubDate>Mon, 14 Oct 2024 23:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoraya-eksperimentalnaya-sborka-firefox-dlya-os-haiku-20241014-233530/</guid>
+      <description>Доступна для тестирования новая редакция порта Firefox для операционной системы Haiku, которая работает относительно стабильно и позволяет даже серфить по некоторым сайтам. При этом сборка не лишена отдельных проблем, например, пока не работает копирование и вставка текста через буфер обмена, некоторые скрипты на JavaScript выполняются очень медленно, всплывающие окна при первом открытии не отображаются правильно (это связано с очередной проблемой на стороне wayland-server) и т.д. Для того чтобы всё заработало потребуется особая сборка пакетов wayland, wayland-server, gtk4, webkitgtk и отдельный пакет mesa-wayland с EGL для последней версии Mesa.</description>
+    </item>
+    
+    <item>
+      <title>Пятый бета-выпуск операционной системы Haiku R1 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pyatyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20240914-123555/</link>
+      <pubDate>Sat, 14 Sep 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pyatyy-beta-vypusk-operacionnoy-sistemy-haiku-r1-20240914-123555/</guid>
+      <description>После полутора лет разработки опубликован пятый бета-выпуск операционной системы Haiku R1. Изначально проект был создан как реакция на закрытие ОС BeOS и развивался под именем OpenBeOS, но был переименован в 2004 году из-за претензий, связанных с использованием в названии торговой марки BeOS. Для оценки работы нового выпуска подготовлено несколько загрузочных Live-образов (x86, x86-64 1.4 ГБ). Исходные тексты большей части ОС Haiku распространяются под свободной лицензией MIT, исключение составляют некоторые библиотеки, медиа-кодеки и компоненты, заимствованные из других проектов.</description>
+    </item>
+    
+    <item>
+      <title>Firefox портирован для ОС Haiku</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/firefox-portirovan-dlya-os-haiku-20240811-183513/</link>
+      <pubDate>Sun, 11 Aug 2024 18:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/firefox-portirovan-dlya-os-haiku-20240811-183513/</guid>
+      <description>После более года разработки подготовлен первый рабочий порт браузера Firefox для открытой операционной системы Haiku, продолжающей развитие идей BeOS. Готовые установочные сборки пока не публикуются, для желающих использовать Firefox в Haiku предлагается выполнить сборку из исходных текстов. До сих пор в Haiku предлагались браузеры WebPositive, Epiphany и Falkon, использование которых создавало трудности из-за излишнего подозрительного отношения к ним некоторых сетей доставки контента и крупных сайтов.
+https://www.opennet.ru/opennews/art.shtml?num=61687</description>
+    </item>
+    
+  </channel>
+</rss>

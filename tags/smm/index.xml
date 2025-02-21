@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SMM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smm/</link>
+    <description>Recent content in SMM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2025 16:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в CPU AMD, позволяющие выполнить код на уровне SMM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-cpu-amd-pozvolyayuschie-vypolnit-kod-na-urovne-smm-20250217-163534/</link>
+      <pubDate>Mon, 17 Feb 2025 16:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-cpu-amd-pozvolyayuschie-vypolnit-kod-na-urovne-smm-20250217-163534/</guid>
+      <description>Компания AMD объявила об устранении шести уязвимостей в процессорах AMD EPYC и AMD Ryzen. Три наиболее опасные уязвимости (CVE-2023-31342, CVE-2023-31343, CVE-2023-31345) потенциально позволяют выполнить свой код на уровне SMM (System Management Mode), имеющем более высокий приоритет, чем режим гипервизора и нулевое кольцо защиты. Компрометация SMM позволяет получить неограниченный доступ ко всей системной памяти и может использоваться для контроля за операционной системой. Уязвимости вызваны отсутствием должной проверки входных данных в обработчике SMM, что позволяет привилегированному атакующему перезаписать содержимое SMRAM.</description>
+    </item>
+    
+    <item>
+      <title>Sinkclose - уязвимость в CPU AMD, позволяющая получить доступ к SMM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</link>
+      <pubDate>Sat, 10 Aug 2024 18:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sinkclose-uyazvimost-v-cpu-amd-pozvolyayuschaya-poluchit-dostup-k-smm-20240810-183516/</guid>
+      <description>Исследователи из компании IOActive выявили уязвимость (CVE-2023-31315) в процессорах AMD, которая при привилегированном локальном доступе к системе позволяет изменить конфигурацию SMM (System Management Mode, Ring -2), даже если включён механизм блокировки SMM (SMM Lock), а также потенциально даёт возможность добиться выполнения кода на уровне SMM. Уровень SMM, имеющий более высокий приоритет, чем режим гипервизора и нулевое кольцо защиты, позволяет получить неограниченный доступ ко всей системной памяти и может использоваться для контроля за операционной системой.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PAX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pax/</link>
+    <description>Recent content in PAX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2024 11:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект OpenPaX развивает аналог механизмов защиты Grsecurity/PaX для ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openpax-razvivaet-analog-mehanizmov-zaschity-grsecurity-pax-dlya-yadra-linux-20241031-113510/</link>
+      <pubDate>Thu, 31 Oct 2024 11:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openpax-razvivaet-analog-mehanizmov-zaschity-grsecurity-pax-dlya-yadra-linux-20241031-113510/</guid>
+      <description>Компания Edera, развивающая решения для защиты инфраструктуры Kubernetes и AI-систем, представила проект OpenPaX, представляющий собой.
+https://www.opennet.ru/opennews/art.shtml?num=62143</description>
+    </item>
+    
+    <item>
+      <title>Проект OpenBSD перешёл на использование формата PAX для tar-архивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-pereshel-na-ispolzovanie-formata-pax-dlya-tar-arhivov-20240417-143548/</link>
+      <pubDate>Wed, 17 Apr 2024 14:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-openbsd-pereshel-na-ispolzovanie-formata-pax-dlya-tar-arhivov-20240417-143548/</guid>
+      <description>В кодовую базу OpenBSD принято изменение, переводящее утилиту tar на использование по умолчанию формата PAX при создании архивов. Изменение войдёт в состав выпуска OpenBSD 7.6. Использование формата PAX даст возможность сохранять более длинные имена файлов, обрабатывать ссылки, использовать более точные сведения о времени и помещать в архив файлы очень большого размера.
+https://www.opennet.ru/opennews/art.shtml?num=61011</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MIPI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mipi/</link>
+    <description>Recent content in MIPI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2025 15:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mipi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Отчёт о развитии Fedora Workstation: AI, Wayland, HDR,  MIPI-камеры и Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otchet-o-razvitii-fedora-workstation-ai-wayland-hdr-mipi-kamery-i-flatpak-20250204-153519/</link>
+      <pubDate>Tue, 04 Feb 2025 15:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otchet-o-razvitii-fedora-workstation-ai-wayland-hdr-mipi-kamery-i-flatpak-20250204-153519/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, опубликовал отчёт о проводимой в настоящее время работе и планах по развитию дистрибутива Fedora Workstation в 2025 году.
+https://www.opennet.ru/opennews/art.shtml?num=62670</description>
+    </item>
+    
+    <item>
+      <title>Представлен полностью открытый стек для камер с интерфейсом MIPI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-polnostyu-otkrytyy-stek-dlya-kamer-s-interfeysom-mipi-20240205-213518/</link>
+      <pubDate>Mon, 05 Feb 2024 21:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-polnostyu-otkrytyy-stek-dlya-kamer-s-interfeysom-mipi-20240205-213518/</guid>
+      <description>Ганс Де Гоеде (Hans de Goede), разработчик Fedora Linux, работающий в компании Red Hat, представил на конференции FOSDEM 2024 открытый стек для камер, подключаемых при помощи интерфейса MIPI (Mobile Industry Processor Interface). Подготовленный открытый стек пока не принят в состав ядра Linux и проекта libcamera, но отмечен как достигший состояния, пригодного для тестирования широким кругом энтузиастов. Работа стека проверена с MIPI-камерами на базе сенсоров ov2740, ov01a1s и hi556, задействованных в таких ноутбуках, как Lenovo ThinkPad X1 yoga gen 8, Dell Latitude 9420 и HP Spectre x360 13.</description>
+    </item>
+    
+  </channel>
+</rss>

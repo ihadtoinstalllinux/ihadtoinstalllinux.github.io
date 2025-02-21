@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SELinux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/selinux/</link>
+    <description>Recent content in SELinux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2025 16:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/selinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дистрибутив openSUSE Tumbleweed перешёл на использование SELinux по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-tumbleweed-pereshel-na-ispolzovanie-selinux-po-umolchaniyu-20250213-163551/</link>
+      <pubDate>Thu, 13 Feb 2025 16:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-tumbleweed-pereshel-na-ispolzovanie-selinux-po-umolchaniyu-20250213-163551/</guid>
+      <description>Разработчики проекта openSUSE объявили о переводе дистрибутива openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления), на использование системы принудительного контроля доступа SELinux. Начиная с обновления 20250211 для новых установок openSUSE Tumbleweed по умолчанию предлагается SELinux в режиме &amp;ldquo;enforcing&amp;rdquo;. Готовые сборки виртуальных машин openSUSE Tumbleweed minimalVM будут поставляться по умолчанию с SELinux.
+https://www.opennet.ru/opennews/art.shtml?num=62715</description>
+    </item>
+    
+    <item>
+      <title>В ядре Linux убрали упоминание связи SELinux с АНБ</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-ubrali-upominanie-svyazi-selinux-s-anb-20230830-153506/</link>
+      <pubDate>Wed, 30 Aug 2023 15:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadre-linux-ubrali-upominanie-svyazi-selinux-s-anb-20230830-153506/</guid>
+      <description>В кодовую базу, на основе которой будет сформирован выпуск ядра Linux 6.6, передано изменение, убирающие упоминание Агентства национальной безопасности США из опций, связанных с включением системы принудительного контроля доступа SELinux. Механизм SELinux был разработан АНБ, включён в состав ядра Linux в 2003 году и используется во многих дистрибутивах Linux, включая Fedora и Red Hat Enterprise Linux. Вопреки спекуляциям о возможном внесении закладок, реализация SELinux была многократно проверена и подвергнута независимому аудиту.</description>
+    </item>
+    
+    <item>
+      <title>Обход ограничений SELinux, связанных с загрузкой модулей ядра</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obhod-ogranicheniy-selinux-svyazannyh-s-zagruzkoy-moduley-yadra-20230605-133506/</link>
+      <pubDate>Mon, 05 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obhod-ogranicheniy-selinux-svyazannyh-s-zagruzkoy-moduley-yadra-20230605-133506/</guid>
+      <description>Выявлена возможность обхода запрета загрузки модулей ядра, реализуемого через SELinux. Блокировка модулей в SELinux основывалась на ограничении доступа к системному вызову finit_module, позволяющему загрузить модуль из файла и применяемому в таких утилитах, как insmod. При этом правила SELinux не рассматривали системный вызов init_module, который также может применяться для загрузки модулей ядра напрямую из буфера в памяти.
+https://www.opennet.ru/opennews/art.shtml?num=59248</description>
+    </item>
+    
+  </channel>
+</rss>

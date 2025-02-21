@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Minotaur on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minotaur/</link>
+    <description>Recent content in Minotaur on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minotaur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Minotaur развивает оптимизатор векторных инструкций для LLVM </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-minotaur-razvivaet-optimizator-vektornyh-instrukciy-dlya-llvm-20230716-123507/</link>
+      <pubDate>Sun, 16 Jul 2023 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-minotaur-razvivaet-optimizator-vektornyh-instrukciy-dlya-llvm-20230716-123507/</guid>
+      <description>Группа исследователей из университета Юты (США) предложила оптимизатор Minotaur для набора компиляторов LLVM, использующий метод на основе решения задач выполнимости формул (SMT Solver) для выявления недостающих оптимизаций в промежуточном представлении кода (LLVM IR), генерируемом оптимизатором LLVM. Minotaur главным образом нацелен на оптимизацию целочисленных векторных инструкций (SIMD), как переносимых, так и специфичных для систем x86_64 (SSE, AVX, AVX2 и AVX-512).
+https://www.opennet.ru/opennews/art.shtml?num=59447</description>
+    </item>
+    
+  </channel>
+</rss>

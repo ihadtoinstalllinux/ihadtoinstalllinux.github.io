@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Downfall on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/downfall/</link>
+    <description>Recent content in Downfall on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2023 12:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/downfall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downfall - атака на CPU Intel, приводящая к утечке данных из других процессов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</link>
+      <pubDate>Wed, 09 Aug 2023 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/downfall-ataka-na-cpu-intel-privodyaschaya-k-utechke-dannyh-iz-drugih-processov-20230809-123508/</guid>
+      <description>Даниэль Могими (Daniel Moghimi) из компании Google, занимающийся исследовательской деятельностью в Калифорнийском университете в Сан-Диего, выявил новую уязвимость (CVE-2022-40982) в системе спекулятивного выполнения инструкций процессоров Intel, позволяющую определить содержимое векторных регистров XMM, YMM и ZMM, до этого использованных в других процессах при выполнении инструкций AVX (Advanced Vector Extensions) на том же ядре CPU. Уязвимости присвоено имя Downfall, а техника атаки названа Gather Data Sampling (GDS).
+https://www.opennet.ru/opennews/art.shtml?num=59571</description>
+    </item>
+    
+  </channel>
+</rss>

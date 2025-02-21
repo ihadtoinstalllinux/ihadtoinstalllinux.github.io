@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UDisks on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/udisks/</link>
+    <description>Recent content in UDisks on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 15:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/udisks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск UDisks 2.10.0 с поддержкой NVMe</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-udisks-2-10-0-s-podderzhkoy-nvme-20230629-153505/</link>
+      <pubDate>Thu, 29 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-udisks-2-10-0-s-podderzhkoy-nvme-20230629-153505/</guid>
+      <description>После двух лет разработки опубликован релиз пакета UDisks 2.10.0, включающего системный фоновый процесс, библиотеки и инструментарий для организации доступа и управления дисками, устройствами хранения и связанными с ними технологиями. UDisks предоставляет D-Bus API для работы с дисковыми разделами, настройки MD RAID, работы с блочными устройствами в файле (loop-монтирование), манипуляций с файловыми системами и т.п. Дополнительно поставляются модули для мониторинга и управления BCache, BTRFS, iSCSI, libStorageManagement, LVM2, LVM Cache и zRAM.</description>
+    </item>
+    
+  </channel>
+</rss>

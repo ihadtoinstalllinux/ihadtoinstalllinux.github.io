@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>flatpak on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flatpak/</link>
+    <description>Recent content in flatpak on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 14:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora пригрозили иском из-за поставки сбойного flatpak-пакета с OBS Studio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fedora-prigrozili-iskom-iz-za-postavki-sboynogo-flatpak-paketa-s-obs-studio-20250214-143555/</link>
+      <pubDate>Fri, 14 Feb 2025 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fedora-prigrozili-iskom-iz-za-postavki-sboynogo-flatpak-paketa-s-obs-studio-20250214-143555/</guid>
+      <description>Разработчики системы потокового видеовещания OBS Studio предъявили проекту Fedora претензию, связанную с поставкой некорректно работающего неофициального flatpak-пакета в форме, создающей у пользователей впечатление, что они используют официальный пакет. Проблема в том, что разработчики OBS Studio распространяют через каталог Flathub собственный flatpak-пакет, но вместо него пользователям Fedora предоставляется другой вариант flatpak-пакета, сопровождаемый разработчиками Fedora и при установке являющийся более приоритетным.
+https://www.opennet.ru/opennews/art.shtml?num=62718</description>
+    </item>
+    
+    <item>
+      <title>Отчёт о развитии Fedora Workstation: AI, Wayland, HDR,  MIPI-камеры и Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otchet-o-razvitii-fedora-workstation-ai-wayland-hdr-mipi-kamery-i-flatpak-20250204-153519/</link>
+      <pubDate>Tue, 04 Feb 2025 15:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otchet-o-razvitii-fedora-workstation-ai-wayland-hdr-mipi-kamery-i-flatpak-20250204-153519/</guid>
+      <description>Кристиан Шаллер (Christian Schaller), возглавляющий Fedora Desktop Team и группу по развитию десктоп-систем в компании Red Hat, опубликовал отчёт о проводимой в настоящее время работе и планах по развитию дистрибутива Fedora Workstation в 2025 году.
+https://www.opennet.ru/opennews/art.shtml?num=62670</description>
+    </item>
+    
+    <item>
+      <title>Релиз системы самодостаточных пакетов Flatpak 1.16.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-samodostatochnyh-paketov-flatpak-1-16-0-20250110-133532/</link>
+      <pubDate>Fri, 10 Jan 2025 13:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-samodostatochnyh-paketov-flatpak-1-16-0-20250110-133532/</guid>
+      <description>После двух с половиной лет разработки опубликована новая стабильная ветка инструментария Flatpak 1.16, предоставляющего систему для сборки самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и выполняемых в специальном контейнере, изолирующем приложение от остальной системы. Поддержка выполнения Flatpak-пакетов обеспечена для Fedora, CentOS, Debian, Arch Linux, Gentoo, Linux Mint, Alt Linux и Ubuntu. Пакеты с Flatpak включены в репозиторий Fedora и поддерживаются в штатных программах управления приложениями GNOME и KDE.
+https://www.opennet.ru/opennews/art.shtml?num=62537</description>
+    </item>
+    
+    <item>
+      <title>В Fedora 42 намерены реализовать телеметрию и изменить модель доступа к дискам и flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</link>
+      <pubDate>Tue, 02 Jul 2024 13:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-fedora-42-namereny-realizovat-telemetriyu-i-izmenit-model-dostupa-k-diskam-i-flatpak-20240702-133558/</guid>
+      <description>В выпуск Fedora Workstation 42, намеченный на весну следующего года, предложено добавить компоненты для сбора и отправки метрик, которые позволят изучить реальные предпочтения пользователей и учесть их при принятии решений, связанных с развитием дистрибутива, определением приоритетов в разработке и повышением удобства работы пользователей. Предложение пока находится на стадии обсуждения и не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=61478</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость во flatpak, позволяющая обойти  sandbox-изоляцию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</link>
+      <pubDate>Fri, 19 Apr 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-vo-flatpak-pozvolyayuschaya-oboyti-sandbox-izolyaciyu-20240419-013525/</guid>
+      <description>В инструментарии Flatpak, предназначенном для создания самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и изолированных от остальной системы, выявлена уязвимость (CVE-2024-32462). Уязвимость позволяет вредоносному или скомпрометированному приложению, поставляемому в пакете flatpak, обойти установленный режим sandbox-изоляции и получить доступ к файлам в основной системе. Проблема проявляется только в пакетах, использующих порталы Freedesktop (xdg-desktop-portal), применяемые для организации доступа к ресурсам пользовательского окружения из изолированных приложений. Уязвимость устранена в корректирующих обновлениях flatpak 1.</description>
+    </item>
+    
+    <item>
+      <title>unsnap - инструментарий для миграции Ubuntu со Snap на Flatpak</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</link>
+      <pubDate>Sun, 02 Jul 2023 10:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/unsnap-instrumentariy-dlya-migracii-ubuntu-so-snap-na-flatpak-20230702-103504/</guid>
+      <description>Проект unsnap развивает утилиту для перевода систем на базе Ubuntu с использования пакетов snap на пакеты в формате flatpak. Утилита не только заменяет пакетный менеджер snap на flatpak, но также подбирает и устанавливает flatpak-аналоги для уже установленных в системе snap-пакетов. В идеальном случае пользователь может получить полностью аналогичный набор приложений, но установленный в формате flatpak. Код написан на shell и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59366</description>
+    </item>
+    
+    <item>
+      <title>Обновление Flatpak с устранением двух уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-flatpak-s-ustraneniem-dvuh-uyazvimostey-20230320-133506/</link>
+      <pubDate>Mon, 20 Mar 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-flatpak-s-ustraneniem-dvuh-uyazvimostey-20230320-133506/</guid>
+      <description>Доступны корректирующие обновления инструментарии для создания самодостаточных пакетов Flatpak 1.14.4, 1.12.8, 1.10.8 и 1.15.4 в которых устранены две уязвимости.
+https://www.opennet.ru/opennews/art.shtml?num=58825</description>
+    </item>
+    
+  </channel>
+</rss>

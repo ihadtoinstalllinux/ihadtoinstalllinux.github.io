@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DXVK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dxvk/</link>
+    <description>Recent content in DXVK on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 18:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dxvk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DXVK 2.5, реализации Direct3D 8/9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-5-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20241113-183541/</link>
+      <pubDate>Wed, 13 Nov 2024 18:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-5-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20241113-183541/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.5, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 24.0, NVIDIA 535.183.01, Intel ANV 24.0, AMDVLK 2024.Q1.3, AMDGPU-PRO и NVK 24.1. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.4.1, реализации Direct3D поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-1-realizacii-direct3d-poverh-api-vulkan-20240927-223518/</link>
+      <pubDate>Fri, 27 Sep 2024 22:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-1-realizacii-direct3d-poverh-api-vulkan-20240927-223518/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.4.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.4, реализации Direct3D 8/9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20240710-223512/</link>
+      <pubDate>Wed, 10 Jul 2024 22:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-4-realizacii-direct3d-8-9-10-11-poverh-api-vulkan-20240710-223512/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.4, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>В состав DXVK добавлена поддержка Direct3D 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-sostav-dxvk-dobavlena-podderzhka-direct3d-8-20240708-233557/</link>
+      <pubDate>Mon, 08 Jul 2024 23:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-sostav-dxvk-dobavlena-podderzhka-direct3d-8-20240708-233557/</guid>
+      <description>В состав прослойки DXVK, предоставляющей реализацию графического API Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan, интегрированы наработки проекта D8VK, обеспечивающего трансляцию Direct3D 8 в API Vulkan. Все связанные с проектом D8VK разработки теперь будут вестись в составе кодовой базы DXVK, в которой D8VK оформлен в виде бэкенда для Direct3D 8. По сравнению с проектами WineD3D и d3d8to9, в которых применяется трансляция Direct3D 8 в OpenGL и Direct3D 9, трансляция в API Vulkan позволила добиться более высокой производительности, стабильности и совместимости с играми.</description>
+    </item>
+    
+    <item>
+      <title>Новые версии DXVK 2.3.1 и vkd3d-proton 2.12 c реализацией Direct3D поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</link>
+      <pubDate>Thu, 21 Mar 2024 13:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.3.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.3, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230905-133505/</link>
+      <pubDate>Tue, 05 Sep 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-3-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230905-133505/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.3, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск DXVK 2.2, реализации Direct3D 9/10/11 поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230512-183506/</link>
+      <pubDate>Fri, 12 May 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-dxvk-2-2-realizacii-direct3d-9-10-11-poverh-api-vulkan-20230512-183506/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.2, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+  </channel>
+</rss>

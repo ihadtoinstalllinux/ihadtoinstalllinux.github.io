@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spreadsheet on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/spreadsheet/</link>
+    <description>Recent content in Spreadsheet on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2024 13:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/spreadsheet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Perl-модуле Spreadsheet::ParseExcel, используемая для компрометации Barracuda ESG</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</link>
+      <pubDate>Sat, 06 Jan 2024 13:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-perl-module-spreadsheet-parseexcel-ispolzuemaya-dlya-komprometacii-barracuda-20240106-133516/</guid>
+      <description>В Perl-модуле Spreadsheet::ParseExcel, предоставляющем функции для разбора файлов в формате Excel, выявлена критическая уязвимость (CVE-2023-7101), позволяющая выполнить произвольный код при обработке файлов XLS или XLSX, включающих специально оформленные правила форматирования чисел. Уязвимость вызвана использованием при построении вызова &amp;ldquo;eval&amp;rdquo; данных, полученных из обрабатываемого файла. Проблема устранена в обновлении Spreadsheet::ParseExcel 0.66. Имеется прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=60376</description>
+    </item>
+    
+  </channel>
+</rss>

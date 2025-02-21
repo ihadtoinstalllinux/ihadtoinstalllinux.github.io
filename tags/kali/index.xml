@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kali on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kali/</link>
+    <description>Recent content in Kali on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2024 19:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива для исследования безопасности Kali Linux 2024.4 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2024-4-20241218-193532/</link>
+      <pubDate>Wed, 18 Dec 2024 19:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2024-4-20241218-193532/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2024.4, основанного на пакетной базе Debian и предназначенного для тестирования систем на наличие уязвимостей, проведения аудита безопасности, анализа остаточной информации и выявления последствий атак. Все оригинальные наработки, созданные для дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены iso-образы размером 600 МБ и 4.1 ГБ. Сборки доступны для архитектур x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid). Hа выбор предоставляются рабочие столы Xfce, KDE и GNOME.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив для исследования безопасности Kali Linux 2024.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-dlya-issledovaniya-bezopasnosti-kali-linux-2024-2-20240606-023553/</link>
+      <pubDate>Thu, 06 Jun 2024 02:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-dlya-issledovaniya-bezopasnosti-kali-linux-2024-2-20240606-023553/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2024.2, основанного на пакетной базе Debian и предназначенного для тестирования систем на предмет наличия уязвимостей, проведения аудита, анализа остаточной информации и выявления последствий атак злоумышленников. Все оригинальные наработки, созданные в рамках дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены несколько вариантов iso-образов, размером 495 МБ и 4 ГБ. Сборки доступны для архитектур i386, x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для исследования безопасности Kali Linux 2023.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-3-20230824-163505/</link>
+      <pubDate>Thu, 24 Aug 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-3-20230824-163505/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2023.3, основанного на пакетной базе Debian и предназначенного для тестирования систем на предмет наличия уязвимостей, проведения аудита, анализа остаточной информации и выявления последствий атак злоумышленников. Все оригинальные наработки, созданные в рамках дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены несколько вариантов iso-образов, размером 468 МБ, 2.9 ГБ и 3.7 ГБ. Сборки доступны для архитектур i386, x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для исследования безопасности Kali Linux 2023.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-2-20230602-153505/</link>
+      <pubDate>Fri, 02 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-2-20230602-153505/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2023.2, основанного на пакетной базе Debian и предназначенного для тестирования систем на предмет наличия уязвимостей, проведения аудита, анализа остаточной информации и выявления последствий атак злоумышленников. Все оригинальные наработки, созданные в рамках дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены несколько вариантов iso-образов, размером 443 МБ, 2.8 ГБ и 3.7 ГБ. Сборки доступны для архитектур i386, x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива для исследования безопасности Kali Linux 2023.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-1-20230315-153502/</link>
+      <pubDate>Wed, 15 Mar 2023 15:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-dlya-issledovaniya-bezopasnosti-kali-linux-2023-1-20230315-153502/</guid>
+      <description>Представлен релиз дистрибутива Kali Linux 2023.1, приуроченный к десятилетию существования проекта. Дистрибутив создан на основе Debian и предназначен для тестирования систем на предмет наличия уязвимостей, проведения аудита, анализа остаточной информации и выявления последствий атак злоумышленников. Все оригинальные наработки, созданные в рамках дистрибутива, распространяются под лицензией GPL и доступны через публичный Git-репозиторий. Для загрузки подготовлены несколько вариантов iso-образов, размером 459 МБ, 3 ГБ и 3.9 ГБ. Сборки доступны для архитектур i386, x86_64, ARM (armhf и armel, Raspberry Pi, Banana Pi, ARM Chromebook, Odroid).</description>
+    </item>
+    
+  </channel>
+</rss>

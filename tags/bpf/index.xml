@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BPF on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bpf/</link>
+    <description>Recent content in BPF on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Nov 2024 17:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Архитектура набора команд BPF получила статус предложенного стандарта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/arhitektura-nabora-komand-bpf-poluchila-status-predlozhennogo-standarta-20241106-173519/</link>
+      <pubDate>Wed, 06 Nov 2024 17:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/arhitektura-nabora-komand-bpf-poluchila-status-predlozhennogo-standarta-20241106-173519/</guid>
+      <description>Комитет IETF (Internet Engineering Task Force), занимающийся развитием протоколов и архитектуры интернета, завершил формирование RFC для архитектуры набора команд BPF и опубликовал связанную с ним спецификацию под идентификатором RFC 9669. RFC получил статус &amp;ldquo;Предложенного стандарта&amp;rdquo;, после чего начнётся работа по приданию RFC статуса чернового стандарта (Draft Standard), фактически означающего полную стабилизацию и учёт всех высказанных замечаний.
+https://www.opennet.ru/opennews/art.shtml?num=62187</description>
+    </item>
+    
+    <item>
+      <title>Использование BPF-программ для решения проблем в устройствах ввода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-bpf-programm-dlya-resheniya-problem-v-ustroystvah-vvoda-20240423-003527/</link>
+      <pubDate>Tue, 23 Apr 2024 00:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ispolzovanie-bpf-programm-dlya-resheniya-problem-v-ustroystvah-vvoda-20240423-003527/</guid>
+      <description>Питер Хаттерер (Peter Hutterer), мэйнтейнер подсистемы ввода X.Org, работающий в Red Hat, представил новую утилиту udev-hid-bpf, предназначенную для автоматической загрузки BPF-программ, исправляющих проблемы в устройствах ввода с интерфейсом HID (Human Input Device) или меняющих их поведение в зависимости от предпочтений пользователя. Для создания обработчиков к HID-устройствами, таким как клавиатуры и мыши, применяется подсистема HID-BPF, появившаяся в ядре Linux 6.3 и позволяющая создавать драйверы устройств ввода в форме BPF-программ или обрабатывать различные события в подсистеме HID.</description>
+    </item>
+    
+  </channel>
+</rss>

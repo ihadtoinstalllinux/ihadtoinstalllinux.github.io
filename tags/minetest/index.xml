@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Minetest on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minetest/</link>
+    <description>Recent content in Minetest on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 02:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minetest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Игровой движок Minetest переименован в Luanti</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-minetest-pereimenovan-v-luanti-20241022-023602/</link>
+      <pubDate>Tue, 22 Oct 2024 02:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-minetest-pereimenovan-v-luanti-20241022-023602/</guid>
+      <description>После многолетнего обсуждения объявлено о переименовании игрового движка Minetest, который теперь будет развиваться под именем Luanti. Новое имя образовано путём комбинирования финского слова luonti, которое переводится как &amp;ldquo;создание&amp;rdquo; (создатель проекта из Финляндии), с названием языка программирования Lua, используемого в движке. Потребность в переименовании возникла из-за путаницы, вызванной схожестью имени Minetest с названием игры Minecraft, что вводило пользователей в заблуждение и давало повод думать, что проект развивает клон Minecraft. С другой стороны наличие слова &amp;ldquo;test&amp;rdquo; в названии наталкивало на мысли, что это тестовый продукт.</description>
+    </item>
+    
+    <item>
+      <title>Релиз свободного воксельного игрового движка Minetest 5.9.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-minetest-5-9-0-20240814-233542/</link>
+      <pubDate>Wed, 14 Aug 2024 23:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-minetest-5-9-0-20240814-233542/</guid>
+      <description>После девяти месяцев разработки опубликован релиз Minetest 5.9.0, свободного кроссплатформенного игрового движка в жанре песочница, позволяющего создавать игры в стиле Minecraft, используя различные воксельные блоки для совместного формирования игроками различных структур и построек, образующих подобие виртуального мира. Предоставляемый движком геймплей полностью зависит от набора модов, создаваемых на языке Lua. Движок написан на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht). Код Minetest распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+    </item>
+    
+    <item>
+      <title>Обновление игры Mineclonia 0.97, сделанной на движке Minetest</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-igry-mineclonia-0-97-sdelannoy-na-dvizhke-minetest-20240316-013508/</link>
+      <pubDate>Sat, 16 Mar 2024 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-igry-mineclonia-0-97-sdelannoy-na-dvizhke-minetest-20240316-013508/</guid>
+      <description>Вышло обновление 0.97 игры Mineclonia, которая является форком Mineclone2 и сделана на движке Minetest. Отличительной чертой Mineclonia по сравнению с Mineclone2 является упор на стабильность и производительность. На данный момент игра имеет больше функций, чем Mineclone2, но при этом из Mineclonia намеренно удалены внутриигровая музыка (для сокращения размера) и гамбургеры, которые отсутствуют в Minecraft и негативно влияли на производительность. Код проекта написан на языке Lua и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Nodeverse, игры об исследовании космоса на движке Minetest</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-nodeverse-igry-ob-issledovanii-kosmosa-na-dvizhke-minetest-20240101-133602/</link>
+      <pubDate>Mon, 01 Jan 2024 13:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-nodeverse-igry-ob-issledovanii-kosmosa-na-dvizhke-minetest-20240101-133602/</guid>
+      <description>Вышла версия Nodeverse 0.4.0, игры об исследовании космоса, построенной на движке Minetest. Основные функции игры сводятся к исследованию планет, строительству и полёту на космических кораблях. Проект Nodeverse был вдохновлен игрой No Man&amp;rsquo;s Sky. Код игры написан на Lua и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60378</description>
+    </item>
+    
+    <item>
+      <title>Релиз свободного воксельного игового движка Minetest 5.8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igovogo-dvizhka-minetest-5-8-0-20231208-113524/</link>
+      <pubDate>Fri, 08 Dec 2023 11:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igovogo-dvizhka-minetest-5-8-0-20231208-113524/</guid>
+      <description>После восьми месяцев разработки опубликован релиз Minetest 5.8.0, свободного кроссплатформенного игрового движка в жанре песочница, позволяющего создавать игры в стиле MineCraft, используя различные воксельные блоки для совместного формирования игроками различных структур и построек, образующих подобие виртуального мира. Предоставляемый движком геймплей полностью зависит от набора модов, создаваемых на языке Lua. Игра написана на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht). Код Minetest распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Repixture 3.11.0, игры на движке Minetest</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-repixture-3-11-0-igry-na-dvizhke-minetest-20231201-193540/</link>
+      <pubDate>Fri, 01 Dec 2023 19:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-repixture-3-11-0-igry-na-dvizhke-minetest-20231201-193540/</guid>
+      <description>Вышла новая версия Repixture 3.11.0, намеренно упрощённой игры на выживание в песочнице, построенной на движке Minetest. Основными элементами игры являются сельское хозяйство, животные и монстры, деревни и жители, достижения. Игра использует свою оригинальную систему крафта. Код проекта написан на Lua и распространяется под лицензией LGPL-2.1.
+https://www.opennet.ru/opennews/art.shtml?num=60215</description>
+    </item>
+    
+    <item>
+      <title>Выпуск игры Mineclonia  0.91, созданной на движке Minetest</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-igry-mineclonia-0-91-sozdannoy-na-dvizhke-minetest-20231107-173601/</link>
+      <pubDate>Tue, 07 Nov 2023 17:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-igry-mineclonia-0-91-sozdannoy-na-dvizhke-minetest-20231107-173601/</guid>
+      <description>Вышло обновление игры Mineclonia 0.91, которая сделана на движке Minetest и является форком игры Mineclone 2, предоставляющим сходный с Minecraft игровой процесс. При разработке форка основное внимание уделяется повышению стабильности, расширению функциональности и оптимизации производительности. Код проекта написан на языке Lua и распространяется под лицензией GPLv3. В новой версии выполнена переработка деревень и жителей, обновлён мод hudbars и улучшена игровая физика.
+https://www.opennet.ru/opennews/art.shtml?num=60067</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Steampunk Blimp 0.31, мода minetest, добавляющего дирижабль</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-steampunk-blimp-0-31-moda-minetest-dobavlyayuschego-dirizhabl-20230816-213504/</link>
+      <pubDate>Wed, 16 Aug 2023 21:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-steampunk-blimp-0-31-moda-minetest-dobavlyayuschego-dirizhabl-20230816-213504/</guid>
+      <description>Вышел релиз Steampunk Blimp 0.31, мода MineTest (открытый клон игры MineCraft), который добавляет дирижабль, способный перевозить 7 игроков. Чтобы летать на нем, необходимо предоставить некоторые предметы, такие как топливо для сжигания и вода для котла. Топливом может быть уголь, угольный блок и дрова. Также, за счёт давления его можно посадить на воду. Для работы мода нужно установить мод airutils. Код проекта написан на языке Lua и распространяется под лицензией MIT. В новой версии была добавлена поддержка игр Mineclone2 и Mineclonia.</description>
+    </item>
+    
+    <item>
+      <title>Релиз Minetest 5.7.0, открытого клона игры MineCraft </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minetest-5-7-0-otkrytogo-klona-igry-minecraft-20230410-233505/</link>
+      <pubDate>Mon, 10 Apr 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minetest-5-7-0-otkrytogo-klona-igry-minecraft-20230410-233505/</guid>
+      <description>Состоялся релиз Minetest 5.7.0, свободного кроссплатформенного игрового движка в стиле песочница, позволяющего создавать различные воксельные постройки, выживать, копать полезные ископаемые, выращивать культуры и т.д. Игра написана на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht 1.9-dev). Главная особенность движка состоит в том, что геймплей полностью зависит от набора модов, создаваемых на языке Lua и устанавливаемых пользователем через встроенный установщик ContentDB или через форум. Код Minetest распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+    </item>
+    
+  </channel>
+</rss>

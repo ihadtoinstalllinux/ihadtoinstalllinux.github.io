@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slackware on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/slackware/</link>
+    <description>Recent content in Slackware on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 10:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/slackware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slackware Linux переходит на использование загрузчика GNU GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</link>
+      <pubDate>Mon, 24 Jun 2024 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</guid>
+      <description>Патрик Фолькердинг (Patrick Volkerding), основатель и бессменный лидер (BDFL) проекта Slackware Linux, начал перевод дистрибутива на использование загрузчика GNU GRUB (Grand Unified Bootloader) вместо ранее применявшихся устаревших загрузчиков LILO и ELILO. GNU GRUB поддерживает спецификацию Multiboot и может использоваться для загрузки различных операционных систем, как напрямую, так и в режиме chainloading.
+https://www.opennet.ru/opennews/art.shtml?num=61429</description>
+    </item>
+    
+    <item>
+      <title>Slackware Linux исполнилось 30 лет </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-ispolnilos-30-let-20230717-093508/</link>
+      <pubDate>Mon, 17 Jul 2023 09:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-ispolnilos-30-let-20230717-093508/</guid>
+      <description>30 лет назад Патрик Фолькердинг (Patrick Volkerding) представил первый релиз дистрибутива Slackware Linux, оказавшего влияние на многие проекты и являющимся старейшим из ныне существующих дистрибутивов. Наиболее известным ответвлением от Slackware являются SUSE Linux. Из продолжающих развитие модификаций Slackware можно отметить Salix, Slax, Slackel, Porteus, Zenwalk и Absolute Linux.
+https://www.opennet.ru/opennews/art.shtml?num=59450</description>
+    </item>
+    
+  </channel>
+</rss>

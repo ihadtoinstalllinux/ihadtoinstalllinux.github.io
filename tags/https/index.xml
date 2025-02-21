@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTTPS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/https/</link>
+    <description>Recent content in HTTPS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/https/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск HTTPS-анализатора Mitmproxy 11 с поддержкой HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</link>
+      <pubDate>Sun, 06 Oct 2024 12:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-https-analizatora-mitmproxy-11-s-podderzhkoy-http-3-20241006-123520/</guid>
+      <description>Представлен релиз проекта Mitmproxy 11, развивающего инструментарий для перехвата трафика внутри соединений, установленных по HTTPS, с возможностями инспектирования, модификации и повторного воспроизведения трафика. Основным назначением Mitmproxy является организация отслеживания трафика в корпоративных системах и диагностика проблем, например, выявление скрытой сетевой активности приложений. Исходные тексты проекта написаны на языке Python и распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61997</description>
+    </item>
+    
+    <item>
+      <title>В Firefox и Cloudflare включена поддержка ECH для скрытия домена в HTTPS-трафике </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</link>
+      <pubDate>Wed, 04 Oct 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-i-cloudflare-vklyuchena-podderzhka-ech-dlya-skrytiya-domena-v-https-trafike-20231004-133506/</guid>
+      <description>Компания Mozilla объявила о включении для пользователей стабильной ветки Firefox поддержки механизма ECH (Encrypted Client Hello), продолжающего развитие технологии ESNI (Encrypted Server Name Indication) и предназначенного для шифрования информации о параметрах TLS-сеансов, таких как запрошенное доменное имя. Изначально код для работы с ECH был добавлен в выпуск Firefox 85, но был отключён по умолчанию. В Chrome поддержку ECH начали постепенно включать, начиная с выпуска Chrome 115.
+https://www.opennet.ru/opennews/art.shtml?num=59869</description>
+    </item>
+    
+    <item>
+      <title>В адресной строке Firefox 119 изменится отображение сайтов, открытых по HTTP и HTTPS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</link>
+      <pubDate>Wed, 20 Sep 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-adresnoy-stroke-firefox-119-izmenitsya-otobrazhenie-saytov-otkrytyh-po-http-i-https-20230920-003505/</guid>
+      <description>В выпуске Firefox 119, намеченном на 24 октября, будет изменена индикация защищённых и незащищённых соединений к сайту. При открытии сайтов с использованием HTTPS в адресной строке будет убрано отображение префикса &amp;ldquo;https://&amp;rdquo;, а для сайтов, открытых по HTTP без шифрования соединения, начнёт показываться префикс &amp;ldquo;http://&amp;rdquo; и помимо пиктограммы с перечёркнутым замком появится отдельное текстовое примечание &amp;ldquo;Not Secure&amp;rdquo;. Например, при открытии &amp;ldquo;https://www.opennet.ru&amp;rdquo; будет показываться &amp;ldquo;www.opennet.ru&amp;rdquo;, а при открытии &amp;ldquo;httр://www.opennet.ru&amp;rdquo; - &amp;ldquo;Not Secure httр://www.</description>
+    </item>
+    
+    <item>
+      <title>Инициатива по форсированию проброса на HTTPS в Chrome</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-forsirovaniyu-probrosa-na-https-v-chrome-20230817-133505/</link>
+      <pubDate>Thu, 17 Aug 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-forsirovaniyu-probrosa-na-https-v-chrome-20230817-133505/</guid>
+      <description>Компания Google намерена реализовать несколько шагов для усиления использования HTTPS по умолчанию. Конечной целью является включение для всех пользователей режима HTTPS-First, выполняющего автоматическое перенаправление HTTP-запросов на HTTPS. Отмечается, что в настоящее время более 90% запросов отправляются пользователями Chrome с использованием HTTPS, но 5-10% трафика по-прежнему привязано к HTTP. Так как не все сайты пока поддерживают HTTPS и существуют конфигурации, в которых при обращении по HTTP и HTTPS отдаётся разное содержимое, перед повсеместным внедрением автоматического проброса на HTTPS решено реализовать ряд промежуточных мер.</description>
+    </item>
+    
+  </channel>
+</rss>

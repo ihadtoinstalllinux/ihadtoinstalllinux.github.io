@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>URL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/url/</link>
+    <description>Recent content in URL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2023 12:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/url/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Firefox добавлена возможность вырезания параметров отслеживания из URL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-vozmozhnost-vyrezaniya-parametrov-otslezhivaniya-iz-url-20231105-123525/</link>
+      <pubDate>Sun, 05 Nov 2023 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-firefox-dobavlena-vozmozhnost-vyrezaniya-parametrov-otslezhivaniya-iz-url-20231105-123525/</guid>
+      <description>В ночных сборках Firefox, на базе которых 19 декабря будет сформирован выпуск Firefox 121, в контекстном меню появилась новая опция, позволяющая скопировать URL выбранной ссылки в буфер обмена, предварительно вырезав из него опции, которые используются для отслеживания переходов между сайтами. Например, при копировании ссылки будут удалены параметры mc_eid и fbclid, применяемые при переходе со страниц Facebook.
+https://www.opennet.ru/opennews/art.shtml?num=60049</description>
+    </item>
+    
+  </channel>
+</rss>

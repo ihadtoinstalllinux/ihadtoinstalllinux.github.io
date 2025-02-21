@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BadRAM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/badram/</link>
+    <description>Recent content in BadRAM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 22:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/badram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака BadRAM, позволяющая обойти механизм аттестации SEV-SNP в CPU AMD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-badram-pozvolyayuschaya-oboyti-mehanizm-attestacii-sev-snp-v-cpu-amd-20241213-223559/</link>
+      <pubDate>Fri, 13 Dec 2024 22:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-badram-pozvolyayuschaya-oboyti-mehanizm-attestacii-sev-snp-v-cpu-amd-20241213-223559/</guid>
+      <description>Группа исследователей из Лёвенского, Любекского и Бирмингемского университетов разработала метод атаки BadRAM (CVE-2024-21944), позволяющий обойти механизм подтверждения подлинности и скомпрометировать окружения, защищённые с использованием расширения SEV-SNP в процессорах AMD. Для совершения атаки злоумышленник, за редким исключением, должен получить физический доступ к модулям памяти, а также иметь возможность выполнения кода на уровне нулевого кольца защиты (ring0) на сервере, выполняющем защищённые гостевые окружения.
+https://www.opennet.ru/opennews/art.shtml?num=62399</description>
+    </item>
+    
+  </channel>
+</rss>

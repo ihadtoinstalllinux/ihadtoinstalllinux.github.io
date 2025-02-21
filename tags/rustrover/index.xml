@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RustRover on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rustrover/</link>
+    <description>Recent content in RustRover on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Sep 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rustrover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JetBrains представил IDE RustRover и прекратил разработку открытого плагина intellij-rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</link>
+      <pubDate>Thu, 14 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</guid>
+      <description>Компания JetBrains представила новую интегрированную среду разработку RustRover, ориентированную на написание приложений на языке Rust. Среда RustRover нацелена на повышение эффективности разработки на языке Rust, удовлетворение потребностей связанной с Rust экосистемы и первичную поддержку данного языка. Проект будет развиваться как коммерческий продукт, но похожее окружение можно сформировать на основе бесплатной community-версии среды IntelliJ IDEA с плагином intellij-rust. В настоящее время для тестирования без ограничений доступен пререлиз RustRover, сборки которого подготовлены для Linux, macOS и Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

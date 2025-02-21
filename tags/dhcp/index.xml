@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DHCP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dhcp/</link>
+    <description>Recent content in DHCP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2024 13:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dhcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака TunnelVision, позволяющая перенаправить VPN-трафик через манипуляции с DHCP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-tunnelvision-pozvolyayuschaya-perenapravit-vpn-trafik-cherez-manipulyacii-s-dhcp-20240507-133605/</link>
+      <pubDate>Tue, 07 May 2024 13:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-tunnelvision-pozvolyayuschaya-perenapravit-vpn-trafik-cherez-manipulyacii-s-dhcp-20240507-133605/</guid>
+      <description>Вниманию публики предложен метод атаки TunnelVision, позволяющий при наличии доступа к локальной сети или контроля над беспроводной сетью, осуществить перенаправление на свой хост трафика жертвы в обход VPN (вместо отправки через VPN, трафик будет отправлен в открытом виде без туннелирования на систему атакующего). Проблеме подвержены любые VPN-клиенты, не использующие изолированные пространства имён сетевой подсистемы (network namespace) при направлении трафика в туннель или не выставляющие при настройке туннеля правила пакетного фильтра, запрещающие маршрутизацию VPN-трафика через имеющиеся физические сетевые интерфейсы.</description>
+    </item>
+    
+  </channel>
+</rss>

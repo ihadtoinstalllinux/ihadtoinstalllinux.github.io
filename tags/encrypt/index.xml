@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Encrypt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/encrypt/</link>
+    <description>Recent content in Encrypt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 14:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/encrypt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Encrypt прекращает поддержку протокола OCSP для проверки отозванных сертификатов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prekraschaet-podderzhku-protokola-ocsp-dlya-proverki-otozvannyh-sertifikatov-20241209-143513/</link>
+      <pubDate>Mon, 09 Dec 2024 14:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prekraschaet-podderzhku-protokola-ocsp-dlya-proverki-otozvannyh-sertifikatov-20241209-143513/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, принял решение прекратить поддержку протокола OCSP (Online Certificate Status Protocol), применяемого для проверки отзыва сертификатов. Вместо протокола OCSP предлагается использовать списки отозванных сертификатов (CRL - Certificate Revocation List), публикуемые сервисом Let&amp;rsquo;s Encrypt начиная с 2022 года. 7 мая 2025 года Let&amp;rsquo;s Encrypt отключит добавление ссылок на адреса OCSP в выдаваемые сертификаты и прекратит обработку запросов, связанных с использованием расширения &amp;ldquo;OCSP Must Staple&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>NS-сервера домена .top прекратили обслуживание запросов валидации Let&#39;s Encrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</link>
+      <pubDate>Mon, 01 Jul 2024 14:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ns-servera-domena-top-prekratili-obsluzhivanie-zaprosov-validacii-let-s-encrypt-20240701-143545/</guid>
+      <description>Пользователи некоммерческого удостоверяющего центра Let&amp;rsquo;s Encrypt, контролируемого сообществом и предоставляющего сертификаты безвозмездно всем желающим, при получении сертификатов столкнулись с невозможностью подтверждения прав на домены в зоне &amp;ldquo;.top&amp;rdquo; через DNS. С 25 июня DNS-серверы, отвечающие за домен первого уровня &amp;ldquo;.top&amp;rdquo;, перестали принимать запросы от резолверов проекта Lets Encrypt, используемых в процессе проверки методом DNS-01, которая, например, требуется для получения сертификатов с масками, позволяющими охватить в одном сертификате группу поддоменов (например, *.example.com).</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt перешёл на NTP-сервер ntpd-rs, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</link>
+      <pubDate>Tue, 25 Jun 2024 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-pereshel-na-ntp-server-ntpd-rs-napisannyy-na-yazyke-rust-20240625-123532/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, объявил о переходе на использование NTP-сервера ntpd-rs, написанного на языке Rust с оглядкой на обеспечение безопасности и стабильности. Проект распространяется под лицензиями Apache 2.0 и MIT, полностью поддерживает протоколы NTP и NTS (Network Time Security) на уровне клиента и сервера, и может использоваться в качестве замены NTP-серверам chrony, ntpd и NTPsec.
+https://www.opennet.ru/opennews/art.shtml?num=61435</description>
+    </item>
+    
+    <item>
+      <title>DNS-сервер Trust-DNS переименован в Hickory и будет задействован в инфраструктуре Let&#39;s Encrypt</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dns-server-trust-dns-pereimenovan-v-hickory-i-budet-zadeystvovan-v-infrastrukture-let-s-en-20231007-013505/</link>
+      <pubDate>Sat, 07 Oct 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dns-server-trust-dns-pereimenovan-v-hickory-i-budet-zadeystvovan-v-infrastrukture-let-s-en-20231007-013505/</guid>
+      <description>Автор DNS-сервера Trust-DNS объявил о переименовании проекта в Hickory DNS. В качестве причины смены имени называется желание сделать проект более привлекательным для пользователей, разработчиков и спонсоров, избежать пересечений при поиске с концепцией &amp;ldquo;Trusted DNS&amp;rdquo;, а также зарегистрировать товарный знак и защитить связанный с проектом бренд (имя Trust-DNS будет проблематично использовать как товарный знак, так как оно образовано из типовых слов, которые нельзя рассматривать как уникальные).
+https://www.opennet.ru/opennews/art.shtml?num=59883</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt празднует 10 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prazdnuet-10-let-20230804-103511/</link>
+      <pubDate>Fri, 04 Aug 2023 10:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prazdnuet-10-let-20230804-103511/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, отмечает своё десятилетие. Ежедневно сервисом генерируется около трёх миллионов новых сертификатов. Число активных сертификатов составляет 277 млн (сертификат действует три месяца). Данные сертификаты охватывают около 111 млн зарегистрированных доменов и 350 млн полных доменных имён (FQDN). По статистике сервиса Firefox Telemetry общемировая доля запросов страниц по HTTPS составляет 79% (пик был в 2020 году, когда доля HTTPS достигла 85%, за последний два года процент загруженных по HTTPS страниц уменьшился).</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt внедрил расширение для координации обновления сертификатов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-vnedril-rasshirenie-dlya-koordinacii-obnovleniya-sertifikatov-20230326-103505/</link>
+      <pubDate>Sun, 26 Mar 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-vnedril-rasshirenie-dlya-koordinacii-obnovleniya-sertifikatov-20230326-103505/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, объявил о реализации в своей инфраструктуре поддержки ARI (ACME Renewal Information), расширения протокола ACME, позволяющего передавать клиенту сведения о необходимости обновления сертификатов и рекомендовать оптимальное время для обновления. Спецификация ARI проходит процесс стандартизации комитетом IETF (Internet Engineering Task Force), занимающимся развитием протоколов и архитектуры интернета, и находится на стадии проверки чернового варианта.
+https://www.opennet.ru/opennews/art.shtml?num=58870</description>
+    </item>
+    
+  </channel>
+</rss>

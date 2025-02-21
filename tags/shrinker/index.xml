@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shrinker on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/shrinker/</link>
+    <description>Recent content in Shrinker on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 20:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/shrinker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива CachyOS 241110 с поддержкой THP Shrinker и  AMD Cache Optimizer</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241110-s-podderzhkoy-thp-shrinker-i-amd-cache-optimizer-20241112-203545/</link>
+      <pubDate>Tue, 12 Nov 2024 20:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-cachyos-241110-s-podderzhkoy-thp-shrinker-i-amd-cache-optimizer-20241112-203545/</guid>
+      <description>Опубликован выпуск дистрибутива CachyOS 241110, основанного на пакетной базе Arch Linux и развиваемого в рамках непрерывной модели доставки обновлений. Дистрибутив примечателен включением оптимизаций для повышения производительности и предоставлением возможности установки различных сред рабочего стола. Помимо базового окружения на основе KDE для установки доступны GNOME, XFCE, i3WM, Wayfire, LXQT, OpenBox, Cinnamon, Cosmic, UKUI, LXDE, Mate, Budgie, Qtile, Hyprland и Sway. Размер установочного iso-образа 2.7 ГБ. Отдельно поставляются сборки (2.9) для носимых устройств (Handheld Edition) с интерфейсом в стиле GameMode и компонентами для любителей компьютерных игр.</description>
+    </item>
+    
+  </channel>
+</rss>

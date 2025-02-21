@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BatBadBut on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/batbadbut/</link>
+    <description>Recent content in BatBadBut on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2024 14:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/batbadbut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость BatBadBut, затрагивающая стандартные библиотеки различных языков программирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-batbadbut-zatragivayuschaya-standartnye-biblioteki-razlichnyh-yazykov-programmi-20240411-143509/</link>
+      <pubDate>Thu, 11 Apr 2024 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-batbadbut-zatragivayuschaya-standartnye-biblioteki-razlichnyh-yazykov-programmi-20240411-143509/</guid>
+      <description>Приложения, запускающие сценарии в формате bat и cmd на платформе Windows при помощи штатных функций запуска процессов, подвержены уязвимости, позволяющей добиться выполнения своего кода в случае передачи при запуске аргументов без отдельного экранирования спецсимволов. Уязвимость получила кодовое имя BatBadBut и проявляется в приложениях, использующих стандартные библиотеки таких языков, как Rust, PHP, Node.js, Python, Ruby, Go, Erlang и Haskell.
+https://www.opennet.ru/opennews/art.shtml?num=60964</description>
+    </item>
+    
+  </channel>
+</rss>

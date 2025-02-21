@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mergiraf on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mergiraf/</link>
+    <description>Recent content in mergiraf on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Dec 2024 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mergiraf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mergiraf - AST-ориентированный инструмент для трёхстороннего слияния в Git</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mergiraf-ast-orientirovannyy-instrument-dlya-trehstoronnego-sliyaniya-v-git-20241214-123520/</link>
+      <pubDate>Sat, 14 Dec 2024 12:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mergiraf-ast-orientirovannyy-instrument-dlya-trehstoronnego-sliyaniya-v-git-20241214-123520/</guid>
+      <description>Опубликован релиз проекта mergiraf 0.4, развивающего драйвер для Git с реализацией возможности трёхстороннего слияния. Mergiraf поддерживает разрешение различных видов конфликтов при слиянии и может использоваться для различных языков программирования и форматов файлов. Возможно как отдельный вызов mergiraf для обработки конфликтов, возникающих при работе со штатным Git, так и замена в Git обработчика слияний для расширения возможностей таких команд, как merge, revert, rebase и cherry-pick. Код распространяется под лицензией GPLv3. В новой версии добавлена поддержка языков Python, TOML, Scala и Typescript, а также проведена оптимизация производительности.</description>
+    </item>
+    
+  </channel>
+</rss>

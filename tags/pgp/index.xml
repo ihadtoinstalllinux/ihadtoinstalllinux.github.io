@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PGP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pgp/</link>
+    <description>Recent content in PGP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 13:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pgp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый стабильный релиз PGP-инструментария sq от проекта Sequoia</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-reliz-pgp-instrumentariya-sq-ot-proekta-sequoia-20241217-133533/</link>
+      <pubDate>Tue, 17 Dec 2024 13:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-stabilnyy-reliz-pgp-instrumentariya-sq-ot-proekta-sequoia-20241217-133533/</guid>
+      <description>После семи лет разработки сформирован релиз инструментарий командной строки sq 1.0, предназначенного для работы с артефактами OpenPGP. Инструментарий подготовлен проектом Sequoia PGP, также развивающим библиотеку функций с реализацией стандарта OpenPGP (RFC-4880). Выпуск 1.0 отмечен как первый стабильный релиз проекта, означающий стабилизацию кодовой базы и прекращение внесение изменений, нарушающих совместимость. Код написан на языке Rust и распространяется под лицензией GPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=62421</description>
+    </item>
+    
+    <item>
+      <title>GitHub обновил PGP-ключи из-за уязвимости, приводящей к утечке переменных окружения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pgp-klyuchi-iz-za-uyazvimosti-privodyaschey-k-utechke-peremennyh-okruzheniy-20240117-163600/</link>
+      <pubDate>Wed, 17 Jan 2024 16:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pgp-klyuchi-iz-za-uyazvimosti-privodyaschey-k-utechke-peremennyh-okruzheniy-20240117-163600/</guid>
+      <description>GitHub раскрыл сведения об уязвимости, позволяющей получить доступ к содержимому переменных окружений, выставленных в контейнерах, применяемых в рабочей инфраструктуре. Уязвимость была выявлена участником программы Bug Bounty, претендующим на получение вознаграждения за поиск проблем с безопасностью. Проблема затрагивает как сервис GitHub.com, так и конфигурации GitHub Enterprise Server (GHES), выполняемые на системах пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=60448</description>
+    </item>
+    
+    <item>
+      <title>PyPI пересмотрит политику в отношении персональных данных и прекратит поддержку PGP-подписей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pypi-peresmotrit-politiku-v-otnoshenii-personalnyh-dannyh-i-prekratit-podderzhku-pgp-podpi-20230525-013508/</link>
+      <pubDate>Thu, 25 May 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pypi-peresmotrit-politiku-v-otnoshenii-personalnyh-dannyh-i-prekratit-podderzhku-pgp-podpi-20230525-013508/</guid>
+      <description>Директор по инфраструктуре организации Python Software Foundation опубликовал отчёт о выполнении требований по раскрытию персональных данных пользователей репозитория PyPI (Python Package Index). В марте и апреле Министерство юстиции США направило в PyPI требования о раскрытии данных 5 пользователей, которые после консультаций с юристами были выполнены. Переданные данные включали имена, адресную информацию, списки загруженных пакетов и сведения о сеансах и IP-адресах.
+https://www.opennet.ru/opennews/art.shtml?num=59191</description>
+    </item>
+    
+  </channel>
+</rss>

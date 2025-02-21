@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ci/</link>
+    <description>Recent content in CI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в GitLab, позволяющее запустить код при сборке в CI любого проекта</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschee-zapustit-kod-pri-sborke-v-ci-lyubogo-proekta-20230508-123505/</link>
+      <pubDate>Mon, 08 May 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-gitlab-pozvolyayuschee-zapustit-kod-pri-sborke-v-ci-lyubogo-proekta-20230508-123505/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки - GitLab 15.11.2, 15.10.6 и 15.9.7, в которых устранена критическая уязвимость (CVE-2023-2478), позволяющая любому аутентифицированному пользователю через манипуляции с API GraphQL прикрепить собственный runner-обработчик (приложение для запуска задач при сборке кода проекта в системе непрерывной интеграции) к любому проекту на том же сервере. Подробности эксплуатации пока не приводятся. Информация об уязвимости передана в GitLab в рамках действующей на HackerOne программы выплаты вознаграждений за обнаружение уязвимостей.</description>
+    </item>
+    
+  </channel>
+</rss>

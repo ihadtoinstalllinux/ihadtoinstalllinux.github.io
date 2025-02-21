@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Clang on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/clang/</link>
+    <description>Recent content in Clang on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2025 16:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/clang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>На базе Clang для языка Си реализован режим проверки границ буферов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-baze-clang-dlya-yazyka-si-realizovan-rezhim-proverki-granic-buferov-20250124-163514/</link>
+      <pubDate>Fri, 24 Jan 2025 16:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-baze-clang-dlya-yazyka-si-realizovan-rezhim-proverki-granic-buferov-20250124-163514/</guid>
+      <description>Инженеры из компании Apple объявили о готовности для тестирования режима &amp;ldquo;-fbounds-safety&amp;rdquo; для компилятора Clang, предоставляющего гарантии безопасной работы с буферами в коде на языке Си. Режим включён в состав форка LLVM, поддерживаемого компанией Apple для проекта Swift. В дальнейшем запланирована постепенная передача функциональности &amp;ldquo;-fbounds-safety&amp;rdquo; в основную кодовую базу LLVM/Clang.
+https://www.opennet.ru/opennews/art.shtml?num=62606</description>
+    </item>
+    
+  </channel>
+</rss>

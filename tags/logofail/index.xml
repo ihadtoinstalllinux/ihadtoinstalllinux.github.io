@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LogoFAIL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/logofail/</link>
+    <description>Recent content in LogoFAIL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Dec 2023 00:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/logofail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LogoFAIL - атака на UEFI-прошивки через подстановку вредоносных логотипов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/logofail-ataka-na-uefi-proshivki-cherez-podstanovku-vredonosnyh-logotipov-20231202-003604/</link>
+      <pubDate>Sat, 02 Dec 2023 00:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/logofail-ataka-na-uefi-proshivki-cherez-podstanovku-vredonosnyh-logotipov-20231202-003604/</guid>
+      <description>Исследователи из компании Binarly выявили серию уязвимостей в коде разбора изображений, используемом в UEFI-прошивках различных производителей. Уязвимости позволяют добиться выполнения своего кода во время загрузки через размещение специально оформленного изображения в разделе ESP (EFI System Partition) или в не заверенной цифровой подписью части обновления прошивки. Предложенный метод атаки может использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot и аппаратных механизмов защиты, таких как Intel Boot Guard, AMD Hardware-Validated Boot и ARM TrustZone Secure Boot.</description>
+    </item>
+    
+  </channel>
+</rss>

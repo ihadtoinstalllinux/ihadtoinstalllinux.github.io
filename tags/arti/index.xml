@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arti on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arti/</link>
+    <description>Recent content in Arti on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 21:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Arti 1.4.0, официальной реализации Tor на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-4-0-oficialnoy-realizacii-tor-na-yazyke-rust-20250208-213512/</link>
+      <pubDate>Sat, 08 Feb 2025 21:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-4-0-oficialnoy-realizacii-tor-na-yazyke-rust-20250208-213512/</guid>
+      <description>Разработчики проекта Tor опубликовали выпуск Arti 1.4.0, реализации Tor-клиента, написанного на языке Rust. Ветка 1.x отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Достижение паритета с клиентом на языке Си намечено в ветке 2.0. Когда код на Rust достигнет уровня, способного полностью заменить вариант на Си, разработчики намерены придать Arti статус основной реализации Tor и постепенно прекратить сопровождение реализации на Си.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Arti 1.2, официальной реализации Tor на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-2-oficialnoy-realizacii-tor-na-yazyke-rust-20240305-133603/</link>
+      <pubDate>Tue, 05 Mar 2024 13:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-arti-1-2-oficialnoy-realizacii-tor-na-yazyke-rust-20240305-133603/</guid>
+      <description>Разработчики сети Tor опубликовали выпуск проекта Arti 1.2.0, развивающего Tor-клиент, написанный на языке Rust. Ветка 1.x отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Код распространяется под лицензиями Apache 2.0 и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60729</description>
+    </item>
+    
+    <item>
+      <title>В Arti 1.1.12, реализации Tor на Rust, началось тестирование onion-сервисов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arti-1-1-12-realizacii-tor-na-rust-nachalos-testirovanie-onion-servisov-20240110-203545/</link>
+      <pubDate>Wed, 10 Jan 2024 20:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arti-1-1-12-realizacii-tor-na-rust-nachalos-testirovanie-onion-servisov-20240110-203545/</guid>
+      <description>Разработчики анонимной сети Tor опубликовали выпуск проекта Arti 1.1.12, развивающего Tor-клиент, написанный на языке Rust. Ветка 1.x отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Код распространяется под лицензиями Apache 2.0 и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60416</description>
+    </item>
+    
+  </channel>
+</rss>

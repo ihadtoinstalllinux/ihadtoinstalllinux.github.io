@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Savant on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/savant/</link>
+    <description>Recent content in Savant on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 21:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/savant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Savant 0.2.7, фреймворка компьютерного зрения и глубокого обучения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-7-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20240208-213556/</link>
+      <pubDate>Thu, 08 Feb 2024 21:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-7-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20240208-213556/</guid>
+      <description>Опубликован выпуск Python-фреймворка Savant 0.2.7, упрощающего использование NVIDIA DeepStream для решения задач, связанных с машинным обучением. Фреймворк берет на себя всю сложную работу с GStreamer или FFmpeg, позволяя сосредоточиться на построении оптимизированных конвейеров вывода с помощью декларативного синтаксиса (YAML) и функций Python. Savant позволяет создавать конвейеры (pipeline), которые одинаково работают как на ускорителях в датацентре (NVIDIA Turing, Ampere, Hopper), так и на edge-устройствах (NVIDIA Jetson NX, AGX Xavier, Orin NX, AGX Orin, New Nano).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Savant 0.2.5, фреймворка компьютерного зрения и глубокого обучения </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-5-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20230926-143505/</link>
+      <pubDate>Tue, 26 Sep 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-5-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20230926-143505/</guid>
+      <description>Опубликован выпуск Python-фреймворка Savant 0.2.5, упрощающего использование NVIDIA DeepStream для решения задач, связанных с машинным обучением. Фреймворк берет на себя всю сложную работу с GStreamer или FFmpeg, позволяя сосредоточиться на построении оптимизированных конвейеров вывода с помощью декларативного синтаксиса (YAML) и функций Python. Savant позволяет создавать конвейеры (pipeline), которые одинаково работают как на ускорителях в датацентре (NVIDIA Turing, Ampere, Hopper), так и на edge-устройствах (NVIDIA Jetson NX, AGX Xavier, Orin NX, AGX Orin, New Nano).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Savant 0.2.4, фреймворка компьютерного зрения и глубокого обучения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-4-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20230717-153507/</link>
+      <pubDate>Mon, 17 Jul 2023 15:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-savant-0-2-4-freymvorka-kompyuternogo-zreniya-i-glubokogo-obucheniya-20230717-153507/</guid>
+      <description>После месяца разработки опубликован выпуск Python-фреймворка Savant 0.2.4, упрощающего использование NVIDIA DeepStream для решения задач, связанных с машинным обучением. Фреймворк берет на себя всю сложную работу с GStreamer или FFmpeg, позволяя сосредоточиться на построении оптимизированных конвейеров вывода с помощью декларативного синтаксиса (YAML) и функций Python. Savant позволяет создавать конвейеры (pipeline), которые одинаково работают как на ускорителях в датацентре (NVIDIA Turing, Ampere, Hopper), так и на edge-устройствах (NVIDIA Jetson NX, AGX Xavier, Orin NX, AGX Orin, New Nano).</description>
+    </item>
+    
+    <item>
+      <title>Вышел Savant 0.2.3, Python-фреймворк для компьютерного зрения и видеоаналитики</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyshel-savant-0-2-3-python-freymvork-dlya-kompyuternogo-zreniya-i-videoanalitiki-20230615-183505/</link>
+      <pubDate>Thu, 15 Jun 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyshel-savant-0-2-3-python-freymvork-dlya-kompyuternogo-zreniya-i-videoanalitiki-20230615-183505/</guid>
+      <description>Опубликован новый выпуск Python-фреймворка Savant, который упрощает использование NVIDIA DeepStream для инженеров, использующих машинное обучение. Фреймворк берет на себя всю сложную работу с GStreamer, позволяя сосредоточиться на построении оптимизированных конвейеров вывода с помощью декларативного синтаксиса (YAML) и функций Python. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59301</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snek on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/snek/</link>
+    <description>Recent content in Snek on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 12:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/snek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Snek 1.10, Python-подобного языка программирования для встраиваемых систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</link>
+      <pubDate>Fri, 29 Nov 2024 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</guid>
+      <description>Кит Паккард (Keith Packard), активный разработчик Debian, лидер проекта X.Org и создатель множества X-расширений, включая XRender, XComposite и XRandR, опубликовал новый выпуск языка программирования Snek 1.10, позиционируемого как упрощённый вариант языка Python, адаптированный для использования на встраиваемых системах, на которых недостаточно ресурсов для использования MicroPython и CircuitPython. Snek не претендует на полноценную поддержку языка Python, но может использоваться на чипах, имеющих всего 2КБ ОЗУ, 32 КБ Flash-памяти и 1КБ EEPROM. Код проекта распространяется под лицензией GPLv3.</description>
+    </item>
+    
+  </channel>
+</rss>

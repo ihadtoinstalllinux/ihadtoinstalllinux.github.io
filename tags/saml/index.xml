@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SAML on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/saml/</link>
+    <description>Recent content in SAML on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 01:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/saml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Ruby-SAML, позволяющая обойти аутентификацию в GitLab</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</link>
+      <pubDate>Fri, 20 Sep 2024 01:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ruby-saml-pozvolyayuschaya-oboyti-autentifikaciyu-v-gitlab-20240920-013602/</guid>
+      <description>Опубликованы корректирующие обновления платформы для организации совместной разработки GitLab - 17.3.3, 17.2.6 и 17.1.8, в которых устранена критическая уязвимость, позволяющая обойти аутентификацию на базе SAML (Security Assertion Markup Language). Проблема вызвана уязвимостью (CVE-2024-45409) в Ruby-библиотеках ruby-saml и omniauth-saml, реализующих клиентскую часть SAML-авторизации. Уязвимости присвоен максимальный уровень опасности 10 из 10. Проблема устранена в обновлениях пакетов ruby-saml (1.17.0 и 1.12.3) и omniauth-saml (2.2.0).
+https://www.opennet.ru/opennews/art.shtml?num=61893</description>
+    </item>
+    
+  </channel>
+</rss>

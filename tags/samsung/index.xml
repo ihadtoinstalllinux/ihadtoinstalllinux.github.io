@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Samsung on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/samsung/</link>
+    <description>Recent content in Samsung on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 22:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/samsung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google, Samsung и Arm представили формат объёмного звука Eclipsa</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/google-samsung-i-arm-predstavili-format-obemnogo-zvuka-eclipsa-20250110-223505/</link>
+      <pubDate>Fri, 10 Jan 2025 22:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/google-samsung-i-arm-predstavili-format-obemnogo-zvuka-eclipsa-20250110-223505/</guid>
+      <description>Компании Google, Samsung и Arm, а также альянс Open Media, развивающий технологию кодирования видео AV1, начали продвижение звукового формата Eclipsa, рассчитанного на распространение объёмного звука. Формат основан на спецификации IAMF (Immersive Audio Model and Formats), разработанной участниками Open Media и имеющей открытую эталонную реализацию. Использование Eclipsa не требует оплаты отчислений. Компания Samsung уже заявила о поддержке Eclipsa в телевизорах и звуковых панелях 2025 модельного года, включая модели телевизоров Crystal UHD и Neo QLED 8K.</description>
+    </item>
+    
+    <item>
+      <title>Samsung адаптирует мобильную платформу Tizen для архитектуры RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/samsung-adaptiruet-mobilnuyu-platformu-tizen-dlya-arhitektury-risc-v-20241004-113511/</link>
+      <pubDate>Fri, 04 Oct 2024 11:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/samsung-adaptiruet-mobilnuyu-platformu-tizen-dlya-arhitektury-risc-v-20241004-113511/</guid>
+      <description>Компания Samsung объявила на конференции Samsung Developer Conference 2024 о портировании открытой мобильной платформы Tizen для устройств с процессорами на базе архитектуры RISC-V. Samsung рассматривается возможность использования RISC-V в умных телевизорах и прочей потребительской технике, а также сотрудничает с компанией SiFive по созданию прототипов телевизоров с RISC-V ядрами серии SiFive Performance. На выставке продемонстрирован один из таких прототипов, построенный на базе RISC-V процессора SiFive Performance P470 и оснащённый прошивкой с платформой Tizen.</description>
+    </item>
+    
+    <item>
+      <title>Samsung обеспечил поддержку формата изображений JPEG XL </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/samsung-obespechil-podderzhku-formata-izobrazheniy-jpeg-xl-20240120-143512/</link>
+      <pubDate>Sat, 20 Jan 2024 14:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/samsung-obespechil-podderzhku-formata-izobrazheniy-jpeg-xl-20240120-143512/</guid>
+      <description>Компания Samsung добавила поддержку формата изображений JPEG XL в приложение для работы с камерой, поставляемое в смартфонах Galaxy S24. Ранее в числе сторонников формата также выступили компании Apple, Facebook, Adobe, Intel, Krita, The Guardian, libvips, Cloudinary, Shopify и Free Software Foundation. До этого компания Google удалила экспериментальную реализацию JPEG XL из кодовой базы Chromium, мотивируя данное решение отсутствием достаточного интереса к формату со стороны экосистемы.
+https://www.opennet.ru/opennews/art.shtml?num=60467</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в беспроводных модулях Samsung Exynos, эксплуатируемая через интернет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-besprovodnyh-modulyah-samsung-exynos-ekspluatiruemaya-cherez-internet-20230317-143502/</link>
+      <pubDate>Fri, 17 Mar 2023 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-besprovodnyh-modulyah-samsung-exynos-ekspluatiruemaya-cherez-internet-20230317-143502/</guid>
+      <description>Исследователи из команды Google Project Zero сообщили о выявлении 18 уязвимостей в 5G/LTE/GSM-модемах Samsung Exynos. Четыре наиболее опасные уязвимости (CVE-2023-24033) позволяют добиться выполнения кода на уровне baseband-чипа через манипуляции из внешних интернет-сетей. По мнению представителей Google Project Zero, после проведения небольших дополнительных исследований квалифицированные злоумышленники смогут оперативно подготовить рабочий эксплоит, дающий возможность удалённо получить управление на уровне беспроводного модуля, зная только телефонный номер жертвы. Атака может быть проведена незаметно от пользователя и не требует от него выполнения каких-либо действий.</description>
+    </item>
+    
+  </channel>
+</rss>

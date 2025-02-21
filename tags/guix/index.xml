@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>guix on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/guix/</link>
+    <description>Recent content in guix on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 13:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/guix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в NetworkManager-libreswan и guix-daemon, позволяющие повысить привилегии в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-networkmanager-libreswan-i-guix-daemon-pozvolyayuschie-povysit-privilegii-v-s-20241025-133541/</link>
+      <pubDate>Fri, 25 Oct 2024 13:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-networkmanager-libreswan-i-guix-daemon-pozvolyayuschie-povysit-privilegii-v-s-20241025-133541/</guid>
+      <description>В плагине NetworkManager-libreswan, добавляющем в NetworkManager функциональность для подключения к VPN, совместимым с серверами на базе Libreswan и Cisco IPsec, выявлена уязвимость (CVE-2024-9050), которая может использоваться для повышения локальным пользователем своих привилегий. Уязвимость устранена в обновлении NetworkManager-libreswan 1.2.24.
+https://www.opennet.ru/opennews/art.shtml?num=62109</description>
+    </item>
+    
+  </channel>
+</rss>

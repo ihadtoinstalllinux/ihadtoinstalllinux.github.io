@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TrapC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/trapc/</link>
+    <description>Recent content in TrapC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 01:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/trapc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект TrapC развивает Си-подобный язык, безопасно работающий с памятью</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-trapc-razvivaet-si-podobnyy-yazyk-bezopasno-rabotayuschiy-s-pamyatyu-20241113-013603/</link>
+      <pubDate>Wed, 13 Nov 2024 01:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-trapc-razvivaet-si-podobnyy-yazyk-bezopasno-rabotayuschiy-s-pamyatyu-20241113-013603/</guid>
+      <description>Стартап Trasec развивает язык программирования TrapC, представляющий собой диалект языка Си, обеспечивающий безопасную работу с памятью. Для блокирования ошибок при работе с памятью, таких как выход за границы выделенного буфера и обращение к уже освобождённой памяти, в TrapC применяется фундаментально иной способ работы с указателями и специальный механизм перехвата ошибок на основе обработчиков исключений (trap). Исходный код компилятора для TrapC планируют открыть в 2025 году.
+https://www.opennet.ru/opennews/art.shtml?num=62224</description>
+    </item>
+    
+  </channel>
+</rss>

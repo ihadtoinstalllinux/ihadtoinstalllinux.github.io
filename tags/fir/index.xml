@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fir on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fir/</link>
+    <description>Recent content in Fir on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2025 11:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инициатива по портированию Firеfox на GTK4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-portirovaniyu-firefox-na-gtk4-20250218-113602/</link>
+      <pubDate>Tue, 18 Feb 2025 11:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-portirovaniyu-firefox-na-gtk4-20250218-113602/</guid>
+      <description>Спустя год после первой попытки портирования Firеfox на GTK4, предпринятой Мартином Странский (Martin Stransky), мэйнтейнером пакетов с Firefox в Fedora и RHEL, нашёлся энтузиаст продолживший развитие инициативы. Проект взял в свои руки Йенс Перссон (Jens Persson), соавтор приложения Panucci для воспроизведения подкастов и аудиокниг. Работа над портом ещё не завершена, но в репозитории проекта последние два месяца наблюдается активная работа по созданию прослойки с виджетами, реализованной на базе GTK4. В текущем виде работа сосредоточена только на использовании Wayland, а X11 пока не поддерживается.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firеfox 124.0.2. Тестирование вертикальной панели вкладок и контейнеров вкладок</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-124-0-2-testirovanie-vertikalnoy-paneli-vkladok-i-konteynerov-vkladok-20240403-023554/</link>
+      <pubDate>Wed, 03 Apr 2024 02:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-124-0-2-testirovanie-vertikalnoy-paneli-vkladok-i-konteynerov-vkladok-20240403-023554/</guid>
+      <description>Доступен корректирующий выпуск Firefox 124.0.2, в котором предложены следующие исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60916</description>
+    </item>
+    
+  </channel>
+</rss>

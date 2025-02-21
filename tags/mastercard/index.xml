@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MasterCard on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mastercard/</link>
+    <description>Recent content in MasterCard on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 15:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mastercard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Из-за опечатки в настройках атакующие могли подменить DNS-сервер MasterCard</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iz-za-opechatki-v-nastroykah-atakuyuschie-mogli-podmenit-dns-server-mastercard-20250123-153558/</link>
+      <pubDate>Thu, 23 Jan 2025 15:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iz-za-opechatki-v-nastroykah-atakuyuschie-mogli-podmenit-dns-server-mastercard-20250123-153558/</guid>
+      <description>Исследователь безопасности из компании Seralys выявил возможность подмены DNS-сервера для домена mastercard.com, используемого в инфраструктуре платёжной системы MasterCard. В настройках доменной зоны mastercard.com с июня 2020 года присутствовала опечатка - в списке обслуживающих зону DNS-серверов вместо хоста &amp;ldquo;a22-65.akam.net&amp;rdquo; (DNS-служба Akamai) был указан хост &amp;ldquo;a22-65.akam.ne&amp;rdquo;. Корневая зона &amp;ldquo;.ne&amp;rdquo; закреплена за Республикой Нигер и домен &amp;ldquo;akam.ne&amp;rdquo; оказался доступен для продажи.
+https://www.opennet.ru/opennews/art.shtml?num=62602</description>
+    </item>
+    
+  </channel>
+</rss>

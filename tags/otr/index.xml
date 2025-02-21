@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>otr on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/otr/</link>
+    <description>Recent content in otr on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 01:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/otr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В плагине ss-otr к Pidgin выявлен вредоносный код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-plagine-ss-otr-k-pidgin-vyyavlen-vredonosnyy-kod-20240828-013554/</link>
+      <pubDate>Wed, 28 Aug 2024 01:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-plagine-ss-otr-k-pidgin-vyyavlen-vredonosnyy-kod-20240828-013554/</guid>
+      <description>Разработчики клиента для мгновенного обмена сообщениями Pidgin, поддерживающего работу с такими сетями как Jabber/XMPP, Bonjour, Gadu-Gadu, IRC, Novell GroupWise, Lotus Sametime и Zephyr, объявили о выявлении вредоносного кода в плагине ss-otr (ScreenShareOTR), присутствующего в каталоге плагинов, развиваемых сообществом. Плагин был размещён в каталоге 6 июля, распространялся только в бинарном виде и добавлял в Pidgin возможность предоставления совместного доступа к экрану, используя протокол OTR (Off-the-Record). 16 августа исследователи безопасности выявили вредоносную активность в ss-otr, которая выражалась в запуске кейлоггера и отправке скриншотов экрана на внешние серверы.</description>
+    </item>
+    
+  </channel>
+</rss>

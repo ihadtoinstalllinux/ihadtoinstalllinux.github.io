@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DeepSeek on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/deepseek/</link>
+    <description>Recent content in DeepSeek on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2025 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Утечка конфиденциальной информации DeepSeek из-за неограниченного доступа к БД с логами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-konfidencialnoy-informacii-deepseek-iz-za-neogranichennogo-dostupa-k-bd-s-logami-20250130-163544/</link>
+      <pubDate>Thu, 30 Jan 2025 16:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-konfidencialnoy-informacii-deepseek-iz-za-neogranichennogo-dostupa-k-bd-s-logami-20250130-163544/</guid>
+      <description>Исследователи безопасности из команды Wiz Research выявили общедоступную базу данных с информацией, используемой в AI-сервисах компании DeepSeek. Из-за отсутствия должного ограничения доступа к хранилищу логов, любой желающий мог получить конфиденциальную информацию о работе сервисов DeepSeek. В БД хранилось более миллиона записей, включающих логи с историей сообщений пользователей в AI-чате DeepSeek, ключи доступа к API, детальную информацию о работе бэкендов и метаданные, используемые в работе различных систем.
+https://www.opennet.ru/opennews/art.shtml?num=62639</description>
+    </item>
+    
+  </channel>
+</rss>

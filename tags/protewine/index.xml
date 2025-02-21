@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ProteWine on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/protewine/</link>
+    <description>Recent content in ProteWine on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2024 18:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/protewine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз ProteWine 1.0, инструмента для запуска Windows-приложений в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-protewine-1-0-instrumenta-dlya-zapuska-windows-prilozheniy-v-linux-20240716-183533/</link>
+      <pubDate>Tue, 16 Jul 2024 18:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-protewine-1-0-instrumenta-dlya-zapuska-windows-prilozheniy-v-linux-20240716-183533/</guid>
+      <description>Опубликован выпуск инструмента ProteWine 1.0, предназначенного для упрощения запуска Windows-приложений в окружениях на базе Linux, SteamDeck и других портативных консолей под управлением Linux. ProteWine представляет наглядный конфигуратор, позволяющий создавать порты Windows-игр для запуска в Linux с использованием пакетов Wine и Proton. Инструмент привязан к клиенту Steam, но использует из него только Steam Runtime 3 &amp;ldquo;Sniper&amp;rdquo;, как окружение для выполнения сторонних сборок Wine и Proton. Код написан на.
+https://www.opennet.ru/opennews/art.shtml?num=61555</description>
+    </item>
+    
+  </channel>
+</rss>

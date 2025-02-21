@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IvorySQL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ivorysql/</link>
+    <description>Recent content in IvorySQL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 13:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ivorysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны IvorySQL 4.0 и SynchDB 1.0, надстройки к PostgreSQL для взаимодействия с другими СУБД</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-ivorysql-4-0-i-synchdb-1-0-nadstroyki-k-postgresql-dlya-vzaimodeystviya-s-drugimi-20241229-133514/</link>
+      <pubDate>Sun, 29 Dec 2024 13:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-ivorysql-4-0-i-synchdb-1-0-nadstroyki-k-postgresql-dlya-vzaimodeystviya-s-drugimi-20241229-133514/</guid>
+      <description>Опубликован выпуск проекта IvorySQL 4.0, развивающего редакцию СУБД PostgreSQL, обеспечивающую совместимость с приложениями, рассчитанными на работу с СУБД Oracle. В IvorySQL заявлена возможность работы в качестве прозрачной замены последней версии PostgreSQL, отличие от которой сводится к появлению настройки &amp;ldquo;compatible_db&amp;rdquo;, включающей режим совместимости с Oracle. Код написан на языке Си и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=62483</description>
+    </item>
+    
+  </channel>
+</rss>

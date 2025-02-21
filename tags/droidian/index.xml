@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Droidian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/droidian/</link>
+    <description>Recent content in Droidian on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 15:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/droidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Droidian 99, вариант Debian для смартфонов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-droidian-99-variant-debian-dlya-smartfonov-20240910-153559/</link>
+      <pubDate>Tue, 10 Sep 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-droidian-99-variant-debian-dlya-smartfonov-20240910-153559/</guid>
+      <description>Доступен релиз проекта Droidian 99, развивающего сборку на основе пакетной базы Debian GNU/Linux, предназначенную для использования на смартфонах вместо платформы Android. В качестве графического окружения предлагается оболочка Phosh, основанная на технологиях GNOME и библиотеке GTK. Системное и пользовательское окружение построены с использованием репозиториев Debian и Mobian. В отличие от дистрибутива Mobian, который нацелен на использование на платах и специализированных Linux-смартфонах, таких как PinePhone, Droidian ориентирован на установку на обычные Android-смартфоны.</description>
+    </item>
+    
+  </channel>
+</rss>

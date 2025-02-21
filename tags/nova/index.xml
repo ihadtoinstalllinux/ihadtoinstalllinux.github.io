@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nova on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nova/</link>
+    <description>Recent content in Nova on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2025 18:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nova/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Началось продвижение в ядро Linux драйвера Nova для GPU NVIDIA</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-prodvizhenie-v-yadro-linux-drayvera-nova-dlya-gpu-nvidia-20250201-183514/</link>
+      <pubDate>Sat, 01 Feb 2025 18:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-prodvizhenie-v-yadro-linux-drayvera-nova-dlya-gpu-nvidia-20250201-183514/</guid>
+      <description>Инженеры из компании Red Hat предложили для включения в состав ядра Linux первый набор патчей с реализацией драйвера Nova. Драйвер рассчитан на использование с GPU NVIDIA, оснащёнными GSP-прошивками, которые используются начиная с серии NVIDIA GeForce RTX 2000 на базе микроархитектуры Turing. В подобных GPU операции инициализации и управления реализованы в прошивке и выполняются отдельным микроконтроллером GSP (GPU System Processor). Предполагается, что в долгосрочной перспективе Nova заменит собой драйвер Nouveau для GPU с поддержкой GSP.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat представил Nova, драйвер для GPU NVIDIA, написанный на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</link>
+      <pubDate>Thu, 21 Mar 2024 19:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/red-hat-predstavil-nova-drayver-dlya-gpu-nvidia-napisannyy-na-yazyke-rust-20240321-193604/</guid>
+      <description>Компания Red Hat начала работу над проектом Nova, развивающим новый открытый драйвер для GPU NVIDIA, в которых операции инициализации и управления GPU вынесены в прошивку и выполняются отдельным микроконтроллером GSP (GPU System Processor). Новый драйвер оформлен в виде модуля для ядра Linux и использует подсистему DRM (Direct Rendering Manager). Проект позиционируется как продолжение развитие драйвера Nouveau для GPU с GSP-прошивками, используемыми начиная с серии NVIDIA GeForce RTX 2000 на базе микроархитектуры Turing, и в долгосрочной перспективе может заменить Nouveau.</description>
+    </item>
+    
+  </channel>
+</rss>

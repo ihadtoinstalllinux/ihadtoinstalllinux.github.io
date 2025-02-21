@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zyxel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zyxel/</link>
+    <description>Recent content in Zyxel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2025 00:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zyxel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в беспроводных маршрутизаторах Zyxel, D-Link и Netgear</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-besprovodnyh-marshrutizatorah-zyxel-d-link-i-netgear-20250207-003555/</link>
+      <pubDate>Fri, 07 Feb 2025 00:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-besprovodnyh-marshrutizatorah-zyxel-d-link-i-netgear-20250207-003555/</guid>
+      <description>Несколько уязвимостей в беспроводных маршрутизаторах Zyxel, D-Link и Netgear, позволяющих получить удалённый доступ к устройству без аутентификации.
+https://www.opennet.ru/opennews/art.shtml?num=62677</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в межсетевых экранах Zyxel, позволяющие выполнить код на устройстве</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mezhsetevyh-ekranah-zyxel-pozvolyayuschie-vypolnit-kod-na-ustroystve-20230529-133505/</link>
+      <pubDate>Mon, 29 May 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-mezhsetevyh-ekranah-zyxel-pozvolyayuschie-vypolnit-kod-na-ustroystve-20230529-133505/</guid>
+      <description>В устройствах Zyxel серий ATP, VPN, USG FLEX и ZyWALL, предназначенных для организации работы межсетевых экранов, IDS и VPN на предприятиях, выявлены две уязвимости, потенциально позволяющие выполнить свой код на устройстве или инициировать отказ в обслуживании через отправку сетевого запроса без прохождения аутентификации. Первая уязвимость (CVE-2023-33009) вызвана переполнением буфера в функции обработки уведомлений, а вторая (CVE-2023-33010) - переполнением буфера в функции обработки идентификаторов. Проблемы, которым присвоен критический уровень опасности (CVSS 9.</description>
+    </item>
+    
+  </channel>
+</rss>

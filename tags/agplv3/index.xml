@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AGPLv3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/agplv3/</link>
+    <description>Recent content in AGPLv3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2023 14:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/agplv3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Canonical перевела проект LXD на лицензию AGPLv3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-perevela-proekt-lxd-na-licenziyu-agplv3-20231213-143551/</link>
+      <pubDate>Wed, 13 Dec 2023 14:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-canonical-perevela-proekt-lxd-na-licenziyu-agplv3-20231213-143551/</guid>
+      <description>Компания Canonical опубликовала новую версию системы управления контейнерами LXD 5.20, которая примечательна изменением лицензии на проект и введением необходимости подписания CLA-соглашения о передаче имущественных прав на код при приёме изменений в LXD. Лицензия на код, добавленный в LXD сотрудниками Canonical, изменена с Apache 2.0 на AGPLv3, а код сторонних участников, на который у Canonical нет имущественных прав, остаётся под Apache 2.0. Так как Canonical не имеет возможность изменить лицензию на весь код LXD, проект теперь будет поставляться под смешанными условиями - часть кода под AGPLv3, а часть под Apache 2.</description>
+    </item>
+    
+  </channel>
+</rss>

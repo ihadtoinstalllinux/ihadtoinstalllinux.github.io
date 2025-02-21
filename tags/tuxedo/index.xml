@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tuxedo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tuxedo/</link>
+    <description>Recent content in Tuxedo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 14:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tuxedo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступно ядро Linux-libre 6.12. Решение лицензионных проблем с драйверами Tuxedo</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupno-yadro-linux-libre-6-12-reshenie-licenzionnyh-problem-s-drayverami-tuxedo-20241119-143542/</link>
+      <pubDate>Tue, 19 Nov 2024 14:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupno-yadro-linux-libre-6-12-reshenie-licenzionnyh-problem-s-drayverami-tuxedo-20241119-143542/</guid>
+      <description>Латиноамериканский Фонд свободного ПО опубликовал полностью свободный вариант ядра Linux 6.12 - Linux-libre 6.12-gnu, очищенный от элементов прошивок и драйверов, содержащих несвободные компоненты или участки кода, область применения которых ограничена производителем. Кроме того, Linux-libre отключает функции ядра по загрузке внешних несвободных компонентов, не входящих в поставку ядра, и удаляет упоминание об использовании несвободных компонентов из документации.
+https://www.opennet.ru/opennews/art.shtml?num=62251</description>
+    </item>
+    
+  </channel>
+</rss>

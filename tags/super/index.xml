@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Super on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/super/</link>
+    <description>Recent content in Super on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 11:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/super/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован Super Grub2 Disk 2.06s4, дистрибутив для решения проблем с загрузкой ОС</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-super-grub2-disk-2-06s4-distributiv-dlya-resheniya-problem-s-zagruzkoy-os-20240731-113603/</link>
+      <pubDate>Wed, 31 Jul 2024 11:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-super-grub2-disk-2-06s4-distributiv-dlya-resheniya-problem-s-zagruzkoy-os-20240731-113603/</guid>
+      <description>Спустя пять лет после публикации прошлого выпуска представлен релиз специализированного загрузочного образа Super Grub2 Disk 2.06s4, предназначенного для организации загрузки любых систем в ситуациях, когда пользователь столкнулся с повреждением загрузчика, невозможностью загрузить систему или с перезаписью основного загрузчика в системах с несколькими ОС. Для управления и поиска доступных для загрузки систем предлагается консольный интерфейс на основе меню. Поддерживаются разделы с LVM и RAID, шифрованные разделы (LUKS1, LUKS2 и geli), загрузка с EFI, ieee1275 и CoreBoot.</description>
+    </item>
+    
+  </channel>
+</rss>

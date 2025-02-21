@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/c/</link>
+    <description>Recent content in C on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 22:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Ubuntu 24.04.2 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-24-04-2-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20250220-223516/</link>
+      <pubDate>Thu, 20 Feb 2025 22:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-24-04-2-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20250220-223516/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 24.04.2 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Kubuntu 24.04.2 LTS, Ubuntu Budgie 24.04.2 LTS, Ubuntu MATE 24.04.2 LTS.
+https://www.opennet.ru/opennews/art.shtml?num=62761</description>
+    </item>
+    
+    <item>
+      <title>Превращение сборки Fedora c KDE в базовую редакцию дистрибутива</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prevraschenie-sborki-fedora-c-kde-v-bazovuyu-redakciyu-distributiva-20250116-133555/</link>
+      <pubDate>Thu, 16 Jan 2025 13:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prevraschenie-sborki-fedora-c-kde-v-bazovuyu-redakciyu-distributiva-20250116-133555/</guid>
+      <description>Разработчики проекта Fedora опубликовали план поставки сборки со средой рабочего стола KDE в форме базовой редакции дистрибутива, идентичной по уровню поддержки со сборкой Fedora Workstation, поставляемой с GNOME. Ранее изменение статуса сборки Fedora с KDE утвердил управляющий совет проекта Fedora. Теперь реализация новой первичной редакции в выпуске Fedora 42 будет рассмотрена комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива.
+https://www.opennet.ru/opennews/art.shtml?num=62567</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 134.0.1 c устранением зависаний в YouTube и Google Docs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-134-0-1-c-ustraneniem-zavisaniy-v-youtube-i-google-docs-20250115-013510/</link>
+      <pubDate>Wed, 15 Jan 2025 01:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-firefox-134-0-1-c-ustraneniem-zavisaniy-v-youtube-i-google-docs-20250115-013510/</guid>
+      <description>Доступен корректирующий выпуск Firefox 134.0.1, в котором устранено несколько проблем.
+https://www.opennet.ru/opennews/art.shtml?num=62556</description>
+    </item>
+    
+    <item>
+      <title>Доступен Emscripten 4.0, компилятор из C/C&#43;&#43; в WebAssembly </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-emscripten-4-0-kompilyator-iz-c-c-v-webassembly-20250114-123551/</link>
+      <pubDate>Tue, 14 Jan 2025 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-emscripten-4-0-kompilyator-iz-c-c-v-webassembly-20250114-123551/</guid>
+      <description>Опубликован выпуск инструментария Emscripten 4.0, позволяющего компилировать код на C/C++ и других языках, для которых имеются фронтэнды на базе LLVM, в универсальный низкоуровневый промежуточный код WebAssembly. Полученный результат можно использовать для интеграции с JavaScript-проектами, запуска в web-браузере, использования в Node.js или создания обособленных многоплатформенных приложений, запускаемых при помощи wasm runtime. Код проекта распространяется под лицензией MIT. В компиляторе используются наработки проекта LLVM, а для генерации WebAssembly и оптимизации задействована библиотека Binaryen.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Rust 1.84. Ядра Tock и Vekos, написанные на Rust. Диалект Mini-C</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-84-yadra-tock-i-vekos-napisannye-na-rust-dialekt-mini-c-20250113-183547/</link>
+      <pubDate>Mon, 13 Jan 2025 18:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-84-yadra-tock-i-vekos-napisannye-na-rust-dialekt-mini-c-20250113-183547/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.84, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=62550</description>
+    </item>
+    
+    <item>
+      <title>Релиз среды рабочего стола Xfce 4.20 c частичной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</link>
+      <pubDate>Sun, 15 Dec 2024 21:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</guid>
+      <description>После двух лет разработки представлен релиз среды рабочего стола Xfce 4.20, предлагающей классический рабочий стол, потребляющий по возможности минимальные системные ресурсы. Xfce состоит из нескольких взаимосвязанных компонентов, которые при желании можно использовать в других проектах. Среди таких компонентов: оконный менеджер xfwm4, панель для запуска приложений, менеджер управления пользовательскими сеансами, система управления энергопотреблением, графический конфигуратор, файловый менеджер Thunar, календарь-палнировщик Orage, медиапроигрыватель Parole, текстовый редактор Mousepad, эмулятор терминала xfce4-terminal.
+https://www.opennet.ru/opennews/art.shtml?num=62406</description>
+    </item>
+    
+    <item>
+      <title>Выпуск интегрированной среды разработки Red Panda C&#43;&#43; 3.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-red-panda-c-3-2-20241130-143510/</link>
+      <pubDate>Sat, 30 Nov 2024 14:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-red-panda-c-3-2-20241130-143510/</guid>
+      <description>Опубликован выпуск проекта Red Panda C++ 3.2, легковесной интегрированной среды разработки для языков C, C++ и GNU Assembly. Red Panda C++ продолжает развитие IDE Dev-C++, которая была переписана с Delphi на С++ с использованием библиотеки Qt. Код проекта.
+https://www.opennet.ru/opennews/art.shtml?num=62322</description>
+    </item>
+    
+    <item>
+      <title>Fil-C - компилятор для языков C и C&#43;&#43;, гарантирующий безопасную работу с памятью </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fil-c-kompilyator-dlya-yazykov-c-i-c-garantiruyuschiy-bezopasnuyu-rabotu-s-pamyatyu-20241117-153605/</link>
+      <pubDate>Sun, 17 Nov 2024 15:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fil-c-kompilyator-dlya-yazykov-c-i-c-garantiruyuschiy-bezopasnuyu-rabotu-s-pamyatyu-20241117-153605/</guid>
+      <description>Филипп Пизло (Filip Pizlo) представил на конференции SPLASH&#39;24 открытый C/C++ компилятор Fil-C, предоставляющий защиту от проблем, вызванных ошибками при работе с памятью. Проект нацелен на обеспечение полной совместимости с существующим кодом на языках C и C++ - для обеспечения безопасной работы с памятью достаточно просто пересобрать существующий код. Компилятор построен с использованием компонентов от проекта LLVM и распространяется под лицензией Apache 2.0. Runtime поставляется под лицензией BSD. В отличие от недавно анонсированного проекта TrapC, находящегося на стадии проектирования, компилятор Fil-C уже доведён до готовности сборки существующего кода.</description>
+    </item>
+    
+    <item>
+      <title>Вариант Fedora c KDE получил статус базовой редакции, поддерживаемой на уровне Fedora Workstation с GNOME</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/variant-fedora-c-kde-poluchil-status-bazovoy-redakcii-podderzhivaemoy-na-urovne-fedora-wor-20241109-143559/</link>
+      <pubDate>Sat, 09 Nov 2024 14:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/variant-fedora-c-kde-poluchil-status-bazovoy-redakcii-podderzhivaemoy-na-urovne-fedora-wor-20241109-143559/</guid>
+      <description>Управляющий совет проекта Fedora утвердил придание сборке Fedora KDE Desktop Spin статуса базовой редакции дистрибутива, идентичной по уровню поддержки с Fedora Workstation. Таким образом, начиная с Fedora 42 варианты дистрибутива с GNOME и KDE будут иметь иметь идентичный статус и станут преподносится на равных. Среди прочего, Fedora KDE Plasma Desktop Edition получит аналогичный уровень маркетингового продвижения и будет иметь такое же представление на сайте fedoraproject.org. Специфичные для KDE серьёзные проблемы будут рассматриваться как блокирующие релиз, так же как серьёзные проблемы в GNOME.</description>
+    </item>
+    
+    <item>
+      <title>Браузер Vivaldi 7.0 c новым дизайном интерфейса</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/brauzer-vivaldi-7-0-c-novym-dizaynom-interfeysa-20241024-203530/</link>
+      <pubDate>Thu, 24 Oct 2024 20:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/brauzer-vivaldi-7-0-c-novym-dizaynom-interfeysa-20241024-203530/</guid>
+      <description>Представлен выпуск проприетарного браузера Vivaldi 7.0, разрабатываемого на базе движка Chromium. Сборки Vivaldi подготовлены для Linux, Windows и macOS. Изменения, вносимые в кодовую базу Chromium, проект распространяет под открытой лицензией. Интерфейс браузера написан на языке JavaScript с использованием библиотеки React, платформы Node.js, Browserify и различных готовых NPM-модулей. Реализация интерфейса доступна в исходных текстах, но под проприетарной лицензией.
+https://www.opennet.ru/opennews/art.shtml?num=62103</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; Alliance продвигает в C&#43;&#43; механизмы безопасной работы с памятью, опробованные в Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/c-alliance-prodvigaet-v-c-mehanizmy-bezopasnoy-raboty-s-pamyatyu-oprobovannye-v-rust-20240917-173514/</link>
+      <pubDate>Tue, 17 Sep 2024 17:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/c-alliance-prodvigaet-v-c-mehanizmy-bezopasnoy-raboty-s-pamyatyu-oprobovannye-v-rust-20240917-173514/</guid>
+      <description>Президент организации C++ Alliance объявил о работе над спецификацией, добавляющей в язык C++ расширения для безопасной работы с памятью, напоминающих возможности, реализованные в языке Rust. Для осуществления проекта привлечён Шон Бакстер (Sean Baxter), автор экспериментального C++-компилятора Circle, развивающего идеи по повышению безопасности кода C++, реализуемые на стороне компилятора без использования сборки мусора. В рамках проекта Шон опубликовал документ с анализом применимости тех или иных мер защиты, предлагаемых в языке Rust, оценкой возможности их реализации для C++ и предложениями по добавлению в язык C++ расширений, повышающих безопасность кода.</description>
+    </item>
+    
+    <item>
+      <title>Новая версия nginx 1.27.0 c устранением 4 уязвимостей в реализации HTTP/3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</link>
+      <pubDate>Wed, 29 May 2024 22:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-nginx-1-27-0-c-ustraneniem-4-uyazvimostey-v-realizacii-http-3-20240529-223535/</guid>
+      <description>Представлен первый выпуск новой основной ветки nginx 1.27.0, в рамках которой будет продолжено развитие новых возможностей. Одновременно сформирован выпуск nginx 1.26.1, относящийся к параллельно поддерживаемой стабильной ветке, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В следующем году на базе основной ветки 1.27.x будет сформирована стабильная ветка 1.28. Код проекта написан на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61269</description>
+    </item>
+    
+    <item>
+      <title>Проект ravynOS развивает редакцию FreeBSD, нацеленную на совместимость c macOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</link>
+      <pubDate>Tue, 28 May 2024 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-ravynos-razvivaet-redakciyu-freebsd-nacelennuyu-na-sovmestimost-c-macos-20240528-013511/</guid>
+      <description>После двух лет разработки опубликован выпуск проекта ravynOS 0.5, развивающего операционную систему на основе FreeBSD, нацеленную на достижение совместимости с приложениями для macOS и предоставление пользовательской оболочки в стиле macOS. Наработки проекта распространяются под лицензией BSD. Размер загрузочного iso-образа - 869 МБ (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=61254</description>
+    </item>
+    
+    <item>
+      <title>Выпуск интегрированной среды разработки Red Panda C&#43;&#43; 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-red-panda-c-3-0-20240520-013554/</link>
+      <pubDate>Mon, 20 May 2024 01:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-integrirovannoy-sredy-razrabotki-red-panda-c-3-0-20240520-013554/</guid>
+      <description>Опубликован выпуск проекта Red Panda C++ 3.0, легковесной интегрированной среды разработки для языков C, C++ и GNU Assembly. Red Panda C++ продолжает развитие IDE Dev-C++, которая была переписана с Delphi на С++ с использованием библиотеки Qt. Код проекта.
+https://www.opennet.ru/opennews/art.shtml?num=61159</description>
+    </item>
+    
+    <item>
+      <title>Анализ влияния ключевого слова final на производительность программ C&#43;&#43;</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/analiz-vliyaniya-klyuchevogo-slova-final-na-proizvoditelnost-programm-c-20240423-163547/</link>
+      <pubDate>Tue, 23 Apr 2024 16:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/analiz-vliyaniya-klyuchevogo-slova-final-na-proizvoditelnost-programm-c-20240423-163547/</guid>
+      <description>Бенджамин Саммертон (Benjamin Summerton), автор системы трассировки лучей PSRayTracing, проанализировал влияние на производительность приложений использование в коде на языке С++ ключевого слова &amp;ldquo;final&amp;rdquo;, появившегося в стандарте C++11. Причиной проведения тестирования послужили витающие в сети заявления, что использование &amp;ldquo;final&amp;rdquo; позволяет повысить производительность, которые ограничивались оценочными суждениями без указания результатов изменений.
+https://www.opennet.ru/opennews/art.shtml?num=61051</description>
+    </item>
+    
+    <item>
+      <title>В Arch Linux улучшили совместимость c Windows-играми, запускаемыми в Wine и Steam</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</link>
+      <pubDate>Thu, 11 Apr 2024 02:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-arch-linux-uluchshili-sovmestimost-c-windows-igrami-zapuskaemymi-v-wine-i-steam-20240411-023554/</guid>
+      <description>Разработчики Arch Linux объявили о внесении изменения, нацеленного на улучшение совместимости c Windows-играми, запускаемыми через Wine или Steam (используется Proton). По аналогии с изменением в выпуске Fedora 39, параметр sysctl vm.max_map_count, определяющий максимально доступное процессу число областей маппинга памяти, по умолчанию увеличен с 65530 до 1048576. Изменение включено в состав пакета filesystem 2024.04.07-1.
+https://www.opennet.ru/opennews/art.shtml?num=60950</description>
+    </item>
+    
+    <item>
+      <title>Новые версии DXVK 2.3.1 и vkd3d-proton 2.12 c реализацией Direct3D поверх API Vulkan </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</link>
+      <pubDate>Thu, 21 Mar 2024 13:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novye-versii-dxvk-2-3-1-i-vkd3d-proton-2-12-c-realizaciey-direct3d-poverh-api-vulkan-20240321-133547/</guid>
+      <description>Доступен выпуск прослойки DXVK 2.3.1, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.3, таких как Mesa RADV 22.0, NVIDIA 510.47.03, Intel ANV 22.0 и AMDVLK. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D 9/10/11, работающих поверх OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Подтверждена совместимость программы для ЭВМ «ГРАНД-Смета» и аппаратного ключа Guardant Code c ОС РОСА Кобальт</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/podtverzhdena-sovmestimost-programmy-dlya-evm-grand-smeta-i-apparatnogo-klyucha-guardant-c-20240227-213632/</link>
+      <pubDate>Tue, 27 Feb 2024 21:36:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/podtverzhdena-sovmestimost-programmy-dlya-evm-grand-smeta-i-apparatnogo-klyucha-guardant-c-20240227-213632/</guid>
+      <description>Компании «Актив», МГК «Гранд» и РОСА подтвердили совместимость и корректность работы программы «ГРАНД-Смета» (версия 2023.2, Linux) и аппаратного ключа Guardant Code с операционной системой РОСА Кобальт 7.9 Рабочая станция. МГК «Гранд» использует практически всю линейку ключей Guardant для защиты от нелегального копирования и использования своих программных продуктов – Guardant Sign, Guardant Code, включая модели с […]
+https://rosa.ru/podtverzhdena-sovmestimost-programmy-dlya-evm-grand-smeta-i-apparatnogo-klyucha-guardant-code-c-os-rosa-kobalt/</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 22.04.4 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</link>
+      <pubDate>Fri, 23 Feb 2024 04:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-4-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20240223-043542/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.4 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.4 LTS, Kubuntu 22.04.4 LTS, Ubuntu MATE 22.04.4 LTS, Ubuntu Studio 22.04.4 LTS, Lubuntu 22.04.4 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft наймёт разработчиков для переписывания сервисов с C# на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</link>
+      <pubDate>Thu, 01 Feb 2024 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-naymet-razrabotchikov-dlya-perepisyvaniya-servisov-s-c-na-rust-20240201-113537/</guid>
+      <description>Судя по опубликованной вакансии архитектора компания Microsoft намерена переписать с использованием языка Rust ключевые сервисы Microsoft 365, изначально написанные на языке C#. В объявлении упоминается создание новой команды разработчиков, которая будет заниматься внедрением Rust и его использованием качестве основы для модернизации глобально масштабируемых сервисов. Ранее компания Microsoft задействовала язык Rust для разработки компонентов ядра Windows 11.
+https://www.opennet.ru/opennews/art.shtml?num=60533</description>
+    </item>
+    
+    <item>
+      <title>Опыт создания хранилища Ceph c пропускной способностью тебибайт в секунду</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opyt-sozdaniya-hranilischa-ceph-c-propusknoy-sposobnostyu-tebibayt-v-sekundu-20240120-233601/</link>
+      <pubDate>Sat, 20 Jan 2024 23:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opyt-sozdaniya-hranilischa-ceph-c-propusknoy-sposobnostyu-tebibayt-v-sekundu-20240120-233601/</guid>
+      <description>Инженер из компании Clyso обобщил опыт создания кластера хранения на базе отказоустойчивой распределённой системы Ceph с пропускной способностью, превышающей тебибайт в секунду. Отмечается, что это первый кластер на базе Ceph, который смог достигнуть подобного показателя, но перед получением представленного результата инженерам потребовалось преодолеть серию не очевидных подводных камней.
+https://www.opennet.ru/opennews/art.shtml?num=60470</description>
+    </item>
+    
+    <item>
+      <title>Дискуссия об использовании языка C&#43;&#43; для разработки ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/diskussiya-ob-ispolzovanii-yazyka-c-dlya-razrabotki-yadra-linux-20240115-003514/</link>
+      <pubDate>Mon, 15 Jan 2024 00:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/diskussiya-ob-ispolzovanii-yazyka-c-dlya-razrabotki-yadra-linux-20240115-003514/</guid>
+      <description>В списке рассылки разработчиков ядра Linux возобновилось начатое шесть лет назад обсуждение перспектив использования современного кода на C++ в ядре Linux, помимо нынешнего применения языка Си с ассемблерными вставками и продвижения языка Rust. Изначально тема разработки ядра на C++ была поднята в 2018 году инженером из Red Hat, который первого апреля в качестве шутки опубликовал набор из 45 патчей для использования шаблонов, наследуемых классов и перегрузки функций C++ в коде ядра.</description>
+    </item>
+    
+    <item>
+      <title>Доступен Vcc, C/C&#43;&#43; компилятор для Vulkan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-vcc-c-c-kompilyator-dlya-vulkan-20240110-123513/</link>
+      <pubDate>Wed, 10 Jan 2024 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-vcc-c-c-kompilyator-dlya-vulkan-20240110-123513/</guid>
+      <description>После трёх лет разработки представлен исследовательский проект Vcc (Vulkan Clang Compiler), нацеленный на создание компилятора, способного транслировать код на языке С++ в представление, выполняемое на GPU, поддерживающих графический API Vulkan. В отличие от моделей программирования GPU на базе языков шейдеров GLSL и HLSL в Vcc развивается идея полного отказа от использования отдельных языков шейдеров и предоставляется возможность прямой компиляции кода C/C++ для Vulkan. Наработки проекта распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60413</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenSSH 9.6 c устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-6-c-ustraneniem-uyazvimostey-20231219-023539/</link>
+      <pubDate>Tue, 19 Dec 2023 02:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openssh-9-6-c-ustraneniem-uyazvimostey-20231219-023539/</guid>
+      <description>Опубликован релиз OpenSSH 9.6, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии устранены три проблемы с безопасностью.
+https://www.opennet.ru/opennews/art.shtml?num=60305</description>
+    </item>
+    
+    <item>
+      <title>Выпуск jsii 1.90, генератора кода C#, Go, Java и Python из TypeScript </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</link>
+      <pubDate>Sat, 07 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</guid>
+      <description>Компания Amazon опубликовала компилятор jsii 1.90, представляющий собой модификацию компилятора TypeScript, позволяющую извлечь из компилируемых модулей информацию об API и сгенерировать универсальное представление данного API для обращения к JavaScript-классам из приложений на различных языках программирования. Код проекта написан на TypeScript и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59884</description>
+    </item>
+    
+    <item>
+      <title>Выпуск cppcheck 2.12, статического анализатора кода для языков C&#43;&#43; и С</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-12-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230916-003505/</link>
+      <pubDate>Sat, 16 Sep 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-12-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230916-003505/</guid>
+      <description>Вышла новая версия статического анализатора кода cppcheck 2.12, позволяющего выявлять различные классы ошибок в коде на языках Си и Си++, в том числе при использовании нестандартного синтаксиса, типичного для встраиваемых систем. Предоставляется коллекция плагинов, через которые обеспечена интеграция cppcheck с различными системами разработки, непрерывной интеграции и тестирования, а также предоставлены такие возможности как проверка соответствия кода стилю оформления кода. Для разбора кода может применяться как собственный парсер, так и внешний парсер.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Ubuntu 22.04.3 LTS c обновлением графического стека и ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</link>
+      <pubDate>Fri, 11 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-ubuntu-22-04-3-lts-c-obnovleniem-graficheskogo-steka-i-yadra-linux-20230811-123505/</guid>
+      <description>Сформировано обновление дистрибутива Ubuntu 22.04.3 LTS, в которое включены изменения, связанные с улучшением поддержки оборудования, обновлением ядра Linux и графического стека, исправлением ошибок в инсталляторе и загрузчике. В состав также включены актуальные обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. Одновременно представлены аналогичные обновления Ubuntu Budgie 22.04.3 LTS, Kubuntu 22.04.3 LTS, Ubuntu MATE 22.04.3 LTS, Ubuntu Studio 22.04.3 LTS, Lubuntu 22.04.3 LTS, Ubuntu Kylin 22.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск почтового клиента Thunderbird 115 c переделанным интерфейсом пользователя</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-pochtovogo-klienta-thunderbird-115-c-peredelannym-interfeysom-polzovatelya-20230712-143505/</link>
+      <pubDate>Wed, 12 Jul 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-pochtovogo-klienta-thunderbird-115-c-peredelannym-interfeysom-polzovatelya-20230712-143505/</guid>
+      <description>Спустя год после публикации прошлого значительного выпуска опубликован релиз почтового клиента Thunderbird 115, развиваемого силами сообщества и основанного на технологиях Mozilla. Новый выпуск отнесён к категории версий с длительным сроком поддержки, обновления для которых выпускаются в течение года. Thunderbird 115 основан на кодовой базе ESR-выпуска Firefox 115.
+https://www.opennet.ru/opennews/art.shtml?num=59421</description>
+    </item>
+    
+    <item>
+      <title>Выпуск cppcheck 2.11, статического анализатора кода для языков C&#43;&#43; и С</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-11-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230629-143506/</link>
+      <pubDate>Thu, 29 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cppcheck-2-11-staticheskogo-analizatora-koda-dlya-yazykov-c-i-s-20230629-143506/</guid>
+      <description>Вышла новая версия статического анализатора кода cppcheck 2.11, позволяющего выявлять различные классы ошибок в коде на языках Си и Си++.
+https://www.opennet.ru/opennews/art.shtml?num=59355</description>
+    </item>
+    
+    <item>
+      <title>Разработчики Cообщества ALT Linux Team представили инициативный проект мобильной операционной системы на Х научно-практической конференции OS DAY 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</link>
+      <pubDate>Thu, 22 Jun 2023 21:36:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchiki-coobschestva-alt-linux-team-predstavili-iniciativnyy-proekt-mobilnoy-operaci-20230622-213649/</guid>
+      <description>Разработка новой мобильной операционной системы нацелена на создание современной, удобной, санкционно независимой мобильной ОС. Проект полностью открыт, исходные коды публикуются в процессе разработки.
+https://www.basealt.ru/about/news/archive/view/razrabotchiki-coobshchestva-alt-linux-team-predstavili-iniciativnyi-proekt-mobilnoi-operacionnoi-sistemy-na-kh-nauchno-prakticheskoi-konferencii-os-day-2023</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск клиента Steam c переделанным интерфейсом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-klienta-steam-c-peredelannym-interfeysom-20230615-143531/</link>
+      <pubDate>Thu, 15 Jun 2023 14:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-klienta-steam-c-peredelannym-interfeysom-20230615-143531/</guid>
+      <description>Компания Valve представила новый значительный выпуск клиента сервиса доставки игр Steam для Linux. Число игр для Linux, доступных в каталоге Steam, доведено до 11132. По данным сервиса Steam Database пользователи Linux запускают через Steam 1252 игры.
+https://www.opennet.ru/opennews/art.shtml?num=59300</description>
+    </item>
+    
+    <item>
+      <title>Cheerp 3.0, компилятор C/C&#43;&#43; в JavaScript, переведён на лицензии Apache 2.0 и LLVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</link>
+      <pubDate>Fri, 17 Mar 2023 10:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cheerp-3-0-kompilyator-c-c-v-javascript-pereveden-na-licenzii-apache-2-0-i-llvm-20230317-103502/</guid>
+      <description>Представлен компилятор Cheerp 3.0, позволяющий скомпилировать любой код C/C++ в WebAssembly или JavaScript. Новая ветка примечательна переводом компилятора и сопутствующих библиотек на использование пермиссивных лицензий Apache 2.0 и LLVM, вместо ранее применяемой ограниченной лицензионной политики, предлагающей вариант с лицензией GPLv2 для некоммерческих проектов и проприетарную лицензию для коммерческих. Код компилятора основан на наработках LLVM и Clang, и включает дополнительные оптимизации для повышения производительности и уменьшения размера скомпилированного результата.
+https://www.opennet.ru/opennews/art.shtml?num=58807</description>
+    </item>
+    
+  </channel>
+</rss>

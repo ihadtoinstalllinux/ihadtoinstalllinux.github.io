@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dillo on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dillo/</link>
+    <description>Recent content in Dillo on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2025 12:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dillo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз минималистичного web-браузера Dillo 3.2.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-web-brauzera-dillo-3-2-0-20250119-123554/</link>
+      <pubDate>Sun, 19 Jan 2025 12:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-minimalistichnogo-web-brauzera-dillo-3-2-0-20250119-123554/</guid>
+      <description>Представлен релиз web-браузера Dillo 3.2.0. Браузер предоставляет графический интерфейс на основе вкладок и поддерживает HTML 4.01, CSS и HTTPS (нет поддержки JavaScript). Функциональность Dillo может расширяться через плагины, например, имеются плагины для протоколов IPFS и Gemini. При открытии стартовой страницы Dillo расходует 12 МБ ОЗУ, а установочный deb-пакет занимает около 600 КБ. Графический интерфейс построен с использованием библиотеки FLTK2. Код проекта распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=62585</description>
+    </item>
+    
+    <item>
+      <title>Web-браузеру Dillo исполнилось 25 лет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/web-brauzeru-dillo-ispolnilos-25-let-20241216-143544/</link>
+      <pubDate>Mon, 16 Dec 2024 14:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/web-brauzeru-dillo-ispolnilos-25-let-20241216-143544/</guid>
+      <description>Разработчики web-браузера Dillo празднуют 25-летие проекта. Браузер предоставляет графический интерфейс на основе вкладок и поддерживает HTML 4.01, CSS и HTTPS (нет поддержки JavaScript). Функциональность Dillo может расширяться через плагины, например, имеются плагины для протоколов IPFS и Gemini. Изначально графический интерфейс основывался на библиотеке GTK1, но в 2005 году был переведён на FLTK2 из-за желания сохранить минималистичный характер проекта - последняя версия Dillo расходует 12 МБ ОЗУ при открытии стартовой страницы, а установочный deb-пакет занимает 500 КБ.</description>
+    </item>
+    
+    <item>
+      <title>После многолетнего забвения опубликован минималистичный web-браузер Dillo 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</link>
+      <pubDate>Sun, 05 May 2024 10:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/posle-mnogoletnego-zabveniya-opublikovan-minimalistichnyy-web-brauzer-dillo-3-1-20240505-103554/</guid>
+      <description>Опубликован релиз минималистичного web-браузера Dillo 3.1, написанного на языке С/C++ с использованием библиотеки FLTK. Браузер отличается небольшим размером (исполняемый файл около мегабайта при статической сборке) и минимальным потреблением памяти, при наличии графического интерфейса с поддержкой вкладок и закладок, поддержке HTTPS и базового набора web-стандартов (есть поддержка HTML 4.01 и CSS, но нет JavaScript). Функциональность Dillo может расширяться через плагины, например, имеется плагин для протоколов IPFS и Gemini.
+https://www.opennet.ru/opennews/art.shtml?num=61119</description>
+    </item>
+    
+  </channel>
+</rss>

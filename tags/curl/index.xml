@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Curl on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/curl/</link>
+    <description>Recent content in Curl on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 14:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/curl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступны утилиты wget 1.25 и Curl 8.11. Представлены платные LTS-выпуски Curl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-utility-wget-1-25-i-curl-8-11-predstavleny-platnye-lts-vypuski-curl-20241112-143539/</link>
+      <pubDate>Tue, 12 Nov 2024 14:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-utility-wget-1-25-i-curl-8-11-predstavleny-platnye-lts-vypuski-curl-20241112-143539/</guid>
+      <description>Представлен релиз GNU Wget 1.25, программы для автоматизации загрузки файлов с использованием протоколов HTTP/HTTPS и FTP/FTPS. Утилита поддерживает такие возможности, как возобновление прерванных загрузок, зеркалирование сайтов с фильтрацией загружаемых данных по маскам, преобразование ссылок внутри документов, выставление Cookie и обновление только изменившихся файлов. Код проекта написан на языке Си и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=62222</description>
+    </item>
+    
+    <item>
+      <title>Утилита wcurl принята в состав проекта Curl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utilita-wcurl-prinyata-v-sostav-proekta-curl-20240812-123505/</link>
+      <pubDate>Mon, 12 Aug 2024 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utilita-wcurl-prinyata-v-sostav-proekta-curl-20240812-123505/</guid>
+      <description>Дэниел Cтенберг (Daniel Stenberg), автор утилиты для получения и отправки данных по сети curl, объявил о принятии в состав проекта утилиты wcurl. Утилита wcurl теперь признана официальным проектом curl, но при этом её разработка будет продолжена прежними сопровождающими в отдельном репозитории, независимо от curl. Утилиту развивает один из мэйнтейнеров Debian, сопровождающий пакет с curl. В Debian Testing, Debian Unstable и в бэкпортах Debian 12 утилита wcurl уже поставляется в составе пакета curl.</description>
+    </item>
+    
+    <item>
+      <title>Переполнение буфера в curl и libcurl, проявляющееся при обращении через SOCKS5-прокси</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-curl-i-libcurl-proyavlyayuscheesya-pri-obraschenii-cherez-socks5-pro-20231011-183504/</link>
+      <pubDate>Wed, 11 Oct 2023 18:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/perepolnenie-bufera-v-curl-i-libcurl-proyavlyayuscheesya-pri-obraschenii-cherez-socks5-pro-20231011-183504/</guid>
+      <description>В утилите для получения и отправки данных по сети curl и развивающейся параллельно библиотеке libcurl выявлена уязвимость (CVE-2023-38545), которая может привести к переполнению буфера и потенциально к выполнению кода атакующего на стороне клиента при обращении при помощи утилиты curl или приложения, использующего libcurl, к HTTPS-серверу, подконтрольному злоумышленнику. Проблема проявляется только в случае включения в curl доступа через прокси SOCKS5. При прямом обращении без прокси уязвимость не проявляется. Уязвимость устранена в выпуске curl 8.</description>
+    </item>
+    
+    <item>
+      <title>В CVE опубликованы отчёты о ложных уязвимостях в curl, PostgreSQL и других проектах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</link>
+      <pubDate>Wed, 30 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</guid>
+      <description>Дэниел Cтенберг (Daniel Stenberg), автор утилиты для получения и отправки данных по сети curl, предупредил пользователей о публикации организацией MITRE, отвечающей за ведение базы данных общеизвестных уязвимостей, отчёта с информацией о ложной критической уязвимости. Проблеме присвоен CVE-идентификатор CVE-2020-19909 и выставлен уровень опасности 9.8 из 10, свойственный для удалённо эксплуатируемых уязвимостей, приводящих к выполнению кода с повышенными привилегиями.
+https://www.opennet.ru/opennews/art.shtml?num=59683</description>
+    </item>
+    
+    <item>
+      <title>Релиз утилиты cURL 8.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-utility-curl-8-0-20230321-133505/</link>
+      <pubDate>Tue, 21 Mar 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-utility-curl-8-0-20230321-133505/</guid>
+      <description>Утилите для получения и отправки данных по сети curl исполнилось 25 лет. В честь данного события сформирована новая значительная ветка cURL 8.0. Первый выпуск прошлой ветки curl 7.x был сформирован в 2000 году и с тех пор кодовая база увеличилась с 17 до 155 тысяч строк кода, число опций командной строки доведено до 249, реализована поддержка 28 сетевых протоколов, 13 криптографических библиотек, 3 SSH-библиотек и 3 библиотек HTTP/3. Код проекта распространяется под лицензией Curl (вариант лицензии MIT).</description>
+    </item>
+    
+  </channel>
+</rss>

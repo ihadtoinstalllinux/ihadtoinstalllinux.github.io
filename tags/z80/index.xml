@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Z80 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/z80/</link>
+    <description>Recent content in Z80 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2024 14:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/z80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект по производству открытого процессора, совместимого с Z80</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-po-proizvodstvu-otkrytogo-processora-sovmestimogo-s-z80-20240430-143530/</link>
+      <pubDate>Tue, 30 Apr 2024 14:35:30 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-po-proizvodstvu-otkrytogo-processora-sovmestimogo-s-z80-20240430-143530/</guid>
+      <description>После прекращения 15 апреля компанией Zilog производства 8-битных процессоров Z80, энтузиасты выступили с инициативой создания открытого клона данного процессора. Целью проекта является разработка замены процессорам Z80, которая будет взаимозаменяема с оригинальным CPU Zilog Z80, совместима с ним на уровне разводки выводов и способена использоваться в компьютере ZX Spectrum. Схемы, описания аппаратных блоков на языке Verilog и необходимая для производства документация распространяется под лицензией Apache 2.0. Производство первой пробной партии процессоров FOSS Z80 намечено на июнь 2024 года.</description>
+    </item>
+    
+  </channel>
+</rss>

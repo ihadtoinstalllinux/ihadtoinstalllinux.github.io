@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UEFI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/uefi/</link>
+    <description>Recent content in UEFI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 02:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/uefi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выявлен UEFI-буткит Bootkitty, подставляющий вредоносный код в загружаемое ядро Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyyavlen-uefi-butkit-bootkitty-podstavlyayuschiy-vredonosnyy-kod-v-zagruzhaemoe-yadro-linu-20241201-023526/</link>
+      <pubDate>Sun, 01 Dec 2024 02:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyyavlen-uefi-butkit-bootkitty-podstavlyayuschiy-vredonosnyy-kod-v-zagruzhaemoe-yadro-linu-20241201-023526/</guid>
+      <description>Исследователи из компании ESET выявили новый буткит &amp;ldquo;Bootkitty&amp;rdquo;, устанавливаемый после взлома системы вместо загрузчика GRUB и применяемый для подстановки в ядро Linux вредоносных компонентов, которые затем позволяют атакующему скрыто контролировать систему и выполнять в ней свои действия. Утверждается, что это первый UEFI-буткит, нацеленный на поражение систем Linux.
+https://www.opennet.ru/opennews/art.shtml?num=62321</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в обновлении к Windows блокировала загрузку Linux при использовании UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obnovlenii-k-windows-blokirovala-zagruzku-linux-pri-ispolzovanii-uefi-secure-boo-20240821-103548/</link>
+      <pubDate>Wed, 21 Aug 2024 10:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obnovlenii-k-windows-blokirovala-zagruzku-linux-pri-ispolzovanii-uefi-secure-boo-20240821-103548/</guid>
+      <description>В выпущенном во вторник компанией Microsoft обновлении к ОС Windows выявлена проблема, приводящая к невозможности загрузки Linux-систем, установленных на том же компьютере параллельно с Windows. Причиной проблем является исправление, нацеленное на устранение старой уязвимости (CVE-2022-2601) в загрузчике GRUB, исправленной в 2022 году. Компания Microsoft пока не опубликовала заявления, связанного с возникшим сбоем и никак его не прокомментировала.
+https://www.opennet.ru/opennews/art.shtml?num=61735</description>
+    </item>
+    
+    <item>
+      <title>В 806 моделях материнских плат выявлен тестовый ключ, позволяющий обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-806-modelyah-materinskih-plat-vyyavlen-testovyy-klyuch-pozvolyayuschiy-oboyti-uefi-secur-20240726-153542/</link>
+      <pubDate>Fri, 26 Jul 2024 15:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-806-modelyah-materinskih-plat-vyyavlen-testovyy-klyuch-pozvolyayuschiy-oboyti-uefi-secur-20240726-153542/</guid>
+      <description>Исследователи безопасности из компании Binarly выявили возможность обхода режима верифицированной загрузки UEFI Secure Boot на более чем 800 продуктах, выпущенных компаниями Acer, Dell, Fujitsu, Gigabyte, HP, Intel, Lenovo и Supermicro. Проблема получила кодовое имя PKfail и связана с использованием в прошивках не заслуживающего доверия ключа платформы (PK, Platform Key), сгенерированного компанией AMI (American Megatrends International) и поставляемого в качестве тестового примера. Наиболее старые прошивки, в которых использовался тестовый ключ, выпущены в 2012 году, а самые новые датированы июнем 2024 года.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в UEFI-прошивках Phoenix, затрагивающая многие устройства с CPU Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</link>
+      <pubDate>Mon, 24 Jun 2024 18:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-uefi-proshivkah-phoenix-zatragivayuschaya-mnogie-ustroystva-s-cpu-intel-20240624-183554/</guid>
+      <description>В UEFI-прошивках Phoenix SecureCore, используемых на многих ноутбуках, ПК и серверах с процессорами Intel, выявлена уязвимость (CVE-2024-0762), позволяющая при наличии доступа к системе добиться выполнения кода на уровне прошивки. Уязвимость может использоваться после успешного совершения атаки на систему для оставления в прошивке бэкдора, работающего над операционной системой, обходящего механизмы обеспечения безопасности ОС, незаметного для программ определения вредоносного ПО и сохраняющего своё присутствие после переустановки ОС.
+https://www.opennet.ru/opennews/art.shtml?num=61432</description>
+    </item>
+    
+    <item>
+      <title>Удалённая уязвимость в прослойке Shim, позволяющая обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-prosloyke-shim-pozvolyayuschaya-oboyti-uefi-secure-boot-20240126-163601/</link>
+      <pubDate>Fri, 26 Jan 2024 16:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalennaya-uyazvimost-v-prosloyke-shim-pozvolyayuschaya-oboyti-uefi-secure-boot-20240126-163601/</guid>
+      <description>В прослойке Shim, применяемой в большинстве Linux-дистрибутивов для верифицированной загрузки в режиме UEFI Secure Boot, выявлена уязвимость (CVE-2023-40547), которая может привести к удалённому выполнению кода и обходу механизма верифицированной загрузки UEFI Secure Boot. Атакующий, контролирующий HTTP-сервер, к которому обращается Shim, может вернуть специально оформленный ответ, приводящий к контролируемой записи в область за границу буфера для организации выполнения кода на раннем этапе загрузки.
+https://www.opennet.ru/opennews/art.shtml?num=60501</description>
+    </item>
+    
+    <item>
+      <title>PixieFAIL - уязвимости в сетевом стеке прошивок UEFI, применяемом для PXE-загрузки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pixiefail-uyazvimosti-v-setevom-steke-proshivok-uefi-primenyaemom-dlya-pxe-zagruzki-20240118-003536/</link>
+      <pubDate>Thu, 18 Jan 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pixiefail-uyazvimosti-v-setevom-steke-proshivok-uefi-primenyaemom-dlya-pxe-zagruzki-20240118-003536/</guid>
+      <description>В UEFI-прошивках на основе открытой платформы TianoCore EDK2, обычно используемых на серверных системах, выявлено 9 уязвимостей, получивших собирательное кодовое имя PixieFAIL. Уязвимости присутствуют в сетевом стеке прошивок, применяемом для организации сетевой загрузки (PXE). Наиболее опасные уязвимости позволяют неаутентифицированному атакующему организовать удалённое выполнение своего кода на уровне прошивки в системах, допускающих PXE-загрузку с использованием сети IPv6.
+https://www.opennet.ru/opennews/art.shtml?num=60449</description>
+    </item>
+    
+    <item>
+      <title>LogoFAIL - атака на UEFI-прошивки через подстановку вредоносных логотипов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/logofail-ataka-na-uefi-proshivki-cherez-podstanovku-vredonosnyh-logotipov-20231202-003604/</link>
+      <pubDate>Sat, 02 Dec 2023 00:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/logofail-ataka-na-uefi-proshivki-cherez-podstanovku-vredonosnyh-logotipov-20231202-003604/</guid>
+      <description>Исследователи из компании Binarly выявили серию уязвимостей в коде разбора изображений, используемом в UEFI-прошивках различных производителей. Уязвимости позволяют добиться выполнения своего кода во время загрузки через размещение специально оформленного изображения в разделе ESP (EFI System Partition) или в не заверенной цифровой подписью части обновления прошивки. Предложенный метод атаки может использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot и аппаратных механизмов защиты, таких как Intel Boot Guard, AMD Hardware-Validated Boot и ARM TrustZone Secure Boot.</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутива Static Linux, собранного в форме образа для UEFI </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-static-linux-sobrannogo-v-forme-obraza-dlya-uefi-20231105-203945/</link>
+      <pubDate>Sun, 05 Nov 2023 20:39:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-static-linux-sobrannogo-v-forme-obraza-dlya-uefi-20231105-203945/</guid>
+      <description>Опубликовано обновление дистрибутива Static Linux, основанного на пакетной базе Alpine Linux и предлагающего окружение на основе ядра Linux 6.1.60, стандартной библиотеки Musl и инструментария BusyBox. Графическое окружение основано на композитном сервере Labwc, использующем Wayland, файловом менеджере CoreFM, просмотрщике изображений CoreImage, текстовом редакторе CorePad, эмуляторе терминала CoreTerminal и видеопроигрывателе mpv. В состав также входят утилиты для восстановления данных (ddrescue, testdisk, photorec).
+https://www.opennet.ru/opennews/art.shtml?num=60053</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NTFS-драйвере из состава GRUB2, позволяющая выполнить код и обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</link>
+      <pubDate>Wed, 04 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</guid>
+      <description>В драйвере, обеспечивающем работу с файловой системой NTFS в загрузчике GRUB2, выявлена уязвимость (CVE-2023-4692), позволяющая организовать выполнение своего кода на уровне загрузчик при обращении к специально оформленному образу файловой системы. Уязвимость может применяться для обхода механизма верифицированной загрузки UEFI Secure Boot.
+https://www.opennet.ru/opennews/art.shtml?num=59868</description>
+    </item>
+    
+    <item>
+      <title>В UEFI-прошивках материнских плат Gigabyte выявлена активность, напоминающая бэкдор</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-uefi-proshivkah-materinskih-plat-gigabyte-vyyavlena-aktivnost-napominayuschaya-bekdor-20230601-143506/</link>
+      <pubDate>Thu, 01 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-uefi-proshivkah-materinskih-plat-gigabyte-vyyavlena-aktivnost-napominayuschaya-bekdor-20230601-143506/</guid>
+      <description>Исследователи из компании Eclypsium выявили аномальное поведение на системах с материнскими платами тайваньской компании Gigabyte Technology. Используемая в платах прошивка UEFI без информирования пользователя во время загрузки системы осуществляла подстановку и запуск исполняемого файла для платформы Windows. В свою очередь, запущенный исполняемый файл загружал из сети и запускал сторонние исполняемые файлы. Дальнейший разбор ситуации показал, что идентичное поведение проявляется на сотнях разных моделей плат Gigabyte и связано с работой поставляемого компанией приложения App Сenter.</description>
+    </item>
+    
+  </channel>
+</rss>

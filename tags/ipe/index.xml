@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ipe/</link>
+    <description>Recent content in IPE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 16:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft предложил систему управления доступом IPE для ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-predlozhil-sistemu-upravleniya-dostupom-ipe-dlya-yadra-linux-20240229-163543/</link>
+      <pubDate>Thu, 29 Feb 2024 16:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-predlozhil-sistemu-upravleniya-dostupom-ipe-dlya-yadra-linux-20240229-163543/</guid>
+      <description>Компания выставила на обсуждение в списке рассылки разработчиков ядра Linux код LSM-модуля с реализацией механизма IPE (Integrity Policy Enforcemen), расширяющего существующие системы мандатного управления доступом. Вместо привязки к меткам и путям в IPE решение о разрешении или запрете операции принимается на основе постоянных свойств системного компонента с которым выполняется операция. Модуль позволяет определить общую политику обеспечения целостности для всей системы, указывающую какие операции допустимы и каким способом следует верифицировать подлинность компонентов.</description>
+    </item>
+    
+  </channel>
+</rss>

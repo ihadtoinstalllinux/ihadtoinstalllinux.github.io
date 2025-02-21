@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VirtualBox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/virtualbox/</link>
+    <description>Recent content in VirtualBox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jan 2025 13:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление VirtualBox 7.1.6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-6-20250122-133522/</link>
+      <pubDate>Wed, 22 Jan 2025 13:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-6-20250122-133522/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.1.6, в котором отмечено 9 изменений. Одновременно сформировано обновление прошлой ветки VirtualBox 7.0.24 с 15 исправлениями. Помимо перечисленных ниже изменений в новых версиях устранены 2 уязвимости (максимальный уровень опасности 7.3 из 10), позволяющие локальному пользователю повысить свои привилегии.
+https://www.opennet.ru/opennews/art.shtml?num=62595</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20250122-123532/</link>
+      <pubDate>Wed, 22 Jan 2025 12:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20250122-123532/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В январском обновлении устранено 318 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=62594</description>
+    </item>
+    
+    <item>
+      <title>Обновление VirtualBox 7.1.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-4-20241015-233510/</link>
+      <pubDate>Tue, 15 Oct 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-4-20241015-233510/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.1.4, в котором отмечено 9 исправлений.
+https://www.opennet.ru/opennews/art.shtml?num=62054</description>
+    </item>
+    
+    <item>
+      <title>Обновление VirtualBox 7.1.2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-2-20240927-233514/</link>
+      <pubDate>Fri, 27 Sep 2024 23:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-1-2-20240927-233514/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.1.2, в котором отмечено 15 исправлений.
+https://www.opennet.ru/opennews/art.shtml?num=61946</description>
+    </item>
+    
+    <item>
+      <title>Релиз системы виртуализации VirtualBox 7.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-virtualizacii-virtualbox-7-1-20240911-223529/</link>
+      <pubDate>Wed, 11 Sep 2024 22:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sistemy-virtualizacii-virtualbox-7-1-20240911-223529/</guid>
+      <description>После почти двух лет с момента прошлого значительного выпуска компания Oracle опубликовала релиз системы виртуализации VirtualBox 7.1. Готовые установочные пакеты доступны для RHEL 7/8/9, Fedora 35/36/40, openSUSE 15.3, Ubuntu 20.04/22.04/24.04, Debian 10/11/12, macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=61847</description>
+    </item>
+    
+    <item>
+      <title>Второй бета-выпуск VirtualBox 7.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoroy-beta-vypusk-virtualbox-7-1-20240821-233507/</link>
+      <pubDate>Wed, 21 Aug 2024 23:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoroy-beta-vypusk-virtualbox-7-1-20240821-233507/</guid>
+      <description>Компания Oracle начала тестирование второй бета-версии системы виртуализации VirtualBox 7.1. Релиз ожидается осенью. Сборки с бета-версией VirtualBox 7.1 подготовлены для RHEL 7/8/9, Fedora 35/36/40.
+https://www.opennet.ru/opennews/art.shtml?num=61742</description>
+    </item>
+    
+    <item>
+      <title>Началось бета-тестирование VirtualBox 7.1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-virtualbox-7-1-0-20240726-123507/</link>
+      <pubDate>Fri, 26 Jul 2024 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-beta-testirovanie-virtualbox-7-1-0-20240726-123507/</guid>
+      <description>Спустя полтора года с момента формирования прошлой значительной ветки компания Oracle представила первый бета-выпуск системы виртуализации VirtualBox 7.1. Релиз ожидается осенью. Сборки с бета-версией VirtualBox 7.1 подготовлены для RHEL 7/8/9, Fedora 35/36/40.
+https://www.opennet.ru/opennews/art.shtml?num=61613</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240718-183523/</link>
+      <pubDate>Thu, 18 Jul 2024 18:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240718-183523/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В июльском обновлении в сумме устранена 386 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=61573</description>
+    </item>
+    
+    <item>
+      <title>Обновление VirtualBox 7.0.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-0-20-20240716-203549/</link>
+      <pubDate>Tue, 16 Jul 2024 20:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-0-20-20240716-203549/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.20, в котором отмечено 8 исправлений.
+https://www.opennet.ru/opennews/art.shtml?num=61558</description>
+    </item>
+    
+    <item>
+      <title>Обновление VirtualBox 7.0.18</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-0-18-20240503-193529/</link>
+      <pubDate>Fri, 03 May 2024 19:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-virtualbox-7-0-18-20240503-193529/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.18, в котором отмечено 3 исправления.
+https://www.opennet.ru/opennews/art.shtml?num=61110</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240417-123525/</link>
+      <pubDate>Wed, 17 Apr 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20240417-123525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В апрельском обновлении в сумме устранена 441 уязвимость.
+https://www.opennet.ru/opennews/art.shtml?num=61008</description>
+    </item>
+    
+    <item>
+      <title>Выпуск VirtualBox 7.0.16</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-16-20240417-113558/</link>
+      <pubDate>Wed, 17 Apr 2024 11:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-16-20240417-113558/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.16, в котором отмечено 15 исправлений. Помимо данных изменений в новой версии устранено 13 уязвимостей, 7 из которых помечены как опасные (у четырёх проблем уровень опасности 8.8 из 10, а у трёх - 7.8 из 10).
+https://www.opennet.ru/opennews/art.shtml?num=61007</description>
+    </item>
+    
+    <item>
+      <title>На соревновании Pwn2Own 2024 продемонстрированы взломы Ubuntu, Firefox, Chrome, Docker и VirtualBox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</link>
+      <pubDate>Sat, 23 Mar 2024 02:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</guid>
+      <description>Подведены итоги двух дней соревнований Pwn2Own 2024, ежегодно проводимых в рамках конференции CanSecWest в Ванкувере. Рабочие техники эксплуатации ранее неизвестных уязвимостей были разработаны для Ubuntu Desktop, Windows 11, Docker, Oracle VirtualBox, VMWare Workstation, Adobe Reader, Firefox, Chrome, Edge и автомобиля Tesla. Всего были продемонстрированы 23 успешные атаки, эксплуатирующие 29 ранее неизвестных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60830</description>
+    </item>
+    
+    <item>
+      <title>VirtualBox адаптирован для работы поверх гипервизора KVM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</link>
+      <pubDate>Thu, 08 Feb 2024 19:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/virtualbox-adaptirovan-dlya-raboty-poverh-gipervizora-kvm-20240208-193537/</guid>
+      <description>Компания Cyberus Technology открыла код бэкенда VirtualBox KVM, позволяющего использовать в системе виртуализации VirtualBox встроенный в ядро Linux гипервизор KVM вместо поставляемого в VirtualBox модуля ядра vboxdrv. Бэкенд обеспечивает выполнение виртуальных машин гипервизором KVM с полным сохранением традиционной модели управления и интерфейса VirtualBox. Поддерживается запуск в KVM существующих конфигураций виртуальных машин, созданных для VirtualBox. Код написан на языках С и С++ и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60572</description>
+    </item>
+    
+    <item>
+      <title>Выпуск VirtualBox 7.0.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-14-20240117-183511/</link>
+      <pubDate>Wed, 17 Jan 2024 18:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-14-20240117-183511/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.14, в котором отмечено 14 исправлений. Одновременно сформировано обновление прошлой ветки VirtualBox 6.1.50 с 7 изменениями, в числе которых поддержка пакетов с ядром из дистрибутивов RHEL 9.4 и 8.9, а также реализация возможности импорта и экспорта образов виртуальных машин с контроллерами накопителей NVMe и носителем, вставленным в виртуальный привод CD/DVD.
+https://www.opennet.ru/opennews/art.shtml?num=60452</description>
+    </item>
+    
+    <item>
+      <title>Обновление Java SE, MySQL, VirtualBox, Solaris и других продуктов Oracle с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</link>
+      <pubDate>Thu, 19 Oct 2023 13:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-java-se-mysql-virtualbox-solaris-i-drugih-produktov-oracle-s-ustraneniem-uyazvi-20231019-133525/</guid>
+      <description>Компания Oracle опубликовала плановый выпуск обновлений своих продуктов (Critical Patch Update), нацеленный на устранение критических проблем и уязвимостей. В октябрьском обновлении в сумме устранено 387 уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59954</description>
+    </item>
+    
+    <item>
+      <title>Выпуск VirtualBox 7.0.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-12-20231018-013600/</link>
+      <pubDate>Wed, 18 Oct 2023 01:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-12-20231018-013600/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.12, в котором отмечено 24 исправления. Одновременно сформировано обновление прошлой ветки VirtualBox 6.1.48 с 9 изменениями, в числе которых поддержка ядер Linux 6.5 и 6.6-rc, поддержка пакета с ядром из OpenSUSE 15.5, улучшение поддержки ядра Linux 6.4 и исправления для пакетов с ядром из RHEL 8.9 и 9.3.
+https://www.opennet.ru/opennews/art.shtml?num=59943</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в VirtualBox, эксплуатируемая через протокол RDP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-virtualbox-ekspluatiruemaya-cherez-protokol-rdp-20230727-163727/</link>
+      <pubDate>Thu, 27 Jul 2023 16:37:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-virtualbox-ekspluatiruemaya-cherez-protokol-rdp-20230727-163727/</guid>
+      <description>В системе виртуализации VirtualBox выявлена уязвимость (CVE-2023-22018), позволяющая удалённому пользователю, подключающемуся к виртуальной машин через сеанс на базе протокола RDP, выполнить код на уровне хост-системы. Отмечается, что в определённых конфигурациях уязвимость может быть эксплуатирована неаутентифицированным пользователем, имеющим сетевой доступ к сервису RDP.
+https://www.opennet.ru/opennews/art.shtml?num=59504</description>
+    </item>
+    
+    <item>
+      <title>Выпуск VirtualBox 7.0.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-10-20230719-123505/</link>
+      <pubDate>Wed, 19 Jul 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-10-20230719-123505/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.10, в котором отмечено 23 исправления. Одновременно сформировано обновление прошлой ветки VirtualBox 6.1.46 с 14 изменениями, в числе которых поддержка ядра Linux 6.4 и пакетов с ядром из RHEL 8.8, 8.9 и 9.3.
+https://www.opennet.ru/opennews/art.shtml?num=59462</description>
+    </item>
+    
+    <item>
+      <title>Выпуск VirtualBox 7.0.8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-8-20230419-093506/</link>
+      <pubDate>Wed, 19 Apr 2023 09:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-virtualbox-7-0-8-20230419-093506/</guid>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.0.8, в котором отмечено 21 исправление. Одновременно сформировано обновление прошлой ветки VirtualBox 6.1.44 с 4 изменениями, в числе которых улучшение определения использования systemd, поддержка ядра Linux 6.3 и решение проблем со сборкой vboxvide с ядрами из RHEL 8.7, 9.1 и 9.2.
+https://www.opennet.ru/opennews/art.shtml?num=58997</description>
+    </item>
+    
+  </channel>
+</rss>

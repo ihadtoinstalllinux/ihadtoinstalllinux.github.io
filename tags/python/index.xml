@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/python/</link>
+    <description>Recent content in Python on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 12:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Snek 1.10, Python-подобного языка программирования для встраиваемых систем</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</link>
+      <pubDate>Fri, 29 Nov 2024 12:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-snek-1-10-python-podobnogo-yazyka-programmirovaniya-dlya-vstraivaemyh-sistem-20241129-123513/</guid>
+      <description>Кит Паккард (Keith Packard), активный разработчик Debian, лидер проекта X.Org и создатель множества X-расширений, включая XRender, XComposite и XRandR, опубликовал новый выпуск языка программирования Snek 1.10, позиционируемого как упрощённый вариант языка Python, адаптированный для использования на встраиваемых системах, на которых недостаточно ресурсов для использования MicroPython и CircuitPython. Snek не претендует на полноценную поддержку языка Python, но может использоваться на чипах, имеющих всего 2КБ ОЗУ, 32 КБ Flash-памяти и 1КБ EEPROM. Код проекта распространяется под лицензией GPLv3.</description>
+    </item>
+    
+    <item>
+      <title>Python сместил JavaScript с 1 места в рейтинге GitHub. Статистика GitHub за 2024 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/python-smestil-javascript-s-1-mesta-v-reytinge-github-statistika-github-za-2024-god-20241103-133519/</link>
+      <pubDate>Sun, 03 Nov 2024 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/python-smestil-javascript-s-1-mesta-v-reytinge-github-statistika-github-za-2024-god-20241103-133519/</guid>
+      <description>GitHub опубликовал отчёт с анализом статистики за 2024 год. Основные тенденции.
+https://www.opennet.ru/opennews/art.shtml?num=62166</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Python 3.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-python-3-13-20241008-013533/</link>
+      <pubDate>Tue, 08 Oct 2024 01:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-python-3-13-20241008-013533/</guid>
+      <description>После года разработки опубликован значительный выпуск языка программирования Python 3.13. Новая ветка будет поддерживаться в течение полутора лет, после чего ещё три с половиной года для неё будут формироваться исправления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=62009</description>
+    </item>
+    
+    <item>
+      <title>55% Python-разработчиков используют Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/55-python-razrabotchikov-ispolzuyut-linux-20240902-023529/</link>
+      <pubDate>Mon, 02 Sep 2024 02:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/55-python-razrabotchikov-ispolzuyut-linux-20240902-023529/</guid>
+      <description>Организация Python Software Foundation опубликовала результаты совместного ежегодного опроса, в котором приняли участие более 25 тысяч разработчиков, использующих язык программирования Python. Основные тенденции.
+https://www.opennet.ru/opennews/art.shtml?num=61799</description>
+    </item>
+    
+    <item>
+      <title>Один их ключевых разработчиков Python отстранён на три месяца из-за нарушения кодекса поведения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/odin-ih-klyuchevyh-razrabotchikov-python-otstranen-na-tri-mesyaca-iz-za-narusheniya-kodeks-20240810-173532/</link>
+      <pubDate>Sat, 10 Aug 2024 17:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/odin-ih-klyuchevyh-razrabotchikov-python-otstranen-na-tri-mesyaca-iz-za-narusheniya-kodeks-20240810-173532/</guid>
+      <description>Тим Петерс (Tim Peters), автор гибридного алгоритма сортировки Timsort, член Python Core Team и один из старожил проекта, участвующий в разработке с первых версий CPython.
+https://www.opennet.ru/opennews/art.shtml?num=61681</description>
+    </item>
+    
+    <item>
+      <title>Утечка токена для полного доступа к GitHub-репозиториям проекта Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-tokena-dlya-polnogo-dostupa-k-github-repozitoriyam-proekta-python-20240712-123521/</link>
+      <pubDate>Fri, 12 Jul 2024 12:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-tokena-dlya-polnogo-dostupa-k-github-repozitoriyam-proekta-python-20240712-123521/</guid>
+      <description>Исследователи из компании JFrog обнаружили в составе Docker-образа &amp;ldquo;cabotage-app&amp;rdquo; токен, предоставляющий доступ с правами администратора к репозиториям Python, PyPI и Python Software Foundation на GitHub. Токен был найден в бинарном файле &amp;ldquo;pycache/build.cpython-311.pyc&amp;rdquo; с прокэшированным скомпилированным байткодом.
+https://www.opennet.ru/opennews/art.shtml?num=61531</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в Python-пакете Js2Py, загружаемого более миллиона раз в месяц</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</link>
+      <pubDate>Sun, 23 Jun 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-python-pakete-js2py-zagruzhaemogo-bolee-milliona-raz-v-mesyac-20240623-013546/</guid>
+      <description>В Python-пакете Js2Py, который был загружен в прошлом месяце 1.2 млн раз, выявлена уязвимость (CVE-2024-28397), позволяющая обойти sandbox-изоляцию и выполнить код в системе при обработке специально оформленных данных на JavaScript. Уязвимость может использоваться для атаки на программы, применяющие Js2Py для выполнения JavaScript-кода. Исправление пока доступно только в виде патча. Для проверки возможности атаки подготовлен прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=61421</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Python-библиотеки для научных вычислений NumPy 2.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-python-biblioteki-dlya-nauchnyh-vychisleniy-numpy-2-0-0-20240616-133549/</link>
+      <pubDate>Sun, 16 Jun 2024 13:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-python-biblioteki-dlya-nauchnyh-vychisleniy-numpy-2-0-0-20240616-133549/</guid>
+      <description>Доступен релиз Python-библиотеки для научных вычислений NumPy 2.0.0, ориентированной на работу с многомерными массивами и матрицами, а также предоставляющей большую коллекцию функций с реализацией различных алгоритмов, связанных с использованием матриц. NumPy является одной из наиболее востребованных библиотек, применяемых для научных расчётов. Код проекта написан на языке Python с применением оптимизаций на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61375</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Nuitka 2.2, компилятора для языка Python </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-2-kompilyatora-dlya-yazyka-python-20240512-113527/</link>
+      <pubDate>Sun, 12 May 2024 11:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-2-kompilyatora-dlya-yazyka-python-20240512-113527/</guid>
+      <description>Доступен выпуск проекта Nuitka 2.2, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.11. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
+    <item>
+      <title>Волна увольнений в Google, затронувшая команды Flutter, Dart и Python Teams </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/volna-uvolneniy-v-google-zatronuvshaya-komandy-flutter-dart-i-python-teams-20240430-113508/</link>
+      <pubDate>Tue, 30 Apr 2024 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/volna-uvolneniy-v-google-zatronuvshaya-komandy-flutter-dart-i-python-teams-20240430-113508/</guid>
+      <description>Компания Google увольняет часть сотрудников, вовлечённых в проекты Flutter и Dart, а также команду, занимающуюся разработками, связанными с языком программирования Python. В качестве основного мотива сокращения персонала упоминается реорганизация, вызванная оптимизацией процессов, перераспределением обязанностей, а также избавлением от бюрократии и лишних звеньев. Увольнение всей Python-команды объясняется заменой старой команды на другую, территориально находящуюся в Мюнхене.
+https://www.opennet.ru/opennews/art.shtml?num=61091</description>
+    </item>
+    
+    <item>
+      <title>В Python добавлен JIT-компилятор</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-python-dobavlen-jit-kompilyator-20240411-163537/</link>
+      <pubDate>Thu, 11 Apr 2024 16:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-python-dobavlen-jit-kompilyator-20240411-163537/</guid>
+      <description>Доступен альфа выпуск языка программирования Python 3.13.0a6, который примечателен включением в состав ветки 3.13, на основе которой формируется осенний стабильный релиз Python 3.13, экспериментальной реализации JIT-компилятора, позволяющего добиться существенного повышения производительности. Для включения JIT в CPython добавлена сборочная опция &amp;ldquo;&amp;ndash;enable-experimental-jit&amp;rdquo;. Для работы JIT требуется установка LLVM в качестве дополнительной зависимости.
+https://www.opennet.ru/opennews/art.shtml?num=60966</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Nuitka 2.0, компилятора для языка Python </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-0-kompilyatora-dlya-yazyka-python-20240206-143535/</link>
+      <pubDate>Tue, 06 Feb 2024 14:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-2-0-kompilyatora-dlya-yazyka-python-20240206-143535/</guid>
+      <description>Доступен выпуск проекта Nuitka 2.0, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.11. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
+    <item>
+      <title>Для Python предложен JIT-компилятор, использующий технику copy-and-patch</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</link>
+      <pubDate>Tue, 26 Dec 2023 16:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-python-predlozhen-jit-kompilyator-ispolzuyuschiy-tehniku-copy-and-patch-20231226-163600/</guid>
+      <description>Брандт Букер (Brandt Bucher) из компании Microsoft, входящий в число core-разработчиков CPython и работающий команде, занимающейся увеличением производительности интерпретатора CPython, опубликовал реализацию JIT-компилятора для Python, использующую технику Copy-and-Patch. Публикация JIT приурочена к Рождеству и анонс написан в стихах.
+https://www.opennet.ru/opennews/art.shtml?num=60352</description>
+    </item>
+    
+    <item>
+      <title>7% разработчиков продолжают использовать Python 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/7-razrabotchikov-prodolzhayut-ispolzovat-python-2-20231008-113504/</link>
+      <pubDate>Sun, 08 Oct 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/7-razrabotchikov-prodolzhayut-ispolzovat-python-2-20231008-113504/</guid>
+      <description>Компания JetBrains и организация Python Software Foundation опубликовали результаты совместного ежегодного опроса, в котором приняли участие более 23 тысяч разработчиков, использующих язык программирования Python. В ходе опроса, который проводился в 2022 году, о переходе на использование Python 3 заявили 93% опрошенных, а 7% продолжают пользоваться веткой Python 2, которая в настоящее время не поддерживается в большинстве дистрибутивов Linux и была переведена в разряд неподдерживаемых ещё в апреле 2020 года (изначально прекратить поддержку планировалось в 2015 году, но сроки постоянно продлевались).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск jsii 1.90, генератора кода C#, Go, Java и Python из TypeScript </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</link>
+      <pubDate>Sat, 07 Oct 2023 16:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-jsii-1-90-generatora-koda-c-go-java-i-python-iz-typescript-20231007-163506/</guid>
+      <description>Компания Amazon опубликовала компилятор jsii 1.90, представляющий собой модификацию компилятора TypeScript, позволяющую извлечь из компилируемых модулей информацию об API и сгенерировать универсальное представление данного API для обращения к JavaScript-классам из приложений на различных языках программирования. Код проекта написан на TypeScript и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59884</description>
+    </item>
+    
+    <item>
+      <title>Выпуск языка программирования Python 3.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-python-3-12-20231002-213507/</link>
+      <pubDate>Mon, 02 Oct 2023 21:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-yazyka-programmirovaniya-python-3-12-20231002-213507/</guid>
+      <description>После года разработки опубликован значительный выпуск языка программирования Python 3.12. Новая ветка будет поддерживаться в течение полутора лет, после чего ещё три с половиной года для неё будут формироваться исправления с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59857</description>
+    </item>
+    
+    <item>
+      <title>Выпуск RustPython 0.3, реализации интерпретатора Python на языке Rust </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rustpython-0-3-realizacii-interpretatora-python-na-yazyke-rust-20230911-123505/</link>
+      <pubDate>Mon, 11 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rustpython-0-3-realizacii-interpretatora-python-na-yazyke-rust-20230911-123505/</guid>
+      <description>Доступен выпуск проекта RustPython 0.3, развивающего интерпретатор языка программирования Python, написанный на языке Rust и нацеленный на обеспечение совместимости с CPython 3.11 и более новыми выпусками. Проект основал в 2018 году Shing Lyu, один из разработчиков движка Servo и участник перевода CSS-движка Firefox на компоненты, написанные на языке Rust. Для оценки текущего состояния разработки можно использовать web-интерфейс с интерпретатором RustPython, скомпилированным в WebAssembly. Код распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59737</description>
+    </item>
+    
+    <item>
+      <title>В Python устранена уязвимость в реализации TLS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-python-ustranena-uyazvimost-v-realizacii-tls-20230825-133505/</link>
+      <pubDate>Fri, 25 Aug 2023 13:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-python-ustranena-uyazvimost-v-realizacii-tls-20230825-133505/</guid>
+      <description>Опубликованы корректирующие обновления языка программирования Python 3.11.5, 3.10.13, 3.9.18 и 3.8.18, в которых устранена уязвимость (CVE-2023-40217) в классе ssl.SSLSocket, позволяющая обойти стадию согласования TLS-соединения и связанные с ним процессы, такие как проверка сертификата. Успешная атака может привести к обработке незашифрованных данных так, как если бы они были переданы с использованием корректного TLS-соединения.
+https://www.opennet.ru/opennews/art.shtml?num=59660</description>
+    </item>
+    
+    <item>
+      <title>В Microsoft Excel встроена поддержка языка программирования Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-microsoft-excel-vstroena-podderzhka-yazyka-programmirovaniya-python-20230823-003505/</link>
+      <pubDate>Wed, 23 Aug 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-microsoft-excel-vstroena-podderzhka-yazyka-programmirovaniya-python-20230823-003505/</guid>
+      <description>Компания Microsoft, в которой с 2020 года работает Гвидо ван Россум, создатель языка программирования Python, объявила об интеграции Python в табличный процессор Excel. Python можно использовать в Excel для написания формул, работы с данными, анализа информации и формирования диаграмм. Python-код добавляется в ячейки, обрабатывается по аналогии с макросами и функциями, но выполняется не локально, а в облаке Microsoft Cloud.
+https://www.opennet.ru/opennews/art.shtml?num=59641</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в PHP, GStreamer, Xen, Node.js, Python, GNOME Files и librsvg</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</link>
+      <pubDate>Sun, 13 Aug 2023 11:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-php-gstreamer-xen-node-js-python-gnome-files-i-librsvg-20230813-113504/</guid>
+      <description>Несколько недавно выявленных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59592</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Cython 3.0 и Nuitka 1.7, компиляторов для языка Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cython-3-0-i-nuitka-1-7-kompilyatorov-dlya-yazyka-python-20230720-103509/</link>
+      <pubDate>Thu, 20 Jul 2023 10:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cython-3-0-i-nuitka-1-7-kompilyatorov-dlya-yazyka-python-20230720-103509/</guid>
+      <description>После пяти лет разработки опубликован релиз проекта Cython 3.0, развивающего компилятор для языков Python и Cython. Компилятор транслирует Python-код в представление на языках C/C++ и предоставляет дополнительные возможности для взаимодействия кода на языках Python и Си. Cython наиболее востребован для создания Python-обвязок вокруг библиотек на языке Си и для создания модулей на Си, ускоряющих выполнение кода на языке Python. Код компилятора написан на языке Python и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Python-библиотеки для научных вычислений NumPy 1.25.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-python-biblioteki-dlya-nauchnyh-vychisleniy-numpy-1-25-0-20230618-093504/</link>
+      <pubDate>Sun, 18 Jun 2023 09:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-python-biblioteki-dlya-nauchnyh-vychisleniy-numpy-1-25-0-20230618-093504/</guid>
+      <description>Доступен релиз Python-библиотеки для научных вычислений NumPy 1.25, ориентированной на работу с многомерными массивами и матрицами, а также предоставляющей большую коллекцию функций с реализацией различных алгоритмов, связанных с использованием матриц. NumPy является одной из наиболее востребованных библиотек, применяемых для научных расчётов. Код проекта написан на языке Python с применением оптимизаций на языке Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59312</description>
+    </item>
+    
+    <item>
+      <title>Вышел Savant 0.2.3, Python-фреймворк для компьютерного зрения и видеоаналитики</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vyshel-savant-0-2-3-python-freymvork-dlya-kompyuternogo-zreniya-i-videoanalitiki-20230615-183505/</link>
+      <pubDate>Thu, 15 Jun 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vyshel-savant-0-2-3-python-freymvork-dlya-kompyuternogo-zreniya-i-videoanalitiki-20230615-183505/</guid>
+      <description>Опубликован новый выпуск Python-фреймворка Savant, который упрощает использование NVIDIA DeepStream для инженеров, использующих машинное обучение. Фреймворк берет на себя всю сложную работу с GStreamer, позволяя сосредоточиться на построении оптимизированных конвейеров вывода с помощью декларативного синтаксиса (YAML) и функций Python. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=59301</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Nuitka 1.6, компилятора для языка Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-6-kompilyatora-dlya-yazyka-python-20230612-143506/</link>
+      <pubDate>Mon, 12 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nuitka-1-6-kompilyatora-dlya-yazyka-python-20230612-143506/</guid>
+      <description>Доступен выпуск проекта Nuitka 1.6, развивающего компилятор для трансляции скриптов на языке Python в представление на языке C, которое затем можно скомпилировать в исполняемый файл, использующий libpython для обеспечения максимальной совместимости с CPython (используются штатные средства CPython для управления объектами). Обеспечена полная совместимость с актуальными выпусками Python 2.6, 2.7, 3.3 - 3.11. По сравнению с CPython скомпилированные скрипты демонстрируют в тестах pystone повышение производительности на 335%. Код проекта распространяется под лицензией Apache.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован secimport 0.8 для sandbox-изоляции отдельных Python-модулей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-secimport-0-8-dlya-sandbox-izolyacii-otdelnyh-python-moduley-20230526-133504/</link>
+      <pubDate>Fri, 26 May 2023 13:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-secimport-0-8-dlya-sandbox-izolyacii-otdelnyh-python-moduley-20230526-133504/</guid>
+      <description>Доступен выпуск инструментария secimport 0.8, позволяющего изолировать определённые Python-модули при их использовании в своих проектах. Код secimport написан на Python, распространяется под лицензией MIT и может работать в Linux, Windows, macOS и Solaris. Для трассировки выполнения и блокирования системных вызовов применяются подсистемы DTrace и eBPF.
+https://www.opennet.ru/opennews/art.shtml?num=59200</description>
+    </item>
+    
+    <item>
+      <title>Python для «нормальных» с нуля! «Базальт СПО» представляет новый учебник в серии «Библиотека ALT»</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/python-dlya-normalnyh-s-nulya-bazalt-spo-predstavlyaet-novyy-uchebnik-v-serii-biblioteka-a-20230517-213617/</link>
+      <pubDate>Wed, 17 May 2023 21:36:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/python-dlya-normalnyh-s-nulya-bazalt-spo-predstavlyaet-novyy-uchebnik-v-serii-biblioteka-a-20230517-213617/</guid>
+      <description>Язык программирования Python бьёт рекорды по популярности во всем мире! Хотите освоить его и получить больше возможностей для работы и учёбы? Скачайте бесплатный двухтомник «Программирование для «нормальных» с нуля на языке Python» М. В. Сысоевой и И. В. Сысоева.
+https://www.basealt.ru/about/news/archive/view/python-dlja-normalnykh-s-nulja-bazalt-spo-predstavljaet-novyi-uchebnik-v-serii-biblioteka-alt</description>
+    </item>
+    
+  </channel>
+</rss>

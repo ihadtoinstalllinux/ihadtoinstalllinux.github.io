@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mastodon on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mastodon/</link>
+    <description>Recent content in Mastodon on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 23:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в платформе Mastodon, позволяющая выполнить код на серверах соцсети</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-platforme-mastodon-pozvolyayuschaya-vypolnit-kod-na-serverah-socseti-20230708-233506/</link>
+      <pubDate>Sat, 08 Jul 2023 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-platforme-mastodon-pozvolyayuschaya-vypolnit-kod-na-serverah-socseti-20230708-233506/</guid>
+      <description>В Mastodon, платформе для создания децентрализованной социальной сети, объединяющей разрозненные серверы разных участников, выявлена критическая уязвимость (CVE-2023-36460), позволяющая создать или перезаписать произвольный файл в любом каталоге на сервере, насколько позволяют права доступа, под которыми выполняется Mastodon. Проблема может быть использована для организации выполнения своего кода на серверах, например, атакующий может разместить файл в каталоге с web-скриптами, изменить файл ~/.ssh/authorized_keys с ключами SSH или добавить автозапускаемый сценарий, такой как &amp;ldquo;~/.bashrc&amp;rdquo; или ~/.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla начала тестирование собственной социальной сети на базе платформы Mastodon</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-testirovanie-sobstvennoy-socialnoy-seti-na-baze-platformy-mastodon-20230505-113505/</link>
+      <pubDate>Fri, 05 May 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/mozilla-nachala-testirovanie-sobstvennoy-socialnoy-seti-na-baze-platformy-mastodon-20230505-113505/</guid>
+      <description>Компания Mozilla объявила о начале ограниченного бета-тестирования социальной сети Mozilla.social, построенной на основе свободной платформы Mastodon, предоставляющей возможность ведения микроблогов в стиле Twitter и позволяющей создавать объединённые (federated) сети из разрозненных серверов, единая структура связей в которых образуется через применение набора протоколов ActivityPub. Подключение новых участников к Mozilla.social пока ограничено и требует заполнение заявки на попадание в список ожидания. Работа осуществляется в привязке к учётной записи в Firefox Account.
+https://www.opennet.ru/opennews/art.shtml?num=59079</description>
+    </item>
+    
+  </channel>
+</rss>

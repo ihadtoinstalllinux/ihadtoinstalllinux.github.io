@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AGX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/agx/</link>
+    <description>Recent content in AGX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 12:35:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/agx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для рецензирования предложен Linux-драйвер для GPU Apple AGX, написанный на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</link>
+      <pubDate>Wed, 08 Mar 2023 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-recenzirovaniya-predlozhen-linux-drayver-dlya-gpu-apple-agx-napisannyy-na-rust-20230308-123503/</guid>
+      <description>В списке рассылки разработчиков ядра Linux предложена предварительная реализация драйвера drm-asahi для GPU Apple AGX серий G13 и G14, используемых в чипах Apple M1 и M2. Драйвер написан на языке Rust и дополнительно включает набор универсальных обвязок над подсистемой DRM (Direct Rendering Manager), которые можно использовать для разработки других графических драйверов на языке Rust. Опубликованный набор патчей пока предложен только для обсуждения разработчиками ядра (RFC), но может быть принят в основной состав после завершения рецензирования и устранения выявленных недочётов.</description>
+    </item>
+    
+  </channel>
+</rss>

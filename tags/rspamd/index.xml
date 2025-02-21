@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rspamd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rspamd/</link>
+    <description>Recent content in Rspamd on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2024 02:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rspamd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система фильтрации спама Rspamd 3.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-filtracii-spama-rspamd-3-9-20240715-023540/</link>
+      <pubDate>Mon, 15 Jul 2024 02:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-filtracii-spama-rspamd-3-9-20240715-023540/</guid>
+      <description>Состоялся релиз системы фильтрации спама Rspamd 3.9, предоставляющей средства для оценки сообщений по различным критериям, включая правила, статистические методы и чёрные списки, на основе которых формируется итоговый вес сообщения, используемый для принятия решения о необходимости блокировки. Rspamd поддерживает практически все возможности, реализованные в SpamAssassin, и имеет ряд особенностей, позволяющих фильтровать почту в среднем в 10 раз быстрее, чем SpamAssassin, а также обеспечивать лучшее качество фильтрации. Код системы написан на языке Си и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+  </channel>
+</rss>

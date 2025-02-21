@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Owncast on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/owncast/</link>
+    <description>Recent content in Owncast on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/owncast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск сервера потокового вещания Owncast 0.1.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-potokovogo-veschaniya-owncast-0-1-2-20231121-133549/</link>
+      <pubDate>Tue, 21 Nov 2023 13:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-potokovogo-veschaniya-owncast-0-1-2-20231121-133549/</guid>
+      <description>Опубликован выпуск проекта Owncast 0.1.2, развивающего сервер для потокового вещания видео (стриминга, один вещает - многие смотрят) и чата с аудиторией. Сервер запускается на оборудовании пользователя и в отличие от сервисов Twitch, Facebook Live и YouTube Live, позволяет полностью контролировать процесс вещания и задавать свои правила общения в чате. Управление и взаимодействие с пользователями производится через web-интерфейс. Код проекта написан на языке Go и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60156</description>
+    </item>
+    
+    <item>
+      <title>Выпуск сервера потокового вещания Owncast 0.1.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-potokovogo-veschaniya-owncast-0-1-0-20230606-013508/</link>
+      <pubDate>Tue, 06 Jun 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-servera-potokovogo-veschaniya-owncast-0-1-0-20230606-013508/</guid>
+      <description>Опубликован выпуск проекта Owncast 0.1.0, развивающего сервер для организации потокового вещания видео (стриминга, один вещает - многие смотрят) и чата с аудиторией. Сервер запускается на оборудовании пользователя и в отличие от сервисов Twitch, Facebook Live и YouTube Live, позволяет полностью контролировать процесс вещания и задавать свои правила общения в чате. Управление и взаимодействие с пользователями производится через web-интерфейс. Код проекта написан на языке Go и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=59249</description>
+    </item>
+    
+  </channel>
+</rss>

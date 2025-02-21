@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chimera on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chimera/</link>
+    <description>Recent content in Chimera on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 23:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chimera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Chimera 20250214, сочетающего ядро Linux с окружением FreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-chimera-20250214-sochetayuschego-yadro-linux-s-okruzheniem-freebsd-20250214-233539/</link>
+      <pubDate>Fri, 14 Feb 2025 23:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-chimera-20250214-sochetayuschego-yadro-linux-s-okruzheniem-freebsd-20250214-233539/</guid>
+      <description>Опубликовано обновление сборок дистрибутива Chimera Linux, примечателеного использованием ядра Linux в сочетании с утилитами из FreeBSD, системным менеджером dinit и стандартной Си-библиотекой Musl. Сборка осуществляется компилятором Clang. Загрузочные Live-образы сформированы для архитектур x86_64, ppc64le, aarch64, riscv64 и ppc64 в вариантах с GNOME (1.5 ГБ), KDE (2.1 ГБ) и урезанным окружением (806 Мб).
+https://www.opennet.ru/opennews/art.shtml?num=62721</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск дистрибутива Chimera, сочетающего ядро Linux с окружением FreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-chimera-sochetayuschego-yadro-linux-s-okruzheniem-freebsd-20241230-213512/</link>
+      <pubDate>Mon, 30 Dec 2024 21:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-chimera-sochetayuschego-yadro-linux-s-okruzheniem-freebsd-20241230-213512/</guid>
+      <description>После трёх лет разработки и спустя полтора года с момента формирования перовой альфа-версии объявлено о переходе дистрибутива Chimera Linux на стадию бета-тестирования. Дистрибутив примечателен использованием ядра Linux в сочетании с утилитами из FreeBSD, системным менеджером dinit и стандартной Си-библиотекой Musl. Сборка осуществляется компилятором Clang. Проект основан Ниной Колеса (Nina Kolesa) из компании Igalia, принимающей участие в разработке WebKit, Enlightenment и Void Linux (бывший мэйнтейнер Void, отвечавший за архитектуры POWER и PowerPC).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slowroll on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/slowroll/</link>
+    <description>Recent content in Slowroll on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 11:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/slowroll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Январский выпуск дистрибутива openSUSE Slowroll</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yanvarskiy-vypusk-distributiva-opensuse-slowroll-20250110-113549/</link>
+      <pubDate>Fri, 10 Jan 2025 11:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yanvarskiy-vypusk-distributiva-opensuse-slowroll-20250110-113549/</guid>
+      <description>Разработчики проекта openSUSE представили январское обновление экспериментального дистрибутива openSUSE Slowroll, развивающего модифицированную редакцию непрерывно обновляемого дистрибутива openSUSE Tumbleweed, дополнительно стабилизированного для пользователей, которые не хотят ждать выхода консервативного релиза openSUSE Leap, но опасаются проблем со стабильностью из-за недостаточного тестирования новых версий программ.
+https://www.opennet.ru/opennews/art.shtml?num=62536</description>
+    </item>
+    
+    <item>
+      <title>Сформирован дистрибутив openSUSE Slowroll, идущий на смену openSUSE Leap</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</link>
+      <pubDate>Tue, 12 Sep 2023 16:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sformirovan-distributiv-opensuse-slowroll-iduschiy-na-smenu-opensuse-leap-20230912-163505/</guid>
+      <description>Проект openSUSE начал разработку нового дистрибутива openSUSE Slowroll, созданного на основе дистрибутива openSUSE Tumbleweed, но отличающегося применением более медленного непрерывного цикла обновления версий программ (rolling-обновления). Предполагается, что новые версии openSUSE Slowroll, будут формироваться раз в один или два месяца, с промежуточной постоянной публикацией обновлений пакетов с исправлением ошибок и уязвимостей. Готовые iso-образы подготовлены (4.4ГБ) для архитектуры x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=59743</description>
+    </item>
+    
+  </channel>
+</rss>

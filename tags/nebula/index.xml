@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nebula on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nebula/</link>
+    <description>Recent content in Nebula on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 13:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nebula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Nebula 1.9, системы для создания оверлейных P2P-сетей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nebula-1-9-sistemy-dlya-sozdaniya-overleynyh-p2p-setey-20240509-133603/</link>
+      <pubDate>Thu, 09 May 2024 13:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nebula-1-9-sistemy-dlya-sozdaniya-overleynyh-p2p-setey-20240509-133603/</guid>
+      <description>Опубликован выпуск проекта Nebula 1.9, предлагающего инструментарий для построения защищённых оверлейных сетей, позволяющих объединить территориально разделённые хосты в отдельную изолированную сеть, работающую поверх глобальной сети. Проект предназначен для создания своих собственных оверлейных сетей для любых нужд, например, для объединения корпоративных компьютеров в разных офисах, серверов в разных ЦОД или виртуальных окружений у разных облачных провайдеров. Код написан на языке Go и распространяется под лицензией MIT. Проект основан компанией Slack, развивающей одноимённый корпоративный мессенджер.</description>
+    </item>
+    
+  </channel>
+</rss>

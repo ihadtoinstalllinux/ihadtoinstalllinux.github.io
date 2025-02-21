@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEAPATH on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/seapath/</link>
+    <description>Recent content in SEAPATH on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/seapath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый выпуск платформы виртуализации SEAPATH</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-platformy-virtualizacii-seapath-20250210-003553/</link>
+      <pubDate>Mon, 10 Feb 2025 00:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pervyy-vypusk-platformy-virtualizacii-seapath-20250210-003553/</guid>
+      <description>После пяти лет разработки организация Linux Foundation представила релиз платформы виртуализации SEAPATH 1.0, разработанной с учётом требований к информационным системам для цифровых подстанций в энергосетях. Платформа учитывает специфику энергосетей, но может применяться и в других областях, в которых требуется высокая надёжность. Код платформы опубликован под лицензией Apache 2.0. Выпуск SEAPATH 1.0 признан готовым для промышленного применения и использования в критически важных системах (mission-critical). Платформа уже задействована в рабочей инфраструктуре энергетической компании RTE и проходит тестовое внедрение в компаниях GE Vernova, Alliander, ABB, Red Hat и Enedis.</description>
+    </item>
+    
+  </channel>
+</rss>

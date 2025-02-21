@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RPMForge on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rpmforge/</link>
+    <description>Recent content in RPMForge on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 10:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rpmforge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен KOP3, репозиторий для RHEL8, дополняющий EPEL и RPMForge</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-kop3-repozitoriy-dlya-rhel8-dopolnyayuschiy-epel-i-rpmforge-20230503-103505/</link>
+      <pubDate>Wed, 03 May 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-kop3-repozitoriy-dlya-rhel8-dopolnyayuschiy-epel-i-rpmforge-20230503-103505/</guid>
+      <description>Подготовлен новый репозиторий kop3, предлагающий дополнительные пакеты для RHEL8, Oracle Linux, CentOS, RockyLinux и AlmaLinux. В качестве цели проекта заявлена подготовка пакетов для программ, которых нет в репозиториях EPEL и RPMForge. Например в новом репозитории предложены пакеты с программами tkgate, telepathy, rest, iverilog, gnome-maps, gnome-chess, GNU Сhess, gnome-weather, folks-tools, gnote, gnome-todo, djview4 и сборкой просмотрщика документов Evince с поддержкой формата djvu.
+https://www.opennet.ru/opennews/art.shtml?num=59067</description>
+    </item>
+    
+  </channel>
+</rss>

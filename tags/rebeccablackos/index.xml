@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RebeccaBlackOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rebeccablackos/</link>
+    <description>Recent content in RebeccaBlackOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2024 13:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rebeccablackos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен дистрибутив RebeccaBlackOS 2024-08-12 с подборкой окружений на основе Wayland </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-rebeccablackos-2024-08-12-s-podborkoy-okruzheniy-na-osnove-wayland-20240813-133541/</link>
+      <pubDate>Tue, 13 Aug 2024 13:35:41 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-rebeccablackos-2024-08-12-s-podborkoy-okruzheniy-na-osnove-wayland-20240813-133541/</guid>
+      <description>Сформирован выпуск дистрибутива RebeccaBlackOS 2024-08-12, нацеленного на ознакомление с последними наработками, связанными с поддержкой Wayland в различных десктоп-окружениях и приложениях. Дистрибутив построен на пакетной базе Debian и включает свежие сборки библиотек Wayland (срез из master-ветки), композитный сервер Weston и преднастроенные для работы поверх Wayland окружения KDE, GNOME, Wayfire (с компонентами MATE), Sway, LXQt и Xfce. Выбор окружения производится через меню менеджера входа, при этом возможен запуск оболочки из уже запущенного окружения в форме вложенного сеанса.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BlenderGPT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/blendergpt/</link>
+    <description>Recent content in BlenderGPT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/blendergpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlenderGPT - плагин для управления Blender командами на естественном языке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/blendergpt-plagin-dlya-upravleniya-blender-komandami-na-estestvennom-yazyke-20230327-113506/</link>
+      <pubDate>Mon, 27 Mar 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/blendergpt-plagin-dlya-upravleniya-blender-komandami-na-estestvennom-yazyke-20230327-113506/</guid>
+      <description>Для системы 3D-моделирования подготовлен небольшой плагин BlenderGPT, позволяющий генерировать контент на основе заданий, определяемых на естественном языке. Интерфейс для ввода команд оформлен в виде дополнительной вкладки &amp;ldquo;GPT-4 Assistant&amp;rdquo; в боковой панели 3D View, в которой можно вводить произвольные инструкции (например, &amp;ldquo;создай 100 кубов в случайных местах&amp;rdquo;, &amp;ldquo;возьми имеющиеся кубы и сделай их разным размером&amp;rdquo;) и сразу получать результат. Код написан на Python, занимает чуть больше 300 строк и распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

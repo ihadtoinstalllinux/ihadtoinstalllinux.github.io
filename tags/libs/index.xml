@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>libs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/libs/</link>
+    <description>Recent content in libs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 14:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/libs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Серия уязвимостей в библиотеках cpdb-libs, развиваемых проектом OpenPrinting </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/seriya-uyazvimostey-v-bibliotekah-cpdb-libs-razvivaemyh-proektom-openprinting-20230616-143506/</link>
+      <pubDate>Fri, 16 Jun 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/seriya-uyazvimostey-v-bibliotekah-cpdb-libs-razvivaemyh-proektom-openprinting-20230616-143506/</guid>
+      <description>В библиотеках из пакета cpdb-libs (Common Print Dialog Backends), предлагающего фронтэнды и бэкенды для организации работы диалогов вывода на печать и абстрагирования диалогов, используемых в графических тулкитах и приложениях (GTK, Qt, LibreOffice, Firefox, Chromium и т.п.) от различных технологий вывода на печать (CUPS/IPP, облачные сервисы и т.п.), выявлены уязвимости (CVE-2023-34095), приводящие к переполнению буфера при обработке внешних данных.
+https://www.opennet.ru/opennews/art.shtml?num=59304</description>
+    </item>
+    
+  </channel>
+</rss>

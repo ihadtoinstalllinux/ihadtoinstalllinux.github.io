@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toybox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/toybox/</link>
+    <description>Recent content in Toybox on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jan 2025 14:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/toybox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск минималистичного набора системных утилит Toybox 0.8.12 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-nabora-sistemnyh-utilit-toybox-0-8-12-20250121-143603/</link>
+      <pubDate>Tue, 21 Jan 2025 14:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-minimalistichnogo-nabora-sistemnyh-utilit-toybox-0-8-12-20250121-143603/</guid>
+      <description>Опубликован релиз набора системных утилит Toybox 0.8.12, оптимизированного для минимального потребления системных ресурсов. По аналогии с BusyBox все утилиты набора доступны через один исполняемый файл. Проект развивается бывшим мэйнтейнером BusyBox и распространяется под лицензией 0BSD. Целью создания Toybox является предоставление производителям возможности использования минималистичного набора стандартных утилит без открытия исходных текстов модифицированных компонентов. По возможностям Toybox пока отстаёт от BusyBox, но уже реализовано 316 базовых команд (235 полностью и 81 частично) из 392 запланированных.</description>
+    </item>
+    
+  </channel>
+</rss>
