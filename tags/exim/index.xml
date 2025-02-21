@@ -6,7 +6,17 @@
     <description>Recent content in Exim on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 15:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 20:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление почтового сервера Exim 4.98.1 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-pochtovogo-servera-exim-4-98-1-s-ustraneniem-uyazvimosti-20250221-203600/</link>
+      <pubDate>Fri, 21 Feb 2025 20:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-pochtovogo-servera-exim-4-98-1-s-ustraneniem-uyazvimosti-20250221-203600/</guid>
+      <description>Доступен корректирующий выпуск почтового сервера Exim 4.98.1, в котором устранена уязвимость (CVE-2025-26794), позволяющая осуществить подстановку SQL-кода во внутреннюю БД (Hints DB), используемую для хранения информации о состоянии доставки сообщений.
+https://www.opennet.ru/opennews/art.shtml?num=62770</description>
+    </item>
+    
     <item>
       <title>Новая версия почтового сервера Exim 4.98</title>
       <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-pochtovogo-servera-exim-4-98-20240711-153510/</link>
