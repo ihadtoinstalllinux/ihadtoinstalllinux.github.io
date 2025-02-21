@@ -6,7 +6,16 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2025 12:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 13:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Линус Торвальдс пояснил свою позицию в отношении приёма изменений на Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-poyasnil-svoyu-poziciyu-v-otnoshenii-priema-izmeneniy-na-rust-20250221-133600/</link>
+      <pubDate>Fri, 21 Feb 2025 13:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linus-torvalds-poyasnil-svoyu-poziciyu-v-otnoshenii-priema-izmeneniy-na-rust-20250221-133600/</guid>
+      <description>К обсуждению сопротивления мэйнтейнеров внедрению Rust в ядро подключился Линус Торвальдс, который пояснил, что никто не заставляет мэйнтейнеров изучать язык Rust, использовать код на Rust или принимать во внимание наличие в ядре кода на Rust. Мэйнтейнеры могут спокойно продолжать работать только с кодом на Си и никак не пересекаться с Rust. Но подобные сопровождающие не могут и влиять на то, как развивается Rust в ядре, например, не могут вмешиваться в организацию внешнего взаимодействия Rust-кода с кодом их подистемы.</description>
+    </item>
+    
     <item>
       <title>Мнение Грега Кроа-Хартмана и Кейса Кука о продвижении Rust в ядро Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/mnenie-grega-kroa-hartmana-i-keysa-kuka-o-prodvizhenii-rust-v-yadro-linux-20250220-123553/</link>
