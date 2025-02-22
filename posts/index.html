@@ -154,6 +154,18 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>Уязвимость в OpenH264, позволяющая выполнить код при декодировании видео
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>В проекте OpenH264, развивающем открытую реализацию видеокодека H.264, выявлена уязвимость (CVE-2025-27091), потенциально способная привести к выполнению кода при декодировании специально оформленного видео. Проблема проявляется в режимах SVC (Scalable Video Coding) и AVC (Advanced Video Coding), и вызвана состоянием гонки, приводящем к записи данных за пределы выделенного буфера. Уязвимость устранена в выпуске OpenH264 2.6.0. Проследить за появлением обновлений в дистрибутивах можно на следующих страницах: Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD....</p>
+  </section>
+  <footer class="entry-footer"><span title='2025-02-22 20:35:31 +0500 +05'>February 22, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в OpenH264, позволяющая выполнить код при декодировании видео" href="https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openh264-pozvolyayuschaya-vypolnit-kod-pri-dekodirovanii-video-20250222-203531/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>Выпуск labwc 0.8.3, композитного сервера для Wayland 
     </h2>
   </header>
@@ -204,18 +216,6 @@ https://www.opennet.ru/opennews/art.shtml?num=62772</p>
   </section>
   <footer class="entry-footer"><span title='2025-02-21 23:36:39 +0500 +05'>February 21, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
   <a class="entry-link" aria-label="post link to CCPvQjKmglfQhNmdWYz_rfxVR-xqHtA4j5CZwHM2RljP5SQ9E4h2PCY06KAwJdVv4FE4KTkkj6K-pbGqalXMzKVZ.jpg" href="https://ihadtoinstalllinux.github.io/posts/img-20250221-233639/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>В загрузчике GRUB2 выявлена 21 уязвимость
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Опубликованы сведения о 21 уязвимости в загрузчике GRUB2, большинство из которых приводят к переполнению буфера и могут использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot. Проблемы пока устранены только в виде патча. Статус устранения уязвимостей в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Fedora. Для устранения проблем в GRUB2 недостаточно просто обновить пакет, требуется также сформировать новые внутренние цифровые подписи и обновлять инсталляторы, загрузчики, пакеты с ядром, fwupd-прошивки и shim-прослойку....</p>
-  </section>
-  <footer class="entry-footer"><span title='2025-02-21 23:35:37 +0500 +05'>February 21, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to В загрузчике GRUB2 выявлена 21 уязвимость" href="https://ihadtoinstalllinux.github.io/posts/v-zagruzchike-grub2-vyyavlena-21-uyazvimost-20250221-233537/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
