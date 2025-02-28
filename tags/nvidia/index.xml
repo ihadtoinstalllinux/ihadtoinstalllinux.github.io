@@ -6,7 +6,16 @@
     <description>Recent content in NVIDIA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2025 18:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 15:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск проприетарного драйвера NVIDIA 570.124</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-570-124-20250228-153603/</link>
+      <pubDate>Fri, 28 Feb 2025 15:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proprietarnogo-drayvera-nvidia-570-124-20250228-153603/</guid>
+      <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 570.124. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 570.x стала девятой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+    </item>
+    
     <item>
       <title>Началось продвижение в ядро Linux драйвера Nova для GPU NVIDIA</title>
       <link>https://ihadtoinstalllinux.github.io/posts/nachalos-prodvizhenie-v-yadro-linux-drayvera-nova-dlya-gpu-nvidia-20250201-183514/</link>
