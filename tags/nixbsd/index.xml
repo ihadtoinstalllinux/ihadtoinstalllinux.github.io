@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NixBSD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nixbsd/</link>
+    <description>Recent content in NixBSD on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nixbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект NixBSD развивает вариант NixOS с ядром из FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nixbsd-razvivaet-variant-nixos-s-yadrom-iz-freebsd-20240305-013525/</link>
+      <pubDate>Tue, 05 Mar 2024 01:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nixbsd-razvivaet-variant-nixos-s-yadrom-iz-freebsd-20240305-013525/</guid>
+      <description>Представлен проект NixBSD, развивающий неофициальное ответвление от дистрибутива NixOS, в котором вместо ядра Linux задействовано ядро из FreeBSD. Для установки программ используется пакетный менеджер Nix, хранящий результат сборки пакетов в подкаталогах внутри /nix/store и предоставляющий возможность использования нескольких версий одной программы. Настройка параметров системы производится через один файл конфигурации. Имеется возможность быстрого отката системы на предыдущую версию конфигурации.
+https://www.opennet.ru/opennews/art.shtml?num=60724</description>
+    </item>
+    
+  </channel>
+</rss>

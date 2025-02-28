@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cross on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cross/</link>
+    <description>Recent content in cross on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 10:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cross/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск дистрибутива Radix cross Linux 1.9.367</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-367-20240125-103516/</link>
+      <pubDate>Thu, 25 Jan 2024 10:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-367-20240125-103516/</guid>
+      <description>Доступна версия дистрибутива Radix cross Linux 1.9.367, подготовленная.
+https://www.opennet.ru/opennews/art.shtml?num=60492</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Radix cross Linux 1.9.300</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-300-20231217-213545/</link>
+      <pubDate>Sun, 17 Dec 2023 21:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-300-20231217-213545/</guid>
+      <description>Доступна очередная версия дистрибутива Radix cross Linux 1.9.300, построенного с использованием собственной системы сборки Radix.pro, упрощающей формирование дистрибутивов для встраиваемых систем. Cборки дистрибутива доступны для устройств на базе архитектуры ARM/ARM64, MIPS и x86/x86_64. Загрузочные образы, приготовленные по инструкциям раздела Platform Download, содержат локальный репозиторий пакетов и поэтому установка системы не требует подключения к сети Internet. Код сборочной системы распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60301</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Radix cross Linux 1.9.226</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-226-20231125-193721/</link>
+      <pubDate>Sat, 25 Nov 2023 19:37:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-226-20231125-193721/</guid>
+      <description>Доступна очередная версия дистрибутива Radix cross Linux 1.9.226, построенного с использованием собственной системы сборки Radix.pro, упрощающей формирование дистрибутивов для встраиваемых систем. Cборки дистрибутива доступны для устройств на базе архитектуры RISC-V, ARM/ARM64, MIPS и x86/x86_64. Загрузочные образы, приготовленные по инструкциям раздела Platform Download, содержат локальный репозиторий пакетов и поэтому установка системы не требует подключения к сети Internet. Код сборочной системы распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60179</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Radix cross Linux 1.9.212</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-212-20231103-203529/</link>
+      <pubDate>Fri, 03 Nov 2023 20:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-radix-cross-linux-1-9-212-20231103-203529/</guid>
+      <description>Доступна очередная версия дистрибутива Radix cross Linux 1.9.212, построенного с использованием собственной системы сборки Radix.pro, упрощающей формирование дистрибутивов для встраиваемых систем. Cборки дистрибутива доступны для устройств на базе архитектуры ARM/ARM64, MIPS и x86/x86_64. Загрузочные образы, приготовленные по инструкциям раздела Platform Download, содержат локальный репозиторий пакетов и поэтому установка системы не требует подключения к сети Internet. Код сборочной системы распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=60043</description>
+    </item>
+    
+    <item>
+      <title>Новый выпуск дистрибутива Radix cross Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-radix-cross-linux-20230705-003505/</link>
+      <pubDate>Wed, 05 Jul 2023 00:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novyy-vypusk-distributiva-radix-cross-linux-20230705-003505/</guid>
+      <description>Доступны новые сборки дистрибутива Radix cross Linux, построенного с использованием собственной системы сборки Radix.pro, упрощающей формирование дистрибутивов для встраиваемых систем. Система сборки включает набор Make-файлов и скриптов, написанных на языках Bash и Perl, которые предоставляют средства для работы с архивами исходных текстов входящих в состав дистрибутива компонентов, сборки дистрибутива, управления пакетами и установки. Cборки дистрибутива доступны для устройств на базе архитектуры ARM/ARM64, MIPS и x86/x86_64. Код сборочной системы распространяется под лицензией MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

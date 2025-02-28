@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OrioleDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/orioledb/</link>
+    <description>Recent content in OrioleDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 10:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/orioledb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Седьмая бета версия OrioleDB, высокопроизводительного движка хранения для PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/sedmaya-beta-versiya-orioledb-vysokoproizvoditelnogo-dvizhka-hraneniya-dlya-postgresql-20241202-103526/</link>
+      <pubDate>Mon, 02 Dec 2024 10:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/sedmaya-beta-versiya-orioledb-vysokoproizvoditelnogo-dvizhka-hraneniya-dlya-postgresql-20241202-103526/</guid>
+      <description>Представлена бета-версия движка хранения OrioleDB beta7 и опубликованы результаты новых тестов, демонстрирующих значительное повышение производительности по сравнению с традиционным PostgreSQL. В версии beta7 были внедрены оптимизации, направленные на улучшение работы с многопоточными нагрузками и ускорение операций чтения и записи. Первый стабильный релиз OrioleDB планируется сформировать в 2025 году. Движок написан на языке Си и распространяется под лицензией PostgreSQL, похожей на лицензии BSD и MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62327</description>
+    </item>
+    
+    <item>
+      <title>Для PostgreSQL представлен движок хранения OrioleDB, обходящийся без операции VACUUM</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-postgresql-predstavlen-dvizhok-hraneniya-orioledb-obhodyaschiysya-bez-operacii-vacuum-20230717-143510/</link>
+      <pubDate>Mon, 17 Jul 2023 14:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-postgresql-predstavlen-dvizhok-hraneniya-orioledb-obhodyaschiysya-bez-operacii-vacuum-20230717-143510/</guid>
+      <description>Стартап OrioleData опубликовал новый движок хранения для СУБД PostgreSQL - OrioleDB, нацеленный на предоставление быстрого и компактного хранилища, не приводящего со временем к раздутию файлов с БД и не требующего использования периодически запускаемого процесса VACUUM для сборки мусора. Движок написан на языке Си, распространяется под лицензией PostgreSQL и реализован в форме подключаемого расширения, не требующего внесения изменений в основную кодовую базу PostgreSQL. В текущем виде движок находится на стадии бета-тестирования и пока не рекомендован для рабочих внедрений.</description>
+    </item>
+    
+  </channel>
+</rss>

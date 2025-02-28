@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>COBOL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cobol/</link>
+    <description>Recent content in COBOL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 14:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cobol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен CobolCraft, сервер для игры Minecraft, написанный на языке COBOL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-cobolcraft-server-dlya-igry-minecraft-napisannyy-na-yazyke-cobol-20241227-143537/</link>
+      <pubDate>Fri, 27 Dec 2024 14:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-cobolcraft-server-dlya-igry-minecraft-napisannyy-na-yazyke-cobol-20241227-143537/</guid>
+      <description>Проект CobolCraft развивает реализацию сервера для игры Minecraft, совместимую с декабрьским выпуском Minecraft 1.21.4. Код проекта написан на языке COBOL и распространяется под лицензией MIT. Для сборки может использоваться компилятор GnuCOBOL. Для быстрого запуска подготовлен образ контейнера для Docker. В качестве причины выбора языка COBOL, созданного в 1959 году, называется желание изучить данный язык и развеять связанные с ним предрассудки.
+https://www.opennet.ru/opennews/art.shtml?num=62472</description>
+    </item>
+    
+  </channel>
+</rss>

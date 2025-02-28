@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OBS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/obs/</link>
+    <description>Recent content in OBS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 10:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/obs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OBS Studio и Fedora урегулировали конфликт</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obs-studio-i-fedora-uregulirovali-konflikt-20250220-103532/</link>
+      <pubDate>Thu, 20 Feb 2025 10:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obs-studio-i-fedora-uregulirovali-konflikt-20250220-103532/</guid>
+      <description>В результате встречи представителя OBS Studio с лидером Fedora и ответственными за поддержку Flatpak-пакетов в дистрибутиве, удалось наладить сотрудничество и найти пути решения проблем, устраивающие оба проекта. Требование о прекращении использования имени OBS Studio в сопровождаемом проектом Fedora flatpak-пакете отозвано. Fedora продолжит предлагать пользователям по умолчанию свой вариант flatpak-пакета с OBS Studio.
+https://www.opennet.ru/opennews/art.shtml?num=62755</description>
+    </item>
+    
+    <item>
+      <title>Fedora пригрозили иском из-за поставки сбойного flatpak-пакета с OBS Studio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/fedora-prigrozili-iskom-iz-za-postavki-sboynogo-flatpak-paketa-s-obs-studio-20250214-143555/</link>
+      <pubDate>Fri, 14 Feb 2025 14:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/fedora-prigrozili-iskom-iz-za-postavki-sboynogo-flatpak-paketa-s-obs-studio-20250214-143555/</guid>
+      <description>Разработчики системы потокового видеовещания OBS Studio предъявили проекту Fedora претензию, связанную с поставкой некорректно работающего неофициального flatpak-пакета в форме, создающей у пользователей впечатление, что они используют официальный пакет. Проблема в том, что разработчики OBS Studio распространяют через каталог Flathub собственный flatpak-пакет, но вместо него пользователям Fedora предоставляется другой вариант flatpak-пакета, сопровождаемый разработчиками Fedora и при установке являющийся более приоритетным.
+https://www.opennet.ru/opennews/art.shtml?num=62718</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 31.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-31-0-20241207-133553/</link>
+      <pubDate>Sat, 07 Dec 2024 13:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-31-0-20241207-133553/</guid>
+      <description>Опубликован выпуск OBS Studio 31.0, пакета для потокового вещания, композитинга и записи видео. Значительная смена версии объясняется переходом на схему семантического версионирования MAJOR.MINOR.PATCH, в которой первая цифра версии меняется для релизов с изменениями, нарушающими совместимость, вторая - для релизов с функциональными изменениями, сохраняющих полную совместимость с прошлыми выпусками, а третья - для корректирующих обновлений с исправлением отдельных ошибок. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 30.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-2-20240713-093512/</link>
+      <pubDate>Sat, 13 Jul 2024 09:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-2-20240713-093512/</guid>
+      <description>Опубликован выпуск OBS Studio 30.2, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=61537</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 30.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-1-20240313-103522/</link>
+      <pubDate>Wed, 13 Mar 2024 10:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-30-1-20240313-103522/</guid>
+      <description>Опубликован выпуск OBS Studio 30.1, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60779</description>
+    </item>
+    
+    <item>
+      <title>Опубликована система потокового видеовещания OBS Studio 30.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-sistema-potokovogo-videoveschaniya-obs-studio-30-0-20231112-153557/</link>
+      <pubDate>Sun, 12 Nov 2023 15:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-sistema-potokovogo-videoveschaniya-obs-studio-30-0-20231112-153557/</guid>
+      <description>Доступен выпуск OBS Studio 30.0, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux (flatpak), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=60098</description>
+    </item>
+    
+    <item>
+      <title>В OBS Studio добавлена поддержка WebRTC с возможностью вещания в режиме P2P</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</link>
+      <pubDate>Tue, 13 Jun 2023 01:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-obs-studio-dobavlena-podderzhka-webrtc-s-vozmozhnostyu-veschaniya-v-rezhime-p2p-20230613-013506/</guid>
+      <description>В кодовую базу OBS Studio, пакета для потокового вещания, композитинга и записи видео, приняты изменения с реализацией поддержки технологии WebRTC, которая может применяться вместо протокола RTMP для потокового видеовещания без промежуточного сервера, при котором содержимое в режиме P2P напрямую передаётся в браузер пользователя.
+https://www.opennet.ru/opennews/art.shtml?num=59283</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы потокового видеовещания OBS Studio 29.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-29-1-20230503-143506/</link>
+      <pubDate>Wed, 03 May 2023 14:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-potokovogo-videoveschaniya-obs-studio-29-1-20230503-143506/</guid>
+      <description>Доступен выпуск OBS Studio 29.1, пакета для потокового вещания, композитинга и записи видео. Код написан на языках C/C++ и распространяется под лицензией GPLv2. Сборки сформированы для Linux, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=59071</description>
+    </item>
+    
+  </channel>
+</rss>

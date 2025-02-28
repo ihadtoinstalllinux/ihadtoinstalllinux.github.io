@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IMAP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/imap/</link>
+    <description>Recent content in IMAP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/imap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен IMAP-сервер Dovecot 2.4.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-imap-server-dovecot-2-4-0-20250125-023538/</link>
+      <pubDate>Sat, 25 Jan 2025 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-imap-server-dovecot-2-4-0-20250125-023538/</guid>
+      <description>Спустя семь лет после формирования версии 2.3.0 представлена новая ветка многоплатформенного IMAP-сервера Dovecot 2.4.0, поддерживающего протоколы POP3 и IMAP4rev1 с популярными расширениями, такими как SORT, THREAD, MULTIAPPEND, QUOTA, ACL, COMPRESS, NOTIFY, METADATA и IDLE, и механизмами аутентификации и шифрования (SASL, TLS, SCRAM, XOAUTH2). Dovecot сохраняет полную совместимость с классическими mbox и Maildir, применяя внешние индексы для повышения производительности. Для расширения функциональности могут использоваться плагины, через которые реализованы такие возможности, как квоты, ACL, Push-уведомления, полнотекстовый поиск и виртуальные почтовые ящики.</description>
+    </item>
+    
+  </channel>
+</rss>

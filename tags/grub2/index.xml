@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Grub2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/grub2/</link>
+    <description>Recent content in Grub2 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2025 23:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/grub2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В загрузчике GRUB2 выявлена 21 уязвимость</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-zagruzchike-grub2-vyyavlena-21-uyazvimost-20250221-233537/</link>
+      <pubDate>Fri, 21 Feb 2025 23:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-zagruzchike-grub2-vyyavlena-21-uyazvimost-20250221-233537/</guid>
+      <description>Опубликованы сведения о 21 уязвимости в загрузчике GRUB2, большинство из которых приводят к переполнению буфера и могут использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot. Проблемы пока устранены только в виде патча. Статус устранения уязвимостей в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Fedora. Для устранения проблем в GRUB2 недостаточно просто обновить пакет, требуется также сформировать новые внутренние цифровые подписи и обновлять инсталляторы, загрузчики, пакеты с ядром, fwupd-прошивки и shim-прослойку.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован Super Grub2 Disk 2.06s4, дистрибутив для решения проблем с загрузкой ОС</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-super-grub2-disk-2-06s4-distributiv-dlya-resheniya-problem-s-zagruzkoy-os-20240731-113603/</link>
+      <pubDate>Wed, 31 Jul 2024 11:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-super-grub2-disk-2-06s4-distributiv-dlya-resheniya-problem-s-zagruzkoy-os-20240731-113603/</guid>
+      <description>Спустя пять лет после публикации прошлого выпуска представлен релиз специализированного загрузочного образа Super Grub2 Disk 2.06s4, предназначенного для организации загрузки любых систем в ситуациях, когда пользователь столкнулся с повреждением загрузчика, невозможностью загрузить систему или с перезаписью основного загрузчика в системах с несколькими ОС. Для управления и поиска доступных для загрузки систем предлагается консольный интерфейс на основе меню. Поддерживаются разделы с LVM и RAID, шифрованные разделы (LUKS1, LUKS2 и geli), загрузка с EFI, ieee1275 и CoreBoot.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в патчах Red Hat к загрузчику GRUB2, позволяющая обойти проверку пароля</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-patchah-red-hat-k-zagruzchiku-grub2-pozvolyayuschaya-oboyti-proverku-parolya-20240115-153849/</link>
+      <pubDate>Mon, 15 Jan 2024 15:38:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-patchah-red-hat-k-zagruzchiku-grub2-pozvolyayuschaya-oboyti-proverku-parolya-20240115-153849/</guid>
+      <description>Раскрыта информация об уязвимости (CVE-2023-4001) в патчах к загрузчику GRUB2, подготовленных компанией Red Hat. Уязвимость позволяет на многих системах с UEFI обойти проверку пароля, выставленного в GRUB2 для ограничения доступа к загрузочному меню или командной строке загрузчика. Уязвимость вызвана изменением, добавленным компанией Red Hat в пакет с GRUB2, поставляемый в RHEL и Fedora Linux. Проблема не проявляется в основном проекте GRUB2 и затрагивает только дистрибутивы, применившие дополнительные патчи Red Hat.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в NTFS-драйвере из состава GRUB2, позволяющая выполнить код и обойти UEFI Secure Boot</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</link>
+      <pubDate>Wed, 04 Oct 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-ntfs-drayvere-iz-sostava-grub2-pozvolyayuschaya-vypolnit-kod-i-oboyti-uefi-se-20231004-113505/</guid>
+      <description>В драйвере, обеспечивающем работу с файловой системой NTFS в загрузчике GRUB2, выявлена уязвимость (CVE-2023-4692), позволяющая организовать выполнение своего кода на уровне загрузчик при обращении к специально оформленному образу файловой системы. Уязвимость может применяться для обхода механизма верифицированной загрузки UEFI Secure Boot.
+https://www.opennet.ru/opennews/art.shtml?num=59868</description>
+    </item>
+    
+  </channel>
+</rss>

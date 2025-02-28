@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>getrandom on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/getrandom/</link>
+    <description>Recent content in getrandom on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2024 10:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/getrandom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчик Wireguard серьезно ускорил вызов getrandom() в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchik-wireguard-serezno-uskoril-vyzov-getrandom-v-linux-20240705-103534/</link>
+      <pubDate>Fri, 05 Jul 2024 10:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchik-wireguard-serezno-uskoril-vyzov-getrandom-v-linux-20240705-103534/</guid>
+      <description>Джейсон Доненфилд (Jason A. Donenfeld), автор VPN WireGuard, представил патчи, значительно ускоряющие получение случайных чисел от системы через функцию getrandom(), реализованную через соответствующий системный вызов Linux. Преимуществом такого решения по сравнению с использованием /dev/random или /dev/urandom является неподверженность атакам на исчерпание файловых дескрипторов, которые могут привести к неинициализированным и неслучайным криптографическим ключам.
+https://www.opennet.ru/opennews/art.shtml?num=61494</description>
+    </item>
+    
+  </channel>
+</rss>

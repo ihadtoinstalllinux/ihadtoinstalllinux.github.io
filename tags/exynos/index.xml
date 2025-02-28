@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exynos on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exynos/</link>
+    <description>Recent content in Exynos on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Mar 2023 14:35:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exynos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в беспроводных модулях Samsung Exynos, эксплуатируемая через интернет</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-besprovodnyh-modulyah-samsung-exynos-ekspluatiruemaya-cherez-internet-20230317-143502/</link>
+      <pubDate>Fri, 17 Mar 2023 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-besprovodnyh-modulyah-samsung-exynos-ekspluatiruemaya-cherez-internet-20230317-143502/</guid>
+      <description>Исследователи из команды Google Project Zero сообщили о выявлении 18 уязвимостей в 5G/LTE/GSM-модемах Samsung Exynos. Четыре наиболее опасные уязвимости (CVE-2023-24033) позволяют добиться выполнения кода на уровне baseband-чипа через манипуляции из внешних интернет-сетей. По мнению представителей Google Project Zero, после проведения небольших дополнительных исследований квалифицированные злоумышленники смогут оперативно подготовить рабочий эксплоит, дающий возможность удалённо получить управление на уровне беспроводного модуля, зная только телефонный номер жертвы. Атака может быть проведена незаметно от пользователя и не требует от него выполнения каких-либо действий.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SpiderMonkey on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/spidermonkey/</link>
+    <description>Recent content in SpiderMonkey on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2024 14:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/spidermonkey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инициатива по избавлению браузерного движка Servo от привязки к Mozilla SpiderMonkey</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-izbavleniyu-brauzernogo-dvizhka-servo-ot-privyazki-k-mozilla-spidermonkey-20240415-143534/</link>
+      <pubDate>Mon, 15 Apr 2024 14:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-po-izbavleniyu-brauzernogo-dvizhka-servo-ot-privyazki-k-mozilla-spidermonkey-20240415-143534/</guid>
+      <description>Разработчики браузерого движка Servo представили инициативу по усилению модульности и уходу от использования низкоуровневых API JavaScript-движка SpiderMonkey, развиваемого компанией Mozilla и применяемого в Servo для обеспечения поддержки JavaScript и WebAssembly. В дальнейшем Servo планируют перевести на более высокоуровневый API и слой абстракций для взаимодействия с JavaScript-движками, что даст возможность избавиться от небезопасных прямых обращений к коду SpiderMonkey, выполняемых в блоках unsafe. В отдалённой перспективе изменение позволит уйти от жёсткой привязи к SpiderMonkey и обеспечить поддержку других движков JavaScript и WebAssembly, таких как используемый в Chrome движок V8.</description>
+    </item>
+    
+  </channel>
+</rss>

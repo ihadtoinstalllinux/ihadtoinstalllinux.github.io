@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gel/</link>
+    <description>Recent content in Gel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 12:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>СУБД EdgeDB переименована в Gel. Выпуск Gel 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-edgedb-pereimenovana-v-gel-vypusk-gel-6-0-20250226-123534/</link>
+      <pubDate>Wed, 26 Feb 2025 12:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-edgedb-pereimenovana-v-gel-vypusk-gel-6-0-20250226-123534/</guid>
+      <description>Разработчики СУБД EdgeDB объявили о переименовании проекта в Gel. Одновременно сформирован новый значительный релиз - Gel 6.0. В качестве причины смены имени упоминается желание избавиться от вводящих в заблуждение коннотаций, вызванных использованием слова &amp;ldquo;еdge&amp;rdquo;, из-за которого многие воспринимают проект как СУБД для edge-вычислений или как графо-ориентированную СУБД. Переименование затронуло только элементы бренда. Структура проекта, цели и команда остались прежними. Утилиты и библиотеки в новом выпуске переименованы, но для обеспечения обратной совместимости сохранена возможность использования старых имён через символические ссылки и обвязки.</description>
+    </item>
+    
+  </channel>
+</rss>

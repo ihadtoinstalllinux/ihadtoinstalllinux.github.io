@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vfs/</link>
+    <description>Recent content in VFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 12:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В подсистеме Linux VFS обнаружены проблемы, которые могут привести к повреждению данных и уязвимостям</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-podsisteme-linux-vfs-obnaruzheny-problemy-kotorye-mogut-privesti-k-povrezhdeniyu-dannyh-20240729-123558/</link>
+      <pubDate>Mon, 29 Jul 2024 12:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-podsisteme-linux-vfs-obnaruzheny-problemy-kotorye-mogut-privesti-k-povrezhdeniyu-dannyh-20240729-123558/</guid>
+      <description>Кристиан Браунер (Christian Brauner), лидер проектов LXC и Incus, один из сопровождающих glibc и участник разработки systemd, обнаружил в коде подсистемы ядра Linux VFS (Virtual File System) проблемы, которые могут привести к краху, повреждению данных или проблемам с безопасностью. После обнаружения проблемы, которая оставалась не замеченной 5 лет, разработчик Сет Форши (Seth Forshee) из компании Digital Ocean исправил ошибку, допускавшую выход за пределы оригинального пространства имён, в котором производилось монтирование, что потенциально могло привести к проблемам безопасности.</description>
+    </item>
+    
+  </channel>
+</rss>

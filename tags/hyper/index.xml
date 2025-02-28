@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyper on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hyper/</link>
+    <description>Recent content in Hyper on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 12:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hyper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft начал продвижение в ядро Linux компонентов хост-окружения Hyper-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-nachal-prodvizhenie-v-yadro-linux-komponentov-host-okruzheniya-hyper-v-20241011-123542/</link>
+      <pubDate>Fri, 11 Oct 2024 12:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-nachal-prodvizhenie-v-yadro-linux-komponentov-host-okruzheniya-hyper-v-20241011-123542/</guid>
+      <description>Компания Microsoft предложила для включение в основной состав ядра Linux первую серию патчей, связанных с работой в качестве хост-окружения (Dom0, root partition) для гипервизора Hyper-V. Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием.
+https://www.opennet.ru/opennews/art.shtml?num=62028</description>
+    </item>
+    
+  </channel>
+</rss>

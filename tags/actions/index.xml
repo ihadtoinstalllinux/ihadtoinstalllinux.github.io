@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Actions on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/actions/</link>
+    <description>Recent content in Actions on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 17:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ошибка в обработчике GitHub Actions привела к публикации вредоносных релизов Ultralytics</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</link>
+      <pubDate>Sat, 07 Dec 2024 17:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</guid>
+      <description>Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics, применяемой для решения задач компьютерного зрения, таких как определение объектов на изображениях и сегментирование изображений. После получения доступа к репозиторию атакующие опубликовали в каталоге PyPI несколько новых релизов Ultralytics, включающих вредоносные изменения для майнинга криптовалют. За последний месяц библиотека Ultralytics была загружена из каталога PyPI более 6.4 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=62365</description>
+    </item>
+    
+    <item>
+      <title>Проект Сicada развивает систему автоматизации сборок, похожую на GitHub Actions</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-sicada-razvivaet-sistemu-avtomatizacii-sborok-pohozhuyu-na-github-actions-20231107-183510/</link>
+      <pubDate>Tue, 07 Nov 2023 18:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-sicada-razvivaet-sistemu-avtomatizacii-sborok-pohozhuyu-na-github-actions-20231107-183510/</guid>
+      <description>Доступна открытая система автоматизации сборочных процессов Сicada, позволяющая на своём сервере развернуть инфраструктуру, похожую на GitHub Actions, Azure DevOps и Gitlab CI, не зависящую от облачных сервисов. Код проекта написан на языке Python и распространяется под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60068</description>
+    </item>
+    
+  </channel>
+</rss>

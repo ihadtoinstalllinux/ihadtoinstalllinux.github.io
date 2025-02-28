@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agama on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/agama/</link>
+    <description>Recent content in Agama on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2025 02:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/agama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дистрибутив openSUSE опубликовал альтернативный инсталлятор Agama 11 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-opublikoval-alternativnyy-installyator-agama-11-20250126-023553/</link>
+      <pubDate>Sun, 26 Jan 2025 02:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-opublikoval-alternativnyy-installyator-agama-11-20250126-023553/</guid>
+      <description>Разработчики проекта openSUSE представили инсталлятор Agama 11, разрабатываемый для замены классического интерфейса установки SUSE и openSUSE, и примечательный отделением пользовательского интерфейса от внутренних компонентов YaST. Agama поддерживает использование различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Код компонентов инсталлятора распространяется под лицензией GPLv2 и написан на языках Ruby, Rust и JavaScript/TypeScript.
+https://www.opennet.ru/opennews/art.shtml?num=62615</description>
+    </item>
+    
+    <item>
+      <title>Дистрибутив openSUSE представил альтернативный инсталлятор Agama 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-predstavil-alternativnyy-installyator-agama-10-20241031-173528/</link>
+      <pubDate>Thu, 31 Oct 2024 17:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-predstavil-alternativnyy-installyator-agama-10-20241031-173528/</guid>
+      <description>Разработчики проекта openSUSE опубликовали выпуск инсталлятора Agama 10, разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора сформированы live-сборки для архитектур x86_64, ppc64le, s390x и ARM64, поддерживающие установку альфа-версии openSUSE Leap 16, непрерывно обновляемой сборки openSUSE Tumbleweed и редакции MicroOS на базе контейнеров. Код компонентов инсталлятора распространяется под лицензией GPLv2 и написан на языках Ruby, Rust и JavaScript/TypeScript.</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE представил инсталлятор Agama 9 с новым web-интерфейсом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-predstavil-installyator-agama-9-s-novym-web-interfeysom-20240628-183522/</link>
+      <pubDate>Fri, 28 Jun 2024 18:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-predstavil-installyator-agama-9-s-novym-web-interfeysom-20240628-183522/</guid>
+      <description>Разработчики проекта openSUSE опубликовали выпуск инсталлятора Agama 9, разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора сформированы live-сборки для архитектур x86_64, ppc64le, s390x и ARM64, поддерживающие установку openSUSE Leap, непрерывно обновляемой сборки openSUSE Tumbleweed, а также нескольких редакций SUSE ALP на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>Обновление инсталлятора Agama 8, развиваемого для openSUSE и SUSE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-agama-8-razvivaemogo-dlya-opensuse-i-suse-20240518-183535/</link>
+      <pubDate>Sat, 18 May 2024 18:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-installyatora-agama-8-razvivaemogo-dlya-opensuse-i-suse-20240518-183535/</guid>
+      <description>Разработчики проекта openSUSE опубликовали выпуск инсталлятора Agama 8 (бывший D-Installer), разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора сформированы live-сборки для архитектур x86_64, ppc64le, s390x и ARM64, поддерживающие установку openSUSE Leap, непрерывно обновляемой сборки openSUSE Tumbleweed, а также нескольких редакций SUSE ALP на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE раскрыл планы по развитию нового инсталлятора Agama</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-raskryl-plany-po-razvitiyu-novogo-installyatora-agama-20240217-133523/</link>
+      <pubDate>Sat, 17 Feb 2024 13:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-raskryl-plany-po-razvitiyu-novogo-installyatora-agama-20240217-133523/</guid>
+      <description>Разработчики проекта openSUSE опубликовали план по развитию нового инсталлятора Agama (бывший D-Installer), разрабатываемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для тестирования нового инсталлятора формируются live-сборки для архитектур x86_64 и ARM64, поддерживающие установку непрерывно обновляемой сборки openSUSE Tumbleweed, а также редакций SUSE ALP, openSUSE MicroOS и openSUSE MicroOS Desktop, построенных на базе изолированных контейнеров.</description>
+    </item>
+    
+    <item>
+      <title>Проект openSUSE опубликовал альтернативный инсталлятор Agama 5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-opublikoval-alternativnyy-installyator-agama-5-20231024-133552/</link>
+      <pubDate>Tue, 24 Oct 2023 13:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-opensuse-opublikoval-alternativnyy-installyator-agama-5-20231024-133552/</guid>
+      <description>Разработчики проекта openSUSE опубликовали новый выпуск инсталлятора Agama (бывший D-Installer), развиваемого для замены классического интерфейса установки SUSE и openSUSE, и примечательного отделением пользовательского интерфейса от внутренних компонентов YaST. Agama предоставляет возможность использования различных фронтэндов, например, фронтэнда для управления установкой через web-интерфейс. Для установки пакетов, проверки оборудования, разбивки дисков и прочих необходимых при инсталляции функций продолжают использоваться библиотеки YaST, поверх которых реализованы сервисы-прослойки, абстрагирующие доступ к библиотекам через унифицированный интерфейс D-Bus.</description>
+    </item>
+    
+  </channel>
+</rss>

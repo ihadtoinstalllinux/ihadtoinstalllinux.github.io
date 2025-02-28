@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alias on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/alias/</link>
+    <description>Recent content in alias on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 22:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/alias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость конфигураций Nginx с некорректными настройками блока alias</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-konfiguraciy-nginx-s-nekorrektnymi-nastroykami-bloka-alias-20230705-223506/</link>
+      <pubDate>Wed, 05 Jul 2023 22:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-konfiguraciy-nginx-s-nekorrektnymi-nastroykami-bloka-alias-20230705-223506/</guid>
+      <description>Некоторые серверы с nginx остаются уязвимы для техники Nginx Alias Traversal, которая была предложена на конференции Blackhat ещё в 2018 году и позволяет получить доступ к файлам и каталогам, размещённым вне корневого каталога, заданного в директиве &amp;ldquo;alias&amp;rdquo;. Проблема проявляется только в конфигурациях с директивой &amp;ldquo;alias&amp;rdquo;, размещённой внутри блока &amp;ldquo;location&amp;rdquo;, параметр которой не завершается на символ &amp;ldquo;/&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=59383</description>
+    </item>
+    
+  </channel>
+</rss>

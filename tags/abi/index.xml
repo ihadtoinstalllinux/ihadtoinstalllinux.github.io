@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ABI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/abi/</link>
+    <description>Recent content in ABI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jan 2025 11:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/abi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В GCC 15 решено убрать поддержку ABI ARM64 ILP32</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-gcc-15-resheno-ubrat-podderzhku-abi-arm64-ilp32-20250117-113554/</link>
+      <pubDate>Fri, 17 Jan 2025 11:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-gcc-15-resheno-ubrat-podderzhku-abi-arm64-ilp32-20250117-113554/</guid>
+      <description>В кодовую базу GCC, используемую для формирования ветки GCC 15, внесено изменение, удаляющее поддержку ABI ARM64 ILP32. ILP3 напоминает субархитектуру x32 для систем x86_64 и также позволяет использовать 32-разрядные указатели и 32-разрядную модель адресации памяти, при работе процессора в 64-разрядном режиме с поддержкой 64-разрядных регистров и расширенных инструкций. Ограничением ABI ILP32 является невозможность адресации из приложения более 4 ГБ памяти.
+https://www.opennet.ru/opennews/art.shtml?num=62568</description>
+    </item>
+    
+  </channel>
+</rss>

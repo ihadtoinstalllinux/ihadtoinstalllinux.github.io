@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tumbleweed on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tumbleweed/</link>
+    <description>Recent content in Tumbleweed on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2025 16:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tumbleweed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дистрибутив openSUSE Tumbleweed перешёл на использование SELinux по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-tumbleweed-pereshel-na-ispolzovanie-selinux-po-umolchaniyu-20250213-163551/</link>
+      <pubDate>Thu, 13 Feb 2025 16:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/distributiv-opensuse-tumbleweed-pereshel-na-ispolzovanie-selinux-po-umolchaniyu-20250213-163551/</guid>
+      <description>Разработчики проекта openSUSE объявили о переводе дистрибутива openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления), на использование системы принудительного контроля доступа SELinux. Начиная с обновления 20250211 для новых установок openSUSE Tumbleweed по умолчанию предлагается SELinux в режиме &amp;ldquo;enforcing&amp;rdquo;. Готовые сборки виртуальных машин openSUSE Tumbleweed minimalVM будут поставляться по умолчанию с SELinux.
+https://www.opennet.ru/opennews/art.shtml?num=62715</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+  </channel>
+</rss>

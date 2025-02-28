@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NVMe on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nvme/</link>
+    <description>Recent content in NVMe on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 19:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для ядра Linux предложен драйвер с реализацией режима NVMe PCI Endpoint</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhen-drayver-s-realizaciey-rezhima-nvme-pci-endpoint-20250120-193558/</link>
+      <pubDate>Mon, 20 Jan 2025 19:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-yadra-linux-predlozhen-drayver-s-realizaciey-rezhima-nvme-pci-endpoint-20250120-193558/</guid>
+      <description>Компания Western Digital разработала для ядра Linux драйвер с реализацией NVMe PCI Endpoint Function Target. При наличии контроллера PCIe, поддерживающего режим endpoint, драйвер позволяет системе под управлением Linux изображать из себя контроллер PCI NVMe, который для других систем будет выглядеть как накопитель с интерфейсом NVMe.
+https://www.opennet.ru/opennews/art.shtml?num=62588</description>
+    </item>
+    
+    <item>
+      <title>Удалённо эксплуатируемая уязвимость в драйвере NVMe-oF/TCP из состава ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-drayvere-nvme-of-tcp-iz-sostava-yadra-linux-20231016-143504/</link>
+      <pubDate>Mon, 16 Oct 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/udalenno-ekspluatiruemaya-uyazvimost-v-drayvere-nvme-of-tcp-iz-sostava-yadra-linux-20231016-143504/</guid>
+      <description>В Linux-подсистеме nvmet-tcp (NVMe-oF/TCP), позволяющей обращаться к NVMe-накопителям по сети (NVM Express over Fabrics), используя протокол TCP, выявлена уязвимость (CVE-2023-5178), потенциально позволяющая удалённо выполнить свой код на уровне ядра или, при наличии локального доступа, поднять свои привилегии в системе. Исправление пока доступно в виде патча. Проблема проявляется с самой первой версии драйвера NVMe-oF/TCP (в отчёте об уязвимости упоминается ядро Linux 5.15, но поддержка NVMe-oF/TCP была добавлена в ядро 5.0). Уязвимости подвержены систем с включённым сервером.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск UDisks 2.10.0 с поддержкой NVMe</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-udisks-2-10-0-s-podderzhkoy-nvme-20230629-153505/</link>
+      <pubDate>Thu, 29 Jun 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-udisks-2-10-0-s-podderzhkoy-nvme-20230629-153505/</guid>
+      <description>После двух лет разработки опубликован релиз пакета UDisks 2.10.0, включающего системный фоновый процесс, библиотеки и инструментарий для организации доступа и управления дисками, устройствами хранения и связанными с ними технологиями. UDisks предоставляет D-Bus API для работы с дисковыми разделами, настройки MD RAID, работы с блочными устройствами в файле (loop-монтирование), манипуляций с файловыми системами и т.п. Дополнительно поставляются модули для мониторинга и управления BCache, BTRFS, iSCSI, libStorageManagement, LVM2, LVM Cache и zRAM.</description>
+    </item>
+    
+  </channel>
+</rss>

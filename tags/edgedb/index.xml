@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EdgeDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/edgedb/</link>
+    <description>Recent content in EdgeDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 12:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/edgedb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>СУБД EdgeDB переименована в Gel. Выпуск Gel 6.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/subd-edgedb-pereimenovana-v-gel-vypusk-gel-6-0-20250226-123534/</link>
+      <pubDate>Wed, 26 Feb 2025 12:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/subd-edgedb-pereimenovana-v-gel-vypusk-gel-6-0-20250226-123534/</guid>
+      <description>Разработчики СУБД EdgeDB объявили о переименовании проекта в Gel. Одновременно сформирован новый значительный релиз - Gel 6.0. В качестве причины смены имени упоминается желание избавиться от вводящих в заблуждение коннотаций, вызванных использованием слова &amp;ldquo;еdge&amp;rdquo;, из-за которого многие воспринимают проект как СУБД для edge-вычислений или как графо-ориентированную СУБД. Переименование затронуло только элементы бренда. Структура проекта, цели и команда остались прежними. Утилиты и библиотеки в новом выпуске переименованы, но для обеспечения обратной совместимости сохранена возможность использования старых имён через символические ссылки и обвязки.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск реляционно-графовой СУБД EdgeDB 5.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-5-0-20240422-133535/</link>
+      <pubDate>Mon, 22 Apr 2024 13:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-5-0-20240422-133535/</guid>
+      <description>Доступен релиз СУБД EdgeDB 5.0, реализующей реляционно-графовую модель данных и язык запросов EdgeQL, оптимизированные для работы со сложными иерархическими данными. Проект развивается в форме надстройки над PostgreSQL, код которой написан на языках Python и Rust (парсер и критичные к производительности части), и распространяется под лицензией Apache 2.0. Клиентские библиотеки подготовлены для языков Python, Go, Rust. .NET, Elixir и TypeScript/Javascript. Предоставляется инструментарий командной строки для управления СУБД и интерактивного выполнения запросов (REPL).</description>
+    </item>
+    
+    <item>
+      <title>Выпуск реляционно-графовой СУБД EdgeDB 4.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-4-0-20231104-223513/</link>
+      <pubDate>Sat, 04 Nov 2023 22:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-relyacionno-grafovoy-subd-edgedb-4-0-20231104-223513/</guid>
+      <description>Представлен релиз СУБД EdgeDB 4.0, реализующей реляционно-графовую модель данных и язык запросов EdgeQL, оптимизированные для работы со сложными иерархическими данными. Код написан на языках Python и Rust (парсер и критичные к производительности части) и распространяется под лицензией Apache 2.0. Проект развивается в форме надстройки над PostgreSQL. Клиентские библиотеки подготовлены для языков Python, Go, Rust. .NET, Elixir и TypeScript/Javascript. Предоставляется инструментарий командной строки для управления СУБД и интерактивного выполнения запросов (REPL).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mini on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mini/</link>
+    <description>Recent content in Mini on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2025 18:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Rust 1.84. Ядра Tock и Vekos, написанные на Rust. Диалект Mini-C</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-84-yadra-tock-i-vekos-napisannye-na-rust-dialekt-mini-c-20250113-183547/</link>
+      <pubDate>Mon, 13 Jan 2025 18:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rust-1-84-yadra-tock-i-vekos-napisannye-na-rust-dialekt-mini-c-20250113-183547/</guid>
+      <description>Опубликован релиз языка программирования общего назначения Rust 1.84, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=62550</description>
+    </item>
+    
+  </channel>
+</rss>

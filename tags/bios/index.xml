@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BIOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bios/</link>
+    <description>Recent content in BIOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2025 01:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SUSE и openSUSE рассматривают прекращение поддержки загрузки на системах с BIOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/suse-i-opensuse-rassmatrivayut-prekraschenie-podderzhki-zagruzki-na-sistemah-s-bios-20250218-013529/</link>
+      <pubDate>Tue, 18 Feb 2025 01:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/suse-i-opensuse-rassmatrivayut-prekraschenie-podderzhki-zagruzki-na-sistemah-s-bios-20250218-013529/</guid>
+      <description>Luboš Kocman, отвечающий за подготовку релизов openSUSE, сообщил, что компания SUSE рассматривает возможность прекращения поддержки загрузки с использованием BIOS, что приведёт к невозможности использования дистрибутивов SUSE и openSUSE на системах без поддержки UEFI. Желание прекратить поддержку BIOS объясняется тем, что начиная с выпусков SLES 16 и openSUSE Leap 16 cборка пакетов будет осуществляться для архитектуры x86-64-v2, которая охватывает расширения SSE3, SSE4_2, SSSE3, POPCNT, LAHF-SAHF и CMPXCHG16B.
+https://www.opennet.ru/opennews/art.shtml?num=62738</description>
+    </item>
+    
+  </channel>
+</rss>

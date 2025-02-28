@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sysupdate on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sysupdate/</link>
+    <description>Recent content in sysupdate on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 23:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sysupdate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME OS переходит на организацию атомарных обновлений при помощи systemd-sysupdate</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</link>
+      <pubDate>Wed, 15 May 2024 23:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/gnome-os-perehodit-na-organizaciyu-atomarnyh-obnovleniy-pri-pomoschi-systemd-sysupdate-20240515-233510/</guid>
+      <description>Разработчики GNOME OS, экспериментального дистрибутива для разработчиков и тестировщиков GNOME, позволяющего оценить состояние разработки среды рабочего стола, ознакомиться с появляющимися новыми возможностями и протестировать работу своих приложений в находящихся в разработке ветках GNOME, объявили о переходе на использование компонента systemd-sysupdate для организации атомарного обновления системы. Целью изменения является желание адаптировать ночные сборки GNOME OS для проведения ежедневного контроля качества разработки GNOME.
+https://www.opennet.ru/opennews/art.shtml?num=61181</description>
+    </item>
+    
+  </channel>
+</rss>

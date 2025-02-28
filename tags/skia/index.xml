@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skia on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/skia/</link>
+    <description>Recent content in Skia on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 01:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/skia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebKit переходит на использование библиотеки Skia для отрисовки 2D-графики</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/webkit-perehodit-na-ispolzovanie-biblioteki-skia-dlya-otrisovki-2d-grafiki-20240220-013547/</link>
+      <pubDate>Tue, 20 Feb 2024 01:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/webkit-perehodit-na-ispolzovanie-biblioteki-skia-dlya-otrisovki-2d-grafiki-20240220-013547/</guid>
+      <description>Развиваемый компанией Apple браузерный движок WebKit, применяемый в таких браузерах, как Safari и Epiphany (GNOME Web), переходит на использование для отрисовки 2D-графики библиотеки Skia, применяемой в Google Chrome, ChromeOS, Android и Flutter, и поддерживающей отрисовку с использованием GPU. Портирование проведено компанией Igalia в рамках инициативы по оптимизации производительности WebKitGTK для GNOME. В качестве причины миграции упоминается достижение предела в процессе оптимизации производительности 2D-отрисовки с использованием CPU, и возникновение необходимости задействовать GPU для дальнейшего повышения производительности.</description>
+    </item>
+    
+  </channel>
+</rss>

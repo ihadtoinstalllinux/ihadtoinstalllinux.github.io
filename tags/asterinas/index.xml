@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Asterinas on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/asterinas/</link>
+    <description>Recent content in Asterinas on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 15:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/asterinas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Asterinas развивает ядро на языке Rust, совместимое с Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-asterinas-razvivaet-yadro-na-yazyke-rust-sovmestimoe-s-linux-20241016-153559/</link>
+      <pubDate>Wed, 16 Oct 2024 15:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-asterinas-razvivaet-yadro-na-yazyke-rust-sovmestimoe-s-linux-20241016-153559/</guid>
+      <description>Группа разработчиков из Китая развивает ядро Asterinas, написанное на языке Rust и предназначенное для использования в операционных системах общего назначения. Для упрощения интеграции с уже разработанными системными компонентами ядро предоставляет ABI (Application Binary Interface), совместимый с ядром Linux и способный использоваться вместо него. Код проекта распространяется под лицензией MPL (Mozilla Public License).
+https://www.opennet.ru/opennews/art.shtml?num=62061</description>
+    </item>
+    
+  </channel>
+</rss>

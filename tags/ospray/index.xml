@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSPRay on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ospray/</link>
+    <description>Recent content in OSPRay on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 15:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ospray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel опубликовал программу 3D-визуализации OSPRay Studio 1.0 и движок  3D-рендеринга OSPRay 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</link>
+      <pubDate>Sun, 25 Feb 2024 15:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-opublikoval-programmu-3d-vizualizacii-ospray-studio-1-0-i-dvizhok-3d-renderinga-ospr-20240225-153522/</guid>
+      <description>Компания Intel опубликовала выпуск проекта OSPRay Studio 1.0, развивающего приложение для интерактивной 3D-визуализации при помощи движка распределённой трассировки лучей OSPRay. Среди прочего, программа может использоваться для высокоточного рендеринга сложных сцен и обработки очень больших сцен, требующих распределённого выполнения вычислений в кластере из нескольких компьютеров. Код приложения написан на языке С++ и распространяется под лицензией Apache 2.0. Для отрисовки на экран используется OpenGL и библиотека GLFW.
+https://www.opennet.ru/opennews/art.shtml?num=60661</description>
+    </item>
+    
+    <item>
+      <title>Intel выпустил движок распределённой трассировки лучей OSPRay 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/intel-vypustil-dvizhok-raspredelennoy-trassirovki-luchey-ospray-3-0-20231020-013538/</link>
+      <pubDate>Fri, 20 Oct 2023 01:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/intel-vypustil-dvizhok-raspredelennoy-trassirovki-luchey-ospray-3-0-20231020-013538/</guid>
+      <description>Компания Intel опубликовала масштабируемый движок 3D-рендеринга OSPRay 3.0, предназначенный для реалистичной высококачественной визуализации методом трассировки лучей. Движок развивается как часть более крупного проекта Intel Rendering Framework, нацеленного на разработку средств программной визуализации научных расчётов SDVis (Software Defined Visualization), включающих библиотеку трассировки лучей Embree, систему фотореалистичной отрисовки GLuRay, библиотеку для устранения шумов на изображениях oidn (Open Image Denoise) и систему программной растеризации OpenSWR. Код написан на языке С++ и опубликован под лицензией Apache 2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OCSP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ocsp/</link>
+    <description>Recent content in OCSP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 14:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ocsp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Encrypt прекращает поддержку протокола OCSP для проверки отозванных сертификатов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prekraschaet-podderzhku-protokola-ocsp-dlya-proverki-otozvannyh-sertifikatov-20241209-143513/</link>
+      <pubDate>Mon, 09 Dec 2024 14:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/let-s-encrypt-prekraschaet-podderzhku-protokola-ocsp-dlya-proverki-otozvannyh-sertifikatov-20241209-143513/</guid>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, принял решение прекратить поддержку протокола OCSP (Online Certificate Status Protocol), применяемого для проверки отзыва сертификатов. Вместо протокола OCSP предлагается использовать списки отозванных сертификатов (CRL - Certificate Revocation List), публикуемые сервисом Let&amp;rsquo;s Encrypt начиная с 2022 года. 7 мая 2025 года Let&amp;rsquo;s Encrypt отключит добавление ссылок на адреса OCSP в выдаваемые сертификаты и прекратит обработку запросов, связанных с использованием расширения &amp;ldquo;OCSP Must Staple&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

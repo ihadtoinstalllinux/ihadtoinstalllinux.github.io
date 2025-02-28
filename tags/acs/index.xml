@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ACS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/acs/</link>
+    <description>Recent content in ACS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 14:36:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/acs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMD развивает собственный композитный сервер ACS, использующий Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/amd-razvivaet-sobstvennyy-kompozitnyy-server-acs-ispolzuyuschiy-wayland-20250125-143605/</link>
+      <pubDate>Sat, 25 Jan 2025 14:36:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/amd-razvivaet-sobstvennyy-kompozitnyy-server-acs-ispolzuyuschiy-wayland-20250125-143605/</guid>
+      <description>Компания AMD объявила о создании собственного композитного сервера ACS (AMDGPU Composition Stack), основанного на кодовой базе эталонного композитного сервера Weston, развиваемого проектом Wayland. ACS преподносится как синхронизированный форк Weston, включающий расширенные возможности. Форк планируют синхронизировать с актуальной кодовой базой Weston два раза в год. Код проекта распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62612</description>
+    </item>
+    
+  </channel>
+</rss>

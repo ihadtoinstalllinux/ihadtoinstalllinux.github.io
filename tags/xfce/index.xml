@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xfce on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/xfce/</link>
+    <description>Recent content in Xfce on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 21:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз среды рабочего стола Xfce 4.20 c частичной поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</link>
+      <pubDate>Sun, 15 Dec 2024 21:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-sredy-rabochego-stola-xfce-4-20-c-chastichnoy-podderzhkoy-wayland-20241215-213519/</guid>
+      <description>После двух лет разработки представлен релиз среды рабочего стола Xfce 4.20, предлагающей классический рабочий стол, потребляющий по возможности минимальные системные ресурсы. Xfce состоит из нескольких взаимосвязанных компонентов, которые при желании можно использовать в других проектах. Среди таких компонентов: оконный менеджер xfwm4, панель для запуска приложений, менеджер управления пользовательскими сеансами, система управления энергопотреблением, графический конфигуратор, файловый менеджер Thunar, календарь-палнировщик Orage, медиапроигрыватель Parole, текстовый редактор Mousepad, эмулятор терминала xfce4-terminal.
+https://www.opennet.ru/opennews/art.shtml?num=62406</description>
+    </item>
+    
+    <item>
+      <title>Второй предварительный выпуск Xfce 4.20</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-xfce-4-20-20241202-133555/</link>
+      <pubDate>Mon, 02 Dec 2024 13:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vtoroy-predvaritelnyy-vypusk-xfce-4-20-20241202-133555/</guid>
+      <description>Опубликован тестовый выпуск десктоп-окружения Xfce 4.20 Pre2, нацеленного на предоставление классической среды рабочего стола, требующей для своей работы минимальных системных ресурсов. Релиз ожидается 29 декабря, если будет принято решение опубликовать ещё один тестовый выпуск Xfce 4.20 Pre3, или 15 декабря, если разработчики сочтут кодовую базу достаточно стабильной.
+https://www.opennet.ru/opennews/art.shtml?num=62330</description>
+    </item>
+    
+    <item>
+      <title>Доступен для тестирования предварительный выпуск Xfce 4.20 с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-predvaritelnyy-vypusk-xfce-4-20-s-podderzhkoy-wayland-20241102-103555/</link>
+      <pubDate>Sat, 02 Nov 2024 10:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-dlya-testirovaniya-predvaritelnyy-vypusk-xfce-4-20-s-podderzhkoy-wayland-20241102-103555/</guid>
+      <description>Опубликован тестовый выпуск десктоп-окружения Xfce 4.20 Pre1, нацеленного на предоставление классической среды рабочего стола, требующей для своей работы минимальных системных ресурсов. Ветка Xfce 4.20 переведена на стадию заморозки, запрещающую добавление новых возможностей в базовые компоненты и смещающую внимание разработчиков на стабилизацию имеющейся кодовой базы. До релиза, который запланирован на 15 декабря, будет сформировано ещё один или два тестовых выпуска.
+https://www.opennet.ru/opennews/art.shtml?num=62160</description>
+    </item>
+    
+    <item>
+      <title>Изменения для улучшения отображения KDE-приложений в GNOME и Xfce</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izmeneniya-dlya-uluchsheniya-otobrazheniya-kde-prilozheniy-v-gnome-i-xfce-20240518-173602/</link>
+      <pubDate>Sat, 18 May 2024 17:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izmeneniya-dlya-uluchsheniya-otobrazheniya-kde-prilozheniy-v-gnome-i-xfce-20240518-173602/</guid>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стала инициатива по решению проблем с пиктограммами, при запуске приложений, входящих в состав KDE Gear, в окружениях, отличных от KDE, таких как GNOME и Xfce. Проблема в том, что при формировании интерфейса KDE-приложений используются пиктограммы из общей темы Breeze. При запуске в KDE состояние темы пиктограмм и приложений синхронизировано, но в сторонних окружениях тема Breeze может отсутствовать или расходиться с эталонным вариантом, что приводит к показу в диалогах и виджетах пустот, заглушек или не тех пиктограмм, что задумали авторы приложения.</description>
+    </item>
+    
+    <item>
+      <title>Проект Xfce перевёл официальные каналы общения с IRC на Matrix</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-perevel-oficialnye-kanaly-obscheniya-s-irc-na-matrix-20240424-113520/</link>
+      <pubDate>Wed, 24 Apr 2024 11:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-perevel-oficialnye-kanaly-obscheniya-s-irc-na-matrix-20240424-113520/</guid>
+      <description>Разработчики проекта Xfce объявили о завершении перевода официальных каналов для общения с IRC на Matrix. Старые IRC-каналы остаются доступны, но в документации и на сайте в качестве официального метода интерактивного общения теперь упоминаются каналы на базе платформы Matrix. Вместо IRC-канала #xfce в сети libera.chat для получения технической поддержки и обсуждений пользователям рекомендуется использовать канал #xfce:matrix.org, вместо #xfce-dev для связанных с разработкой обсуждений - #xfce-dev:matrix.org, а вместо #xfce-commits для отслеживания активности в GitLab - #xfce-commits:matrix.</description>
+    </item>
+    
+    <item>
+      <title>Предположительно 14 млн человек пользуются средой рабочего стола Xfce</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predpolozhitelno-14-mln-chelovek-polzuyutsya-sredoy-rabochego-stola-xfce-20240407-223557/</link>
+      <pubDate>Sun, 07 Apr 2024 22:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predpolozhitelno-14-mln-chelovek-polzuyutsya-sredoy-rabochego-stola-xfce-20240407-223557/</guid>
+      <description>Александр Швинн (Alexander Schwinn), принимающий участие в разработке среды рабочего стола Xfce и файлового менеджера Thunar, попытался посчитать ориентировочное число пользователей Xfce. Оценив популярность основных дистрибутивов Linux был сделан вывод, что примерно 14 млн пользователей работают в Xfce. При расчёте использованы следующие предположения.
+https://www.opennet.ru/opennews/art.shtml?num=60944</description>
+    </item>
+    
+    <item>
+      <title>Проект Xfce обновил планы, связанные с поддержкой Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</link>
+      <pubDate>Fri, 09 Feb 2024 12:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-xfce-obnovil-plany-svyazannye-s-podderzhkoy-wayland-20240209-123525/</guid>
+      <description>Разработчики Xfce обновили страницу с планами, связанными с добавлением поддержки протокола Wayland. В план добавлено упоминание реализации начальной поддержки Wayland в базовых компонентах следующего значительного выпуска Xfce 4.20 с сохранением поддержки X11. Ранее вопрос сохранения обратной совместимости с X11 находится на стадии дискуссии, в которой не удавалось добиться консенсуса. Теперь решено, что поддержка X11 в обозримом будущем прекращена не будет.
+https://www.opennet.ru/opennews/art.shtml?num=60580</description>
+    </item>
+    
+  </channel>
+</rss>

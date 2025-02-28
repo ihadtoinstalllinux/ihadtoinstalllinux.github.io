@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExectOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exectos/</link>
+    <description>Recent content in ExectOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 17:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект ExectOS развивает открытую ОС, нацеленную на совместимость с приложениями Windows</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</link>
+      <pubDate>Thu, 20 Jun 2024 17:36:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-exectos-razvivaet-otkrytuyu-os-nacelennuyu-na-sovmestimost-s-prilozheniyami-windows-20240620-173603/</guid>
+      <description>Проект ExectOS предпринял попытку создания с нуля новой операционной системы, оснащённой микроядром с архитектурой XT, созданной по мотивам ядра Windows NT. Компоненты ядра в ExectOS отделены от подсистемы, обеспечивающей работу драйверов устройств, что позволяет обновлять основное ядро без необходимости перекомпиляции драйверов для нового ядра. Код проекта написан на языке С и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=61412</description>
+    </item>
+    
+  </channel>
+</rss>

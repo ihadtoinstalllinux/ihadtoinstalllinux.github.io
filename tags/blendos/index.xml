@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blendOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/blendos/</link>
+    <description>Recent content in blendOS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 22:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/blendos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз дистрибутива blendOS 4, поддерживающего пакеты из Arch, Fedora, Debian, CentOS и Ubuntu</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</link>
+      <pubDate>Thu, 06 Jun 2024 22:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-distributiva-blendos-4-podderzhivayuschego-pakety-iz-arch-fedora-debian-centos-i-ubu-20240606-223604/</guid>
+      <description>Представлен релиз дистрибутива blendOS 4, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Помимо пакетов из дистрибутива Arch Linux, который задействован в базовом окружении, и универсальных пакетов в формате Flatpak, предоставляется возможность установки пакетов из Fedora 39, Debian 13 (ветка testing), CentOS Stream и Ubuntu 22.04 (пакеты устанавливаются в основанных на данных дистрибутивах контейнерах). Кроме того, в blendOS предоставляется окружение для установки и запуска Android-приложений из каталогов Google Play и F-Droid.</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив blendOS 3, поддерживающий пакеты из других дистрибутивов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-blendos-3-podderzhivayuschiy-pakety-iz-drugih-distributivov-20230707-193504/</link>
+      <pubDate>Fri, 07 Jul 2023 19:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-blendos-3-podderzhivayuschiy-pakety-iz-drugih-distributivov-20230707-193504/</guid>
+      <description>Опубликован выпуск дистрибутива blendOS 3, использующего контейнерную изоляцию для обеспечения сосуществования в одной системе пакетов из различных дистрибутивов Linux. Для установки пакетов предоставляется обвязка, позволяющая ставить пакеты в форматах APK, DEB и RPM из репозиториев Debian 12, Ubuntu 22.04/23.04, Fedora 38, Arch Linux, Crystal Linux, Kali Linux, AlmaLinux 9 и Rocky Linux, а также устанавливать Android-приложения из каталогов Google Play и F-Droid. Для загрузки подготовлено 7 сборок c пользовательскими окружениями GNOME, KDE, Cinnamon, Deepin, Mate, Xfce и LXQt (размер iso-образов приблизительно 3.</description>
+    </item>
+    
+  </channel>
+</rss>

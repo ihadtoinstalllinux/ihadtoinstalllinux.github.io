@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Valve on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/valve/</link>
+    <description>Recent content in Valve on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 10:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/valve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Valve опубликовала исходный код игр Half-Life 2 и Team Fortress 2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-opublikovala-ishodnyy-kod-igr-half-life-2-i-team-fortress-2-20250219-103525/</link>
+      <pubDate>Wed, 19 Feb 2025 10:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-opublikovala-ishodnyy-kod-igr-half-life-2-i-team-fortress-2-20250219-103525/</guid>
+      <description>Компания Valve опубликовала исходный код инструментария &amp;ldquo;Source SDK 2013&amp;rdquo;, предназначенного для создания модов к играм на базе движка Source. Публикация примечательна тем, что состав пакета включён исходный код игр Half-Life 2, Half-Life 2: Deathmatch и Team Fortress 2. Поддерживается сборка в Linux и Windows. Код распространяется под лицензией SOURCE 1 SDK, допускающей использование, копирование и модификацию кода, при условии, что результат распространяется бесплатно и не нарушает условия сервиса Steam.
+https://www.opennet.ru/opennews/art.shtml?num=62747</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0-4, пакет для запуска Windows-игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-4-paket-dlya-zapuska-windows-igr-v-linux-20241212-113506/</link>
+      <pubDate>Thu, 12 Dec 2024 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-4-paket-dlya-zapuska-windows-igr-v-linux-20241212-113506/</guid>
+      <description>Компания Valve опубликовала новую версию проекта Proton 9.0-4, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=62389</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve начнёт напрямую участвовать в разработке Arch Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-nachnet-napryamuyu-uchastvovat-v-razrabotke-arch-linux-20240928-103509/</link>
+      <pubDate>Sat, 28 Sep 2024 10:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-nachnet-napryamuyu-uchastvovat-v-razrabotke-arch-linux-20240928-103509/</guid>
+      <description>Разработчики дистрибутива Arch Linux объявили о переходе к прямому сотрудничеству с компанией Valve, развивающей операционную систему SteamOS, основанную на Arch Linux. Компания Valve поможет в сопровождении сборочной инфраструктуры и поддержании анклава для заверения компонентов дистрибутива цифровыми подписями. Valve предоставит дополнительные ресурсы, которые позволят развивать отмеченные области, не ограничиваясь свободным временем добровольцев.
+https://www.opennet.ru/opennews/art.shtml?num=61950</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve запустила проект Frog для ускорения продвижения новых протоколов Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</link>
+      <pubDate>Wed, 25 Sep 2024 14:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-zapustila-proekt-frog-dlya-uskoreniya-prodvizheniya-novyh-protokolov-wayla-20240925-143538/</guid>
+      <description>Разработчики из компании Valve представили проект frog-protocols, в рамах которого планируется развивать дополнительный набор протоколов для Wayland, дополняющих протоколы из набора wayland-protocols, поставляющего Wayland-расширения для построения композитных серверов и пользовательских окружений. Создание отдельного набора протоколов к Wayland объясняется слишком медленным и буксующим в бесконечных обсуждениях процессом принятия новых протоколов в wayland-protocols, который может затягиваться на месяцы и годы.
+https://www.opennet.ru/opennews/art.shtml?num=61925</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0-3, пакет для запуска Windows-игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-3-paket-dlya-zapuska-windows-igr-v-linux-20240920-103554/</link>
+      <pubDate>Fri, 20 Sep 2024 10:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-3-paket-dlya-zapuska-windows-igr-v-linux-20240920-103554/</guid>
+      <description>Компания Valve опубликовала новую версию проекта Proton 9.0-3, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61894</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve обеспечит поддержку игровых консолей ASUS ROG Ally в SteamOS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-obespechit-podderzhku-igrovyh-konsoley-asus-rog-ally-v-steamos-20240815-133531/</link>
+      <pubDate>Thu, 15 Aug 2024 13:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-obespechit-podderzhku-igrovyh-konsoley-asus-rog-ally-v-steamos-20240815-133531/</guid>
+      <description>Представитель компании Valve.
+https://www.opennet.ru/opennews/art.shtml?num=61706</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0-2, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-2-paket-dlya-zapuska-windows-igr-v-linux-20240613-023542/</link>
+      <pubDate>Thu, 13 Jun 2024 02:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-2-paket-dlya-zapuska-windows-igr-v-linux-20240613-023542/</guid>
+      <description>Компания Valve опубликовала новую версию проекта Proton 9.0-2, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61360</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 9.0, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-paket-dlya-zapuska-windows-igr-v-linux-20240502-233525/</link>
+      <pubDate>Thu, 02 May 2024 23:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-9-0-paket-dlya-zapuska-windows-igr-v-linux-20240502-233525/</guid>
+      <description>Компания Valve опубликовала стабильный релиз проекта Proton 9.0, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=61105</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve открыла код инструментария Steam Audio</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-otkryla-kod-instrumentariya-steam-audio-20240220-123535/</link>
+      <pubDate>Tue, 20 Feb 2024 12:35:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-otkryla-kod-instrumentariya-steam-audio-20240220-123535/</guid>
+      <description>Компания Valve объявила об открытии исходного кода инструментария для работы с объёмным звуком Steam Audio SDK и всех связанных с ним плагинов. Код написан на языке С++ и опубликован под лицензией Apache 2.0, позволяющей адаптировать Steam Audio для своих потребностей и задействовать модифицированные версии в различных продуктах, в том числе в коммерческих, без необходимости открытия исходных текстов внесённых изменений. Заинтересованные в развитии Steam Audio разработчики из сообщества также получили возможность участия в разработке и передачи своих изменений в проект.</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-5, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-5-paket-dlya-zapuska-windows-igr-v-linux-20240123-113628/</link>
+      <pubDate>Tue, 23 Jan 2024 11:36:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-5-paket-dlya-zapuska-windows-igr-v-linux-20240123-113628/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-5, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=60480</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-4, пакет для запуска Windows-игр в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-4-paket-dlya-zapuska-windows-igr-v-linux-20231006-123505/</link>
+      <pubDate>Fri, 06 Oct 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-4-paket-dlya-zapuska-windows-igr-v-linux-20231006-123505/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-4, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59880</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0-2, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-2-paket-dlya-zapuska-windows-igr-v-linux-20230503-013505/</link>
+      <pubDate>Wed, 03 May 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-2-paket-dlya-zapuska-windows-igr-v-linux-20230503-013505/</guid>
+      <description>Компания Valve опубликовала обновление проекта Proton 8.0-2, основанного на кодовой базе проекта Wine и нацеленного на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=59066</description>
+    </item>
+    
+    <item>
+      <title>Компания Valve выпустила Proton 8.0, пакет для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-paket-dlya-zapuska-windows-igr-v-linux-20230418-023504/</link>
+      <pubDate>Tue, 18 Apr 2023 02:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-valve-vypustila-proton-8-0-paket-dlya-zapuska-windows-igr-v-linux-20230418-023504/</guid>
+      <description>Компания Valve опубликовала выпуск проекта Proton 8.0, который основан на кодовой базе проекта Wine и нацелен на обеспечение запуска в Linux игровых приложений, созданных для Windows и представленных в каталоге Steam. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=58990</description>
+    </item>
+    
+  </channel>
+</rss>

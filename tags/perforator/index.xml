@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Perforator on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/perforator/</link>
+    <description>Recent content in Perforator on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2025 19:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/perforator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Яндекс открыл Perforator, инструментарий для профилирования приложений</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-perforator-instrumentariy-dlya-profilirovaniya-prilozheniy-20250130-193547/</link>
+      <pubDate>Thu, 30 Jan 2025 19:35:47 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/yandeks-otkryl-perforator-instrumentariy-dlya-profilirovaniya-prilozheniy-20250130-193547/</guid>
+      <description>Компания Яндекс объявила об открытии исходного кода инструментария Perforator, предназначенного для непрерывного сбора детальных метрик с информацией о работе приложений и рассчитанного на использование в крупных кластерах и датацентрах. Инструментарий позволяет анализировать работу приложений в реальном времени, оценивать распределение ресурсов на Linux-серверах и выявлять наиболее ресурсоёмкие приложения. Код написан на языке С++ и распространяется под лицензией MIT (eBPF-программы под GPLv2).
+https://www.opennet.ru/opennews/art.shtml?num=62641</description>
+    </item>
+    
+  </channel>
+</rss>

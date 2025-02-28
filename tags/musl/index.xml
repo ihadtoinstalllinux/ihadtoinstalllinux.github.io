@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Musl on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/musl/</link>
+    <description>Recent content in Musl on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 18:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/musl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Musl, эксплуатируемая при перекодировании текста в кодировке EUC-KR</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-musl-ekspluatiruemaya-pri-perekodirovanii-teksta-v-kodirovke-euc-kr-20250214-183531/</link>
+      <pubDate>Fri, 14 Feb 2025 18:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-musl-ekspluatiruemaya-pri-perekodirovanii-teksta-v-kodirovke-euc-kr-20250214-183531/</guid>
+      <description>В стандартной Си-библиотеки Musl выявлена уязвимость (CVE-2024-2961), приводящая к переполнению буфера при преобразовании специально оформленного текста из кодировки EUC-KR в UTF-8 при помощи функции iconv(). Уязвимость проявляется начиная с версии musl 0.9.13 и будет исправлена в готовящемся к публикации выпуске 1.2.6 (до публикации обновления следует использовать патч). Уязвимость выявлена сопровождающим библиотеку libxml2 в процессе fuzzing-тестирования.
+https://www.opennet.ru/opennews/art.shtml?num=62719</description>
+    </item>
+    
+    <item>
+      <title>Представлен порт systemd для систем на базе библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-port-systemd-dlya-sistem-na-baze-biblioteki-musl-20240906-103514/</link>
+      <pubDate>Fri, 06 Sep 2024 10:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-port-systemd-dlya-sistem-na-baze-biblioteki-musl-20240906-103514/</guid>
+      <description>Создатель самобытного дистрибутива Adelie Linux, использующего стандартную Си-библиотеку Musl, систему инициализации OpenRC и пакетный менеджер APK, объявил об успешном портировании системного менеджера systemd для работы с библиотекой Musl. Несмотря на то, что реализация имеет статус начальной, она уже достаточно стабильна и демонстрирует трёхкратное сокращение времени загрузки, по сравнению с использованием OpenRC.
+https://www.opennet.ru/opennews/art.shtml?num=61818</description>
+    </item>
+    
+    <item>
+      <title>Выпуск набора утилит GNU findutils 4.10.0 с возобновлением поддержки Си-библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-findutils-4-10-0-s-vozobnovleniem-podderzhki-si-biblioteki-musl-20240703-133551/</link>
+      <pubDate>Wed, 03 Jul 2024 13:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-nabora-utilit-gnu-findutils-4-10-0-s-vozobnovleniem-podderzhki-si-biblioteki-musl-20240703-133551/</guid>
+      <description>Проект GNU опубликовал выпуск пакета findutils 4.10.0, включающего реализации утилит для организации поиска файлов в системе, таких как find, updatedb и locate, updatedb. В составе findutils также развивается утилита xargs, предназначенная для построения команд, выполняемых с данными из стандартного ввода, обычно формируемых при помощи утилиты find.
+https://www.opennet.ru/opennews/art.shtml?num=61479</description>
+    </item>
+    
+    <item>
+      <title>Выпуск системы инициализации SysVinit 3.09 с поддержкой Си-библиотеки Musl</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</link>
+      <pubDate>Mon, 25 Mar 2024 11:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-inicializacii-sysvinit-3-09-s-podderzhkoy-si-biblioteki-musl-20240325-113518/</guid>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.09, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Debian GNU/Hurd и antiX. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.
+https://www.opennet.ru/opennews/art.shtml?num=60839</description>
+    </item>
+    
+    <item>
+      <title>Выпуск стандартной Си-библиотеки Musl 1.2.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-standartnoy-si-biblioteki-musl-1-2-5-20240301-183532/</link>
+      <pubDate>Fri, 01 Mar 2024 18:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-standartnoy-si-biblioteki-musl-1-2-5-20240301-183532/</guid>
+      <description>После 10 месяцев разработки представлен релиз стандартной Си-библиотеки Musl 1.2.5, предоставляющей реализацию libc, которая подходит для применения как на стационарных ПК и серверах, так и на мобильных системах, сочетая полноценную поддержку стандартов (как в Glibc) с небольшим размером, низким потреблением ресурсов и высокой производительностью (как в uClibc, dietlibc и Android Bionic). Имеется поддержка всех обязательных интерфейсов C99 и POSIX 2008, а также частично C11 и набор расширений для многопоточного программирования (POSIX threads), управления памятью и работы с локалями.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск стандартной Си-библиотеки Musl 1.2.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-standartnoy-si-biblioteki-musl-1-2-4-20230503-123506/</link>
+      <pubDate>Wed, 03 May 2023 12:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-standartnoy-si-biblioteki-musl-1-2-4-20230503-123506/</guid>
+      <description>После года разработки представлен релиз стандартной Си-библиотеки Musl 1.2.4, предоставляющей реализацию libc, которая подходит для применения как на стационарных ПК и серверах, так и на мобильных системах, сочетая полноценную поддержку стандартов (как в Glibc) с небольшим размером, низким потреблением ресурсов и высокой производительностью (как в uClibc, dietlibc и Android Bionic). Имеется поддержка всех обязательных интерфейсов C99 и POSIX 2008, а также частично C11 и набор расширений для многопоточного программирования (POSIX threads), управления памятью и работы с локалями.</description>
+    </item>
+    
+  </channel>
+</rss>

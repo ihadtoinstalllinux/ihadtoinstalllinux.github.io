@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EPEL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/epel/</link>
+    <description>Recent content in EPEL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/epel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Официально представлены дистрибутив CentOS Stream 10 и репозиторий EPEL 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oficialno-predstavleny-distributiv-centos-stream-10-i-repozitoriy-epel-10-20241213-123507/</link>
+      <pubDate>Fri, 13 Dec 2024 12:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oficialno-predstavleny-distributiv-centos-stream-10-i-repozitoriy-epel-10-20241213-123507/</guid>
+      <description>Проект CentOS официально объявил о доступности дистрибутива CentOS Stream 10, который используется в качестве основы для формирования дистрибутива Red Hat Enterprise Linux 10. CentOS Stream относится к непрерывно обновляемым дистрибутивам и позволяет раньше получить доступ к пакетам, развиваемым для будущих выпусков RHEL. Сборки CentOS Stream 10 формируются для архитектур x86_64_v3, Aarch64, ppc64le (POWER9) и s390x (IBM z14) в форме установочных iso-файлов и образов для изолированных контейнеров. Сопровождение ветки CentOS Stream 10 продлится до 2030 года.</description>
+    </item>
+    
+    <item>
+      <title>Представлен KOP3, репозиторий для RHEL8, дополняющий EPEL и RPMForge</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-kop3-repozitoriy-dlya-rhel8-dopolnyayuschiy-epel-i-rpmforge-20230503-103505/</link>
+      <pubDate>Wed, 03 May 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-kop3-repozitoriy-dlya-rhel8-dopolnyayuschiy-epel-i-rpmforge-20230503-103505/</guid>
+      <description>Подготовлен новый репозиторий kop3, предлагающий дополнительные пакеты для RHEL8, Oracle Linux, CentOS, RockyLinux и AlmaLinux. В качестве цели проекта заявлена подготовка пакетов для программ, которых нет в репозиториях EPEL и RPMForge. Например в новом репозитории предложены пакеты с программами tkgate, telepathy, rest, iverilog, gnome-maps, gnome-chess, GNU Сhess, gnome-weather, folks-tools, gnote, gnome-todo, djview4 и сборкой просмотрщика документов Evince с поддержкой формата djvu.
+https://www.opennet.ru/opennews/art.shtml?num=59067</description>
+    </item>
+    
+  </channel>
+</rss>

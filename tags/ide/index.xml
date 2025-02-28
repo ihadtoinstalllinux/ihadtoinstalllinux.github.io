@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IDE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ide/</link>
+    <description>Recent content in IDE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2024 11:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сообщество Eclipse представило интегрированную среду разработки Theia IDE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/soobschestvo-eclipse-predstavilo-integrirovannuyu-sredu-razrabotki-theia-ide-20240630-113512/</link>
+      <pubDate>Sun, 30 Jun 2024 11:35:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/soobschestvo-eclipse-predstavilo-integrirovannuyu-sredu-razrabotki-theia-ide-20240630-113512/</guid>
+      <description>Состоялся первый официальный релиз новой интегрированной среды разработки Theia IDE, развиваемой организацией Eclipse Foundation на базе редактора кода Theia и разработанных для него плагинов. Код проекта написан на языке TypeScript и распространяется под лицензией EPLv2 (Eclipse Public License). Продукт Theia IDE поставляется как самодостаточное приложение для рабочего стола, рассчитанное на установку на локальных системах, а также в форме online-версии для работы из браузера (для развёртывания online-версии на своём сервере предоставляется готовый Docker-образ).</description>
+    </item>
+    
+    <item>
+      <title>Новая версия среды разработки Arduino IDE 2.3 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-sredy-razrabotki-arduino-ide-2-3-20240211-193540/</link>
+      <pubDate>Sun, 11 Feb 2024 19:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/novaya-versiya-sredy-razrabotki-arduino-ide-2-3-20240211-193540/</guid>
+      <description>Сообщество Arduino, развивающее серию открытых плат на базе микроконтроллеров, опубликовало релиз интегрированной среды разработки Arduino IDE 2.3, предоставляющей интерфейс для написания кода, компиляции, загрузки прошивок на оборудование и взаимодействия с платами в процессе отладки. Разработка прошивок производится на немного урезанной версии C++ с фреймворком Wiring. Код интерфейса среды разработки написан на языке TypeScript (типизированный JavaScript), а бэкенд реализован на языке Go. Исходные тексты распространяются под лицензией AGPLv3. Подготовлены готовые пакеты для Linux, Windows и macOS.</description>
+    </item>
+    
+    <item>
+      <title>JetBrains представил IDE RustRover и прекратил разработку открытого плагина intellij-rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</link>
+      <pubDate>Thu, 14 Sep 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/jetbrains-predstavil-ide-rustrover-i-prekratil-razrabotku-otkrytogo-plagina-intellij-rust-20230914-123505/</guid>
+      <description>Компания JetBrains представила новую интегрированную среду разработку RustRover, ориентированную на написание приложений на языке Rust. Среда RustRover нацелена на повышение эффективности разработки на языке Rust, удовлетворение потребностей связанной с Rust экосистемы и первичную поддержку данного языка. Проект будет развиваться как коммерческий продукт, но похожее окружение можно сформировать на основе бесплатной community-версии среды IntelliJ IDEA с плагином intellij-rust. В настоящее время для тестирования без ограничений доступен пререлиз RustRover, сборки которого подготовлены для Linux, macOS и Windows.</description>
+    </item>
+    
+    <item>
+      <title>Компания JetBrains объявила о поддержке Wayland в IDE IntelliJ и OpenJDK</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</link>
+      <pubDate>Thu, 31 Aug 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-jetbrains-obyavila-o-podderzhke-wayland-v-ide-intellij-i-openjdk-20230831-113505/</guid>
+      <description>Компания JetBrains анонсировала реализацию поддержки протокола Wayland в платформе IntelliJ и построенных на её основе интегрированных средах разработки. Предложенные изменения имеют значение для всех разработчиков графических приложений на языке Java, так как охватывают и добавление поддержки Wayland в OpenJDK. После включения подготовленных изменений в один из будущих релизов OpenJDK, Java-программы смогут напрямую запускаться в окружениях на основе Wayland без задействования прослойки XWayland. Для тестирования уже доступен JetBrainsRuntime 21, форк OpenJDK 21 со встроенной поддержкой Wayland, используемый в продуктах JetBrains.</description>
+    </item>
+    
+  </channel>
+</rss>

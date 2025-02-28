@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AlmaLinux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/almalinux/</link>
+    <description>Recent content in AlmaLinux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 14:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/almalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление дистрибутива AlmaLinux Kitten 10, основанного на CentOS Stream</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-almalinux-kitten-10-osnovannogo-na-centos-stream-20250108-143525/</link>
+      <pubDate>Wed, 08 Jan 2025 14:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-almalinux-kitten-10-osnovannogo-na-centos-stream-20250108-143525/</guid>
+      <description>Проект AlmaLinux представил обновление дистрибутива Kitten 10, основанного на пакетной базе CentOS Stream 10, используемой в качестве основы будущего выпуска Red Hat Enterprise Linux 10. Kitten 10 преподносится как тестовый дистрибутив, позволяющий познакомиться с возможностями, развиваемыми для RHEL 10, и дополняющий CentOS Stream собственными изменениями. Установочные сборки дистрибутива сформированы для архитектур x86_64, x86_64_v2, aarch64, ppc64le и s390x.
+https://www.opennet.ru/opennews/art.shtml?num=62523</description>
+    </item>
+    
+    <item>
+      <title>Бета-выпуск дистрибутива AlmaLinux 10.0, синхронизированного с RHEL 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-almalinux-10-0-sinhronizirovannogo-s-rhel-10-20241211-223557/</link>
+      <pubDate>Wed, 11 Dec 2024 22:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/beta-vypusk-distributiva-almalinux-10-0-sinhronizirovannogo-s-rhel-10-20241211-223557/</guid>
+      <description>Проект AlmaLinux объявил о тестировании бета-версии дистрибутива AlmaLinux 10.0, синхронизированного c новой веткой Red Hat Enterprise Linux 10 и содержащий все предложенные в ней изменения. Дистрибутив по возможности бинарно совместим с Red Hat Enterprise Linux и может использоваться в качестве замены RHEL 10 и CentOS 10 Stream. Установочные образы подготовлены для архитектур x86_64, x86_64_v2, ARM64 (aarch64), IBM PowerPC (ppc64le) и IBM Z (s390x).
+https://www.opennet.ru/opennews/art.shtml?num=62385</description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив AlmaLinux 9.5</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-5-20241118-233506/</link>
+      <pubDate>Mon, 18 Nov 2024 23:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-5-20241118-233506/</guid>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.5, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.5 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux стал 7 дистрибутивом Linux, рекомендованным Microsoft для Azure</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-stal-7-distributivom-linux-rekomendovannym-microsoft-dlya-azure-20241030-013514/</link>
+      <pubDate>Wed, 30 Oct 2024 01:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-stal-7-distributivom-linux-rekomendovannym-microsoft-dlya-azure-20241030-013514/</guid>
+      <description>Компания Microsoft объявила о включении AlmaLinux в число дистрибутивов Linux, официально рекомендованных для использования в облачных окружениях Azure. В анонсе также упомянуто, что более 60% систем клиентов в Azure используют в своих окружениях Linux (рубеж в 50% был преодолён в 2018 году). Помимо AlmaLinux в списке одобренных дистрибутивов присутствуют Ubuntu, Debian, Flatcar Container Linux, Oracle Linux, Red Hat Enterprise Linux и SUSE.
+https://www.opennet.ru/opennews/art.shtml?num=62135</description>
+    </item>
+    
+    <item>
+      <title>Проект AlmaLinux представил дистрибутив Kitten, основанный на CentOS Stream 10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-distributiv-kitten-osnovannyy-na-centos-stream-10-20241023-003558/</link>
+      <pubDate>Wed, 23 Oct 2024 00:35:58 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-predstavil-distributiv-kitten-osnovannyy-na-centos-stream-10-20241023-003558/</guid>
+      <description>Разработчики из проекта AlmaLinux опубликовали первый выпуск нового дистрибутива Kitten 10, основанного на пакетной базе CentOS Stream 10, используемой для разработки будущего значительного выпуска Red Hat Enterprise Linux 10. Kitten 10 преподносится как тестовый дистрибутив, позволяющий познакомиться с возможностями, развиваемыми для RHEL 10, и являющийся предтечей будущего стабильного выпуска AlmaLinux 10. Установочные сборки дистрибутива сформированы для архитектур x86_64, x86_64_v2, aarch64, ppc64le и s390x.
+https://www.opennet.ru/opennews/art.shtml?num=62091</description>
+    </item>
+    
+    <item>
+      <title>Доступны дистрибутивы AlmaLinux 8.10 и EuroLinux 8.10 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-distributivy-almalinux-8-10-i-eurolinux-8-10-20240529-013511/</link>
+      <pubDate>Wed, 29 May 2024 01:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-distributivy-almalinux-8-10-i-eurolinux-8-10-20240529-013511/</guid>
+      <description>Опубликован выпуск дистрибутива AlmaLinux 8.10, синхронизированный c выпуском Red Hat Enterprise Linux 8.10 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2.1 ГБ) и полного образа (13 ГБ). Позднее планируют сформировать Live-сборки с GNOME, KDE, Xfce и MATE, а также образы для плат Raspberry Pi, WSL, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=61260</description>
+    </item>
+    
+    <item>
+      <title>Проект AlmaLinux учредил комитет ALESCo, отвечающий за технические вопросы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-uchredil-komitet-alesco-otvechayuschiy-za-tehnicheskie-voprosy-20240522-003513/</link>
+      <pubDate>Wed, 22 May 2024 00:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-almalinux-uchredil-komitet-alesco-otvechayuschiy-za-tehnicheskie-voprosy-20240522-003513/</guid>
+      <description>Проект AlmaLinux, развивающий дистрибутив на основе Red Hat Enterprise Linux, пытающийся занять место классического CentOS, объявил о формировании инженерного управляющего комитета.
+https://www.opennet.ru/opennews/art.shtml?num=61227</description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив AlmaLinux 9.4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-4-20240506-223514/</link>
+      <pubDate>Mon, 06 May 2024 22:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-4-20240506-223514/</guid>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.4, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.4 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (988 МБ), минимального (1.9 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы дополнительные сборки AlmaLinux 9.3 и 8.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-dopolnitelnye-sborki-almalinux-9-3-i-8-9-20231228-013549/</link>
+      <pubDate>Thu, 28 Dec 2023 01:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-dopolnitelnye-sborki-almalinux-9-3-i-8-9-20231228-013549/</guid>
+      <description>Проект AlmaLinux, развивающий бесплатный клон Red Hat Enterprise Linux, объявил о формировании дополнительных сборок на базе выпусков AlmaLinux 9.3 и 8.9. До указанных версий обновлены Live-сборки с пользовательскими окружениями GNOME (обычный и мини-вариант), KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров (Docker, OCI, LXD/LXC), виртуальных машин (Vagrant Box) и облачных платформ (Generic Cloud, Amazon AWS, OpenNebula, Microsoft Azure и Oracle Cloud).
+https://www.opennet.ru/opennews/art.shtml?num=60357</description>
+    </item>
+    
+    <item>
+      <title>Обновление дистрибутивов AlmaLinux 8.9 и Rocky Linux 8.9</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributivov-almalinux-8-9-i-rocky-linux-8-9-20231123-123554/</link>
+      <pubDate>Thu, 23 Nov 2023 12:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributivov-almalinux-8-9-i-rocky-linux-8-9-20231123-123554/</guid>
+      <description>Опубликованы новые версии дистрибутивов AlmaLinux 8.9 и Rocky Linux 8.9, синхронизированные c дистрибутивом Red Hat Enterprise Linux 8.9 и содержащие все предложенные в данном выпуске изменения. Выпуски 8.x продолжают сопровождаться параллельно с веткой 9.x и нацелены на создание свободной сборки RHEL, способной занять место классического CentOS 8, поддержка которого была прекращена в конце 2021 года, а не в 2029 году, как предполагалось изначально. Сборки Rocky Linux 8.9 подготовлены для архитектур x86-64 и aarch64, а AlmaLinux 8.</description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив AlmaLinux 9.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-3-20231113-233513/</link>
+      <pubDate>Mon, 13 Nov 2023 23:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-3-20231113-233513/</guid>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.3, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.3 и содержащий все предложенные данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (940 МБ), минимального (1.8 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=60107</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux ввёл в строй репозитории с дополнительными пакетами</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-vvel-v-stroy-repozitorii-s-dopolnitelnymi-paketami-20230825-153505/</link>
+      <pubDate>Fri, 25 Aug 2023 15:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-vvel-v-stroy-repozitorii-s-dopolnitelnymi-paketami-20230825-153505/</guid>
+      <description>Проект AlmaLinux объявил о создании двух новых репозиториев, в которых будут публиковать пакеты, отличающиеся от Red Hat Enterprise Linux. В репозитории Synergy началась поставка дополнительных пакетов, изначально отсутствующих в пакетной базе RHEL и репозитории EPEL, но востребованных пользователями AlmaLinux. Synergy преподносится как дополнение к EPEL, поэтому в случае появления аналогичного пакета в EPEL, его вариант от AlmaLinux будет удалён из Synergy.
+https://www.opennet.ru/opennews/art.shtml?num=59663</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux отошёл от полного клонирования Red Hat Enterprise Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-otoshel-ot-polnogo-klonirovaniya-red-hat-enterprise-linux-20230714-113508/</link>
+      <pubDate>Fri, 14 Jul 2023 11:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-otoshel-ot-polnogo-klonirovaniya-red-hat-enterprise-linux-20230714-113508/</guid>
+      <description>Проект AlmaLinux объявил об изменении стратегии развития - дистрибутив больше не будет полностью клонировать Red Hat Enterprise Linux и станет допускать наличие незначительных расхождений в поведении (будет допускаться применение/отсутствие каких-то отдельных патчей). При этом проект сохранит бинарную совместимость на уровне ABI и по-прежнему сможет использоваться в качестве замены RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59439</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux и Rocky Linux перестроят свои процессы с учётом ограничения доступа к src-пакетам RHEL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</link>
+      <pubDate>Fri, 23 Jun 2023 11:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-i-rocky-linux-perestroyat-svoi-processy-s-uchetom-ogranicheniya-dostupa-k-src-pa-20230623-113507/</guid>
+      <description>Проекты AlmaLinux и Rocky Linux, публикующие бинарно совместимые сборки Red Hat Enterprise Linux, опубликовали заявления c планом дальнейших действий после ограничения компанией Red Hat публичного доступа к исходным текстам пакетов RHEL. Для клиентов компания Red Hat оставила возможность загрузки кода пакетов через закрытый раздел сайта, на котором действует дополнительное пользовательское соглашение (EULA), запрещающее редистрибуцию RHEL.
+https://www.opennet.ru/opennews/art.shtml?num=59332</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив AlmaLinux 8.8, продолжающий развитие CentOS 8</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-8-prodolzhayuschiy-razvitie-centos-8-20230521-023508/</link>
+      <pubDate>Sun, 21 May 2023 02:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-almalinux-8-8-prodolzhayuschiy-razvitie-centos-8-20230521-023508/</guid>
+      <description>Сформирован выпуск дистрибутива AlmaLinux 8.8, синхронизированный c дистрибутивом Red Hat Enterprise Linux 8.8 и содержащий все предложенные в данном выпуске изменения. Сборки подготовлены для архитектур x86_64, ARM64, s390x и ppc64le в форме загрузочного (900 МБ), минимального (1.9 ГБ) и полного образа (12 ГБ). Позднее планируют сформировать Live-сборки с GNOME, KDE, Xfce и MATE, а также образы для плат Raspberry Pi, WSL, контейнеров и облачных платформ.
+https://www.opennet.ru/opennews/art.shtml?num=59165</description>
+    </item>
+    
+    <item>
+      <title>Опубликован дистрибутив AlmaLinux 9.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-2-20230511-183505/</link>
+      <pubDate>Thu, 11 May 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-distributiv-almalinux-9-2-20230511-183505/</guid>
+      <description>Следом за официальным релизом Red Hat Enterprise Linux 9.2 сформирован выпуск дистрибутива AlmaLinux 9.2, синхронизированный c новым выпуском RHEL и содержащий все предложенные данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (804 МБ), минимального (1.7 ГБ) и полного образа (8.8 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров и облачных платформ.</description>
+    </item>
+    
+  </channel>
+</rss>

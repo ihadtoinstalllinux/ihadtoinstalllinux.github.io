@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ge/</link>
+    <description>Recent content in GE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 12:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Proton-GE 9-5, пакета для запуска Windows-игр в Linux </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-proton-ge-9-5-paketa-dlya-zapuska-windows-igr-v-linux-20240512-123604/</link>
+      <pubDate>Sun, 12 May 2024 12:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-proton-ge-9-5-paketa-dlya-zapuska-windows-igr-v-linux-20240512-123604/</guid>
+      <description>Опубликован выпуск проекта GE-Proton 9-5, в рамках которого энтузиастами формируются независимые от компании Valve расширенные сборки пакета для запуска Windows-приложений Proton, отличающиеся более свежей версией Wine, задействованием FFmpeg в FAudio и включением дополнительных патчей, решающих проблемы в различных игровых приложениях.
+https://www.opennet.ru/opennews/art.shtml?num=61155</description>
+    </item>
+    
+    <item>
+      <title>Доступны Wine 9.5, Wine staging 9.5, Proton 9.0beta16 и GE-Proton9-2 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupny-wine-9-5-wine-staging-9-5-proton-9-0beta16-i-ge-proton9-2-20240323-133511/</link>
+      <pubDate>Sat, 23 Mar 2024 13:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupny-wine-9-5-wine-staging-9-5-proton-9-0beta16-i-ge-proton9-2-20240323-133511/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации Win32 API - Wine 9.5. С момента выпуска 9.4 было закрыто 27 отчётов об ошибках и внесено 264 изменения.
+https://www.opennet.ru/opennews/art.shtml?num=60832</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы Wine 9.4, Wine staging 9.4 и GE-Proton9-1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-9-4-wine-staging-9-4-i-ge-proton9-1-20240309-123516/</link>
+      <pubDate>Sat, 09 Mar 2024 12:35:16 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-wine-9-4-wine-staging-9-4-i-ge-proton9-1-20240309-123516/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации Win32 API - Wine 9.4. С момента выпуска 9.3 было закрыто 25 отчётов об ошибках и внесено 321 изменение.
+https://www.opennet.ru/opennews/art.shtml?num=60758</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Wine 8.6 и GE-Proton7-55</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-6-i-ge-proton7-55-20230415-123505/</link>
+      <pubDate>Sat, 15 Apr 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-wine-8-6-i-ge-proton7-55-20230415-123505/</guid>
+      <description>Состоялся экспериментальный выпуск открытой реализации WinAPI - Wine 8.6. С момента выпуска версии 8.5 было закрыто 25 отчётов об ошибках и внесено 414 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=58979</description>
+    </item>
+    
+  </channel>
+</rss>

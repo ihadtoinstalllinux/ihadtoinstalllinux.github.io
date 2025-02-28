@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hole on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/hole/</link>
+    <description>Recent content in hole on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 14:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/hole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступна система блокирования рекламы Pi-hole 6</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-blokirovaniya-reklamy-pi-hole-6-20250224-143546/</link>
+      <pubDate>Mon, 24 Feb 2025 14:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupna-sistema-blokirovaniya-reklamy-pi-hole-6-20250224-143546/</guid>
+      <description>Представлен релиз проекта Pi-hole 6, развивающего систему для централизованного блокирования рекламы в локальной сети, позволяющую обойтись без установки блокировщиков в браузеры и на конечные устройства пользователя. Предлагаемая схема актуальная для борьбы с рекламой на устройствах в домашних сетях, например, на умных телевизорах и меда-центрах, а также для блокировки рекламы в мобильных приложениях на смартфонах. Блокировка в Pi-hole реализуется на уровне DNS - система применяет чёрный список доменов, используемых при показе рекламы, и на уровне DNS перенаправляет обращения к данным доменам на адрес 0.</description>
+    </item>
+    
+  </channel>
+</rss>

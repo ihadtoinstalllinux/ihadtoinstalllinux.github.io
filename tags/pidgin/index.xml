@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pidgin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pidgin/</link>
+    <description>Recent content in Pidgin on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2025 19:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pidgin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз клиента для мгновенного обмена сообщениями Pidgin 2.14.14</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-klienta-dlya-mgnovennogo-obmena-soobscheniyami-pidgin-2-14-14-20250129-193514/</link>
+      <pubDate>Wed, 29 Jan 2025 19:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-klienta-dlya-mgnovennogo-obmena-soobscheniyami-pidgin-2-14-14-20250129-193514/</guid>
+      <description>Представлен релиз клиента для мгновенного обмена сообщениями Pidgin 2.14.14, поддерживающего работу с такими сетями как XMPP, Bonjour, Gadu-Gadu, IRC и Novell GroupWise. Графический интерфейс Pidgin написан с использованием библиотеки GTK и поддерживает вкладки, единую адресную книгу, возможность одновременной работы в разных сетях. Для расширения функциональности и добавления поддержки новых протоколов могут использоваться плагины, например, имеется плагин для поддержки WhatsApp.
+https://www.opennet.ru/opennews/art.shtml?num=62630</description>
+    </item>
+    
+    <item>
+      <title>Предварительный выпуск мессенджера Pidgin 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-messendzhera-pidgin-3-0-20250101-123601/</link>
+      <pubDate>Wed, 01 Jan 2025 12:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predvaritelnyy-vypusk-messendzhera-pidgin-3-0-20250101-123601/</guid>
+      <description>Опубликован первый экспериментальный выпуск клиента для мгновенного обмена сообщениями Pidgin 3.0 (2.90), позволяющего одновременно работать в нескольких сетях с разными протоколами и переключаться между чатами при помощи вкладок. Для расширения функциональности и добавления поддержки новых протоколов могут использоваться плагины. Сборки будут подготовлены в формате Flatpak (пока доступен только архив с кодом). Второй текстовый выпуск Pidgin 3.0 намечен на 31 марта.
+https://www.opennet.ru/opennews/art.shtml?num=62497</description>
+    </item>
+    
+    <item>
+      <title>В плагине ss-otr к Pidgin выявлен вредоносный код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-plagine-ss-otr-k-pidgin-vyyavlen-vredonosnyy-kod-20240828-013554/</link>
+      <pubDate>Wed, 28 Aug 2024 01:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-plagine-ss-otr-k-pidgin-vyyavlen-vredonosnyy-kod-20240828-013554/</guid>
+      <description>Разработчики клиента для мгновенного обмена сообщениями Pidgin, поддерживающего работу с такими сетями как Jabber/XMPP, Bonjour, Gadu-Gadu, IRC, Novell GroupWise, Lotus Sametime и Zephyr, объявили о выявлении вредоносного кода в плагине ss-otr (ScreenShareOTR), присутствующего в каталоге плагинов, развиваемых сообществом. Плагин был размещён в каталоге 6 июля, распространялся только в бинарном виде и добавлял в Pidgin возможность предоставления совместного доступа к экрану, используя протокол OTR (Off-the-Record). 16 августа исследователи безопасности выявили вредоносную активность в ss-otr, которая выражалась в запуске кейлоггера и отправке скриншотов экрана на внешние серверы.</description>
+    </item>
+    
+  </channel>
+</rss>

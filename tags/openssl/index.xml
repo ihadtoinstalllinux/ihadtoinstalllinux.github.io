@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenSSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openssl/</link>
+    <description>Recent content in OpenSSL on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 02:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openssl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление OpenSSL 3.4.1 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssl-3-4-1-s-ustraneniem-uyazvimostey-20250212-023551/</link>
+      <pubDate>Wed, 12 Feb 2025 02:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssl-3-4-1-s-ustraneniem-uyazvimostey-20250212-023551/</guid>
+      <description>Доступны корректирующие выпуски криптографической библиотеки OpenSSL 3.0.16, 3.1.8, 3.2.4, 3.3.3 и 3.4.1. В версиях 3.2.4, 3.3.3 и 3.4.1 устранена уязвимость (CVE-2024-12797), которой присвоен высокий уровень опасности. Уязвимость позволяет организовать MITM-атаку на соединения TLS и DTLS. Проблема проявляется только в системах, использующих для аутентификации клиентов открытые ключи RPK (Raw Public Key, RFC 7250). По умолчанию поддержка RPK отключена на стороне клиента и сервера.
+https://www.opennet.ru/opennews/art.shtml?num=62709</description>
+    </item>
+    
+    <item>
+      <title>Выпуск криптографических библиотек OpenSSL 3.4, LibreSSL 4.0, Botan 3.6 и Rustls 0.23.15</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskih-bibliotek-openssl-3-4-libressl-4-0-botan-3-6-i-rustls-0-23-15-20241023-233511/</link>
+      <pubDate>Wed, 23 Oct 2024 23:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskih-bibliotek-openssl-3-4-libressl-4-0-botan-3-6-i-rustls-0-23-15-20241023-233511/</guid>
+      <description>Опубликованы несколько новых версий криптографических библиотек.
+https://www.opennet.ru/opennews/art.shtml?num=62095</description>
+    </item>
+    
+    <item>
+      <title>Реструктуризация проекта OpenSSL. Переход под крыло OpenSSL библиотек Bouncy Castle и Cryptlib</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/restrukturizaciya-proekta-openssl-perehod-pod-krylo-openssl-bibliotek-bouncy-castle-i-cryp-20240725-003526/</link>
+      <pubDate>Thu, 25 Jul 2024 00:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/restrukturizaciya-proekta-openssl-perehod-pod-krylo-openssl-bibliotek-bouncy-castle-i-cryp-20240725-003526/</guid>
+      <description>Разработчики криптографической библиотеки OpenSSL объявили о полном преобразовании структуры и методов управления проектом. Для поддержания миссии проекта созданы два равноправных подразделения - некоммерческая организация OpenSSL Foundation и коммерческая компания OpenSSL Corporation, сфокусированные на интересах некоммерческого сообщества и коммерческих предприятий. Оба подразделения функционируют полностью независимо и имеют раздельные процессы принятия решений.
+https://www.opennet.ru/opennews/art.shtml?num=61603</description>
+    </item>
+    
+    <item>
+      <title>В Rustls обеспечена совместимость с OpenSSL и nginx</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</link>
+      <pubDate>Thu, 09 May 2024 12:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-rustls-obespechena-sovmestimost-s-openssl-i-nginx-20240509-123508/</guid>
+      <description>Организация ISRG (Internet Security Research Group), которая является учредителем проекта Let&amp;rsquo;s Encrypt и способствует развитию технологий для повышения защищённости интернета, объявила о публикации прослойки rustls-openssl-compat, позволяющей использовать библиотеку Rustls в качестве прозрачной замены OpenSSL. В настоящее время проектом предоставлена реализация rustls-libssl, обеспечивающая совместимость с libssl, а в разработке находится реализация libcrypto.
+https://www.opennet.ru/opennews/art.shtml?num=61141</description>
+    </item>
+    
+    <item>
+      <title>Выпуск криптографической библиотеки OpenSSL 3.3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-3-0-20240411-123543/</link>
+      <pubDate>Thu, 11 Apr 2024 12:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-3-0-20240411-123543/</guid>
+      <description>После пяти месяцев разработки сформирован релиз библиотеки OpenSSL 3.3.0 с реализацией протоколов SSL/TLS и различных алгоритмов шифрования. Поддержка OpenSSL 3.3 будет осуществляться до апреля 2026 года. Поддержка прошлых веток OpenSSL 3.2, 3.1 и 3.0 LTS продлится до ноября 2025 года, марта 2025 года и сентября 2026 года соответственно. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60962</description>
+    </item>
+    
+    <item>
+      <title>Выпуск OpenSSL 3.2.0 с клиентской поддержкой протокола QUIC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-openssl-3-2-0-s-klientskoy-podderzhkoy-protokola-quic-20231124-133539/</link>
+      <pubDate>Fri, 24 Nov 2023 13:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-openssl-3-2-0-s-klientskoy-podderzhkoy-protokola-quic-20231124-133539/</guid>
+      <description>После восьми месяцев разработки сформирован релиз библиотеки OpenSSL 3.2.0 с реализацией протоколов SSL/TLS и различных алгоритмов шифрования. Поддержка OpenSSL 3.2 будет осуществляться до 23 ноября 2025 года. Поддержка прошлых веток OpenSSL 3.1 и 3.0 LTS продлится до марта 2025 года и сентября 2026 года соответственно. Поддержка ветки 1.1.1 прекращена в сентябре этого года. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60174</description>
+    </item>
+    
+    <item>
+      <title>Выпуск криптографической библиотеки OpenSSL 3.1.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-1-0-20230315-133502/</link>
+      <pubDate>Wed, 15 Mar 2023 13:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kriptograficheskoy-biblioteki-openssl-3-1-0-20230315-133502/</guid>
+      <description>После полутора лет разработки состоялся релиз библиотеки OpenSSL 3.1.0 с реализацией протоколов SSL/TLS и различных алгоритмов шифрования. Поддержка OpenSSL 3.1 будет осуществляться до марта 2025 года. Поддержка прошлых веток OpenSSL 3.0 и 1.1.1 продлится до сентября 2026 года и сентября 2023 года соответственно. Код проекта распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58797</description>
+    </item>
+    
+  </channel>
+</rss>

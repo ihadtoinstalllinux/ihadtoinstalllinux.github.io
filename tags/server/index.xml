@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Server on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/server/</link>
+    <description>Recent content in Server on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 13:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление X.Org Server 21.1.16 с устранением 8 уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-16-s-ustraneniem-8-uyazvimostey-20250226-133524/</link>
+      <pubDate>Wed, 26 Feb 2025 13:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-16-s-ustraneniem-8-uyazvimostey-20250226-133524/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.16 и DDX-компонента (Device-Dependent X) xwayland 24.1.6, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новой версии X.Org Server устранено 8 уязвимостей. Проблемы потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=62795</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Proxmox Backup Server 3.3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-3-20241129-013546/</link>
+      <pubDate>Fri, 29 Nov 2024 01:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-3-20241129-013546/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.3, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=62308</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в утилите needrestart, позволяющие получить root-доступ в Ubuntu Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-utilite-needrestart-pozvolyayuschie-poluchit-root-dostup-v-ubuntu-server-20241120-023540/</link>
+      <pubDate>Wed, 20 Nov 2024 02:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-utilite-needrestart-pozvolyayuschie-poluchit-root-dostup-v-ubuntu-server-20241120-023540/</guid>
+      <description>Компания Qualys выявила три уязвимости в утилите needrestart, предназначенной для перезапуска фоновых процессов после обновления используемых данными процессами библиотек. Начиная с Ubuntu 21.04 утилита needrestart включена в состав базового окружения Ubuntu Server, в котором запускается с правами root в конце каждой транзакции пакетного менеджера APT, сканирует запущенные процессы и перезапускает те их них, что связанны с файлами, изменившимися после обновления пакетов. Выявленные уязвимости позволяют локальному непривилегированному пользователю получить права root в Ubuntu Server в конфигурации по умолчанию.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.14 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-14-s-ustraneniem-uyazvimosti-20241030-023546/</link>
+      <pubDate>Wed, 30 Oct 2024 02:35:46 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-14-s-ustraneniem-uyazvimosti-20241030-023546/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.14 и DDX-компонента (Device-Dependent X) xwayland 24.1.4, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранена уязвимость (CVE-2024-9632), которая может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=62136</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitHub Enterprise Server, дающая права администратора без аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</link>
+      <pubDate>Tue, 21 May 2024 11:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</guid>
+      <description>В корректирующих обновлениях платформы GitHub Enterprise Server 3.12.4, 3.11.10, 3.10.12 и 3.9.15, предназначенной для развёртывания на собственном оборудовании обособленного окружения для совместной разработки на основе технологий GitHub, выявлена уязвимость (CVE-2024-4985), позволяющая получить доступ с правами администратора без прохождения аутентификации. Проблема проявляется только в конфигурациях с единой точкой входа на основе технологии SAML, в которых включено шифрование сообщений от провайдеров идентификации (&amp;ldquo;encrypted assertions&amp;rdquo;). По умолчанию данный режим отключён, но преподносится как дополнительная возможность для усиления безопасности, активируемая в настройках &amp;ldquo;Settings/Authentication/Require encrypted assertions&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.13 с устранением потенциальной уязвимости в исправлении уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-13-s-ustraneniem-potencialnoy-uyazvimosti-v-ispravlenii-uyazv-20240413-113553/</link>
+      <pubDate>Sat, 13 Apr 2024 11:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-13-s-ustraneniem-potencialnoy-uyazvimosti-v-ispravlenii-uyazv-20240413-113553/</guid>
+      <description>Опубликован корректирующий выпуск X.Org Server 21.1.13, в котором устранена ошибка, допущенная при исправлении уязвимости CVE-2024-31083 в прошлой версии. Исправление привело к двойному вызову функции free() в определённых ситуациях. Несмотря на наличие ошибки, которая обычно воспринимается как уязвимость класса &amp;ldquo;double-free&amp;rdquo;, проблема явно не помечена разработчиками X.Org как уязвимость - упоминается только то, что она приводит к аварийному завершению X-сервера.
+https://www.opennet.ru/opennews/art.shtml?num=60983</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.12 с устранением 4 уязвимостей </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-12-s-ustraneniem-4-uyazvimostey-20240405-023602/</link>
+      <pubDate>Fri, 05 Apr 2024 02:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-12-s-ustraneniem-4-uyazvimostey-20240405-023602/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.12 и DDX-компонента (Device-Dependent X) xwayland 23.2.5, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новой версии X.Org Server устранены 4 уязвимости. Одна уязвимость может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60927</description>
+    </item>
+    
+    <item>
+      <title>Операционные системы «Альт» совместимы с программным комплексом для двухфакторной аутентификации Secure Authentication Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/operacionnye-sistemy-alt-sovmestimy-s-programmnym-kompleksom-dlya-dvuhfaktornoy-autentifik-20240307-093749/</link>
+      <pubDate>Thu, 07 Mar 2024 09:37:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/operacionnye-sistemy-alt-sovmestimy-s-programmnym-kompleksom-dlya-dvuhfaktornoy-autentifik-20240307-093749/</guid>
+      <description>«Базальт СПО» подтвердила совместимость операционных систем «Альт Сервер» 10 и «Альт Рабочая станция» 10 на платформе х86_64 с программным комплексом Secure Authentication Server, созданным компанией «СИС Разработка» (MFASOFT).
+https://www.basealt.ru/about/news/archive/view/operacionnye-sistemy-alt-sovmestimy-s-programmnym-kompleksom-dlja-dvukhfaktornoi-autentifikacii-secure-authentication-server</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.11 с устранением 6 уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-11-s-ustraneniem-6-uyazvimostey-20240118-113549/</link>
+      <pubDate>Thu, 18 Jan 2024 11:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-11-s-ustraneniem-6-uyazvimostey-20240118-113549/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.11 и DDX-компонента (Device-Dependent X) xwayland 23.2.4, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранено 6 уязвимостей, некоторые из которых могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60456</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.10 с устранением уязвимостей. Удаление поддержки UMS из ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</link>
+      <pubDate>Wed, 13 Dec 2023 11:35:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-10-s-ustraneniem-uyazvimostey-udalenie-podderzhki-ums-iz-yadr-20231213-113537/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.10 и DDX-компонента (Device-Dependent X) xwayland 23.2.3, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены две уязвимости. Первая уязвимость может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=60280</description>
+    </item>
+    
+    <item>
+      <title>Доступен дистрибутив Proxmox Backup Server 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</link>
+      <pubDate>Fri, 01 Dec 2023 15:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-distributiv-proxmox-backup-server-3-1-20231201-153507/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.1, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=60214</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.9 и xwayland 23.2.2 с устранением уязвимостей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-9-i-xwayland-23-2-2-s-ustraneniem-uyazvimostey-20231025-123556/</link>
+      <pubDate>Wed, 25 Oct 2023 12:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-9-i-xwayland-23-2-2-s-ustraneniem-uyazvimostey-20231025-123556/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.9 и DDX-компонента (Device-Dependent X) xwayland 22.2.2, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены уязвимости, которые потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=59991</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Redis, Ghostscript, Asterisk и Parse Server</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</link>
+      <pubDate>Wed, 12 Jul 2023 18:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-redis-ghostscript-asterisk-i-parse-server-20230712-183505/</guid>
+      <description>Несколько недавно выявленных опасных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=59430</description>
+    </item>
+    
+    <item>
+      <title>Выпуск дистрибутива Proxmox Backup Server 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</link>
+      <pubDate>Wed, 28 Jun 2023 21:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-distributiva-proxmox-backup-server-3-0-20230628-213505/</guid>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment и Proxmox Mail Gateway, опубликовала выпуск дистрибутива Proxmox Backup Server 3.0, который преподносится как готовое решение для резервного копирования и восстановления виртуальных окружений, контейнеров и начинки серверов. Установочный ISO-образ доступен для свободной загрузки. Специфичные для дистрибутива компоненты открыты под лицензией AGPLv3. Для установки обновлений доступен как платный репозиторий Enterprise, так и два бесплатных репозитория, которые отличаются уровнем стабилизации обновлений.
+https://www.opennet.ru/opennews/art.shtml?num=59353</description>
+    </item>
+    
+    <item>
+      <title>Обновление X.Org Server 21.1.8 и xwayland  23.1.1 с устранением уязвимости</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-8-i-xwayland-23-1-1-s-ustraneniem-uyazvimosti-20230331-003504/</link>
+      <pubDate>Fri, 31 Mar 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-x-org-server-21-1-8-i-xwayland-23-1-1-s-ustraneniem-uyazvimosti-20230331-003504/</guid>
+      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.8 и DDX-компонента (Device-Dependent X) xwayland 22.1.6 и 23.1.1, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранена уязвимость (CVE-2023-1393), которая потенциально может быть эксплуатирована для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58897</description>
+    </item>
+    
+  </channel>
+</rss>

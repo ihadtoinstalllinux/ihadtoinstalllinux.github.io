@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SVT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/svt/</link>
+    <description>Recent content in SVT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 13:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/svt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск SVT-AV1 3.0, кодировщика для формата видео AV1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-svt-av1-3-0-kodirovschika-dlya-formata-video-av1-20250223-133600/</link>
+      <pubDate>Sun, 23 Feb 2025 13:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-svt-av1-3-0-kodirovschika-dlya-formata-video-av1-20250223-133600/</guid>
+      <description>Опубликован выпуск библиотеки SVT-AV1 3.0 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в современных CPU Intel средства аппаратного распараллеливания вычислений. Проект создан компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработка ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск кодировщика SVT-AV1 2.0 и декодировщика dav1d 1.4 для формата видео AV1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-svt-av1-2-0-i-dekodirovschika-dav1d-1-4-dlya-formata-video-av1-20240315-173602/</link>
+      <pubDate>Fri, 15 Mar 2024 17:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-svt-av1-2-0-i-dekodirovschika-dav1d-1-4-dlya-formata-video-av1-20240315-173602/</guid>
+      <description>Опубликован выпуск библиотеки SVT-AV1 2.0 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в современных CPU Intel средства аппаратного распараллеливания вычислений. Проект создан компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработка ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы libavif 1.0 и SVT-AV1 1.7, библиотеки для форматов изображений AVIF и видео AV1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovany-libavif-1-0-i-svt-av1-1-7-biblioteki-dlya-formatov-izobrazheniy-avif-i-video-20230831-143504/</link>
+      <pubDate>Thu, 31 Aug 2023 14:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovany-libavif-1-0-i-svt-av1-1-7-biblioteki-dlya-formatov-izobrazheniy-avif-i-video-20230831-143504/</guid>
+      <description>Опубликован первый стабильный выпуск библиотеки libavif 1.0, предлагающей кодировщик и декодировщик для формата изображений AVIF (AV1 Image Format), в котором задействованы технологии внутрикадрового сжатия из формата кодирования видео AV1. Контейнер для распространения сжатых данных в AVIF полностью аналогичен HEIF. AVIF поддерживает как изображения в расширенном динамическом диапазоне (HDR, High Dynamic Range) и цветовом пространстве Wide-gamut, так и в стандартном динамическом диапазоне (SDR). В браузерах поддержка AVIF доступна начиная с выпусков Firefox 77 и Chrome 85.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск кодировщика видео SVT-AV1 1.5, развиваемого компанией Intel</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-svt-av1-1-5-razvivaemogo-kompaniey-intel-20230502-133506/</link>
+      <pubDate>Tue, 02 May 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-kodirovschika-video-svt-av1-1-5-razvivaemogo-kompaniey-intel-20230502-133506/</guid>
+      <description>Опубликован выпуск библиотеки SVT-AV1 1.5 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в современных CPU Intel средства аппаратного распараллеливания вычислений. Проект создвн компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработкуа ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
+    </item>
+    
+  </channel>
+</rss>

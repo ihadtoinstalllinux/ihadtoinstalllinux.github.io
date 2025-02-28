@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Facebook on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/facebook/</link>
+    <description>Recent content in Facebook on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 23:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В Facebook наблюдается блокировка публикаций со ссылками на некоторые Linux-ресурсы</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-facebook-nablyudaetsya-blokirovka-publikaciy-so-ssylkami-na-nekotorye-linux-resursy-20250128-233509/</link>
+      <pubDate>Tue, 28 Jan 2025 23:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-facebook-nablyudaetsya-blokirovka-publikaciy-so-ssylkami-na-nekotorye-linux-resursy-20250128-233509/</guid>
+      <description>Проект DistroWatch сообщил о блокировке своей новостной группы в Facebook* и удалении некоторых публикаций с пометкой, что они способствуют распространению, созданию или размещению вредоносного ПО. Попытка отправить апелляцию об ошибочной блокировке не подействовала и привела к блокированию учётной записи создателя группы.
+https://www.opennet.ru/opennews/art.shtml?num=62632</description>
+    </item>
+    
+    <item>
+      <title>Facebook открыл код проекта DotSlash</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-proekta-dotslash-20240207-013529/</link>
+      <pubDate>Wed, 07 Feb 2024 01:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-proekta-dotslash-20240207-013529/</guid>
+      <description>Facebook объявил об открытии кода утилиты командной строки dotslash, созданной для упрощения распространения набора исполняемых файлов для разных платформ. Утилита рассчитана на выполнение сценариев, автоматизирующих загрузку подходящего для текущей платформы исполняемого файла, проверку его целостности и исполнение. Код утилиты написан на языке Rust и распространяется под лицензиями MIT и Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=60562</description>
+    </item>
+    
+    <item>
+      <title>Facebook открыл код графической библиотеки IGL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-graficheskoy-biblioteki-igl-20230708-003504/</link>
+      <pubDate>Sat, 08 Jul 2023 00:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-otkryl-kod-graficheskoy-biblioteki-igl-20230708-003504/</guid>
+      <description>Facebook опубликовал код новой графической библиотеки IGL (Intermediate Graphics Library), предоставляющей универсальный низкоуровневый API для управления GPU. Предложенный API охватывает типовую функциональность GPU и позволяет создавать кросс-платформенные приложения, способные работать поверх графических API OpenGL, Metal и Vulkan на системах с Android, iOS, Linux, macOS и Windows. Библиотека также может применяться для отрисовки в Web с использованием WebGL, при компиляции приложения в промежуточный код WebAssembly. Код библиотеки написан на языке С++ и распространяется под лицензией MIT.</description>
+    </item>
+    
+    <item>
+      <title>Facebook опубликовал систему сборки Buck2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-sistemu-sborki-buck2-20230407-153504/</link>
+      <pubDate>Fri, 07 Apr 2023 15:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/facebook-opublikoval-sistemu-sborki-buck2-20230407-153504/</guid>
+      <description>Facebook представил новую сборочную систему Buck2, ориентированную на организацию сборки проектов из очень крупных репозиториев, включающих код на разных языках программирования. Ключевыми отличиями новой реализации от ранее применявшейся в Facebook системы Buck является использование языка Rust вместо Java и существенное увеличение эффективности и производительности сборочного процесса (во внутренних тестах в той же инфраструктуре Buck2 выполняет сборочные задания быстрее Buck в два раза). Код распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=58933</description>
+    </item>
+    
+  </channel>
+</rss>

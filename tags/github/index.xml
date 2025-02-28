@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/github/</link>
+    <description>Recent content in GitHub on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2025 14:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление Shotstars 2.1, инструмента для отслеживания убывающих звёзд на GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-shotstars-2-1-instrumenta-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20250221-143526/</link>
+      <pubDate>Fri, 21 Feb 2025 14:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-shotstars-2-1-instrumenta-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20250221-143526/</guid>
+      <description>Обновлён инструмент Shotstars 2.1, решающий проблему с отслеживанием исчезновения &amp;ldquo;звёзд&amp;rdquo; у проектов на GitHub. Штатные возможности GitHub не предоставляют пользователям информацию по убывающим &amp;ldquo;звёздам&amp;rdquo; в проекте и позволяют получить сведения только по их прибавлению. Проект написан на языке Python и распространяется под лицензией GPLv3+.
+https://www.opennet.ru/opennews/art.shtml?num=62765</description>
+    </item>
+    
+    <item>
+      <title>Накручивание звёзд вредоносным репозиториям на GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nakruchivanie-zvezd-vredonosnym-repozitoriyam-na-github-20250105-163604/</link>
+      <pubDate>Sun, 05 Jan 2025 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nakruchivanie-zvezd-vredonosnym-repozitoriyam-na-github-20250105-163604/</guid>
+      <description>Исследователи из Университета Карнеги-Меллона, Университета штата Северная Каролина и компании Socket разработали инструментарий для определения проектов с накрученным рейтингом на GitHub. В результате применения инструмента было выявлено 3.1 млн фиктивно выставленных звёзд, охватывающих 15835 репозиториев. Для накрутки были задействованы 278 тысяч учётных записей.
+https://www.opennet.ru/opennews/art.shtml?num=62515</description>
+    </item>
+    
+    <item>
+      <title>Ошибка в обработчике GitHub Actions привела к публикации вредоносных релизов Ultralytics</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</link>
+      <pubDate>Sat, 07 Dec 2024 17:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/oshibka-v-obrabotchike-github-actions-privela-k-publikacii-vredonosnyh-relizov-ultralytics-20241207-173513/</guid>
+      <description>Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics, применяемой для решения задач компьютерного зрения, таких как определение объектов на изображениях и сегментирование изображений. После получения доступа к репозиторию атакующие опубликовали в каталоге PyPI несколько новых релизов Ultralytics, включающих вредоносные изменения для майнинга криптовалют. За последний месяц библиотека Ultralytics была загружена из каталога PyPI более 6.4 млн раз.
+https://www.opennet.ru/opennews/art.shtml?num=62365</description>
+    </item>
+    
+    <item>
+      <title>Инициатива GitHub по финансированию повышения безопасности открытых проектов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativa-github-po-finansirovaniyu-povysheniya-bezopasnosti-otkrytyh-proektov-20241121-133559/</link>
+      <pubDate>Thu, 21 Nov 2024 13:35:59 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativa-github-po-finansirovaniyu-povysheniya-bezopasnosti-otkrytyh-proektov-20241121-133559/</guid>
+      <description>GitHub анонсировал инициативу &amp;ldquo;GitHub Secure Open Source Fund&amp;rdquo;, нацеленную на финансирование работы по усилению безопасного открытых проектов. На первом этапе планируется выбрать 125 проектов и в сумме инвестировать в них 1.25 млн долларов. Заявки от сопровождающих на получения финансирования будут приниматься до 7 января.
+https://www.opennet.ru/opennews/art.shtml?num=62270</description>
+    </item>
+    
+    <item>
+      <title>Python сместил JavaScript с 1 места в рейтинге GitHub. Статистика GitHub за 2024 год</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/python-smestil-javascript-s-1-mesta-v-reytinge-github-statistika-github-za-2024-god-20241103-133519/</link>
+      <pubDate>Sun, 03 Nov 2024 13:35:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/python-smestil-javascript-s-1-mesta-v-reytinge-github-statistika-github-za-2024-god-20241103-133519/</guid>
+      <description>GitHub опубликовал отчёт с анализом статистики за 2024 год. Основные тенденции.
+https://www.opennet.ru/opennews/art.shtml?num=62166</description>
+    </item>
+    
+    <item>
+      <title>Репозиторий с кодом WinAmp удалён с GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/repozitoriy-s-kodom-winamp-udalen-s-github-20241017-003601/</link>
+      <pubDate>Thu, 17 Oct 2024 00:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/repozitoriy-s-kodom-winamp-udalen-s-github-20241017-003601/</guid>
+      <description>Компания Llama Group, которая в сентябре опубликовала исходный код мультимедийного проигрывателя Winamp, удалила репозиторий проекта с GitHub. Причины удаления не поясняются, но ранее в репозитории было выявлено множество утечек и нарушений копилефт лицензий. В частности, после публикации в репозитории WinAmp был обнаружен код проданного другой компании коммерческого сервера SHOUTcast, чужой проприетарный код и сертификат для формирования цифровых подписей, а также несколько изменённых файлов из других проектов, распространяемых под лицензией GPL (Winamp не может использовать в своём составе GPL-код без перевода собственного кода на лицензию, совместимую с GPL).</description>
+    </item>
+    
+    <item>
+      <title>Манипуляция с рассылкой уведомлений через GitHub для распространения вредоносного ПО</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/manipulyaciya-s-rassylkoy-uvedomleniy-cherez-github-dlya-rasprostraneniya-vredonosnogo-po-20240920-123555/</link>
+      <pubDate>Fri, 20 Sep 2024 12:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/manipulyaciya-s-rassylkoy-uvedomleniy-cherez-github-dlya-rasprostraneniya-vredonosnogo-po-20240920-123555/</guid>
+      <description>Распространители вредоносного ПО начали применять новый способ отправки вредоносных писем от имени команды, занимающейся обеспечением безопасности в GitHub. Рассылка нацелена на стимулирование сопровождающих и разработчиков, пользующихся платформой Windows, к совершению действий, приводящих к установке вредоносного ПО на их системы. Метод интересен тем, что письма приходят с реальных почтовых серверов GitHub и, если не обратить внимание на мелочи, напоминают реальные уведомления.
+https://www.opennet.ru/opennews/art.shtml?num=61895</description>
+    </item>
+    
+    <item>
+      <title>Проект Nginx перевёл разработку на Git и GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-perevel-razrabotku-na-git-i-github-20240907-203511/</link>
+      <pubDate>Sat, 07 Sep 2024 20:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-nginx-perevel-razrabotku-na-git-i-github-20240907-203511/</guid>
+      <description>Проект Nginx объявил о переводе разработки с использования системы управления версиями Mercurial на Git, переносе официального репозитория на GitHub и задействования платформ GitHub Issues и GitHub Discussions вместо системы отслеживания ошибок trac.nginx.org и обсуждений в почтовых рассылках. Ожидается, что переход на GitHub упростит взаимодействие с сообществом и привлечёт к участию в проекте сторонних разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=61821</description>
+    </item>
+    
+    <item>
+      <title>Доступ к данным из удалённых и приватных репозиториев на GitHub, имеющих форки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostup-k-dannym-iz-udalennyh-i-privatnyh-repozitoriev-na-github-imeyuschih-forki-20240725-133521/</link>
+      <pubDate>Thu, 25 Jul 2024 13:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostup-k-dannym-iz-udalennyh-i-privatnyh-repozitoriev-na-github-imeyuschih-forki-20240725-133521/</guid>
+      <description>Компания Truffle Security опубликовала сценарии атак на несколько типовых приёмов работы с репозиториями на GitHub, позволяющие извлечь данные из удалённых репозиториев, у которых имеются публичные форки или которые были созданы как форки.
+https://www.opennet.ru/opennews/art.shtml?num=61605</description>
+    </item>
+    
+    <item>
+      <title>Утечка токена для полного доступа к GitHub-репозиториям проекта Python</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/utechka-tokena-dlya-polnogo-dostupa-k-github-repozitoriyam-proekta-python-20240712-123521/</link>
+      <pubDate>Fri, 12 Jul 2024 12:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/utechka-tokena-dlya-polnogo-dostupa-k-github-repozitoriyam-proekta-python-20240712-123521/</guid>
+      <description>Исследователи из компании JFrog обнаружили в составе Docker-образа &amp;ldquo;cabotage-app&amp;rdquo; токен, предоставляющий доступ с правами администратора к репозиториям Python, PyPI и Python Software Foundation на GitHub. Токен был найден в бинарном файле &amp;ldquo;pycache/build.cpython-311.pyc&amp;rdquo; с прокэшированным скомпилированным байткодом.
+https://www.opennet.ru/opennews/art.shtml?num=61531</description>
+    </item>
+    
+    <item>
+      <title>Обновление Shotstars 0.2, инструмента  для отслеживания убывающих звёзд на GitHub </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-shotstars-0-2-instrumenta-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20240710-113557/</link>
+      <pubDate>Wed, 10 Jul 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-shotstars-0-2-instrumenta-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20240710-113557/</guid>
+      <description>Обновлен инструмент Shotstars 0.2, решающий проблему с отслеживанием исчезновения &amp;ldquo;звёзд&amp;rdquo; у проектов на GitHub. Штатные возможности GitHub не предоставляют пользователям информацию по убывающим &amp;ldquo;звёздам&amp;rdquo; в проекте и позволяют получить сведения только по их прибавлению. Проект написан на языке Python и распространяется под лицензией GPLv3+.
+https://www.opennet.ru/opennews/art.shtml?num=61514</description>
+    </item>
+    
+    <item>
+      <title>Проект свободного браузера Ladybird получил пожертвование в 1 млн. долларов от со-основателя GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-svobodnogo-brauzera-ladybird-poluchil-pozhertvovanie-v-1-mln-dollarov-ot-so-osnovat-20240701-213529/</link>
+      <pubDate>Mon, 01 Jul 2024 21:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-svobodnogo-brauzera-ladybird-poluchil-pozhertvovanie-v-1-mln-dollarov-ot-so-osnovat-20240701-213529/</guid>
+      <description>Разработчики развиваемого с нуля свободного web-браузера Ladybird объявили о получении пожертвования, размером в 1 млн. долларов. Пожертвование предоставлено Крисом Ванстратом (Chris Wanstrath), со-основателем GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=61474</description>
+    </item>
+    
+    <item>
+      <title>Опубликован инструмент для отслеживания убывающих звёзд на GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrument-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20240526-233540/</link>
+      <pubDate>Sun, 26 May 2024 23:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-instrument-dlya-otslezhivaniya-ubyvayuschih-zvezd-na-github-20240526-233540/</guid>
+      <description>Доступен скрипт shotstars, решающий проблему с отслеживанием исчезновения &amp;ldquo;звёзд&amp;rdquo; у проектов на GitHub. Штатные возможности GitHub не предоставляют пользователям информацию по убывающим &amp;ldquo;звёздам&amp;rdquo; в проекте и позволяют получить сведения только по их прибавлению. Проект написан на языке Python и распространяется под лицензией GPLv3+. Готовые сборки, не требующие наличия в системе Python, доступны для GNU/Linux, Windows и Android (Termux).
+https://www.opennet.ru/opennews/art.shtml?num=61250</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в GitHub Enterprise Server, дающая права администратора без аутентификации</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</link>
+      <pubDate>Tue, 21 May 2024 11:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-github-enterprise-server-dayuschaya-prava-administratora-bez-autentifikacii-20240521-113520/</guid>
+      <description>В корректирующих обновлениях платформы GitHub Enterprise Server 3.12.4, 3.11.10, 3.10.12 и 3.9.15, предназначенной для развёртывания на собственном оборудовании обособленного окружения для совместной разработки на основе технологий GitHub, выявлена уязвимость (CVE-2024-4985), позволяющая получить доступ с правами администратора без прохождения аутентификации. Проблема проявляется только в конфигурациях с единой точкой входа на основе технологии SAML, в которых включено шифрование сообщений от провайдеров идентификации (&amp;ldquo;encrypted assertions&amp;rdquo;). По умолчанию данный режим отключён, но преподносится как дополнительная возможность для усиления безопасности, активируемая в настройках &amp;ldquo;Settings/Authentication/Require encrypted assertions&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>GitHub намерен запретить размещение проектов для создания дипфейков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-nameren-zapretit-razmeschenie-proektov-dlya-sozdaniya-dipfeykov-20240419-113538/</link>
+      <pubDate>Fri, 19 Apr 2024 11:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-nameren-zapretit-razmeschenie-proektov-dlya-sozdaniya-dipfeykov-20240419-113538/</guid>
+      <description>GitHub опубликовал изменения правил, определяющих политику в отношении размещения проектов, которые можно использовать для создания фиктивного мультимедийного контента с целью порномести и дезинформации. Изменения пока находятся в состоянии черновика, доступного для обсуждения в течение 30 дней (до 20 мая).
+https://www.opennet.ru/opennews/art.shtml?num=61026</description>
+    </item>
+    
+    <item>
+      <title>GitHub включил по умолчанию систему защиты от утечек токенов к API </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-vklyuchil-po-umolchaniyu-sistemu-zaschity-ot-utechek-tokenov-k-api-20240303-163510/</link>
+      <pubDate>Sun, 03 Mar 2024 16:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-vklyuchil-po-umolchaniyu-sistemu-zaschity-ot-utechek-tokenov-k-api-20240303-163510/</guid>
+      <description>GitHub объявил о включении по умолчанию для всех публичных репозиториев механизма защиты от попадания в репозитории конфиденциальных данных, по недосмотру оставленных разработчиками в коде. Например, случается, что в репозиторий попадают файлы конфигурации с паролями к СУБД, токены или ключи доступа к API. Ранее сканирование осуществлялось в пассивном режиме и позволяло выявлять уже произошедшие утечки, попавшие в репозиторий. Теперь проверка осуществляется автоматически на стадии публикации (git push) и приводит к выводу предупреждения при попытке добавления коммитов, в которых выявлено наличие конфиденциальных данных.</description>
+    </item>
+    
+    <item>
+      <title>На GitHub выявлено более 100 тысяч репозиториев с вредоносным кодом</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-github-vyyavleno-bolee-100-tysyach-repozitoriev-s-vredonosnym-kodom-20240303-153524/</link>
+      <pubDate>Sun, 03 Mar 2024 15:35:24 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-github-vyyavleno-bolee-100-tysyach-repozitoriev-s-vredonosnym-kodom-20240303-153524/</guid>
+      <description>Исследователи безопасности из компании Apiiro выявил &amp;ldquo;github.org/org2/proj&amp;rdquo;), или с немного отличающимся от оригинала именем (тайпсквотинг), с расчётом, что жертва не заметит отличий и воспользуется кодом с вредоносными изменениями. Для завлечения пользователей ссылки на вредоносные репозитории активно размещаются в различных социальных сетях, форумах и чатах.
+https://www.opennet.ru/opennews/art.shtml?num=60718</description>
+    </item>
+    
+    <item>
+      <title>В публичном коде найден GitHub-токен от внутренних репозиториев Мерседес</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-publichnom-kode-nayden-github-token-ot-vnutrennih-repozitoriev-mersedes-20240202-203551/</link>
+      <pubDate>Fri, 02 Feb 2024 20:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-publichnom-kode-nayden-github-token-ot-vnutrennih-repozitoriev-mersedes-20240202-203551/</guid>
+      <description>В ходе проведённого компанией RedHunt Labs сканирования утечек конфиденциальных данных в репозиториях GitHub была выявлена публикация в публичном репозитории API-токена, позволяющего получить неограниченный доступ к внутренним репозиториям компании Mercedes-Benz, размещённым на внутреннем сервере на базе платформы Github Enterprise Server. Предполагается, что токен был случайно опубликован одним из сотрудников Mercedes-Benz среди кода, размещённого в публичном репозитории на GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=60544</description>
+    </item>
+    
+    <item>
+      <title>GitHub обновил PGP-ключи из-за уязвимости, приводящей к утечке переменных окружения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pgp-klyuchi-iz-za-uyazvimosti-privodyaschey-k-utechke-peremennyh-okruzheniy-20240117-163600/</link>
+      <pubDate>Wed, 17 Jan 2024 16:36:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-obnovil-pgp-klyuchi-iz-za-uyazvimosti-privodyaschey-k-utechke-peremennyh-okruzheniy-20240117-163600/</guid>
+      <description>GitHub раскрыл сведения об уязвимости, позволяющей получить доступ к содержимому переменных окружений, выставленных в контейнерах, применяемых в рабочей инфраструктуре. Уязвимость была выявлена участником программы Bug Bounty, претендующим на получение вознаграждения за поиск проблем с безопасностью. Проблема затрагивает как сервис GitHub.com, так и конфигурации GitHub Enterprise Server (GHES), выполняемые на системах пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=60448</description>
+    </item>
+    
+    <item>
+      <title>GitHub заблокировал игровой движок OpenXRay по требованию GSC</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-zablokiroval-igrovoy-dvizhok-openxray-po-trebovaniyu-gsc-20240109-113534/</link>
+      <pubDate>Tue, 09 Jan 2024 11:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-zablokiroval-igrovoy-dvizhok-openxray-po-trebovaniyu-gsc-20240109-113534/</guid>
+      <description>Компания GSC Game World, разработавшая серию игр S.T.A.L.K.E.R., добилась блокировки на GitHub репозитория открытого проекта OpenXRay, воспроизводящего игровой движок для первых частей игры S.T.A.L.K.E.R. Проект основан после утечки исходных кодов оригинального движка S.T.A.L.K.E.R. и ставит перед собой цель исправления всех оригинальных недочётов и введения новых возможностей, таких как поддержка 64-разрядных платформ, Linux и OpenGL.
+https://www.opennet.ru/opennews/art.shtml?num=60400</description>
+    </item>
+    
+    <item>
+      <title>GitHub опубликовал статистику за 2023 год и назвал победителей GitHub Awards 2023</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-statistiku-za-2023-god-i-nazval-pobediteley-github-awards-2023-20231110-163536/</link>
+      <pubDate>Fri, 10 Nov 2023 16:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-opublikoval-statistiku-za-2023-god-i-nazval-pobediteley-github-awards-2023-20231110-163536/</guid>
+      <description>GitHub опубликовал отчёт с анализом статистики за 2023 год. Основные тенденции.
+https://www.opennet.ru/opennews/art.shtml?num=60083</description>
+    </item>
+    
+    <item>
+      <title>Проект Сicada развивает систему автоматизации сборок, похожую на GitHub Actions</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-sicada-razvivaet-sistemu-avtomatizacii-sborok-pohozhuyu-na-github-actions-20231107-183510/</link>
+      <pubDate>Tue, 07 Nov 2023 18:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-sicada-razvivaet-sistemu-avtomatizacii-sborok-pohozhuyu-na-github-actions-20231107-183510/</guid>
+      <description>Доступна открытая система автоматизации сборочных процессов Сicada, позволяющая на своём сервере развернуть инфраструктуру, похожую на GitHub Actions, Azure DevOps и Gitlab CI, не зависящую от облачных сервисов. Код проекта написан на языке Python и распространяется под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=60068</description>
+    </item>
+    
+    <item>
+      <title>Анализ подверженности репозиториев на GitHub атаке RepoJacking</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/analiz-podverzhennosti-repozitoriev-na-github-atake-repojacking-20230624-133506/</link>
+      <pubDate>Sat, 24 Jun 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/analiz-podverzhennosti-repozitoriev-na-github-atake-repojacking-20230624-133506/</guid>
+      <description>Исследователи из компании Aqua Security проанализировали применимость атаки RepoJacking к репозиториям на GitHub. Суть проблемы в том, что после удаления или переименования проектов на GitHub, в сторонних репозиториях могут остаться ссылки на уже несуществующие имена, например, в документации, скриптах и инструкциях по установке из README-файлов. Атакующий может зарегистрировать на GitHub имя пользователя, повторяющее ранее существовавшее имя, разместить в репозитории с повторяющимся именем вредоносное ПО и ожидать, что кто-то загрузит его, пользуясь неисправленными руководствами или старым кодом, загружающим зависимости по старым ссылкам.</description>
+    </item>
+    
+    <item>
+      <title>Компания НТЦ ИТ РОСА вошла в список участников эксперимента по созданию Российского GitHub</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kompaniya-ntc-it-rosa-voshla-v-spisok-uchastnikov-eksperimenta-po-sozdaniyu-rossiyskogo-gi-20230620-213550/</link>
+      <pubDate>Tue, 20 Jun 2023 21:35:50 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kompaniya-ntc-it-rosa-voshla-v-spisok-uchastnikov-eksperimenta-po-sozdaniyu-rossiyskogo-gi-20230620-213550/</guid>
+      <description>Подписан и 5 июня размещен на сайте Минцифры приказ, в котором указаны участники эксперимента по использованию Open Source программного обеспечения, в рамках которого должен быть создан репозиторий открытого ПО. ИТ-компания НТЦ ИТ РОСА – в их числе. GitHub – это платформа, которая предоставляет инфраструктуру для хранения и совместной работы над программным кодом. Это популярный сервис, […]
+https://www.rosalinux.ru/kompaniya-ntcz-it-rosa-voshla-v-spisok-uchastnikov-eksperimenta-po-sozdaniyu-rossijskogo-github/</description>
+    </item>
+    
+    <item>
+      <title>Названы 20 проектов, получивших гранты от GitHub Accelerator</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nazvany-20-proektov-poluchivshih-granty-ot-github-accelerator-20230414-103505/</link>
+      <pubDate>Fri, 14 Apr 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nazvany-20-proektov-poluchivshih-granty-ot-github-accelerator-20230414-103505/</guid>
+      <description>GitHub опубликовал список из 20 проектов, которым в рамках инициативы GitHub Accelerator в 2023 году будут выплачены гранты, размером 20 тысяч долларов. Инициатива рассчитана на финансирование работы в режиме полного рабочего дня в течение 10 недель. Обладатели грантов выбраны из более чем тысячи поступивших заявок. Отбор проводил экспертный совет, в который вошли руководители компаний, вовлечённых в разработку открытого ПО.
+https://www.opennet.ru/opennews/art.shtml?num=58972</description>
+    </item>
+    
+    <item>
+      <title>GitHub поменял закрытый RSA-ключ для SSH после его попадания в публичный репозиторий</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</link>
+      <pubDate>Sat, 25 Mar 2023 01:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-pomenyal-zakrytyy-rsa-klyuch-dlya-ssh-posle-ego-popadaniya-v-publichnyy-repozitoriy-20230325-013505/</guid>
+      <description>GitHub сообщил об инциденте, в результате которого закрытый RSA-ключ, используемый в качестве хостового ключа при доступе к репозиториям GitHub по SSH, по ошибке оказался опубликован в публично доступном репозитории. Утечка коснулась только ключа RSA, хостовые SSH-ключи ECDSA и Ed25519 продолжают оставаться безопасными. Попавший в открытый доступ хостовый SSH-ключ не позволяет получить доступ к инфраструктуре GitHub или данным пользователей, но может использоваться для перехвата Git-операций, производимых через SSH.
+https://www.opennet.ru/opennews/art.shtml?num=58858</description>
+    </item>
+    
+    <item>
+      <title>GitHub без предупреждения перевёл репозиторий ipmitool в режим только для чтения</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-bez-preduprezhdeniya-perevel-repozitoriy-ipmitool-v-rezhim-tolko-dlya-chteniya-20230314-003502/</link>
+      <pubDate>Tue, 14 Mar 2023 00:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-bez-preduprezhdeniya-perevel-repozitoriy-ipmitool-v-rezhim-tolko-dlya-chteniya-20230314-003502/</guid>
+      <description>GitHub принудительно и без предварительного предупреждения перевёл репозитории проекта IPMI Tool в архивный режим, допускающий доступ только в режиме чтения. Также в режим только для чтения переведены все репозитории Александра Амелькина, сопровождающего ipmitool. Пакет ipmitool входит в состав RHEL, SUSE, Debian и других дистрибутивов Linux и является наиболее распространённым открытым инструментарием командной строки для управления, мониторинга и настройки серверов с BMC-контроллерами, поддерживающими стандарт IPMI (Intelligent Platform Management Interface).
+https://www.opennet.ru/opennews/art.shtml?num=58789</description>
+    </item>
+    
+    <item>
+      <title>GitHub начал внедрение обязательной двухфакторной аутентификации </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/github-nachal-vnedrenie-obyazatelnoy-dvuhfaktornoy-autentifikacii-20230313-123503/</link>
+      <pubDate>Mon, 13 Mar 2023 12:35:03 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/github-nachal-vnedrenie-obyazatelnoy-dvuhfaktornoy-autentifikacii-20230313-123503/</guid>
+      <description>GitHub объявил о начале поэтапного перевода всех пользователей, публикующих код, на обязательную двухфакторную аутентификацию. C 13 марта обязательная двухфакторная аутентификация начнёт применяться для отдельных групп пользователей, постепенно охватывая всё новые и новые категории. В первую очередь двухфакторная аутентификация станет обязательной для разработчиков, публикующих пакеты, OAuth-приложения и GitHub-обработчики, формирующих релизы, участвующих в разработке проектов, критически важных для экосистем npm, OpenSSF, PyPI и RubyGems, а также вовлечённых в работу над четырьмя миллионами самых популярных репозиториев.</description>
+    </item>
+    
+  </channel>
+</rss>

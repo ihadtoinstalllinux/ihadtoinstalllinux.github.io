@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Azure on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/azure/</link>
+    <description>Recent content in Azure on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 15:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft опубликовал дистрибутив Azure Linux 3.0.20241203</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20241203-20241208-153553/</link>
+      <pubDate>Sun, 08 Dec 2024 15:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20241203-20241208-153553/</guid>
+      <description>Компания Microsoft опубликовала обновление дистрибутива Azure Linux 3.0.20241203. Дистрибутив развивается в качестве универсальной базовой платформы для Linux-окружений, используемых в облачной инфраструктуре, edge-системах и различных сервисах Microsoft. Собственные наработки проекта распространяются под лицензией MIT. Сборки пакетов формируются для архитектур aarch64 и x86_64. Размер установочного образа 750 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=62369</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал дистрибутив Azure Linux 3.0.20241101</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20241101-20241110-013539/</link>
+      <pubDate>Sun, 10 Nov 2024 01:35:39 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20241101-20241110-013539/</guid>
+      <description>Компания Microsoft опубликовала обновление дистрибутива Azure Linux 3.0.20241101, продолжающее развитие сформированной в августе стабильной ветки 3.0. Дистрибутив развивается в качестве универсальной базовой платформы для Linux-окружений, используемых в облачной инфраструктуре, edge-системах и различных сервисах Microsoft. Наработки проекта распространяются под лицензией MIT. Сборки пакетов формируются для архитектур aarch64 и x86_64. Размер установочного образа 751 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=62208</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux стал 7 дистрибутивом Linux, рекомендованным Microsoft для Azure</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/almalinux-stal-7-distributivom-linux-rekomendovannym-microsoft-dlya-azure-20241030-013514/</link>
+      <pubDate>Wed, 30 Oct 2024 01:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/almalinux-stal-7-distributivom-linux-rekomendovannym-microsoft-dlya-azure-20241030-013514/</guid>
+      <description>Компания Microsoft объявила о включении AlmaLinux в число дистрибутивов Linux, официально рекомендованных для использования в облачных окружениях Azure. В анонсе также упомянуто, что более 60% систем клиентов в Azure используют в своих окружениях Linux (рубеж в 50% был преодолён в 2018 году). Помимо AlmaLinux в списке одобренных дистрибутивов присутствуют Ubuntu, Debian, Flatcar Container Linux, Oracle Linux, Red Hat Enterprise Linux и SUSE.
+https://www.opennet.ru/opennews/art.shtml?num=62135</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn перешёл с CentOS на Azure Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/linkedin-pereshel-s-centos-na-azure-linux-20240828-133529/</link>
+      <pubDate>Wed, 28 Aug 2024 13:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/linkedin-pereshel-s-centos-na-azure-linux-20240828-133529/</guid>
+      <description>Принадлежащая компании Microsoft социальная сеть LinkedIn отчиталась о переводе большей части серверов, виртуальных машин и контейнеров с CentOS на дистрибутив Azure Linux. Помимо решения проблемы с прекращением сопровождения использовавшейся ветки CentOS 7 в процессе миграции также удалось добиться повышения защищённости инфраструктуры, снижения издержек, увеличения гибкости при настройке и упрощения внедрения новых возможностей, основанных на применении компонентов для машинного обучения.
+https://www.opennet.ru/opennews/art.shtml?num=61778</description>
+    </item>
+    
+    <item>
+      <title>Microsoft опубликовал дистрибутив Azure Linux 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20240803-123540/</link>
+      <pubDate>Sat, 03 Aug 2024 12:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-opublikoval-distributiv-azure-linux-3-0-20240803-123540/</guid>
+      <description>Компания Microsoft опубликовала первое стабильное обновление новой ветки дистрибутива Azure Linux 3.0, который ранее распространялся под именем CBL-Mariner. Дистрибутив развивается в качестве универсальной базовой платформы для Linux-окружений, используемых в облачной инфраструктуре, edge-системах и различных сервисах Microsoft. Проект нацелен на унификацию применяемых в Microsoft Linux-решений и упрощение поддержания Linux-систем различного назначения в актуальном состоянии. Наработки проекта распространяются под лицензией MIT. Сборки пакетов формируются для архитектур aarch64 и x86_64. Размер установочного образа 740 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft переименовал дистрибутив CBL-Mariner в Azure Linux и опубликовал Azure Sphere OS 24.03</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</link>
+      <pubDate>Wed, 06 Mar 2024 15:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-pereimenoval-distributiv-cbl-mariner-v-azure-linux-i-opublikoval-azure-sphere-os-20240306-153525/</guid>
+      <description>Компания Microsoft переименовала дистрибутив CBL-Mariner в Azure Linux. Ранее имя Azure Linux использовалось для специализированной сборки, устанавливаемой в Azure Kubernetes Service (AKS), а общая платформа для создания дистрибутивов развивалась под именем CBL-Mariner (Common Base Linux Mariner). Несколько дней назад Microsoft переименовал репозиторий CBL-Mariner в azurelinux, поменял названия утилит и заменил упоминание CBL-Mariner в документации на Azure Linux. После этого был сформирован первый выпуск платформы с новым именем - Azure Linux 2.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft анонсировал открытие кода Azure RTOS и передачу проекта сообществу Eclipse</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</link>
+      <pubDate>Sun, 26 Nov 2023 21:36:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-anonsiroval-otkrytie-koda-azure-rtos-i-peredachu-proekta-soobschestvu-eclipse-20231126-213655/</guid>
+      <description>Компания Microsoft объявила об открытии под пермиссивной лицензией MIT исходных текстов операционной системы реального времени Azure RTOS, которая была получена после поглощения компании Express Logic в 2019 году и до этого более 20 лет поставлялась под именем ThreadX. Утверждается, что во всём мире рассматриваемая ОС была установлена на более чем 12 миллиардов устройств, среди которых потребительская электроника, промышленные системы, медицинские устройства, принтеры, WiFi чипы и даже бортовые системы космических аппаратов.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>newlib on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/newlib/</link>
+    <description>Recent content in newlib on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 15:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/newlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована стандартная Си-библиотека newlib 4.5.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-standartnaya-si-biblioteka-newlib-4-5-0-20250101-153551/</link>
+      <pubDate>Wed, 01 Jan 2025 15:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-standartnaya-si-biblioteka-newlib-4-5-0-20250101-153551/</guid>
+      <description>После года разработки проект Cygwin опубликовал выпуск стандартной Си-библиотеки newlib 4.5.0, развиваемой инженерами из компании Red Hat. Библиотека нацелена на предоставление компактной реализации стандартной Си-библиотеки (libc), пригодной для использования на встраиваемых системах c небольшим объёмом постоянного хранилища и оперативной памяти. Код проекта написан на языке Си и распространяется под лицензией LGPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=62500</description>
+    </item>
+    
+  </channel>
+</rss>

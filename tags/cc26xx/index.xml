@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CC26XX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cc26xx/</link>
+    <description>Recent content in CC26XX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2024 11:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cc26xx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Инструментарий для создания патчей к прошивкам чипов TI CC13XX и CC26XX с поддержкой BLE</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/instrumentariy-dlya-sozdaniya-patchey-k-proshivkam-chipov-ti-cc13xx-i-cc26xx-s-podderzhkoy-20241230-113557/</link>
+      <pubDate>Mon, 30 Dec 2024 11:35:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/instrumentariy-dlya-sozdaniya-patchey-k-proshivkam-chipov-ti-cc13xx-i-cc26xx-s-podderzhkoy-20241230-113557/</guid>
+      <description>На конференции 38с3 представлен доклад с рассказом о проведении обратного инжиниринга прошивки и системы команд чипов TI SimpleLink (CC13XX и CC26XX) с поддержкой BLE (Bluetooth Low Energy), позволившем реализовать FM-приёмник. Аналоговый передатчик возможно нереализуем - чипы сугубо цифровые.
+https://www.opennet.ru/opennews/art.shtml?num=62485</description>
+    </item>
+    
+  </channel>
+</rss>

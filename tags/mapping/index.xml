@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mapping on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mapping/</link>
+    <description>Recent content in Mapping on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Кристоф Хелвиг ушёл с поста мэйнтейнера DMA Mapping и ConfigFS после форсирования Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/kristof-helvig-ushel-s-posta-meynteynera-dma-mapping-i-configfs-posle-forsirovaniya-rust-20250226-113556/</link>
+      <pubDate>Wed, 26 Feb 2025 11:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/kristof-helvig-ushel-s-posta-meynteynera-dma-mapping-i-configfs-posle-forsirovaniya-rust-20250226-113556/</guid>
+      <description>Кристоф Хелвиг (Christoph Hellwig) ушёл с позиции мэйнтейнера подсистем dma-mapping и configfs. Уход ограничился отправкой заявки на удаление из списка мэйнтейнеров и сообщением о передаче управления оставшимся сопровождающим. В подсистеме dma-mapping сопровождение продолжит Марек Шипровски (Marek Szyprowski) из Samsung, а в configfs - Джоэл Беккер (Joel Becker) из Oracle.
+https://www.opennet.ru/opennews/art.shtml?num=62797</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Struts on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/struts/</link>
+    <description>Recent content in Struts on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 19:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/struts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Apache Struts, позволяющая выполнить код на сервере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-apache-struts-pozvolyayuschaya-vypolnit-kod-na-servere-20241217-193554/</link>
+      <pubDate>Tue, 17 Dec 2024 19:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-apache-struts-pozvolyayuschaya-vypolnit-kod-na-servere-20241217-193554/</guid>
+      <description>В web-фреймворке Apache Struts, применяемом для создания web-приложений на языке Java с использованием парадигмы ММС (Model-View-Controller), выявлена уязвимость (CVE-2024-53677). Уязвимость даёт возможность внешнему злоумышленнику записать файл в произвольное место файловой системы на сервере через отправку специально оформленного HTTP-запроса. Проблема затрагивает выпуски с 2.0.0 по 2.3.37, c 2.5.0 по 2.5.33 и с 6.0.0 по 6.3.0.2, и проявляется в приложениях, использующих компонент FileUploadInterceptor за загрузки файлов сервер.
+https://www.opennet.ru/opennews/art.shtml?num=62424</description>
+    </item>
+    
+  </channel>
+</rss>

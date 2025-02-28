@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MITM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mitm/</link>
+    <description>Recent content in MITM on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2025 21:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mitm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление OpenSSH 9.9p1 с устранением возможности совершения MITM-атаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-9p1-s-ustraneniem-vozmozhnosti-soversheniya-mitm-ataki-20250218-213518/</link>
+      <pubDate>Tue, 18 Feb 2025 21:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openssh-9-9p1-s-ustraneniem-vozmozhnosti-soversheniya-mitm-ataki-20250218-213518/</guid>
+      <description>Доступен корректирующий выпуск OpenSSH 9.9p1, в котором устранены две уязвимости, выявленные компанией Qualys. Продемонстрирован пример использования данных уязвимостей для совершения MITM-атаки, позволяющей при попытке подключения клиента к SSH-серверу, перенаправить трафик на собственный фиктивный сервер, обойти проверку хостовых ключей и создать у клиента видимость подключения к желаемому серверу (ssh-клиент примет хостовый ключ фиктивного сервера вместо ключа легитимного сервера).
+https://www.opennet.ru/opennews/art.shtml?num=62742</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Buildroot, позволяющие через MITM-атаку выполнить код на сборочном сервере</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-buildroot-pozvolyayuschie-cherez-mitm-ataku-vypolnit-kod-na-sborochnom-serve-20231211-173521/</link>
+      <pubDate>Mon, 11 Dec 2023 17:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-buildroot-pozvolyayuschie-cherez-mitm-ataku-vypolnit-kod-na-sborochnom-serve-20231211-173521/</guid>
+      <description>В системе сборки Buildroot, нацеленной на формирование загрузочных Linux-окружений для встраиваемых систем, выявлены шесть уязвимостей, позволяющих в ходе перехвата транзитного трафика (MITM) добиться внесения изменений в генерируемые системные образы или организовать выполнение кода на уровне сборочной системы. Уязвимости устранены в выпусках Buildroot 2023.02.8, 2023.08.4 и 2023.11.
+https://www.opennet.ru/opennews/art.shtml?num=60270</description>
+    </item>
+    
+    <item>
+      <title>BLUFFS - уязвимости в Bluetooth, позволяющие провести MITM-атаку</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/bluffs-uyazvimosti-v-bluetooth-pozvolyayuschie-provesti-mitm-ataku-20231129-143523/</link>
+      <pubDate>Wed, 29 Nov 2023 14:35:23 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/bluffs-uyazvimosti-v-bluetooth-pozvolyayuschie-provesti-mitm-ataku-20231129-143523/</guid>
+      <description>Даниэле Антониоли (Daniele Antonioli), исследователь безопасности Bluetooth, ранее разработавший техники атак BIAS, BLUR и KNOB, выявил две новые уязвимости (CVE-2023-24023) в механизме согласования сеансов Bluetooth, затрагивающие все реализации Bluetooth, поддерживающие режимы защищённого сопряжения &amp;ldquo;Secure Connections&amp;rdquo; и &amp;ldquo;Secure Simple Pairing&amp;rdquo;, соответствующие спецификациям Bluetooth Core 4.2-5.4.
+https://www.opennet.ru/opennews/art.shtml?num=60192</description>
+    </item>
+    
+  </channel>
+</rss>

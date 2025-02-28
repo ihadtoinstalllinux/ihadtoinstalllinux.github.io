@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ext4 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ext4/</link>
+    <description>Recent content in Ext4 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 00:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ext4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Заметки Теодора Тс&#39;о о ядре Linux, кодексе поведения, ext4, btrfs и ZFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zametki-teodora-ts-o-o-yadre-linux-kodekse-povedeniya-ext4-btrfs-i-zfs-20250123-003521/</link>
+      <pubDate>Thu, 23 Jan 2025 00:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zametki-teodora-ts-o-o-yadre-linux-kodekse-povedeniya-ext4-btrfs-i-zfs-20250123-003521/</guid>
+      <description>Перевод размышлений Теодора Тс&amp;rsquo;о (Theodore Ts&amp;rsquo;o), создателя файловой системы Ext4, о разработке ext4, файловой системе BcacheFS, ядре Linux, ZFS, кодексе поведения и файловых системах в целом.
+https://www.opennet.ru/opennews/art.shtml?num=62597</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Debian 12.3 отложен из-за проблемы, приводящей к повреждению ФС Ext4</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-debian-12-3-otlozhen-iz-za-problemy-privodyaschey-k-povrezhdeniyu-fs-ext4-20231210-133538/</link>
+      <pubDate>Sun, 10 Dec 2023 13:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-debian-12-3-otlozhen-iz-za-problemy-privodyaschey-k-povrezhdeniyu-fs-ext4-20231210-133538/</guid>
+      <description>Разработчики проекта Debian объявили о приостановке публикации установочных образов с обновлением Debian 12.3 из-за выявления в ядре Linux ошибки, приводящей к повреждению данных в файловой системе Ext4. Пользователям уже установленных систем рекомендовано воздержаться от установки обновлений пакетов с ядром из репозитория до публикации исправления.
+https://www.opennet.ru/opennews/art.shtml?num=60261</description>
+    </item>
+    
+  </channel>
+</rss>

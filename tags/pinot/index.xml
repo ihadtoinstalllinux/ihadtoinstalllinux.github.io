@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pinot on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pinot/</link>
+    <description>Recent content in Pinot on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 11:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pinot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск распределённого хранилища Apache Pinot 1.0 </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-raspredelennogo-hranilischa-apache-pinot-1-0-20230920-113505/</link>
+      <pubDate>Wed, 20 Sep 2023 11:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-raspredelennogo-hranilischa-apache-pinot-1-0-20230920-113505/</guid>
+      <description>Организации Apache Software Foundation представила выпук распределённого OLAP-хранилища Apache Pinot 1.0, предназначенного для выполнения аналитических запросов. Изначально проект Pinot был разработан компанией LinkedIn и в 2015 году передан для дальней совместной разработки фонду Apache. Хранилище ориентировано на работу в условиях постоянного добавления новых данных и рассчитано на обеспечение минимальных и предсказуемых задержек, позволяющих использовать хранилище для обработки запросов в реальном времени. Код проекта написан на Java и распространяется под лицензией Apache.</description>
+    </item>
+    
+  </channel>
+</rss>

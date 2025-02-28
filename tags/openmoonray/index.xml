@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenMoonRay on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openmoonray/</link>
+    <description>Recent content in OpenMoonRay on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openmoonray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск системы рендеринга OpenMoonRay 1.1, развиваемой студией Dreamworks</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-renderinga-openmoonray-1-1-razvivaemoy-studiey-dreamworks-20230503-023505/</link>
+      <pubDate>Wed, 03 May 2023 02:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-sistemy-renderinga-openmoonray-1-1-razvivaemoy-studiey-dreamworks-20230503-023505/</guid>
+      <description>Анимационная студия Dreamworks опубликовала первое обновление открытой системы рендеринга OpenMoonRay 1.0, использующей трассировку лучей на основе численного интегрирования по методу Монте-Карло (MCRT). Основное внимание в MoonRay уделяется обеспечению высокой эффективности и масштабируемости, поддерживается многопоточный рендеринг, распараллеливание операций, использование векторных инструкций (SIMD), реалистичная симуляция освещения, обработка лучей на стороне GPU или CPU, реалистичная симуляция освещения на базе трассировки путей, рендеринг объёмных структур (туман, огонь, облака). Код опубликован под лицензией Apache 2.0.</description>
+    </item>
+    
+  </channel>
+</rss>

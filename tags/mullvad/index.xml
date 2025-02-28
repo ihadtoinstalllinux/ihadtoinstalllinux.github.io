@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mullvad on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/mullvad/</link>
+    <description>Recent content in Mullvad on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2023 23:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/mullvad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tor и Mullvad VPN подготовили новый web-браузер Mullvad Browser</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</link>
+      <pubDate>Mon, 03 Apr 2023 23:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/tor-i-mullvad-vpn-podgotovili-novyy-web-brauzer-mullvad-browser-20230403-233504/</guid>
+      <description>Проект Tor и VPN-провайдер Mullvad представили совместно развиваемый web-браузер Mullvad Browser, ориентированный на защиту конфиденциальности пользователя. Технически Mullvad Browser основан на движке Firefox и включает почти все изменения из Tor Browser, отличаясь главным образом тем, что не использует сеть Tor и отправляет запросы напрямую (вариант Tor Browser без Tor). Предполагается, что Mullvad Browser может быть интересен пользователям которые не хотят работать через сеть Tor, но желают получить доступные в Tor Browser механизмы повышения конфиденциальности, блокирования отслеживания посещений и защиты от идентификации пользователя.</description>
+    </item>
+    
+  </channel>
+</rss>

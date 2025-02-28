@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Btrfs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/btrfs/</link>
+    <description>Recent content in Btrfs on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2025 10:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/btrfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз утилит Btrfs-Progs 6.13</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-utilit-btrfs-progs-6-13-20250217-103528/</link>
+      <pubDate>Mon, 17 Feb 2025 10:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-utilit-btrfs-progs-6-13-20250217-103528/</guid>
+      <description>Представлен выпуск пакета Btrfs-Progs 6.13, включающего утилиты и библиотеки для работы с файловой системой Btrfs из пространства пользователя. В состав входит сводная утилита для администритования btrfs, утилита для создания разделов mkfs.btrfs, программа для проверки разделов fsck.btrfs, интерфейс для изменения параметров btrfstune, утилита для создания образов ФС btrfs-image и библиотека libbtrfsutil. Код написан на языке Си и распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=62732</description>
+    </item>
+    
+    <item>
+      <title>Заметки Теодора Тс&#39;о о ядре Linux, кодексе поведения, ext4, btrfs и ZFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zametki-teodora-ts-o-o-yadre-linux-kodekse-povedeniya-ext4-btrfs-i-zfs-20250123-003521/</link>
+      <pubDate>Thu, 23 Jan 2025 00:35:21 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zametki-teodora-ts-o-o-yadre-linux-kodekse-povedeniya-ext4-btrfs-i-zfs-20250123-003521/</guid>
+      <description>Перевод размышлений Теодора Тс&amp;rsquo;о (Theodore Ts&amp;rsquo;o), создателя файловой системы Ext4, о разработке ext4, файловой системе BcacheFS, ядре Linux, ZFS, кодексе поведения и файловых системах в целом.
+https://www.opennet.ru/opennews/art.shtml?num=62597</description>
+    </item>
+    
+    <item>
+      <title>Для Btrfs представлены патчи с балансировкой чтения RAID1 по алгоритму Round-robin</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dlya-btrfs-predstavleny-patchi-s-balansirovkoy-chteniya-raid1-po-algoritmu-round-robin-20241216-103517/</link>
+      <pubDate>Mon, 16 Dec 2024 10:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dlya-btrfs-predstavleny-patchi-s-balansirovkoy-chteniya-raid1-po-algoritmu-round-robin-20241216-103517/</guid>
+      <description>В репозиторий, развивающий изменения в Btrfs для будущих веток ядра Linux, принят набор.
+https://www.opennet.ru/opennews/art.shtml?num=62407</description>
+    </item>
+    
+    <item>
+      <title>Инициативы Fedora по созданию сборки с рабочим столом COSMIC и продвижению Btrfs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/iniciativy-fedora-po-sozdaniyu-sborki-s-rabochim-stolom-cosmic-i-prodvizheniyu-btrfs-20241213-143556/</link>
+      <pubDate>Fri, 13 Dec 2024 14:35:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/iniciativy-fedora-po-sozdaniyu-sborki-s-rabochim-stolom-cosmic-i-prodvizheniyu-btrfs-20241213-143556/</guid>
+      <description>Начиная с выпуска Fedora 42, намеченного на весну следующего года, предложено формировать официальные Spin-сборки дистрибутива со средой рабочего стола COSMIC, разрабатываемой на языке Rust. Предложение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora.
+https://www.opennet.ru/opennews/art.shtml?num=62396</description>
+    </item>
+    
+    <item>
+      <title>Продемонстрирована возможность загрузки Windows из раздела с Btrfs</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</link>
+      <pubDate>Sat, 22 Apr 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/prodemonstrirovana-vozmozhnost-zagruzki-windows-iz-razdela-s-btrfs-20230422-103506/</guid>
+      <description>Энтузиасты продемонстрировали возможность загрузки Windows 10 из раздела с файловой системой Btrfs. Поддержка Btrfs была обеспечена через открытый драйвер WinBtrfs, возможностей которого оказалось достаточно чтобы полностью заменить NTFS. Для загрузки Windows напрямую с Btrfs-раздела был использован открытый загрузчик Quibble.
+https://www.opennet.ru/opennews/art.shtml?num=59014</description>
+    </item>
+    
+  </channel>
+</rss>

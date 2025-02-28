@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Krita on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/krita/</link>
+    <description>Recent content in Krita on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2023 23:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/krita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск растрового графического редактора Krita 5.2</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-rastrovogo-graficheskogo-redaktora-krita-5-2-20231011-233505/</link>
+      <pubDate>Wed, 11 Oct 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-rastrovogo-graficheskogo-redaktora-krita-5-2-20231011-233505/</guid>
+      <description>После более года разработки представлен релиз растрового графического редактора Krita 5.2.0, предназначенного для художников и иллюстраторов. Редактор поддерживает многослойную обработку изображений, предоставляет средства для работы с различными цветовыми моделями и обладает большим набором средств для цифровой живописи, создания скетчей и формирования текстур. Для установки подготовлены самодостаточные образы в формате AppImage для Linux, экспериментальные APK-пакеты для ChromeOS и Android, а также бинарные сборки для macOS и Windows. Проект написан на языке С++ с использованием библиотеки Qt и распространяется под лицензией GPLv3.</description>
+    </item>
+    
+  </channel>
+</rss>

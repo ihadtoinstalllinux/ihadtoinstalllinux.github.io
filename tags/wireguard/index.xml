@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wireguard on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wireguard/</link>
+    <description>Recent content in Wireguard on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2024 10:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wireguard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработчик Wireguard серьезно ускорил вызов getrandom() в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razrabotchik-wireguard-serezno-uskoril-vyzov-getrandom-v-linux-20240705-103534/</link>
+      <pubDate>Fri, 05 Jul 2024 10:35:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razrabotchik-wireguard-serezno-uskoril-vyzov-getrandom-v-linux-20240705-103534/</guid>
+      <description>Джейсон Доненфилд (Jason A. Donenfeld), автор VPN WireGuard, представил патчи, значительно ускоряющие получение случайных чисел от системы через функцию getrandom(), реализованную через соответствующий системный вызов Linux. Преимуществом такого решения по сравнению с использованием /dev/random или /dev/urandom является неподверженность атакам на исчерпание файловых дескрипторов, которые могут привести к неинициализированным и неслучайным криптографическим ключам.
+https://www.opennet.ru/opennews/art.shtml?num=61494</description>
+    </item>
+    
+    <item>
+      <title>В ядро DragonFly BSD добавлена поддержка VPN WireGuard </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-yadro-dragonfly-bsd-dobavlena-podderzhka-vpn-wireguard-20240210-183551/</link>
+      <pubDate>Sat, 10 Feb 2024 18:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-yadro-dragonfly-bsd-dobavlena-podderzhka-vpn-wireguard-20240210-183551/</guid>
+      <description>В состав ядра операционной системы DragonFly BSD принято около 100 изменений, связанных с реализацией поддержки VPN WireGuard. Драйвер &amp;ldquo;wg&amp;rdquo; с поддержкой протокола WireGuard перенесён из FreeBSD, а код криптографических функций, сетевого интерфейса и ioctl API (для управления из пространства пользователя) заимствован из OpenBSD. Изменения в утилиту ifconfig, необходимые для настройки VPN, перенесены из OpenBSD. Реализация совместима со всеми официальными клиентами WireGuard для Linux, Windows, macOS, *BSD, iOS и Android. DragonFly BSD стала пятой открытой ОС после Linux, OpenBSD, NetBSD и FreeBSD с интегрированной поддержкой WireGuard.</description>
+    </item>
+    
+    <item>
+      <title>Релиз FreeBSD 13.2 с поддержкой Netlink и WireGuard</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-2-s-podderzhkoy-netlink-i-wireguard-20230411-133506/</link>
+      <pubDate>Tue, 11 Apr 2023 13:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-freebsd-13-2-s-podderzhkoy-netlink-i-wireguard-20230411-133506/</guid>
+      <description>После 11 месяцев разработки опубликован релиз FreeBSD 13.2. Установочные образы сформированы для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv6, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
+https://www.opennet.ru/opennews/art.shtml?num=58946</description>
+    </item>
+    
+  </channel>
+</rss>

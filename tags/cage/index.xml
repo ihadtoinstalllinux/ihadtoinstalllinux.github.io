@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cage on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cage/</link>
+    <description>Recent content in Cage on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 22:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Cage 0.2, композитного сервера на базе Wayland для создания киосков</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-cage-0-2-kompozitnogo-servera-na-baze-wayland-dlya-sozdaniya-kioskov-20241006-223549/</link>
+      <pubDate>Sun, 06 Oct 2024 22:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-cage-0-2-kompozitnogo-servera-na-baze-wayland-dlya-sozdaniya-kioskov-20241006-223549/</guid>
+      <description>Доступен выпуск композитного сервера Cage 0.2, использующего Wayland и ориентированного на обособленный запуск отдельных приложений в режиме киоска. Из областей применения Cage отмечается создание систем домашней автоматизации, демонстрационных стендов, электронных вывесок и терминалов самообслуживания. Код проекта написан на языке Си и поставляется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=62002</description>
+    </item>
+    
+  </channel>
+</rss>

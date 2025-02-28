@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Box64 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/box64/</link>
+    <description>Recent content in Box64 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2024 16:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/box64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск эмутятора Box64 0.3.0, позволяющего запускать x86-игры на системах ARM64 и RISC-V</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-emutyatora-box64-0-3-0-pozvolyayuschego-zapuskat-x86-igry-na-sistemah-arm64-i-risc-20240709-163509/</link>
+      <pubDate>Tue, 09 Jul 2024 16:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-emutyatora-box64-0-3-0-pozvolyayuschego-zapuskat-x86-igry-na-sistemah-arm64-i-risc-20240709-163509/</guid>
+      <description>Опубликован выпуск эмулятора Box64 0.3.0, предназначенного для запуска Linux-программ, собранных для архитектуры x86_64, на оборудовании с процессорами ARM64, RISC-V и Loongarch64. Проект уделяет большое внимание организации запуска игровых приложений и предоставляет возможность запуска Windows-сборок через wine и Proton. Исходные тексты проекта написаны на языке Си и распространяются под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=61510</description>
+    </item>
+    
+  </channel>
+</rss>

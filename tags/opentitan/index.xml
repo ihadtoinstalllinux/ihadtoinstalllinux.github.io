@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenTitan on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opentitan/</link>
+    <description>Recent content in OpenTitan on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2025 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opentitan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Началось производство чипов на базе открытой платформы OpenTitan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/nachalos-proizvodstvo-chipov-na-baze-otkrytoy-platformy-opentitan-20250207-023538/</link>
+      <pubDate>Fri, 07 Feb 2025 02:35:38 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/nachalos-proizvodstvo-chipov-na-baze-otkrytoy-platformy-opentitan-20250207-023538/</guid>
+      <description>Компания Google после шести лет работы над проектом объявила о начале производства чипа, построенного на базе открытой платформы OpenTitan. Чип выпускается компанией Nuvoton и отмечен как первая реализация OpenTitan, готовая для использования в рабочих проектах. В настоящее время для тестирования выпущена пробная партия, а запуск массового производства намечен на весну этого года.
+https://www.opennet.ru/opennews/art.shtml?num=62683</description>
+    </item>
+    
+    <item>
+      <title>Представлен первый чип на базе открытой платформы OpenTitan</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-pervyy-chip-na-baze-otkrytoy-platformy-opentitan-20240216-023544/</link>
+      <pubDate>Fri, 16 Feb 2024 02:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-pervyy-chip-na-baze-otkrytoy-platformy-opentitan-20240216-023544/</guid>
+      <description>Некоммерческая организация lowRISC, курирующая разработку свободного микропроцессора на базе архитектуры RISC-V, объявила о доступности первого готового к коммерческому производству чипа, построенного на базе открытой платформы OpenTitan, развиваемой как независимый совместный проект. Изначально проект был основан компанией Google, но после передачи организации lowRISC к его разработке присоединились такие компании, как Western Digital, Seagate, Nuvoton Technology, Winbond, Rivos, zeroRISC и G+D Mobile Security. Связанный с проектом код и спецификации аппаратных компонентов опубликованы под лицензией Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>Завершено RTL-проектирование OpenTitan, платформы для заслуживающих доверия чипов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zaversheno-rtl-proektirovanie-opentitan-platformy-dlya-zasluzhivayuschih-doveriya-chipov-20230617-123505/</link>
+      <pubDate>Sat, 17 Jun 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zaversheno-rtl-proektirovanie-opentitan-platformy-dlya-zasluzhivayuschih-doveriya-chipov-20230617-123505/</guid>
+      <description>Компания Google объявила о завершении проектом OpenTitan, стадий разработки, тестирования и верификации RTL-схем (Register Transfer Level) и описаний аппаратных блоков на языке SystemVerilog. Логический дизайн платформы признан пригодным для создания физического чипа и объявлен замороженным от внесения дальнейших изменений. Работа перешла на стадию логического синтеза, на котором выполняется преобразование высокоуровневого RTL в низкоуровневое описание на уровне логических элементов и проводников. Доступные для тестирования рабочие прототипы чипов планируют начать выпускать к концу 2023 года.</description>
+    </item>
+    
+  </channel>
+</rss>

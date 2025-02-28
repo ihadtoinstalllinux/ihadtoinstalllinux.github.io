@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LittleFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/littlefs/</link>
+    <description>Recent content in LittleFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 13:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/littlefs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск отказоустойчивой файловой системы LittleFS 2.10</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-otkazoustoychivoy-faylovoy-sistemy-littlefs-2-10-20241213-133509/</link>
+      <pubDate>Fri, 13 Dec 2024 13:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-otkazoustoychivoy-faylovoy-sistemy-littlefs-2-10-20241213-133509/</guid>
+      <description>Опубликован выпуск проекта LittleFS 2.10, развивающего компактную файловую систему для встраиваемых устройств и микроконтроллеров. Изначально файловая система была создана компанией ARM для операционной системы Mbed OS, но затем выделена в отдельный проект. Код ФС написан на языке Си и распространяется под лицензией BSD. Эталонная реализация LittleFS поставляется в виде Си-библиотеки, на базе которой создан FUSE-модуль и обвязки для различных языков программирования.
+https://www.opennet.ru/opennews/art.shtml?num=62398</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/docker/</link>
+    <description>Recent content in Docker on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Hub начал блокировать доступ из России</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-nachal-blokirovat-dostup-iz-rossii-20240530-163518/</link>
+      <pubDate>Thu, 30 May 2024 16:35:18 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-nachal-blokirovat-dostup-iz-rossii-20240530-163518/</guid>
+      <description>Сайт Docker Hub, предоставляющий каталог и репозиторий образов контейнеров для системы Docker, перестал принимать запросы с российских подсетей. Попытка открытия ресурса теперь приводит к выводу ошибки &amp;ldquo;403 Forbidden&amp;rdquo; с пояснением, что доступ ограничен, так как американская компания обязана выполнять требования законодательства США по экспортному контролю. При этом в списке блокируемых регионов перечислены только Куба, Иран, Северная Корея, Республика Крым, Судан и Сирия.
+https://www.opennet.ru/opennews/art.shtml?num=61274</description>
+    </item>
+    
+    <item>
+      <title>На соревновании Pwn2Own 2024 продемонстрированы взломы Ubuntu, Firefox, Chrome, Docker и VirtualBox</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</link>
+      <pubDate>Sat, 23 Mar 2024 02:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovanii-pwn2own-2024-prodemonstrirovany-vzlomy-ubuntu-firefox-chrome-docker-i-virt-20240323-023514/</guid>
+      <description>Подведены итоги двух дней соревнований Pwn2Own 2024, ежегодно проводимых в рамках конференции CanSecWest в Ванкувере. Рабочие техники эксплуатации ранее неизвестных уязвимостей были разработаны для Ubuntu Desktop, Windows 11, Docker, Oracle VirtualBox, VMWare Workstation, Adobe Reader, Firefox, Chrome, Edge и автомобиля Tesla. Всего были продемонстрированы 23 успешные атаки, эксплуатирующие 29 ранее неизвестных уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=60830</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в runc, позволяющая выбраться из контейнеров Docker и Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-runc-pozvolyayuschaya-vybratsya-iz-konteynerov-docker-i-kubernetes-20240203-153601/</link>
+      <pubDate>Sat, 03 Feb 2024 15:36:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-runc-pozvolyayuschaya-vybratsya-iz-konteynerov-docker-i-kubernetes-20240203-153601/</guid>
+      <description>В инструментарии для запуска изолированных контейнеров runc, применяемом в Docker и Kubernetes, найдена уязвимость CVE-2024-21626, позволяющая получить доступ к файловой системе хост-окружения из изолированного контейнера. В ходе атаки злоумышленник может перезаписать некоторые исполняемые файлы в хост-окружения и таким образом добиться выполнения своего кода вне контейнера. В runtime LXC, crun и youki, так же использующих runc, проблема не проявляется. Уязвимость устранена в выпуске runc 1.1.12.
+https://www.opennet.ru/opennews/art.shtml?num=60545</description>
+    </item>
+    
+    <item>
+      <title>Docker Hub отменил решение об упразднении бесплатного сервиса Free Team</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-otmenil-reshenie-ob-uprazdnenii-besplatnogo-servisa-free-team-20230325-103506/</link>
+      <pubDate>Sat, 25 Mar 2023 10:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-otmenil-reshenie-ob-uprazdnenii-besplatnogo-servisa-free-team-20230325-103506/</guid>
+      <description>Компания Docker объявила об отмене ранее принятого решения о прекращении действия сервиса по подписке &amp;ldquo;Docker Free Team&amp;rdquo;, позволяющего организациям, курирующим открытые проекты, бесплатно размещать образы контейнеров в каталоге Docker Hub, организовать работу команд и использовать приватные репозитории. Сообщается, что пользователи &amp;ldquo;Free Team&amp;rdquo; могут продолжить работу в прежнем режиме и не опасаться ранее намеченного удаления их учётных записей.
+https://www.opennet.ru/opennews/art.shtml?num=58859</description>
+    </item>
+    
+    <item>
+      <title>Docker Hub упраздняет бесплатный сервис для организаций, развивающих открытые проекты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/docker-hub-uprazdnyaet-besplatnyy-servis-dlya-organizaciy-razvivayuschih-otkrytye-proekty-20230316-143502/</link>
+      <pubDate>Thu, 16 Mar 2023 14:35:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/docker-hub-uprazdnyaet-besplatnyy-servis-dlya-organizaciy-razvivayuschih-otkrytye-proekty-20230316-143502/</guid>
+      <description>Разработчики некоторых открытых проектов, размещающие образы контейнеров в каталоге Docker Hub, получили уведомление о скором прекращении действия сервиса по подписке &amp;ldquo;Docker Free Team&amp;rdquo;, ранее бесплатно предоставляемого организациям, курирующим открытые проекты. Возможность бесплатного персонального размещения образов отдельными разработчиками сохраняется. Также продолжат бесплатно размещаться официально поддерживаемые образы открытых проектов.
+https://www.opennet.ru/opennews/art.shtml?num=58803</description>
+    </item>
+    
+  </channel>
+</rss>

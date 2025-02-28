@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redka on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redka/</link>
+    <description>Recent content in Redka on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2024 12:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Redka развивает реализацию протокола и API Redis поверх SQLite </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-redka-razvivaet-realizaciyu-protokola-i-api-redis-poverh-sqlite-20240415-123549/</link>
+      <pubDate>Mon, 15 Apr 2024 12:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-redka-razvivaet-realizaciyu-protokola-i-api-redis-poverh-sqlite-20240415-123549/</guid>
+      <description>Опубликованы первые выпуски проекта Redka, нацеленного на предоставление RESP-протокола и API, совместимых с СУБД Redis, но реализованных поверх библиотеки SQLite. Задействование SQLite дополнительно позволяет обращаться к данным при помощи языка SQL, например, для формирования отчётов или анализа данных. Поддерживается использование ACID-транзакций. Redka может запускаться в форме сервера, принимающего запросы по сети, или использоваться в виде модуля для языка Go. Код проекта написан на языке Go и распространяется под лицензией BSD.</description>
+    </item>
+    
+  </channel>
+</rss>

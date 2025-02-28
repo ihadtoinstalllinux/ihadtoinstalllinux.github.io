@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CockroachDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cockroachdb/</link>
+    <description>Recent content in CockroachDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2024 19:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cockroachdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CockroachDB сворачивает Core-редакцию и меняет модель лицензирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/cockroachdb-svorachivaet-core-redakciyu-i-menyaet-model-licenzirovaniya-20240819-193549/</link>
+      <pubDate>Mon, 19 Aug 2024 19:35:49 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/cockroachdb-svorachivaet-core-redakciyu-i-menyaet-model-licenzirovaniya-20240819-193549/</guid>
+      <description>Компания CockroachDB объявила о смене лицензионной политики, прекращении поставки Core-варианта своей СУБД и существенном ограничении бесплатных опций. Изменения будут применены начиная с выпуска 24.3, запланированного на ноябрь. Код CockroachDB продолжит быть доступен, но под ограничивающей его использование лицензией (модель &amp;ldquo;код доступен&amp;rdquo;). До сих пор компания предлагала два варианта СУБД: бесплатный CockroachDB Core, предлагающий базовую функциональность, и платный CockroachDB Enterprise, включающий расширенные возможности и оптимизации, связанные с обеспечением отказоустойчивости, масштабированием и защитой информации.</description>
+    </item>
+    
+  </channel>
+</rss>

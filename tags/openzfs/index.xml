@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenZFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openzfs/</link>
+    <description>Recent content in OpenZFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 11:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openzfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз OpenZFS 2.3.0, реализации ZFS для Linux и FreeBSD </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-3-0-realizacii-zfs-dlya-linux-i-freebsd-20250114-113528/</link>
+      <pubDate>Tue, 14 Jan 2025 11:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-3-0-realizacii-zfs-dlya-linux-i-freebsd-20250114-113528/</guid>
+      <description>После более года разработки опубликован релиз проекта OpenZFS 2.3.0, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. Проект получил известность как &amp;ldquo;ZFS on Linux&amp;rdquo; и ранее ограничивался разработкой модуля для ядра Linux, но после добавления поддержки FreeBSD был признан основной реализацией OpenZFS и переименован.
+https://www.opennet.ru/opennews/art.shtml?num=62552</description>
+    </item>
+    
+    <item>
+      <title>Обновление OpenZFS 2.1.14 и 2.2.2 с устранением ошибки, приводящей к повреждению файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openzfs-2-1-14-i-2-2-2-s-ustraneniem-oshibki-privodyaschey-k-povrezhdeniyu-fayl-20231201-113522/</link>
+      <pubDate>Fri, 01 Dec 2023 11:35:22 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-openzfs-2-1-14-i-2-2-2-s-ustraneniem-oshibki-privodyaschey-k-povrezhdeniyu-fayl-20231201-113522/</guid>
+      <description>Сформированы корректирующие выпуски проекта OpenZFS 2.1.14 и 2.2.2, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. В обновлениях устранена проблема в коде проверки согласованности кэша dnode, приводящая к повреждению данных в файлах, содержавших пустые области, при их копировании после внесения изменений.
+https://www.opennet.ru/opennews/art.shtml?num=60212</description>
+    </item>
+    
+    <item>
+      <title>В OpenZFS выявлена ошибка, которая может привести к повреждению файлов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-openzfs-vyyavlena-oshibka-kotoraya-mozhet-privesti-k-povrezhdeniyu-faylov-20231123-133602/</link>
+      <pubDate>Thu, 23 Nov 2023 13:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-openzfs-vyyavlena-oshibka-kotoraya-mozhet-privesti-k-povrezhdeniyu-faylov-20231123-133602/</guid>
+      <description>Доступен промежуточный выпуск проекта OpenZFS 2.2.1, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. Выпуск примечателен добавлением поддержки ядра Linux 6.6 и попыткой устранения проблемы, приводящей к повреждению данных (обнулению части блоков) в файлах после их копирования.
+https://www.opennet.ru/opennews/art.shtml?num=60167</description>
+    </item>
+    
+    <item>
+      <title>Релиз OpenZFS 2.2, реализации ZFS для Linux и FreeBSD</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</link>
+      <pubDate>Sat, 14 Oct 2023 01:35:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-openzfs-2-2-realizacii-zfs-dlya-linux-i-freebsd-20231014-013504/</guid>
+      <description>После более двух лет разработки опубликован релиз проекта OpenZFS 2.2, развивающего реализацию файловой системы ZFS для Linux и FreeBSD. Проект получил известность как &amp;ldquo;ZFS on Linux&amp;rdquo; и ранее ограничивался разработкой модуля для ядра Linux, но после переноса поддержки FreeBSD был признан основной реализацией OpenZFS и переименован.
+https://www.opennet.ru/opennews/art.shtml?num=59930</description>
+    </item>
+    
+  </channel>
+</rss>

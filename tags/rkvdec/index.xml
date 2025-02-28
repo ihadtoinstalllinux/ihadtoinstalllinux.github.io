@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rkvdec on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rkvdec/</link>
+    <description>Recent content in rkvdec on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2023 18:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rkvdec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Под видом эксплоита к уязвимости в rkvdec распространялся вредоносный код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pod-vidom-eksploita-k-uyazvimosti-v-rkvdec-rasprostranyalsya-vredonosnyy-kod-20230714-183506/</link>
+      <pubDate>Fri, 14 Jul 2023 18:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pod-vidom-eksploita-k-uyazvimosti-v-rkvdec-rasprostranyalsya-vredonosnyy-kod-20230714-183506/</guid>
+      <description>В середине июня в модуле ядра Linux rkvdec была выявлена уязвимость (CVE-2023-35829), приводящая к обращению к области памяти после её освобождения (use-after-free) из-за состояния гонки в процедуре выгрузки драйвера. Предполагалось, что проблема ограничивается вызовом отказа в обслуживании. Недавно в некоторых сообществах в Telegram и Twitter появилась информация, что уязвимость может быть использована для получения root-прав непривилегированным пользователем и в качестве доказательства на GitHub были опубликованы два рабочих прототипа эксплоитов apkc/CVE-2023-35829-poc и ChriSanders22/CVE-2023-35829-poc (уже удалены администрацией GitHub, копия).</description>
+    </item>
+    
+  </channel>
+</rss>

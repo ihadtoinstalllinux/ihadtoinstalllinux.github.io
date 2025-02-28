@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Grml on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/grml/</link>
+    <description>Recent content in Grml on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 12:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/grml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Grml 2024.12, Live-дистрибутива для системных администраторов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-grml-2024-12-live-distributiva-dlya-sistemnyh-administratorov-20241221-123510/</link>
+      <pubDate>Sat, 21 Dec 2024 12:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-grml-2024-12-live-distributiva-dlya-sistemnyh-administratorov-20241221-123510/</guid>
+      <description>Представлен выпуск Live-дистрибутива grml 2024.12, предлагающего подборку программ для выполнения работ, возникающих в практике системных администраторов (восстановление данных после сбоя, разбор инцидентов и т.д.), а также для обработки текстовых данных при помощи пакета texttools. Дистрибутив основан на пакетной базе Debian GNU/Linux и в конце октября отметил своё двадцатилетие. Графическое окружение построено с использованием оконного менеджера Fluxbox. По умолчанию предлагается командная оболочка Zsh. Размер полного iso-образа 917 МБ, сокращённого - 498 МБ.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск Live-дистрибутива Grml 2024.02</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-live-distributiva-grml-2024-02-20240302-013528/</link>
+      <pubDate>Sat, 02 Mar 2024 01:35:28 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-live-distributiva-grml-2024-02-20240302-013528/</guid>
+      <description>После более года разработки опубликован выпуск Live-дистрибутива grml 2024.02, основанного на пакетной базе Debian GNU/Linux. Дистрибутив содержит подборку программ для выполнения операций по обработке текстовых данных средствами пакета texttools и для выполнения работ, возникающих в практике системных администраторов (восстановление данных после сбоя, разбор инцидентов и т.д.). Графическое окружение построено с использованием оконного менеджера Fluxbox. Размер полного iso-образа 915 МБ, сокращённого - 508 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=60706</description>
+    </item>
+    
+  </channel>
+</rss>

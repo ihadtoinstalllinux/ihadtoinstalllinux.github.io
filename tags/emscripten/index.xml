@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emscripten on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/emscripten/</link>
+    <description>Recent content in Emscripten on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/emscripten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доступен Emscripten 4.0, компилятор из C/C&#43;&#43; в WebAssembly </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/dostupen-emscripten-4-0-kompilyator-iz-c-c-v-webassembly-20250114-123551/</link>
+      <pubDate>Tue, 14 Jan 2025 12:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/dostupen-emscripten-4-0-kompilyator-iz-c-c-v-webassembly-20250114-123551/</guid>
+      <description>Опубликован выпуск инструментария Emscripten 4.0, позволяющего компилировать код на C/C++ и других языках, для которых имеются фронтэнды на базе LLVM, в универсальный низкоуровневый промежуточный код WebAssembly. Полученный результат можно использовать для интеграции с JavaScript-проектами, запуска в web-браузере, использования в Node.js или создания обособленных многоплатформенных приложений, запускаемых при помощи wasm runtime. Код проекта распространяется под лицензией MIT. В компиляторе используются наработки проекта LLVM, а для генерации WebAssembly и оптимизации задействована библиотека Binaryen.</description>
+    </item>
+    
+  </channel>
+</rss>

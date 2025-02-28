@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GRUB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/grub/</link>
+    <description>Recent content in GRUB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 10:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/grub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slackware Linux переходит на использование загрузчика GNU GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</link>
+      <pubDate>Mon, 24 Jun 2024 10:35:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/slackware-linux-perehodit-na-ispolzovanie-zagruzchika-gnu-grub-20240624-103553/</guid>
+      <description>Патрик Фолькердинг (Patrick Volkerding), основатель и бессменный лидер (BDFL) проекта Slackware Linux, начал перевод дистрибутива на использование загрузчика GNU GRUB (Grand Unified Bootloader) вместо ранее применявшихся устаревших загрузчиков LILO и ELILO. GNU GRUB поддерживает спецификацию Multiboot и может использоваться для загрузки различных операционных систем, как напрямую, так и в режиме chainloading.
+https://www.opennet.ru/opennews/art.shtml?num=61429</description>
+    </item>
+    
+    <item>
+      <title>В openSUSE Tumbleweed добавлена возможность использования systemd-boot вместо GRUB</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</link>
+      <pubDate>Wed, 06 Mar 2024 00:35:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-opensuse-tumbleweed-dobavlena-vozmozhnost-ispolzovaniya-systemd-boot-vmesto-grub-20240306-003536/</guid>
+      <description>Разработчики проекта openSUSE объявили об интеграции поддержки загрузчика systemd-boot в дистрибутив openSUSE Tumbleweed, в котором применяется непрерывный цикл обновления версий программ (rolling-обновления). По сравнению с применением традиционного загрузчика GRUB переход на systemd-boot даст возможность повысить скорость загрузки и усилить безопасность загрузочного процесса. В настоящее время поддержка systemd-boot реализована как опция, а по умолчанию продолжает использоваться GRUB, за исключением сборок для QEMU, в которых systemd-boot планируют включить по умолчанию вместе с полнодисковым шифрованием.</description>
+    </item>
+    
+    <item>
+      <title>Релиз загрузочного менеджера GNU GRUB 2.12</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-zagruzochnogo-menedzhera-gnu-grub-2-12-20231221-163532/</link>
+      <pubDate>Thu, 21 Dec 2023 16:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-zagruzochnogo-menedzhera-gnu-grub-2-12-20231221-163532/</guid>
+      <description>После двух с половиной лет разработки представлен стабильный релиз модульного многоплатформенного менеджера загрузки GNU GRUB 2.12 (GRand Unified Bootloader). GRUB поддерживает широкий спектр платформ, включая обычные ПК с BIOS, платформы IEEE-1275 (оборудование на базе PowerPC/Sparc64), EFI-системы, системы с процессорами RISC-V, Loongson, Itanium, ARM, ARM64, LoongArch и ARCS (SGI), устройства, использующие свободный пакет CoreBoot.
+https://www.opennet.ru/opennews/art.shtml?num=60327</description>
+    </item>
+    
+  </channel>
+</rss>

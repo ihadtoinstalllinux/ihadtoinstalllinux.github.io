@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KeePassXC on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/keepassxc/</link>
+    <description>Recent content in KeePassXC on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2024 21:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/keepassxc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian перешёл на поставку урезанного варианта менеджера паролей KeePassXC </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/debian-pereshel-na-postavku-urezannogo-varianta-menedzhera-paroley-keepassxc-20240513-213510/</link>
+      <pubDate>Mon, 13 May 2024 21:35:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/debian-pereshel-na-postavku-urezannogo-varianta-menedzhera-paroley-keepassxc-20240513-213510/</guid>
+      <description>Мэйнтейнер, обеспечивающий сборку для Debian пакетов с менеджерами паролей KeePassXC, перешёл на поставку максимально урезанной версии программы, в которой оставлена только базовая функциональность, необходимая для безопасного хранения паролей на локальной системе. Расширенные функции, среди которых возможность сетевого взаимодействия, код для управления через IPC, компоненты для интеграции с web-браузерами, функции авто-ввода паролей и код для поддержки ключей Yubikey, удалены из стандартного пакета keepassxc, что объясняется избавлением от излишней функциональности, которая повышает поверхность атаки и потенциально может негативно влиять на безопасность и конфиденциальность.</description>
+    </item>
+    
+  </channel>
+</rss>

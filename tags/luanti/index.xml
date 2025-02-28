@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Luanti on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/luanti/</link>
+    <description>Recent content in Luanti on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 20:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/luanti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление игры Skyblock: Zero, построенной на движке Luanti</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-igry-skyblock-zero-postroennoy-na-dvizhke-luanti-20250223-203552/</link>
+      <pubDate>Sun, 23 Feb 2025 20:35:52 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-igry-skyblock-zero-postroennoy-na-dvizhke-luanti-20250223-203552/</guid>
+      <description>Опубликована 28 версия игры Skyblock:Zero, построенной в стиле Minecraft. Игра посвящена путешествиям по планетам, проведению исследований и наращиванию технологий в космическом пространстве. Игроку предоставляется сборник заданий, называемый Книгой крестов. Игра сделана на основе свободного воксельного движка Luanti и находится в начальной стадии разработки. Код написан на языке Lua и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=62783</description>
+    </item>
+    
+    <item>
+      <title>Релиз свободного воксельного игрового движка Luanti 5.11.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-luanti-5-11-0-20250215-183540/</link>
+      <pubDate>Sat, 15 Feb 2025 18:35:40 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-luanti-5-11-0-20250215-183540/</guid>
+      <description>После трёх месяцев разработки опубликован релиз Luanti 5.11.0, свободного кроссплатформенного игрового движка в жанре песочница, позволяющего создавать игры с воксельной механикой, используя различные воксельные блоки для совместного формирования игроками различных структур и построек, образующих подобие виртуального мира. Предоставляемый движком геймплей полностью зависит от набора модов, создаваемых на языке Lua. Движок написан на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht). Код Luanti распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+    </item>
+    
+    <item>
+      <title>Релиз свободного воксельного игрового движка Luanti 5.10.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-luanti-5-10-0-20241112-003507/</link>
+      <pubDate>Tue, 12 Nov 2024 00:35:07 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-svobodnogo-vokselnogo-igrovogo-dvizhka-luanti-5-10-0-20241112-003507/</guid>
+      <description>После трёх месяцев разработки доступен выпуск свободного игрового движка Luanti 5.10.0, позволяющего с помощью Lua API создавать игры в стиле Minecraft, используя различные воксельные блоки для совместного формирования игроками различных структур и построек, образующих подобие виртуального мира. Ранее проект развивался под именем Minetest, но был переименован в связи с тем, что старое название могло создавать ложное ощущение, будто это недоделанный клон Minecraft. Движок написан на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht).</description>
+    </item>
+    
+    <item>
+      <title>Игровой движок Minetest переименован в Luanti</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-minetest-pereimenovan-v-luanti-20241022-023602/</link>
+      <pubDate>Tue, 22 Oct 2024 02:36:02 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/igrovoy-dvizhok-minetest-pereimenovan-v-luanti-20241022-023602/</guid>
+      <description>После многолетнего обсуждения объявлено о переименовании игрового движка Minetest, который теперь будет развиваться под именем Luanti. Новое имя образовано путём комбинирования финского слова luonti, которое переводится как &amp;ldquo;создание&amp;rdquo; (создатель проекта из Финляндии), с названием языка программирования Lua, используемого в движке. Потребность в переименовании возникла из-за путаницы, вызванной схожестью имени Minetest с названием игры Minecraft, что вводило пользователей в заблуждение и давало повод думать, что проект развивает клон Minecraft. С другой стороны наличие слова &amp;ldquo;test&amp;rdquo; в названии наталкивало на мысли, что это тестовый продукт.</description>
+    </item>
+    
+  </channel>
+</rss>

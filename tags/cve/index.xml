@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CVE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cve/</link>
+    <description>Recent content in CVE on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2023 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В CVE опубликованы отчёты о ложных уязвимостях в curl, PostgreSQL и других проектах</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</link>
+      <pubDate>Wed, 30 Aug 2023 12:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-cve-opublikovany-otchety-o-lozhnyh-uyazvimostyah-v-curl-postgresql-i-drugih-proektah-20230830-123505/</guid>
+      <description>Дэниел Cтенберг (Daniel Stenberg), автор утилиты для получения и отправки данных по сети curl, предупредил пользователей о публикации организацией MITRE, отвечающей за ведение базы данных общеизвестных уязвимостей, отчёта с информацией о ложной критической уязвимости. Проблеме присвоен CVE-идентификатор CVE-2020-19909 и выставлен уровень опасности 9.8 из 10, свойственный для удалённо эксплуатируемых уязвимостей, приводящих к выполнению кода с повышенными привилегиями.
+https://www.opennet.ru/opennews/art.shtml?num=59683</description>
+    </item>
+    
+  </channel>
+</rss>

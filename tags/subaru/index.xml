@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Subaru on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/subaru/</link>
+    <description>Recent content in Subaru on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/subaru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость, позволяющая разблокировать, заводить и отслеживать автомобили Subaru</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-razblokirovat-zavodit-i-otslezhivat-avtomobili-subaru-20250128-003527/</link>
+      <pubDate>Tue, 28 Jan 2025 00:35:27 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-pozvolyayuschaya-razblokirovat-zavodit-i-otslezhivat-avtomobili-subaru-20250128-003527/</guid>
+      <description>В сервисе Subaru STARLINK, позволяющем через мобильное приложение, контролировать состояние автомобиля, выявлены проблемы с безопасностью, дающие возможность получить неограниченный доступ ко всем автомобилям и учётным записям клиентов из США, Канады и Японии. К панели администратора STARLINK оказалась возможно получить доступ через уязвимость в механизме восстановления забытого пароля. Для получения доступа к автомобилю через панель администратора STARLINK достаточно знать телефонный номер, email, автомобильный номер или фамилию с ZIP-кодом владельца.
+https://www.opennet.ru/opennews/art.shtml?num=62627</description>
+    </item>
+    
+  </channel>
+</rss>

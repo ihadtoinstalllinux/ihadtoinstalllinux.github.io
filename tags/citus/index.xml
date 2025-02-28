@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Citus on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/citus/</link>
+    <description>Recent content in Citus on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 15:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/citus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована распределённая СУБД Citus 13.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-raspredelennaya-subd-citus-13-0-20250210-153511/</link>
+      <pubDate>Mon, 10 Feb 2025 15:35:11 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-raspredelennaya-subd-citus-13-0-20250210-153511/</guid>
+      <description>Компания Citus Data, принадлежащая Microsoft, опубликовала распределённую СУБД Citus 13.0, реализованную в форме расширения к PostgreSQL 17. Citus обеспечивает горизонтальное масштабирование PostgreSQL в кластере на базе типового оборудования и позволяет разносить данные по узлам при помощи шардинга (sharding) с настройкой разделения на уровне столбцов и схемы хранения. Для приложений кластер Citus выглядит как один большой сервер PostgreSQL, объединяющий ресурсы образующих его узлов. Код написан на языке Си и распространяется под лицензией AGPLv3.</description>
+    </item>
+    
+  </channel>
+</rss>

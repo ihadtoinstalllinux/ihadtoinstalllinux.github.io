@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Netfilter on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/netfilter/</link>
+    <description>Recent content in Netfilter on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 11:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/netfilter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в libnv во FreeBSD и уязвимости в Netfilter в Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</link>
+      <pubDate>Mon, 30 Sep 2024 11:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-libnv-vo-freebsd-i-uyazvimosti-v-netfilter-v-linux-20240930-113532/</guid>
+      <description>В выпущенном в начале сентября исправлении уязвимости в библиотеке libnv выявлена логическая ошибка, из-за которой уязвимость не устранялась должным образом и система оставалась подвержена атаке. Библиотека libnv развивается проектом FreeBSD и используется в ядре и в приложениях из базовой системы для обработки списков в формате ключ/значение и для организации передачи данных при межпроцессном взаимодействии. Библиотека основана на алгоритме nvlist, применяемом в проекте OpenZFS, но во FreeBSD создана собственная реализация, поэтому уязвимость не затрагивает OpenZFS.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в Netfilter и io_uring, позволяющие повысить свои привилегии в системе</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</link>
+      <pubDate>Tue, 09 May 2023 14:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-netfilter-i-io-uring-pozvolyayuschie-povysit-svoi-privilegii-v-sisteme-20230509-143505/</guid>
+      <description>В подсистемах ядра Linux Netfilter и io_uring выявлены уязвимости, позволяющие локальному пользователю повысить свои привилегии в системе.
+https://www.opennet.ru/opennews/art.shtml?num=59101</description>
+    </item>
+    
+  </channel>
+</rss>

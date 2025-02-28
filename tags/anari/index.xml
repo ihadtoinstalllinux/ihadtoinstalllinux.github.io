@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ANARI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/anari/</link>
+    <description>Recent content in ANARI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 11:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/anari/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен ANARI 1.0, открытый стандарт для движков 3D-рендеринга</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/predstavlen-anari-1-0-otkrytyy-standart-dlya-dvizhkov-3d-renderinga-20230804-113533/</link>
+      <pubDate>Fri, 04 Aug 2023 11:35:33 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/predstavlen-anari-1-0-otkrytyy-standart-dlya-dvizhkov-3d-renderinga-20230804-113533/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, опубликовал стандарт ANARI 1.0 (Analytic Rendering Interface), определяющий API для кросс-платформенных движков рендеринга и нацеленный на унификацию программных интерфейсов для визуализации данных. Реализации движков рендеринга с поддержкой стандарта ANARI уже подготовлены компаниями AMD (RadeonProRenderANARI), Intel (anari-ospray) и NVIDIA VisRTX). Также опубликованы: открытый SDK для разработки приложений, дополнение с поддержкой ANARI для пакета Blender и генератор сцен в формате USD. Поддержка ANARI интегрирована в открытые пакеты визуализации VMD, VTK/ParaView и VisIt.</description>
+    </item>
+    
+  </channel>
+</rss>

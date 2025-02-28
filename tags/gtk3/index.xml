@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTK3 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gtk3/</link>
+    <description>Recent content in GTK3 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2025 13:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликован музыкальный проигрыватель Aqualung 2.0, переведённый на GTK3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovan-muzykalnyy-proigryvatel-aqualung-2-0-perevedennyy-na-gtk3-20250225-133532/</link>
+      <pubDate>Tue, 25 Feb 2025 13:35:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovan-muzykalnyy-proigryvatel-aqualung-2-0-perevedennyy-na-gtk3-20250225-133532/</guid>
+      <description>Опубликован релиз музыкального проигрывателя Aqualung 2.0, предоставляющего интерфейс для воспроизведения звуковых CD, файлов локальной музыкальной коллекции, online-радиостанций и подкастов. Особенностью Aqualung является режим воспроизведения без пауз, позволяющий проигрывать музыкальные файлы неразрывным потоком, в котором одна композиция сменяет другую без приостановки. Код проекта написан на языке Си и распространяется под лицензией GPLv2. Поддерживается работа в Linux, FreeBSD, OpenBSD, Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=62793</description>
+    </item>
+    
+    <item>
+      <title>Завершено портирование GIMP на GTK3</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zaversheno-portirovanie-gimp-na-gtk3-20230420-123509/</link>
+      <pubDate>Thu, 20 Apr 2023 12:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zaversheno-portirovanie-gimp-na-gtk3-20230420-123509/</guid>
+      <description>Разработчики графического редактора GIMP объявили об успешном выполнении задач, связанных с переводом кодовой базы на использование библиотеки GTK3 вместо GTK2, а также задействованием новой CSS-подобной системы определения стилей, применяемой в GTK3. Все необходимые для сборки с GTK3 изменения включены в основную ветку GIMP. Переход на GTK3 также отмечен как выполненная работа в плане подготовки выпуска GIMP 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=59003</description>
+    </item>
+    
+  </channel>
+</rss>

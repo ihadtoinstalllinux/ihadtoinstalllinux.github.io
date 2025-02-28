@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sFlow on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sflow/</link>
+    <description>Recent content in sFlow on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 16:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Netflow/IPFIX/sFlow коллектора Xenoeye 25.02</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-netflow-ipfix-sflow-kollektora-xenoeye-25-02-20250220-163529/</link>
+      <pubDate>Thu, 20 Feb 2025 16:35:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-netflow-ipfix-sflow-kollektora-xenoeye-25-02-20250220-163529/</guid>
+      <description>Опубликован релиз Netflow/IPFIX/sFlow коллектора Xenoeye 25.02. Коллектор позволяет собирать с различных сетевых устройств статистику о потоках трафика, передаваемую с использованием протоколов Netflow v5, v9, IPFIX и sFlow, обрабатывать данные, генерировать отчёты и строить графики. Ядро проекта написано на языке С, код распространяется под лицензией ISC.
+https://www.opennet.ru/opennews/art.shtml?num=62757</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Static on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/static/</link>
+    <description>Recent content in Static on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2023 20:39:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление дистрибутива Static Linux, собранного в форме образа для UEFI </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-static-linux-sobrannogo-v-forme-obraza-dlya-uefi-20231105-203945/</link>
+      <pubDate>Sun, 05 Nov 2023 20:39:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/obnovlenie-distributiva-static-linux-sobrannogo-v-forme-obraza-dlya-uefi-20231105-203945/</guid>
+      <description>Опубликовано обновление дистрибутива Static Linux, основанного на пакетной базе Alpine Linux и предлагающего окружение на основе ядра Linux 6.1.60, стандартной библиотеки Musl и инструментария BusyBox. Графическое окружение основано на композитном сервере Labwc, использующем Wayland, файловом менеджере CoreFM, просмотрщике изображений CoreImage, текстовом редакторе CorePad, эмуляторе терминала CoreTerminal и видеопроигрывателе mpv. В состав также входят утилиты для восстановления данных (ddrescue, testdisk, photorec).
+https://www.opennet.ru/opennews/art.shtml?num=60053</description>
+    </item>
+    
+  </channel>
+</rss>

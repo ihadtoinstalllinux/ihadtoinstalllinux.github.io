@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bouncy on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bouncy/</link>
+    <description>Recent content in Bouncy on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bouncy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Реструктуризация проекта OpenSSL. Переход под крыло OpenSSL библиотек Bouncy Castle и Cryptlib</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/restrukturizaciya-proekta-openssl-perehod-pod-krylo-openssl-bibliotek-bouncy-castle-i-cryp-20240725-003526/</link>
+      <pubDate>Thu, 25 Jul 2024 00:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/restrukturizaciya-proekta-openssl-perehod-pod-krylo-openssl-bibliotek-bouncy-castle-i-cryp-20240725-003526/</guid>
+      <description>Разработчики криптографической библиотеки OpenSSL объявили о полном преобразовании структуры и методов управления проектом. Для поддержания миссии проекта созданы два равноправных подразделения - некоммерческая организация OpenSSL Foundation и коммерческая компания OpenSSL Corporation, сфокусированные на интересах некоммерческого сообщества и коммерческих предприятий. Оба подразделения функционируют полностью независимо и имеют раздельные процессы принятия решений.
+https://www.opennet.ru/opennews/art.shtml?num=61603</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>G610 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/g610/</link>
+    <description>Recent content in G610 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2024 21:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/g610/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В драйвере Panthor для GPU Mali G610 обеспечена совместимость с OpenGL ES 3.1</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</link>
+      <pubDate>Mon, 15 Jul 2024 21:35:54 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-drayvere-panthor-dlya-gpu-mali-g610-obespechena-sovmestimost-s-opengl-es-3-1-20240715-213554/</guid>
+      <description>Консорциум Khronos, занимающийся разработкой графических стандартов, признал полную совместимость открытого драйвера Panthor со спецификацией OpenGL ES 3.1. Драйвер успешно прошёл все тесты из набора CTS (Khronos Conformance Test Suite) и включён в список сертифицированных драйверов. Сертификация пройдена для GPU Mali G610. Проверка была выполнена на плате Rock5b (SoC RK3588) в окружении на базе Wayland, ядра Linux 6.10.0-rc1 и Mesa 24.1.1. Получение сертификата даёт возможность официально заявлять о совместимости с графическими стандартами и использовать связанные с ними торговые марки Khronos.</description>
+    </item>
+    
+  </channel>
+</rss>

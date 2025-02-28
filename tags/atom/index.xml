@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Atom on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/atom/</link>
+    <description>Recent content in Atom on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 16:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/atom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в процессорах Intel Atom, приводящая к утечке информации из регистров</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-atom-privodyaschaya-k-utechke-informacii-iz-registrov-20240314-163604/</link>
+      <pubDate>Thu, 14 Mar 2024 16:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-processorah-intel-atom-privodyaschaya-k-utechke-informacii-iz-registrov-20240314-163604/</guid>
+      <description>Компания Intel раскрыла сведения о микроархитектурной уязвимости (CVE-2023-28746) в процессорах Intel Atom (E-core), позволяющей определить данные, используемые процессом, до этого выполнявшемся на том же ядре CPU. Уязвимость, которая получила кодовое имя RFDS (Register File Data Sampling), вызвана возможностью определения остаточной информации из регистровых файлов (RF, Register File) процессора, которые используются для совместного хранения содержимого регистров во всех задачах на том же ядре CPU.
+https://www.opennet.ru/opennews/art.shtml?num=60787</description>
+    </item>
+    
+  </channel>
+</rss>

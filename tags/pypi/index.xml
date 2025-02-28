@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PyPI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pypi/</link>
+    <description>Recent content in PyPI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 01:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pypi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В каталоге PyPI реализована возможность перевода проектов в архив</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-kataloge-pypi-realizovana-vozmozhnost-perevoda-proektov-v-arhiv-20250131-013542/</link>
+      <pubDate>Fri, 31 Jan 2025 01:35:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-kataloge-pypi-realizovana-vozmozhnost-perevoda-proektov-v-arhiv-20250131-013542/</guid>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) объявили о возможности присвоения проектам архивного статуса, при котором запрещена публикация любых обновлений. На странице архивных проектов показывается предупреждение о том, что сопровождающий больше не будет публиковать новые релизы. Для пользователя подобная метка может быть сигналом, что не стоит использовать выбранный пакет, так как для него не будут устраняться уязвимости и исправляться ошибки.
+https://www.opennet.ru/opennews/art.shtml?num=62646</description>
+    </item>
+    
+    <item>
+      <title>Каталог PyPI внедрил новую систему проверки подлинности пакетов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/katalog-pypi-vnedril-novuyu-sistemu-proverki-podlinnosti-paketov-20241114-233515/</link>
+      <pubDate>Thu, 14 Nov 2024 23:35:15 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/katalog-pypi-vnedril-novuyu-sistemu-proverki-podlinnosti-paketov-20241114-233515/</guid>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) объявили о внедрении поддержки механизма цифровой аттестации для проверки подлинности опубликованных пакетов, которая пришла на смену верификации с использованием PGP-подписей. Ключевым отличием аттестации является то, что публикация пакета заверяется не разработчиком, а третьим лицом (каталогом пакетов) после подтверждения достоверности публикации через внешнего провайдера OpenID Connect (например, после проверки, что публикуемый пакет соотносится со связанным с ним репозиторием на GitHub или GitLab).
+https://www.opennet.ru/opennews/art.shtml?num=62234</description>
+    </item>
+    
+    <item>
+      <title>Атакующие получили доступ к 174 учётным записям в каталоге PyPI </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/atakuyuschie-poluchili-dostup-k-174-uchetnym-zapisyam-v-kataloge-pypi-20240403-223520/</link>
+      <pubDate>Wed, 03 Apr 2024 22:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/atakuyuschie-poluchili-dostup-k-174-uchetnym-zapisyam-v-kataloge-pypi-20240403-223520/</guid>
+      <description>Администраторы репозитория Python-пакетов PyPI (Python Package Index) опубликовали информацию о выявлении неавторизированного доступа к 174 учётным записям пользователей сервиса. По предположению представителей PyPI параметры аутентификации пострадавших пользователей были получены из коллекциях ранее скомпрометированных учётных данных, сформированных в результате взломов или утечек баз пользователей других сервисов. Доступ к учётным записям в PyPI удалось получить из-за использования жертвами атаки одинаковых паролей на разных сайтах и невключения двухфакторной аутентификации в каталоге PyPI.
+https://www.opennet.ru/opennews/art.shtml?num=60918</description>
+    </item>
+    
+    <item>
+      <title>PyPI приостановил регистрацию новых пользователей и проектов из-за всплеска вредоносных публикаций</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pypi-priostanovil-registraciyu-novyh-polzovateley-i-proektov-iz-za-vspleska-vredonosnyh-pu-20240329-153555/</link>
+      <pubDate>Fri, 29 Mar 2024 15:35:55 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pypi-priostanovil-registraciyu-novyh-polzovateley-i-proektov-iz-za-vspleska-vredonosnyh-pu-20240329-153555/</guid>
+      <description>Репозиторий Python-пакетов PyPI (Python Package Index) временно запретил регистрацию новых пользователей и создание новых проектов из-за непрекращающейся массовой загрузки вредоносных пакетов в ходе автоматизированной атаки. Блокировка была введена после того, как 26 и 27 марта в репозиторий было загружено 566 пакетов с вредоносным кодом, стилизованных под 16 популярных Python-библиотек.
+https://www.opennet.ru/opennews/art.shtml?num=60874</description>
+    </item>
+    
+    <item>
+      <title>Каталог PyPI перешёл на обязательную двухфакторную аутентификацию </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/katalog-pypi-pereshel-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-20240102-113517/</link>
+      <pubDate>Tue, 02 Jan 2024 11:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/katalog-pypi-pereshel-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-20240102-113517/</guid>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) объявили о внедрении обязательной двухфакторной аутентификации для всех пользователей. Без включения двухфакторной аутентификации пользователь теперь не сможет загружать файлы и выполнять действия, связанные с управлением своим проектом. Ранее двухфакторная аутентификация была принудительно включена для учётных записей пользователей, сопровождающих хотя бы один проект или входящих в курирующие пакеты организации.
+https://www.opennet.ru/opennews/art.shtml?num=60382</description>
+    </item>
+    
+    <item>
+      <title>Злоумышленник захватил контроль над 4 проектами в репозитории PyPI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/zloumyshlennik-zahvatil-kontrol-nad-4-proektami-v-repozitorii-pypi-20231205-113514/</link>
+      <pubDate>Tue, 05 Dec 2023 11:35:14 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/zloumyshlennik-zahvatil-kontrol-nad-4-proektami-v-repozitorii-pypi-20231205-113514/</guid>
+      <description>Администраторы репозитория Python-пакетов PyPI (Python Package Index) сообщили об инциденте, в результате которого злоумышленник смог захватить контроль над проектами arrapi, tmdbapis, nagerapi и pmmutils, насчитывающими около 4.5 тысяч загрузок в месяц. Все проекты сопровождались одним автором (meisnate12, Nathan Taggart) и были захвачены в результате компрометации его учётной записи. Злоумышленник, получивший контроль над проектами, был оперативно заблокирован и не успел внести изменения и сформировать модифицированные выпуски.
+https://www.opennet.ru/opennews/art.shtml?num=60235</description>
+    </item>
+    
+    <item>
+      <title>В репозитории PyPI выявлено около 5000 оставленных в коде секретов и  8 вредоносных обфускаторов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-pypi-vyyavleno-okolo-5000-ostavlennyh-v-kode-sekretov-i-8-vredonosnyh-obfusk-20231124-203551/</link>
+      <pubDate>Fri, 24 Nov 2023 20:35:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-repozitorii-pypi-vyyavleno-okolo-5000-ostavlennyh-v-kode-sekretov-i-8-vredonosnyh-obfusk-20231124-203551/</guid>
+      <description>Исследователи GitGuardian опубликовали результаты анализа конфиденциальных данных, забытых разработчиками в коде, размещённом в репозитории Python-пакетов PyPI (Python Package Index). После изучения более 9.5 млн файлов и 5 млн релизов пакетов, связанных с 450 тысячами проектов, было выявлено 56866 фактов утечки конфиденциальных данных. Если учитывать только уникальные данные, без дублирования в разных релизах, число выявленных утечек составило 3938, а число проектов, в которых присутствует хотя бы одна утечка - 2922.
+https://www.opennet.ru/opennews/art.shtml?num=60169</description>
+    </item>
+    
+    <item>
+      <title>PyPI переходит на обязательную двухфакторную аутентификацию </title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pypi-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-20230526-113506/</link>
+      <pubDate>Fri, 26 May 2023 11:35:06 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pypi-perehodit-na-obyazatelnuyu-dvuhfaktornuyu-autentifikaciyu-20230526-113506/</guid>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) объявили о решении перевести все учётные записи пользователей, сопровождающих хотя бы один проект или входящих в курирующие пакеты организации, на обязательное применение двухфакторной аутентификации. Перевод планируют завершить до конца 2023 года. До намеченного срока будет проведено поэтапное ограничение доступной функциональности для разработчиков, не включивших двухфакторную аутентификацию. Кроме того, для отдельных категорий пользователей требование включения двухфакторной аутентификации будет применено заранее.
+https://www.opennet.ru/opennews/art.shtml?num=59198</description>
+    </item>
+    
+    <item>
+      <title>PyPI пересмотрит политику в отношении персональных данных и прекратит поддержку PGP-подписей</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pypi-peresmotrit-politiku-v-otnoshenii-personalnyh-dannyh-i-prekratit-podderzhku-pgp-podpi-20230525-013508/</link>
+      <pubDate>Thu, 25 May 2023 01:35:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pypi-peresmotrit-politiku-v-otnoshenii-personalnyh-dannyh-i-prekratit-podderzhku-pgp-podpi-20230525-013508/</guid>
+      <description>Директор по инфраструктуре организации Python Software Foundation опубликовал отчёт о выполнении требований по раскрытию персональных данных пользователей репозитория PyPI (Python Package Index). В марте и апреле Министерство юстиции США направило в PyPI требования о раскрытии данных 5 пользователей, которые после консультаций с юристами были выполнены. Переданные данные включали имена, адресную информацию, списки загруженных пакетов и сведения о сеансах и IP-адресах.
+https://www.opennet.ru/opennews/art.shtml?num=59191</description>
+    </item>
+    
+    <item>
+      <title>PyPI из-за вредоносной активности приостановил регистрацию новых пользователей и проектов</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/pypi-iz-za-vredonosnoy-aktivnosti-priostanovil-registraciyu-novyh-polzovateley-i-proektov-20230521-103505/</link>
+      <pubDate>Sun, 21 May 2023 10:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/pypi-iz-za-vredonosnoy-aktivnosti-priostanovil-registraciyu-novyh-polzovateley-i-proektov-20230521-103505/</guid>
+      <description>Репозиторий Python-пакетов PyPI (Python Package Index) временно прекратил регистрацию новых пользователей и проектов. В качестве причины указан всплеск активности злоумышленников, наладивших публикацию пакетов с вредоносным кодом. Отмечается, что с учётом нахождения в отпуске нескольких администраторов, на прошлой неделе объём зарегистрированных вредоносных проектов превысил возможности оставшейся команды PyPI по оперативному реагированию. Разработчики планируют за выходные перестроить некоторые процессы проверки, после чего возобновить возможность регистрации в репозитории.
+https://www.opennet.ru/opennews/art.shtml?num=59168</description>
+    </item>
+    
+    <item>
+      <title>В PyPI реализована возможность публикации пакетов без привязки к паролям и токенам API</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-pypi-realizovana-vozmozhnost-publikacii-paketov-bez-privyazki-k-parolyam-i-tokenam-api-20230423-143509/</link>
+      <pubDate>Sun, 23 Apr 2023 14:35:09 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-pypi-realizovana-vozmozhnost-publikacii-paketov-bez-privyazki-k-parolyam-i-tokenam-api-20230423-143509/</guid>
+      <description>В репозитории Python-пакетов PyPI (Python Package Index) предоставлена возможность использования нового защищённого метода публикации пакетов, позволяющего обойтись без сохранения на внешних системах (например, в GitHub Actions) фиксированных паролей и токенов доступа к API. Новый метод аутентификации получил название &amp;lsquo;Trusted Publishers&amp;rsquo; и призван решить проблему с публикацией вредоносных обновлений, осуществляемых в результате компрометации внешних систем и попадания в руки злоумышленников предопределённых паролей или токенов.
+https://www.opennet.ru/opennews/art.shtml?num=59019</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenH264 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openh264/</link>
+    <description>Recent content in OpenH264 on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 20:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openh264/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в OpenH264, позволяющая выполнить код при декодировании видео</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openh264-pozvolyayuschaya-vypolnit-kod-pri-dekodirovanii-video-20250222-203531/</link>
+      <pubDate>Sat, 22 Feb 2025 20:35:31 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-openh264-pozvolyayuschaya-vypolnit-kod-pri-dekodirovanii-video-20250222-203531/</guid>
+      <description>В проекте OpenH264, развивающем открытую реализацию видеокодека H.264, выявлена уязвимость (CVE-2025-27091), потенциально способная привести к выполнению кода при декодировании специально оформленного видео. Проблема проявляется в режимах SVC (Scalable Video Coding) и AVC (Advanced Video Coding), и вызвана состоянием гонки, приводящем к записи данных за пределы выделенного буфера. Уязвимость устранена в выпуске OpenH264 2.6.0. Проследить за появлением обновлений в дистрибутивах можно на следующих страницах: Debian, Ubuntu, RHEL, SUSE/openSUSE, Fedora, Arch, FreeBSD.</description>
+    </item>
+    
+  </channel>
+</rss>

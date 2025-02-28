@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DocumentDB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/documentdb/</link>
+    <description>Recent content in DocumentDB on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 14:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/documentdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft открыл код СУБД DocumentDB, основанной на PostgreSQL</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-subd-documentdb-osnovannoy-na-postgresql-20250127-143604/</link>
+      <pubDate>Mon, 27 Jan 2025 14:36:04 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/microsoft-otkryl-kod-subd-documentdb-osnovannoy-na-postgresql-20250127-143604/</guid>
+      <description>Компания Microsoft объявила об открытии кода проекта DocumentDB, который может использоваться как отдельная NoSQL СУБД, как платформа для создания собственных систем хранения или как дополнение для хранения данных в формате BSON в СУБД PostgreSQL. На практике DocumentDB применяется в Microsoft в качестве основы продукта &amp;ldquo;Azure Cosmos DB for MongoDB&amp;rdquo;, предоставляющего интерфейс, совместимый с документо-ориентированной СУБД MongoDB. Код проекта написан на языке Си и распространяется под лицензией MIT. Движок DocumentDB реализован в форме надстройки над СУБД PostgreSQL.</description>
+    </item>
+    
+  </channel>
+</rss>

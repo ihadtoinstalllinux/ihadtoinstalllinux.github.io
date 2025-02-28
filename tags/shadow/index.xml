@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shadow on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/shadow/</link>
+    <description>Recent content in Shadow on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2024 14:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/shadow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атака Port Shadow, позволяющая перенаправлять соединения других пользователей VPN и Wi-Fi</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/ataka-port-shadow-pozvolyayuschaya-perenapravlyat-soedineniya-drugih-polzovateley-vpn-i-wi-20240718-143543/</link>
+      <pubDate>Thu, 18 Jul 2024 14:35:43 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/ataka-port-shadow-pozvolyayuschaya-perenapravlyat-soedineniya-drugih-polzovateley-vpn-i-wi-20240718-143543/</guid>
+      <description>Группа исследователей из канадских и американских университетов разработала технику атаки Port Shadow, позволяющую через манипуляцию с таблицами трансляции адресов на стороне VPN-сервера добиться отправки ответа на запрос другому пользователю, подключённому к тому же VPN-серверу. Метод может быть использован для организации перехвата или перенаправления шифрованного трафика, проведения сканирования портов и деанонимизации пользователей VPN. В качестве примера показано как можно использовать метод для перенаправления на хост атакующего DNS-запросов пользователя, работающего через VPN-сервер, к которому в качестве клиента имеет возможность подключиться атакующий.</description>
+    </item>
+    
+  </channel>
+</rss>

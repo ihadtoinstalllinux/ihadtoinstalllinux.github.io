@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ip/</link>
+    <description>Recent content in IP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 16:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>На соревнованиях Pwn2Own продемонстрированы взломы NAS, принтеров, умных колонок и IP-камер</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/na-sorevnovaniyah-pwn2own-prodemonstrirovany-vzlomy-nas-printerov-umnyh-kolonok-i-ip-kamer-20241025-163525/</link>
+      <pubDate>Fri, 25 Oct 2024 16:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/na-sorevnovaniyah-pwn2own-prodemonstrirovany-vzlomy-nas-printerov-umnyh-kolonok-i-ip-kamer-20241025-163525/</guid>
+      <description>Подведены итоги четырёх дней соревнований Pwn2Own Ireland 2024, на которых были продемонстрированы 38 успешных атак с использованием ранее неизвестных уязвимостей (0-day) в мобильных устройствах, принтерах, умных колонках, системах хранения и IP-камерах. При проведении атак использовались самые свежие прошивки и операционные системы со всеми доступными обновлениями и в конфигурации по умолчанию. Суммарный размер выплаченных вознаграждений составил 993,625 долларов США.
+https://www.opennet.ru/opennews/art.shtml?num=62110</description>
+    </item>
+    
+    <item>
+      <title>Уязвимость в web-браузерах, позволяющая атаковать локальные сервисы через IP 0.0.0.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-brauzerah-pozvolyayuschaya-atakovat-lokalnye-servisy-cherez-ip-0-0-0-0-20240813-163513/</link>
+      <pubDate>Tue, 13 Aug 2024 16:35:13 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-web-brauzerah-pozvolyayuschaya-atakovat-lokalnye-servisy-cherez-ip-0-0-0-0-20240813-163513/</guid>
+      <description>Компания Oligo Security опубликовала информацию об уязвимости, затрагивающей Chrome, Firefox и Safari, и позволяющей обойти ограничение доступа к сетевым службам, доступным только на локальной системе, через обращение по IP-адресу 0.0.0.0. Первые предупреждения об уязвимости были опубликованы ещё 18 лет назад, но до сих пор проблема так и не была исправлена.
+https://www.opennet.ru/opennews/art.shtml?num=61696</description>
+    </item>
+    
+    <item>
+      <title>Раздутый отчёт об уязвимости вынудил разработчика node-ip перевести репозиторий в архивный режим</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</link>
+      <pubDate>Mon, 01 Jul 2024 12:35:26 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/razdutyy-otchet-ob-uyazvimosti-vynudil-razrabotchika-node-ip-perevesti-repozitoriy-v-arhiv-20240701-123526/</guid>
+      <description>Фёдор Индутный (Fedor Indutny), автор платформы Io.js (форк Node.js), входящий в технический комитет, управляющий разработкой Node.js, попытался привлечь внимание к проблеме с назначением CVE-идентификаторов некорректным отчётам об уязвимостям, не соответствующим действительности или неадекватно представляющим уровень опасности. Номер CVE, применяемый для идентификации уязвимости, присваивается без должной проверки и без консультации с разработчиками уязвимых программ, что приводит к появлению злоупотреблений, в которых под видом опасных уязвимостей преподносятся несущественные ошибки, на деле не представляющие угрозу безопасности.</description>
+    </item>
+    
+    <item>
+      <title>Уязвимости в сетевых устройствах Juniper и IP-камерах D-Link</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-setevyh-ustroystvah-juniper-i-ip-kamerah-d-link-20240115-143801/</link>
+      <pubDate>Mon, 15 Jan 2024 14:38:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/uyazvimosti-v-setevyh-ustroystvah-juniper-i-ip-kamerah-d-link-20240115-143801/</guid>
+      <description>В коммутаторах и межсетевых экранах Juniper серий EX и SRX, оснащённых операционной системой JunOS, выявлена критическая уязвимость (CVE-2024-21591), позволяющая удалённо вызвать переполнение буфера в доступном без прохождения аутентификации обработчике web-интерфейса J-Web и добиться выполнения своего кода с правами root на устройстве.
+https://www.opennet.ru/opennews/art.shtml?num=60438</description>
+    </item>
+    
+    <item>
+      <title>Изменение IP-адреса корневого DNS-сервера B</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/izmenenie-ip-adresa-kornevogo-dns-servera-b-20231129-193545/</link>
+      <pubDate>Wed, 29 Nov 2023 19:35:45 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/izmenenie-ip-adresa-kornevogo-dns-servera-b-20231129-193545/</guid>
+      <description>27 ноября 2023 года состоялось плановое изменение IPv4 и IPv6 адресов одного из 13-ти корневых серверов DNS.
+https://www.opennet.ru/opennews/art.shtml?num=60191</description>
+    </item>
+    
+    <item>
+      <title>В Chrome планируют реализовать режим скрытия IP-адреса пользователя</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/v-chrome-planiruyut-realizovat-rezhim-skrytiya-ip-adresa-polzovatelya-20231023-123520/</link>
+      <pubDate>Mon, 23 Oct 2023 12:35:20 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/v-chrome-planiruyut-realizovat-rezhim-skrytiya-ip-adresa-polzovatelya-20231023-123520/</guid>
+      <description>Компания Google приступила к реализации в браузере Chrome функции IP Protection, предназначенной для скрытия IP-адреса пользователя от владельцев сайтов. Новая возможность может использоваться в качестве встроенного анонимайзера, нацеленного прежде всего на предотвращение отслеживания перемещений, но, среди прочего, пригодного и для обхода блокировок, реализованных как на стороне сайтов, так и на уровне операторов связи.
+https://www.opennet.ru/opennews/art.shtml?num=59976</description>
+    </item>
+    
+    <item>
+      <title>Проект GNU GMP заблокировал доступ с IP-адресов Microsoft из-за DoS-аттаки</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</link>
+      <pubDate>Sat, 17 Jun 2023 23:35:05 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/proekt-gnu-gmp-zablokiroval-dostup-s-ip-adresov-microsoft-iz-za-dos-attaki-20230617-233505/</guid>
+      <description>Torbjörn Granlund, создатель математической библиотеки GNU GMP (GNU Multiple Precision Arithmetic Library) предупредил пользователей о блокировке доступа к серверам, обслуживающим репозиторий проекта, для всего диапазона IP-адресов компании Microsoft.
+https://www.opennet.ru/opennews/art.shtml?num=59310</description>
+    </item>
+    
+  </channel>
+</rss>
