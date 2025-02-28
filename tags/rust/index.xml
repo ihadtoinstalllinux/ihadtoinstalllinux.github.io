@@ -6,7 +6,16 @@
     <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2025 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 00:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована командная оболочка fish 4.0, переписанная на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-komandnaya-obolochka-fish-4-0-perepisannaya-na-yazyke-rust-20250301-003525/</link>
+      <pubDate>Sat, 01 Mar 2025 00:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-komandnaya-obolochka-fish-4-0-perepisannaya-na-yazyke-rust-20250301-003525/</guid>
+      <description>Состоялся релиз интерактивной командной оболочки fish 4.0.0 (friendly interactive shell), нацеленной на создание более дружественной пользователю альтернативы bash и zsh. Fish поддерживает такие возможности как подсветка синтаксиса с автоматическим выявлением ошибок ввода, предложение возможных вариантов ввода на основе истории прошлых операций, автодополнение ввода опций и команд с использованием их описания в man-руководствах, комфортная работа из коробки без необходимости дополнительной настройки, упрощённый язык написания сценариев, поддержка буфера обмена, средства поиска в истории выполненных операций.</description>
+    </item>
+    
     <item>
       <title>Кристоф Хелвиг ушёл с поста мэйнтейнера DMA Mapping и ConfigFS после форсирования Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/kristof-helvig-ushel-s-posta-meynteynera-dma-mapping-i-configfs-posle-forsirovaniya-rust-20250226-113556/</link>

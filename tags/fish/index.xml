@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>fish on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fish/</link>
+    <description>Recent content in fish on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2025 00:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Опубликована командная оболочка fish 4.0, переписанная на языке Rust</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/opublikovana-komandnaya-obolochka-fish-4-0-perepisannaya-na-yazyke-rust-20250301-003525/</link>
+      <pubDate>Sat, 01 Mar 2025 00:35:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/opublikovana-komandnaya-obolochka-fish-4-0-perepisannaya-na-yazyke-rust-20250301-003525/</guid>
+      <description>Состоялся релиз интерактивной командной оболочки fish 4.0.0 (friendly interactive shell), нацеленной на создание более дружественной пользователю альтернативы bash и zsh. Fish поддерживает такие возможности как подсветка синтаксиса с автоматическим выявлением ошибок ввода, предложение возможных вариантов ввода на основе истории прошлых операций, автодополнение ввода опций и команд с использованием их описания в man-руководствах, комфортная работа из коробки без необходимости дополнительной настройки, упрощённый язык написания сценариев, поддержка буфера обмена, средства поиска в истории выполненных операций.</description>
+    </item>
+    
+  </channel>
+</rss>
