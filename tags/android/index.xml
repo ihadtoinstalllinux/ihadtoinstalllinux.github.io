@@ -6,7 +6,17 @@
     <description>Recent content in Android on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2025 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 13:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск Winlator 10.0, окружения для запуска Windows-приложений в Android</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-10-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20250301-133548/</link>
+      <pubDate>Sat, 01 Mar 2025 13:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/vypusk-winlator-10-0-okruzheniya-dlya-zapuska-windows-prilozheniy-v-android-20250301-133548/</guid>
+      <description>Опубликован выпуск Android-приложения Winlator 10.0, предоставляющего обвязку над Wine и эмуляторами Box86 и Box64 для выполнения Windows-приложений на платформе Android. Winlator создаёт Linux-окружение на базе Ubuntu с Mesa, DXVK, Vkd3d и CNC DDraw, в котором при помощи эмулятора и Wine на ARM-устройствах с Android выполняются Windows-приложения, собранные для архитектуры x86. Код проекта распространяется под лицензией MIT. Размер APK-пакета 149 МБ.
+https://www.opennet.ru/opennews/art.shtml?num=62814</description>
+    </item>
+    
     <item>
       <title>Google развивает в Android 16 возможность запуска графических Linux-приложений </title>
       <link>https://ihadtoinstalllinux.github.io/posts/google-razvivaet-v-android-16-vozmozhnost-zapuska-graficheskih-linux-prilozheniy-20250201-133542/</link>
