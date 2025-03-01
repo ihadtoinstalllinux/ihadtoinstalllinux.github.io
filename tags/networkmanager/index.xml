@@ -6,7 +6,17 @@
     <description>Recent content in NetworkManager on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2024 13:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/networkmanager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 14:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/networkmanager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Релиз сетевого конфигуратора NetworkManager 1.52.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/reliz-setevogo-konfiguratora-networkmanager-1-52-0-20250301-143517/</link>
+      <pubDate>Sat, 01 Mar 2025 14:35:17 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/reliz-setevogo-konfiguratora-networkmanager-1-52-0-20250301-143517/</guid>
+      <description>Опубликован стабильный релиз интерфейса для упрощения настройки параметров сети - NetworkManager 1.52.0. Плагины для поддержки VPN (Libreswan, OpenConnect, Openswan, SSTP и др.) развиваются в рамках собственных циклов разработки.
+https://www.opennet.ru/opennews/art.shtml?num=62815</description>
+    </item>
+    
     <item>
       <title>Уязвимость в NetworkManager-libreswan и guix-daemon, позволяющие повысить привилегии в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/uyazvimost-v-networkmanager-libreswan-i-guix-daemon-pozvolyayuschie-povysit-privilegii-v-s-20241025-133541/</link>
