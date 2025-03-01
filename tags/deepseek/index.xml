@@ -6,7 +6,16 @@
     <description>Recent content in DeepSeek on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2025 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открыт код распределённой файловой системы 3FS, используемой в DeepSeek</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-raspredelennoy-faylovoy-sistemy-3fs-ispolzuemoy-v-deepseek-20250301-163544/</link>
+      <pubDate>Sat, 01 Mar 2025 16:35:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/otkryt-kod-raspredelennoy-faylovoy-sistemy-3fs-ispolzuemoy-v-deepseek-20250301-163544/</guid>
+      <description>Опубликован исходный код распределённой файловой системы 3FS (Fire-Flyer File System), разработанной для использования в инфраструктурах тренировки и выполнения крупных моделей машинного обучения. ФС входит в состав AI-платформы Fire-Flyer и используется китайской компанией DeepSeek, развивающей языковые модели, охватывающие более 600 миллиардов параметров. Целью создания 3FS называется предоставление совместного хранилища для упрощения разработки распределённых приложений. Работа ФС оптимизирована для использования в сетях RDNA и хранения информации на SSD-накопителях. Код 3FS написан на языке С++ (ChunkEngine на Rust) и открыт под лицензией MIT.</description>
+    </item>
+    
     <item>
       <title>Утечка конфиденциальной информации DeepSeek из-за неограниченного доступа к БД с логами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/utechka-konfidencialnoy-informacii-deepseek-iz-za-neogranichennogo-dostupa-k-bd-s-logami-20250130-163544/</link>
