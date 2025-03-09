@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Mar 2025 17:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 23:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Wine опубликовал фреймворк Mono 6.14.0</title>
+      <title>В чипах ESP32 выявлены недокументированные команды для управления контроллером Bluetooth</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 09 Mar 2025 17:35:35 +0500</pubDate>
+      <pubDate>Sun, 09 Mar 2025 23:35:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики проекта Wine, развивающего открытую реализацию API Win32, представили выпуск фреймворка Mono 6.14.0, предлагающего альтернативный открытый Runtime, совместимый с платформой .NET. Выпуск Mono Framework 6.14.0 вобрал в себя изменения, накопившиеся за 5 лет, и отмечен как первый выпуск, подготовленный после того, как компания Microsoft передала разработку Mono сообществу Wine. Код Mono Framework распространяется под лицензией Apache 2.0. В выпуске обеспечена поддержка Linux (x86, amd64, arm64), macOS (amd64, arm64) и Windows (x86, amd64).</description>
+      <description>Исследователи из компании Tarlogic Security представили на проходящей в Испании конференции RootedCON результаты анализа низкоуровневой начинки микрочипов ESP32, оснащённых встроенными контроллерами Wi-Fi и Bluetooth. Судя по опубликованному в 2023 году отчёту китайской компании Espressif по всему миру продано более миллиарда экземпляров ESP32. В ходе анализа загружаемых в чип прошивок исследователи выявили 29 недокументированных HCI-команд (Host Controller Interface), предназначенных для управления Bluetooth-контроллером.
+https://www.opennet.ru/opennews/art.shtml?num=62852</description>
     </item>
     
     <item>
