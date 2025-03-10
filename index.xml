@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Mar 2025 18:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 19:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск компилятора языка D 2.110</title>
+      <title>Для ядра Linux 6.15 предложен начальный код драйвера Nova, написанный на Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 10 Mar 2025 18:35:38 +0500</pubDate>
+      <pubDate>Mon, 10 Mar 2025 19:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз DMD 2.110, эталонного компилятора для языка D. Код компилятора распространяется под свободной лицензией BSL (Boost Software License). Поддерживаются системы Linux, Windows, macOS и FreeBSD.
-https://www.opennet.ru/opennews/art.shtml?num=62854</description>
+      <description>Для включения в состав ядра Linux 6.15, релиз которого ожидается в конце мая, предложен набор патчей с начальной реализацией драйвера Nova для GPU NVIDIA, написанного на языке Rust. На первом этапе в ядро передан каркас nova-core, насчитывающий около 400 строк кода и реализующий базовый уровень абстракций над программными интерфейсами прошивок GSP. Помимо nova-core в состав патча включены некоторые обвязки, необходимые для работы драйверов с прошивками.
+https://www.opennet.ru/opennews/art.shtml?num=62855</description>
     </item>
     
     <item>
