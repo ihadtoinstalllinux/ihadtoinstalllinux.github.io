@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Python on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/python/</link>
+    <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Mar 2025 22:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 22:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подмена зависимости в Python-библиотеке, насчитывающей 40 млн загрузок в месяц</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>В библиотеке Python JSON Logger выявлена уязвимость (CVE-2025-27607) дающая возможность подменить зависимость при установке через каталог PyPI и добиться выполнения своего кода на системах, использующих данный пакет. Библиотека Python JSON Logger, которая позволяет организовать ведение лога в формате JSON, за последний месяц была загружена 40 млн раз. Проблема устранена в версии Python JSON Logger 3.3.0, опубликованной 7 марта.
 https://www.opennet.ru/opennews/art.shtml?num=62856</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
