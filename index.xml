@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 14:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 17:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В KDE реализован график для оценки скорости копирования файлов</title>
+      <title>Компрометация GitHub Actions-обработчика changed-files, применяемого в 23 тысячах репозиториях</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 15 Mar 2025 14:35:49 +0500</pubDate>
+      <pubDate>Sat, 15 Mar 2025 17:35:14 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Среди изменений, добавленных в ветку, на основе которых формируется релиз KDE Plasma 6.4.0.
-https://www.opennet.ru/opennews/art.shtml?num=62890</description>
+      <description>Выявлена подстановка вредоносного изменения в репозиторий проекта changed-files, развивающего обработчик к системе GitHub Actions, позволяющей автоматически запускать сценарии сборки и тестирования кодовых баз при срабатывании определённых событий, таких как поступление push-запроса, создание релизов, открытие/закрытие issue и открытие/закрытие pull-запросов. Обработчик changed-files использовался в 23 тысячах репозиториях, применяющих GitHub Actions в инфраструктуре непрерывной интеграции, для отслеживания изменения файлов и каталогов.
+https://www.opennet.ru/opennews/art.shtml?num=62892</description>
     </item>
     
     <item>
