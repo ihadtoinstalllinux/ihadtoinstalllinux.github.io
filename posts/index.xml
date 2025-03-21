@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 23:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 00:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Для плат Raspberry Pi опубликован генератор системных образов rpi-image-gen</title>
+      <title>Google развивает систему перезагрузки ядра без остановки работы устройств</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Mar 2025 23:35:54 +0500</pubDate>
+      <pubDate>Sat, 22 Mar 2025 00:35:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики проекта Raspberry Pi представили инструментарий rpi-image-gen, предназначенный для упрощения генерации собственных системных образов для плат Raspberry Pi. Из достоинств инструментария упоминаются: быстрая сборка за счёт задействования готовых бинарных пакетов; применение идентичных с Raspberry Pi OS версий библиотек и приложений; возможность настройки произвольной раскладки разделов и использования шифрования ФС; поддержка генерации списка задействованных пакетов и проверки отсутствия уязвимых версий программ. Код написан на Shell и распространяется под лицензией BSD.
-https://www.opennet.ru/opennews/art.shtml?num=62927</description>
+      <description>Инженеры из компании Google опубликовали для обсуждения разработчиками ядра Linux набор патчей с реализацией подсистемы Live Update Orchestrator (LUO), предназначенной для обновления ядра в Live-режиме. В отличие от таких механизмов, как livepatch, Ksplice, kpatch и kGraft, новая система не ограничивается возможностью применения отдельных исправлений к работающему ядру Linux, а позволяет полноценно перезагрузить и обновить ядро без остановки работы отдельных устройств. Проект базируется на наборе патчей KHO (Kexec HandOver) к механизму kexec, применяемому для загрузки нового ядра из уже запущенного ядра Linux без физической перезагрузки.</description>
     </item>
     
     <item>
