@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 19:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 20:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Для ОС Haiku началось портирование драйвера NVIDIA и опубликован порт GIMP 3.0</title>
+      <title>В GCC-фронтэнде с компилятором Rust реализован Borrow checker</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Mar 2025 19:35:21 +0500</pubDate>
+      <pubDate>Fri, 21 Mar 2025 20:35:43 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Илья Чугин (X512) сообщил о первых результатах портирования драйвера NVIDIA для операционной системы Haiku. Порт пока находится на начальной стадии развития, но уже пригоден для простой отрисовки. В работе задействованы открытый модуль ядра от компании NVIDIA и Vulkan-драйвер NVK из состава Mesa. В Mesa-драйвер NVK добавлена поддержка работающего на уровне ядра драйвера NVIDIA вместо DRM-драйвера Nouveau. Libdrm и связанные c данной библиотекой компоненты в порте не используются.
-https://www.opennet.ru/opennews/art.shtml?num=62926</description>
+      <description>Для включения в состав ветки GCC 15 предложена серия патчей с улучшением поддержки языка Rust во фронтэнде gccrs. Наиболее заметным изменением стала поддержка проверки заимствования переменных (borrow checker), реализованная на основе компонента Polonius, разрабатываемого основной командой разработчиков Rust в качестве следующего поколения Borrow checker.
+https://www.opennet.ru/opennews/art.shtml?num=62924</description>
     </item>
     
     <item>
