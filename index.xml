@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 22:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 23:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована децентрализованная видеовещательная платформа PeerTube 7.1</title>
+      <title>Для плат Raspberry Pi опубликован генератор системных образов rpi-image-gen</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Mar 2025 22:35:52 +0500</pubDate>
+      <pubDate>Fri, 21 Mar 2025 23:35:54 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск платформы PeerTube 7.1, предназначенной для создания независимых децентрализованных систем видеохостинга и видеовещания, альтернативных таким сервисам, как YouTube, Dailymotion и Vimeo. Создаваемая при помощи PeerTube сеть распространения контента основывается на связывании браузеров посетителей между собой и использовании P2P-коммуникаций. Код проекта распространяется под лицензией AGPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=62923</description>
+      <description>Разработчики проекта Raspberry Pi представили инструментарий rpi-image-gen, предназначенный для упрощения генерации собственных системных образов для плат Raspberry Pi. Из достоинств инструментария упоминаются: быстрая сборка за счёт задействования готовых бинарных пакетов; применение идентичных с Raspberry Pi OS версий библиотек и приложений; возможность настройки произвольной раскладки разделов и использования шифрования ФС; поддержка генерации списка задействованных пакетов и проверки отсутствия уязвимых версий программ. Код написан на Shell и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=62927</description>
     </item>
     
     <item>
