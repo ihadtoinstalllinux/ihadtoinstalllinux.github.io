@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 13:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Mar 2025 01:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск операционной системы ReactOS 0.4.15</title>
+      <title>Уязвимости в Pagure и OBS, допускавшие компрометацию пакетов в репозиториях Fedora и openSUSE</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 22 Mar 2025 13:35:56 +0500</pubDate>
+      <pubDate>Sun, 23 Mar 2025 01:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После более трёх лет разработки представлен релиз операционной системы ReactOS 0.4.15, нацеленной на обеспечение совместимости с программами и драйверами Microsoft Windows. Для загрузки подготовлены установочный ISO-образ (117 МБ) и Live-сборка (в zip-архиве 85 МБ). Код проекта распространяется под лицензиями GPLv2 и LGPLv2.
-https://www.opennet.ru/opennews/art.shtml?num=62931</description>
+      <description>Исследователи безопасности из компании Fenrisk раскрыли информацию об уязвимостях в инструментариях Pagure и OBS (Open Build Service), позволявших скомпрометировать инфраструктуры формирования пакетов дистрибутивов Fedora и openSUSE. Исследователи продемонстрировали возможность совершения атаки для выполнения произвольного кода на серверах с Pagure и OBS, что можно было использовать для подстановки изменений в пакеты в репозиториях Fedora и openSUSE.
+https://www.opennet.ru/opennews/art.shtml?num=62928</description>
     </item>
     
     <item>
