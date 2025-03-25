@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2025 10:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 11:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WindowsDefender блокирует свободный драйвер WinRing0, используемый в официальном OEM-ПО</title>
+      <title>Доступен полностью свободный вариант ядра Linux-libre 6.14</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 25 Mar 2025 10:35:33 +0500</pubDate>
+      <pubDate>Tue, 25 Mar 2025 11:35:42 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Начиная с 11 марта встроенный в ОС Windows антивирусный пакет WindowsDefender начал блокировать (помещать в карантин) свободный драйвер WinRing0. Драйвер используется для получения доступа из пространства пользователя к различному оборудованию, для которого не предусмотрено другого API в системе.
-https://www.opennet.ru/opennews/art.shtml?num=62942</description>
+      <description>Латиноамериканский Фонд свободного ПО опубликовал полностью свободный вариант ядра Linux 6.14 - Linux-libre 6.14-gnu, очищенный от элементов прошивок и драйверов, содержащих несвободные компоненты или участки кода, область применения которых ограничена производителем. В Linux-libre также отключены функции ядра для загрузки внешних несвободных компонентов, не входящих в поставку ядра, а из документации удалены упоминания об использовании несвободных компонентов.
+https://www.opennet.ru/opennews/art.shtml?num=62943</description>
     </item>
     
     <item>
