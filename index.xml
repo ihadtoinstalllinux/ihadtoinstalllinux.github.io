@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2025 12:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Корректирующее обновление графического редактора GIMP 3.0.2 </title>
+      <title>Разработчики GRUB2 рассматривают возможность использования языка Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 25 Mar 2025 12:35:58 +0500</pubDate>
+      <pubDate>Tue, 25 Mar 2025 13:35:28 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск графического редактора GIMP 3.0.2, в котором по горячим следам устранены некоторые проблемы, выявленные после публикации на прошлой неделе первого релиза ветки GIMP 3.0. Среди прочего устранены конфликты с некоторыми системными темами оформления, приводящие к некорректному отображению интерфейса. Разработчики также откатили патч с улучшенной поддержкой графических планшетов, так как при его использовании всплыли проблемы с учётом давления при нажатии на некоторых старых устройствах. Готовые сборки опубликованы для Linux (AppImage и Flatpak для архитектур x86 и ARM64), macOS и Windows.</description>
+      <description>Владимир Сербиненко, один из трёх мэйнтейнеров загрузчика GRUB2, внёсший в кодовую базу более пяти тысяч изменений, выставил на обсуждение возможность написания модулей для GRUB2 c использованием языка Rust. Владимир представил первые результаты экспериментов с добавлением поддержки Rust в GRUB2 и созданием необходимых обвязок. Для GRUB также подготовлены изменения, позволяющие использовать разделяемые библиотеки (&amp;quot;.so&amp;quot;, ET_DYN) для модулей, вместо связывания на уровне объектных файлов (&amp;quot;.o&amp;quot;, ET_REL).
+https://www.opennet.ru/opennews/art.shtml?num=62945</description>
     </item>
     
     <item>
