@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2025 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 16:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработчики GRUB2 рассматривают возможность использования языка Rust</title>
+      <title>Уязвимости в ingress-nginx, позволяющие выполнить код и захватить управление кластерами Kubernetes</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 25 Mar 2025 13:35:28 +0500</pubDate>
+      <pubDate>Tue, 25 Mar 2025 16:35:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Владимир Сербиненко, один из трёх мэйнтейнеров загрузчика GRUB2, внёсший в кодовую базу более пяти тысяч изменений, выставил на обсуждение возможность написания модулей для GRUB2 c использованием языка Rust. Владимир представил первые результаты экспериментов с добавлением поддержки Rust в GRUB2 и созданием необходимых обвязок. Для GRUB также подготовлены изменения, позволяющие использовать разделяемые библиотеки (&amp;quot;.so&amp;quot;, ET_DYN) для модулей, вместо связывания на уровне объектных файлов (&amp;quot;.o&amp;quot;, ET_REL).
-https://www.opennet.ru/opennews/art.shtml?num=62945</description>
+      <description>В развиваемом проектом Kubernetes ingress-контроллере ingress-nginx выявлены четыре уязвимости, позволяющие добиться выполнения своего кода на серверах облачных систем, использующих платформу Kubernete, и получить полный привилегированный доступ к кластеру Kubernete. Проблемам присвоен критический уровень опасности (9.8 из 10). Выявившие проблемы исследователи присвоили уязвимостям кодовое имя IngressNightmare и отметили, что уязвимости затрагивают около 43% облачных окружений. Уязвимости устранены в версиях ingress-nginx 1.11.5 и 1.12.1.
+https://www.opennet.ru/opennews/art.shtml?num=62946</description>
     </item>
     
     <item>
