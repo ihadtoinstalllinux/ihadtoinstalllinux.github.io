@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 17:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 19:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компания Cloudflare опубликовала opkssh для аутентификации в SSH через OpenID Connect</title>
+      <title>Для KDE разрабатывают новый менеджер входа для замены SDDM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 26 Mar 2025 17:35:40 +0500</pubDate>
+      <pubDate>Wed, 26 Mar 2025 19:36:03 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Cloudflare представила инструментарий opkssh (OpenPubkey SSH), позволяющий интегрировать в OpenSSH средства централизованной аутентификации с возможностью входа через провайдеров OpenID Connect. При помощи opkssh можно избавиться от ручной работы по управлению и настройке SSH-ключей, а также организовать подключение к серверу с любых хостов, без необходимости создания закрытых ключей на каждом клиентском компьютере и без ручного копирования открытых ключей на сервер. Для подключения достаточно выполнить на сервере привязку к учётной записи у провайдера OpenID.</description>
+      <description>Дэвид Эдмундсон (David Edmundson) и Оливер Бирд (Oliver Beard) представили в списке рассылки разработчиков KDE проект по созданию нового дисплейного менеджера - Plasma Login Manager. Желание заменить менеджер входа объясняется наличием не решаемых архитектурных проблем в дисплейном менеджере SDDM (Simple Desktop Display Manager), который начиная с Plasma 5 пришёл на смену KDM.
+https://www.opennet.ru/opennews/art.shtml?num=62953</description>
     </item>
     
     <item>
