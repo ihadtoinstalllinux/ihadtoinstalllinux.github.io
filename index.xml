@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 02:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 13:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Zorin OS 17.3, дистрибутива для пользователей, привыкших к Windows или macOS</title>
+      <title>Обновление почтового сервера Exim 4.98.2 с устранением уязвимости</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 27 Mar 2025 02:35:37 +0500</pubDate>
+      <pubDate>Thu, 27 Mar 2025 13:35:54 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После 6 месяцев разработки опубликован релиз Linux-дистрибутива Zorin OS 17.3, основанного на пакетной базе Ubuntu 22.04. Целевой аудиторией дистрибутива являются начинающие пользователи, привыкшие работать в Windows. Для управления оформлением дистрибутив предлагает специальный конфигуратор, позволяющий придать рабочему столу вид, свойственный различным версиям Windows и macOS, а в состав включена подборка программ, близких к программам, к которым привыкли пользователи Windows. Размер загрузочного iso-образа составляет 3.4 ГБ.
-https://www.opennet.ru/opennews/art.shtml?num=62956</description>
+      <description>Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.
+https://www.opennet.ru/opennews/art.shtml?num=62960</description>
     </item>
     
     <item>
