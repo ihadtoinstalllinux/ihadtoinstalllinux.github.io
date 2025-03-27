@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 15:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 16:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V</title>
+      <title>В Live-образах Debian 12 реализована поддержка повторяемых сборок</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 27 Mar 2025 15:35:08 +0500</pubDate>
+      <pubDate>Thu, 27 Mar 2025 16:35:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).</description>
+      <description>Разработчики проекта Debian объявили о реализации повторяемых сборок для всех официальных Live-образов Debian 12.10, а также для сборок всех значительных сред рабочего стола из репозиториев Debian 11, 12 и 13 (testing). Подготовлена инструкция, при помощи которой на основе доступных в репозитории исходных текстов пользователи могут сформировать свои Live-образы, на 100% идентичные на бинарном уровне с предоставляемыми проектом готовыми Live-образами.
+https://www.opennet.ru/opennews/art.shtml?num=62961</description>
     </item>
     
     <item>
