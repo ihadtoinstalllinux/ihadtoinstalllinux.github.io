@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 13:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 15:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление почтового сервера Exim 4.98.2 с устранением уязвимости</title>
+      <title>В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 27 Mar 2025 13:35:54 +0500</pubDate>
+      <pubDate>Thu, 27 Mar 2025 15:35:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.
-https://www.opennet.ru/opennews/art.shtml?num=62960</description>
+      <description>В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).</description>
     </item>
     
     <item>

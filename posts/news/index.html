@@ -5,10 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Обновление почтового сервера Exim 4.98.2 с устранением уязвимости | iHADtoinstalllinux</title>
-<meta name="keywords" content="Exim" />
-<meta name="description" content="Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.
-https://www.opennet.ru/opennews/art.shtml?num=62960">
+<title>В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V | iHADtoinstalllinux</title>
+<meta name="keywords" content="Linux, Hyper, V" />
+<meta name="description" content="В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -58,18 +57,16 @@ https://www.opennet.ru/opennews/art.shtml?num=62960">
         }
 
     </style>
-</noscript><meta property="og:title" content="Обновление почтового сервера Exim 4.98.2 с устранением уязвимости" />
-<meta property="og:description" content="Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.
-https://www.opennet.ru/opennews/art.shtml?num=62960" />
+</noscript><meta property="og:title" content="В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V" />
+<meta property="og:description" content="В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining)." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2025-03-27T13:35:54&#43;05:00" />
-<meta property="article:modified_time" content="2025-03-27T13:35:54&#43;05:00" />
+<meta property="article:published_time" content="2025-03-27T15:35:08&#43;05:00" />
+<meta property="article:modified_time" content="2025-03-27T15:35:08&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Обновление почтового сервера Exim 4.98.2 с устранением уязвимости"/>
-<meta name="twitter:description" content="Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.
-https://www.opennet.ru/opennews/art.shtml?num=62960"/>
+<meta name="twitter:title" content="В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V"/>
+<meta name="twitter:description" content="В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining)."/>
 
 
 <script type="application/ld+json">
@@ -86,7 +83,7 @@ https://www.opennet.ru/opennews/art.shtml?num=62960"/>
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Обновление почтового сервера Exim 4.98.2 с устранением уязвимости",
+      "name": "В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -96,17 +93,17 @@ https://www.opennet.ru/opennews/art.shtml?num=62960"/>
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Обновление почтового сервера Exim 4.98.2 с устранением уязвимости",
-  "name": "Обновление почтового сервера Exim 4.98.2 с устранением уязвимости",
-  "description": "Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.\nhttps://www.opennet.ru/opennews/art.shtml?num=62960",
+  "headline": "В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V",
+  "name": "В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V",
+  "description": "В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).",
   "keywords": [
-    "Exim"
+    "Linux", "Hyper", "V"
   ],
-  "articleBody": "Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.\nhttps://www.opennet.ru/opennews/art.shtml?num=62960\n",
-  "wordCount" : "25",
+  "articleBody": "В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием. Управления гипервизором в Linux осуществляется через устройство /dev/mshv. Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).\nhttps://www.opennet.ru/opennews/art.shtml?num=62959\n",
+  "wordCount" : "79",
   "inLanguage": "en",
-  "datePublished": "2025-03-27T13:35:54+05:00",
-  "dateModified": "2025-03-27T13:35:54+05:00",
+  "datePublished": "2025-03-27T15:35:08+05:00",
+  "dateModified": "2025-03-27T15:35:08+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -198,21 +195,23 @@ https://www.opennet.ru/opennews/art.shtml?num=62960"/>
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Обновление почтового сервера Exim 4.98.2 с устранением уязвимости
+      В ядро Linux добавлена поддержка работы в качестве хост-системы для Hyper-V
     </h1>
-    <div class="post-meta"><span title='2025-03-27 13:35:54 +0500 +05'>March 27, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2025-03-27 15:35:08 +0500 +05'>March 27, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Опубликован корректирующий выпуск почтового сервера Exim 4.98.2, в котором устранена уязвимость (CVE-2025-30232), потенциально позволяющая поднять свои привилегии. Возможна ли удалённая эксплуатация уязвимости не уточняется.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=62960">https://www.opennet.ru/opennews/art.shtml?num=62960</a></p>
+  <div class="post-content"><p>В состав кодовой базы ядра Linux, на основе которой формируется выпуск 6.15, принято  изменение, добавляющее возможность использования Linux в качестве корневого окружения (Dom0. root partition) для гипервизора  Hyper-V (Microsoft Hypervisor). Хост-окружение отвечает за управление гипервизором, организацию запуска гостевых систем, выделение ресурсов и обеспечение взаимодействия виртуальных машин с оборудованием.  Управления гипервизором в Linux осуществляется через устройство /dev/mshv.  Кроме того, в том же наборе патчей для виртуальных машин, использующих Hyper-V, добавлена возможность отключения на лету отдельных процессорных ядер (CPU offlining).</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=62959">https://www.opennet.ru/opennews/art.shtml?num=62959</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/exim/">Exim</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/linux/">Linux</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/hyper/">Hyper</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/v/">V</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
