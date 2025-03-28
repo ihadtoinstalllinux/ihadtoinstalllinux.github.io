@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2025 15:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 18:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Organic Maps перенёс разработку с GitHub на Forgejo</title>
+      <title>Выявлена возможность обхода ограничений доступа к user namespace в Ubuntu</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 28 Mar 2025 15:35:18 +0500</pubDate>
+      <pubDate>Fri, 28 Mar 2025 18:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Organic Maps, развивающий мобильное приложение для автономной навигации с картографическими данными из OpenStreetMap, объявил о переносе разработки с GitHub на платформу Forgejo, развёрнутую на собственном сервере. Перенос выполнен после того, как администрация GitHub принудительно перевела GitHub-репозиторий в архивный режим из-за санкций в отношении одного из разработчиков. Добиться снятия блокировки удалось только вчера, т.е. спустя две недели с момента инцидента.
-https://www.opennet.ru/opennews/art.shtml?num=62967</description>
+      <description>Исследователи безопасности из компании Qualys выявили три способа обхода применяемых в Ubuntu ограничений доступа к пространству имён идентификаторов пользователя (user namespace). Начиная с выпуска 23.10 в Ubuntu применяется дополнительный слой изоляции, не позволяющий обычным непривилегированным пользователям создавать &amp;ldquo;user namespace&amp;rdquo;. Сам по себе доступ к &amp;ldquo;user namespace&amp;rdquo; не является уязвимостью и многие дистрибутивы предоставляют его из коробки, так как он требуется в системах контейнерной изоляции и используется для sendbox-ограничений (например применяется для sandbox-изоляции браузеров).</description>
     </item>
     
     <item>
