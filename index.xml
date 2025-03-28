@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2025 18:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 22:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выявлена возможность обхода ограничений доступа к user namespace в Ubuntu</title>
+      <title>GitHub вводит лимит в сто тысяч репозиториев для одной организации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 28 Mar 2025 18:35:45 +0500</pubDate>
+      <pubDate>Fri, 28 Mar 2025 22:35:42 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи безопасности из компании Qualys выявили три способа обхода применяемых в Ubuntu ограничений доступа к пространству имён идентификаторов пользователя (user namespace). Начиная с выпуска 23.10 в Ubuntu применяется дополнительный слой изоляции, не позволяющий обычным непривилегированным пользователям создавать &amp;ldquo;user namespace&amp;rdquo;. Сам по себе доступ к &amp;ldquo;user namespace&amp;rdquo; не является уязвимостью и многие дистрибутивы предоставляют его из коробки, так как он требуется в системах контейнерной изоляции и используется для sendbox-ограничений (например применяется для sandbox-изоляции браузеров).</description>
+      <description>Компания GitHub объявила о введении ограничения в 100 тысяч репозиториев для одной учётной записи пользователя или организации.
+https://www.opennet.ru/opennews/art.shtml?num=62969</description>
     </item>
     
     <item>
