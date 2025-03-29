@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Zypper on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/zypper/</link>
+    <description>Recent content in Zypper on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 15:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 15:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/zypper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В пакетном менеджере Zypper реализована параллельная загрузка пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Разработчики дистрибутива openSUSE реализовали в пакетном менеджере Zypper возможность распараллеливания загрузки пакетов и метаданных. Дополнительно предложен новый бэкенд, более оптимально повторно использующий уже установленные соединения и повышающий эффективность обработки метаданных. При обновления 250 пакетов, суммарным размером 100 МБ, время загрузки после включения нового бэкенда и параллельного режима сократилось с 68.7 секунд до 13.1 секунд, а при обновлении 407 пакетов размером 1 ГБ - с 281.1 cекунды до 119.6 секунд.
 https://www.opennet.ru/opennews/art.shtml?num=62978</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

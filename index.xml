@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 14:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 15:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В KDE добавлена поддержка Wayland-протокола fifo и улучшена настройка дисплеев</title>
+      <title>В пакетном менеджере Zypper реализована параллельная загрузка пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 29 Mar 2025 14:35:15 +0500</pubDate>
+      <pubDate>Sat, 29 Mar 2025 15:35:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Среди изменений, добавленных в ветку, на основе которых формируется релиз KDE Plasma 6.4.0.
-https://www.opennet.ru/opennews/art.shtml?num=62975</description>
+      <description>Разработчики дистрибутива openSUSE реализовали в пакетном менеджере Zypper возможность распараллеливания загрузки пакетов и метаданных. Дополнительно предложен новый бэкенд, более оптимально повторно использующий уже установленные соединения и повышающий эффективность обработки метаданных. При обновления 250 пакетов, суммарным размером 100 МБ, время загрузки после включения нового бэкенда и параллельного режима сократилось с 68.7 секунд до 13.1 секунд, а при обновлении 407 пакетов размером 1 ГБ - с 281.1 cекунды до 119.6 секунд.
+https://www.opennet.ru/opennews/art.shtml?num=62978</description>
     </item>
     
     <item>
