@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 15:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 17:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В пакетном менеджере Zypper реализована параллельная загрузка пакетов</title>
+      <title>Изучение начинки sandbox-окружения, используемого в Google Gemini для запуска Python-кода</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 29 Mar 2025 15:35:36 +0500</pubDate>
+      <pubDate>Sat, 29 Mar 2025 17:35:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики дистрибутива openSUSE реализовали в пакетном менеджере Zypper возможность распараллеливания загрузки пакетов и метаданных. Дополнительно предложен новый бэкенд, более оптимально повторно использующий уже установленные соединения и повышающий эффективность обработки метаданных. При обновления 250 пакетов, суммарным размером 100 МБ, время загрузки после включения нового бэкенда и параллельного режима сократилось с 68.7 секунд до 13.1 секунд, а при обновлении 407 пакетов размером 1 ГБ - с 281.1 cекунды до 119.6 секунд.
-https://www.opennet.ru/opennews/art.shtml?num=62978</description>
+      <description>Опубликованы результаты исследования защищённости изолированного окружения для выполнения Python-кода, применяемого компанией Google в чатботе Gemini. Чатбот Gemini предоставляет средства для генерации кода по описанию задачи и для языка Python позволяет сразу запустить созданный код, чтобы избавить разработчика от лишних действий при его проверке. Код запускается в изолированном окружении, которое отрезано от внешнего мира и допускает только исполнение интерпретатора Python. Для определения начинки sandbox-окружения исследователи добились запуска кода, использующего возможности Python-библиотеки os для перебора содержимого всех каталогов и построения карты файловой системы.</description>
     </item>
     
     <item>

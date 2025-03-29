@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Google on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/google/</link>
+    <description>Recent content in Google on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 17:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 17:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Изучение начинки sandbox-окружения, используемого в Google Gemini для запуска Python-кода</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликованы результаты исследования защищённости изолированного окружения для выполнения Python-кода, применяемого компанией Google в чатботе Gemini. Чатбот Gemini предоставляет средства для генерации кода по описанию задачи и для языка Python позволяет сразу запустить созданный код, чтобы избавить разработчика от лишних действий при его проверке. Код запускается в изолированном окружении, которое отрезано от внешнего мира и допускает только исполнение интерпретатора Python. Для определения начинки sandbox-окружения исследователи добились запуска кода, использующего возможности Python-библиотеки os для перебора содержимого всех каталогов и построения карты файловой системы.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
