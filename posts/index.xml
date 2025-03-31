@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Mar 2025 21:37:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Mar 2025 23:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Учебно-исследовательская лаборатория «Базальт СПО» открылась в ИРНИТУ в Иркутске</title>
+      <title>Разработчики OrioleDB предложили улучшить API для альтернативных движков PostgreSQL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 31 Mar 2025 21:37:21 +0500</pubDate>
+      <pubDate>Mon, 31 Mar 2025 23:35:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В Иркутском национальном исследовательском техническом университете (ИРНИТУ) на базе лабораторий сетевых систем и ИТ-инфраструктуры начала работать лаборатория компании «Базальт СПО». В Сибирском федеральном округе это первая подобная инициатива вендора.
-https://www.basealt.ru/about/news/archive/view/uchebno-issledovatelskaja-laboratorija-bazalt-spo-otkrylas-v-irnitu-v-irkutske</description>
+      <description>Разработчики OrioleDB проанализировали текущее состояние низкоуровневого API, применяемого для доступа расширений к таблицам и индексам в PostgreSQL (Table/Index Access Method (AM) API), и предложили пути его улучшения. С момента появления в PostgreSQL 12 подобного API разработчики получили возможность создавать альтернативные механизмы хранения данных. Однако, несмотря на наличие этого API и известные ограничения встроенного механизма хранения, до сих пор не появилось полнофункциональных транзакционных движков хранения, реализованных исключительно в виде расширений.
+https://www.opennet.ru/opennews/art.shtml?num=62991</description>
     </item>
     
     <item>
