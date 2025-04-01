@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Apr 2025 01:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 12:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Phosh 0.46.0, GNOME-окружения для смартфонов </title>
+      <title>Выпуск системы резервного копирования Restic 0.18. Атака на CDC</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 01 Apr 2025 01:35:44 +0500</pubDate>
+      <pubDate>Tue, 01 Apr 2025 12:35:48 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз Phosh 0.46, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+      <description>Представлен выпуск системы резервного копирования Restic 0.18, позволяющей хранить резервные копии в зашифрованном виде в версионированном репозитории с поддержкой дедупликации. Система изначально рассчитана на то, что резервные копии сохраняются в окружениях не заслуживающих доверия, и попадание резервной копии в чужие руки не должно скомпрометировать систему. При создании резервной копии возможно определение гибких правил для включения и исключения файлов и каталогов (формат правил напоминает rsync или gitignore). Поддерживается работа в Linux, macOS, Windows и BSD-системах.</description>
     </item>
     
     <item>
