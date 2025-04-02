@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2025 01:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 11:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Второй предварительный выпуск мессенджера Pidgin 3.0 </title>
+      <title>Выпуск дистрибутива GoboLinux 017.01 с собственной иерархией файловой системы</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 02 Apr 2025 01:35:34 +0500</pubDate>
+      <pubDate>Wed, 02 Apr 2025 11:35:29 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен второй экспериментальный выпуск клиента для мгновенного обмена сообщениями Pidgin 3.0 (2.91), позволяющего одновременно работать в нескольких сетях с разными протоколами и переключаться между чатами при помощи вкладок. Выпуск отмечен как имеющий уровень качества предварительной альфа-версии, не рассчитанной на повседневное применение. Сборки подготовлены в формате Flatpak (пока доступен только архив с кодом).
-https://www.opennet.ru/opennews/art.shtml?num=62999</description>
+      <description>Представлен релиз дистрибутива GoboLinux 017.01, в котором вместо традиционной для Unix-систем иерархии файлов используется стековая организация дерева каталогов, при которой каждая программа устанавливается в отдельный каталог. Размер установочного образа с поддержкой загрузки в Live-режиме - 2.3 ГБ (x86_64).
+https://www.opennet.ru/opennews/art.shtml?num=63000</description>
     </item>
     
     <item>
