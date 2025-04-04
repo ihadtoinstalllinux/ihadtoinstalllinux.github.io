@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 17:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Apr 2025 00:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Третий экспериментальный выпуск среды рабочего стола Orbitiny</title>
+      <title>Выпуск дистрибутива Tails 6.14</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 04 Apr 2025 17:35:18 +0500</pubDate>
+      <pubDate>Sat, 05 Apr 2025 00:35:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен третий выпуск среды рабочего стола Orbitiny Desktop, написанной с нуля с использованием фреймворка Qt. Проект пытается совместить некоторые инновационные идеи, которые раньше не встречались в пользовательских окружениях, с традиционными элементами, такими как панель, меню и размещение пиктограмм на рабочем столе. Код написан на языке C++ и распространяется под лицензией GPL.
-https://www.opennet.ru/opennews/art.shtml?num=63021</description>
+      <description>Представлен релиз специализированного дистрибутива Tails 6.14.1 (The Amnesic Incognito Live System), развиваемого в составе проекта Tor. Дистрибутив основан на пакетной базе Debian 12, поставляется с рабочим столом GNOME 43 и предназначен для анонимного выхода в сеть при помощи инструментария Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.</description>
     </item>
     
     <item>
