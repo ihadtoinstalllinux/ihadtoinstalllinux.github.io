@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 10:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 12:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Первые публичные версии Nelm, форка Helm для развёртывания приложений в Kubernetes</title>
+      <title>Обновление XZ Utils 5.8.1 с устранением уязвимости</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 04 Apr 2025 10:35:59 +0500</pubDate>
+      <pubDate>Fri, 04 Apr 2025 12:35:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Объявлено о готовности к массовому использованию открытого проекта Nelm, позиционируемого как &amp;ldquo;альтернатива Helm 3&amp;rdquo;. Nelm зародился в процессе разработки CI/CD-утилиты werf как форк Helm, пакетного менеджера для Kubernetes, который использует &amp;ldquo;чарты&amp;rdquo;, чтобы развёртывать приложения в K8s. Код Nelm доступен на GitHub под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=63016</description>
+      <description>Опубликован выпуск пакета XZ Utils 5.8.1, включающего библиотеку liblzma и утилиты для работы со сжатыми данными в формате &amp;ldquo;.xz&amp;rdquo;. XZ Utils 5.8.1 стал первым значительным выпуском после инцидента с выявлением бэкдора, организующего вход через sshd. На прошлой неделе в Git был создан тег 5.8.0, но релиз не был объявлен официально из-за выявленных после публикации тега проблем с производительностью и совместимостью со старыми версиями GNU make.
+https://www.opennet.ru/opennews/art.shtml?num=63017</description>
     </item>
     
     <item>
