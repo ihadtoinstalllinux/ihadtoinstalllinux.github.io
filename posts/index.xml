@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 16:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 17:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлен openHalo, инструментарий для миграции с MySQL на PostgreSQL</title>
+      <title>Третий экспериментальный выпуск среды рабочего стола Orbitiny</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 04 Apr 2025 16:35:58 +0500</pubDate>
+      <pubDate>Fri, 04 Apr 2025 17:35:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован код инструментария openHalo, предоставляющего прослойку для упрощения переноса приложений, изначально написанных для MySQL, на использование СУБД PostgreSQL. Проект выполнен в виде прокси, прозрачно транслирующего запросы к MySQL в запросы к PostgreSQL и выполняющий обратное преобразование для ответов. Проект написан на языке Си и распространяется под лицензией GPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=63020</description>
+      <description>Представлен третий выпуск среды рабочего стола Orbitiny Desktop, написанной с нуля с использованием фреймворка Qt. Проект пытается совместить некоторые инновационные идеи, которые раньше не встречались в пользовательских окружениях, с традиционными элементами, такими как панель, меню и размещение пиктограмм на рабочем столе. Код написан на языке C++ и распространяется под лицензией GPL.
+https://www.opennet.ru/opennews/art.shtml?num=63021</description>
     </item>
     
     <item>
