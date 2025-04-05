@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>APT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apt/</link>
+    <description>Recent content in APT on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Apr 2025 12:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Apr 2025 12:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Релиз пакетного менеджера APT 3.0.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Сформирован релиз инструментария для управления пакетами APT 3.0.0 (Advanced Package Tool), который вобрал изменения, накопленные в экспериментальной ветке 2.9. Новый выпуск принят в ветку Debian Unstable и в ближайшее время будет интегрирован в репозиторий Debian Testing, в котором развивается релиз Debian 13 и уже используется экспериментальная ветка APT 2.9, а также будет добавлен в пакетную базу Ubuntu.
 https://www.opennet.ru/opennews/art.shtml?num=63026</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
