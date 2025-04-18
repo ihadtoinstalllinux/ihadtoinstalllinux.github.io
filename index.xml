@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 23:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Apr 2025 11:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована среда рабочего стола LXQt 2.2.0 </title>
+      <title>Arch Linux заменит пакеты с СУБД Redis на форк Valkey в репозитории extra</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 17 Apr 2025 23:35:23 +0500</pubDate>
+      <pubDate>Fri, 18 Apr 2025 11:35:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После 6 месяцев разработки представлен релиз среды рабочего стола LXQt 2.2.0 (Qt Lightweight Desktop Environment), продолжающей развитие проектов LXDE и Razor-qt. Интерфейс LXQt следует идеям классической организации рабочего стола, но привносит современное оформление и приёмы, увеличивающие удобство работы. LXQt позиционируется как легковесное, модульное, быстрое и удобное окружение, вобравшее лучшие черты LXDE и Razor-qt. Код размещён на GitHub и поставляется под лицензиями GPL 2.0+ и LGPL 2.1+. Появление готовых сборок ожидается для Ubuntu (LXQt по умолчанию предлагается в Lubuntu), Arch Linux, Fedora, openSUSE, Mageia, FreeBSD, ROSA и ALT Linux.</description>
+      <description>Разработчики дистрибутива Arch Linux объявили о замене в репозитории &amp;ldquo;extra&amp;rdquo; пакетов с СУБД Redis на пакеты с СУБД Valkey в связи с переходом Redis на проприетарную лицензию. В рамках проекта Valkey развивается форк Redis, продолжающий использовать лицензию BSD и сопровождаемый организацией Linux Foundation при участии бывшего мэйнтейнера Redis и компаний Amazon, Google, Oracle, Ericsson и Snap. Valkey уже поставляется вместо Redis в дистрибутивах Debian 13, Ubuntu 24.10, Fedora 41, RHEL 10, Azure Linux 3 и Alpine 3.</description>
     </item>
     
     <item>
