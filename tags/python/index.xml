@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Python on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/python/</link>
+    <description>Recent content in Python on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2025 13:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 13:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Python задействованы криптоалгоритмы с математическим доказательством надёжности</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Объявлено об успешном завершении инициативы по замене в Python реализаций криптографических алгоритмов, предлагаемых в модулях hashlib и hmac, на варианты с математическим доказательством надёжности, подготовленные проектом &amp;ldquo;HACL*&amp;rdquo;. Работа по переходу на функции с математическим доказательством надёжности велась с 2022 года и была инициирован после выявления переполнения буфера в реализации алгоритма SHA3, используемой в Python-модуле hashlib.
 https://www.opennet.ru/opennews/art.shtml?num=63104</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
