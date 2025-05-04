@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/posts/</link>
+    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 May 2025 00:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлены принципы дизайна компилятора Nimony для будущего Nim 3.0</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sun, 04 May 2025 00:35:48 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>В процессе разработки языка программирования Nim 3.0 развивается новый компилятор Nimony, основополагающим принципом проектирования которого является достижение предсказуемости времени выполнения в худшем случае (Worst Case Execution Time, WCET). Это требование продиктовано ориентацией на системы жёсткого реального времени, где недетерминированное поведение недопустимо. Как следствие, архитектура Nimony исключает использование JIT-компиляторов и сборщиков мусора с трассировкой (tracing garbage collectors), поскольку их операции могут вносить непредсказуемые задержки.
+https://www.opennet.ru/opennews/art.shtml?num=63182</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
+      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
+      <description>vk: https://vk.com/ihadtoinstalllinux
+telegram: https://t.me/ihadtoinstalllinux</description>
+    </item>
+    
+  </channel>
+</rss>
