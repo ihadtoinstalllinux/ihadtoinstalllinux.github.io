@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 May 2025 12:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 May 2025 12:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Разработчики ядра Linux на пути к удалению поддержки процессоров i486</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Инго Молнар (Ingo Molnar), мэйнтейнер архитектуры x86, механизма блокировок и планировщика задач в ядре Linux, выставил на обсуждение набор патчей, удаляющих из ядра поддержку процессоров 486 (M486, M486SX, AMD ELAN) и начальных серий процессоров 586. В ядре предлагается оставить только возможность работы с процессорами x86, поддерживающими инструкцию CX8 (CMPXCHG8B) и регистр TSC (Time Stamp Counter), которые появились в CPU Pentium.
 https://www.opennet.ru/opennews/art.shtml?num=63184</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
