@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2025 11:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 00:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск BleachBit 5.0.0, приложения для освобождения места на диске</title>
+      <title>Новые версии сервисного менеджера s6-rc и системы инициализации s6-linux-init</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 05 May 2025 11:35:45 +0500</pubDate>
+      <pubDate>Tue, 06 May 2025 00:35:49 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск приложения BleachBit 5.0.0, высвобождающего свободное дисковое пространство за счёт удаления ненужных файлов. Программа предлагает список рекомендуемых для удаления компонентов, из которого пользователь может исключить определённые позиции. Программа поддерживает консольный и графический интерфейсы и может работать в Linux и Windows. Код написан на языке Python с использованием PyGTK и распространяется под лицензией GPLv3. Готовые пакеты собраны для популярных дистрибутивов Linux.
-https://www.opennet.ru/opennews/art.shtml?num=63181</description>
+      <description>Представлен выпуск сервисного менеджера s6-rc 0.5.6.0, предназначенного для управления запуском скриптов инициализации и сервисов. Поддерживается отслеживание дерева зависимостей и автоматический запуск или завершение сервисов для достижения указанного состояния. Инструментарий s6-rc может применяться как в системах инициализации, так и для организации запуска произвольных сервисов в привязке к событиям, отражающим изменение состояния системы. Система поддерживает скрипты инициализации, совместимые с sysv-init, и может импортировать информацию о зависимостях из sysv-rc или OpenRC. Код написан на языке Си и распространяется под лицензией ISC.</description>
     </item>
     
     <item>
