@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 May 2025 12:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 10:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработчики ядра Linux на пути к удалению поддержки процессоров i486</title>
+      <title>Уязвимость в ADOdb, допускающая подстановку SQL-запросов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 04 May 2025 12:35:58 +0500</pubDate>
+      <pubDate>Mon, 05 May 2025 10:35:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Инго Молнар (Ingo Molnar), мэйнтейнер архитектуры x86, механизма блокировок и планировщика задач в ядре Linux, выставил на обсуждение набор патчей, удаляющих из ядра поддержку процессоров 486 (M486, M486SX, AMD ELAN) и начальных серий процессоров 586. В ядре предлагается оставить только возможность работы с процессорами x86, поддерживающими инструкцию CX8 (CMPXCHG8B) и регистр TSC (Time Stamp Counter), которые появились в CPU Pentium.
-https://www.opennet.ru/opennews/art.shtml?num=63184</description>
+      <description>В библиотеке ADOdb, применяемой во многих PHP-проектах для абстрагирования доступа к СУБД и насчитывающей около 3 млн установок из репозитория Packagist, выявлена уязвимость (CVE-2025-46337), позволяющая выполнить подстановку своего SQL-запроса. Проблеме присвоен критический уровень опасности (10 из 10). Уязвимость устранена в выпуске ADOdb 5.22.9.
+https://www.opennet.ru/opennews/art.shtml?num=63186</description>
     </item>
     
     <item>
