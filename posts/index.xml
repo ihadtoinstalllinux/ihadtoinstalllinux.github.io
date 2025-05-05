@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2025 10:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 11:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в ADOdb, допускающая подстановку SQL-запросов</title>
+      <title>Выпуск BleachBit 5.0.0, приложения для освобождения места на диске</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 05 May 2025 10:35:50 +0500</pubDate>
+      <pubDate>Mon, 05 May 2025 11:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В библиотеке ADOdb, применяемой во многих PHP-проектах для абстрагирования доступа к СУБД и насчитывающей около 3 млн установок из репозитория Packagist, выявлена уязвимость (CVE-2025-46337), позволяющая выполнить подстановку своего SQL-запроса. Проблеме присвоен критический уровень опасности (10 из 10). Уязвимость устранена в выпуске ADOdb 5.22.9.
-https://www.opennet.ru/opennews/art.shtml?num=63186</description>
+      <description>Опубликован выпуск приложения BleachBit 5.0.0, высвобождающего свободное дисковое пространство за счёт удаления ненужных файлов. Программа предлагает список рекомендуемых для удаления компонентов, из которого пользователь может исключить определённые позиции. Программа поддерживает консольный и графический интерфейсы и может работать в Linux и Windows. Код написан на языке Python с использованием PyGTK и распространяется под лицензией GPLv3. Готовые пакеты собраны для популярных дистрибутивов Linux.
+https://www.opennet.ru/opennews/art.shtml?num=63181</description>
     </item>
     
     <item>
