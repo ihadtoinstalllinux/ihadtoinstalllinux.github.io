@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Nmap on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nmap/</link>
+    <description>Recent content in Nmap on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 12:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 12:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск сканера сетевой безопасности Nmap 7.96</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После года разработки опубликован выпуск сканера сетевой безопасности Nmap 7.96, предназначенного для проведения аудита сети и выявления активных сетевых сервисов. Код проекта поставляется под лицензией NPSL (Nmap Public Source License), основанной на лицензии GPLv2, которая дополнена рекомендациями (не требованиями) по использованию программы OEM-лицензирования и покупке коммерческой лицензии, если производитель не желает открывать код своего продукта в соответствии требованиями копилефт-лицензии или намерен интегрировать Nmap в продукты, несовместимые с GPL.
 https://www.opennet.ru/opennews/art.shtml?num=63198</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

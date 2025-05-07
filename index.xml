@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 11:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 12:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Ubuntu 25.10 решено задействовать аналог sudo, написанный на Rust</title>
+      <title>Выпуск сканера сетевой безопасности Nmap 7.96</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 07 May 2025 11:35:33 +0500</pubDate>
+      <pubDate>Wed, 07 May 2025 12:36:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Canonical намерена в осеннем выпуске Ubuntu 25.10 задействовать по умолчанию аналог утилиты sudo, развиваемый проектом sudo-rs и написанный на языке Rust. В марте аналогичное решение было принято в отношении замены утилит GNU Coreutils на инструментарий uutils. На стадии рассмотрения находятся инициативы по замене zlib и ntpd на zlib-rs и ntpd-rs, а также задействованию Sequoia вместо GnuPG в пакетном менеджере APT.
-https://www.opennet.ru/opennews/art.shtml?num=63197</description>
+      <description>После года разработки опубликован выпуск сканера сетевой безопасности Nmap 7.96, предназначенного для проведения аудита сети и выявления активных сетевых сервисов. Код проекта поставляется под лицензией NPSL (Nmap Public Source License), основанной на лицензии GPLv2, которая дополнена рекомендациями (не требованиями) по использованию программы OEM-лицензирования и покупке коммерческой лицензии, если производитель не желает открывать код своего продукта в соответствии требованиями копилефт-лицензии или намерен интегрировать Nmap в продукты, несовместимые с GPL.
+https://www.opennet.ru/opennews/art.shtml?num=63198</description>
     </item>
     
     <item>
