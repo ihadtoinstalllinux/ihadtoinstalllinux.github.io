@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Ubuntu on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 11:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 11:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Ubuntu 25.10 решено задействовать аналог sudo, написанный на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Canonical намерена в осеннем выпуске Ubuntu 25.10 задействовать по умолчанию аналог утилиты sudo, развиваемый проектом sudo-rs и написанный на языке Rust. В марте аналогичное решение было принято в отношении замены утилит GNU Coreutils на инструментарий uutils. На стадии рассмотрения находятся инициативы по замене zlib и ntpd на zlib-rs и ntpd-rs, а также задействованию Sequoia вместо GnuPG в пакетном менеджере APT.
 https://www.opennet.ru/opennews/art.shtml?num=63197</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
