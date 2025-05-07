@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 21:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 May 2025 01:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Axiom JDK и «Базальт СПО» объявляют о технологическом партнерстве по развитию системного ПО</title>
+      <title>В iVentoy выявлена подстановка корневого сертификата при запуске Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 07 May 2025 21:35:32 +0500</pubDate>
+      <pubDate>Thu, 08 May 2025 01:35:43 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>«Базальт СПО», разработчик операционных систем «Альт», и компания Axiom JDK (АО «Аксиом»), поставщик российской платформы Java, объявляют о технологическом партнерстве и объединении усилий по развитию отечественного системного ПО и совместимого Java-стека. Компании заключили соглашение и предоставят заказчикам удобную и безопасную среду для разработки и запуска программных продуктов на базе Java.
-https://www.basealt.ru/about/news/archive/view/axiom-jdk-i-bazalt-spo-objavljajut-o-tekhnologicheskom-partnerstve-po-razvitiju-sistemnogo-po</description>
+      <description>В инструментарии iVentoy, применяемом для загрузки и установки по сети произвольных операционных систем, выявлена подозрительная активность. При загрузке по сети ОС Windows инструментарий осуществлял подстановку в систему бинарного драйвера httpdisk.sys и установку в системное хранилище корневых сертификатов своего самоподписанного сертификата, применяемого для заверения драйвера цифровой подписью. 31 из 70 антивирусных пакетов, в которых был проверен файл httpdisk.sys, выдали предупреждение о наличии вредоносного ПО.
+https://www.opennet.ru/opennews/art.shtml?num=63199</description>
     </item>
     
     <item>
