@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 11:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Phosh 0.47.0, GNOME-окружения для смартфонов </title>
+      <title>В GNOME добавлен Mutter Development Kit</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 19 May 2025 11:35:18 +0500</pubDate>
+      <pubDate>Mon, 19 May 2025 14:35:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз Phosh 0.47, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру squeekboard. Наработки проекта распространяются под лицензией GPLv3+.</description>
+      <description>В кодовую базу, на основе которой в сентябре будет сформирован выпуск GNOME 49, принят инструментарий Mutter SDK (Mutter Development Kit), реализующий новый способ взаимодействия с композитным менеджером Mutter и оболочкой GNOME Shell. Mutter SDK даёт возможность запускать вложенный экземпляр GNOME Shell внутри GTK-приложения для упрощения тестирования Mutter и GNOME Shell в процессе разработки.
+https://www.opennet.ru/opennews/art.shtml?num=63257</description>
     </item>
     
     <item>
