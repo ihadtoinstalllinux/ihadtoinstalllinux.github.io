@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 14:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 16:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В GNOME добавлен Mutter Development Kit</title>
+      <title>Выпуск композитного сервера Niri 25.05, использующего Wayland </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 19 May 2025 14:35:59 +0500</pubDate>
+      <pubDate>Mon, 19 May 2025 16:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В кодовую базу, на основе которой в сентябре будет сформирован выпуск GNOME 49, принят инструментарий Mutter SDK (Mutter Development Kit), реализующий новый способ взаимодействия с композитным менеджером Mutter и оболочкой GNOME Shell. Mutter SDK даёт возможность запускать вложенный экземпляр GNOME Shell внутри GTK-приложения для упрощения тестирования Mutter и GNOME Shell в процессе разработки.
-https://www.opennet.ru/opennews/art.shtml?num=63257</description>
+      <description>Опубликован выпуск композитного сервера Niri 25.05, реализующего метод мозаичной (tiling) компоновки в стиле GNOME-расширения PaperWM, в котором окна группируются в бесконечно прокручиваемую на экране ленту. Открытие нового окна приводит к расширению ленты, а ранее добавленные окна не меняют свой размер. Проект базируется на использовании протокола Wayland, но позволяет запускать приложения X11 при помощи DDX-сервера Xwayland. Код проекта написан на языке Rust и распространяется под лицензией GPLv3. Пакеты формируются для Fedora, NixOS , Arch Linux и FreeBSD.</description>
     </item>
     
     <item>
