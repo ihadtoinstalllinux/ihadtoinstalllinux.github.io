@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 17:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 00:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз дистрибутива Red Hat Enterprise Linux 10</title>
+      <title>В GDM по умолчанию отключён сеанс X11. В Fedora 43 в GNOME будет поддерживаться только Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 20 May 2025 17:36:03 +0500</pubDate>
+      <pubDate>Wed, 21 May 2025 00:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Red Hat представила релиз дистрибутива Red Hat Enterprise Linux 10. Готовые установочные образы подготовлены для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности можно использовать общедоступные iso-образы CentOS Stream 10, а также бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le (POWER9) и Aarch64 (ARM64).
-https://www.opennet.ru/opennews/art.shtml?num=63260</description>
+      <description>В кодовую базу, которая будет использована в выпуске GNOME 49, принято изменение, отключающее по умолчанию сеанс X11 в дисплейном менеджере GDM (GNOME Display Manager), предоставляющем экран входа в систему. При сборке GDM также выставлена опция &amp;ldquo;-Dx11-support=false&amp;rdquo;, отключающая по умолчанию компиляцию компонентов для поддержки X11. Ведётся работа над возможностью собирать конфигуратор GNOME Setting без поддержки X11. Через год в выпуске GNOME 50 намерены полностью удалить из GNOME код для работы сеанса на базе X11.</description>
     </item>
     
     <item>
