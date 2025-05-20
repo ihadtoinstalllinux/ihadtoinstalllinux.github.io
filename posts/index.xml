@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 02:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2025 11:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в Glibc, затрагивающая статически собранные suid-файлы с dlopen</title>
+      <title>В Ubuntu 25.10 заменят эмулятор терминала и просмотрщик изображений</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 20 May 2025 02:35:25 +0500</pubDate>
+      <pubDate>Tue, 20 May 2025 11:35:22 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В стандартной Си-библиотеке Glibc выявлена уязвимость (CVE-2025-4802), позволяющая добиться выполнения кода с привилегиями другого пользователя, выставляемыми при запуске приложений с флагом suid. Опасность проблемы сводят на нет условия при которых она проявляется - разработчики Glibc на смогли найти не одной suid-программы к которой была бы применима найденная уязвимость. При этом не исключено, что в обиходе могут использоваться собственные suid-прогрммы, удовлетворяющие условиям совершения атаки.
-https://www.opennet.ru/opennews/art.shtml?num=63269</description>
+      <description>Разработчики Ubuntu Linux объявили об изменении состава выпуска Ubuntu Desktop 25.10, запланированного на 9 октября этого года. В предстоящем выпуске решено задействовать по умолчанию два новых приложения: эмулятор терминала Ptyxis и просмотрщик изображений Loupe, которые заменят ранее поставляемые GNOME Terminal и Eye of GNOME. Приложения Ptyxis и Loupe ранее уже были включены по умолчанию в Fedora Linux.
+https://www.opennet.ru/opennews/art.shtml?num=63270</description>
     </item>
     
     <item>
