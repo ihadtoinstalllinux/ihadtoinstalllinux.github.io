@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 12:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 14:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Wine опубликовал Vkd3d 1.16 с реализацией Direct3D 12 </title>
+      <title>Уязвимость в библиотеке OpenPGP.js, позволяющая обойти верификацию сообщений</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 21 May 2025 12:35:29 +0500</pubDate>
+      <pubDate>Wed, 21 May 2025 14:35:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.16 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
-https://www.opennet.ru/opennews/art.shtml?num=63277</description>
+      <description>В библиотеке OpenPGP.js выявлена уязвимость (CVE-2025-47934), позволяющая злоумышленнику отправить модифицированное сообщение, которое будет воспринято получателем как верифицированное (функции openpgp.verify и openpgp.decrypt вернут признак успешной проверки цифровой подписи, несмотря на то, что содержимое заменено и отличается от данных, для которых создавалась подпись). Уязвимость устранена в выпусках OpenPGP.js 5.11.3 и 6.1.1. Проблема проявляется только в ветках OpenPGP.js 5.x и 6.x, и не затрагивает OpenPGP.js 4.x.
+https://www.opennet.ru/opennews/art.shtml?num=63278</description>
     </item>
     
     <item>
