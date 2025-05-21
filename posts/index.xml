@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 17:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 00:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован дистрибутив AlmaLinux 9.6</title>
+      <title>Для FreeBSD развивают опциональную поддержку компонентов базовой системы на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 21 May 2025 17:35:41 +0500</pubDate>
+      <pubDate>Thu, 22 May 2025 00:35:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск дистрибутива AlmaLinux 9.6, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.6 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
+      <description>Проект HardenedBSD, занимающийся улучшением механизмов защиты FreeBSD и выпускающий защищённые сборки FreeBSD, представил первые результаты работы по предоставлению возможности использования компонентов пространства пользователя FreeBSD, написанных на языке Rust. Разработка ведётся в отдельной ветке hardened/current/rust-in-base.
+https://www.opennet.ru/opennews/art.shtml?num=63280</description>
     </item>
     
     <item>
