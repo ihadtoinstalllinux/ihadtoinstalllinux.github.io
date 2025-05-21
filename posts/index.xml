@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 16:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 17:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Red Hat Enterprise Linux 9.6</title>
+      <title>Опубликован дистрибутив AlmaLinux 9.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 21 May 2025 16:35:52 +0500</pubDate>
+      <pubDate>Wed, 21 May 2025 17:35:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Следом за новой веткой RHEL 10 компания Red Hat опубликовала релиз дистрибутива Red Hat Enterprise Linux 9.6. Готовые установочные образы доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64). В соответствии с 10-летним циклом поддержки дистрибутива RHEL 9 будет сопровождаться до 2032 года.</description>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.6, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.6 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
     </item>
     
     <item>
