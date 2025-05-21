@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 16:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 16:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Red Hat Enterprise Linux 9.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Следом за новой веткой RHEL 10 компания Red Hat опубликовала релиз дистрибутива Red Hat Enterprise Linux 9.6. Готовые установочные образы доступны для зарегистрированных пользователей Red Hat Customer Portal (для оценки функциональности также можно использовать iso-образы CentOS Stream 9 и бесплатные сборки RHEL для разработчиков). Выпуск сформирован для архитектур x86_64, s390x (IBM System z), ppc64le и Aarch64 (ARM64). В соответствии с 10-летним циклом поддержки дистрибутива RHEL 9 будет сопровождаться до 2032 года.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
