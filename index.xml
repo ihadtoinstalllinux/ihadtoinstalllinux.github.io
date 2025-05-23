@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 11:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2025 13:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компания Valve опубликовала дистрибутив для игровых консолей SteamOS 3.7</title>
+      <title>Ubuntu 25.10 переходит по умолчанию на Chrony вместо systemd-timesyncd</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 23 May 2025 11:35:14 +0500</pubDate>
+      <pubDate>Fri, 23 May 2025 13:35:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Valve представила обновление операционной системы SteamOS 3.7.8, помеченное как первый стабильный релиз ветки 3.7. Операционная система SteamOS поставляется в устройствах Steam Deck и с недавних пор используется в игровых консолях некоторых других производителей, таких как Lenovo Legion Go S и ASUS ROG Ally. Энтузиастами развиваются неофициальные сборки HoloISO, пригодные для установки на обычных компьютерах и сторонних игровых консолях (проект SteamFork прекратил существование).
-https://www.opennet.ru/opennews/art.shtml?num=63293</description>
+      <description>Разработчики Ubuntu Linux наметили переход по умолчанию на использование проекта Chrony для синхронизации точного времени во всех сборках Ubuntu 25.10. Ранее в Ubuntu использовался сервис systemd-timesyncd, который решено заменить из-за желания задействовать протокол NTS (Network Time Security) для криптографической защиты синхронизации времени.
+https://www.opennet.ru/opennews/art.shtml?num=63294</description>
     </item>
     
     <item>
