@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 11:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 May 2025 13:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Ubuntu Sway Remix 25.04</title>
+      <title>Доступен дистрибутив NixOS 25.05, использующий пакетный менеджер Nix </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 24 May 2025 11:35:45 +0500</pubDate>
+      <pubDate>Sat, 24 May 2025 13:35:34 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 25.04, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 24.10, созданной с оглядкой как на опытных пользователей GNU/Linux, так и на новичков, желающих попробовать окружение с мозаичным оконным менеджером без необходимости его долгой настройки. Для загрузки подготовлены сборки для архитектур amd64 и arm64 (Raspberry Pi).
-https://www.opennet.ru/opennews/art.shtml?num=63295</description>
+      <description>Представлен релиз дистрибутива NixOS 25.05, основанного на пакетном менеджере Nix и предоставляющего собственные разработки для упрощения настройки и сопровождения системы. В NixOS вся настройка системы осуществляется через единый файл системной конфигурации configuration.nix. Предоставляются возможности для быстрого отката системы на предыдущую версию конфигурации и переключения между различными состояниями системы. Поддерживается установка индивидуальных пакетов отдельными пользователями и возможность одновременного использования нескольких версий одной программы. Обеспечены воспроизводимые сборки. Для архитектур x86_64 и ARM64 подготовлен установочный образ с графическим окружением (3.</description>
     </item>
     
     <item>
