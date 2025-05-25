@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 May 2025 14:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Удалённая уязвимость в модуле ksmbd ядра Linux, выявленная при помощи AI</title>
+      <title>GCC-бэкенд достиг возможности полной раскрутки компилятора rustc. Выпуск Rust Coreutils 0.1.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 May 2025 12:35:05 +0500</pubDate>
+      <pubDate>Sun, 25 May 2025 14:36:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В модуле ksmbd, предлагающем встроенную в ядро Linux реализацию файлового сервера на базе протокола SMB, выявлена уязвимость (CVE-2025-37899), потенциально позволяющая добиться выполнения своего кода на уровне ядра через отправку специально оформленных пакетов. Примечательно, что проблема была выявлена в ходе анализа кода AI-моделью OpenAI o3. Так как полный код модуля ksmbd превышает допустимый для модели размер контекста, проверка выполнялась поэтапно для кода с реализацией отдельных команд SMB, используя типовые запросы.
-https://www.opennet.ru/opennews/art.shtml?num=63301</description>
+      <description>Бэкенд rustc_codegen_gcc достиг возможности полной раскрутки (bootstrapping) компилятора rustc. Под раскруткой компилятора понимается возможность использования в rustc генератора кода на основе GCC для сборки самого компилятора rustc. Бэкенд позволяет использовать библиотеку libgccjit от проекта GCC в качестве генератора кода в компиляторе rustc, что позволяет собирать rust-программы для всех архитектур, доступных в GCC, и использовать специфичные для GCC оптимизации.
+https://www.opennet.ru/opennews/art.shtml?num=63302</description>
     </item>
     
     <item>
