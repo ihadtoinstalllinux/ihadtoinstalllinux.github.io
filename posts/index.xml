@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 00:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 May 2025 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Драйвер для ввода цифр при помощи дискового номеронабирателя от старых телефонов</title>
+      <title>Удалённая уязвимость в модуле ksmbd ядра Linux, выявленная при помощи AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 May 2025 00:35:55 +0500</pubDate>
+      <pubDate>Sun, 25 May 2025 12:35:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Для ядра Linux разработан драйвер rotary_dial, позволяющий использовать для ввода цифр дисковый номеронабиратель, применявшийся в телефонных аппаратах с импульсным набором номера. Номеронабиратель можно использовать вместо нумпада в качестве стильного аксессуара по аналогии с тем, как несколько лет назад он был задействован в мобильном телефоне. Номеронабиратель подключается через GPIO и после активации драйвера становится доступен как новое устройство ввода evdev.
-https://www.opennet.ru/opennews/art.shtml?num=63299</description>
+      <description>В модуле ksmbd, предлагающем встроенную в ядро Linux реализацию файлового сервера на базе протокола SMB, выявлена уязвимость (CVE-2025-37899), потенциально позволяющая добиться выполнения своего кода на уровне ядра через отправку специально оформленных пакетов. Примечательно, что проблема была выявлена в ходе анализа кода AI-моделью OpenAI o3. Так как полный код модуля ksmbd превышает допустимый для модели размер контекста, проверка выполнялась поэтапно для кода с реализацией отдельных команд SMB, используя типовые запросы.
+https://www.opennet.ru/opennews/art.shtml?num=63301</description>
     </item>
     
     <item>
