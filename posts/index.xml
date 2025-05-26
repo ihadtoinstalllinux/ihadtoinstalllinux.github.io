@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 14:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 14:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GCC-бэкенд достиг возможности полной раскрутки компилятора rustc. Выпуск Rust Coreutils 0.1.0</title>
+      <title>Релиз ядра Linux 6.15</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 May 2025 14:36:04 +0500</pubDate>
+      <pubDate>Mon, 26 May 2025 14:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Бэкенд rustc_codegen_gcc достиг возможности полной раскрутки (bootstrapping) компилятора rustc. Под раскруткой компилятора понимается возможность использования в rustc генератора кода на основе GCC для сборки самого компилятора rustc. Бэкенд позволяет использовать библиотеку libgccjit от проекта GCC в качестве генератора кода в компиляторе rustc, что позволяет собирать rust-программы для всех архитектур, доступных в GCC, и использовать специфичные для GCC оптимизации.
-https://www.opennet.ru/opennews/art.shtml?num=63302</description>
+      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 6.15. Среди наиболее заметных изменений: механизм аудита в Landlock, режим закрепления маппинга памяти, подсистема fwctl, драйвер Nova для GPU NVIDIA, реализация хост-системы для гипервизора Hyper-V, поддержка зонированных устройств хранения в XFS, оптимизация сетевой подсистемы, scrub-проверка в Bcachefs, возможность контроля над операциями через io_uring.
+https://www.opennet.ru/opennews/art.shtml?num=63305</description>
     </item>
     
     <item>
