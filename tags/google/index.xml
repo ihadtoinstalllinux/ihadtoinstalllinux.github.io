@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Google on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/google/</link>
+    <description>Recent content in Google on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 14:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 14:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google оценил возможности квантового компьютера, необходимые для взлома RSA-2048</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Google опубликовала результаты прогнозирования возможностей квантового компьютера, необходимого для успешной факторизации параметров 2048-битных RSA-ключей. В ходе исследования был сделан вывод, что теоретически взлом ключа RSA-2024 может быть осуществлён за неделю вычислений на квантовом компьютере, имеющим миллион неидеальных (&amp;ldquo;шумных&amp;rdquo;) кубитов. На текущем этапе развития квантовые компьютеры позволяют использовать от 100 до 1000 кубитов с необходимым для проведения атаки уровнем ошибок (0.1%).
 https://www.opennet.ru/opennews/art.shtml?num=63310</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

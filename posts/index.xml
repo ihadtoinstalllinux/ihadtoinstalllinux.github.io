@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 13:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 14:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз свободного воксельного игрового движка Luanti 5.12.0 </title>
+      <title>Google оценил возможности квантового компьютера, необходимые для взлома RSA-2048</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 27 May 2025 13:35:16 +0500</pubDate>
+      <pubDate>Tue, 27 May 2025 14:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После трёх месяцев разработки опубликован релиз Luanti 5.12.0, свободного кроссплатформенного игрового движка в жанре песочница, позволяющего создавать игры по аналогу Roblox, но с воксельной механикой, используя различные блоки для совместного формирования игроками различных структур и построек, образующих подобие виртуального мира. Некоторые игры на движке стремятся клонировать Minecraft. Предоставляемый движком геймплей полностью зависит от набора модов, создаваемых на языке Lua. Движок написан на языке С++ c использованием 3D-библиотеки IrrlichtMt (форк Irrlicht). Код Luanti распространяется под лицензией LGPL, а игровые ресурсы под лицензией CC BY-SA 3.</description>
+      <description>Компания Google опубликовала результаты прогнозирования возможностей квантового компьютера, необходимого для успешной факторизации параметров 2048-битных RSA-ключей. В ходе исследования был сделан вывод, что теоретически взлом ключа RSA-2024 может быть осуществлён за неделю вычислений на квантовом компьютере, имеющим миллион неидеальных (&amp;ldquo;шумных&amp;rdquo;) кубитов. На текущем этапе развития квантовые компьютеры позволяют использовать от 100 до 1000 кубитов с необходимым для проведения атаки уровнем ошибок (0.1%).
+https://www.opennet.ru/opennews/art.shtml?num=63310</description>
     </item>
     
     <item>
