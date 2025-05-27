@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Armbian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/armbian/</link>
+    <description>Recent content in Armbian on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 12:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 12:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/armbian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Armbian 25.5 и DietPi 9.13, дистрибутивов для одноплатных компьютеров</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Опубликован выпуск Linux-дистрибутива Armbian 25.5, предоставляющего компактное системное окружение для одноплатных компьютеров с процессорами на базе архитектур ARM, RISC-V и x86, поддерживающее различные модели Raspberry Pi, Odroid, Orange Pi, Banana Pi, Helios64, pine64, Nanopi и Cubieboard на базе процессоров Allwinner, Amlogic, Actionsemi, Freescale / NXP, Marvell Armada, Rockchip, Radxa и Samsung Exynos.
 https://www.opennet.ru/opennews/art.shtml?num=63307</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
