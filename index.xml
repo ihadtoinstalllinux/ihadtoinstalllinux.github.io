@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 14:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 15:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива KaOS 2025.05</title>
+      <title>Уязвимость в GNU sort, приводящая к выходу за границу буфера</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 28 May 2025 14:35:39 +0500</pubDate>
+      <pubDate>Wed, 28 May 2025 15:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск KaOS 2025.05, дистрибутива с непрерывной моделью обновления, нацеленного на предоставление рабочего стола на основе свежих выпусков KDE и приложений, использующих Qt. Из специфичных особенностей оформления можно отметить размещение вертикальной панели в правой стороне экрана. Дистрибутив развивается с оглядкой на Arch Linux, но поддерживает собственный независимый репозиторий, насчитывающий более 1500 пакетов, а также предлагает ряд собственных графических утилит. В качестве файловой системы по умолчанию применяется XFS. Сборки публикуются для систем x86_64 (3.</description>
+      <description>В утилите sort, поставляемой в составе пакета GNU Coreutils, выявлена уязвимость (CVE-2025-5278), приводящая к обращению к данным вне границы буфера при сортировке с использованием синтаксиса &amp;ldquo;+POS1[.C1][OPTS]&amp;rdquo;, применяемого для выделения сортируемых ключей в обрабатываемых данных. Проблема вызвана целочисленным переполнением (wraparound) в функции begfield(), позволяющим прочитать содержимое одного байта данных вне буфера. Уязвимость может использоваться для вызова аварийного завершения приложений или организации утечки информации из процесса при передаче атакующим специально оформленных параметров сортировки.</description>
     </item>
     
     <item>
