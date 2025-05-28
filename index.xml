@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 15:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в GNU sort, приводящая к выходу за границу буфера</title>
+      <title>Уязвимость в MCP-сервере GitHub, приводящая к утечке информации из приватных репозиториев</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 28 May 2025 15:36:02 +0500</pubDate>
+      <pubDate>Wed, 28 May 2025 16:35:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В утилите sort, поставляемой в составе пакета GNU Coreutils, выявлена уязвимость (CVE-2025-5278), приводящая к обращению к данным вне границы буфера при сортировке с использованием синтаксиса &amp;ldquo;+POS1[.C1][OPTS]&amp;rdquo;, применяемого для выделения сортируемых ключей в обрабатываемых данных. Проблема вызвана целочисленным переполнением (wraparound) в функции begfield(), позволяющим прочитать содержимое одного байта данных вне буфера. Уязвимость может использоваться для вызова аварийного завершения приложений или организации утечки информации из процесса при передаче атакующим специально оформленных параметров сортировки.</description>
+      <description>В GitHub MCP Server, реализации протокола MCP (Model Context Protocol) от GitHub, выявлена уязвимость, позволяющая извлечь данные из приватных репозиториев пользователей, использующих AI-ассистены для автоматизации работы с репозиториями.
+https://www.opennet.ru/opennews/art.shtml?num=63322</description>
     </item>
     
     <item>

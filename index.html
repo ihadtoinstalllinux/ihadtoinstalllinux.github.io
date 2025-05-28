@@ -184,14 +184,15 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Уязвимость в GNU sort, приводящая к выходу за границу буфера
+    <h2>Уязвимость в MCP-сервере GitHub, приводящая к утечке информации из приватных репозиториев
     </h2>
   </header>
   <section class="entry-content">
-    <p>В утилите sort, поставляемой в составе пакета GNU Coreutils, выявлена уязвимость (CVE-2025-5278), приводящая к обращению к данным вне границы буфера при сортировке с использованием синтаксиса “&#43;POS1[.C1][OPTS]”, применяемого для выделения сортируемых ключей в обрабатываемых данных. Проблема вызвана целочисленным переполнением (wraparound) в функции begfield(), позволяющим прочитать содержимое одного байта данных вне буфера. Уязвимость может использоваться для вызова аварийного завершения приложений или организации утечки информации из процесса при передаче атакующим специально оформленных параметров сортировки....</p>
+    <p>В GitHub MCP Server, реализации протокола MCP (Model Context Protocol) от GitHub, выявлена уязвимость, позволяющая извлечь данные из приватных репозиториев пользователей, использующих AI-ассистены для автоматизации работы с репозиториями.
+https://www.opennet.ru/opennews/art.shtml?num=63322</p>
   </section>
-  <footer class="entry-footer"><span title='2025-05-28 15:36:02 +0500 +05'>May 28, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Уязвимость в GNU sort, приводящая к выходу за границу буфера" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2025-05-28 16:35:08 +0500 +05'>May 28, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в MCP-сервере GitHub, приводящая к утечке информации из приватных репозиториев" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
