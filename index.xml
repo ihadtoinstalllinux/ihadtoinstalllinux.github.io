@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 May 2025 14:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск web-браузера Chrome 137</title>
+      <title>Уязвимости в пакетах с Kea DHCP и cyrus-imapd, позволяющие повысить привилегии в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 29 May 2025 01:35:25 +0500</pubDate>
+      <pubDate>Thu, 29 May 2025 14:35:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google опубликовала релиз web-браузера Chrome 137. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей RLZ-параметров при поиске. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+      <description>В применяемых различными дистрибутивами конфигурациях DHCP-сервера Kea, развиваемого консорциумом ISC в качестве замены классического ISC DHCP, выявлены уязвимости, в некоторых ситуациях позволяющие локальному пользователю выполнить код с правами root или перезаписать любой файл в системе.
+https://www.opennet.ru/opennews/art.shtml?num=63324</description>
     </item>
     
     <item>
