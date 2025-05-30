@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 15:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск проприетарного драйвера NVIDIA 575.57</title>
+      <title>Уязвимости в apport и systemd-coredump, позволяющие извлечь хэши паролей пользователей системы</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 May 2025 12:35:26 +0500</pubDate>
+      <pubDate>Fri, 30 May 2025 15:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 575.57. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 575.x стала десятой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+      <description>Компания Qualys выявила две уязвимости в инструментах apport (CVE-2025-5054) и systemd-coredump (CVE-2025-4598), применяемых для обработки core-файлов, генерируемых после аварийного завершения процессов. Уязвимости позволяют получить доступ к core-файлам, сохранённым после аварийного завершения suid-приложений или некоторых системных фоновых процессов, в памяти которых могут содержаться прокэшированные учётные данные или ключи шифрования. Утилита apport автоматически вызывается для сохранения core-дампов в Ubuntu, а systemd-coredump в Red Hat Enterprise Linux 9+, Fedora и многих других дистрибутивах Linux.</description>
     </item>
     
     <item>
