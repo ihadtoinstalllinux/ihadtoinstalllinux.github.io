@@ -6,14 +6,15 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 00:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз минималистичного дистрибутива Alpine Linux 3.22</title>
+      <title>AMD перевёл набор Linux-драйверов Radeon на открытые драйверы OpenGL и Vulkan</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 May 2025 00:35:34 +0500</pubDate>
+      <pubDate>Sat, 31 May 2025 01:35:25 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен релиз Alpine Linux 3.22, минималистичного дистрибутива, построенного на базе системной библиотеки Musl и набора утилит BusyBox. Дистрибутив отличается повышенными требованиями к обеспечению безопасности и собран с защитой SSP (Stack Smashing Protection). В качестве системы инициализации используется OpenRC, для управления пакетами применяется собственный пакетный менеджер apk. Alpine применяется для формирования официальных образов контейнеров Docker и используется в проекте PostmarketOS. Загрузочные iso-образы (x86_64, x86, armhf, aarch64, armv7, ppc64le, s390x, riscv64 и loongarch64) подготовлены в шести вариантах: стандартном (240 МБ), загружаемом по сети (268 МБ), расширенном (1 ГБ), для виртуальных машин (64 MB) и для гипервизора Xen (1 ГБ).</description>
+      <description>Компания AMD опубликовала выпуск набора драйверов AMD Radeon 25.10.1 для Linux (Radeon Software for Linux), работающего поверх модуля AMDGPU, развиваемого в основном составе ядра Linux. Выпуск примечателен реализацией официальной поддержки открытых драйверов RADV и RadeonSI для графических API Vulkan и OpenGL, поставляемых проектом Mesa. Ранее предлагаемые пропритетарные драйверы для Vulkan и OpenGL исключены из набора.
+https://www.opennet.ru/opennews/art.shtml?num=63329</description>
     </item>
     
   </channel>
