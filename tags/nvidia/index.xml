@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>NVIDIA on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nvidia/</link>
+    <description>Recent content in NVIDIA on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 12:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск проприетарного драйвера NVIDIA 575.57</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания NVIDIA опубликовала стабильный выпуск новой ветки проприетарного драйвера NVIDIA 575.57. Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 575.x стала десятой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
