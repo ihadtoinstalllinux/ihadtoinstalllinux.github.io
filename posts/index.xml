@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 12:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системы шифрования дисковых разделов VeraCrypt 1.26.24</title>
+      <title>Выпуск СУБД SQLite 3.50</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 May 2025 12:35:50 +0500</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:35:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта VeraCrypt 1.26.24, развивающего форк системы шифрования дисковых разделов TrueCrypt, прекратившей своё существование. VeraCrypt примечателен заменой используемого в TrueCrypt алгоритма RIPEMD-160 на SHA-512 и SHA-256, увеличением числа итераций хэширования, упрощением процесса сборки для Linux и macOS, устранением проблем, выявленных в процессе аудита исходных текстов TrueCrypt. Разработанный проектом VeraCrypt код распространяется под лицензией Apache 2.0, а заимствования из TrueCrypt продолжают поставляться под лицензией TrueCrypt License 3.0. Готовые сборки формируются для Linux, FreeBSD, Windows и macOS.</description>
+      <description>Опубликован релиз SQLite 3.50, легковесной СУБД, оформленной в виде подключаемой библиотеки. Код SQLite распространяется как общественное достояние (public domain), т.е. может использоваться без ограничений и безвозмездно в любых целях. Финансовую поддержку разработчиков SQLite осуществляет специально созданный консорциум.
+https://www.opennet.ru/opennews/art.shtml?num=63334</description>
     </item>
     
     <item>
