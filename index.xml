@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 01:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 11:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AMD перевёл набор Linux-драйверов Radeon на открытые драйверы OpenGL и Vulkan</title>
+      <title>Опубликованы репозитории CentOS и тестовые сборки RHEL 10 для RISC-V</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 May 2025 01:35:25 +0500</pubDate>
+      <pubDate>Sat, 31 May 2025 11:35:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания AMD опубликовала выпуск набора драйверов AMD Radeon 25.10.1 для Linux (Radeon Software for Linux), работающего поверх модуля AMDGPU, развиваемого в основном составе ядра Linux. Выпуск примечателен реализацией официальной поддержки открытых драйверов RADV и RadeonSI для графических API Vulkan и OpenGL, поставляемых проектом Mesa. Ранее предлагаемые пропритетарные драйверы для Vulkan и OpenGL исключены из набора.
-https://www.opennet.ru/opennews/art.shtml?num=63329</description>
+      <description>Проект CentOS объявил о подготовке git-репозиториев с изменениями, необходимыми для сборки и выполнения дистрибутива на системах с процессорами RISC-V. Специфичные для RISC-V изменения доступны в git-репозиториях проекта в ветках &amp;ldquo;c10s-rv&amp;rdquo;. В ближайшее время подготовленные изменения будут перенесены из отдельных репозиториев в основной состав CentOS Stream, что позволит сформировать штатные сборки CentOS Stream для RISC-V.
+https://www.opennet.ru/opennews/art.shtml?num=63331</description>
     </item>
     
     <item>
