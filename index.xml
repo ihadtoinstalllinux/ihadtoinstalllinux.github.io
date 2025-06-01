@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 12:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jun 2025 00:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Инцидент с подменой коммитов в ветке ядра Linux от Кеса Кука</title>
+      <title>Выпуск программы для распознавания текста dpScreenOCR 1.5.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 01 Jun 2025 12:35:27 +0500</pubDate>
+      <pubDate>Mon, 02 Jun 2025 00:35:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Линус Торвальдс потребовал от администратора kernel.org немедленно заблокировать учётную запись Кеса Кука, бывшего главного сисадмина kernel.org и лидера Ubuntu Security Team, сопровождающего в ядре 14 подсистем, связанных с безопасностью. Константин Рябцев, отвечающий на работу инфраструктуры kernel.org выполнил блокировку. Поводом для блокировки послужил pull-запрос на включение в ветку ядра 6.16 изменений, ссылающийся на git-репозиторий, в котором была изменена информация об авторстве некоторых коммитов.
-https://www.opennet.ru/opennews/art.shtml?num=63336</description>
+      <description>Состоялся выпуск программы для оптического распознавания текста dpScreenOCR 1.5.0, использующей Tesseract. Готовые сборки сформированы для Linux и Windows (также доступны репозитории пакетов для Debian и Ubuntu). Код программы написан на C++ и распространяется под лицензией zlib.
+https://www.opennet.ru/opennews/art.shtml?num=63339</description>
     </item>
     
     <item>
