@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>i2pd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/i2pd/</link>
+    <description>Recent content in i2pd on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 10:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jun 2025 10:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/i2pd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск реализации анонимной сети I2P 2.9.0 и C&#43;&#43;-клиента i2pd 2.57 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Представлен релиз анонимной сети I2P 2.9.0 и C++-клиента i2pd 2.57.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
 https://www.opennet.ru/opennews/art.shtml?num=63344</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
