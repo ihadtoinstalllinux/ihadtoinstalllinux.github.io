@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Redis on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/redis/</link>
+    <description>Recent content in Redis on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 11:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 11:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сравнение производительности СУБД Valkey и Redis</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлены результаты тестирования свежих выпусков СУБД Redis 8.0 и Valkey 8.1, в которых были заявлены значительные оптимизации производительности. Во всех проведённых тестах развиваемый сообществом форк обогнал оригинальный проект, в основном благодаря внедрению в Valkey нового механизма для многопоточной обработки ввода/вывода в асинхронном режиме, переданного проекту компанией Amazon.
 https://www.opennet.ru/opennews/art.shtml?num=63335</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
