@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 01:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 12:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в Python-модуле TarFile, допускающая запись в любые части ФС</title>
+      <title>Выпуск графического тулкита wxWidgets 3.3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 06 Jun 2025 01:35:53 +0500</pubDate>
+      <pubDate>Fri, 06 Jun 2025 12:35:22 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Во входящем в штатную поставку Python модуле tarfile, предоставляющем функции для чтения и записи tar-архивов, выявлено пять уязвимостей, одной из которых присвоен критический уровень опасности. Уязвимости устранены в выпусках Python 3.13.4 и 3.12.11. Наиболее опасная уязвимость (CVE-2025-4517) даёт возможность при распаковке специально оформленного архива записать файлы в любую часть файловой системы. В системных скриптах, использующих tarfile и запускаемых с правами root (например, в утилитах для работы с пакетами и изолированными контейнерами), уязвимость может применяться для повышения своих привилегий или выхода за пределы изолированного контейнера.</description>
+      <description>После трёх лет разработки опубликован выпуск кроссплатформенного тулкита wxWidgets 3.3.0, позволяющего создавать графические интерфейсы для Linux, Windows, macOS, UNIX-подобных систем и мобильных платформ. Тулкит написан на языке С++ и распространяется под свободной лицензией wxWindows Library License, одобренной Фондом СПО и организацией OSI. Лицензия основана на LGPL и позволяет задавать собственные условия для распространения производных работ в бинарной форме.
+https://www.opennet.ru/opennews/art.shtml?num=63366</description>
     </item>
     
     <item>
