@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>LLVM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/llvm/</link>
+    <description>Recent content in LLVM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 17:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 17:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/llvm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Представлен бэкенд TPDE-LLVM, работающий в 10-20 раз быстрее LLVM в режиме без оптимизации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Исследователи из Мюнхенского технического университета опубликовали инструментарий TPDE и основанный на нём бэкенд компилятора для LLVM - TPDE-LLVM, обеспечивающий генерацию машинного кода для архитектур x86-64 и AArch64 на основе промежуточного представления кода LLVM-IR. При тестировании TPDE-LLVM оказался быстрее бэкенда LLVM -O0 (генератор кода без оптимизаций) в 10-20 раз при том же уровне производительности результирующего машинного кода и увеличении размера на 10-30%. Наработки проекта опубликованы под лицензией Apache 2.0.
 https://www.opennet.ru/opennews/art.shtml?num=63368</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
