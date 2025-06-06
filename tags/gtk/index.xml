@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>GTK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gtk/</link>
+    <description>Recent content in GTK on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gtk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В ОС Redox появилась поддержка X11, GTK 3 и Mesa3D EGL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Разработчики операционной системы Redox, написанной с использованием языка Rust и концепции микроядра, объявили о реализации поддержки протокола X11 в развиваемом проектом дисплейном сервере Orbital, использующем библиотеку iced. Добавленная возможность позволяет запускать в Redos приложения, использующие X11, без внесения изменений в код. Реализация поддержки X11 в Orbital концептуально напоминает применение XWayland в окружениях на базе Wayland, и также использует бэкенд DRI для повышения производительности отрисовки.
 https://www.opennet.ru/opennews/art.shtml?num=63367</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

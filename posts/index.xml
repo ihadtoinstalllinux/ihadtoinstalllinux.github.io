@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 12:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 13:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск графического тулкита wxWidgets 3.3.0</title>
+      <title>В ОС Redox появилась поддержка X11, GTK 3 и Mesa3D EGL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 06 Jun 2025 12:35:22 +0500</pubDate>
+      <pubDate>Fri, 06 Jun 2025 13:35:28 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После трёх лет разработки опубликован выпуск кроссплатформенного тулкита wxWidgets 3.3.0, позволяющего создавать графические интерфейсы для Linux, Windows, macOS, UNIX-подобных систем и мобильных платформ. Тулкит написан на языке С++ и распространяется под свободной лицензией wxWindows Library License, одобренной Фондом СПО и организацией OSI. Лицензия основана на LGPL и позволяет задавать собственные условия для распространения производных работ в бинарной форме.
-https://www.opennet.ru/opennews/art.shtml?num=63366</description>
+      <description>Разработчики операционной системы Redox, написанной с использованием языка Rust и концепции микроядра, объявили о реализации поддержки протокола X11 в развиваемом проектом дисплейном сервере Orbital, использующем библиотеку iced. Добавленная возможность позволяет запускать в Redos приложения, использующие X11, без внесения изменений в код. Реализация поддержки X11 в Orbital концептуально напоминает применение XWayland в окружениях на базе Wayland, и также использует бэкенд DRI для повышения производительности отрисовки.
+https://www.opennet.ru/opennews/art.shtml?num=63367</description>
     </item>
     
     <item>
