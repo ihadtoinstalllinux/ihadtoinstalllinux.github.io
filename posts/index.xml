@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 12:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jun 2025 14:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Композитный сервер Hyprland удалён из Debian Testing и не войдёт в релиз Debian 13</title>
+      <title>Выпуск дистрибутива Network Security Toolkit 42</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 08 Jun 2025 12:35:31 +0500</pubDate>
+      <pubDate>Sun, 08 Jun 2025 14:35:48 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Композитный сервер Hyprland и сопутствующие пакеты, такие как hyprland-protocols и hyprutils, удалены из репозитория Debian Testing и не будут включены в стабильный релиз Debian 13, находящийся на финальной стадии подготовки. В ветке Debian Unstable пакеты с Hyprland сохранены, но по-прежнему базируются на устаревшем выпуске 0.41.
-https://www.opennet.ru/opennews/art.shtml?num=63374</description>
+      <description>Представлен релиз Live-дистрибутива NST 42 (Network Security Toolkit), предназначенного для проведения анализа безопасности сети и слежения за её функционированием. Размер загрузочного iso-образа (x86_64) составляет 5 ГБ. Для пользователей Fedora Linux подготовлен специальный репозиторий, дающий возможность установить все созданные в рамках проекта NST наработки в уже установленную систему. Дистрибутив построен на базе Fedora и допускает установку дополнительных пакетов из внешних репозиториев, совместимых с Fedora Linux.
+https://www.opennet.ru/opennews/art.shtml?num=63375</description>
     </item>
     
     <item>
