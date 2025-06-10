@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 17:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 18:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Mesa-драйвер radv добавлена поддержка расширения Vulkan для декодирования видео VP9</title>
+      <title>Ubuntu прекращает поддержку сеанса X11 в GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 10 Jun 2025 17:35:54 +0500</pubDate>
+      <pubDate>Tue, 10 Jun 2025 18:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Дэвид Эйрли (David Airlie), мэйнтейнер подсистемы DRM (Direct Rendering Manager) в ядре Linux, объявил о принятии в состав Mesa изменений, добавляющих в Vulkan-драйвер radv (GPU AMD) поддержку аппаратного ускорения декодирования видео в формате VP9. Возможность реализована при помощи Vulkan-расширения VK_KHR_video_decode_vp9, весной подготовленного рабочей группой Vulkan WG. Аппаратное ускорение доступно для GPU AMD начиная с Navi 10 на базе микроархитектуры RDNA 1.0. Реализация успешно проходит все тесты CTS (Compatibility Test Suite).</description>
+      <description>В осеннем выпуске Ubuntu 25.10 решено прекратить поддержку сеанса GNOME на базе X11 и оставить на экране входа в систему только возможности запуска сеанса на базе Wayland. Возможность запуска X11-приложений при помощи XWayland остаётся без изменений. В дистрибутиве также продолжат поставлять пакеты с компонентами X.org и альтернативными десктоп-окружениями, использующими X11, которые можно будет установить из репозитория.
+https://www.opennet.ru/opennews/art.shtml?num=63383</description>
     </item>
     
     <item>
