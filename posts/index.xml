@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 15:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 16:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз FreeBSD 14.3</title>
+      <title>Открыт инструментарий для разработки на языке Kotlin для ОС Аврора</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 10 Jun 2025 15:35:42 +0500</pubDate>
+      <pubDate>Tue, 10 Jun 2025 16:35:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После шести месяцев разработки сформирован релиз FreeBSD 14.3. Установочные образы подготовлены для архитектур amd64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7, aarch64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
-https://www.opennet.ru/opennews/art.shtml?num=63382</description>
+      <description>Компания &amp;ldquo;Открытая мобильная платформа&amp;rdquo; представила инструментарий, позволяющий использовать в ОС Аврора технологию KMP (Kotlin Multiplatform). KMP позволяет создавать многоплатформенный код на языке Kotlin, вынося общую бизнес-логику в библиотеку, адаптированную для платформ Аврора, Android, iOS, Web или Linux.
+https://www.opennet.ru/opennews/art.shtml?num=63381</description>
     </item>
     
     <item>
