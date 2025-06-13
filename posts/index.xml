@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 00:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 01:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Wayland-Protocols 1.45</title>
+      <title>Прекращена разработка библиотеки управления памятью jemalloc </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 14 Jun 2025 00:35:32 +0500</pubDate>
+      <pubDate>Sat, 14 Jun 2025 01:35:28 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск пакета wayland-protocols 1.45, содержащего набор протоколов и расширений, дополняющих базовый протокол Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
-https://www.opennet.ru/opennews/art.shtml?num=63404</description>
+      <description>Автор библиотеки управления памятью jemalloc объявил о прекращении разработки проекта и перевёл GitHub-репозиторий в архивный режим, допускающий доступ только для чтения. Библиотека jemalloc предлагала альтернативную реализацию функций malloc, оптимизированную для снижения фрагментации и работы на многопроцессорных системах. В 2005 году библиотека была включена в состав FreeBSD, а в 2007 была задействована в Firefox.
+https://www.opennet.ru/opennews/art.shtml?num=63405</description>
     </item>
     
     <item>
