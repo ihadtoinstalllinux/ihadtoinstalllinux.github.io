@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Pixel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pixel/</link>
+    <description>Recent content in Pixel on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jun 2025 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pixel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google прекратил публикацию кода для поддержки устройств Pixel в репозитории с кодом Android</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Разработчики Android-прошивки CalyxOS, не привязанной к сервисам Google, обратили внимание на прекращение публикации компанией Google исходного кода, связанного с поддержкой устройств Pixel в платформе Android. В день релиза Android 16 компания Google разместила в репозитории AOSP (Android Open Source Project) исходный код нового выпуска, но в отличие от прошлых публикаций, на этот раз код охватывал только общие изменения в платформе и фреймворках, и не включал DeviceTree-спецификации и бинарные драйверы для поддержки устройств Google Pixel, а также полную историю изменений в применяемом в платформе варианте ядра Linux.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
