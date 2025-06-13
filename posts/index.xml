@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 00:35:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google прекратил публикацию кода для поддержки устройств Pixel в репозитории с кодом Android</title>
+      <title>Выпуск Wayland-Protocols 1.45</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 13 Jun 2025 13:35:50 +0500</pubDate>
+      <pubDate>Sat, 14 Jun 2025 00:35:32 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики Android-прошивки CalyxOS, не привязанной к сервисам Google, обратили внимание на прекращение публикации компанией Google исходного кода, связанного с поддержкой устройств Pixel в платформе Android. В день релиза Android 16 компания Google разместила в репозитории AOSP (Android Open Source Project) исходный код нового выпуска, но в отличие от прошлых публикаций, на этот раз код охватывал только общие изменения в платформе и фреймворках, и не включал DeviceTree-спецификации и бинарные драйверы для поддержки устройств Google Pixel, а также полную историю изменений в применяемом в платформе варианте ядра Linux.</description>
+      <description>Опубликован выпуск пакета wayland-protocols 1.45, содержащего набор протоколов и расширений, дополняющих базовый протокол Wayland и предоставляющих возможности, необходимые для построения композитных серверов и пользовательских окружений.
+https://www.opennet.ru/opennews/art.shtml?num=63404</description>
     </item>
     
     <item>
