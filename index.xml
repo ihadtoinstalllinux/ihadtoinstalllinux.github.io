@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 01:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 11:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Прекращена разработка библиотеки управления памятью jemalloc </title>
+      <title>Выпуск Wine 10.10 и DXVK 2.6.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 14 Jun 2025 01:35:28 +0500</pubDate>
+      <pubDate>Sat, 14 Jun 2025 11:35:06 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Автор библиотеки управления памятью jemalloc объявил о прекращении разработки проекта и перевёл GitHub-репозиторий в архивный режим, допускающий доступ только для чтения. Библиотека jemalloc предлагала альтернативную реализацию функций malloc, оптимизированную для снижения фрагментации и работы на многопроцессорных системах. В 2005 году библиотека была включена в состав FreeBSD, а в 2007 была задействована в Firefox.
-https://www.opennet.ru/opennews/art.shtml?num=63405</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 10.10. С момента выпуска 10.9 было закрыто 38 отчётов об ошибках и внесено 234 изменения.
+https://www.opennet.ru/opennews/art.shtml?num=63406</description>
     </item>
     
     <item>
