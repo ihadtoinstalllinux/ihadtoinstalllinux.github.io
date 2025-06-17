@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 02:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 11:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системы управления исходными текстами Git 2.50</title>
+      <title>Arch Linux перешёл на 64-разрядные сборки Wine (WoW64)</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 17 Jun 2025 02:35:45 +0500</pubDate>
+      <pubDate>Tue, 17 Jun 2025 11:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск распределенной системы управления исходными текстами Git 2.50. Git отличается высокой производительностью и предоставляет средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, а также удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов. Код Git распространяется под лицензией GPLv2+.
-https://www.opennet.ru/opennews/art.shtml?num=63413</description>
+      <description>Разработчики дистрибутива Arch Linux объявили о сборке по умолчанию Wine и Wine-Staging в режиме Wow64 (64-bit Windows-on-Windows), обеспечивающем выполнение 32-разрядных Windows-приложений в 64-разрядных Unix-системах. Поставка 64-разрядных сборок Wine позволила прекратить использовать для пакетов wine и wine-staging репозиторий multilib с 32-разрядными версиями библиотек.
+https://www.opennet.ru/opennews/art.shtml?num=63418</description>
     </item>
     
     <item>
