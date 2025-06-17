@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>X11 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x11/</link>
+    <description>Recent content in X11 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 14:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 14:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Разработчики САПР KiCad раскритиковали Wayland и рекомендовали использовать X11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Разработчики свободной системы автоматизированного проектирования печатных плат KiCad рассказали о состоянии реализации поддержки Wayland и обобщили проблемы, мешающие полноценному использованию данного протокола. Пользователям, профессионально проектирующим печатные платы в KiCad или желающим получить стабильное и полнофункциональное окружение, рекомендовано запускать KiCad в средах рабочего стола на базе протокола X11, таких как Xfce, MATE или X11-сеанс KDE Plasma.
 https://www.opennet.ru/opennews/art.shtml?num=63419</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

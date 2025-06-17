@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 11:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 14:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arch Linux перешёл на 64-разрядные сборки Wine (WoW64)</title>
+      <title>Разработчики САПР KiCad раскритиковали Wayland и рекомендовали использовать X11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 17 Jun 2025 11:35:55 +0500</pubDate>
+      <pubDate>Tue, 17 Jun 2025 14:35:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики дистрибутива Arch Linux объявили о сборке по умолчанию Wine и Wine-Staging в режиме Wow64 (64-bit Windows-on-Windows), обеспечивающем выполнение 32-разрядных Windows-приложений в 64-разрядных Unix-системах. Поставка 64-разрядных сборок Wine позволила прекратить использовать для пакетов wine и wine-staging репозиторий multilib с 32-разрядными версиями библиотек.
-https://www.opennet.ru/opennews/art.shtml?num=63418</description>
+      <description>Разработчики свободной системы автоматизированного проектирования печатных плат KiCad рассказали о состоянии реализации поддержки Wayland и обобщили проблемы, мешающие полноценному использованию данного протокола. Пользователям, профессионально проектирующим печатные платы в KiCad или желающим получить стабильное и полнофункциональное окружение, рекомендовано запускать KiCad в средах рабочего стола на базе протокола X11, таких как Xfce, MATE или X11-сеанс KDE Plasma.
+https://www.opennet.ru/opennews/art.shtml?num=63419</description>
     </item>
     
     <item>
