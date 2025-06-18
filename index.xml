@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 00:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jun 2025 12:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление X.Org Server 21.1.17 с устранением 6 уязвимостей </title>
+      <title>Уязвимости в PAM и libblockdev, позволяющие получить права root в системе </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 18 Jun 2025 00:35:23 +0500</pubDate>
+      <pubDate>Wed, 18 Jun 2025 12:35:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликованы корректирующие выпуски X.Org Server 21.1.17 и DDX-компонента (Device-Dependent X) xwayland 24.1.7, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новой версии X.Org Server устранено 6 уязвимостей. Проблемы потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.
-https://www.opennet.ru/opennews/art.shtml?num=63423</description>
+      <description>Компания Qualys выявила уязвимость (CVE-2025-6019) в библиотеке libblockdev, позволяющую через манипуляции с фоновым процессом udisks получить права root в системе. Работа прототипа эксплоита продемонстрирована в Ubuntu, Debian, Fedora и openSUSE Leap 15.
+https://www.opennet.ru/opennews/art.shtml?num=63424</description>
     </item>
     
     <item>
