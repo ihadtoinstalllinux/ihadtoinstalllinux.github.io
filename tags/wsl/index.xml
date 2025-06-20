@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>WSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 00:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 00:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обновление WSL 2.6.0, прослойки для запуска Linux в Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Microsoft опубликовала обновление инструментария WSL 2.6.0 (Windows Subsystem for Linux), позволяющего запускать Linux-приложения в Windows. Версия 2.6.0 помечена как первый выпуск после открытия под лицензией MIT применяемых в WSL утилит командной строки, фоновых процессов для Linux-окружений и сервисов для запуска виртуальной машины. До этого был открыт код компонентов WSL, связанных с ядром Linux и графическим стеком wslg, а весь сопутствующий инструментарий являлся проприетарным. Изменения в версии 2.6.0 в основном связаны с исправлением ошибок и повышением стабильности работы.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
