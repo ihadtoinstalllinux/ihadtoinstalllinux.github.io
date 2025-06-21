@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 00:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 13:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление WSL 2.6.0, прослойки для запуска Linux в Windows</title>
+      <title>Сопровождающий libxml2 отказался от особого отношения к устранению уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 21 Jun 2025 00:35:10 +0500</pubDate>
+      <pubDate>Sat, 21 Jun 2025 13:35:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Microsoft опубликовала обновление инструментария WSL 2.6.0 (Windows Subsystem for Linux), позволяющего запускать Linux-приложения в Windows. Версия 2.6.0 помечена как первый выпуск после открытия под лицензией MIT применяемых в WSL утилит командной строки, фоновых процессов для Linux-окружений и сервисов для запуска виртуальной машины. До этого был открыт код компонентов WSL, связанных с ядром Linux и графическим стеком wslg, а весь сопутствующий инструментарий являлся проприетарным. Изменения в версии 2.6.0 в основном связаны с исправлением ошибок и повышением стабильности работы.</description>
+      <description>Ник Велнхофер (Nick Wellnhofer), сопровождающий библиотеку libxml2, объявил, что отныне будет трактовать уязвимости как обычные ошибки. Сообщения об уязвимостях не будут рассматриваться в приоритетном порядке, а станут исправляться по мере появления свободного времени. Информация о сути уязвимости будет размещаться в публичном доступе сразу, не дожидаясь формирования патча и распространения исправления в дистрибутивах и операционных сиcтемах. Ник также снял с себя полномочия сопровождающего библиотеку libxslt и высказал сомнения в том, что найдётся кто-то готовый взять на себя её поддержку.</description>
     </item>
     
     <item>
