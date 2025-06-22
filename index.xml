@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 14:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 00:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Состоялась встреча Билла Гейтса, Дэйва Катлера и Линуса Торвальдса</title>
+      <title>Kubuntu прекращает поставку сеанса X11 в установочных сборках</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 22 Jun 2025 14:35:57 +0500</pubDate>
+      <pubDate>Mon, 23 Jun 2025 00:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Марк Руссинович, автор драйвера NTFS для DOS и технический директор Microsoft Azure, устроил совместный ужин Билла Гейтса, Дэйва Катлера и Линуса Торвальдса. Это была первая встреча Линуса с основателем компании Microsoft и создателем операционных систем ОС Windows NT, RSX-11M, VAXELN и VMS. Отмечается, что никаких важных решений по ядру на ужине не было принято, но возможно это произойдёт при следующей встрече.
-https://www.opennet.ru/opennews/art.shtml?num=63440</description>
+      <description>Разработчики Kubuntu сообщили о прекращении предоставления сеанса KDE на основе X-сервера в базовом окружении. Начиная с выпуска Kubuntu 25.10 в предоставляемых сборках будет оставлен только сеанс на базе Wayland, а для использования сеанса, использующего X-сервер, потребуется вручную установить из репозитория пакет plasma-session-x11. Поддержка запуска x11-приложений при помощи XWayland оставлена без изменений. Ранее похожее решение по прекращении поставки сеанса GNOME на базе X11 было принято для основной сборки Ubuntu Desktop.
+https://www.opennet.ru/opennews/art.shtml?num=63444</description>
     </item>
     
     <item>
