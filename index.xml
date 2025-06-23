@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 00:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 12:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kubuntu прекращает поставку сеанса X11 в установочных сборках</title>
+      <title>Релиз оконного менеджера IceWM 3.8.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 23 Jun 2025 00:36:02 +0500</pubDate>
+      <pubDate>Mon, 23 Jun 2025 12:35:34 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики Kubuntu сообщили о прекращении предоставления сеанса KDE на основе X-сервера в базовом окружении. Начиная с выпуска Kubuntu 25.10 в предоставляемых сборках будет оставлен только сеанс на базе Wayland, а для использования сеанса, использующего X-сервер, потребуется вручную установить из репозитория пакет plasma-session-x11. Поддержка запуска x11-приложений при помощи XWayland оставлена без изменений. Ранее похожее решение по прекращении поставки сеанса GNOME на базе X11 было принято для основной сборки Ubuntu Desktop.
-https://www.opennet.ru/opennews/art.shtml?num=63444</description>
+      <description>Доступен выпуск легковесного оконного менеджера IceWM 3.8.0. IceWM предоставляет полноценное управление через клавиатурные комбинации, возможность использования виртуальных рабочих столов, панели задач и меню-приложений, для группировки окон можно использовать вкладки. Оконный менеджер настраивается через достаточно простой файл конфигурации, возможно использование тем оформления. Поддерживается объединение окон в форме вкладок. Доступны встроенные апплеты для мониторинга CPU, памяти, трафика. Отдельно развивается несколько сторонних GUI для настройки, реализаций рабочего стола и редакторов меню. Код написан на языке С++ и распространяется под лицензией GPLv2.</description>
     </item>
     
     <item>
