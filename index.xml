@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 16:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jun 2025 18:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в пакетных менеджерах Nix, Lix и Guix</title>
+      <title>Опубликована третья редакция формата PNG </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 25 Jun 2025 16:35:35 +0500</pubDate>
+      <pubDate>Wed, 25 Jun 2025 18:35:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В пакетных менеджерах GNU Guix, Nix и Lix выявлены уязвимиости (Nix, Guix, Lix), позволяющие выполнить код с правами пользователей, под которыми запускаются сборочные задания (например, nixbld* в Nix/Lix), что может использоваться для записи своих данных в сборочное окружение и внесения изменений в сборочный процесс. Проблемы присутствуют в фоновых процессах guix-daemon и nix-daemon, применяемых для организации доступа непривилегированных пользователей к сборочным операциям.
-https://www.opennet.ru/opennews/art.shtml?num=63464</description>
+      <description>Консорциум W3C опубликовал третью редакцию спецификации формата изображений PNG, которая получила статус рекомендованного стандарта. Новый вариант полностью обратно совместим со второй редакцией спецификации PNG, выпущенной в 2003 году, и отличается включением таких дополнительных возможностей, как поддержка расширенного динамического диапазона (HDR), анимированных изображений (APNG), интеграции метаданных EXIF и свойств CICP (Coding-Independent Code Points) для определения цветовых пространств.
+https://www.opennet.ru/opennews/art.shtml?num=63466</description>
     </item>
     
     <item>
