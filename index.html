@@ -184,14 +184,15 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Уязвимость в платформе совместной разработки Gogs, позволяющая выполнить код на сервере
+    <h2>Уязвимости в пакетных менеджерах Nix, Lix и Guix
     </h2>
   </header>
   <section class="entry-content">
-    <p>В платформе совместной разработки Gogs выявлена уязвимость, которой присвоен критический уровень опасности (10 из 10). Уязвимость позволяет непривилегированному пользователю Gogs изменить исходный код других пользователей сервиса, а также выполнить произвольные команды на сервере с правами пользователя, указанного через параметр RUN_USER в конфигурации Gogs. Уязвимость устранена в обновлении Gogs 0.13.3. Проблема является следствием неполного исправления уязвимости CVE-2024-39931, раскрытой в декабре. Уязвимость не затрагивает платформы Forgejo и Gitea, продолжающие развитие форка Gogs, созданного в 2016 году....</p>
+    <p>В пакетных менеджерах GNU Guix, Nix и Lix выявлены уязвимиости (Nix, Guix, Lix), позволяющие выполнить код с правами пользователей, под которыми запускаются сборочные задания (например, nixbld* в Nix/Lix), что может использоваться для записи своих данных в сборочное окружение и внесения изменений в сборочный процесс. Проблемы присутствуют в фоновых процессах guix-daemon и nix-daemon, применяемых для организации доступа непривилегированных пользователей к сборочным операциям.
+https://www.opennet.ru/opennews/art.shtml?num=63464</p>
   </section>
-  <footer class="entry-footer"><span title='2025-06-25 13:35:44 +0500 +05'>June 25, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Уязвимость в платформе совместной разработки Gogs, позволяющая выполнить код на сервере" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2025-06-25 16:35:35 +0500 +05'>June 25, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимости в пакетных менеджерах Nix, Lix и Guix" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
