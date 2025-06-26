@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>SP7 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sp7/</link>
+    <description>Recent content in SP7 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 10:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jun 2025 10:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sp7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступен дистрибутив SUSE Linux Enterprise 15 SP7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После года разработки компания SUSE представила релиз дистрибутива SUSE Linux Enterprise 15 SP7. На основе платформы SUSE Linux Enterprise сформированы такие продукты, как SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, SUSE Linux Enterprise High Performance Computing и SUSE Linux Enterprise High Availability Extension. Дистрибутив можно загрузить и использовать бесплатно, но доступ к получению обновлений и исправлений ограничен 60-дневным пробным периодом. Выпуск доступен в сборках для архитектур aarch64, ppc64le, s390x и x86_64.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
