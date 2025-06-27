@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 09:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 10:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Второй бета-выпуск VirtualBox 7.2</title>
+      <title>Выпуск дистрибутива Tails 6.17</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 27 Jun 2025 09:36:04 +0500</pubDate>
+      <pubDate>Fri, 27 Jun 2025 10:35:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Oracle опубликовала второй бета-выпуск системы виртуализации VirtualBox 7.2. Релиз ожидается летом. Сборки со второй бета-версией VirtualBox 7.2 подготовлены для RHEL 8/9/10, Fedora 36/40, openSUSE 15.6, Ubuntu 20.04/22.04/24.04/24.10, Debian 11/12, macOS и Windows. Код проекта написан на языке C++ и распространяется под лицензией GPLv2+.
-https://www.opennet.ru/opennews/art.shtml?num=63478</description>
+      <description>Представлен релиз специализированного дистрибутива Tails 6.17 (The Amnesic Incognito Live System), развиваемого в составе проекта Tor. Дистрибутив основан на пакетной базе Debian 12, поставляется с рабочим столом GNOME 43 и предназначен для анонимного выхода в сеть при помощи инструментария Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 1 ГБ.</description>
     </item>
     
     <item>
