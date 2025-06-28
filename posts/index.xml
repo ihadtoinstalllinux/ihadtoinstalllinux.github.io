@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 13:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В KDE добавлена поддержка инерционной прокрутки и продолжена реализация восстановления сеанса</title>
+      <title>Линус Товальдс намерен исключить Bcachefs из ядра Linux 6.17</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 28 Jun 2025 11:36:01 +0500</pubDate>
+      <pubDate>Sat, 28 Jun 2025 13:35:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стало добавление в ветку KDE Frameworks 6.16 поддержки инерционной прокрутки при помощи тачпада (при прокрутке колесом мыши инерционность не применяется), которая может использоваться во всех прокручиваемых областях приложений, использующих QtQuick.
-https://www.opennet.ru/opennews/art.shtml?num=63488</description>
+      <description>Очередная дискуссия между Линусом Торвальсом и Кентом Оверстритом (Kent Overstreet), автором Bcachefs, завершилась тем, что Линус выразил готовность исключить код Bcachefs из ядра Linux 6.17. При этом Линус принял в состав ядра 6.16 изменения в Bcachefs, ставшие предметом очередного недовольства действиями Кента. Линус написал.
+https://www.opennet.ru/opennews/art.shtml?num=63489</description>
     </item>
     
     <item>
