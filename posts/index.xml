@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 10:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Wine 10.11 и Wine staging 10.11</title>
+      <title>В KDE добавлена поддержка инерционной прокрутки и продолжена реализация восстановления сеанса</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 28 Jun 2025 10:35:10 +0500</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:36:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 10.11. С момента выпуска 10.10 было закрыто 25 отчётов об ошибках и внесено 292 изменения.
-https://www.opennet.ru/opennews/art.shtml?num=63487</description>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стало добавление в ветку KDE Frameworks 6.16 поддержки инерционной прокрутки при помощи тачпада (при прокрутке колесом мыши инерционность не применяется), которая может использоваться во всех прокручиваемых областях приложений, использующих QtQuick.
+https://www.opennet.ru/opennews/art.shtml?num=63488</description>
     </item>
     
     <item>
