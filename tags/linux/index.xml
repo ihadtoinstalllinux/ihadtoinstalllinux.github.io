@@ -6,15 +6,15 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 13:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 17:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Линус Товальдс намерен исключить Bcachefs из ядра Linux 6.17</title>
+      <title>Представлен Tyr, Linux-драйвер для GPU ARM Mali, написанный на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 28 Jun 2025 13:35:12 +0500</pubDate>
+      <pubDate>Sat, 28 Jun 2025 17:35:28 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Очередная дискуссия между Линусом Торвальсом и Кентом Оверстритом (Kent Overstreet), автором Bcachefs, завершилась тем, что Линус выразил готовность исключить код Bcachefs из ядра Linux 6.17. При этом Линус принял в состав ядра 6.16 изменения в Bcachefs, ставшие предметом очередного недовольства действиями Кента. Линус написал.
-https://www.opennet.ru/opennews/art.shtml?num=63489</description>
+      <description>Дэниел Алмейда (Daniel Almeida), занимающийся развитием видеокодеков в компании Collabora, опубликовал в списке рассылки разработчиков Linux-ядра начальную реализацию драйвера Tyr для GPU ARM Mali, в которых применяется технология CSF (Сommand Stream Frontend), таких как Mali G310, G510 и G710. Код драйвера написан на языке Rust и насчитывает чуть больше 600 строк кода. Работа над драйвером Tyr ведётся совместно сотрудниками компаний Collabora, Arm и Google.
+https://www.opennet.ru/opennews/art.shtml?num=63490</description>
     </item>
     
   </channel>
