@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 17:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 11:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлен Tyr, Linux-драйвер для GPU ARM Mali, написанный на Rust</title>
+      <title>Опубликован Wayback, композитный сервер Wayland для запуска рабочих столов на базе X11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 28 Jun 2025 17:35:28 +0500</pubDate>
+      <pubDate>Sun, 29 Jun 2025 11:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Дэниел Алмейда (Daniel Almeida), занимающийся развитием видеокодеков в компании Collabora, опубликовал в списке рассылки разработчиков Linux-ядра начальную реализацию драйвера Tyr для GPU ARM Mali, в которых применяется технология CSF (Сommand Stream Frontend), таких как Mali G310, G510 и G710. Код драйвера написан на языке Rust и насчитывает чуть больше 600 строк кода. Работа над драйвером Tyr ведётся совместно сотрудниками компаний Collabora, Arm и Google.
-https://www.opennet.ru/opennews/art.shtml?num=63490</description>
+      <description>Ариадна Конилл (Ariadne Conill), создатель музыкального проигрывателя Audacious, инициатор разработки протокола IRCv3 и лидер команды по обеспечению безопасности Alpine Linux, опубликовала начальную реализацию прослойки Wayback, позволяющей запускать десктоп-окружения, завязанные на протокол X11, используя компоненты на базе Wayland. Код проекта написан на языке Си и распространяется под лицензией MIT (в файле с кодом указано общественное достояние - CC0).
+https://www.opennet.ru/opennews/art.shtml?num=63491</description>
     </item>
     
     <item>
