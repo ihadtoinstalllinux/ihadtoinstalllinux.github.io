@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Proton on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/proton/</link>
+    <description>Recent content in Proton on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 12:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jul 2025 12:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/proton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обновление Steam Client для Linux с включением по умолчанию Proton для запуска Windows-игр</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Valve опубликовала июньское обновление клиента сервиса доставки игр Steam для Linux. Выпуск примечателен включением по умолчанию пакета Proton для запуска игр, не имеющих родной сборки для Linux. Ранее для данной возможности требовалось отдельно активировать опцию &amp;ldquo;Enable SteamPlay for other titles&amp;rdquo; в настройках. Также в версии для Linux ускорена установка обновлений, которая в некоторых ситуациях занимала минуты, а теперь выполняется за несколько секунд.
 https://www.opennet.ru/opennews/art.shtml?num=63504</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
