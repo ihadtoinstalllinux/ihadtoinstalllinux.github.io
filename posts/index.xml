@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jul 2025 13:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 14:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В инсталляторе Fedora 43 намерены прекратить поддержку MBR на системах x86 с UEFI </title>
+      <title>Выпуск Angie 1.10.0, форка Nginx </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 04 Jul 2025 13:35:59 +0500</pubDate>
+      <pubDate>Fri, 04 Jul 2025 14:35:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В Fedora Linux 43 на системах с архитектурой x86 планируют оставить только возможность использования таблиц разделов GPT (GUID Partition Table) во всех установках Fedora, использующих UEFI. Изменение пока не рассмотрено комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки дистрибутива Fedora. В случае утверждения предложения поддержка установки Fedora в режиме UEFI на диски с таблицами разделом MBR (Master Boot Record) будет прекращена на системах x86, но оставлена на системах ARM и RISC-V.</description>
+      <description>Опубликован выпуск высокопроизводительного HTTP-сервера и многопротокольного прокси-сервера Angie 1.10.0, ответвлённого от Nginx группой бывших разработчиков проекта, уволившихся из компании F5 Network. Исходные тексты Angie доступны под лицензией BSD. Проект получил сертификаты совместимости с российскими операционными системами Ред ОС, Astra Linux Special Edition, Роса Хром Сервер, Альт и ФСТЭК-версии Альт.
+https://www.opennet.ru/opennews/art.shtml?num=63523</description>
     </item>
     
     <item>
