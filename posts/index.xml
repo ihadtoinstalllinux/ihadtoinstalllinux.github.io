@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jul 2025 12:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jul 2025 13:35:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз свободного игрового движка OpenMW 0.49</title>
+      <title>Релиз Multipass 1.16, инструментария для развёртывания Ubuntu в виртуальных машинах</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 05 Jul 2025 12:35:43 +0500</pubDate>
+      <pubDate>Sat, 05 Jul 2025 13:35:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После двух лет разработки опубликован выпуск проекта OpenMW 0.49, развивающего свободную реализацию движка для ролевой игры в жанре фэнтези The Elder Scrolls 3: Morrowind. По сравнению с оригинальным движком в OpenMW реализован модернизированный интерфейс пользователя, улучшена графика, добавлен собственный редактор OpenMW-CS для создания новых игр и модов, задействован движок симуляции физических процессов Bullet, добавлена поддержка платформ macOS и Linux, улучшено поведение ботов.
-https://www.opennet.ru/opennews/art.shtml?num=63525</description>
+      <description>Компания Canonical опубликовала выпуск инструментария multipass 1.16, предназначенного для упрощения установки различных версий Ubuntu в виртуальных машинах, запускаемых в системах виртуализации Linux, Windows и macOS. Выпуск примечателен полным открытием кодовой базы проекта - в репозиторий включён код компонентов для организации работы в Windows и macOS, ранее не распространяемый публично. Код проекта написан на C++ и распространяется под лицензией GPLv3. Для быстрой установки multipass в Ubuntu подготовлен snap-пакет.
+https://www.opennet.ru/opennews/art.shtml?num=63527</description>
     </item>
     
     <item>
