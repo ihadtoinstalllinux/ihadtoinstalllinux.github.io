@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Wayland on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wayland/</link>
+    <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 11:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jul 2025 11:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступен Wayland 1.24</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>После 13 месяцев разработки представлен стабильный релиз протокола, механизма межпроцессного взаимодействия и библиотек Wayland 1.24. Ветка 1.24 обратно совместима на уровне API и ABI с выпусками 1.x и содержит в основном исправления ошибок и незначительные обновления протокола. Наработки проекта распространяются под лицензией MIT. Эталонный композитный сервер Weston, предоставляющий код и рабочие примеры для использования Wayland в десктоп-окружениях и встраиваемых решениях, развивается в рамках отдельного цикла разработки.
 https://www.opennet.ru/opennews/art.shtml?num=63536</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
