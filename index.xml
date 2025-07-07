@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 21:36:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>«Альт Виртуализация» 11.0: быстрая установка, поддержка SDN, обновление через веб-интерфейс, простая миграция из VMware</title>
+      <title>В завтрашнем обновлении Windows Server будет нарушена совместимость с Samba</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 07 Jul 2025 21:36:47 +0500</pubDate>
+      <pubDate>Tue, 08 Jul 2025 00:35:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>«Базальт СПО» выпустила операционную систему «Альт Виртуализация» на 11 платформе.
-https://www.basealt.ru/about/news/archive/view/alt-virtualizacija-110-bystraja-ustanovka-podderzhka-sdn-obnovlenie-cherez-veb-interfeis-prostaja-migracija-iz-vmware</description>
+      <description>Сформированы внеплановые обновления Samba 4.22.3 и 4.21.7, решающие проблему с нарушением совместимости серверов Samba с завтрашним обновлением Windows Server. В случае, если не установить предложенные корректирующие обновления, серверы Samba, не смогут функционировать в роли членов доменов Windows Active Directory, если в настройках для маппинга идентификаторов пользователей задействован бэкенд &amp;lsquo;ad&amp;rsquo;.
+https://www.opennet.ru/opennews/art.shtml?num=63540</description>
     </item>
     
     <item>
