@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 23:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 01:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск почтового клиента Thunderbird 140</title>
+      <title>Уязвимости в Git, допускающие выполнение кода при обращении к внешнему репозиторию</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 08 Jul 2025 23:35:18 +0500</pubDate>
+      <pubDate>Wed, 09 Jul 2025 01:35:52 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз почтового клиента Thunderbird 140, развиваемого силами сообщества и основанного на технологиях Mozilla. Thunderbird 140 построен на кодовой базе ESR-выпуска Firefox 140 и отнесён к категории версий с длительным сроком поддержки, обновления для которых выпускаются в течение года.
-https://www.opennet.ru/opennews/art.shtml?num=63550</description>
+      <description>Опубликованы корректирующие выпуски распределённой системы управления исходными текстами Git 2.43.7, 2.44.4, 2.45.4, 2.46.4, 2.47.3, 2.48.2, 2.49.1 и 2.50.1, в которых устранены уязвимости, позволяющие выполнить свой код на системе пользователя при выполнение операции клонирования репозитория, подконтрольного атакующему.
+https://www.opennet.ru/opennews/art.shtml?num=63552</description>
     </item>
     
     <item>
