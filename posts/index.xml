@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 20:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Сравнение производительности сеансов KDE Plasma на базе X11 и Wayland</title>
+      <title>Проект KDE объявил альтернативные X-серверы нежелательными</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 10 Jul 2025 14:35:08 +0500</pubDate>
+      <pubDate>Thu, 10 Jul 2025 20:35:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Игорь Любунчич (Igor Ljubuncic), до 2024 года отвечавший в компании Canonical за продукты, связанные с высокопроизводительными вычислениями.
-https://www.opennet.ru/opennews/art.shtml?num=63563</description>
+      <description>На wiki-сайте KDE Community в раздел нежелательных для установки пакетов добавлены альтернативные реализации X.org, такие как XLibre. Согласно примечанию, для обеспечения работы сеанса KDE на базе X11 будут поддерживаться только официальный X.Org Server и XWayland. Примечание добавил Ксавьер Хугл (Xaver Hugl), один из ключевых разработчиков композитного менеджера Kwin, занимающий второе место по числу коммитов после 2020 года. До этого проект XLibre считал KDE поддерживаемой средой рабочего стола.
+https://www.opennet.ru/opennews/art.shtml?num=63564</description>
     </item>
     
     <item>
