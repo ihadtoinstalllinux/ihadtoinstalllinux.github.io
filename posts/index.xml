@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 12:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jul 2025 15:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google заменил Android Developer Preview на непрерывно обновляемую ветку Canary</title>
+      <title>Браузерные дополнения вовлекают в построение распределённой сети скрапинга для AI-ботов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 11 Jul 2025 12:35:38 +0500</pubDate>
+      <pubDate>Fri, 11 Jul 2025 15:35:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google объявила об изменении организации тестирования находящихся в разработке будущих выпусков платформы Android. Прекращена публикация отдельных предварительных выпусков Android Developer Preview, вместо которых предложена отдельная постоянно существующая ветка Android Canary, позволяющая разработчикам приложений на ранних стадиях тестировать вносимые в API изменения и улучшения. Формирование бета-выпусков Android, в которых акцент делается не на ознакомлении с новыми API, а на тестировании видимой пользователю функциональности, продолжится без изменений.
-https://www.opennet.ru/opennews/art.shtml?num=63567</description>
+      <description>Исследователи безопасности из компании Secure Annex обратили внимание на рост популярности нового метода монетизации браузерных дополнений, при котором из пользователей дополнений формируется распределённая сеть, применяемая для скрапинга (индексации содержимого сайтов). Системы пользователей используют в качестве web-ботов и прокси для скачивания содержимого сайтов - установленное браузерное дополнение получает с внешнего сервера инструкции по индексации сайтов, после чего в отдельном скрытом iframe запускает загрузку запрошенного контента и передаёт полученные данные внешнему сервису. В каталогах Chrome, Firefox и Edge применение данной схемы монетизации выявлено в 245 дополнениях, в сумме насчитывающих 909 тысяч установок.</description>
     </item>
     
     <item>
