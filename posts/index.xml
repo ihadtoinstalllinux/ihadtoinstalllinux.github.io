@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 20:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jul 2025 01:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Firefox и Safari будет включена поддержка WebGPU</title>
+      <title>Выпуск композитного сервера Hyprland 0.50</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 16 Jul 2025 20:35:45 +0500</pubDate>
+      <pubDate>Thu, 17 Jul 2025 01:35:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Mozilla приняла решение активировать в Firefox поддержку API WebGPU и языка шейдеров WGSL (WebGPU Shading Language). Для платформы Windows поддержка WebGPU будет включена по умолчанию в выпуске Firefox 141, намеченном на 22 июля. Затем в течение нескольких месяцев поддержку WebGPU планируют активировать в сборках для Linux и macOS, а через некоторое время и в версии для платформы Android. Для ручного включения WebGPU можно использовать параметры &amp;ldquo;dom.webgpu.enabled&amp;rdquo; и &amp;ldquo;gfx.webrender.all&amp;rdquo; на странице about:config.</description>
+      <description>Доступен композитный сервер Hyprland 0.50, использующий протокол Wayland. Проект ориентирован на мозаичную (tiling) компоновку окон, но поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Код написан на языке С++ и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=63594</description>
     </item>
     
     <item>
