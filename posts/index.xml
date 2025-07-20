@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 14:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 10:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>KDE перешёл на отрисовку окон со скруглёнными углами</title>
+      <title>Впуск DXVK-Sarek 1.11.0, реализации Direct3D 8/9/10/11 для GPU без поддержки Vulkan 1.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 19 Jul 2025 14:35:21 +0500</pubDate>
+      <pubDate>Sun, 20 Jul 2025 10:35:22 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее значительным изменением, принятым в ветку KDE Plasma 6.5, релиз которой намечен на 16 октября, стало значительное изменение визуального стиля. При использовании темы оформления Breeze, окна теперь отрисовываются в KWin со скруглёнными нижними углами (ранее были скруглены лишь верхние углы, а нижние оставались острыми). Новый вид окон предложен по умолчанию, но при желании может быть отключён в настройках.</description>
+      <description>Опубликован выпуск проекта DXVK-Sarek 1.11.0, развивающего ответвление от прослойки DXVK, нацеленное на работу на системах с GPU или драйверами, ограниченными поддержкой старых версий графического API Vulkan - 1.1 или 1.2. В основном проекте DXVK поддкржка Vulkan 1.3 стала обязательной в выпуске DXVK 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=63608</description>
     </item>
     
     <item>
