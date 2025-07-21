@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 10:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 11:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Впуск DXVK-Sarek 1.11.0, реализации Direct3D 8/9/10/11 для GPU без поддержки Vulkan 1.3</title>
+      <title>Фишинг позволил получить контроль над несколькими популярными NPM-пакетами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 20 Jul 2025 10:35:22 +0500</pubDate>
+      <pubDate>Mon, 21 Jul 2025 11:35:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта DXVK-Sarek 1.11.0, развивающего ответвление от прослойки DXVK, нацеленное на работу на системах с GPU или драйверами, ограниченными поддержкой старых версий графического API Vulkan - 1.1 или 1.2. В основном проекте DXVK поддкржка Vulkan 1.3 стала обязательной в выпуске DXVK 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=63608</description>
+      <description>Зафиксирована фишинг-атака на сопровождающих JavaScript-библиотеки, в ходе которой от имени сервиса NPM было разослано сообщение, уведомляющее о необходимости подтвердить свой email. Проведённая атака позволила злоумышленникам.
+https://www.opennet.ru/opennews/art.shtml?num=63610</description>
     </item>
     
     <item>
