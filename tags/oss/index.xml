@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>OSS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/oss/</link>
+    <description>Recent content in OSS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 12:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/oss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google представил проект OSS Rebuild для выявления скрытых изменений в пакетах</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Google представила проект OSS Rebuild, предназначенный для выявления скрытых изменений в готовых пакетах, публикуемых в репозиториях. Работа OSS Rebuild основана на концепции воспроизводимых сборок и сводится к проверке соответствия размещённого в репозитории пакета с пакетом полученным на основе пересборки из эталонного исходного кода, соответствующего заявленной версии пакета. Код инструментария написан на языке Go и распространяется под лицензией Apache 2.0.
 https://www.opennet.ru/opennews/art.shtml?num=63613</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
