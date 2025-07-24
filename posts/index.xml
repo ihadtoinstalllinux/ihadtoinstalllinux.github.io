@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 14:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jul 2025 15:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива для создания межсетевых экранов OPNsense 25.7</title>
+      <title>Первый выпуск Wayback, прослойки для запуска рабочих столов X11, используя компоненты Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 24 Jul 2025 14:35:07 +0500</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:35:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз дистрибутива для создания межсетевых экранов OPNsense 25.7, который в 2015 году отделился от проекта pfSense с целью разработки полностью открытого дистрибутива, который мог бы обладать функциональностью на уровне коммерческих решений для развёртывания межсетевых экранов и сетевых шлюзов. В отличие от pfSense проект позиционируется как неподконтрольный одной компании, развиваемый при непосредственном участии сообщества и обладающий полностью прозрачным процессом разработки, а также предоставляющий возможность использования любых своих наработок в сторонних продуктах, в том числе коммерческих.</description>
+      <description>Представлен первый экспериментальный выпуск проекта Wayback 0.1, позволяющего запускать десктоп-окружения, завязанные на протокол X11, используя компоненты на базе Wayland. Wayback представляет собой урезанный композитный сервер Wayland, поддерживающий только возможности, необходимые для запуска полноэкранного сеанса X11 при помощи Xwayland (DDX-компонент (Device-Dependent X) для организации выполнения X11-приложений в окружениях на базе Wayland). Код проекта написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=63623</description>
     </item>
     
     <item>
