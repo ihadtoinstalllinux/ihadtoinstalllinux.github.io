@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 13:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jul 2025 14:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В http-сервере Apache 2.4.65 устранена проблема, ломающая работу mod_rewrite</title>
+      <title>Выпуск дистрибутива для создания межсетевых экранов OPNsense 25.7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 24 Jul 2025 13:35:42 +0500</pubDate>
+      <pubDate>Thu, 24 Jul 2025 14:35:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз HTTP-сервера Apache 2.4.65, в котором исправлена критическая ошибка в mod_rewrite из-за которой условия, заданные через выражение &amp;ldquo;RewriteCond&amp;rdquo;, всегда возвращали значение &amp;ldquo;true&amp;rdquo;, т.е. правила всегда срабатывали, независимо от проверяемых данных. Выражение &amp;ldquo;RewriteCond&amp;rdquo; является ключевым в mod_rewrite и применяется для проверки условий в большинстве ситуаций.
-https://www.opennet.ru/opennews/art.shtml?num=63621</description>
+      <description>Опубликован релиз дистрибутива для создания межсетевых экранов OPNsense 25.7, который в 2015 году отделился от проекта pfSense с целью разработки полностью открытого дистрибутива, который мог бы обладать функциональностью на уровне коммерческих решений для развёртывания межсетевых экранов и сетевых шлюзов. В отличие от pfSense проект позиционируется как неподконтрольный одной компании, развиваемый при непосредственном участии сообщества и обладающий полностью прозрачным процессом разработки, а также предоставляющий возможность использования любых своих наработок в сторонних продуктах, в том числе коммерческих.</description>
     </item>
     
     <item>
