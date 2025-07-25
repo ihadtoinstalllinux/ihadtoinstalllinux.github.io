@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>email on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/email/</link>
+    <description>Recent content in email on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jul 2025 00:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 00:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Каталог PyPI убрал блокировку регистрации с email-адресов inbox.ru</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Администраторы репозитория Python-пакетов PyPI (Python Package Index) сняли блокировку, после того как выяснилось, что 1500 проектов были созданы не злоумышленниками, а командой, занимающейся обеспечением безопасности в компании VK, которой принадлежит домен inbox.ru. Целью была заявлена деятельность по предотвращению потенциальных атак на внешние библиотеки, используемые в VK. Представители VK извинились и заверили, что больше не будут подобным образом регистрировать проекты для выявления и предотвращения атак.
 https://www.opennet.ru/opennews/art.shtml?num=63628</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
