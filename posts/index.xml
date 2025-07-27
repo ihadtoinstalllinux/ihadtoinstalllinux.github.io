@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jul 2025 14:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jul 2025 09:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлены правила для AI-ассистентов, применяемых при разработке ядра Linux</title>
+      <title>Обновление sudo 1.9.17p2 с устранением ошибки, отправлявшей SIGHUP всем процессам</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 26 Jul 2025 14:36:00 +0500</pubDate>
+      <pubDate>Sun, 27 Jul 2025 09:35:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Саша Левин (Sasha Levin) из компании NVIDIA, занимающийся сопровождением LTS-веток ядра Linux и входящий в консультативный совет организации Linux Foundation, выставил на обсуждение разработчиков набор правил и документацию, которые должны учитываться AI-ассистентами при генерации изменений для ядра Linux. Ссылки на инструкции отмечены в файлах конфигурации, подготовленных для AI-платформ Claude, GitHub Copilot, Cursor, Codeium, Continue, Windsurf и Aider.
-https://www.opennet.ru/opennews/art.shtml?num=63631</description>
+      <description>Доступен новый выпуск утилиты sudo 1.9.17p2, используемой для организации выполнения команд от имени других пользователей. В новом выпуске устранена проблема, приводившая при определённом стечении обстоятельств к отправке сигнала SUGHUB (завершение работы) не запущенному процессу, а всем процессам в системе.
+https://www.opennet.ru/opennews/art.shtml?num=63633</description>
     </item>
     
     <item>
