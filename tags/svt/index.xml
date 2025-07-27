@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>SVT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/svt/</link>
+    <description>Recent content in SVT on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jul 2025 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Jul 2025 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/svt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск SVT-AV1 3.1.0, кодировщика для формата видео AV1 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован выпуск библиотеки SVT-AV1 3.1.0 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в процессорах x86_64 и ARM расширения для аппаратного распараллеливания вычислений. Проект создан компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработка ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
