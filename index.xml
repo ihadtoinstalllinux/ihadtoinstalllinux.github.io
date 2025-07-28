@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jul 2025 02:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Jul 2025 19:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск SVT-AV1 3.1.0, кодировщика для формата видео AV1 </title>
+      <title>Релиз ядра Linux 6.16</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 28 Jul 2025 02:35:38 +0500</pubDate>
+      <pubDate>Mon, 28 Jul 2025 19:35:21 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск библиотеки SVT-AV1 3.1.0 (Scalable Video Technology AV1) c реализациями кодировщика и декодировщика формата кодирования видео AV1, для ускорения которых задействованы присутствующие в процессорах x86_64 и ARM расширения для аппаратного распараллеливания вычислений. Проект создан компанией Intel в партнёрстве с Netflix с целью достижения уровня производительности, пригодного для перекодирования видео на лету и применения в сервисах, отдающих видео по запросу (VOD). В настоящее время разработка ведётся под эгидой альянса Open Media (AOMedia), курирующего развитие формата кодирования видео AV1.</description>
+      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 6.16. Среди наиболее заметных изменений: драйвер для ускорения OpenVPN, механизм Kexec HandOver, включение по умолчанию пятиуровневых таблицы страниц памяти для x86, удаление протокола DCCP, блочный драйвер zloop, возможность отправки core-дампов через UNIX-сокет, поддержка атомарной записи в XFS, offload-обработка звука для USB-устройств, оптимизации в Ext4, виртуальный драйвер TPM (Trusted Platform Module), полноценная реализация Device Memory TCP, поддержка неименованных каналов в io_uring, подготовка к интеграции DRM-драйвера Asahi, механизм &amp;ldquo;usermode queue&amp;rdquo; в драйвере AMDGPU, поддержка Intel TDE (Trusted Domain Extensions) и Intel APE (Advanced Performance Extensions).</description>
     </item>
     
     <item>
