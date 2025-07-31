@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jul 2025 14:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компания Vivo открыла код ядра BlueOS, написанного на языке Rust</title>
+      <title>Уязвимость в SUSE Manager, позволяющая выполнять root-операции без аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 31 Jul 2025 12:35:16 +0500</pubDate>
+      <pubDate>Thu, 31 Jul 2025 14:35:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Vivo, занимающая около 10% мирового рынка смартфонов (5 место среди производителей смартфонов), представила первый официальный открытый релиз ядра операционной системы BlueOS (Blue River OS). Операционная система BlueOS развивается с 2018 года и уже используется в умных часах серии Vivo Watch. Vivo также работает над применением BlueOS в умных очках, роботах, умных терминалах и потребительских AI-устройствах. Код ядра написан на языке Rust и открыт под лицензией Apache 2.0. На Rust также написаны системные фреймворки BlueOS.</description>
+      <description>В инструментарии SUSE Manager, предназначенном для централизованного управления IT-инфраструктурой, в которой используются различные дистрибутивы Linux, выявлена уязвимость (CVE-2025-46811), позволяющая без аутентификации выполнять команды на любых системах, обслуживаемых через SUSE Manager. Команды выполняются с правами root, что позволяет получить полный контроль над всей инфраструктурой. Проблеме присвоен критический уровень опасности (9.3 из 10).
+https://www.opennet.ru/opennews/art.shtml?num=63651</description>
     </item>
     
     <item>
