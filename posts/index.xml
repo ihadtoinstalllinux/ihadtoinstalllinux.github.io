@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Aug 2025 00:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Aug 2025 01:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск встраиваемой СУБД libmdbx 0.13.6 </title>
+      <title>В AUR-репозитории Arch Linux выявлены ещё 3 вредоносных пакета</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 02 Aug 2025 00:35:43 +0500</pubDate>
+      <pubDate>Sat, 02 Aug 2025 01:35:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск библиотеки libmdbx 0.13.7 (MDBX) с реализацией высокопроизводительной компактной встраиваемой базы данных класса ключ-значение. Код libmdbx распространяется под лицензией Apache 2.0. Поддерживаются все актуальные операционные системы и архитектуры, а также российский Эльбрус 2000. Для libmdbx предлагается развитое API для C++, а также поддерживаемые энтузиастами привязки к языкам Rust, Haskell, Python, NodeJS, Ruby, Go, Nim, Deno, Scala. Из проектов, использующих libmdbx, можно отметить Isar, Erigon и Reth, а также разработки компаний StarkWare и Positive Technologies.</description>
+      <description>В репозитории AUR (Arch User Repository), применяемом в Arch Linux для распространения пакетов от сторонних разработчиков, продолжилась публикация вредоносного кода, интегрированного в пакеты с неофициальными сборками браузеров. В дополнение к выявленным две недели назад вредоносным пакетам firefox-patch-bin, librewolf-fix-bin и zen-browser-patched-bin, в AUR был добавлен пакет google-chrome-stable, также содержащий изменение, устанавливающее вредоносный компонент, предоставляющий удалённый доступ к системе.
+https://www.opennet.ru/opennews/art.shtml?num=63662</description>
     </item>
     
     <item>
