@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Aug 2025 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Стабильный релиз прокси-сервера Squid 7</title>
+      <title>Пакет StarDict в Debian отправляет выделенный текст на внешние серверы </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 04 Aug 2025 13:35:44 +0500</pubDate>
+      <pubDate>Tue, 05 Aug 2025 00:35:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен стабильный релиз прокси-сервера Squid 7.1, готовый для использования в рабочих системах (выпуски 7.0.x имели статус бета-версий). После придания ветке 7.x статуса стабильной, в ней отныне будут производиться только исправления уязвимостей и проблем со стабильностью, также допускается внесение небольших оптимизаций. Разработка новых возможностей будет производиться в новой экспериментальной ветке 8.0. Пользователям прошлой стабильной ветки 6.x рекомендуется спланировать переход на ветку 7.x.
-https://www.opennet.ru/opennews/art.shtml?num=63676</description>
+      <description>В предлагаемом в репозитории Debian Testing (будущий релиз Debian 13) пакете StarDict, реализующем интерфейс для поиска в словарях, выявлена проблема с конфиденциальностью - в конфигурации по умолчанию приложение отправляет помещённый в буфер обмена выделенный текст (x11 PRIMARY selection) на внешние серверы. Достаточно в любом приложении выделить отрывок текста и он сразу отправляется без шифрования по протоколу HTTP на китайские серверы online-словарей dict.youdao.com и dict.cn. Проблема проявляется только при работе в окружениях на базе протокола X11, при использовании Wayland по умолчанию применяется изоляция буфера обмена.</description>
     </item>
     
     <item>

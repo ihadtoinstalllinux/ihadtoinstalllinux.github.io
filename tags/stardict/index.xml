@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>StarDict on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/stardict/</link>
+    <description>Recent content in StarDict on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/stardict/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Пакет StarDict в Debian отправляет выделенный текст на внешние серверы </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>В предлагаемом в репозитории Debian Testing (будущий релиз Debian 13) пакете StarDict, реализующем интерфейс для поиска в словарях, выявлена проблема с конфиденциальностью - в конфигурации по умолчанию приложение отправляет помещённый в буфер обмена выделенный текст (x11 PRIMARY selection) на внешние серверы. Достаточно в любом приложении выделить отрывок текста и он сразу отправляется без шифрования по протоколу HTTP на китайские серверы online-словарей dict.youdao.com и dict.cn. Проблема проявляется только при работе в окружениях на базе протокола X11, при использовании Wayland по умолчанию применяется изоляция буфера обмена.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
