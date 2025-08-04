@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Aug 2025 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 12:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Четвёртый экспериментальный выпуск среды рабочего стола Orbitiny </title>
+      <title>В Clang намерены добавить режим усиленной безопасности</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 04 Aug 2025 11:35:37 +0500</pubDate>
+      <pubDate>Mon, 04 Aug 2025 12:35:34 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован четвёртый выпуск среды рабочего стола Orbitiny Desktop, написанной с нуля с использованием фреймворка Qt. Проект пытается совместить некоторые инновационные идеи, которые раньше не встречались в пользовательских окружениях, с традиционными элементами, такими как панель, меню и размещение пиктограмм на рабочем столе. Код написан на языке C++ и распространяется под лицензией GPL.
-https://www.opennet.ru/opennews/art.shtml?num=63674</description>
+      <description>Аарон Баллман (Aaron Ballman), главный сопровождающий компилятор Clang и участник команд разработки стандартов WG21 (C++) и WG14 (C), начал обсуждение добавления в компилятор Clang режима усиления безопасности. Новый режим позволит разом активировать набор опций для усиления защиты по аналогии с добавленным в GCC 14 флагом &amp;ldquo;-fhardened&amp;rdquo;, при котором включаются опции &amp;ldquo;-D_FORTIFY_SOURCE=3 -D_GLIBCXX_ASSERTIONS -ftrivial-auto-var-init=zero -fPIE -pie -Wl,-z,relro,-z,now -fstack-protector-strong -fstack-clash-protection -fcf-protection=full&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=63675</description>
     </item>
     
     <item>
