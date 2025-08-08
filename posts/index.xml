@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Aug 2025 01:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Aug 2025 11:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Lanemu P2P VPN 0.12.3</title>
+      <title>Выпуск Rust 1.89. Около 8% в Debian Sid завязаны на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 08 Aug 2025 01:35:22 +0500</pubDate>
+      <pubDate>Fri, 08 Aug 2025 11:35:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся выпуск Lanemu P2P VPN 0.12.3 - реализации децентрализованной виртуальной частной сети, работающей по принципу Peer-To-Peer, при котором участники подключены друг к другу, а не через центральный сервер. Участники сети могут находить друг друга через BitTorrent-трекеры или BitTorrent DHT, либо через других участников сети (peer exchange). Приложение является бесплатным и открытым аналогом VPN Hamachi, написано на языке Java (c отдельными компонентами на языке Си) и распространяется под лицензией GNU LGPL 3.</description>
+      <description>Опубликован релиз языка программирования Rust 1.89, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=63697</description>
     </item>
     
     <item>
