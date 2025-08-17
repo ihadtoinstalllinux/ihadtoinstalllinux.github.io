@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 12:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект FFmpeg переходит на платформу совместной разработки Forgejo</title>
+      <title>Для тестирования в Fedora предложены пакеты с альтернативным X-сервером XLibre</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 17 Aug 2025 11:35:56 +0500</pubDate>
+      <pubDate>Sun, 17 Aug 2025 12:35:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики мультимедиа-пакета FFmpeg, включающего набор приложений и коллекцию библиотек для операций над различными мультимедиа-форматами, ввели в строй новую инфраструктуру для совместной работы с кодом, основанную на открытой платформе Forgejo. В качестве рекомендованного метода отправки изменений теперь указана передача pull-запросов в Git-репозиторий в инфраструктуре Forgejo, вместо отправки патчей в форме писем в список рассылки ffmpeg-devel. Ранее для навигации по коду в основном репозитории применялся GitWeb, а на GitHub было развёрнуто зеркало, через которое не поддерживался приём pull-запросов.</description>
+      <description>Кевин Кофлер (Kevin Kofler) из проекта Fedora, входящий в рабочую группу, занимающуюся сопровождением пакетов с KDE, объявил о формировании для Fedora пакетов с XLibre X Server, форком X.Org Server, нацеленным на активное развитие и проведение большой чистки X-сервера. Для использования с XLibre также подготовлены пакеты с совместимыми драйверами xorg-x11-drv-*.
+https://www.opennet.ru/opennews/art.shtml?num=63736</description>
     </item>
     
     <item>
