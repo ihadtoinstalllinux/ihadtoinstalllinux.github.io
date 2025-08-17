@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 10:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск видеоредактора Shotcut 25.08</title>
+      <title>Проект FFmpeg переходит на платформу совместной разработки Forgejo</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 17 Aug 2025 10:35:50 +0500</pubDate>
+      <pubDate>Sun, 17 Aug 2025 11:35:56 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз видеоредактора Shotcut 25.08, развиваемого автором проекта MLT и использующего данный фреймворк для редактирования видео. Поддержка форматов видео и звука реализована через FFmpeg. Возможно использование плагинов с реализацией видео и аудио эффектов, совместимых с Frei0r и LADSPA. Из особенностей Shotcut можно отметить возможность многотрекового редактирования с компоновкой видео из фрагментов в различных исходных форматах, без необходимости их предварительного импортирования или перекодирования. Имеются встроенные средства для создания скринкастов, обработки изображения с web-камеры и приёма потокового видео.</description>
+      <description>Разработчики мультимедиа-пакета FFmpeg, включающего набор приложений и коллекцию библиотек для операций над различными мультимедиа-форматами, ввели в строй новую инфраструктуру для совместной работы с кодом, основанную на открытой платформе Forgejo. В качестве рекомендованного метода отправки изменений теперь указана передача pull-запросов в Git-репозиторий в инфраструктуре Forgejo, вместо отправки патчей в форме писем в список рассылки ffmpeg-devel. Ранее для навигации по коду в основном репозитории применялся GitWeb, а на GitHub было развёрнуто зеркало, через которое не поддерживался приём pull-запросов.</description>
     </item>
     
     <item>
