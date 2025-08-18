@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>USB on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/usb/</link>
+    <description>Recent content in USB on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 00:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 00:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/usb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Ventoy 1.1.07, инструментария для загрузки произвольных систем с USB-носителей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован выпуск инструментария Ventoy 1.1.07, предназначенного для создания загрузочных USB-носителей, включающих несколько операционных систем. Программа позволяет загрузить ОС из неизменных ISO-, WIM-, IMG-, VHD- и EFI-образов, не требуя распаковки образа или переформатирования носителя. Достаточно просто скопировать интересующий набор iso-образов на USB Flash с загрузчиком Ventoy, и он обеспечит загрузку операционных систем, находящихся внутри образов. В любой момент можно заменить или добавить новые iso-образы, просто скопировав новые файлы, что удобно для тестирования и предварительного ознакомления с различными дистрибутивами и операционными системами.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
