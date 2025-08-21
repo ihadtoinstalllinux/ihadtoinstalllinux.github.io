@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Aug 2025 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В разработку редактора кода Zed инвестировано $42 млн. Создан Zedless, форк Zed</title>
+      <title>В репозитории PyPI реализована блокировка email с освобождёнными доменами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 21 Aug 2025 12:35:07 +0500</pubDate>
+      <pubDate>Thu, 21 Aug 2025 13:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Zed Industries, разрабатывающая открытый редактор кода Zed, объявила об инвестировании в проект 35 млн долларов венчурным фондом Sequoia. С учётом прошлых денежных вливаний общий объём инвестиций в разработку Zed превысил 42 млн долларов. Деньги выделены на развитие нового метода совместной работы над кодом, при котором обсуждение кода привязывается к самому коду.
-https://www.opennet.ru/opennews/art.shtml?num=63752</description>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) реализовали защиту от захвата проектов путём покупки освобождённых доменов, указанных в параметрах учётных записей. Атака сводится к тому, что атакующие выискивают учётные записи, привязанные к email с просроченными доменами, после чего регистрируют освобождённый домен на себя, перенаправляют почтовый трафик на свой сервер и, получив контроль над email, инициируют процесс восстановления забытого пароля. В 2022 году данным способом был получен контроль за Python-пакетом ctx.</description>
     </item>
     
     <item>
