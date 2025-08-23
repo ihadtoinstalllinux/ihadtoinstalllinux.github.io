@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 00:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В KDE появился мастер начальной настройки </title>
+      <title>Выпуск PowerDNS Authoritative Server 5.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 Aug 2025 13:35:47 +0500</pubDate>
+      <pubDate>Sun, 24 Aug 2025 00:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стало добавление в ветку, на основе которой формируется выпуск KDE Plasma 6.5, мастера начальной настройки системы (KISS - KDE Initial System Setup), который дополняет экран приветствия входа в систему (Welcome Center). В KDE Initial System Setup предложены системные операции, выполняется до первого входа в систему после установки, такие как как создание нового пользователя под которым будет осуществляться дальнейшая работа, выбор языка и часового пояса, настройка раскладки клавиатуры и конфигурирование сетевого доступа.</description>
+      <description>Опубликован релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 5.0, предназначенного для организации отдачи DNS-зон. В лучшие времена PowerDNS Authoritative Server обслуживал до 30% из общего числа доменов в Европе и до 90% доменов с DNSSEC. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=63767</description>
     </item>
     
     <item>
