@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 12:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Aug 2025 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Первый выпуск минималистичной системы инициализации Nitro</title>
+      <title>В KDE появился мастер начальной настройки </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 Aug 2025 12:35:55 +0500</pubDate>
+      <pubDate>Sat, 23 Aug 2025 13:35:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован первый публичный выпуск проекта Nitro, развивающего минималистичную систему инициализации c функциями контроля над выполнением процессов. Проект развивает Лия Нойкирхен (Leah Neukirchen), одна из сопровождающих пакеты в дистрибутиве Void Linux. Код написан на языке Си и распространяется под лицензий 0BSD.
-https://www.opennet.ru/opennews/art.shtml?num=63764</description>
+      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стало добавление в ветку, на основе которой формируется выпуск KDE Plasma 6.5, мастера начальной настройки системы (KISS - KDE Initial System Setup), который дополняет экран приветствия входа в систему (Welcome Center). В KDE Initial System Setup предложены системные операции, выполняется до первого входа в систему после установки, такие как как создание нового пользователя под которым будет осуществляться дальнейшая работа, выбор языка и часового пояса, настройка раскладки клавиатуры и конфигурирование сетевого доступа.</description>
     </item>
     
     <item>

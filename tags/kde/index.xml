@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>KDE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kde/</link>
+    <description>Recent content in KDE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Aug 2025 13:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В KDE появился мастер начальной настройки </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметным изменением стало добавление в ветку, на основе которой формируется выпуск KDE Plasma 6.5, мастера начальной настройки системы (KISS - KDE Initial System Setup), который дополняет экран приветствия входа в систему (Welcome Center). В KDE Initial System Setup предложены системные операции, выполняется до первого входа в систему после установки, такие как как создание нового пользователя под которым будет осуществляться дальнейшая работа, выбор языка и часового пояса, настройка раскладки клавиатуры и конфигурирование сетевого доступа.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
