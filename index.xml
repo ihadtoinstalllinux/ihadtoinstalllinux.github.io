@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 10:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Aug 2025 11:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>whomade - процесс, запоминающий кто создал файлы в отслеживаемых каталогах</title>
+      <title>Проект Wine опубликовал Vkd3d 1.17 с реализацией Direct3D 12 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 Aug 2025 10:35:31 +0500</pubDate>
+      <pubDate>Sat, 23 Aug 2025 11:35:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Для определения приложений, создающих расходующие дисковое пространство файлы в домашнем каталоге пользователя, подготовлен фоновый процесс whomade, отслеживающий появление новых файлов при помощи механизма fanotify. Проект написан на языке С++ и распространяется под лицензией GPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=63761</description>
+      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.17 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
+https://www.opennet.ru/opennews/art.shtml?num=63757</description>
     </item>
     
     <item>
