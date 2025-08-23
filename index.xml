@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 11:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Aug 2025 12:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Wine опубликовал Vkd3d 1.17 с реализацией Direct3D 12 </title>
+      <title>Первый выпуск минималистичной системы инициализации Nitro</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 Aug 2025 11:35:50 +0500</pubDate>
+      <pubDate>Sat, 23 Aug 2025 12:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Wine опубликовал выпуск пакета vkd3d 1.17 с реализацией Direct3D 12, работающей через трансляцию вызовов в графический API Vulkan. В состав пакета входят библиотеки libvkd3d с реализаций Direct3D 12, libvkd3d-shader c транслятором 4 и 5 модели шейдеров и libvkd3d-utils с функциями для упрощения портирования приложений Direct3D 12, а также набор демонстрационных примеров, включая порт glxgears на Direct3D 12. Код проекта распространяется под лицензией LGPLv2.1.
-https://www.opennet.ru/opennews/art.shtml?num=63757</description>
+      <description>Опубликован первый публичный выпуск проекта Nitro, развивающего минималистичную систему инициализации c функциями контроля над выполнением процессов. Проект развивает Лия Нойкирхен (Leah Neukirchen), одна из сопровождающих пакеты в дистрибутиве Void Linux. Код написан на языке Си и распространяется под лицензий 0BSD.
+https://www.opennet.ru/opennews/art.shtml?num=63764</description>
     </item>
     
     <item>
