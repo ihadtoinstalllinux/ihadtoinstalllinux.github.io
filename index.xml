@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 00:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 13:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск PowerDNS Authoritative Server 5.0</title>
+      <title>Атака на браузерные дополнения с менеджерами паролей, использующая кликджекинг</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 24 Aug 2025 00:35:45 +0500</pubDate>
+      <pubDate>Sun, 24 Aug 2025 13:35:25 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз авторитетного (authoritative) DNS-сервера PowerDNS Authoritative Server 5.0, предназначенного для организации отдачи DNS-зон. В лучшие времена PowerDNS Authoritative Server обслуживал до 30% из общего числа доменов в Европе и до 90% доменов с DNSSEC. Код проекта распространяется под лицензией GPLv2.
-https://www.opennet.ru/opennews/art.shtml?num=63767</description>
+      <description>На конференции DEF CON 33 представлен метод атаки на браузерные дополнения, подставляющие свои элементы интерфейса в просматриваемую страницу. Применение атаки к дополнениям с менеджерами паролей может привести к утечке хранимой в менеджерах паролей информации, такой как параметры аутентификации, параметры кредитных карт, персональные данные и одноразовые пароли для двухфакторной аутентификации. Проблема затрагивает все протестированные менеджеры паролей, включая 1Password, Bitwarden, LastPass, KeePassXC-Browser, NordPass, ProtonPass и Keeper.
+https://www.opennet.ru/opennews/art.shtml?num=63754</description>
     </item>
     
     <item>
