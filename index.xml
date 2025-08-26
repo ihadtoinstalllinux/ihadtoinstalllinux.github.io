@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Aug 2025 23:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 01:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Ubuntu по умолчанию задействован sudo-rs, написанный на Rust</title>
+      <title>Проект GhostBSD начал тестирование собственной среды рабочего стола Gershwin</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 26 Aug 2025 23:35:16 +0500</pubDate>
+      <pubDate>Wed, 27 Aug 2025 01:35:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В ежедневно обновляемых экспериментальных сборках Ubuntu, отражающих развитие осеннего выпуска Ubuntu 25.10, вместо утилиты sudo по умолчанию задействован проект sudo-rs, написанный на языке Rust.
-https://www.opennet.ru/opennews/art.shtml?num=63779</description>
+      <description>Представлен релиз десктоп-ориентированного дистрибутива GhostBSD 25.02, построенного на базе FreeBSD 14 и предлагающего сборки с пользовательскими окружениями MATE, Xfce и Gershwin. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64 (3.7 ГБ с MATE, 3.4 ГБ c Xfce, 3.3 ГБ c Gershwin).
+https://www.opennet.ru/opennews/art.shtml?num=63780</description>
     </item>
     
     <item>
