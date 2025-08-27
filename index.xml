@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Aug 2025 11:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 20:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован эмулятор QEMU 10.1.0 </title>
+      <title>Релиз набора компиляторов LLVM 21</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 27 Aug 2025 11:36:02 +0500</pubDate>
+      <pubDate>Wed, 27 Aug 2025 20:35:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз проекта QEMU 10.1.0. В качестве эмулятора QEMU позволяет запустить программу, собранную для одной аппаратной платформы на системе с совершенно иной архитектурой, например, выполнить приложение для ARM на x86-совместимом ПК. В режиме виртуализации в QEMU производительность выполнения кода в изолированном окружении близка к аппаратной системе за счёт прямого выполнения инструкций на CPU и задействования гипервизора Xen или модуля KVM в Linux, или модуля NVMM в NetBSD.
-https://www.opennet.ru/opennews/art.shtml?num=63782</description>
+      <description>После шести месяцев разработки представлен релиз проекта LLVM 21.1.0, развивающего инструментарий (компиляторы, оптимизаторы и генераторы кода), компилирующий программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован в машинный код для заданной целевой платформы или использован JIT-компилятором для формирования машинных инструкций непосредственно во время выполнения программы. На базе технологий LLVM проектом развивается компилятор Clang, поддерживающий языки программирования C, C++ и Objective-C. Начиная с ветки 18.</description>
     </item>
     
     <item>
