@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Cozystack on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cozystack/</link>
+    <description>Recent content in Cozystack on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Aug 2025 23:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 23:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cozystack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Cozystack 0.35, открытой PaaS-платформы на базе Kubernetes </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Доступен выпуск свободной PaaS-платформы Cozystack 0.35, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
 https://www.opennet.ru/opennews/art.shtml?num=63775</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
