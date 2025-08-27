@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Aug 2025 09:36:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 11:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Решение «НИО-Электроникс», защищающее от утери USB-токенов, совместимо с операционными системам «Альт»</title>
+      <title>Опубликован эмулятор QEMU 10.1.0 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 27 Aug 2025 09:36:55 +0500</pubDate>
+      <pubDate>Wed, 27 Aug 2025 11:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>NIO-EUSB на базе ОС «Альт» позволяет исключить болезненную проблему утери сотрудниками ключей на USB-устройствах, с которой сталкиваются многие организации.
-https://www.basealt.ru/about/news/archive/view/reshenie-nio-ehlektroniks-zashchishchajushchee-ot-uteri-usb-tokenov-sovmestimo-s-operacionnymi-sistemam-alt</description>
+      <description>Представлен релиз проекта QEMU 10.1.0. В качестве эмулятора QEMU позволяет запустить программу, собранную для одной аппаратной платформы на системе с совершенно иной архитектурой, например, выполнить приложение для ARM на x86-совместимом ПК. В режиме виртуализации в QEMU производительность выполнения кода в изолированном окружении близка к аппаратной системе за счёт прямого выполнения инструкций на CPU и задействования гипервизора Xen или модуля KVM в Linux, или модуля NVMM в NetBSD.
+https://www.opennet.ru/opennews/art.shtml?num=63782</description>
     </item>
     
     <item>
