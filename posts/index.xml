@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2025 09:36:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 10:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>«Базальт СПО» и Eltex заключили соглашение о сотрудничестве в ИТ-сфере</title>
+      <title>Возможное повреждение CPU AMD Zen 5 при использовании библиотеки GNU MP</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 28 Aug 2025 09:36:16 +0500</pubDate>
+      <pubDate>Thu, 28 Aug 2025 10:35:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>«Базальт СПО» и российский производитель телекоммуникационного оборудования Eltex подписали партнерское соглашение. Ранее вендоры подтвердили совместимость ОС «Альт Сервер» 10 с облачным сервером ECCM.
-https://www.basealt.ru/about/news/archive/view/bazalt-spo-i-eltex-zakljuchili-soglashenie-o-sotrudnichestve-v-it-sfere</description>
+      <description>Разработчики библиотеки GNU MP (GMP), предоставляющей функции для выполнения арифметических операций с произвольной точностью, предупредили пользователей об инциденте с повторным выходом из строя процессоров серии AMD Ryzen 9000 на базе микроархитектуры Zen 5 в ходе тестирования работы библиотеки. Предполагается, что повреждение процессоров было вызвано перегревом, возникающим при интенсивном выполнении функций GMP. До завершения полного анализа проблемы пользователям не рекомендовано активно использовать GMP на системах с CPU AMD Zen 5.
+https://www.opennet.ru/opennews/art.shtml?num=63786</description>
     </item>
     
     <item>
