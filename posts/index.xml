@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2025 10:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Возможное повреждение CPU AMD Zen 5 при использовании библиотеки GNU MP</title>
+      <title>Второй бета-выпуск пакетного менеджера RPM 6.0 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 28 Aug 2025 10:35:40 +0500</pubDate>
+      <pubDate>Thu, 28 Aug 2025 11:35:37 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики библиотеки GNU MP (GMP), предоставляющей функции для выполнения арифметических операций с произвольной точностью, предупредили пользователей об инциденте с повторным выходом из строя процессоров серии AMD Ryzen 9000 на базе микроархитектуры Zen 5 в ходе тестирования работы библиотеки. Предполагается, что повреждение процессоров было вызвано перегревом, возникающим при интенсивном выполнении функций GMP. До завершения полного анализа проблемы пользователям не рекомендовано активно использовать GMP на системах с CPU AMD Zen 5.
-https://www.opennet.ru/opennews/art.shtml?num=63786</description>
+      <description>Компания Red Hat опубликовала второй бета-выпуск пакетного менеджера RPM 6.0, который будет задействован в осеннем выпуске дистрибутива Fedora Linux 43. Проект используется в таких дистрибутивах, как RHEL, Fedora, SUSE, openSUSE, ALT Linux, Rosa Linux, OpenMandriva, Mageia, PCLinuxOS и Tizen. Код RPM распространяется под лицензиями GPLv2 и LGPLv2. Версии RPM 5 пропущена для исключения пересечений с проектом RPM5, который не связан с RPM от Red Hat и развивался независимыми разработчиками.
+https://www.opennet.ru/opennews/art.shtml?num=63787</description>
     </item>
     
     <item>
