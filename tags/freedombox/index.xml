@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>FreedomBox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/freedombox/</link>
+    <description>Recent content in FreedomBox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Aug 2025 15:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Aug 2025 15:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/freedombox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обновление платформы для создания персональных серверов FreedomBox</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликованы новые сборки FreedomBox Trixie, переведённые на пакетную базу Debian 13. Проектом развивается система для простого развёртывания персональных серверов, обеспечивающих защиту персональных данных пользователей и позволяющих быстро запустить на своём оборудовании типовые сервисы, которые могут применяться для личного использования. Все развиваемые проектом наработки доступны через репозитории Debian. Установочный образ сформирован для архитектуры x86_64 (формирование сборок i386 прекращено). При желании можно создать собственный образ при помощи специального инсталлятора Freedom-Maker и конфигуратора freedombox-setup.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
