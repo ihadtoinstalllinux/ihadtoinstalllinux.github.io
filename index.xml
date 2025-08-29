@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Aug 2025 01:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Aug 2025 02:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен графический тулкит GTK 4.20</title>
+      <title>ФС Bcachefs в ядре Linux переведена в режим внешнего сопровождения</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 30 Aug 2025 01:35:46 +0500</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После шести месяцев разработки опубликован релиз многоплатформенного тулкита для создания графического интерфейса пользователя - GTK 4.20. GTK 4 развивается в рамках процесса разработки, который пытается предоставить разработчикам приложений стабильный и поддерживаемый в течение нескольких лет API, который можно использовать не опасаясь, что каждые полгода придётся переделывать приложения из-за изменения API в очередной ветке GTK.
-https://www.opennet.ru/opennews/art.shtml?num=63795</description>
+      <description>Линус Торвальдс изменил статус поддержки bcachefs в ядре Linux на &amp;ldquo;внешнее сопровождение&amp;rdquo; (Externally maintained). В примечании к изменению отмечено, что решение принято после длительных дискуссий, как публичных, так и приватных. Фактически новый статус подразумевает прекращение приёма изменений для Bcachefs, но сохранение данной ФС в замороженном виде в основном составе ядра. До того как Кент Оверстрит на деле не докажет возможность корректного взаимодействия с другими разработчиками ядра и способность следовать устоявшимся правилам разработки, дальнейшая разработка Bcachefs будет производиться вне кодовой базы ядра.</description>
     </item>
     
     <item>
