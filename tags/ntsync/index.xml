@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>ntsync on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntsync/</link>
+    <description>Recent content in ntsync on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Sep 2025 11:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 11:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntsync/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Wine интегрирована поддержка ntsync для повышения производительности игр</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>В кодовую базу Wine, на основе которой через неделю будет сформирован выпуск 10.15, добавлена поддержка драйвера ntsync, позволяющего существенно поднять производительность Windows-игр, запускаемых при помощи Wine. Драйвер входит в состав ядра Linux начиная с выпуска 6.14 и реализует символьное устройство /dev/ntsync и набор примитивов для синхронизации, применяемых в ядре Windows NT.
 https://www.opennet.ru/opennews/art.shtml?num=63830</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
