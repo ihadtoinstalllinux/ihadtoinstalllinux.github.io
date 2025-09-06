@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Sep 2025 11:35:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Wine интегрирована поддержка ntsync для повышения производительности игр</title>
+      <title>В ходе атаки GhostAction скомпрометировано 817 репозиториев на GitHub</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 06 Sep 2025 11:35:51 +0500</pubDate>
+      <pubDate>Sat, 06 Sep 2025 12:35:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В кодовую базу Wine, на основе которой через неделю будет сформирован выпуск 10.15, добавлена поддержка драйвера ntsync, позволяющего существенно поднять производительность Windows-игр, запускаемых при помощи Wine. Драйвер входит в состав ядра Linux начиная с выпуска 6.14 и реализует символьное устройство /dev/ntsync и набор примитивов для синхронизации, применяемых в ядре Windows NT.
-https://www.opennet.ru/opennews/art.shtml?num=63830</description>
+      <description>Исследователи из компании GitGuardian выявили массовую атаку на пользователей GitHub, в ходе которой был получен контроль над 327 учётными записями и осуществлена подстановка вредоносного обработчика Github Action в 817 репозиториев. Атака привела к утечке 3325 секретов, используемых в системах непрерывной интеграции и передаваемых через переменные окружения, включая токены доступа к PyPI, GitHub, NPM, DockerHub и различным облачным хранилищам.
+https://www.opennet.ru/opennews/art.shtml?num=63831</description>
     </item>
     
     <item>
