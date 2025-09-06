@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Sep 2025 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 23:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В ходе атаки GhostAction скомпрометировано 817 репозиториев на GitHub</title>
+      <title>Новые версии Debian 13.1 и 12.12 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 06 Sep 2025 12:35:16 +0500</pubDate>
+      <pubDate>Sat, 06 Sep 2025 23:35:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из компании GitGuardian выявили массовую атаку на пользователей GitHub, в ходе которой был получен контроль над 327 учётными записями и осуществлена подстановка вредоносного обработчика Github Action в 817 репозиториев. Атака привела к утечке 3325 секретов, используемых в системах непрерывной интеграции и передаваемых через переменные окружения, включая токены доступа к PyPI, GitHub, NPM, DockerHub и различным облачным хранилищам.
-https://www.opennet.ru/opennews/art.shtml?num=63831</description>
+      <description>Сформировано первое корректирующее обновление дистрибутива Debian 13, в которое включены обновления пакетов, выпущенные за месяц с момента релиза новой ветки, и устранены недоработки в инсталляторе. Выпуск включает 72 обновления с устранением проблем со стабильностью и 16 обновлений с устранением уязвимостей.
+https://www.opennet.ru/opennews/art.shtml?num=63833</description>
     </item>
     
     <item>
