@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Budgie on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/budgie/</link>
+    <description>Recent content in Budgie on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Sep 2025 23:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 23:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/budgie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск среды рабочего стола Budgie 10.9.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Спустя более года с прошлого обновления сформирован релиз среды рабочего стола Budgie 10.9.3. Пользовательское окружение образуют поставляемые раздельно компоненты с реализацией рабочего стола Budgie Desktop, набором пиктограмм Budgie Desktop View, интерфейсом для настройки системы Budgie Control Center (форк GNOME Control Center) и хранителем экрана Budgie Screensaver (форк gnome-screensaver). Код проекта распространяется под лицензией GPLv2. Для ознакомления с Budgie можно использовать такие дистрибутивы, как Ubuntu Budgie, Fedora Budgie, Solus, GeckoLinux и EndeavourOS.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
