@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Sep 2025 00:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 10:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Первый альфа выпуск дистрибутива KDE Linux, развиваемого проектом KDE</title>
+      <title>Выпуск uutils 0.2.0, варианта GNU Coreutils на языке Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 07 Sep 2025 00:35:05 +0500</pubDate>
+      <pubDate>Sun, 07 Sep 2025 10:35:43 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект KDE представил первый альфа-выпуск собственного дистрибутива KDE Linux, который позиционируется как эталонная реализация Linux-дистрибутива для рабочего стола и приложений KDE, оптимально сочетаемая с технологиями KDE и развиваемая без посредников разработчиками KDE. Для установки доступны системные образы (5 ГБ) для создания загрузочных USB-накопителей, работающих в Live-режиме.
-https://www.opennet.ru/opennews/art.shtml?num=63834</description>
+      <description>Опубликован выпуск проекта uutils coreutils 0.2.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
+https://www.opennet.ru/opennews/art.shtml?num=63835</description>
     </item>
     
     <item>
