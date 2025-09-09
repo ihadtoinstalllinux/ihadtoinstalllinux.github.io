@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 11:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 12:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Скомпрометированы 18 NPM-пакетов, насчитывающих более 2 миллиардов загрузок в неделю</title>
+      <title>Выпуск системы инициализации SysVinit 3.15. Переход проекта с GitHub на CodeBerg</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 09 Sep 2025 11:35:36 +0500</pubDate>
+      <pubDate>Tue, 09 Sep 2025 12:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В результате фишинга атакующим удалось перехватить учётные данные сопровождающего 18 популярных NPM-пакетов, в сумме загруженных более 2 миллиардов раз в неделю. Для скомпрометированных пакетов атакующие успели выпустить новые версии, содержащие вредоносный код. Это самая крупная атака на репозиторий NPM, которая затрагивает не только напрямую атакованные проекты, но сотни тысяч пакетов, зависимых от них.
-https://www.opennet.ru/opennews/art.shtml?num=63845</description>
+      <description>Опубликован релиз классической системы инициализации SysVinit 3.15, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Slackware, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.</description>
     </item>
     
     <item>
