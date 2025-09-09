@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 20:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 11:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Началось альфа-тестирование FreeBSD 15</title>
+      <title>Скомпрометированы 18 NPM-пакетов, насчитывающих более 2 миллиардов загрузок в неделю</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 08 Sep 2025 20:35:16 +0500</pubDate>
+      <pubDate>Tue, 09 Sep 2025 11:35:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Подготовлен первый альфа-выпуск FreeBSD 15.0. Установочные сборки сформированы для архитектур amd64, powerpc64le, aarch64 и riscv64. Релиз запланирован на 2 декабря. Обновление до ветки 15.0-ALPHA1 с прошлых выпусков при помощи утилиты freebsd-update пока не реализовано.
-https://www.opennet.ru/opennews/art.shtml?num=63842</description>
+      <description>В результате фишинга атакующим удалось перехватить учётные данные сопровождающего 18 популярных NPM-пакетов, в сумме загруженных более 2 миллиардов раз в неделю. Для скомпрометированных пакетов атакующие успели выпустить новые версии, содержащие вредоносный код. Это самая крупная атака на репозиторий NPM, которая затрагивает не только напрямую атакованные проекты, но сотни тысяч пакетов, зависимых от них.
+https://www.opennet.ru/opennews/art.shtml?num=63845</description>
     </item>
     
     <item>
