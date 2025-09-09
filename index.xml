@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 12:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 13:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системы инициализации SysVinit 3.15. Переход проекта с GitHub на CodeBerg</title>
+      <title>Выпуск реализации анонимной сети I2P 2.10.0 и C&#43;&#43;-клиента i2pd 2.58</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 09 Sep 2025 12:35:44 +0500</pubDate>
+      <pubDate>Tue, 09 Sep 2025 13:35:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз классической системы инициализации SysVinit 3.15, которая широко применялась в дистрибутивах Linux во времена до systemd и upstart, а теперь продолжает использоваться в таких дистрибутивах, как Devuan, Slackware, Debian GNU/Hurd и antiX. Код написан на языке Си и распространяется под лицензией GPLv2. Версии применяемых в связке с sysvinit утилит insserv и startpar не изменились. Утилита insserv предназначена для организации процесса загрузки с учётом зависимостей между init-скриптами, а startpar применяется для обеспечения параллельного запуска нескольких скриптов в процессе загрузки системы.</description>
+      <description>Представлен релиз анонимной сети I2P 2.10.0 и C++-клиента i2pd 2.58.0. I2P представляет собой многослойную анонимную распределенную сеть, работающую поверх обычного интернета, активно использующую сквозное (end-to-end) шифрование, гарантирующую анонимность и изолированность. Сеть строится в режиме P2P и образуется благодаря ресурсам (пропускной способности), предоставляемым пользователями сети, что позволяет обойтись без применения централизованно управляемых серверов (коммуникации внутри сети основаны на применении шифрованных однонаправленных туннелей между участником и peer-ами).
+https://www.opennet.ru/opennews/art.shtml?num=63844</description>
     </item>
     
     <item>
