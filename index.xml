@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Sep 2025 01:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Sep 2025 10:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск свободной стратегической игры Warzone 2100 4.6.0 </title>
+      <title>Атакующие получили контроль над NPM-пакетами проекта DuckDB и опубликовали вредоносные выпуски</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 10 Sep 2025 01:35:59 +0500</pubDate>
+      <pubDate>Wed, 10 Sep 2025 10:35:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз стратегической (RTS) игры Warzone 2100 4.6.0. Игра изначально разработана компанией Pumpkin Studios и выпущена на рынок в 1999 году. В 2004 году исходные тексты были открыты под лицензией GPLv2 и развитие игры продолжилось силами сообщества. Поддерживается как одиночная игра против ботов, так и проведение сетевых игр. Пакеты подготовлены для Ubuntu, Windows и macOS.
-https://www.opennet.ru/opennews/art.shtml?num=63851</description>
+      <description>История с компрометацией 18 NPM-пакетов, в сумме насчитывающих более 2 миллиардов загрузок в неделю, получила продолжение. Выявлен аналогичный захват через фишинг учётных данных сопровождающего NPM-пакеты проекта DuckDB. Для пакетов DuckDB также были сформированы версии с вредоносным кодом, осуществляющим подстановку реквизитов при проведении платежей через криптовалюты, но атака была сразу выявлена и зафиксированы лишь единичные загрузки вредоносных пакетов. При этом по предварительным данным пакеты с вредоносной вставкой, опубликованные в ходе вчера анонсированной атаки на 18 NPM-пакетов, успели загрузить более 2.</description>
     </item>
     
     <item>
