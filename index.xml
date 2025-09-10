@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Sep 2025 14:35:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 00:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован Clear NDR 1.0, дистрибутив для создания систем обнаружения вторжений</title>
+      <title>В Ubuntu 25.10 по умолчанию будет задействован Dracut</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 10 Sep 2025 14:35:31 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 00:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Stamus Networks опубликовала выпуск специализированного дистрибутива Clear NDR 1.0, предназначенного для развёртывания систем обнаружения и предотвращения сетевых вторжений, а также организации реагирования на выявленные угрозы и мониторинга безопасности сети. Пользователям предоставляется готовое решение для управления сетевой безопасностью, которое можно использовать сразу после загрузки. Дистрибутив поддерживает работу в Live-режиме и запуск в окружениях виртуализации или контейнерах. Наработки проекта распространяются под лицензией GPLv3. Размер загрузочного образа 3.9 ГБ.
-https://www.opennet.ru/opennews/art.shtml?num=63857</description>
+      <description>В выпуске Ubuntu 25.10, релиз которого намечен на 9 октября, для формирования образов начального RAM-диска (initrd) утверждено использование по умолчанию инструментария Dracut вместо пакета initramfs-tools, развитие которого в последние годы приостановилось и ограничивается работой по сопровождению. Так как разработка выпуска 25.10 c середины августа находится на стадии заморозки, не допускающей добавления новой функциональности, для перехода на Dracut командой, отвечающей за выпуск релизов, предоставлено исключение. В настоящее время пакет initramfs-tools уже заменён на dracut в мета-пакетах.</description>
     </item>
     
     <item>
