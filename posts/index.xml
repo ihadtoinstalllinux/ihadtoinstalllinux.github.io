@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 00:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 01:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Ubuntu 25.10 по умолчанию будет задействован Dracut</title>
+      <title>В пакетах с ядром для openSUSE отключена поддержка BCacheFS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 00:35:57 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 01:35:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В выпуске Ubuntu 25.10, релиз которого намечен на 9 октября, для формирования образов начального RAM-диска (initrd) утверждено использование по умолчанию инструментария Dracut вместо пакета initramfs-tools, развитие которого в последние годы приостановилось и ограничивается работой по сопровождению. Так как разработка выпуска 25.10 c середины августа находится на стадии заморозки, не допускающей добавления новой функциональности, для перехода на Dracut командой, отвечающей за выпуск релизов, предоставлено исключение. В настоящее время пакет initramfs-tools уже заменён на dracut в мета-пакетах.</description>
+      <description>Разработчики openSUSE объявили об отключении файловой системы BCacheFS в пакетах с ядром Linux. В качестве причины называется присвоение данной ФС в основном ядре статуса внешнего сопровождения, подразумевающего прекращение приёма изменений для Bcachefs в основной состав ядра при сохранении данной ФС в кодовой базе ядра. Своими силами разработчики openSUSE не намерены бэкпортировать в дистрибутивный пакет с ядром патчи из ветки ядра от проекта BCacheFS.
+https://www.opennet.ru/opennews/art.shtml?num=63861</description>
     </item>
     
     <item>
