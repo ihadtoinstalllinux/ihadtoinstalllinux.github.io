@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 14:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 15:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Electron 38, платформы создания приложений на базе движка Chromium</title>
+      <title>Из Mesa удалена поддержка API видеоускорения VDPAU в пользу VA-API</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 14:35:20 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 15:36:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз платформы Electron 38.0.0, предоставляющей самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js.
-https://www.opennet.ru/opennews/art.shtml?num=63865</description>
+      <description>Из кодовой базы Mesa, свободной реализации API OpenGL и Vulkan, удалена поддержка программного интерфейса VDPAU (Video Decode and Presentation API for Unix) созданного компанией NVIDIA. Для аппаратного ускорения кодирования и декодирования видео в различных форматах в Mesa оставлена поддержка API VA-API (Video Acceleration API), изначально предложенного компанией Intel и получившего большее распространение в Linux-системах.
+https://www.opennet.ru/opennews/art.shtml?num=63864</description>
     </item>
     
     <item>
