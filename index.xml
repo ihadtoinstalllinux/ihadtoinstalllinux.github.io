@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 14:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google ограничил доступ к поиску для браузеров без JavaScript</title>
+      <title>Выпуск Electron 38, платформы создания приложений на базе движка Chromium</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 13:35:49 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 14:35:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В конце 2024 года у части пользователей попытки поиска в Google при отключённом JavaScript стали приводить к перенаправлению на страницу с требованием включить в браузере JavaScript. В январе 2025 года выборочное тестирование запрета обращения без JavaScript закончилось и ограничение распространили на всех пользователей, оставив при этом несколько лазеек. Например, возможность использования страницы без JavaScript сохранялась при смене User-Agent на &amp;ldquo;Lynx&amp;rdquo; или старую версию Firefox (не больше 23). Теперь данные лазейки перестали работать и страницы с требованием включения JavaScript или обновления устаревшей версии браузера выводится при любых значениях User-Agent.</description>
+      <description>Представлен релиз платформы Electron 38.0.0, предоставляющей самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js.
+https://www.opennet.ru/opennews/art.shtml?num=63865</description>
     </item>
     
     <item>
