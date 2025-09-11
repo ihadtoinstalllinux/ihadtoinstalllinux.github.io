@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 01:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 10:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В пакетах с ядром для openSUSE отключена поддержка BCacheFS</title>
+      <title>OpenFix от Selectel: вознаграждения за переписывание на Rust, создание deb-пакетов и исправление ошибок в СПО</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 01:35:17 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 10:35:52 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики openSUSE объявили об отключении файловой системы BCacheFS в пакетах с ядром Linux. В качестве причины называется присвоение данной ФС в основном ядре статуса внешнего сопровождения, подразумевающего прекращение приёма изменений для Bcachefs в основной состав ядра при сохранении данной ФС в кодовой базе ядра. Своими силами разработчики openSUSE не намерены бэкпортировать в дистрибутивный пакет с ядром патчи из ветки ядра от проекта BCacheFS.
-https://www.opennet.ru/opennews/art.shtml?num=63861</description>
+      <description>Компания Selectel, развивающая Linux-дистрибутив Selectel OS на пакетной базе Debian, представила инициативу OpenFix, в рамках которой начнёт выплачивать энтузиастам денежные вознаграждения за участие в работе над задачами, связанными с развитием и исправлением ошибок в открытом ПО. Код выполненных проектов будет публиковаться под пермиссивной лицензией с сохранением авторства участников.
+https://www.opennet.ru/opennews/art.shtml?num=63863</description>
     </item>
     
     <item>

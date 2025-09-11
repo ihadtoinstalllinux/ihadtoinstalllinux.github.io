@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>deb on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/deb/</link>
+    <description>Recent content in deb on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 10:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 10:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/deb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenFix от Selectel: вознаграждения за переписывание на Rust, создание deb-пакетов и исправление ошибок в СПО</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Selectel, развивающая Linux-дистрибутив Selectel OS на пакетной базе Debian, представила инициативу OpenFix, в рамках которой начнёт выплачивать энтузиастам денежные вознаграждения за участие в работе над задачами, связанными с развитием и исправлением ошибок в открытом ПО. Код выполненных проектов будет публиковаться под пермиссивной лицензией с сохранением авторства участников.
 https://www.opennet.ru/opennews/art.shtml?num=63863</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
