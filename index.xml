@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 00:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Из Mesa удалена поддержка API видеоускорения VDPAU в пользу VA-API</title>
+      <title>Обновление VirtualBox 7.2.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 15:36:00 +0500</pubDate>
+      <pubDate>Fri, 12 Sep 2025 00:35:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Из кодовой базы Mesa, свободной реализации API OpenGL и Vulkan, удалена поддержка программного интерфейса VDPAU (Video Decode and Presentation API for Unix) созданного компанией NVIDIA. Для аппаратного ускорения кодирования и декодирования видео в различных форматах в Mesa оставлена поддержка API VA-API (Video Acceleration API), изначально предложенного компанией Intel и получившего большее распространение в Linux-системах.
-https://www.opennet.ru/opennews/art.shtml?num=63864</description>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.2, в котором предложено 21 изменение.
+https://www.opennet.ru/opennews/art.shtml?num=63866</description>
     </item>
     
     <item>
