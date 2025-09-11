@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 12:35:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 13:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск композитного сервера Hyprland 0.51</title>
+      <title>Google ограничил доступ к поиску для браузеров без JavaScript</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 11 Sep 2025 12:35:43 +0500</pubDate>
+      <pubDate>Thu, 11 Sep 2025 13:35:49 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен композитный сервер Hyprland 0.51, использующий протокол Wayland. Проект ориентирован на мозаичную (tiling) компоновку окон, но поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Код написан на языке С++ и распространяется под лицензией BSD.
-https://www.opennet.ru/opennews/art.shtml?num=63862</description>
+      <description>В конце 2024 года у части пользователей попытки поиска в Google при отключённом JavaScript стали приводить к перенаправлению на страницу с требованием включить в браузере JavaScript. В январе 2025 года выборочное тестирование запрета обращения без JavaScript закончилось и ограничение распространили на всех пользователей, оставив при этом несколько лазеек. Например, возможность использования страницы без JavaScript сохранялась при смене User-Agent на &amp;ldquo;Lynx&amp;rdquo; или старую версию Firefox (не больше 23). Теперь данные лазейки перестали работать и страницы с требованием включения JavaScript или обновления устаревшей версии браузера выводится при любых значениях User-Agent.</description>
     </item>
     
     <item>
