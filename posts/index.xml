@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:35:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 00:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oracle уволил 70 сотрудников из команды проекта MySQL </title>
+      <title>Выпуск Samba 4.23.0 с поддержкой протокола QUIC и активацией Unix-расширений SMB3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 12 Sep 2025 15:35:53 +0500</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:35:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>По данным издания The Register под сокращение персонала в компании Oracle попали 70 сотрудников, вовлечённых в работу над СУБД MySQL, среди которых несколько опытных разработчиков. Майкл &amp;ldquo;Монти&amp;rdquo; Видениус, сооснователь СУБД MySQL и создатель проекта MariaDB, написал, что ему больно слышать о массовых увольнениях в MySQL и хотя он не удивлён данными действиями Oracle, его всё равно печалит, что до этого дошло. Петр Зайцев, сооснователь компании Percona и бывший руководитель группы оптимизации производительности в компании MySQL AB, выразил опасение, что данный шаг может привести к постепенному сворачиванию Community-редакции MySQL.</description>
+      <description>После 6 месяцев разработки представлен релиз Samba 4.23.0, продолживший развитие ветки Samba 4 с полноценной реализацией контроллера домена и сервиса Active Directory, совместимого с реализацией Windows 2008 и способного обслуживать все поддерживаемые Microsoft версии Windows-клиентов, в том числе Windows 11. Samba 4 является многофункциональным серверным продуктом, предоставляющим также реализацию файлового сервера, сервиса печати и сервера идентификации (winbind).
+https://www.opennet.ru/opennews/art.shtml?num=63870</description>
     </item>
     
     <item>
