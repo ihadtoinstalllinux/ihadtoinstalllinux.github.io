@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 12:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 13:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Q4OS 6.1, поставляемого с пользовательским окружением Trinity</title>
+      <title>Фшинг-атака на разработчиков пакетов на языке Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 13 Sep 2025 12:35:19 +0500</pubDate>
+      <pubDate>Sat, 13 Sep 2025 13:35:21 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск дистрибутива Q4OS 6.1, основанного на пакетной базе Debian и поставляемого с рабочими столами KDE Plasma и Trinity (продолжает развитие кодовой базы KDE 3.5.x). Оба пользовательских окружения могут одновременно сосуществовать в одной системе, и пользователь может переключаться между ними. Дистрибутив позиционируется как нетребовательный к аппаратным ресурсам и предлагающий классическое оформление рабочего стола. Размер загрузочного образа c KDE Plasma - 2 ГБ, с.
-https://www.opennet.ru/opennews/art.shtml?num=63874</description>
+      <description>Организация Rust Foundation предупредила разработчиков о выявлении фшинг-атаки против пользователей репозитория crates.io. Атака напоминает наблюдаемые последние месяцев попытки компрометации учётных записей в сервисах NPM, PyPI и Mozill AMO для последующей публикации релизов, содержащих вредоносный код. Сведений об успешном захвате учётных данных в ходе атаки пока нет.
+https://www.opennet.ru/opennews/art.shtml?num=63875</description>
     </item>
     
     <item>
