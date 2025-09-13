@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 00:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 11:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Samba 4.23.0 с поддержкой протокола QUIC и активацией Unix-расширений SMB3</title>
+      <title>Выпуск Wine 10.15</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 13 Sep 2025 00:35:36 +0500</pubDate>
+      <pubDate>Sat, 13 Sep 2025 11:35:21 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После 6 месяцев разработки представлен релиз Samba 4.23.0, продолживший развитие ветки Samba 4 с полноценной реализацией контроллера домена и сервиса Active Directory, совместимого с реализацией Windows 2008 и способного обслуживать все поддерживаемые Microsoft версии Windows-клиентов, в том числе Windows 11. Samba 4 является многофункциональным серверным продуктом, предоставляющим также реализацию файлового сервера, сервиса печати и сервера идентификации (winbind).
-https://www.opennet.ru/opennews/art.shtml?num=63870</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 10.15. С момента выпуска 10.14 было закрыто 16 отчётов об ошибках и внесено 277 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=63872</description>
     </item>
     
     <item>
