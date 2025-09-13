@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Bcachefs on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/bcachefs/</link>
+    <description>Recent content in Bcachefs on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 14:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 14:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/bcachefs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bcachefs будет распространяться в виде отдельного модуля DKMS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, анонсировал переход к распространению Bcachefs с использованием инструментария DKMS (Dynamic Kernel Module Support), при котором модуль поставляется в исходных текстах и собирается на системе пользователя, непосредственно после установки пакета. После обновления ядра Linux в системе модуль автоматически пересобирается.
 https://www.opennet.ru/opennews/art.shtml?num=63871</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

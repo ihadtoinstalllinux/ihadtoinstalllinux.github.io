@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 13:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 14:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Фшинг-атака на разработчиков пакетов на языке Rust</title>
+      <title>Bcachefs будет распространяться в виде отдельного модуля DKMS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 13 Sep 2025 13:35:21 +0500</pubDate>
+      <pubDate>Sat, 13 Sep 2025 14:35:37 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация Rust Foundation предупредила разработчиков о выявлении фшинг-атаки против пользователей репозитория crates.io. Атака напоминает наблюдаемые последние месяцев попытки компрометации учётных записей в сервисах NPM, PyPI и Mozill AMO для последующей публикации релизов, содержащих вредоносный код. Сведений об успешном захвате учётных данных в ходе атаки пока нет.
-https://www.opennet.ru/opennews/art.shtml?num=63875</description>
+      <description>Кент Оверстрит (Kent Overstreet), разработчик ФС Bcachefs, анонсировал переход к распространению Bcachefs с использованием инструментария DKMS (Dynamic Kernel Module Support), при котором модуль поставляется в исходных текстах и собирается на системе пользователя, непосредственно после установки пакета. После обновления ядра Linux в системе модуль автоматически пересобирается.
+https://www.opennet.ru/opennews/art.shtml?num=63871</description>
     </item>
     
     <item>
