@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 00:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Sep 2025 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Firefox 143</title>
+      <title>Самораспространяющийся червь поразил 187 пакетов в NPM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 17 Sep 2025 00:35:42 +0500</pubDate>
+      <pubDate>Wed, 17 Sep 2025 11:36:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся релиз web-браузера Firefox 143 и сформированы обновления прошлых веток с длительным сроком поддержки - 140.3.0 и 115.28.0. На стадию бета-тестирования переведена ветка Firefox 144, релиз которой намечен на 14 октября.
-https://www.opennet.ru/opennews/art.shtml?num=63880</description>
+      <description>Атака на сопровождающих пакеты в репозитории NPM перешла на новый уровень. В дополнение к использованию вредоносного ПО для перехвата платежей и конфиденциальной информации атакующие перешли к внедрению в скомпрометированные пакеты червя для автоматизации подстановки вредоносного ПО в зависимости. Применение червя зафиксировано после компрометации NPM-пакета @ctrl/tinycolor, имеющего 2.2 млн еженедельных загрузок и задействованного в качестве прямой зависимости в 964 пакетах. В результате активности червя атака охватила 187 пакетов, для которых были сформированы вредоносные выпуски (477 вредоносных релизов).</description>
     </item>
     
     <item>
