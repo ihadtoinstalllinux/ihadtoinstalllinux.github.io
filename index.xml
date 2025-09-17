@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 14:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Sep 2025 19:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Java SE 25 LTS и OpenJDK 25 </title>
+      <title>Релиз StartWine-Launcher 411, программы для запуска Windows-приложений и игр в Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 17 Sep 2025 14:35:25 +0500</pubDate>
+      <pubDate>Wed, 17 Sep 2025 19:35:33 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После шести месяцев разработки компания Oracle опубликовала платформу Java SE 25 (Java Platform, Standard Edition 24), в качестве эталонной реализации которой используется открытый проект OpenJDK. За исключением удаления некоторых устаревших возможностей в Java SE 25 сохранена обратная совместимость с прошлыми выпусками платформы Java - большинство ранее написанных Java-проектов без изменений будут работоспособны при запуске под управлением новой версии. Готовые для установки сборки Java SE 25 (JDK, JRE и Server JRE) подготовлены для Linux (x86_64, AArch64), Windows (x86_64) и macOS (x86_64, AArch64).</description>
+      <description>Опубликован выпуск приложения StartWine-Launcher 411, развиваемого для запуска в Linux-системах программ и игр, собранных для платформы Windows. Основной целью разработки StartWine-Launcher было упрощение процесса создания новичками префиксов Wine, - наборов библиотек и зависимостей Windows, необходимых для работы Windows-приложений в Linux. Код StartWine-Launcher написан на языке Python и распространяется под лицензией GPLv3. Интерфейс реализован на основе библиотеки GTK.
+https://www.opennet.ru/opennews/art.shtml?num=63893</description>
     </item>
     
     <item>
