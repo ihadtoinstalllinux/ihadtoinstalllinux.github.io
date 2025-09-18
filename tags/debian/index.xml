@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Debian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/debian/</link>
+    <description>Recent content in Debian on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Sep 2025 23:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 23:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступен дистрибутив Tails 7.0, перешедший на Debian 13 и GNOME 48</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Сформирован релиз специализированного дистрибутива Tails 7.0 (The Amnesic Incognito Live System), основанного на пакетной базе Debian и предназначенного для анонимного выхода в сеть. Анонимный выход в Tails обеспечивается системой Tor. Все соединения, кроме трафика через сеть Tor, по умолчанию блокируются пакетным фильтром. Для хранения пользовательских данных в режиме сохранения пользовательских данных между запусками применяется шифрование. Для загрузки подготовлен iso-образ, способный работать в Live-режиме, размером 2 ГБ.
 https://www.opennet.ru/opennews/art.shtml?num=63904</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
