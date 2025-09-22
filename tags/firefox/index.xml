@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Firefox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/firefox/</link>
+    <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Sep 2025 23:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2025 23:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Разработчикам дополнений к Firefox предоставлена возможность отката на прошлые версии </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>В каталоге дополнений AMO (addons.mozilla.org) появилась возможность отката уже опубликованного выпуска дополнения на прошлую версию. В ситуациях, когда разработчик выявил серьёзные ошибки после выпуска, откат на прошлую версию позволит сразу отозвать проблемное дополнение, не тратя время на публикацию нового выпуска и ожидание завершения его проверки. У пользователей, успевших установить отозванный выпуск, дополнение будет переведено на прошлую версию во время проверки браузером наличия обновлений, проводимой по умолчанию раз в сутки.
 https://www.opennet.ru/opennews/art.shtml?num=63926</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
