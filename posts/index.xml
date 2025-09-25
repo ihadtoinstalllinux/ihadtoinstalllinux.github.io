@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 01:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Rust-репозитории crates.io выявлены два вредоносных пакета</title>
+      <title>Уязвимость в подсистеме io_uring, позволяющая повысить привилегии в системе </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 26 Sep 2025 00:35:52 +0500</pubDate>
+      <pubDate>Fri, 26 Sep 2025 01:35:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики языка Rust предупредили о выявлении в репозитории crates.io пакетов faster_log и async_println, содержащих вредоносный код. Пакеты были размещены в репозитории 25 мая и с тех пор были загружены 8424 раза.
-https://www.opennet.ru/opennews/art.shtml?num=63944</description>
+      <description>В интерфейсе асинхронного ввода/вывода io_uring, предоставляемом ядром Linux, выявлена уязвимость (CVE-2025-39698), позволяющая непривилегированному пользователю добиться выполнения своего кода на уровне ядра. Уязвимость вызвана отсутствием проверки существования объекта перед выполнением операций с этим объектом.
+https://www.opennet.ru/opennews/art.shtml?num=63946</description>
     </item>
     
     <item>

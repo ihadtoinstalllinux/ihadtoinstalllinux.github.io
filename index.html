@@ -184,15 +184,15 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>В Rust-репозитории crates.io выявлены два вредоносных пакета
+    <h2>Уязвимость в подсистеме io_uring, позволяющая повысить привилегии в системе 
     </h2>
   </header>
   <section class="entry-content">
-    <p>Разработчики языка Rust предупредили о выявлении в репозитории crates.io пакетов faster_log и async_println, содержащих вредоносный код. Пакеты были размещены в репозитории 25 мая и с тех пор были загружены 8424 раза.
-https://www.opennet.ru/opennews/art.shtml?num=63944</p>
+    <p>В интерфейсе асинхронного ввода/вывода io_uring, предоставляемом ядром Linux, выявлена уязвимость (CVE-2025-39698), позволяющая непривилегированному пользователю добиться выполнения своего кода на уровне ядра. Уязвимость вызвана отсутствием проверки существования объекта перед выполнением операций с этим объектом.
+https://www.opennet.ru/opennews/art.shtml?num=63946</p>
   </section>
-  <footer class="entry-footer"><span title='2025-09-26 00:35:52 +0500 +05'>September 26, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to В Rust-репозитории crates.io выявлены два вредоносных пакета" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2025-09-26 01:35:59 +0500 +05'>September 26, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в подсистеме io_uring, позволяющая повысить привилегии в системе " href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
