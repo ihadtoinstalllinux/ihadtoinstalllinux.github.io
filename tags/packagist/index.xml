@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Packagist on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/packagist/</link>
+    <description>Recent content in Packagist on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2025 13:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/packagist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PyPI, Сrates.io, Packagist и Maven подняли вопрос финансирования для сохранения устойчивости инфраструктуры</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Организация OpenSSF (Open Source Security Foundation), созданная для объединения работы представителей индустрии в области повышения безопасности открытого ПО, опубликовала открытое письмо, которое подписали разработчики репозиториев PyPI, crates.io, Packagist, Open VSX и Maven Central. В письме упомянуты проблемы с сохранением устойчивости инфраструктуры при нынешних моделях финансирования и использования репозиториев. Последнее время нагрузка на репозитории увеличивается экспоненциально, но рост финансирования работы по сопровождению в лучшем случае имеет линейный характер. Отмечается, что ситуация с финансированием пока не достигла кризиса, но статус‑кво больше не может сохранятся и наступил критический переломный момент, требующий изменений.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
