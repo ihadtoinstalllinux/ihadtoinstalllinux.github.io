@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 13:35:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Sep 2025 15:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз ядра Linux 6.17</title>
+      <title>Выпуск дистрибутива BSD Router Project 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 29 Sep 2025 13:35:52 +0500</pubDate>
+      <pubDate>Mon, 29 Sep 2025 15:35:42 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 6.17. Среди наиболее заметных изменений: повышение производительности Btrfs, системные вызовы file_getattr() и file_setattr(), унификация однопроцессорных и многопроцессорных конфигураций в планировщике задач, модуль DAMON_STAT со статистикой доступа к памяти, поддержка Live-патчей на системах ARM64, отправка core-дампов через сокет AF_UNIX, лимитирование SCHED_EXT через cgroup, упрощённая настройка защиты от уязвимостей в CPU, сборка в Clang с инициализацией переменных в стеке, защита от подмены /proc, расширение подсистемы RV (Runtime Verification), ограничение сокетов AF_UNIX через AppArmor, алгоритм контроля перегрузок TCP DualPI2.</description>
+      <description>Оливье Кочар-Лаббе (Olivier Cochard-Labbé), создатель дистрибутива FreeNAS, представил выпуск специализированного дистрибутива BSD Router Project 2.0 (BSDRP), примечательный обновлением кодовой базы до находящейся в разработке ветки FreeBSD 16. Дистрибутив предназначен для создания компактных программных маршрутизаторов, поддерживающих протоколы маршрутизации RIP, OSPF, BGP и PIM. Управление производится в режиме командной строки через CLI-интерфейс, напоминающий интерфейс Cisco IOS. Дистрибутив доступен в сборках для архитектур x86_64 и ARM64 (размер сжатых установочных образов ~340 МБ).
+https://www.opennet.ru/opennews/art.shtml?num=63963</description>
     </item>
     
     <item>
