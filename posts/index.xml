@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2025 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 14:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск OpenSSL 3.6.0 с поддержкой EVP_SKEY и устранением переполнения буфера</title>
+      <title>Доступна децентрализованная платформа совместной разработки Radicle 1.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 02 Oct 2025 13:35:06 +0500</pubDate>
+      <pubDate>Thu, 02 Oct 2025 14:35:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся релиз библиотеки OpenSSL 3.6.0, предлагающей с реализацию протоколов SSL/TLS и различных алгоритмов шифрования. OpenSSL 3.6 отнесён к выпускам с обычным сроком поддержки, обновления для которых выпускаются в течение 13 месяцев. Поддержка прошлых веток OpenSSL 3.5 LTS, 3.4, 3.3, 3.2 и 3.0 LTS продлится до апреля 2030 года, октября 2026 года, апреля 2026 года, ноября 2025 года и сентября 2026 года соответственно. Код проекта распространяется под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=63979</description>
+      <description>Представлен выпуск P2P-платформы Radicle 1.5, нацеленной на создание децентрализованного сервиса совместной разработки и хранения кода, похожего на GitHub и GitLab, но не привязанного к конкретным серверам, не подверженного цензуре и работающего с использованием ресурсов участников P2P-сети. Платформа поддерживает типовые элементы социального взаимодействия разработчиков, такие как issue, патчи и рецензии на код. Наработки проекта написаны на языке Rust и распространяются под лицензиями Apache 2.0 и MIT. Сборки подготовлены для Linux и macOS.</description>
     </item>
     
     <item>

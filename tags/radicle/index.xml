@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Radicle on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/radicle/</link>
+    <description>Recent content in Radicle on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2025 14:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 14:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/radicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступна децентрализованная платформа совместной разработки Radicle 1.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлен выпуск P2P-платформы Radicle 1.5, нацеленной на создание децентрализованного сервиса совместной разработки и хранения кода, похожего на GitHub и GitLab, но не привязанного к конкретным серверам, не подверженного цензуре и работающего с использованием ресурсов участников P2P-сети. Платформа поддерживает типовые элементы социального взаимодействия разработчиков, такие как issue, патчи и рецензии на код. Наработки проекта написаны на языке Rust и распространяются под лицензиями Apache 2.0 и MIT. Сборки подготовлены для Linux и macOS.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
