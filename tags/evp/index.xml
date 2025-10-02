@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>EVP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/evp/</link>
+    <description>Recent content in EVP on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2025 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 13:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/evp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск OpenSSL 3.6.0 с поддержкой EVP_SKEY и устранением переполнения буфера</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Состоялся релиз библиотеки OpenSSL 3.6.0, предлагающей с реализацию протоколов SSL/TLS и различных алгоритмов шифрования. OpenSSL 3.6 отнесён к выпускам с обычным сроком поддержки, обновления для которых выпускаются в течение 13 месяцев. Поддержка прошлых веток OpenSSL 3.5 LTS, 3.4, 3.3, 3.2 и 3.0 LTS продлится до апреля 2030 года, октября 2026 года, апреля 2026 года, ноября 2025 года и сентября 2026 года соответственно. Код проекта распространяется под лицензией Apache 2.0.
 https://www.opennet.ru/opennews/art.shtml?num=63979</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
