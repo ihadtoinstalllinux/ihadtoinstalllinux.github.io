@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Oct 2025 01:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Oct 2025 10:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск VPN Lanemu 0.13</title>
+      <title>Уязвимость в Red Hat OpenShift AI, допускающая root-доступ к узлам кластера</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 03 Oct 2025 01:36:03 +0500</pubDate>
+      <pubDate>Fri, 03 Oct 2025 10:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся выпуск Lanemu P2P VPN 0.13 - реализации децентрализованной виртуальной частной сети, работающей по принципу Peer-To-Peer, при котором участники подключены друг к другу, а не через центральный сервер. Участники сети могут находить друг друга через BitTorrent-трекеры или BitTorrent DHT, либо через других участников сети (peer exchange). Приложение является бесплатным и открытым аналогом VPN Hamachi, написано на языке Java (c отдельными компонентами на языке Си) и распространяется под лицензией GNU LGPL 3.</description>
+      <description>В платформе OpenShift AI Service, позволяющей организовать работу кластера для выполнения и обучения AI-моделей, выявлена уязвимость (CVE-2025-10725), позволяющая непривилегированному пользователю получить права администратора кластера. После успешной атаки злоумышленник получает возможность управления кластером, полный доступ ко всем сервисам, данным и запускаемым в кластере приложениям, а также root-доступ к узлам кластера.
+https://www.opennet.ru/opennews/art.shtml?num=63991</description>
     </item>
     
     <item>
