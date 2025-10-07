@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 13:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 14:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление графического редактора GIMP 3.0.6</title>
+      <title>Браузер Ladybird успешно прошёл 90% тестов на совместимость с Web-платформой</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 07 Oct 2025 13:36:02 +0500</pubDate>
+      <pubDate>Tue, 07 Oct 2025 14:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск графического редактора GIMP 3.0.6. Готовые сборки опубликованы для Linux (AppImage и Flatpak для архитектур x86 и ARM64), macOS и Windows. Основное внимание при подготовке новой версии уделено исправлению ошибок и регрессивных изменений. Новая функциональность развивается в ветке GIMP 3.1, на базе которой будет сформирован стабильный выпуск GIMP 3.2 с поддержкой слоёв-ссылок (Link layer) и векторных слоёв (Vector layer), а также расширением поддержки цветовой модели CMYK и возможностей для управления цветом.</description>
+      <description>Андреас Клинг (Andreas Kling) сообщил об успешном прохождении браузером Ladybird 90% тестов из набора web-platform-tests, определяющих совместимость с эталонной web-платформой. В соответствии с требованиями Apple достигнутого рубежа достаточно чтобы считаться альтернативным браузерным движком для iOS. Ladybird успешно прошёл 1861180 проверок из 2033861. Для сравнения Chromium 139 прошёл 1996034 проверок, Firefox 143 - 1942510, Safari 26.0 - 1952703, Servo - 1672466.
+https://www.opennet.ru/opennews/art.shtml?num=64011</description>
     </item>
     
     <item>
