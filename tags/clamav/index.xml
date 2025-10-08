@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>ClamAV on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/clamav/</link>
+    <description>Recent content in ClamAV on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 11:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 11:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/clamav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Компания Cisco выпустила антивирусный пакет ClamAV 1.5.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После более года разработки компания Cisco опубликовала выпуск свободного антивирусного пакета ClamAV 1.5.0. Проект перешёл в руки Cisco в 2013 году после покупки компании Sourcefire, развивающей ClamAV и Snort. Код проекта распространяется под лицензией GPLv2. Ветка 1.5.0 отнесена к категории обычных (не LTS), обновления к которым публикуются как минимум в течение 4 месяцев после выхода первого релиза следующей ветки. Возможность загрузки базы сигнатур для не-LTS веток также обеспечивается как минимум ещё 4 месяца после выпуска следующей ветки.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
