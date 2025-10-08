@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>SDE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sde/</link>
+    <description>Recent content in SDE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 22:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 22:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Релиз T2 SDE 25.10, платформы для создания дистрибутивов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Опубликован релиз мета-дистрибутива T2 SDE 25.10, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляется 36 загрузочных iso-образов с минимальным графическим окружением в вариантах с библиотеками Musl, uClibc и Glibc. Для актуальных архитектур подготовлены сборки с графическим окружением на базе GNOME и Wayland.
 https://www.opennet.ru/opennews/art.shtml?num=64020</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
