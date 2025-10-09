@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Wireshark on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wireshark/</link>
+    <description>Recent content in Wireshark on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 13:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 13:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wireshark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск сетевого анализатора Wireshark 4.6.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После года разработки опубликован релиз новой стабильной ветки сетевого анализатора Wireshark 4.6. Программа поддерживает более тысячи сетевых протоколов и несколько десятков форматов захвата трафика. Предоставляется графический интерфейс для создания фильтров, захвата трафика, анализа сохранённых дампов и инспектирования пакетов. Поддерживаются такие расширенные возможности, как пересборка порядка следования пакетов, выделение и сохранение содержимого файлов, передаваемых с использованием разных протоколов, воспроизведение VoIP и RTP-потоков, расшифровка IPsec, ISAKMP, Kerberos, SNMPv3, SSL/TLS, WEP и WPA/WPA2. Код проекта распространяется под лицензией GPLv2.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
