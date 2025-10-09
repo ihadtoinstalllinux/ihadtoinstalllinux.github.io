@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 22:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 10:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз T2 SDE 25.10, платформы для создания дистрибутивов </title>
+      <title>Уязвимости в Redis и Valkey, позволяющие выполнить код на сервере при наличии доступа к БД</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 08 Oct 2025 22:35:59 +0500</pubDate>
+      <pubDate>Thu, 09 Oct 2025 10:35:54 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз мета-дистрибутива T2 SDE 25.10, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляется 36 загрузочных iso-образов с минимальным графическим окружением в вариантах с библиотеками Musl, uClibc и Glibc. Для актуальных архитектур подготовлены сборки с графическим окружением на базе GNOME и Wayland.
-https://www.opennet.ru/opennews/art.shtml?num=64020</description>
+      <description>Исследователи из компании Wiz выявили в СУБД Redis уязвимость (CVE-2025-49844), позволяющую добиться удалённого выполнения кода (RCE) на сервере. Проблеме присвоен наивысший уровень опасности (CVSS score 10 из 10), при этом для эксплуатации уязвимости атакующий должен иметь возможность отправки запросов к СУБД Redis, допускающей выполнение пользовательских Lua-скриптов.
+https://www.opennet.ru/opennews/art.shtml?num=64022</description>
     </item>
     
     <item>
