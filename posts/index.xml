@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 10:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 11:35:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Redis и Valkey, позволяющие выполнить код на сервере при наличии доступа к БД</title>
+      <title>Представлена библиотека Servo GTK для интеграции движка Servo с GTK-приложениями </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 09 Oct 2025 10:35:54 +0500</pubDate>
+      <pubDate>Thu, 09 Oct 2025 11:35:33 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из компании Wiz выявили в СУБД Redis уязвимость (CVE-2025-49844), позволяющую добиться удалённого выполнения кода (RCE) на сервере. Проблеме присвоен наивысший уровень опасности (CVSS score 10 из 10), при этом для эксплуатации уязвимости атакующий должен иметь возможность отправки запросов к СУБД Redis, допускающей выполнение пользовательских Lua-скриптов.
-https://www.opennet.ru/opennews/art.shtml?num=64022</description>
+      <description>Один из сотрудников Amazon представил библиотеку Servo GTK, предназначенную для встраивания web-движка Servo в приложения, использующие GTK4. Библиотека реализует GTK-виджет, при помощи которого можно использовать Servo Webview для отрисовки web-контента. Из особенностей отмечается поддержка ускорения отрисовки при помощи OpenGL и возможность обработки событий в асинхронном режиме. Проект написан на языке Rust и распространяется под лицензией MPL 2.0. В качестве примера использования на базе библиотеки подготовлен простейший web-браузер с интерфейсом на базе GTK.</description>
     </item>
     
     <item>
