@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Oct 2025 12:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2025 23:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атака, использующая GitHub Copilot для извлечения данных из приватных репозиториев</title>
+      <title>Обновление OpenSSH 10.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 10 Oct 2025 12:35:14 +0500</pubDate>
+      <pubDate>Fri, 10 Oct 2025 23:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из компании Legit Security разработали технику атаки на GitHub Copilot, позволяющую извлечь содержимое из приватных репозиториев при использовании чатбота для анализа присылаемых pull-запросов. В качестве примера продемонстрирована возможность определения хранимых в приватном репозитории ключей для доступа к облачному окружению AWS.
-https://www.opennet.ru/opennews/art.shtml?num=64030</description>
+      <description>Спустя четыре дня после релиза OpenSSH 10.1 опубликован корректирующий выпуск OpenSSH 10.2, открытой реализации клиента и сервера для работы по протоколам SSH 2.0 и SFTP. В новой версии отмечены только исправления ошибок.
+https://www.opennet.ru/opennews/art.shtml?num=64034</description>
     </item>
     
     <item>
