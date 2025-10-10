@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 20:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2025 10:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Ubuntu 25.10</title>
+      <title>В Ubuntu 25.10 оказалась неработоспособна установка Flatpak-пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 09 Oct 2025 20:35:55 +0500</pubDate>
+      <pubDate>Fri, 10 Oct 2025 10:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован дистрибутив Ubuntu 25.10 &amp;ldquo;Questing Quokka&amp;rdquo;, который отнесён к промежуточным выпускам, обновления для которых формируются в течение 9 месяцев. Готовые установочные образы созданы для Ubuntu, Ubuntu Server, Lubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Ubuntu Studio, Xubuntu, UbuntuKylin (редакция для Китая), Ubuntu Unity, Edubuntu и Ubuntu Cinnamon.
-https://www.opennet.ru/opennews/art.shtml?num=64025</description>
+      <description>Пользователи, перешедшие на выпуск Ubuntu 25.10, столкнулись с невозможностью установить или обновить Flatpak-пакеты. Проблема вызвана изменениями в AppArmor-правилах, применяемых при запуске утилиты fusermount3. Из-за некорректно выставляемых правил доступа попытки установки или обновления пакетов при помощи утилиты flatpak приводят к выводу ошибки о невозможности отмонтировать каталог /var/tmp/flatpak-cache-*.
+https://www.opennet.ru/opennews/art.shtml?num=64028</description>
     </item>
     
     <item>

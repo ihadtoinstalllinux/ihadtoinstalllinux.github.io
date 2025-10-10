@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Flatpak on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/flatpak/</link>
+    <description>Recent content in Flatpak on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Oct 2025 10:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2025 10:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Ubuntu 25.10 оказалась неработоспособна установка Flatpak-пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Пользователи, перешедшие на выпуск Ubuntu 25.10, столкнулись с невозможностью установить или обновить Flatpak-пакеты. Проблема вызвана изменениями в AppArmor-правилах, применяемых при запуске утилиты fusermount3. Из-за некорректно выставляемых правил доступа попытки установки или обновления пакетов при помощи утилиты flatpak приводят к выводу ошибки о невозможности отмонтировать каталог /var/tmp/flatpak-cache-*.
 https://www.opennet.ru/opennews/art.shtml?num=64028</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
