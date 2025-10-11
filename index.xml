@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 10:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Oct 2025 11:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект по адаптации подсистемы WSL2 для запуска FreeBSD в Windows</title>
+      <title>MicroPythonOS - ОС с графическим интерфейсом для микроконтроллеров</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 11 Oct 2025 10:35:57 +0500</pubDate>
+      <pubDate>Sat, 11 Oct 2025 11:35:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект WSL-For-FreeBSD развивает редакцию инструментария WSL2 (Windows Subsystem for Linux), позволяющую вместо Linux запустить FreeBSD в Windows с минимальными изменениями в базовом окружении FreeBSD. По возможности вносимые изменения планируют передавать в основной состав открытой кодовой базы WSL2. Проект позиционируется как персональный и экспериментальный.
-https://www.opennet.ru/opennews/art.shtml?num=64037</description>
+      <description>Опубликован выпуск проекта MicroPythonOS 0.0.11, разрабатывающего операционную систему для микроконтроллеров, таких как ESP32, написанную с использованием инструментария MicroPython. Операционная система оснащена графическим интерфейсом, развиваемым с оглядкой на Android и iOS, и поддерживающим управления через сенсорные экраны. Из областей применения MicroPythonOS упоминаются устройства интернета вещей (IoT), системы управления домашней автоматизацией, интерактивные панели, роботы и умные носимые устройства с управлением экранными жестами. Проект также может применяться для быстрой разработки прототипов новых устройств. Код написан на языках Си и Python и распространяется под лицензий MIT.</description>
     </item>
     
     <item>
