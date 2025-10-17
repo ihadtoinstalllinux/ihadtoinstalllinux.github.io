@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Oct 2025 10:35:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 12:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз коммуникационной платформы Asterisk 23</title>
+      <title>В некоторых процессорах AMD Zen 5 генератор случайных чисел RDSEED выдаёт 0 в 10% случаев</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Oct 2025 10:35:47 +0500</pubDate>
+      <pubDate>Fri, 17 Oct 2025 12:35:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После года разработки состоялся релиз стабильной ветки открытой коммуникационной платформы Asterisk 23, используемой для развёртывания программных АТС, систем голосовой связи, VoIP-шлюзов, организации IVR-систем (голосовое меню), голосовой почты, телефонных конференций и call-центров. Исходный код проекта написан на языке Си и доступен под лицензией GPLv2.
-https://www.opennet.ru/opennews/art.shtml?num=64067</description>
+      <description>Инженер из компании Meta в списке рассылки разработчиков ядра Linux обратил внимание на проблему с работой инструкции RDSEED в процессорах AMD на базе микроархитектуры Zen 5. В проведённых тестах инструкция RDSEED, предоставляющая доступ к аппаратному генератору энтропии, в 10% случаев возвращала значение 0 с успешным флагом завершения операции (CF=1). Так как значение 0 также возвращается в случае невозможности вернуть корректное случайное число и подобное состояние выделяется иным значением флага завершения операции (CF=0), предполагается, что в процессорах AMD имеется ошибка, приводящая к неверному определению состояния операции.</description>
     </item>
     
     <item>
