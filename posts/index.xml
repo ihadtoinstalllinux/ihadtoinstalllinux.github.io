@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Oct 2025 16:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 00:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск браузерного движка Servo 0.0.1</title>
+      <title>Для ядра Linux предложен драйвер ntfsplus с новой реализацией NTFS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 20 Oct 2025 16:35:18 +0500</pubDate>
+      <pubDate>Tue, 21 Oct 2025 00:35:49 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован первый отдельный выпуск браузероного движка Servo, написанного на языке Rust. До сих пор проектом формировались только ночные сборки. В примечании к выпуску отмечено только то, что по функциональности он аналогичен ночной сборке от 19 октября, для которой проведено дополнительное ручное тестирование. Выпуск также ознаменовал начало формирования сборок для систем Apple с macOS на базе процессоров с архитектурой ARM. Готовые сборки предоставлены для Linux, Android, macOS и Windows.
-https://www.opennet.ru/opennews/art.shtml?num=64083</description>
+      <description>Намджэ Чон (Namjae Jeon), участник проекта Samba, сопровождающий драйвер EXFAT и сервер KSMBD в ядре Linux, предложил включить в ядро новую реализацию файловой системы NTFS - ntfsplus. Предполагается, что более качественный и сопровождаемый NTFS-драйвер позволит улучшить совместимость Linux-систем с Windows-устройствами и упростить работу пользователей.
+https://www.opennet.ru/opennews/art.shtml?num=64084</description>
     </item>
     
     <item>
