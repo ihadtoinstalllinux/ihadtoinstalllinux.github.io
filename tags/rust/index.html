@@ -139,15 +139,15 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2>В ядро Linux 6.18 принята реализация Binder IPC для Android, написанная на Rust
+    <h2>Уязвимость в Rust-библиотеках для формата TAR, приводящая к распаковке файлов из вложенного архива
     </h2>
   </header>
   <section class="entry-content">
-    <p>В кодовую базу ядра Linux, на основе которой формируется релиз 6.18, принята реализация механизма межпроцессного взаимодействия Binder, написанная на языке Rust.
-https://www.opennet.ru/opennews/art.shtml?num=64092</p>
+    <p>В написанной на языке Rust библиотеке async-tar, предоставляющей функции для чтения и записи tar-архивов, выявлена уязвимость (CVE-2025-62518, кодовое имя TARmageddon), позволяющая при распаковке специально оформленного tar-архива не только извлечь размещённые в нём файлы, но и файлы, содержащиеся во вложенном tar-архиве. Уязвимость может быть использована для обхода систем верификации архивов и распаковки файлов, для которых не выполнялась проверка.
+https://www.opennet.ru/opennews/art.shtml?num=64093</p>
   </section>
-  <footer class="entry-footer"><span title='2025-10-21 23:35:45 +0500 +05'>October 21, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to В ядро Linux 6.18 принята реализация Binder IPC для Android, написанная на Rust" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2025-10-22 01:35:46 +0500 +05'>October 22, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в Rust-библиотеках для формата TAR, приводящая к распаковке файлов из вложенного архива" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
     </main>
     
