@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Oct 2025 12:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Oct 2025 02:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован Valkey 9.0, форк СУБД Redis</title>
+      <title>Релиз OpenBSD 7.8</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 22 Oct 2025 12:35:59 +0500</pubDate>
+      <pubDate>Thu, 23 Oct 2025 02:35:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся релиз СУБД Valkey 9.0, в прошлом году ответвившейся от СУБД Redis. Форк был образован после перевода Redis 7.4 на проприетарную лицензию. В выпуске Redis 8.0 код был возвращён на свободную лицензию AGPLv3, но это не повлияло на разработку проекта Valkey. Valkey развивается на нейтральной площадке под покровительством организации Linux Foundation при участии разработчиков из таких компаний, как Amazon, Google, Oracle, Ericsson и Snap. Код проекта написан на языке Си и распространяется под лицензией BSD.</description>
+      <description>Представлен выпуск свободной UNIX-подобной операционной системы OpenBSD 7.8. Проект OpenBSD был основан Тэо де Раадтом (Theo de Raadt) в 1995 году после конфликта с разработчиками NetBSD, в результате которого для Тэо был закрыт доступ к CVS репозиторию NetBSD. После этого Тэо де Раадт с группой единомышленников создал на базе дерева исходных текстов NetBSD новую открытую операционную систему, главными целями развития которой стали переносимость (поддерживается 13 аппаратных платформ), стандартизация, корректная работа, проактивная безопасность и интегрированные криптографические средства.</description>
     </item>
     
     <item>
