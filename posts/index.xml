@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Oct 2025 12:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Oct 2025 13:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Fedora утверждены правила использования AI-инструментов при разработке</title>
+      <title>AlmaLinux возобновил поддержку Btrfs, прекращённую в RHEL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 23 Oct 2025 12:36:01 +0500</pubDate>
+      <pubDate>Thu, 23 Oct 2025 13:35:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Управляющий совет проекта Fedora утвердил правила, регламентирующие применение AI-инструментов при разработке Fedora Linux. AI-инструменты рассматриваются как потенциальная возможность сделать платформу лучше, но при этом имеются опасения, связанные с конфиденциальностью, безопасностью, этикой и качеством. Решено не запрещать использование AI-ассистентов при обязательном человеческом контроле за результатом их работы и несении разработчиком ответственности за код.
-https://www.opennet.ru/opennews/art.shtml?num=64102</description>
+      <description>Разработчики проекта AlmaLinux, развивающего редакцию дистрибутива Red Hat Enterprise Linux (RHEL), объявили о добавлении поддержки файловой системы Btrfs и реализации в инсталляторе возможности разметки накопителей с использованием Btrfs. В качестве причины упоминается прогресс в разработке Btrfs и продвинутые возможности, такие как контрольные суммы для обнаружения повреждения данных и метаданных, снапшоты, удобное управление томами, прозрачное сжатие и поддержка операции reflink для создания копии файлов через клонирование метаданных.
+https://www.opennet.ru/opennews/art.shtml?num=64103</description>
     </item>
     
     <item>
