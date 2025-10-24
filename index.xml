@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 11:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 12:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mozilla вводит новые требования к Firefox-дополнениям, работающим с персональными данными</title>
+      <title>В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 24 Oct 2025 11:35:56 +0500</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:35:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Mozilla объявила об изменении правил размещения дополнений в каталоге AMO (addons.mozilla.org). Начиная с 3 ноября все новые дополнения к Firefox, собирающие или передающие на внешние серверы персональные данные, обязаны определить данную активность в файле manifest.json. Во время установки дополнения сведения об операциях с персональными данными будут выводиться вместе с запросом полномочий.
-https://www.opennet.ru/opennews/art.shtml?num=64106</description>
+      <description>В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &amp;ldquo;&amp;ndash;nosignature&amp;rdquo; или отключение проверки через использование соответствующего API.</description>
     </item>
     
     <item>
