@@ -5,9 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи | iHADtoinstalllinux</title>
-<meta name="keywords" content="Fedora, RPM" />
-<meta name="description" content="В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &ldquo;&ndash;nosignature&rdquo; или отключение проверки через использование соответствующего API.">
+<title>Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений | iHADtoinstalllinux</title>
+<meta name="keywords" content="uutils, Ubuntu" />
+<meta name="description" content="Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.
+https://www.opennet.ru/opennews/art.shtml?num=64108">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +58,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи" />
-<meta property="og:description" content="В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &ldquo;&ndash;nosignature&rdquo; или отключение проверки через использование соответствующего API." />
+</noscript><meta property="og:title" content="Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений" />
+<meta property="og:description" content="Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.
+https://www.opennet.ru/opennews/art.shtml?num=64108" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2025-10-24T12:35:36&#43;05:00" />
-<meta property="article:modified_time" content="2025-10-24T12:35:36&#43;05:00" />
+<meta property="article:published_time" content="2025-10-24T14:35:18&#43;05:00" />
+<meta property="article:modified_time" content="2025-10-24T14:35:18&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи"/>
-<meta name="twitter:description" content="В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &ldquo;&ndash;nosignature&rdquo; или отключение проверки через использование соответствующего API."/>
+<meta name="twitter:title" content="Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений"/>
+<meta name="twitter:description" content="Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.
+https://www.opennet.ru/opennews/art.shtml?num=64108"/>
 
 
 <script type="application/ld+json">
@@ -83,7 +86,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи",
+      "name": "Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +96,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи",
-  "name": "В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи",
-  "description": "В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом \u0026ldquo;\u0026ndash;nosignature\u0026rdquo; или отключение проверки через использование соответствующего API.",
+  "headline": "Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений",
+  "name": "Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений",
+  "description": "Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.\nhttps://www.opennet.ru/opennews/art.shtml?num=64108",
   "keywords": [
-    "Fedora", "RPM"
+    "uutils", "Ubuntu"
   ],
-  "articleBody": "В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом “–nosignature” или отключение проверки через использование соответствующего API.\nhttps://www.opennet.ru/opennews/art.shtml?num=64107\n",
-  "wordCount" : "73",
+  "articleBody": "Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.\nhttps://www.opennet.ru/opennews/art.shtml?num=64108\n",
+  "wordCount" : "65",
   "inLanguage": "en",
-  "datePublished": "2025-10-24T12:35:36+05:00",
-  "dateModified": "2025-10-24T12:35:36+05:00",
+  "datePublished": "2025-10-24T14:35:18+05:00",
+  "dateModified": "2025-10-24T14:35:18+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,22 +198,22 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи
+      Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений
     </h1>
-    <div class="post-meta"><span title='2025-10-24 12:35:36 +0500 +05'>October 24, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2025-10-24 14:35:18 +0500 +05'>October 24, 2025</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &ldquo;&ndash;nosignature&rdquo; или отключение проверки через использование соответствующего API.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=64107">https://www.opennet.ru/opennews/art.shtml?num=64107</a></p>
+  <div class="post-content"><p>Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на  Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего,  оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=64108">https://www.opennet.ru/opennews/art.shtml?num=64108</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/fedora/">Fedora</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/rpm/">RPM</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/uutils/">uutils</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/ubuntu/">Ubuntu</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">

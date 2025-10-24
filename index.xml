@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 12:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 14:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Fedora 44 в RPM намерены активировать проверку пакетов по цифровой подписи</title>
+      <title>Из-за ошибки в uutils в Ubuntu 25.10 перестала работать автоматическая проверка наличия обновлений</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 24 Oct 2025 12:35:36 +0500</pubDate>
+      <pubDate>Fri, 24 Oct 2025 14:35:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В выпуске Fedora Linux 44, намеченном на весну 2026 года, планируют включить по умолчанию проверку пакетов по цифровой подписи в RPM. Если план будет утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux, по умолчанию смогут быть установлены только пакеты с корректной цифровой подписью. При необходимости ручной установки пакетов предусмотрена возможность обхода проверки через явный запуск RPM с флагом &amp;ldquo;&amp;ndash;nosignature&amp;rdquo; или отключение проверки через использование соответствующего API.</description>
+      <description>Замена в дистрибутиве Ubuntu 25.10 инструментария GNU Coreutils на Rust Coreutils (uutils) привела к нарушению работы скрипта для автоматической проверки наличия обновлений пакетов. Среди прочего, оказался неработоспособен механизм автоматической установки обновлений с устранением уязвимостей, применяемый в некоторых установках Ubuntu Desktop и Ubuntu Server, а также в конфигурациях для облачных систем и контейнеров. Сбой не затронул операции ручной установки обновлений с использованием команд, подобных apt.
+https://www.opennet.ru/opennews/art.shtml?num=64108</description>
     </item>
     
     <item>
