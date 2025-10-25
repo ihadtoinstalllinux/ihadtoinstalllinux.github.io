@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Oct 2025 10:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 11:35:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск uutils 0.3, варианта GNU Coreutils на языке Rust </title>
+      <title>Доступен web-браузер qutebrowser 3.6.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 25 Oct 2025 10:35:17 +0500</pubDate>
+      <pubDate>Sat, 25 Oct 2025 11:35:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта uutils coreutils 0.3.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
-https://www.opennet.ru/opennews/art.shtml?num=64114</description>
+      <description>Опубликован релиз web-браузера qutebrowser 3.6.0, предоставляющего минимальный графический интерфейс, не отвлекающий от просмотра содержимого, и систему навигации в стиле текстового редактора Vim, построенную целиком на клавиатурных комбинациях. Код написан на языке Python с использованием PyQt и QtWebEngine. Исходные тексты распространяются под лицензией GPLv3. Применение Python не сказывается на производительности работы с сайтами, так как отрисовка и разбор контента осуществляется силами движка Blink и библиотеки Qt.
+https://www.opennet.ru/opennews/art.shtml?num=64115</description>
     </item>
     
     <item>
