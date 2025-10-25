@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 23:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 10:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз программы для редактирования видео LosslessCut 3.66</title>
+      <title>Выпуск uutils 0.3, варианта GNU Coreutils на языке Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 24 Oct 2025 23:35:28 +0500</pubDate>
+      <pubDate>Sat, 25 Oct 2025 10:35:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск программы LosslessCut 3.66, предоставляющей графический интерфейс для редактирования мультимедийных файлов без перекодирования содержимого. Наиболее востребованной функцией LosslessCut является кадрирование и обрезка видео и звука, например, для сокращения размера больших файлов, снятых на экшн-камеру или камеру квадрокоптера. LosslessCut позволяет выбрать в файле актуальные фрагменты записи и отбросить лишнее, без проведения полного перекодирования и сохранив исходное качество материала. Так как обработка выполняется путём копирования имеющихся данных, а не перекодирования, операции выполняются очень быстро.</description>
+      <description>Опубликован выпуск проекта uutils coreutils 0.3.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
+https://www.opennet.ru/opennews/art.shtml?num=64114</description>
     </item>
     
     <item>
