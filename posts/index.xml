@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 12:35:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 13:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Во FreeBSD обеспечена поддержка воспроизводимых сборок и сборки без прав root</title>
+      <title>Ubuntu Unity остался без разработчиков и новых релизов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 28 Oct 2025 12:35:49 +0500</pubDate>
+      <pubDate>Tue, 28 Oct 2025 13:35:23 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация FreeBSD Foundation объявила о реализации поддержки воспроизводимых сборок, позволяющих убедиться, что распространяемые бинарные файлы собраны из предоставляемого исходного кода и не содержат скрытых изменений. Одновременно заявлено о предоставлении возможности сборки FreeBSD в непривилегированных окружениях, не требующих наличия прав root. Избавление от компонентов, выполняемых во время сборки с правами root, позволит повысить безопасность инфраструктуры для формирования релизов FreeBSD, снизить поверхность атаки на сборочное окружение и упростить организацию автоматизированных сборок.
-https://www.opennet.ru/opennews/art.shtml?num=64124</description>
+      <description>Проект Ubuntu Unity не может сформировать новый релиз 25.10 из-за отсутствия разработчиков, способных исправить критические проблемы с работой пользовательского окружения Unity, возникающие при использовании пакетной базы Ubuntu 25.10. Пользователям Ubuntu Unity не рекомендуется обновлять свои системы до ветки 25.10 или пытаться установить пакеты с Unity поверх других редакций Ubuntu 25.10, так как это может нарушить работоспособность системы.
+https://www.opennet.ru/opennews/art.shtml?num=64125</description>
     </item>
     
     <item>
