@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>OpenIndiana on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openindiana/</link>
+    <description>Recent content in OpenIndiana on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 15:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 15:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openindiana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск дистрибутива OpenIndiana 2025.10, продолжающего развитие OpenSolaris</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлен релиз свободного дистрибутива OpenIndiana 2025.10, пришедшего на смену дистрибутиву OpenSolaris, развитие которого было прекращено компанией Oracle. OpenIndiana предоставляет пользователю рабочее окружение, построенное на базе свежего среза кодовой базы проекта Illumos. Непосредственно разработка технологий OpenSolaris продолжается проектом Illumos, в котором развивается ядро, сетевой стек, файловые системы, драйверы, а также базовый набор пользовательских системных утилит и библиотек. Для загрузки сформировано три вида iso-образов - серверная редакция с консольными приложениями (1 ГБ), минимальная сборка (498 МБ) и сборка с графическим окружением MATE (2.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 14:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 15:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Tor Browser 15.0</title>
+      <title>Выпуск дистрибутива OpenIndiana 2025.10, продолжающего развитие OpenSolaris</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 29 Oct 2025 14:35:13 +0500</pubDate>
+      <pubDate>Wed, 29 Oct 2025 15:35:25 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск специализированного браузера Tor Browser 15.0, в котором осуществлён переход на ESR-ветку Firefox 140. Браузер сосредоточен на обеспечении конфиденциальности и безопасности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix). Сборки Tor Browser подготовлены для Linux, Android, Windows и macOS.</description>
+      <description>Представлен релиз свободного дистрибутива OpenIndiana 2025.10, пришедшего на смену дистрибутиву OpenSolaris, развитие которого было прекращено компанией Oracle. OpenIndiana предоставляет пользователю рабочее окружение, построенное на базе свежего среза кодовой базы проекта Illumos. Непосредственно разработка технологий OpenSolaris продолжается проектом Illumos, в котором развивается ядро, сетевой стек, файловые системы, драйверы, а также базовый набор пользовательских системных утилит и библиотек. Для загрузки сформировано три вида iso-образов - серверная редакция с консольными приложениями (1 ГБ), минимальная сборка (498 МБ) и сборка с графическим окружением MATE (2.</description>
     </item>
     
     <item>
