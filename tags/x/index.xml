@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>X on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x/</link>
+    <description>Recent content in X on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2025 00:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 00:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обновление X.Org Server 21.1.20 с устранением 3 уязвимостей </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликованы корректирующие выпуски X.Org Server 21.1.19 и DDX-компонента (Device-Dependent X) xwayland 24.1.9, обеспечивающего запуск X.Org Server для организации выполнения X11-приложений в окружениях на базе Wayland. В новых версиях устранены 3 уязвимости, которым присвоен уровень опасности 7.8 из 10. Проблемы потенциально могут быть эксплуатированы для повышения привилегий в системах, в которых X-сервер выполняется с правами root, а также для удалённого выполнения кода в конфигурациях, в которых для доступа используется перенаправление сеанса X11 при помощи SSH.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
