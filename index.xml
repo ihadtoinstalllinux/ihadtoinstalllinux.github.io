@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2025 10:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 11:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Драйвер RadeonSI переведён по умолчанию на бэкенд компиляции шейдеров ACO</title>
+      <title>Вышел pgbalancer 1.0, балансировщик нагрузки PostgreSQL на основе ИИ, поддерживающий REST API и MQTT</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 30 Oct 2025 10:35:25 +0500</pubDate>
+      <pubDate>Thu, 30 Oct 2025 11:35:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Marek Olšák, разработчик видеодрайверов из компании AMD, добавил в кодовую базу Mesa изменение, переводящее драйвер RadeonSI на использование по умолчанию промежуточного представления (IR) шейдеров NIR и бэкенда компиляции шейдеров ACO, развиваемого компанией Valve в качестве альтернативы компилятору шейдеров LLVM. Бэкенд ACO нацелен на обеспечение генерации кода, насколько это возможно оптимального для шейдеров игровых приложений, а также на достижение очень высокой скорости компиляции.
-https://www.opennet.ru/opennews/art.shtml?num=64141</description>
+      <description>Опубликован первый выпуск pgbalancer, балансировщика нагрузки PostgreSQL на основе искусственного интеллекта с REST API и MQTT. Pgbalancer обеспечивает обработку пула соединений и балансировку нагрузки для PostgreSQL, управляется по протоколу HTTP и поддерживает потоковую передачу событий в режиме реального времени. Проект создан как форк pgpool-II с серьёзными улучшениями для умной маршрутизации запросов. Код написан на языке Си и распространяется под открытой лицензией PostgreSQL.
+https://www.opennet.ru/opennews/art.shtml?num=64140</description>
     </item>
     
     <item>
