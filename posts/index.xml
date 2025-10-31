@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 16:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Oct 2025 21:35:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск графического редактора Brushshe 2.3.0</title>
+      <title>Chrome 154 начнёт запрашивать подтверждение при открытии сайтов без HTTPS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 31 Oct 2025 16:35:12 +0500</pubDate>
+      <pubDate>Fri, 31 Oct 2025 21:35:25 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск растрового графического редактора Brushshe 2.3.0 (кодовое имя &amp;ldquo;Vientiane&amp;rdquo;). Редактор поддерживает работу с наклейками, рамками и эффектами, сохранение в разные форматы, использование собственных палитр и навигацию по галерее рисунков. Код проекта написан на Python с использованием графического тулкита CustomTkinter и распространяется под лицензией MPL 2.0. Готовые сборки сформированы для Windows и Linux (.deb и .rpm). Редактор доступен на английском, русском и украинском языках, есть частичная локализация на Хинди и немецком.</description>
+      <description>Компания Google анонсировала включение в выпуске Chrome 154, намеченном на октябрь 2026 года, автоматического перенаправления HTTP-запросов на HTTPS. Для сайтов, не поддерживающих HTTPS, перед первым открытием по HTTP будет выводиться диалог для подтверждения операции. В настоящее время подобное поведение является опциональным и для включения требует выставления настройки &amp;ldquo;Always Use Secure Connections&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=64152</description>
     </item>
     
     <item>
