@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>x86 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/x86/</link>
+    <description>Recent content in x86 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 01:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 01:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Для Ubuntu 25.10 подготовлены варианты пакетов, оптимизированные для архитектуры x86-64-v3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Canonical начала поставку для Ubuntu 25.10 отдельных вариантов пакетов с исполняемыми файлами, собранными с оптимизациями для архитектуры x86-64-v3. В настоящее время для x86-64-v3 подготовлено около 2000 пакетов из репозитория main, которые доступны в качестве опции. Данные пакеты не протестированы на уровне основных пакетов, но уже могут использоваться энтузиастами, желающими добиться максимальной производительности. В Ubuntu 26.04 намерены собрать оптимизированные для архитектуры x86-64-v3 варианты всех имеющихся пакетов и обеспечить для них полноценное тестирование.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
