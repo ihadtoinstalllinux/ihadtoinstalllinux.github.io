@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 12:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Oct 2025 14:35:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>no-code - пакет для скрытия кода на языке Python  </title>
+      <title>Выпуск Rust 1.91</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 31 Oct 2025 12:35:07 +0500</pubDate>
+      <pubDate>Fri, 31 Oct 2025 14:35:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован инструментарий no-code, позволяющий скрывать код в скриптах на языке Python. Преобразованный скрипт выглядит в редакторах кода как одна строка &amp;ldquo;# coding: no&amp;rdquo; без какого-либо иного содержимого, но при этом продолжает запускаться и выполнять прежние функции. Инструментарий создан под впечатлением от шуточной философии No Code, в соответствии с которой лучшим способом написания безопасных и надёжных приложений является полное отсутствие кода. Отмечается, что данная философия хороша, но иногда требуется, чтобы программа выполняла какие-то действия.</description>
+      <description>Опубликован релиз языка программирования Rust 1.91, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=64149</description>
     </item>
     
     <item>
