@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>APT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apt/</link>
+    <description>Recent content in APT on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 00:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Debian намерены добавить Rust в число обязательных зависимостей к APT</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Джулиан Андрес Клоде (Julian Andres Klode), основной сопровождающий проект APT, объявил о решении добавить код на языке Rust в пакетный менеджер APT, а также включить в число обязательных зависимостей компилятор Rust, стандартную библиотеку Rust и PGP-инструментарий от проекта Sequoia, написанный на Rust. Изменения намерены реализовать не раньше мая 2026 года, чтобы дать разработчикам портов Debian полгода на реализацию корректной работы инструментария Rust или сворачивание порта.
 https://www.opennet.ru/opennews/art.shtml?num=64164</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

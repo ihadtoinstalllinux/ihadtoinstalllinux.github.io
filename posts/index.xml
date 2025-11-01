@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 13:35:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 00:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В KDE появилась возможность настройки визуальных границ элементов</title>
+      <title>В Debian намерены добавить Rust в число обязательных зависимостей к APT</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 01 Nov 2025 13:35:04 +0500</pubDate>
+      <pubDate>Sun, 02 Nov 2025 00:35:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Нейт Грэм (Nate Graham), разработчик, занимающийся контролем качества в проекте KDE, опубликовал очередной отчёт о разработке KDE. Наиболее заметные изменения, развиваемые для выпуска KDE Plasma 6.6, запланированного на 12 февраля.
-https://www.opennet.ru/opennews/art.shtml?num=64157</description>
+      <description>Джулиан Андрес Клоде (Julian Andres Klode), основной сопровождающий проект APT, объявил о решении добавить код на языке Rust в пакетный менеджер APT, а также включить в число обязательных зависимостей компилятор Rust, стандартную библиотеку Rust и PGP-инструментарий от проекта Sequoia, написанный на Rust. Изменения намерены реализовать не раньше мая 2026 года, чтобы дать разработчикам портов Debian полгода на реализацию корректной работы инструментария Rust или сворачивание порта.
+https://www.opennet.ru/opennews/art.shtml?num=64164</description>
     </item>
     
     <item>
