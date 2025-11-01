@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 01:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 12:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Для Ubuntu 25.10 подготовлены варианты пакетов, оптимизированные для архитектуры x86-64-v3</title>
+      <title>Выпуск Wine 10.18. Доля Windows-игр, работающих через Wine и Proton, приблизилась к 90%</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 01 Nov 2025 01:35:08 +0500</pubDate>
+      <pubDate>Sat, 01 Nov 2025 12:35:37 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Canonical начала поставку для Ubuntu 25.10 отдельных вариантов пакетов с исполняемыми файлами, собранными с оптимизациями для архитектуры x86-64-v3. В настоящее время для x86-64-v3 подготовлено около 2000 пакетов из репозитория main, которые доступны в качестве опции. Данные пакеты не протестированы на уровне основных пакетов, но уже могут использоваться энтузиастами, желающими добиться максимальной производительности. В Ubuntu 26.04 намерены собрать оптимизированные для архитектуры x86-64-v3 варианты всех имеющихся пакетов и обеспечить для них полноценное тестирование.</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 10.18. С момента выпуска 10.17 было закрыто 30 отчётов об ошибках и внесено 298 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=64156</description>
     </item>
     
     <item>
