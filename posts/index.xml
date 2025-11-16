@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Nov 2025 13:35:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Nov 2025 01:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Nitrux 5.0, переведённый с NX Desktop на Hyprland </title>
+      <title>Выпуск Phosh 0.51.0, GNOME-окружения для смартфонов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 16 Nov 2025 13:35:59 +0500</pubDate>
+      <pubDate>Mon, 17 Nov 2025 01:35:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск дистрибутива Nitrux 5.0.0, построенного на пакетной базе Debian и поставляемого с системой инициализации OpenRC. Размер полного загрузочного образа составляет 3.3 ГБ. Наработки проекта распространяются под свободными лицензиями.
-https://www.opennet.ru/opennews/art.shtml?num=64260</description>
+      <description>Опубликован релиз Phosh 0.51, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру. Наработки проекта распространяются под лицензией GPLv3+.</description>
     </item>
     
     <item>
