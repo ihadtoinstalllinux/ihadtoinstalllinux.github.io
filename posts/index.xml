@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Nov 2025 14:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Nov 2025 20:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива OmniOS CE r151056, построенного на технологиях OpenSolaris</title>
+      <title>Marathon OS - мобильная ОС в стиле BlackBerry 10 на базе Linux, Qt и Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 17 Nov 2025 14:35:48 +0500</pubDate>
+      <pubDate>Mon, 17 Nov 2025 20:36:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз дистрибутива OmniOS Community Edition r151056, основанного на наработках проекта Illumos, продолжающего развитие ядра, сетевого стека, файловых систем, драйверов, библиотек и базового набора системных утилит OpenSolaris. OmniOS примечателен предоставлением поддержки гипервизоров bhyve и KVM, виртуального сетевого стека Crossbow, файловой системы ZFS и средств запуска легковесных Linux-контейнеров. Дистрибутив может применяться для построения масштабируемых web-систем, виртуализации и создания систем хранения.
-https://www.opennet.ru/opennews/art.shtml?num=64265</description>
+      <description>Представлен проект Marathon OS, развивающий дистрибутив Linux для мобильных устройств, сочетающий наработки из дистрибутива PostmarketOS с графической оболочкой Marathon Shell. Пользовательское окружение написано с использованием Qt и QML, и базируется на собственном композитном сервере, использующем протокол Wayland и воссоздающем модель управления жестами в стиле операционной системы BlackBerry 10. Код проекта написан на языках C++ и QML, и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=64269</description>
     </item>
     
     <item>
