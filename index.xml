@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 00:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 01:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлены сборки Debian Libre, поставляемые без несвободных компонентов</title>
+      <title>Разработчики openSUSE развивают zssh, реализацию SSH на языке Zig</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 18 Nov 2025 00:35:57 +0500</pubDate>
+      <pubDate>Tue, 18 Nov 2025 01:35:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Саймон Йозефссон (Simon Josefsson), сопровождающий 170 пакетов в Debian, представил проект Debian Libre Live Images, предоставляющий сборки Debian GNU/Linux, избавленные от несвободных компонентов, таких как блобы для прошивок. В соответствии с принятым в 2022 году решением, в состав официальных iso-образов Debian включены как свободные прошивки из репозитория main, так и проприетарные прошивки, распространяемые через репозиторий non-free-firmware. Представленный проект начал формирование редакций официальных live-образов для архитектуры amd64, позволяющих запустить или установить Debian 13 без использования несвободных компонентов.</description>
+      <description>Разработчики дистрибутива openSUSE представили проект zssh, в котором предпринята попытка реализации протокола SSH на языке Zig. Реализация включает код для разбора протокола и работы со связанными с SSH примитивами, такими как ключи, сертификаты и механизм обмена сообщениями с ssh-agent. Реализации алгоритмов шифрования заимствованы из существующих библиотек. Код проекта распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=64272</description>
     </item>
     
     <item>

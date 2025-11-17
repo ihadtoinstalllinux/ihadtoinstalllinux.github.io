@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>openSUSE on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/opensuse/</link>
+    <description>Recent content in openSUSE on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 01:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 01:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Разработчики openSUSE развивают zssh, реализацию SSH на языке Zig</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Разработчики дистрибутива openSUSE представили проект zssh, в котором предпринята попытка реализации протокола SSH на языке Zig. Реализация включает код для разбора протокола и работы со связанными с SSH примитивами, такими как ключи, сертификаты и механизм обмена сообщениями с ssh-agent. Реализации алгоритмов шифрования заимствованы из существующих библиотек. Код проекта распространяется под лицензией GPLv3.
 https://www.opennet.ru/opennews/art.shtml?num=64272</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
