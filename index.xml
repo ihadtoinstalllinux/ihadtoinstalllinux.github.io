@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Nov 2025 20:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 00:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Marathon OS - мобильная ОС в стиле BlackBerry 10 на базе Linux, Qt и Wayland</title>
+      <title>Представлены сборки Debian Libre, поставляемые без несвободных компонентов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 17 Nov 2025 20:36:04 +0500</pubDate>
+      <pubDate>Tue, 18 Nov 2025 00:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен проект Marathon OS, развивающий дистрибутив Linux для мобильных устройств, сочетающий наработки из дистрибутива PostmarketOS с графической оболочкой Marathon Shell. Пользовательское окружение написано с использованием Qt и QML, и базируется на собственном композитном сервере, использующем протокол Wayland и воссоздающем модель управления жестами в стиле операционной системы BlackBerry 10. Код проекта написан на языках C++ и QML, и распространяется под лицензией MIT.
-https://www.opennet.ru/opennews/art.shtml?num=64269</description>
+      <description>Саймон Йозефссон (Simon Josefsson), сопровождающий 170 пакетов в Debian, представил проект Debian Libre Live Images, предоставляющий сборки Debian GNU/Linux, избавленные от несвободных компонентов, таких как блобы для прошивок. В соответствии с принятым в 2022 году решением, в состав официальных iso-образов Debian включены как свободные прошивки из репозитория main, так и проприетарные прошивки, распространяемые через репозиторий non-free-firmware. Представленный проект начал формирование редакций официальных live-образов для архитектуры amd64, позволяющих запустить или установить Debian 13 без использования несвободных компонентов.</description>
     </item>
     
     <item>
