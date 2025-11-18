@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 10:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 11:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CPython может сделать Rust обязательной сборочной зависимостью к версии 3.17</title>
+      <title>Опубликован дистрибутив AlmaLinux 9.7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 18 Nov 2025 10:35:22 +0500</pubDate>
+      <pubDate>Tue, 18 Nov 2025 11:35:54 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Эмма Смит (Emma Smith) и Кирилл Подопригора (Kirill Podoprigora), входящие в число ключевых разработчиков Python (core team), опубликовали предварительное предложение (Pre-PEP) о постепенном добавлении возможности использования языка Rust в кодовой базе CPython, эталонной реализации языка программирования Python. Изначально Rust предлагают использовать для необязательных модулей стандартной библиотеки, размещаемых в директории Modules/. В перспективе, к версии Python 3.17, Rust может стать обязательной зависимостью при сборке CPython.
-https://www.opennet.ru/opennews/art.shtml?num=64275</description>
+      <description>Доступен выпуск дистрибутива AlmaLinux 9.7, синхронизированный c новым выпуском Red Hat Enterprise Linux 9.7 и содержащий все предложенные в данном выпуске изменения. Установочные образы подготовлены для архитектур x86_64, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (2 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
     </item>
     
     <item>
