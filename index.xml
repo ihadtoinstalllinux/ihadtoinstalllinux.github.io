@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 03:35:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 04:35:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Firefox переходит на использование каталога ~/.config/mozilla на Unix-подобных системах</title>
+      <title>Дистрибутив Zorin OS 18 за месяц был загружен миллион раз</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Nov 2025 03:35:09 +0500</pubDate>
+      <pubDate>Fri, 21 Nov 2025 04:35:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В кодовую базу Firefox, на основе которой 13 января будет сформирован выпуск Firefoc 147, внесены изменения, переводящие браузер на использование по умолчанию каталога &amp;ldquo;~/.config/mozilla&amp;rdquo; для хранения профилей, дополнений, настроек и внутренних БД на UNIX-подобных системах (кэш уже ранее был пернесён в &amp;ldquo;~/.cache/mozilla&amp;rdquo;). Изменение внесено для соответствия браузера спецификации Freedesktop.org XDG Base Directory (запрос на изменение рассматривался с 2004 года). Возможность размещения данных в старом каталоге &amp;ldquo;~/.mozilla&amp;rdquo; сохранена в качестве опции, активируемой при запуске с переменной окружения &amp;ldquo;MOZ_LEGACY_HOME=1&amp;rdquo;.</description>
+      <description>Разработчики дистрибутива Zorin OS, основанного на пакетной базе Ubuntu и нацеленного на начинающих пользователей, привыкших работать в Windows, сообщили, что опубликованный 15 октября выпуск Zorin OS 18 преодолел рубеж в миллион загрузок, что побило все прошлые рекорды проекта. 78% от всех загрузок выполнены пользователями Windows.
+https://www.opennet.ru/opennews/art.shtml?num=64295</description>
     </item>
     
     <item>
