@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 14:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 15:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HP и Dell начали отключать аппаратную поддержку HEVC в ноутбуках</title>
+      <title>6 уязвимостей в загрузчике GRUB2, позволяющих обойти UEFI Secure Boot</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Nov 2025 14:35:23 +0500</pubDate>
+      <pubDate>Fri, 21 Nov 2025 15:35:56 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компании HP и Dell в ряде современных ноутбуков намеренно отключили аппаратное декодирование видео с использованием видеокодека HEVC (H.265), хотя используемые процессоры AMD и Intel технически поддерживают эту возможность. HP упоминает об отключении аппаратного ускорения HEVC в спецификациях некоторых моделей ProBook и EliteBook. У Dell ситуация менее прозрачная - официальные спецификации не содержат предупреждений, однако служба поддержки компании подтверждает, что HEVC недоступен на базовых конфигурациях без дискретной графики, 4K-экрана или пакета мультимедийных лицензий.</description>
+      <description>Опубликован набор патчей с устранением 6 уязвимостей в загрузчике GRUB2, большинство из которых приводит к обращению к памяти после её освобождения (use-after-free). Потенциально выявленные проблемы могут использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot. Статус устранения уязвимостей в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Arch и.
+https://www.opennet.ru/opennews/art.shtml?num=64298</description>
     </item>
     
     <item>
