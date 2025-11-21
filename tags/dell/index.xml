@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Dell on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dell/</link>
+    <description>Recent content in Dell on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 14:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 14:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HP и Dell начали отключать аппаратную поддержку HEVC в ноутбуках</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компании HP и Dell в ряде современных ноутбуков намеренно отключили аппаратное декодирование видео с использованием видеокодека HEVC (H.265), хотя используемые процессоры AMD и Intel технически поддерживают эту возможность. HP упоминает об отключении аппаратного ускорения HEVC в спецификациях некоторых моделей ProBook и EliteBook. У Dell ситуация менее прозрачная - официальные спецификации не содержат предупреждений, однако служба поддержки компании подтверждает, что HEVC недоступен на базовых конфигурациях без дискретной графики, 4K-экрана или пакета мультимедийных лицензий.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 12:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 14:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Результаты опроса о применении открытых проектов в корпоративной среде</title>
+      <title>HP и Dell начали отключать аппаратную поддержку HEVC в ноутбуках</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Nov 2025 12:35:30 +0500</pubDate>
+      <pubDate>Fri, 21 Nov 2025 14:35:23 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация Linux Foundation совместно с компанией Canonical провела опрос (PDF, 43 страницы) представителей различных компаний об использовании и внедрении открытого ПО на предприятиях. Статистики собрана на основе опроса 851 участника. Основные тенденции.
-https://www.opennet.ru/opennews/art.shtml?num=64296</description>
+      <description>Компании HP и Dell в ряде современных ноутбуков намеренно отключили аппаратное декодирование видео с использованием видеокодека HEVC (H.265), хотя используемые процессоры AMD и Intel технически поддерживают эту возможность. HP упоминает об отключении аппаратного ускорения HEVC в спецификациях некоторых моделей ProBook и EliteBook. У Dell ситуация менее прозрачная - официальные спецификации не содержат предупреждений, однако служба поддержки компании подтверждает, что HEVC недоступен на базовых конфигурациях без дискретной графики, 4K-экрана или пакета мультимедийных лицензий.</description>
     </item>
     
     <item>
