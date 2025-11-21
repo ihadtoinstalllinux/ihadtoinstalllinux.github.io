@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 18:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 19:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системы глубокого инспектирования пакетов nDPI 5.0</title>
+      <title>В Tyr, написанном на Rust драйвере для GPU ARM Mali, обеспечена совместимость с GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Nov 2025 18:35:57 +0500</pubDate>
+      <pubDate>Fri, 21 Nov 2025 19:35:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект ntop, развивающий инструменты для захвата и анализа трафика, опубликовал инструментарий для глубокого инспектирования пакетов nDPI 5.0, продолжающий развитие библиотеки OpenDPI. Проект nDPI основан после безуспешной попытки передачи изменений в репозиторий OpenDPI, который остался без сопровождения. Код nDPI написан на языке Си и распространяется под лицензией LGPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=64299</description>
+      <description>Компания Collabora объявила о прогрессе в разработке для ядра Linux драйвера Tyr, написанного на языке Rust. Драйвер рассчитан на работу с GPU ARM Mali, в которых применяется технология CSF (Сommand Stream Frontend), таких как Mali G310, G510 и G710. Отмечается, что Tyr достиг уровня, пригодного для обеспечения работы среды рабочего стола GNOME, композитного сервера Weston и полноэкранных игр, таких как SuperTuxKart. Производительность нового драйвера оценена как сопоставимая с драйвером Panthor, написанном на языке Си.</description>
     </item>
     
     <item>

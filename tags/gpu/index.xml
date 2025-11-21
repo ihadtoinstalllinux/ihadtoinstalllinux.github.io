@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>GPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gpu/</link>
+    <description>Recent content in GPU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 19:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 19:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Tyr, написанном на Rust драйвере для GPU ARM Mali, обеспечена совместимость с GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Collabora объявила о прогрессе в разработке для ядра Linux драйвера Tyr, написанного на языке Rust. Драйвер рассчитан на работу с GPU ARM Mali, в которых применяется технология CSF (Сommand Stream Frontend), таких как Mali G310, G510 и G710. Отмечается, что Tyr достиг уровня, пригодного для обеспечения работы среды рабочего стола GNOME, композитного сервера Weston и полноэкранных игр, таких как SuperTuxKart. Производительность нового драйвера оценена как сопоставимая с драйвером Panthor, написанном на языке Си.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
