@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 15:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 18:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>6 уязвимостей в загрузчике GRUB2, позволяющих обойти UEFI Secure Boot</title>
+      <title>Выпуск системы глубокого инспектирования пакетов nDPI 5.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Nov 2025 15:35:56 +0500</pubDate>
+      <pubDate>Fri, 21 Nov 2025 18:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован набор патчей с устранением 6 уязвимостей в загрузчике GRUB2, большинство из которых приводит к обращению к памяти после её освобождения (use-after-free). Потенциально выявленные проблемы могут использоваться для обхода механизма верифицированной загрузки UEFI Secure Boot. Статус устранения уязвимостей в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Arch и.
-https://www.opennet.ru/opennews/art.shtml?num=64298</description>
+      <description>Проект ntop, развивающий инструменты для захвата и анализа трафика, опубликовал инструментарий для глубокого инспектирования пакетов nDPI 5.0, продолжающий развитие библиотеки OpenDPI. Проект nDPI основан после безуспешной попытки передачи изменений в репозиторий OpenDPI, который остался без сопровождения. Код nDPI написан на языке Си и распространяется под лицензией LGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=64299</description>
     </item>
     
     <item>
