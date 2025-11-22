@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Nov 2025 13:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Nov 2025 17:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в libpng, приводящая к переполнению буфера при обработке PNG-изображений</title>
+      <title>Google готов вернуть в Chrome поддержку формата JPEG-XL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 22 Nov 2025 13:35:18 +0500</pubDate>
+      <pubDate>Sat, 22 Nov 2025 17:35:22 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В корректирующем выпуске библиотеки libpng 1.6.51, применяемой в качестве прямой зависимости у около 600 пакетов в Ubuntu, устранены 4 уязвимости, одна из которых (CVE-2025-65018) приводит к записи за границу буфера. Потенциально данная уязвимость позволяет добиться выполнения своего кода при обработке специально оформленных файлов в формате PNG.
-https://www.opennet.ru/opennews/art.shtml?num=64305</description>
+      <description>Рик Байерс (Rick Byers), один из технических руководителей команды, занимающейся разработкой Google Chrome, заявил о готовности включить в движок Chromium высокопроизводительный и безопасный при работе с памятью декодировщик для формата изображений JPEG-XL. В качестве основного критерия для активации декодировщика JPEG-XL по умолчанию упоминается готовность к его длительному сопровождению.
+https://www.opennet.ru/opennews/art.shtml?num=64306</description>
     </item>
     
     <item>
