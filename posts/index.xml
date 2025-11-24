@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 18:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 19:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск свободной системы 3D-моделирования Blender 5.0</title>
+      <title>Выпуск системы тестирования памяти Memtest86&#43; 8.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 24 Nov 2025 18:36:02 +0500</pubDate>
+      <pubDate>Mon, 24 Nov 2025 19:35:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация Blender Foundation опубликовала выпуск свободного пакета 3D-моделирования Blender 5.0, подходящего для решения различных задач, связанных с 3D-моделированием, 3D-графикой, разработкой компьютерных игр, симуляцией, рендерингом, композитингом, трекингом движений, скульптурным моделированием, созданием анимации и монтажом видео. Код распространяется под лицензией GPL. Готовые сборки сформированы для Linux, Windows и macOS. Также продолжает поддерживаться LTS-ветки Blender 4.2 и 4.5, обновления для которой будут формироваться до июля 2026 и 2027 года соответственно.
-https://www.opennet.ru/opennews/art.shtml?num=64312</description>
+      <description>Доступен выпуск программы для тестирования оперативной памяти Memtest86+ 8.0. Программа не привязана к операционным системам и может запускаться напрямую из прошивки BIOS/UEFI или из загрузчика для проведения полной проверки оперативной памяти. В случае выявления проблем построенная в Memtest86+ карта сбойных участков памяти может использоваться в ядре Linux для исключения проблемных областей при помощи опции memmap. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=64313</description>
     </item>
     
     <item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Memtest86 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/memtest86/</link>
+    <description>Recent content in Memtest86 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 19:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 19:35:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/memtest86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск системы тестирования памяти Memtest86&#43; 8.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Доступен выпуск программы для тестирования оперативной памяти Memtest86+ 8.0. Программа не привязана к операционным системам и может запускаться напрямую из прошивки BIOS/UEFI или из загрузчика для проведения полной проверки оперативной памяти. В случае выявления проблем построенная в Memtest86+ карта сбойных участков памяти может использоваться в ядре Linux для исключения проблемных областей при помощи опции memmap. Код проекта распространяется под лицензией GPLv2.
 https://www.opennet.ru/opennews/art.shtml?num=64313</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
