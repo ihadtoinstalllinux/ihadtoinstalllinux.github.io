@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Fresh on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fresh/</link>
+    <description>Recent content in Fresh on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 01:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 01:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fresh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Опубликован дистрибутив ROSA Fresh 13.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания НТЦ ИТ РОСА опубликовала дистрибутив ROSA Fresh 13.1, построенный на платформе rosa 13. Дистрибутив распространяется свободно и разрабатывается с участием сообщества. Релиз ориентирован на широкий круг пользователей и станет основой корпоративного дистрибутива РОСА Хром 13. Для загрузки доступны сборки с рабочими столами KDE (4 ГБ) и GNOME (4 ГБ) для архитектуры x86_64. В репозитории пакеты собраны для архитектур aarch64, e2kv4, i686, loongarch64, riscv64 и x86_64.
 https://www.opennet.ru/opennews/art.shtml?num=64323</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
