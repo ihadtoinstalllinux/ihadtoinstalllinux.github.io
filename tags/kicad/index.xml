@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>KiCAD on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kicad/</link>
+    <description>Recent content in KiCAD on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 02:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Nov 2025 02:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kicad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Варианты игры Doom для САПР KiCAD и осциллографа</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлены порты игры Doom, использующие для отрисовки игрового процесса САПР KiCAD и осциллограф. Порт KiDoom формирует игровое поле в редакторе печатных плат, симулируя векторную графику через расстановку дорожек и элементов на печатной плате. Дорожки используются для формирования стен, транзисторы SOT-23 для отображения мелких предметов, микросхемы SOIC-8 для декораций, а микросхемы QFP-64 для игрока и врагов. Всего обеспечено сопоставление более 150 игровых сущностей с соответствующими элементами плат.
 https://www.opennet.ru/opennews/art.shtml?num=64329</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
