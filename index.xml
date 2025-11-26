@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 14:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 16:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атака на пользователей Blender через вредоносные файлы с 3D-моделями</title>
+      <title>Обновление Raspberry Pi OS и выпуск Raspberry Pi Imager 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 26 Nov 2025 14:35:41 +0500</pubDate>
+      <pubDate>Wed, 26 Nov 2025 16:35:06 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи безопасности из компании Morphisec обратили внимание на серию атак против пользователей системы 3D-моделирования Blender, осуществляемую через распространение blend-файлов в популярных каталогах 3D-моделей, таких как CGTrader. Активация вредоносного кода при открытии 3D-модели производится благодаря возможности включения в blend-файлы автоматически запускаемых скриптов на языке Python, предназначенных для автоматизации действий и выполнения расширенных операций, таких как формирование каркаса модели.
-https://www.opennet.ru/opennews/art.shtml?num=64325</description>
+      <description>Проект Raspberry Pi опубликовал новую версию дистрибутива Raspberry Pi OS 2025-11-24 (Raspbian). Дистрибутив основан на пакетной базе Debian 13 и содержит около 35 тысяч пакетов в репозитории. Среда рабочего стола базируется на композитном сервере labwc, использующем библиотеку wlroots от проекта Sway. Для загрузки подготовлены три сборки: сокращённая (494МБ) для серверных систем, с базовым рабочим столом (1.2 ГБ) и полная с дополнительным набором приложений (1.9 ГБ). Сборки доступны для 32- и 64-разрядных архитектур.</description>
     </item>
     
     <item>
