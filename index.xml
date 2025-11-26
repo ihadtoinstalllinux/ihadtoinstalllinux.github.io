@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 16:35:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Nov 2025 00:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление Raspberry Pi OS и выпуск Raspberry Pi Imager 2.0</title>
+      <title>В KDE Plasma 6.8 решено прекратить поддержку X11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 26 Nov 2025 16:35:06 +0500</pubDate>
+      <pubDate>Thu, 27 Nov 2025 00:35:10 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Raspberry Pi опубликовал новую версию дистрибутива Raspberry Pi OS 2025-11-24 (Raspbian). Дистрибутив основан на пакетной базе Debian 13 и содержит около 35 тысяч пакетов в репозитории. Среда рабочего стола базируется на композитном сервере labwc, использующем библиотеку wlroots от проекта Sway. Для загрузки подготовлены три сборки: сокращённая (494МБ) для серверных систем, с базовым рабочим столом (1.2 ГБ) и полная с дополнительным набором приложений (1.9 ГБ). Сборки доступны для 32- и 64-разрядных архитектур.</description>
+      <description>Проект KDE принял решение прекратить поддержку протокола X11 в выпуске KDE Plasma 6.8, запланированном на начало 2027 года. После этого KDE Plasma будет содержать только сеанс для работы с использованием протокола Wayland, возможность запуска X11-приложений в котором будет обеспечиваться при помощи DDX-сервера XWayland. До этого поддержку X11 было решено прекратить в GNOME 50, намеченном на весну 2026 года.
+https://www.opennet.ru/opennews/art.shtml?num=64328</description>
     </item>
     
     <item>
