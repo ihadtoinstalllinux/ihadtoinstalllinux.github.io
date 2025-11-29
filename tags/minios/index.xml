@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>MiniOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minios/</link>
+    <description>Recent content in MiniOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 21:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Nov 2025 21:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск дистрибутива MiniOS 5.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлен релиз дистрибутива MiniOS 5.1.0, основанного на Debian 13 &amp;ldquo;Trixie&amp;rdquo; и работающего напрямую с USB-накопителя. Графическое окружение основано на Xfce. Дистрибутив использует модульную архитектуру, позволяющую создавать специализированные конфигурации, исключая и добавляя компоненты для адаптации системы под конкретные задачи. Выпуск доступен в трёх редакциях.
 https://www.opennet.ru/opennews/art.shtml?num=64343</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
