@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 01:35:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск geoip 0.1.0, реализации REST API для определения местоположения по IP</title>
+      <title>Анализ конфиденциальных данных, захваченных червём Shai-Hulud 2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 05 Dec 2025 00:35:18 +0500</pubDate>
+      <pubDate>Fri, 05 Dec 2025 01:35:56 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся первый релиз проекта geoip, реализующего сервис для получения информации о местоположении IP-адресов через REST API. Проект ориентирован на упрощение интеграции GeoIP-функциональности в различные приложения, освобождая разработчика от необходимости самостоятельно управлять обновлениями баз данных и работать с форматом MMDB. Код написан на языке Rust и распространяется под лицензией MIT. Поддерживается работа в Linux и macOS, а также других UNIX-подобных системах.
-https://www.opennet.ru/opennews/art.shtml?num=64372</description>
+      <description>Компания Wiz опубликовала результаты анализа следов деятельности червя Shai-Hulud 2, в ходе активности которого в репозитории NPM были опубликованы вредоносные выпуски более 800 пакетов, насчитывающих в сумме более 100 млн загрузок. После установки поражённого пакета, активизировавшийся червь выполняет поиск конфиденциальных данных, публикует новые вредоносные релизы (при обнаружении токена подключения к каталогу NPM) и размещает в открытом доступе найденные в системе конфиденциальные данные через создание новых репозиториев в GitHub.
+https://www.opennet.ru/opennews/art.shtml?num=64377</description>
     </item>
     
     <item>
