@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Datacenter on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/datacenter/</link>
+    <description>Recent content in Datacenter on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 17:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 17:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/datacenter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Представлен Proxmox Datacenter Manager 1.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment, Proxmox Backup Server и Proxmox Mail Gateway, представила первый стабильный релиз нового дистрибутива - Proxmox Datacenter Manager, включающий интерфейс пользователя и инструментарий для централизованного управления несколькими независимыми кластерами на базе Proxmox Virtual Environment. Серверный бэкенд, утилиты командной строки и новый web-интерфейс написаны на языке Rust и распространяются под лицензией AGPLv3. Для создания web-интерфейса использован собственный набор виджетов, основанный на web-фреймворке Yew. Размер установочного iso-образа 1.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

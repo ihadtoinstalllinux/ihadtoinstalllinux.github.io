@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 15:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 17:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз http-сервера Apache 2.4.66 с устранением 5 уязвимостей </title>
+      <title>Представлен Proxmox Datacenter Manager 1.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 05 Dec 2025 15:35:28 +0500</pubDate>
+      <pubDate>Fri, 05 Dec 2025 17:35:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз HTTP-сервера Apache 2.4.66, в котором устранено 5 уязвимостей и внесено несколько десятков изменений.
-https://www.opennet.ru/opennews/art.shtml?num=64380</description>
+      <description>Компания Proxmox, известная разработкой продуктов Proxmox Virtual Environment, Proxmox Backup Server и Proxmox Mail Gateway, представила первый стабильный релиз нового дистрибутива - Proxmox Datacenter Manager, включающий интерфейс пользователя и инструментарий для централизованного управления несколькими независимыми кластерами на базе Proxmox Virtual Environment. Серверный бэкенд, утилиты командной строки и новый web-интерфейс написаны на языке Rust и распространяются под лицензией AGPLv3. Для создания web-интерфейса использован собственный набор виджетов, основанный на web-фреймворке Yew. Размер установочного iso-образа 1.</description>
     </item>
     
     <item>
