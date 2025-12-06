@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 13:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Dec 2025 14:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Сбой в Cloudflare из-за проблемы в коде на языке Lua</title>
+      <title>Кандидаты в релизы Wine 11 и Wine-staging 11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 06 Dec 2025 13:35:40 +0500</pubDate>
+      <pubDate>Sat, 06 Dec 2025 14:35:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Спустя две недели с момента прошлого глобального сбоя вчера сеть доставки контента Cloudflare, обслуживающая около 20% всего мирового web-трафика, на 25 минут частично оказалась недоступной. Во время инцидента примерно треть запросов через Cloudflare завершалось возвращением пустой страницы с кодом ошибки 500. На этот раз, причиной стала остававшаяся много лет незамеченной проблема в коде на языке Lua, применяемом в системе фильтрации трафика WAF (Web Application Firewall) для блокирования вредоносных запросов.
-https://www.opennet.ru/opennews/art.shtml?num=64387</description>
+      <description>Началось тестирование первого кандидата в релизы Wine 11.0, открытой реализации WinAPI. Кодовая база переведена на стадию заморозки перед релизом, который ожидается во второй половине января. По сравнению с выпуском Wine 10.20 закрыто 17 отчётов об ошибках и внесено 175 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=64388</description>
     </item>
     
     <item>
