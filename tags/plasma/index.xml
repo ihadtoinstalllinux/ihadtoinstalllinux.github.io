@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Plasma on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/plasma/</link>
+    <description>Recent content in Plasma on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 22:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 22:35:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/plasma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Бета выпуск KDE Plasma 6.6 и начало разработки KDE Plasma 6.7</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован очередной еженедельный отчёт о разработке KDE, в котором представлена первая порция изменений для ветки KDE Plasma 6.7, релиз которой ожидается в июне. Развитие новой ветки началось после перевода ветки KDE Plasma 6.6 на стадию бета-тестирования и заморозке связанной с ней кодовой базы от внесения функциональных изменений (допускается только приём исправлений). Релиз KDE Plasma 6.6 намечен на 17 февраля.
 https://www.opennet.ru/opennews/art.shtml?num=64630</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
