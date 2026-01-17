@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 11:35:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 14:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление Firefox 147.0.1. План прекращения поддержки старой боковой панели</title>
+      <title>Уязвимость в Android-прошивке, позволяющая выполнить код через отправку сообщения</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 17 Jan 2026 11:35:22 +0500</pubDate>
+      <pubDate>Sat, 17 Jan 2026 14:35:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен корректирующий выпуск Firefox 147.0.1, в котором представлены три исправления.
-https://www.opennet.ru/opennews/art.shtml?num=64631</description>
+      <description>Исследователи из команды Google Project Zero подробно разобрали технику создания рабочего эксплоита, позволяющего удалённо выполнить свой код с правами ядра Linux, через отправку SMS- или RCS-сообщения со специально оформленным звуковым вложением. Атака осуществляется без выполнения каких-либо действий пользователем, в том числе не требует просмотра или прослушивания полученного сообщения.
+https://www.opennet.ru/opennews/art.shtml?num=64632</description>
     </item>
     
     <item>
