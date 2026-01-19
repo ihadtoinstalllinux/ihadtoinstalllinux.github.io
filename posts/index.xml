@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jan 2026 16:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jan 2026 00:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Захват контроля над snap-пакетами, связанными с просроченными доменами</title>
+      <title>В базовую систему NetBSD вернули компилятор языка Fortran</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 19 Jan 2026 16:35:13 +0500</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:35:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Алан Поуп (Alan Pope), бывший менеджер по инжинирингу и взаимодействию с сообществом в компании Canonical, обратил внимание на новую волну атак на пользователей каталога приложений Snap Store. Вместо регистрации новых учётных записей, злоумышленники начали выкупать просроченные домены, фигурирующие в email зарегистрированных разработчиков snap-пакетов. После перекупки домена злоумышленники перенаправляют почтовый трафик на свой сервер и получив контроль над email, инициируют процесс восстановления забытого пароля для доступа к учётной записи.
-https://www.opennet.ru/opennews/art.shtml?num=64641</description>
+      <description>20 лет назад, когда был выпущен gcc4, компилятор g77 был заменён на gfortran. Однако из-за некоторых возникших с ним проблем он был исключён из базового образа NetBSD. Благодаря недавно внесённым изменениям в NetBSD-current, gfortran теперь снова поставляется в базовом образе операционной системы. В скором будущем планируют добавить соответствующие переменные в pkgsrc для компиляции программ с использованием этого системного компилятора, без необходимости установки пакета gcc12 из репозитория pkgsrc.
+https://www.opennet.ru/opennews/art.shtml?num=64642</description>
     </item>
     
     <item>
