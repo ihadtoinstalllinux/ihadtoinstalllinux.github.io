@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 15:35:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jan 2026 00:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Electron 40, платформы создания приложений на базе движка Chromium</title>
+      <title>Уязвимость в telnetd, позволяющая подключиться с правами root без аутентификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 20 Jan 2026 15:35:41 +0500</pubDate>
+      <pubDate>Wed, 21 Jan 2026 00:35:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз платформы Electron 40.0.0, предоставляющей самодостаточный фреймворк для разработки многоплатформенных пользовательских приложений, использующий в качестве основы компоненты Chromium, V8 и Node.js.
-https://www.opennet.ru/opennews/art.shtml?num=64648</description>
+      <description>В сервере telnetd из набора GNU InetUtils выявлена уязвимость, позволяющая подключиться под любым пользователем, включая пользователя root, без проверки пароля. CVE-идентификатор пока не присвоен. Уязвимость проявляется начиная с версии InetUtils 1.9.3 (2015 год) и остаётся неисправленной в актуальном выпуске 2.7.0. Исправление доступно в форме патчей (1, 2).
+https://www.opennet.ru/opennews/art.shtml?num=64649</description>
     </item>
     
     <item>
