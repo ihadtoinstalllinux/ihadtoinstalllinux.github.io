@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 02:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 03:35:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В инфраструктуре OSS Fuzz реализована поддержка проектов на языке Lua</title>
+      <title>Выпуск стандартных Си-библиотек Glibc 2.43 и newlib 4.6.0 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 Jan 2026 02:35:36 +0500</pubDate>
+      <pubDate>Sun, 25 Jan 2026 03:35:29 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В инфраструктуру для непрерывного фаззинг-тестирования OSS-Fuzz добавлена возможность тестирования проектов, написанных на языке Lua, в дополнение к ранее поддерживаемым языкам C/C++, Go, Swift, Rust, Python, JavaScript и Java. Интеграция реализована с помощью проекта luzer, развивающего специализированный инструментарий для фаззинг-тестирования кода на языке Lua и расширений для Lua, написанных на C/C++.
-https://www.opennet.ru/opennews/art.shtml?num=64668</description>
+      <description>После шести месяцев разработки опубликован релиз системной библиотеки GNU C Library 2.43 (glibc), которая полностью следует требованиям стандартов ISO C23 и POSIX.1-2024. В создании нового выпуска приняли участие 69 разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=64670</description>
     </item>
     
     <item>
