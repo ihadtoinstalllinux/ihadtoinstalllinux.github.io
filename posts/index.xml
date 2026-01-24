@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 14:35:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 02:35:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен пакетный менеджер GNU Guix 1.5 и дистрибутив на его основе</title>
+      <title>В инфраструктуре OSS Fuzz реализована поддержка проектов на языке Lua</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 24 Jan 2026 14:35:40 +0500</pubDate>
+      <pubDate>Sun, 25 Jan 2026 02:35:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После более трёх лет разработки состоялся релиз пакетного менеджера GNU Guix 1.5 и построенного на его основе дистрибутива GNU/Linux - Guix System. В дальнейшем новые релизы GNU Guix решено выпускать раз в год. Для загрузки сформированы образы для установки на USB Flash (972 МБ) и использования в системах виртуализации (1.4 ГБ). Поддерживается работа на архитектурах i686, x86_64, Power9, armv7, riscv64 и aarch64.
-https://www.opennet.ru/opennews/art.shtml?num=64666</description>
+      <description>В инфраструктуру для непрерывного фаззинг-тестирования OSS-Fuzz добавлена возможность тестирования проектов, написанных на языке Lua, в дополнение к ранее поддерживаемым языкам C/C++, Go, Swift, Rust, Python, JavaScript и Java. Интеграция реализована с помощью проекта luzer, развивающего специализированный инструментарий для фаззинг-тестирования кода на языке Lua и расширений для Lua, написанных на C/C++.
+https://www.opennet.ru/opennews/art.shtml?num=64668</description>
     </item>
     
     <item>
