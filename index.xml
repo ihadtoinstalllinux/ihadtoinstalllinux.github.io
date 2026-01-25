@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 15:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jan 2026 01:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлена ФС DAXFS, похожая на ramfs и tmpfs, но работающая в обход страничного кэша</title>
+      <title>Выпуск сервисного менеджера s6-rc 0.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 Jan 2026 15:35:28 +0500</pubDate>
+      <pubDate>Mon, 26 Jan 2026 01:36:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Конг Ванг (Cong Wang), сопровождающий подсистему управления трафиком (TC, Traffic Control) в ядре Linux и развивающий проект Multikernel, представил в списке разработчиков ядра Linux новую файловую систему DAXFS. DAXFS использует для хранения данных оперативную память, работает в режиме только для чтения и напоминает по функциональности урезанные файловые системы ramfs и tmpfs. Модуль ядра с реализацией DAXFS, а также утилита mkdaxfs для создания ФС опубликованы под лицензией GPLv2. После рецензирования рассматривается возможность интеграции DAXFS в основной состав ядра.</description>
+      <description>Доступен выпуск сервисного менеджера s6-rc 0.6.0.0, предназначенного для управления запуском скриптов инициализации и сервисов. Поддерживается отслеживание дерева зависимостей и автоматический запуск или завершение сервисов для достижения указанного состояния. Инструментарий s6-rc может применяться как в системах инициализации, так и для организации запуска произвольных сервисов в привязке к событиям, отражающим изменение состояния системы. Система поддерживает скрипты инициализации, совместимые с sysv-init, и может импортировать информацию о зависимостях из sysv-rc или OpenRC. Код написан на языке Си и распространяется под лицензией ISC.</description>
     </item>
     
     <item>
