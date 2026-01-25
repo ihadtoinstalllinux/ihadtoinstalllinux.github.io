@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 14:36:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 15:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск компилятора языка D 2.112</title>
+      <title>Представлена ФС DAXFS, похожая на ramfs и tmpfs, но работающая в обход страничного кэша</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 Jan 2026 14:36:02 +0500</pubDate>
+      <pubDate>Sun, 25 Jan 2026 15:35:28 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз DMD 2.112, эталонного компилятора для языка D. Код компилятора распространяется под свободной лицензией BSL (Boost Software License). Поддерживаются системы Linux, Windows, macOS и FreeBSD.
-https://www.opennet.ru/opennews/art.shtml?num=64671</description>
+      <description>Конг Ванг (Cong Wang), сопровождающий подсистему управления трафиком (TC, Traffic Control) в ядре Linux и развивающий проект Multikernel, представил в списке разработчиков ядра Linux новую файловую систему DAXFS. DAXFS использует для хранения данных оперативную память, работает в режиме только для чтения и напоминает по функциональности урезанные файловые системы ramfs и tmpfs. Модуль ядра с реализацией DAXFS, а также утилита mkdaxfs для создания ФС опубликованы под лицензией GPLv2. После рецензирования рассматривается возможность интеграции DAXFS в основной состав ядра.</description>
     </item>
     
     <item>
