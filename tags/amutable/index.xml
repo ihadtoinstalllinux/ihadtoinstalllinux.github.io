@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Amutable on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/amutable/</link>
+    <description>Recent content in Amutable on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 02:35:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/amutable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Создатель systemd и лидер LXC ушли из Microsoft и основали компанию Amutable</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Леннарт Поттеринг, Кристиан Браунер и Крис Кюль, до последнего времени работавшие в Microsoft, объявили о создании компании Amutable. Компания зарегистрирована в Германии и в качестве своей миссии упоминает обеспечение криптографически верифицируемой целостности Linux-систем. Детали планируют озвучить на конференции FOSDEM. Пока упоминается только, что развиваемые компанией технологии связаны с верифицированной загрузкой Linux, обеспечением целостности процесса сборки и сохранением заслуживающего доверия состояния во время работы.
 https://www.opennet.ru/opennews/art.shtml?num=64688</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
