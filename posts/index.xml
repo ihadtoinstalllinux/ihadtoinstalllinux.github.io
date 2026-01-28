@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 15:35:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jan 2026 00:35:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен мультимедийный фреймворк GStreamer 1.28.0</title>
+      <title>Выпуск VirtualBox 7.2.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 28 Jan 2026 15:35:19 +0500</pubDate>
+      <pubDate>Thu, 29 Jan 2026 00:35:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После почти года разработки представлен релиз GStreamer 1.28, кроссплатформенного набора компонентов для создания широкого спектра мультимедиа приложений, от медиаплееров и конвертеров аудио/видео файлов, до VoIP-приложений и систем потокового вещания. Код GStreamer распространяется под лицензией LGPLv2.1. Отдельно развиваются обновления плагинов gst-plugins-base, gst-plugins-good, gst-plugins-bad, gst-plugins-ugly, а также обвязка gst-libav и сервер потокового вещания gst-rtsp-server. На уровне API и ABI новый выпуск обратно совместим с веткой 1.0. Бинарные сборки в скором времени будут подготовлены для Android, iOS, macOS и Windows (в Linux рекомендуется использовать пакеты из дистрибутива).</description>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.6, в котором устранено 14 уязвимостей, подробности о которых пока не раскрываются. Пять из уязвимостей помечены как опасные (8.2 из 10). Одна из уязвимостей может быть эксплуатирована удалённо.
+https://www.opennet.ru/opennews/art.shtml?num=64696</description>
     </item>
     
     <item>
