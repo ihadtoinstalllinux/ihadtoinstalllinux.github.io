@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jan 2026 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jan 2026 12:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Линус Торвальдс принял план передачи управления репозиторием ядра Linux в непредвиденных ситуациях</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Линус Торвальдс принял в состав ядра Linux изменение, регламентирующее действия сообщества в случае, если с ним и доверенными лицами что-то случится и они не смогут принимать изменения в первичный репозиторий &amp;ldquo;torvalds/linux.git&amp;rdquo;. План подготовлен Дэном Вильямсом (Dan Williams) из компании Intel, сопровождающим 9 подсистем в ядре Linux и занимающим пост председателя Технического комитета Linux Foundation. В качестве основы использованы результаты обсуждения слабых мест процесса разработки ядра, проведённого в декабре на конференции &amp;ldquo;Maintainers Summit 2025&amp;rdquo;.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
