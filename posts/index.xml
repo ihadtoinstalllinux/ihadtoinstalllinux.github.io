@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 11:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jan 2026 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Создан альянс для развития унифицированных компонентов игровых Linux-дистрибутивов</title>
+      <title>В Debian 14 намерены удалить слой для совместимости systemd со скриптами sysv-init</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 Jan 2026 11:36:03 +0500</pubDate>
+      <pubDate>Fri, 30 Jan 2026 12:35:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики восьми дистрибутивов Linux, специализирующихся на предоставлении окружений для запуска компьютерных игр, сформировали рабочую группу Open Gaming Collective (OGC) для совместной разработки унифицированного набора компонентов и продвижения подготовленных изменений в основной состав проектов, образующих открытый игровой стек. К инициативе присоединились дистрибутивы Universal Blue (Bazzite), Nobara, ChimeraOS, Playtron, Fyra Labs, PikaOS, ShadowBlip и ASUS Linux.
-https://www.opennet.ru/opennews/art.shtml?num=64705</description>
+      <description>Команда сопровождающих Debian изначально планировала удалить слой совместимости systemd-sysv-generator в Debian 13 (Trixie), но решение было отложено на следующий релиз (Debian 14). Прошло два года, и полный переход на юнит-службы systemd планируется к концу февраля 2026 года. Переход аргументируется повышением уровня безопасности запускаемых служб systemd, а также более надёжным контролем над запуском и циклом работы службы. Кроме того, проект systemd ранее объявил о решении удалить в выпуске systemd 260 поддержку скриптов служб в формате System V и прекратить поставку компонентов systemd-sysv-install, systemd-rc-local-generator и systemd-sysv-generator.</description>
     </item>
     
     <item>
