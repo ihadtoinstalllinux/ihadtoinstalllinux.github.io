@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 12:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jan 2026 14:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Debian 14 намерены удалить слой для совместимости systemd со скриптами sysv-init</title>
+      <title>Выпуск консольного web-браузера Chawan 0.3.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 Jan 2026 12:35:20 +0500</pubDate>
+      <pubDate>Fri, 30 Jan 2026 14:36:03 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Команда сопровождающих Debian изначально планировала удалить слой совместимости systemd-sysv-generator в Debian 13 (Trixie), но решение было отложено на следующий релиз (Debian 14). Прошло два года, и полный переход на юнит-службы systemd планируется к концу февраля 2026 года. Переход аргументируется повышением уровня безопасности запускаемых служб systemd, а также более надёжным контролем над запуском и циклом работы службы. Кроме того, проект systemd ранее объявил о решении удалить в выпуске systemd 260 поддержку скриптов служб в формате System V и прекратить поставку компонентов systemd-sysv-install, systemd-rc-local-generator и systemd-sysv-generator.</description>
+      <description>Опубликован выпуск консольного web-браузера Chawan 0.3.3, использующего собственный компактный движок с поддержкой CSS и JavaScript. Среди целей проекта заявлена реализация поддержки современных web-стандартов, сохраняя при этом самодостаточность, простоту и расширяемость. Код Chawan написан на языке Nim и распространяется как общественное достояние. Поддерживается работа в Linux, BSD-системах, Haiku и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=64704</description>
     </item>
     
     <item>
