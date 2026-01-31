@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 15:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 20:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработчики FFmpeg раскритиковали AMD за раздутые патчи</title>
+      <title>Доступен порт GTK&#43; 1.3 для Windows 11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 Jan 2026 15:35:13 +0500</pubDate>
+      <pubDate>Sat, 31 Jan 2026 20:35:23 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики мультимедийного пакета FFmpeg попросили компанию AMD внимательнее относится подготовке патчей и не отправлять сгенерированные через AI изменения без проведения ручного рецензирования. Недовольство вызвал набор патчей с реализацией возможности использования AMD HIP SDK (Heterogeneous-compute Interface for Portability) на платформе Windows для ускорения обработки видео на системах с GPU AMD.
-https://www.opennet.ru/opennews/art.shtml?num=64707</description>
+      <description>Подготовлен порт библиотеки GTK+ 1.3, работающий в Windows 11 и компилируемый с использованием современных инструментов разработки MSVC 2022 и CMake. Все штатные примеры работают (helloworld, testgtk). Результат выглядит аутентично, а потребление ОЗУ при запуске примеров составляется 1.7 МБ. В планах написание для библиотеки отрисовки GDK бэкенда, позволяющего использовать SDL 1.2 и SDL3, что расширит спектр поддерживаемых современных систем.
+https://www.opennet.ru/opennews/art.shtml?num=64714</description>
     </item>
     
     <item>
