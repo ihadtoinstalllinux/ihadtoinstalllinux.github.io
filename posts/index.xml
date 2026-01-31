@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 20:35:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 21:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен порт GTK&#43; 1.3 для Windows 11</title>
+      <title>Выпуск Pingora 0.7, фреймворка для создания сетевых сервисов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 Jan 2026 20:35:23 +0500</pubDate>
+      <pubDate>Sat, 31 Jan 2026 21:35:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Подготовлен порт библиотеки GTK+ 1.3, работающий в Windows 11 и компилируемый с использованием современных инструментов разработки MSVC 2022 и CMake. Все штатные примеры работают (helloworld, testgtk). Результат выглядит аутентично, а потребление ОЗУ при запуске примеров составляется 1.7 МБ. В планах написание для библиотеки отрисовки GDK бэкенда, позволяющего использовать SDL 1.2 и SDL3, что расширит спектр поддерживаемых современных систем.
-https://www.opennet.ru/opennews/art.shtml?num=64714</description>
+      <description>Компания Cloudflare опубликовала выпуск фреймворка Pingora 0.7, предназначенного для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust. Построенный при помощи Pingora прокси уже более двух лет используется в сети доставки контента Cloudflare вместо nginx и обрабатывает более 40 млн запросов в секунду. Код написан на языке Rust и опубликован под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=64710</description>
     </item>
     
     <item>
