@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2026 10:35:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 11:35:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атака на проект Notepad&#43;&#43;, приведшая к выборочной подмене обновлений</title>
+      <title>Первый публичный релиз ANet, стека для создания защищённых туннелей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 02 Feb 2026 10:35:28 +0500</pubDate>
+      <pubDate>Mon, 02 Feb 2026 11:35:48 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики Notepad++, открытого редактора кода для платформы Windows, опубликовали разбор инцидента, в результате которого была скомпрометирована сетевая инфраструктура провайдера и некоторые пользователи Notepad++ получили подменённые исполняемые файлы, загружаемые с использованием системы автоматической доставки обновлений WinGUp.
-https://www.opennet.ru/opennews/art.shtml?num=64725</description>
+      <description>Проект ANet (ANet Secure Transport Protocol) развивает альтернативный стек для организации защищённых туннелей, предназначенный для объединения частных сетей в условиях, когда стандартные решения (WireGuard, OpenVPN) в силу разных обстоятельств не применимы. Проект позиционируется не как очередной форк WireGuard, а как «Сеть Друзей» (Friends-to-Friends VPN) с упором на принцип &amp;ldquo;безопасность через неясность&amp;rdquo;, использование зарекомендовавших себя криптоплгоритмов и автономную работу в режиме &amp;ldquo;Dead Man&amp;rsquo;s Hand&amp;rdquo;. В ANet используется собственный транспортный протокол ASTP (ANet Secure Transport Protocol), обеспечивающий полное сквозное шифрование, устойчивый к высокой потере пакетов и неотличимый от случайного UDP-трафика.</description>
     </item>
     
     <item>
