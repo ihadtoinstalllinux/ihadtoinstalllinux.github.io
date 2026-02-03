@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Feb 2026 12:35:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 13:35:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Rust Coreutils 0.6.0, повысивший совместимость с GNU Coreutils с 87% до 96%</title>
+      <title>Выпуск системы управления исходными текстами Git 2.53</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 03 Feb 2026 12:35:11 +0500</pubDate>
+      <pubDate>Tue, 03 Feb 2026 13:35:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта uutils coreutils 0.6.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
-https://www.opennet.ru/opennews/art.shtml?num=64730</description>
+      <description>Представлен релиз распределенной системы управления исходными текстами Git 2.53. Git отличается высокой производительностью и предоставляет средства нелинейной разработки, базирующиеся на ответвлении и слиянии веток. Для обеспечения целостности истории и устойчивости к изменениям &amp;ldquo;задним числом&amp;rdquo; используются неявное хеширование всей предыдущей истории в каждом коммите, а также удостоверение цифровыми подписями разработчиков отдельных тегов и коммитов. Код Git распространяется под лицензией GPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=64731</description>
     </item>
     
     <item>
