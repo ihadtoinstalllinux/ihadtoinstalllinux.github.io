@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Arti on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arti/</link>
+    <description>Recent content in Arti on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Feb 2026 23:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 23:35:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск Arti 2.0.0, официальной реализации Tor на языке Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Разработчики проекта Tor опубликовали выпуск Arti 2.0.0, официально развиваемого варианта инструментария Tor, написанного на языке Rust. Реализация отмечена как пригодная для использования обычными пользователями и обеспечивающая тот же уровень конфиденциальности, юзабилити и стабильности, что и основная реализация на языке Си. Когда код на Rust достигнет уровня, способного полностью заменить вариант на Си, разработчики намерены придать Arti статус основной реализации Tor и постепенно прекратить сопровождение варианта на Си. Код распространяется под лицензиями Apache 2.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
