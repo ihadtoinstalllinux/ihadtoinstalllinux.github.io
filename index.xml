@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 13:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 16:35:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JetBrains переводит IDE IntelliJ на использование Wayland по умолчанию</title>
+      <title>Microsoft развивает открытую систему sandbox-изоляции Litebox</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 05 Feb 2026 13:35:21 +0500</pubDate>
+      <pubDate>Thu, 05 Feb 2026 16:35:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания JetBrains объявила о решении включить по умолчанию поддержку работы с использованием протокола Wayland в интегрированных средах разработки на базе будущего выпуска IntelliJ 2026.1. До релиза протестировать поддержку Wayland можно воспользовавшись EAP-сборками IntelliJ IDEA (Early Access Program). IDE, основанные на IntelliJ, теперь смогут напрямую запускаться в средах рабочего стола на базе Wayland, без использования XWayland. Поддержка бэкенда XToolkit для X11 будет оставлена в качестве опции.
-https://www.opennet.ru/opennews/art.shtml?num=64745</description>
+      <description>Джеймс Моррис (James Morris), мэйнтенер подсистемы обеспечения безопасности ядра Linux, возглавляющий в компании Microsoft команду &amp;ldquo;Linux Emerging Technologies&amp;rdquo;, представил проект Litebox, позиционируемый как сфокусированная на безопасности операционная система в форме библиотеки (Library OS). Litebox может использоваться в программах или ядрах как дополнительный слой изоляции, блокирующий доступ к излишней функциональности ядер или API для снижения поверхности атак. Код проекта написан на языке Rust и открыт под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=64746</description>
     </item>
     
     <item>
