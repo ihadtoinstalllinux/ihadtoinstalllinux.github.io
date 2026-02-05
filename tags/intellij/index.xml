@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>IntelliJ on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/intellij/</link>
+    <description>Recent content in IntelliJ on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 13:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 13:35:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/intellij/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JetBrains переводит IDE IntelliJ на использование Wayland по умолчанию</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания JetBrains объявила о решении включить по умолчанию поддержку работы с использованием протокола Wayland в интегрированных средах разработки на базе будущего выпуска IntelliJ 2026.1. До релиза протестировать поддержку Wayland можно воспользовавшись EAP-сборками IntelliJ IDEA (Early Access Program). IDE, основанные на IntelliJ, теперь смогут напрямую запускаться в средах рабочего стола на базе Wayland, без использования XWayland. Поддержка бэкенда XToolkit для X11 будет оставлена в качестве опции.
 https://www.opennet.ru/opennews/art.shtml?num=64745</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
