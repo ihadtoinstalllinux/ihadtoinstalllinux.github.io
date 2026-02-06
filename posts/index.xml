@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 22:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 11:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nginx 1.29.4 с устранением уязвимости. Атаки, меняющие настройки nginx для перенаправления трафика</title>
+      <title>В марте состоятся детско-юношеские соревнования Linux-skills</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 05 Feb 2026 22:35:10 +0500</pubDate>
+      <pubDate>Fri, 06 Feb 2026 11:36:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Сформирован выпуск основной ветки nginx 1.29.5, в рамках которой продолжается развитие новых возможностей, а также выпуск параллельно поддерживаемой стабильной ветки nginx 1.28.2, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В обновлениях устранена уязвимость (CVE-2026-1642), позволяющая атакующему, имеющему возможность вклиниться (MITM) в канал связи между nginx и upstream-сервером, подставить отправляемые клиенту ответы. Проблема затрагивает конфигурации, проксирующие запросы (HTTP 1.x, HTTP/2, gRPC или uWSGI) к вышестоящему серверу с использованием TLS-шифрования.</description>
+      <description>Открыта регистрация на детско-юношеские соревнования по Linux - &amp;ldquo;Linux-skills&amp;rdquo;, которые пройдут в рамках фестиваля технического творчества &amp;ldquo;ТехноКакТУС&amp;rdquo;. Соревнования проводятся в двух номинациях: Alt-skills (ALT Linux) и Calculate-skills (Calculate Linux), в трёх возрастных группах: 10-13 лет, 14-17 лет, 18-22 лет.
+https://www.opennet.ru/opennews/art.shtml?num=64738</description>
     </item>
     
     <item>
