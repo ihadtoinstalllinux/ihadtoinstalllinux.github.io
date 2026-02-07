@@ -5,9 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux | iHADtoinstalllinux</title>
-<meta name="keywords" content="Anthropic, AI, Claude, Opus, Linux" />
-<meta name="description" content="В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux, PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы. Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom. Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0).">
+<title>Инициатива по встраиванию моделей машинного обучения в ядро Linux | iHADtoinstalllinux</title>
+<meta name="keywords" content="Linux" />
+<meta name="description" content="Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.
+https://www.opennet.ru/opennews/art.shtml?num=64755">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +58,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux" />
-<meta property="og:description" content="В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux, PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы. Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom. Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0)." />
+</noscript><meta property="og:title" content="Инициатива по встраиванию моделей машинного обучения в ядро Linux" />
+<meta property="og:description" content="Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.
+https://www.opennet.ru/opennews/art.shtml?num=64755" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-02-07T13:36:03&#43;05:00" />
-<meta property="article:modified_time" content="2026-02-07T13:36:03&#43;05:00" />
+<meta property="article:published_time" content="2026-02-07T15:35:29&#43;05:00" />
+<meta property="article:modified_time" content="2026-02-07T15:35:29&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux"/>
-<meta name="twitter:description" content="В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux, PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы. Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom. Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0)."/>
+<meta name="twitter:title" content="Инициатива по встраиванию моделей машинного обучения в ядро Linux"/>
+<meta name="twitter:description" content="Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.
+https://www.opennet.ru/opennews/art.shtml?num=64755"/>
 
 
 <script type="application/ld+json">
@@ -83,7 +86,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux",
+      "name": "Инициатива по встраиванию моделей машинного обучения в ядро Linux",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +96,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux",
-  "name": "Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux",
-  "description": "В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux, PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы. Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom. Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0).",
+  "headline": "Инициатива по встраиванию моделей машинного обучения в ядро Linux",
+  "name": "Инициатива по встраиванию моделей машинного обучения в ядро Linux",
+  "description": "Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.\nhttps://www.opennet.ru/opennews/art.shtml?num=64755",
   "keywords": [
-    "Anthropic", "AI", "Claude", "Opus", "Linux"
+    "Linux"
   ],
-  "articleBody": "В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux, PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы. Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom. Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0). Поддерживается компиляция проектов для архитектур x86_64, i686, AArch64 и RISC-V 64.\nhttps://www.opennet.ru/opennews/art.shtml?num=64753\n",
-  "wordCount" : "90",
+  "articleBody": "Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.\nhttps://www.opennet.ru/opennews/art.shtml?num=64755\n",
+  "wordCount" : "40",
   "inLanguage": "en",
-  "datePublished": "2026-02-07T13:36:03+05:00",
-  "dateModified": "2026-02-07T13:36:03+05:00",
+  "datePublished": "2026-02-07T15:35:29+05:00",
+  "dateModified": "2026-02-07T15:35:29+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,24 +198,20 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Anthropic опубликовал Си-компилятор, созданный AI-моделью Claude Opus  и способный собрать ядро Linux
+      Инициатива по встраиванию моделей машинного обучения в ядро Linux
     </h1>
-    <div class="post-meta"><span title='2026-02-07 13:36:03 +0500 +05'>February 7, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-02-07 15:35:29 +0500 +05'>February 7, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>В качестве демонстрации возможности автономно создавать крупные проекты при помощи новой AI-модели Claude Opus 4.6, компания Anthropic сгенерировала компилятор для языка Си - claudes-c-compiler, пригодный для сборки ядра Linux,  PostgreSQL, SQLite, Redis, FFmpeg, GNU coreutils, Busybox, CPython, QEMU, LuaJIT и ещё около 150 протестированных известных открытых проектов. Результирующие сборки успешно прошли предоставляемые проектами тестовые наборы.  Собранное ядро Linux успешно загружается и даёт возможность запустить игру Doom.  Код компилятора сгенерирован на языке Rust и опубликован как общественное достояние (CC0). Поддерживается компиляция проектов для архитектур x86_64, i686, AArch64 и RISC-V 64.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=64753">https://www.opennet.ru/opennews/art.shtml?num=64753</a></p>
+  <div class="post-content"><p>Вячеслав Дубейко из компании IBM запустил в списке рассылки разработчиков ядра Linux обсуждение использования в ядре моделей машинного обучения, а также предложил для тестирования набор патчей с библиотекой для интеграции ML-моделей в ядро и примером символьного драйвера, использующего библиотеку.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=64755">https://www.opennet.ru/opennews/art.shtml?num=64755</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/anthropic/">Anthropic</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/ai/">AI</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/claude/">Claude</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/opus/">Opus</a></li>
       <li><a href="https://ihadtoinstalllinux.github.io/tags/linux/">Linux</a></li>
     </ul>
 <nav class="paginav">
