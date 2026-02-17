@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 02:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 12:36:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Chrome 145</title>
+      <title>В ядре Linux ускорен переход в спящий режим для медленных SSD</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 17 Feb 2026 02:35:16 +0500</pubDate>
+      <pubDate>Tue, 17 Feb 2026 12:36:03 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google опубликовала релиз web-браузера Chrome 145. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей RLZ-параметров при поиске. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+      <description>Для ядра Linux предложено изменение, оптимизирующее работу нового аллокатора подкачки (swap allocator) при выполнении операций, связанных с переходом в спящий режим (hibernate).
+https://www.opennet.ru/opennews/art.shtml?num=64809</description>
     </item>
     
     <item>
