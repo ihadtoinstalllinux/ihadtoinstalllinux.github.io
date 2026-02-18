@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 18:36:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2026 21:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Копилефт лицензия CCAI, учитывающая применение для обучения AI-моделей</title>
+      <title>Утечка в Git-репозитории конфиденциальных данных, накопленных AI-ассистентами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 18 Feb 2026 18:36:00 +0500</pubDate>
+      <pubDate>Wed, 18 Feb 2026 21:35:54 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Группа исследователей из Йельского университета предложила (PDF) новый тип открытых лицензий CCAI (Contextual Copyleft), расширяющий применение копилефта к генеративным AI-моделям. Идея CCAI в том, что использование содержимого под данной лицензией в качестве данных для машинного обучения приводит к распространению условий копилефта на результирующие генеративные AI-модели. Предполагается, что новая лицензия может способствовать снижению злоупотреблений в AI-проектах и предотвращению появления фиктивных AI-моделей, которые формально преподносятся как открытые, но из-за скрытия исходных данных и инструментария для обучения, привязаны к производителю.</description>
+      <description>С ростом популярности AI-ассистентов у разработчиков участились случаи утечки в публичные Git-репозитории конфиденциальных данных, оседающих среди информации, сохраняемой AI-инструментами в рабочее дерево проекта. AI-ассистенты Claude Code, Cursor, Continue, Aider, OpenAI Codex, Copilot, Sourcegraph Cody и Amazon Q в корневом каталоге проекта создают локальные файлы конфигурации и каталоги, в которых среди прочего может сохранятся история операций и данные о контексте.
+https://www.opennet.ru/opennews/art.shtml?num=64822</description>
     </item>
     
     <item>
