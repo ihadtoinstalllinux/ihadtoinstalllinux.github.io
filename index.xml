@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 21:35:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 02:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Утечка в Git-репозитории конфиденциальных данных, накопленных AI-ассистентами</title>
+      <title>Проблемы с финансированием каталогов пакетов открытого ПО</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 18 Feb 2026 21:35:54 +0500</pubDate>
+      <pubDate>Thu, 19 Feb 2026 02:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>С ростом популярности AI-ассистентов у разработчиков участились случаи утечки в публичные Git-репозитории конфиденциальных данных, оседающих среди информации, сохраняемой AI-инструментами в рабочее дерево проекта. AI-ассистенты Claude Code, Cursor, Continue, Aider, OpenAI Codex, Copilot, Sourcegraph Cody и Amazon Q в корневом каталоге проекта создают локальные файлы конфигурации и каталоги, в которых среди прочего может сохранятся история операций и данные о контексте.
-https://www.opennet.ru/opennews/art.shtml?num=64822</description>
+      <description>Майкл Уинсер (Michael Winser), сооснователь инициативы Alpha-Omega, нацеленной на повышение безопасности открытого ПО, выступил на конференции FOSDEM 2026 с докладом, поднимающим вопрос устойчивости инфраструктуры при нынешних моделях финансирования каталогов пакетов PyPI (Python), npm (Node.js), Crates.io (Rust), RubyGems (Ruby) и Maven Central (Java). При экспоненциальном росте числа загрузок и объёма хранимых данных финансирование отмеченных каталогов практически не увеличивается, что создаёт риски нарушения их устойчивой работы и мешает развитию механизмов для выявления вредоносных пакетов и защиты от атак через зависимости.</description>
     </item>
     
     <item>
