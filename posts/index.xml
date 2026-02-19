@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 14:35:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 23:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Инициативы по сближению MySQL с сообществом и форсированию разработки</title>
+      <title>Опубликован мультимедийный сервер PipeWire 1.6.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 19 Feb 2026 14:35:14 +0500</pubDate>
+      <pubDate>Thu, 19 Feb 2026 23:35:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Ответственный за взаимодействие с сообществом в компании Oracle (MySQL Community Manager) опубликовал заметку, в которой заявил об изменении в инженерном руководстве, усилении сотрудничества с сообществом и форсировании разработки новой функциональности. Новая стратегия разработки MySQL включает три направления: внедрение в MySQL Community Edition инноваций и новой функциональности для разработчиков; расширение экосистемы и развитие инструментов, фреймворков и коннекторов для улучшения работы с MySQL; повышение прозрачности процессов и активное вовлечение сообщества к определению пути развития MySQL.</description>
+      <description>После почти года разработки сформирована новая стабильная ветка мультимедийного сервера PipeWire 1.6.0, пришедшего на смену звуковому серверу PulseAudio и отличающегося от него добавлением средств для работы с потоками видео, возможностью обработки звука с минимальными задержками и новой моделью безопасности для управления доступом на уровне отдельных устройств и потоков. Проект по умолчанию применяется в Fedora Linux, RHEL, Ubuntu, Debian, SUSE/openSUSE и многих других дистрибутивах Linux. Код написан на языке Си и распространяется под лицензией MIT.</description>
     </item>
     
     <item>

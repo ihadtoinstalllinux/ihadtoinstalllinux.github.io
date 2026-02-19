@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>PipeWire on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/pipewire/</link>
+    <description>Recent content in PipeWire on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 23:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 23:35:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/pipewire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Опубликован мультимедийный сервер PipeWire 1.6.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После почти года разработки сформирована новая стабильная ветка мультимедийного сервера PipeWire 1.6.0, пришедшего на смену звуковому серверу PulseAudio и отличающегося от него добавлением средств для работы с потоками видео, возможностью обработки звука с минимальными задержками и новой моделью безопасности для управления доступом на уровне отдельных устройств и потоков. Проект по умолчанию применяется в Fedora Linux, RHEL, Ubuntu, Debian, SUSE/openSUSE и многих других дистрибутивах Linux. Код написан на языке Си и распространяется под лицензией MIT.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
