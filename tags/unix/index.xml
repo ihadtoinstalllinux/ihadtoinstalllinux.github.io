@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Unix on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unix/</link>
+    <description>Recent content in Unix on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Представлен Netbase, порт утилит NetBSD для других Unix-подобных систем</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Опубликован первый выпуск проекта Netbase, занимающегося портированием утилит NetBSD для других операционных систем. В первом выпуске основное внимание уделено работоспособности компонентов пользовательского пространства NetBSD на системах с ядром Linux и стандартной Си-библиотекой Glibc. При этом также упомянута не полностью протестированная поддержка FreeBSD, OpenBSD и macOS, и потенциальная поддержка GNU/Hurd. Наработки проекта распространяются под лицензией BSD.
 https://www.opennet.ru/opennews/art.shtml?num=64825</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

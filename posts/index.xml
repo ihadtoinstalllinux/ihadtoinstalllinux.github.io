@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 02:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 11:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проблемы с финансированием каталогов пакетов открытого ПО</title>
+      <title>Представлен Netbase, порт утилит NetBSD для других Unix-подобных систем</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 19 Feb 2026 02:35:44 +0500</pubDate>
+      <pubDate>Thu, 19 Feb 2026 11:36:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Майкл Уинсер (Michael Winser), сооснователь инициативы Alpha-Omega, нацеленной на повышение безопасности открытого ПО, выступил на конференции FOSDEM 2026 с докладом, поднимающим вопрос устойчивости инфраструктуры при нынешних моделях финансирования каталогов пакетов PyPI (Python), npm (Node.js), Crates.io (Rust), RubyGems (Ruby) и Maven Central (Java). При экспоненциальном росте числа загрузок и объёма хранимых данных финансирование отмеченных каталогов практически не увеличивается, что создаёт риски нарушения их устойчивой работы и мешает развитию механизмов для выявления вредоносных пакетов и защиты от атак через зависимости.</description>
+      <description>Опубликован первый выпуск проекта Netbase, занимающегося портированием утилит NetBSD для других операционных систем. В первом выпуске основное внимание уделено работоспособности компонентов пользовательского пространства NetBSD на системах с ядром Linux и стандартной Си-библиотекой Glibc. При этом также упомянута не полностью протестированная поддержка FreeBSD, OpenBSD и macOS, и потенциальная поддержка GNU/Hurd. Наработки проекта распространяются под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=64825</description>
     </item>
     
     <item>
