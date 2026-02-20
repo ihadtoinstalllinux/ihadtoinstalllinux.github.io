@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 17:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 20:35:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Двадцать восьмая версия открытой игры 0 A.D. </title>
+      <title>Выпуск пакетного фильтра iptables 1.8.12</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 20 Feb 2026 17:36:04 +0500</pubDate>
+      <pubDate>Fri, 20 Feb 2026 20:35:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После года разработки представлен двадцать восьмой выпуск свободной игры 0 A.D. с реализацией стратегии реального времени в стиле игр серии &amp;ldquo;Age of Empires&amp;rdquo;. Это первый выпуск, который сформирован без метки &amp;ldquo;Alpha&amp;rdquo; и помечен как &amp;ldquo;0 A.D. Release 28&amp;rdquo;. Метка альфа-версии выставлялась, так как не все изначально задуманные возможности реализованы. При этом имеющаяся функциональность отточена и стабильна, и по качеству реализации 0 A.D. давно вышел из состояния альфа-версии.
-https://www.opennet.ru/opennews/art.shtml?num=64836</description>
+      <description>После полутора лет разработки опубликован выпуск классического инструментария для управления пакетным фильтром iptables 1.8.12, развитие которого последнее время сосредоточено на компонентах для сохранения обратной совместимости - iptables-nft и ebtables-nft, предоставляющих утилиты с тем же синтаксисом командной строки, как в iptables и ebtables, но транслирующих полученные правила в байткод nftables. Оригинальный набор программ iptables, включая ip6tables, arptables и ebtables, в 2018 году переведён в разряд устаревших и уже заменён на nftables в большинстве дистрибутивов.</description>
     </item>
     
     <item>
