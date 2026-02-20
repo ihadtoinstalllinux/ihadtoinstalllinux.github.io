@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Weston on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/weston/</link>
+    <description>Recent content in Weston on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 21:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 21:35:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/weston/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск композитного сервера Weston 15.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После девяти месяцев разработки опубликован стабильный релиз композитного сервера Weston 15.0, развивающего технологии, содействующие появлению полноценной поддержки протокола Wayland в Enlightenment, GNOME, KDE и других пользовательских окружениях. Разработка Weston нацелена на предоставление высококачественной кодовой базы и рабочих примеров для использования Wayland в десктоп-окружениях и встраиваемых решениях, таких как платформы для автомобильных информационно-развлекательных систем, смартфонов, телевизоров и прочих потребительских устройств. Код проекта распространяется под лицензией MIT.
 https://www.opennet.ru/opennews/art.shtml?num=64839</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
