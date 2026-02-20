@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 10:35:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 14:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Прекращение поддержки ветки Firefox 115 ESR, способной работать в Windows 7 и 8</title>
+      <title>Разработчик io_uring выявил в QEMU проблему, в 50-80 раз замедлявшую fdmon в режиме простоя</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 20 Feb 2026 10:35:35 +0500</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:35:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Mozilla внесла уточнение на страницу с информацией о поддержке Firefox для платформ Windows 7, 8 и 8.1, на которой теперь отмечено, что 24 февраля будет опубликован финальный выпуск ESR-ветки Firefox 115, после чего обновления выпускаться не будут. Одновременно на страницу с планом публикации ESR-обновлений добавлена метка о прекращении цикла сопровождения Firefox 115.
-https://www.opennet.ru/opennews/art.shtml?num=64835</description>
+      <description>Йенс Эксбо (Jens Axboe), создатель io_uring и планировщиков ввода/вывода CFQ, Deadline и Noop, предложил для включения в кодовую базу эмулятора QEMU патч, в 50-80 раз сокращающий задержки в fdmon (file descriptor monitoring) в режиме &amp;ldquo;aio=io_uring&amp;rdquo; при нахождении системы в состоянии простоя (iddle).
+https://www.opennet.ru/opennews/art.shtml?num=64834</description>
     </item>
     
     <item>
