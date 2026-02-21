@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 10:35:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Feb 2026 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Новые версии Wine 11.3, Wine-staging 11.3, Wine Mono 11.0 и Vkd3d 1.19</title>
+      <title>Оценка надёжности паролей, сгенерированных большими языковыми моделями</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 21 Feb 2026 10:35:42 +0500</pubDate>
+      <pubDate>Sat, 21 Feb 2026 16:35:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.3. С момента выпуска 11.2 было закрыто 30 отчётов об ошибках и внесено 223 изменения.
-https://www.opennet.ru/opennews/art.shtml?num=64843</description>
+      <description>Представлены результаты анализа надёжности паролей, генерируемых большими языковыми моделями и AI-ассистентами. Исследователи попросили модели Claude, ChatGPT и Gemini сгенерировать надёжный 16-символьный пароль и во всех случаях получили результат, на первый взгляд отвечающий всем требованиям к безопасным паролям и признаваемый утилитами для проверки качества паролей как надёжный. Пароли сочетали в себе символы в разных регистрах, спецсимволы и числа, но лишь выглядели безопасными, а на деле имели минимальную энтропию, формировались по типовому шаблону и при повторных запросах образовывали закономерность.</description>
     </item>
     
     <item>
