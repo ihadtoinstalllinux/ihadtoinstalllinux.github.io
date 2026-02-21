@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 16:35:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Feb 2026 19:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Оценка надёжности паролей, сгенерированных большими языковыми моделями</title>
+      <title>Проект MinIO перевёл Git-репозиторий в архивный режим. В ответ сообществом создан форк</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 21 Feb 2026 16:35:44 +0500</pubDate>
+      <pubDate>Sat, 21 Feb 2026 19:35:57 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлены результаты анализа надёжности паролей, генерируемых большими языковыми моделями и AI-ассистентами. Исследователи попросили модели Claude, ChatGPT и Gemini сгенерировать надёжный 16-символьный пароль и во всех случаях получили результат, на первый взгляд отвечающий всем требованиям к безопасным паролям и признаваемый утилитами для проверки качества паролей как надёжный. Пароли сочетали в себе символы в разных регистрах, спецсимволы и числа, но лишь выглядели безопасными, а на деле имели минимальную энтропию, формировались по типовому шаблону и при повторных запросах образовывали закономерность.</description>
+      <description>Разработчики MinIO, совместимого с Amazon S3 высокопроизводительного объектного хранилища, насчитывающего более миллиарда загрузок на Docker Hub, перевели Git-репозиторий проекта в архивный режим, допускающий доступ только для чтения. Последним изменением в репозитории стало добавление примечания о прекращении сопровождения и рекомендации перейти на проприетарный продукт MinIO AIStor. Архивирование стало финальным шагом в череде событий, которые восприняты сообществом как имитация открытости (Openwashing - использование репутации свободного проекта для продвижения проприетарного продукта).
+https://www.opennet.ru/opennews/art.shtml?num=64844</description>
     </item>
     
     <item>

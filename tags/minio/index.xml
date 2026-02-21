@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>MinIO on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/minio/</link>
+    <description>Recent content in MinIO on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 19:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Feb 2026 19:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/minio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проект MinIO перевёл Git-репозиторий в архивный режим. В ответ сообществом создан форк</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Разработчики MinIO, совместимого с Amazon S3 высокопроизводительного объектного хранилища, насчитывающего более миллиарда загрузок на Docker Hub, перевели Git-репозиторий проекта в архивный режим, допускающий доступ только для чтения. Последним изменением в репозитории стало добавление примечания о прекращении сопровождения и рекомендации перейти на проприетарный продукт MinIO AIStor. Архивирование стало финальным шагом в череде событий, которые восприняты сообществом как имитация открытости (Openwashing - использование репутации свободного проекта для продвижения проприетарного продукта).
 https://www.opennet.ru/opennews/art.shtml?num=64844</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
