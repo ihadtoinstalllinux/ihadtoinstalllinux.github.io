@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>AI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ai/</link>
+    <description>Recent content in AI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 11:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 11:35:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сопровождающие Godot перегружены из-за обилия сомнительных изменений, созданных через AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Реми Вершельде (Rémi Verschelde), один из ключевых сопровождающих открытый игровой движдок Godot и сооснователь компании W4 Games, заявил, что нарастающий поток низкокачественных pull-запросов, сгенерированных при помощи больших языковых моделей, выматывает и деморализует разработчиков Godot, занимающихся рецензированием изменений. По словам Реми, проект Godot гордится своей открытостью для новых участников и предоставляет любому пользователю возможность повлиять на развитие движка. Сопровождающие Godot тратят много времени, помогая привести pull-запросы к должному состоянию, но при текущем обилии сомнительных изменений Реми не знает, сколько ещё команда сможет выдержать.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
