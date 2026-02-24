@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 02:35:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Feb 2026 12:35:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компоненты браузера Ladybird начали переписывать на Rust при помощи AI</title>
+      <title>Релиз GNU Octave 11, системы для математических расчётов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 24 Feb 2026 02:35:17 +0500</pubDate>
+      <pubDate>Tue, 24 Feb 2026 12:35:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Андреас Клинг (Andreas Kling), основатель web-браузера Ladybird, объявил о решении задействовать язык Rust при разработке проекта и начале переписывания частей Ladybird на данном языке. В качестве эксперимента с C++ на Rust уже переписан JavaScript-движок LibJS. LibJS выбран из-за хорошего покрытия тестами, упрощающего оценку качества портирования.
-https://www.opennet.ru/opennews/art.shtml?num=64861</description>
+      <description>Состоялся релиз системы для выполнения математических расчётов GNU Octave 11.1.0 (первый выпуск серии 11.x, ветка 11.0 использовалась для разработки), предоставляющей интерпретируемый язык, во многом совместимый с Matlab. GNU Octave может использоваться для решения линейных задач, нелинейных и дифференциальных уравнений, вычислений с использованием комплексных чисел и матриц, визуализации данных, проведения математических экспериментов. Код написан на языке C++ (интерфейс на Qt) и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=64863</description>
     </item>
     
     <item>
