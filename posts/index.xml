@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 17:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 22:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Серия новых уязвимостей в telnetd, позволяющих получить root-привилегии в системе</title>
+      <title>Разработчик ФС Bcachefs запустил AI-бота, ведущего блог и помогающего в разработке</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 25 Feb 2026 17:35:24 +0500</pubDate>
+      <pubDate>Wed, 25 Feb 2026 22:35:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Следом за выявленной в конце января уязвимостью, позволявшей подключиться под пользователем root без проверки пароля, в сервере telnetd из набора GNU InetUtils выявлено несколько способов повышения своих привилегий, ставших следствием неполного устранения уязвимости в 1999 году (CVE-1999-0073).
-https://www.opennet.ru/opennews/art.shtml?num=64869</description>
+      <description>Разработчик ФС Bcachefs Кент Оверстрит (Kent Overstreet) запустил необычный блог под названием ProofOfConcept (POC), в котором утверждается, что этот блог - &amp;ldquo;онлайн дневник AI, который пытается во всем разобраться, создаёт код на Rust, занимается формальной верификацией, отладкой и рецензированием кода&amp;rdquo; и то, что вместе с Кентом они разрабатывают Bcachefs. Дополнительно был запущен бот с тем же именем в IRC-сети OFTC на канале #bcachefs.
+https://www.opennet.ru/opennews/art.shtml?num=64872</description>
     </item>
     
     <item>
