@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 13:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 17:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Решено возобновить разработку LibreOffice Online, серверной версии для Web</title>
+      <title>Серия новых уязвимостей в telnetd, позволяющих получить root-привилегии в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 25 Feb 2026 13:35:24 +0500</pubDate>
+      <pubDate>Wed, 25 Feb 2026 17:35:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Совет директоров организации The Document Foundation, курирующей офисный пакет LibreOffice, утвердил возобновление разработки проекта LibreOffice Online, позволяющего организовать удалённую работу с офисным пакетом через Web. LibreOffice Online имеет клиент-серверную архитектуру и может применяться в качестве альтернативы таким сервисам, как Google Docs и Office 365 - на сервере выполняется LibreOffice Core, отвечающий за компоновку и отрисовку документов, электронных таблиц и презентаций, а отрисовка интерфейса осуществляется во фронтэнде, работающем на стороне браузера.</description>
+      <description>Следом за выявленной в конце января уязвимостью, позволявшей подключиться под пользователем root без проверки пароля, в сервере telnetd из набора GNU InetUtils выявлено несколько способов повышения своих привилегий, ставших следствием неполного устранения уязвимости в 1999 году (CVE-1999-0073).
+https://www.opennet.ru/opennews/art.shtml?num=64869</description>
     </item>
     
     <item>
