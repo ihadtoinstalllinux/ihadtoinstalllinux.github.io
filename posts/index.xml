@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 13:35:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 15:35:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск браузерного движка Servo 0.0.5</title>
+      <title>Выпуск композитных серверов Hyprland 0.54 и labwc 0.9.4</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 01 Mar 2026 13:35:24 +0500</pubDate>
+      <pubDate>Sun, 01 Mar 2026 15:35:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск браузерного движка Servo 0.0.5 и развиваемого вместе с ним демонстрационного браузера ServoShell, написанных на языке Rust. Готовые сборки сформированы для Linux, Android, macOS и Windows.
-https://www.opennet.ru/opennews/art.shtml?num=64893</description>
+      <description>Доступен композитный сервер Hyprland 0.54, использующий протокол Wayland. Проект ориентирован на мозаичную (tiling) компоновку окон, но поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Код написан на языке С++ и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=64896</description>
     </item>
     
     <item>
