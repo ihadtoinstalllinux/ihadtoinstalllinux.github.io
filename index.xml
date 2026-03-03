@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:35:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Mar 2026 13:35:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Вариант дистрибутива Guix c ядром GNU/Hurd адаптирован для 64-разрядных систем</title>
+      <title>Представлен Gram, форк редактора кода Zed без AI, внешних сервисов и телеметрии</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 03 Mar 2026 11:35:37 +0500</pubDate>
+      <pubDate>Tue, 03 Mar 2026 13:35:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики пакетного менеджера GNU Guix и построенного на его основе дистрибутива GNU/Linux Guix System, объявили о публикации 64-разрядного варианта дистрибутива Guix/Hurd, в котором вместо ядра Linux использовано ядро GNU Hurd. Опция для установки Guix/Hurd на системах с архитектурой x86_64 добавлена в инсталлятор, но возможности данного варианта дистрибутива сильно ограничены, например, пока не реализована поддержка запуска X-сервера. В 32-разрядном варианте в Guix/Hurd поддерживается использование около 1.7% от всех пакетов из репозитория Guix, а в 64-разрядном этот показатель составляет 0.</description>
+      <description>Кристоффер Грёнлунд (Kristoffer Grönlund), работающий в SUSE, объявил о создании форка редактора кода Zed, который будет развиваться под именем Gram. В качестве причины создания форка упоминается желание получить редактор кода, который может выступать альтернативой VS Code, не использовать функциональность на базе AI, не навязывать подписание несовместимого с открытыми лицензиями соглашения об использовании (Terms of Use) и не отправлять корпорациям телеметрию. Разработка будет вестись с оглядкой на создание продукта, удобного для начинающих разработчиков и студентов, которым преподаёт автор форка.</description>
     </item>
     
     <item>
