@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>T2 on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/t2/</link>
+    <description>Recent content in T2 on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 20:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Mar 2026 20:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/t2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Релиз платформы сборки дистрибутивов T2 SDE 26.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован релиз мета-дистрибутива T2 SDE 26.3, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляется 10 готовых загрузочных iso-образов с графическим окружением на базе KDE, собранных для архитектур arm64, ia64, ppc64, ppc64le, riscv64, riscv64 rva23, i686 и x86-64.
 https://www.opennet.ru/opennews/art.shtml?num=64919</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
