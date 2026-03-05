@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 20:35:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Mar 2026 21:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз платформы сборки дистрибутивов T2 SDE 26.3</title>
+      <title>Выпуск PortableGL 0.100, реализации OpenGL 3 на языке Си </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 05 Mar 2026 20:35:57 +0500</pubDate>
+      <pubDate>Thu, 05 Mar 2026 21:35:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз мета-дистрибутива T2 SDE 26.3, предоставляющего окружение для формирования собственных дистрибутивов, кросс-компиляции и поддержания версий пакетов в актуальном состоянии. Из популярных дистрибутивов, построенных на базе системы T2, можно отметить Puppy Linux. Проектом предоставляется 10 готовых загрузочных iso-образов с графическим окружением на базе KDE, собранных для архитектур arm64, ia64, ppc64, ppc64le, riscv64, riscv64 rva23, i686 и x86-64.
-https://www.opennet.ru/opennews/art.shtml?num=64919</description>
+      <description>Доступен выпуск проекта PortableGL 0.100, развивающего программную реализацию графического API OpenGL 3.x, написанную целиком на языке Си. Теоретически PortableGL может быть использован в любых приложениях, принимающих текстуру или фреймбуфер в качестве входных данных. Код оформлен в виде одного заголовочного файла и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=64925</description>
     </item>
     
     <item>
