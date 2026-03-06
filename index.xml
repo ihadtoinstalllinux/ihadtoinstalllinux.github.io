@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 21:35:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Mar 2026 12:35:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск PortableGL 0.100, реализации OpenGL 3 на языке Си </title>
+      <title>Релиз OpenWrt 25.12 с заменой пакетного менеджера и системой обновления прошивки</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 05 Mar 2026 21:35:12 +0500</pubDate>
+      <pubDate>Fri, 06 Mar 2026 12:35:13 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск проекта PortableGL 0.100, развивающего программную реализацию графического API OpenGL 3.x, написанную целиком на языке Си. Теоретически PortableGL может быть использован в любых приложениях, принимающих текстуру или фреймбуфер в качестве входных данных. Код оформлен в виде одного заголовочного файла и распространяется под лицензией MIT.
-https://www.opennet.ru/opennews/art.shtml?num=64925</description>
+      <description>После года разработки представлен значительный выпуск дистрибутива OpenWrt 25.12.0, развиваемого для сетевых устройств, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает более 2200 устройств и предлагает систему сборки, упрощающую кросс-компиляцию и создание собственных сборок. Подобные сборки позволяют формировать готовые прошивки с желаемым набором предустановленных пакетов, оптимизированные под конкретные задачи. Готовые сборки опубликованы для 41 целевой платформы (в прошлой ветке поддерживалось 39 платформ).
+https://www.opennet.ru/opennews/art.shtml?num=64927</description>
     </item>
     
     <item>
