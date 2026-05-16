@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Debian on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/debian/</link>
+    <description>Recent content in Debian on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 00:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 May 2026 00:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Новые версии Debian 12.14 и 13.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Сформировано пятое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 144 обновления с устранением проблем со стабильностью и 103 обновления с устранением уязвимостей. Из изменений в Debian 13.5 можно отметить обновление до свежих стабильных версий пакетов apache2, openssl и systemd. Удалён пакет dav4tbsync, функциональность которого теперь доступна в Thunderbird 140.
 https://www.opennet.ru/opennews/art.shtml?num=65462</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
