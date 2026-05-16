@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 01:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 May 2026 02:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>На соревновании Pwn2Own в Берлине продемонстрированы взломы RHEL, Windows 11 и AI-агентов</title>
+      <title>Выпуск системы тестирования памяти Memtest86&#43; 8.10</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 17 May 2026 01:37:40 +0500</pubDate>
+      <pubDate>Sun, 17 May 2026 02:37:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Подведены итоги трёх дней соревнований Pwn2Own Berlin 2026, на которых были продемонстрированы успешные атаки с использованием 47 ранее неизвестных уязвимостей (0-day) в операционных системах, браузерах, AI-системах и платформах виртуализации. При проведении атак использовались самые свежие программы и операционные системы со всеми доступными обновлениями и в конфигурации по умолчанию.
-https://www.opennet.ru/opennews/art.shtml?num=65464</description>
+      <description>Доступен выпуск программы для тестирования оперативной памяти Memtest86+ 8.10. Программа не привязана к операционным системам и может запускаться напрямую из прошивки BIOS/UEFI или из загрузчика для проведения полной проверки оперативной памяти. В случае выявления проблем построенная в Memtest86+ карта сбойных участков памяти может использоваться в ядре Linux для исключения проблемных областей при помощи опции memmap. Код проекта распространяется под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=65463</description>
     </item>
     
     <item>
