@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 19:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 01:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adobe Lightroom CC при помощи AI адаптирован для работы в Linux через Wine</title>
+      <title>ModuleJail для блокировки неиспользуемых модулей ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 17 May 2026 19:37:45 +0500</pubDate>
+      <pubDate>Mon, 18 May 2026 01:37:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>C использованием AI-ассистента подготовлен набор патчей, настроек, скриптов и DLL-библиотек с реализацией заглушек недостающих функций, позволяющих запустить программу обработки фотографий Adobe Lightroom CC (не путать с Lightroom Classic) в Linux при помощи Wine 11.8 и DXVK. Также возможен запуск приложения Creative Cloud для подключения к облаку Adobe, отображения панели приложений и установки Adobe Lightroom CC и других программ Adobe.
-https://www.opennet.ru/opennews/art.shtml?num=65465</description>
+      <description>Джаспер Нюйенс (Jasper Nuyens), основатель организации Linux Belgium, создавший надстройку для использования Linux в информационной системе автомобилей Tesla, предложил простой способ снизить поверхность атаки на ядро Linux для снижения вероятности компрометации на фоне всплеска выявления опасных уязвимостей при помощи AI. Так как многие уязвимости, как правило, находят в специфичных модулях ядра, доступных для автозагрузки, но обычно не применяемых большинством пользователей, Джаспер предложил по умолчанию блокировать неиспользуемые в текущей системе или в общем виде редко используемые модули.</description>
     </item>
     
     <item>
