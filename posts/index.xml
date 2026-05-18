@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 01:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 12:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ModuleJail для блокировки неиспользуемых модулей ядра Linux</title>
+      <title>Линус Торвальдс раскритиковал приватный разбор отчётов об уязвимостях, созданных через AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 18 May 2026 01:37:39 +0500</pubDate>
+      <pubDate>Mon, 18 May 2026 12:38:06 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Джаспер Нюйенс (Jasper Nuyens), основатель организации Linux Belgium, создавший надстройку для использования Linux в информационной системе автомобилей Tesla, предложил простой способ снизить поверхность атаки на ядро Linux для снижения вероятности компрометации на фоне всплеска выявления опасных уязвимостей при помощи AI. Так как многие уязвимости, как правило, находят в специфичных модулях ядра, доступных для автозагрузки, но обычно не применяемых большинством пользователей, Джаспер предложил по умолчанию блокировать неиспользуемые в текущей системе или в общем виде редко используемые модули.</description>
+      <description>В анонсе очередного предварительного выпуска ядра 7.1-rc4 Линус Торвальдс призвал исследователей безопасности, использующих AI, не отправлять отчёты о найденных уязвимостях в приватный список рассылки &amp;ldquo;security@kernel.org&amp;rdquo; и следовать принятым на днях правилам и модели угроз при отправке информации об уязвимостях. Отмечается, что использование типовых AI-инструментов приводит к выявлению одних и тех же уязвимостей и отправке большого числа дублирующихся отчётов, разбор которых создаёт огромную дополнительную нагрузку на сопровождающих и делает процесс работы через список рассылки почти полностью неуправляемым.</description>
     </item>
     
     <item>
