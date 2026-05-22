@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 01:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2026 02:38:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В nginx выявлена вторая за 10 дней удалённо эксплуатируемая уязвимость</title>
+      <title>GRO Frag - седьмая уязвимость класса Copy Fail, предоставляющая права root в Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 May 2026 01:38:03 +0500</pubDate>
+      <pubDate>Sat, 23 May 2026 02:38:14 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Сформированы корректирующие выпуски nginx 1.31.1 и 1.30.2, в которых устранена критическая уязвимость (CVE-2026-9256), позволяющая удалённо добиться выполнения кода с правами рабочего процесса nginx через отправку специально оформленного HTTP-запроса. Выявившие проблему исследователи продемонстрировали рабочий эксплоит, который будет опубликован вместе с полным описанием спустя 30 дней после исправления. Уязвимость получила кодовое имя nginx-poolslip. Проблема проявляется начиная с версии nginx 0.1.17. Для angie и freenginx на момент написания новости исправления не опубликованы.
-https://www.opennet.ru/opennews/art.shtml?num=65505</description>
+      <description>В открытом доступе размещён эксплоит для седьмой уязвимости (1, 2-3, 4, 5, 6) в ядре Linux, позволяющей непривилегированному локальному пользователю получить права root, перезаписав данные в страничном кэше. CVE-идентификатор ещё не присвоен, кроме кода эксплоита информации о проблеме пока нет. Исправление доступно только в виде патча, который опубликован 20 мая и 21 мая был принят в основную ветку ядра Linux (корректирующие выпуски ядра ещё недоступны).
+https://www.opennet.ru/opennews/art.shtml?num=65504</description>
     </item>
     
     <item>
