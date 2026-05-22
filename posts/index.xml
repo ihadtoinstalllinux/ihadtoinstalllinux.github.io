@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 11:37:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 May 2026 12:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз полностью свободного Linux-дистрибутива PureOS 11, используемого на смартфонах Librem</title>
+      <title>Выпуск композитного сервера Wayland Maker 0.8</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 22 May 2026 11:37:23 +0500</pubDate>
+      <pubDate>Fri, 22 May 2026 12:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После пяти с половиной лет с момента формирования прошлого значительного выпуска опубликован релиз дистрибутива PureOS 11, построенного на пакетной базе Debian, включающего только свободные приложения и поставляемого с ядром GNU Linux-Libre, очищенным от несвободных элементов бинарных прошивок. PureOS признан Фондом Свободного ПО полностью свободным и помещён в список рекомендованных дистрибутивов. Дистрибутив разрабатывается компанией Purism, создавшей смартфоны Liberty Phone и Librem 5, а также выпускающей ноутбуки, поставляемые с данным дистрибутивом и прошивкой на базе CoreBoot.</description>
+      <description>Опубликован выпуск композитного сервера Wayland Maker 0.8, реализующего пользовательское окружение в стиле Window Maker, построенное с использованием протокола Wayland. Среди поддерживаемых возможностей: стековый режим компоновки окон, использование виртуальных рабочих столов, боковая панель, оформление в стиле NeXTSTEP, поддержка закрепления приложений на экране, ориентация на легковесность и высокую производительность, возможность запуска X11-приложений при помощи XWayland. Проектом поддерживаются такие Wayland протоколы, как xdg-decoration, ext_session_lock, wlr_layer_shell, wlr-output-management, xdg_shell и idle_inhibit. Код написан на языке Си и распространяется под лицензией Apache 2.</description>
     </item>
     
     <item>
