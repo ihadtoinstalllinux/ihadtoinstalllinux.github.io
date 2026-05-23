@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 02:38:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2026 11:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GRO Frag - седьмая уязвимость класса Copy Fail, предоставляющая права root в Linux </title>
+      <title>Релиз StartWine-Launcher 422, программы для запуска Windows-приложений и игр в Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 23 May 2026 02:38:14 +0500</pubDate>
+      <pubDate>Sat, 23 May 2026 11:37:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В открытом доступе размещён эксплоит для седьмой уязвимости (1, 2-3, 4, 5, 6) в ядре Linux, позволяющей непривилегированному локальному пользователю получить права root, перезаписав данные в страничном кэше. CVE-идентификатор ещё не присвоен, кроме кода эксплоита информации о проблеме пока нет. Исправление доступно только в виде патча, который опубликован 20 мая и 21 мая был принят в основную ветку ядра Linux (корректирующие выпуски ядра ещё недоступны).
-https://www.opennet.ru/opennews/art.shtml?num=65504</description>
+      <description>Опубликован выпуск приложения Startwine-Launcher 422, развиваемого для запуска в Linux-системах программ и игр, собранных для платформы Windows. Основной целью разработки StartWine-Launcher было упрощение процесса создания новичками префиксов Wine, - наборов библиотек и зависимостей Windows, необходимых для работы Windows-приложений в Linux. Код StartWine-Launcher написан на языке Python и распространяется под лицензией GPLv3. Интерфейс реализован на основе библиотеки GTK.
+https://www.opennet.ru/opennews/art.shtml?num=65508</description>
     </item>
     
     <item>
