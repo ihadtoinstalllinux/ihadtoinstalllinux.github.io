@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 13:37:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 22:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google случайно раскрыл детали неисправленной уязвимости в Chromium</title>
+      <title>Релиз AlmaLinux 9.8 и 10.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 26 May 2026 13:37:57 +0500</pubDate>
+      <pubDate>Tue, 26 May 2026 22:37:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google случайно открыла публичный доступ к отчёту (общедоступная копия), содержащему детальное пояснение и пример эксплоита для уязвимости, ещё не исправленной в движке Chromium. Уязвимость признана опасной и выявившему проблему исследователю было выплачено вознаграждение в $1000. Информация о проблеме была отправлена ещё в 2022 году и тех пор периодически поднималось, но не доводилось до конца, обсуждение по её исправлению (требовалась реализация новых лимитов на непрерывную загрузку). В одном из таких обсуждений разработчики по ошибке посчитали уязвимость исправленной и открыли публичный доступ к информации, хотя проблема оставалась нерешённой.</description>
+      <description>Представлен релиз дистрибутива AlmaLinux 10.2, а также обновление прошлой ветки - AlmaLinux 9.8. Релизы синхронизированны c Red Hat Enterprise Linux 9.8 и 10.2, и содержат все предложенные в данных выпусках изменения. Установочные образы подготовлены для архитектур x86_64_v3, x86_64_v2, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (1.6 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
     </item>
     
     <item>
