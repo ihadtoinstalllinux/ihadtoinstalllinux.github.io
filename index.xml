@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 14:37:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 15:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск проприетарного драйвера NVIDIA 610.43.02</title>
+      <title>В библиотеку ANGLE, используемую в Chrome и Android, добавлена поддержка Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 27 May 2026 14:37:36 +0500</pubDate>
+      <pubDate>Wed, 27 May 2026 15:37:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания NVIDIA опубликовала выпуск проприетарного драйвера NVIDIA 610.43.02 (первый стабильный выпуск новой ветки 610). Драйвер доступен для Linux (ARM64, x86_64), FreeBSD (x86_64) и Solaris (x86_64). NVIDIA 595.x стала тринадцатой стабильной веткой после открытия компанией NVIDIA компонентов, работающих на уровне ядра. Исходные тексты модулей ядра nvidia.ko, nvidia-drm.ko (Direct Rendering Manager), nvidia-modeset.ko и nvidia-uvm.ko (Unified Video Memory) из новой ветки NVIDIA, а также используемые в них общие компоненты, не привязанные к операционной системе, размещены на GitHub.</description>
+      <description>Разработчики Chromium реализовали поддержку протокола Wayland в библиотеке ANGLE. Реализация базируется на использовании EGL-расширения EGL_EXT_platform_wayland. Библиотека ANGLE осуществляет трансляцию вызовов OpenGL ES в графические API OpenGL, Direct3D 9/11 и Vulkan, и применяется в Chrome в качестве бэкенда для WebGL, а в Android для реализации OpenGL ES поверх Vulkan. Упоминается, что изменение позволит реализовать поддержку Wayland во фреймворке CEF (Chromium Embedded Framework), предназначенном для встраивания браузерного движка Chromium в приложения. Среди прочего, отсутствие поддержки Wayland в CEF не позволяет реализовать Wayland-версию клиента Steam.</description>
     </item>
     
     <item>
