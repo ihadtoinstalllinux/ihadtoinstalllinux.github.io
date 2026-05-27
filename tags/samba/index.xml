@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Samba on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/samba/</link>
+    <description>Recent content in Samba on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 23:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 23:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/samba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Уязвимости в Samba, допускающие удалённое выполнение кода в редких конфигурациях</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Представлены корректирующие релизы пакета Samba 4.24.3, 4.23.8 и 4.22.10, предоставляющего открытую реализацию протоколов SMB и Active Directory. В новых версиях устранено 6 уязвимостей, из которых две позволяют удалённому неаутентифицированному атакующему выполнить свой код на сервере.
 https://www.opennet.ru/opennews/art.shtml?num=65545</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
