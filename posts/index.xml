@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 11:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 13:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Pavona развивает дистрибутив открытых аппаратных компонентов для создания чипов</title>
+      <title>Запись сеанса разработки для подтверждения, что изменение подготовлено не через AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 27 May 2026 11:38:09 +0500</pubDate>
+      <pubDate>Wed, 27 May 2026 13:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Консорциум GlobalPlatform анонсировал проект Pavona, развивающий открытый дистрибутив аппаратных компонентов, из которых можно компоновать готовые к производству защищённые чипы на ядрах с микроархитектурой RISC-V. Дистрибутив предоставляет модульную библиотеку IP-блоков и эталонные реализации чипов, готовые к сертификации и проверенные на пригодность к производству (tapeout-proven). Комбинируя элементы из данной библиотеки можно собирать собственные чипы для различных областей применения, от датацентров, AI-ускорителей и специализированных контроллеров до встраиваемых систем с ограниченными ресурсами и устройств интернета вещей (IoT).</description>
+      <description>Сопровождающий web-браузер Dillo предложил метод для отсеивания изменений, подготовленных через AI. Проект Dillo допускает приём патчей созданных только людьми, но разбор присылаемых изменений отнимает много времени и не всегда сразу ясно создан патч человеком или нет. Для упрощения отсеивания созданных через AI патчей, участникам, впервые передающим изменения в проект, предложено в качестве доказательства проделанной работы отправлять запись сеанса разработки. При использовании Vim сеанс может быть записан, например, при помощи утилиты asciinema.</description>
     </item>
     
     <item>
