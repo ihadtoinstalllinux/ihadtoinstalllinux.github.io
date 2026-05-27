@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 22:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 11:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз AlmaLinux 9.8 и 10.2</title>
+      <title>Проект Pavona развивает дистрибутив открытых аппаратных компонентов для создания чипов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 26 May 2026 22:37:19 +0500</pubDate>
+      <pubDate>Wed, 27 May 2026 11:38:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз дистрибутива AlmaLinux 10.2, а также обновление прошлой ветки - AlmaLinux 9.8. Релизы синхронизированны c Red Hat Enterprise Linux 9.8 и 10.2, и содержат все предложенные в данных выпусках изменения. Установочные образы подготовлены для архитектур x86_64_v3, x86_64_v2, ARM64, ppc64le и s390x в форме загрузочного (1 ГБ), минимального (1.6 ГБ) и полного образа (10 ГБ). Позднее будут сформированы Live-сборки с GNOME, KDE, MATE и Xfce, а также образы для плат Raspberry Pi, контейнеров, WSL (Windows Subsystem for Linux) и облачных платформ.</description>
+      <description>Консорциум GlobalPlatform анонсировал проект Pavona, развивающий открытый дистрибутив аппаратных компонентов, из которых можно компоновать готовые к производству защищённые чипы на ядрах с микроархитектурой RISC-V. Дистрибутив предоставляет модульную библиотеку IP-блоков и эталонные реализации чипов, готовые к сертификации и проверенные на пригодность к производству (tapeout-proven). Комбинируя элементы из данной библиотеки можно собирать собственные чипы для различных областей применения, от датацентров, AI-ускорителей и специализированных контроллеров до встраиваемых систем с ограниченными ресурсами и устройств интернета вещей (IoT).</description>
     </item>
     
     <item>
