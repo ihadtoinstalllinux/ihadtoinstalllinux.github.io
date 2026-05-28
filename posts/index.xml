@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 23:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 09:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Samba, допускающие удалённое выполнение кода в редких конфигурациях</title>
+      <title>Опубликована система хранения Blockstor, являющаяся альтернативой LINSTOR</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 27 May 2026 23:37:15 +0500</pubDate>
+      <pubDate>Thu, 28 May 2026 09:38:06 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлены корректирующие релизы пакета Samba 4.24.3, 4.23.8 и 4.22.10, предоставляющего открытую реализацию протоколов SMB и Active Directory. В новых версиях устранено 6 уязвимостей, из которых две позволяют удалённому неаутентифицированному атакующему выполнить свой код на сервере.
-https://www.opennet.ru/opennews/art.shtml?num=65545</description>
+      <description>Доступен первый выпуск Blockstor - открытой системы управления распределённым блочным хранилищем для Kubernetes, обеспечивающей репликацию данных поверх DRBD. Blockstor совместим по REST API с LINSTOR и способен без изменений работать с существующей экосистемой клиентов, включая командную утилиту linstor, CSI-драйвер, оператор Piraeus, ha-controller и библиотеку golinstor. Проект представляет собой полностью самостоятельную (clean-room) реализацию на языке Go, не использующую исходный код оригинала. Код распространяется под лицензией Apache 2.0 и развивается в рамках платформы Cozystack (проект CNCF Sandbox).</description>
     </item>
     
     <item>
