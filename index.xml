@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 20:37:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2026 00:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Unbound, Kata-Containers, BIND, PostgreSQL, HPLIP, MongoDB, Rsync, 7-zip, Yelp, qSnapper и Suricata</title>
+      <title>Определение посещаемых сайтов через анализ активности SSD из web-браузера</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 28 May 2026 20:37:33 +0500</pubDate>
+      <pubDate>Fri, 29 May 2026 00:37:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Несколько выявленных за последнее время опасных уязвимостей.
-https://www.opennet.ru/opennews/art.shtml?num=65565</description>
+      <description>Группа исследователей из Грацского технического университета (Австрия), разработала технику атаки по сторонним каналам FROST (Fingerprinting Remotely using OPFS-based SSD Timing), позволяющую через анализ активности SSD-накопителя из выполняемого в браузере JavaScript-кода определить открываемые пользователям сайты с точностью 88.95%, а также запускаемые в системе приложения с точностью 95.83%. Метод также можно использовать для организации скрытого канала связи между локально работающим приложением и выполняемым в браузере JavaScript-кодом. Производительность такого обмена данными в Linux составила 661 bit/s, а в macOS - 892 bit/s.</description>
     </item>
     
     <item>
