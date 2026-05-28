@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 00:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2026 01:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Определение посещаемых сайтов через анализ активности SSD из web-браузера</title>
+      <title>Утилита для взаимодействия с AI из консоли с использованием неименованных каналов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 29 May 2026 00:37:45 +0500</pubDate>
+      <pubDate>Fri, 29 May 2026 01:37:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Группа исследователей из Грацского технического университета (Австрия), разработала технику атаки по сторонним каналам FROST (Fingerprinting Remotely using OPFS-based SSD Timing), позволяющую через анализ активности SSD-накопителя из выполняемого в браузере JavaScript-кода определить открываемые пользователям сайты с точностью 88.95%, а также запускаемые в системе приложения с точностью 95.83%. Метод также можно использовать для организации скрытого канала связи между локально работающим приложением и выполняемым в браузере JavaScript-кодом. Производительность такого обмена данными в Linux составила 661 bit/s, а в macOS - 892 bit/s.</description>
+      <description>Опубликован прототип консольной утилиты ai-cli для встраивания больших языковых моделей (GitHub Models, OpenAI, Groq, DeepSeek и др.) в конвейер вызова команд в командной строке. Утилита принимает запрос из аргументов или входного потока и отправляет его в выбранную большую языковую модель, а полученный ответ (команду, сообщение, данные) направляет в терминал, файл, буфер обмена или стандартный вывод. Проект написан на языке Rust и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=65567</description>
     </item>
     
     <item>
