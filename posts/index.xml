@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 11:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 13:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована экспериментальная ветка среды рабочего стола MATE 1.29</title>
+      <title>Грег Кроа-Хартман рассказал о том, как Rust может помочь в борьбе с ошибками в ядре Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 28 May 2026 11:38:02 +0500</pubDate>
+      <pubDate>Thu, 28 May 2026 13:38:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Спустя два года после прошлого стабильного релиза опубликован выпуск среды рабочего стола MATE 1.29. Ветка 1.29 преподносится как экспериментальная и применяется для тестирования функциональности будущего стабильного выпуска MATE 1.30. Проект MATE продолжает развитие кодовой базы GNOME 2.32 с сохранением классической концепции формирования рабочего стола.
-https://www.opennet.ru/opennews/art.shtml?num=65548</description>
+      <description>Грег Кроа-Хартман (Greg Kroah-Hartman), отвечающий за поддержку стабильной и &amp;ldquo;staging&amp;rdquo; веток ядра Linux, и занимающий пост мэйнтейнера в 16 подсистемах ядра, выступил с докладом на конференции Rust Week 2026, в котором рассказал, как язык Rust может помочь в предотвращении появления в ядре уязвимостей, возникающих из-за типичных ошибок разработчиков на языке Си при работе с памятью, блокировками, обработкой ошибок и работой с незаслуживающими доверия данными. В качестве основного преимущества Rust называется возможность выявлять подобные ошибки на этапе сборки, а не рецензирования кода людьми.</description>
     </item>
     
     <item>

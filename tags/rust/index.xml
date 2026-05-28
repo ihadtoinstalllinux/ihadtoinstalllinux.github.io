@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Rust on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rust/</link>
+    <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 13:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 13:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Грег Кроа-Хартман рассказал о том, как Rust может помочь в борьбе с ошибками в ядре Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Грег Кроа-Хартман (Greg Kroah-Hartman), отвечающий за поддержку стабильной и &amp;ldquo;staging&amp;rdquo; веток ядра Linux, и занимающий пост мэйнтейнера в 16 подсистемах ядра, выступил с докладом на конференции Rust Week 2026, в котором рассказал, как язык Rust может помочь в предотвращении появления в ядре уязвимостей, возникающих из-за типичных ошибок разработчиков на языке Си при работе с памятью, блокировками, обработкой ошибок и работой с незаслуживающими доверия данными. В качестве основного преимущества Rust называется возможность выявлять подобные ошибки на этапе сборки, а не рецензирования кода людьми.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
