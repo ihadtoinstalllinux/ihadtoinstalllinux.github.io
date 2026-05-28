@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 09:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 10:38:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована система хранения Blockstor, являющаяся альтернативой LINSTOR</title>
+      <title>Выпуск Cozystack 1.4, открытой PaaS-платформы на базе Kubernetes</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 28 May 2026 09:38:06 +0500</pubDate>
+      <pubDate>Thu, 28 May 2026 10:38:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен первый выпуск Blockstor - открытой системы управления распределённым блочным хранилищем для Kubernetes, обеспечивающей репликацию данных поверх DRBD. Blockstor совместим по REST API с LINSTOR и способен без изменений работать с существующей экосистемой клиентов, включая командную утилиту linstor, CSI-драйвер, оператор Piraeus, ha-controller и библиотеку golinstor. Проект представляет собой полностью самостоятельную (clean-room) реализацию на языке Go, не использующую исходный код оригинала. Код распространяется под лицензией Apache 2.0 и развивается в рамках платформы Cozystack (проект CNCF Sandbox).</description>
+      <description>Доступен выпуск свободной PaaS-платформы Cozystack 1.4, построенной на базе Kubernetes. Проект нацелен на предоставление готовой платформы для хостинг-провайдеров и фреймворка для построения частных и публичных облаков. Платформа устанавливается напрямую на серверы и охватывает все аспекты подготовки инфраструктуры для предоставления управляемых сервисов. Cozystack позволяет запускать и предоставлять кластеры Kubernetes, базы данных и виртуальные машины. Код платформы доступен на GitHub и распространяется под лицензией Apache-2.0.
+https://www.opennet.ru/opennews/art.shtml?num=65547</description>
     </item>
     
     <item>
