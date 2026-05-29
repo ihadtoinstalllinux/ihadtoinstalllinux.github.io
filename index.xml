@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 22:38:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 02:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Rust 1.96. Оценка пригодности Rust для создания прошивок к микроконтроллерам</title>
+      <title>Выпуск Installer-SH 2.8, универсального формата для распространения ПО</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 29 May 2026 22:38:14 +0500</pubDate>
+      <pubDate>Sat, 30 May 2026 02:37:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз языка программирования Rust 1.96, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=65574</description>
+      <description>Выпущена новая версия формата распространения ПО Installer-SH, созданного для решения проблемы распространения программ в дистрибутивах Linux и FreeBSD (desktop-сегмент). Изначально Installer-SH разрабатывался для внутреннего использования в дистрибутиве Chimbalix, однако по мере совершенствования превратился в универсальный установочный пакет для дистрибутивов Linux, а позже обзавёлся поддержкой платформы FreeBSD и возможностью поставки сборок для разных процессорных архитектур в одном пакете.
+https://www.opennet.ru/opennews/art.shtml?num=65535</description>
     </item>
     
     <item>
