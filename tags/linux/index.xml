@@ -6,14 +6,15 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 11:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2026 12:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Rocky Linux 9.8</title>
+      <title>CIFSwitch - уязвимость в CIFS-подсистеме ядра Linux, позволяющая получить права root</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 29 May 2026 11:37:53 +0500</pubDate>
+      <pubDate>Fri, 29 May 2026 12:37:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз дистрибутива Rocky Linux 9.8, нацеленного на создание свободной сборки RHEL, способной занять место классического CentOS. Дистрибутив бинарно совместим с Red Hat Enterprise Linux и может использоваться в качестве замены RHEL 9.8 и CentOS 9 Stream. Поддержка ветки Rocky Linux 9 будет осуществляться до 31 мая 2032 года. Установочные iso-образы Rocky Linux подготовлены для архитектур x86_64, aarch64, ppc64le и s390x (IBM Z). Дополнительно предложены live-сборки с рабочими столами GNOME, KDE, Cinnamon и Xfce, опубликованные для архитектуры x86_64.</description>
+      <description>Раскрыты детали и опубликован эксплоит для уязвимости CIFSwitch (CVE пока не присвоен) в модуле ядра CIFS и инструментарии cifs-utils, позволяющей непривилегированному пользователю получить права root в системе. Исправление доступно только в виде патча, который опубликован 16 мая и 19 мая был принят в основную ветку ядра Linux (корректирующие выпуски ядра ещё недоступны).
+https://www.opennet.ru/opennews/art.shtml?num=65572</description>
     </item>
     
   </channel>
