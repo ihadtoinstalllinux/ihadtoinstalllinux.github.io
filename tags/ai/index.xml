@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>AI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ai/</link>
+    <description>Recent content in AI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 14:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 14:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Во Flathub запрещено размещение приложений, сгенерированных при помощи AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Барт Пиотровски (Bart Piotrowski), сопровождающий инфраструктуру каталога приложений Flathub, объявил о внесении в правила Flathub изменений, запрещающих использование AI как для разработки размещаемых в каталоге приложений, так и для автоматизации процесса публикации во Flathub. Под действие правил подпадают публикуемые приложения, дополнения, файлы с манифестами, метаданные, патчи, сборочные скрипты, pull-запросы и любые артефакты, создаваемые через flatpak-builder.
 https://www.opennet.ru/opennews/art.shtml?num=65579</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
