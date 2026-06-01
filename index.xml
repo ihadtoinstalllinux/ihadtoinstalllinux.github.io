@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 19:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2026 01:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработаны правила использования AI в проекте Rust</title>
+      <title>Атакующие встроили вредоносное ПО в 32 NPM-пакета Red Hat</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 01 Jun 2026 19:37:26 +0500</pubDate>
+      <pubDate>Tue, 02 Jun 2026 01:37:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики языка программирования Rust готовят к публикации правила применения AI-ассистентов в проекте. Предложенные правила отточены в ходе обсуждения, насчитывающего более 3000 сообщений, одобрены 4 сопровождающими и ожидают публикации. За отдельными исключениями, правила запрещают передачу кода, сгенерированного через AI, в основной репозиторий rust-lang/rust, но не распространяются на субмодули, подветки и зависимости из каталога crates.io, а также другие репозитории организации. При этом правила разрешают использование AI для анализа, изучения, рецензирования и проверки кода.</description>
+      <description>В результате компрометации процесса формирования релизов на базе GitHub Actions в принадлежащих компании Red Hat репозиториях RedHatInsights, злоумышленники смогли опубликовать в каталоге NPM 64 вредоносные версии, охватывающие 32 NPM-пакета для платформы Red Hat Cloud Services. Для каждого из поражённых NPM-пакетов были выпущены по две вредоносные версии, в которые был интегрирован код для активации нового варианта червя mini-shai-hulud, выполняющего поиск токенов и учётных данных в текущем окружении.
+https://www.opennet.ru/opennews/art.shtml?num=65599</description>
     </item>
     
     <item>
