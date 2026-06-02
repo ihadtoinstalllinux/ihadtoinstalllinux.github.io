@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 17:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2026 23:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проблемы с соблюдением авторского права при переписывании ScanCode на Rust при помощи AI</title>
+      <title>Доступна библиотека устранения шума на изображениях Open Image Denoise 2.5</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 02 Jun 2026 17:37:35 +0500</pubDate>
+      <pubDate>Tue, 02 Jun 2026 23:37:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Сопровождающий открытый инструментарий ScanCode Toolkit, предназначенный для сканирования кода на предмет пересечений с чужими авторскими правами, выявления используемых лицензий и обнаружения неисправленных уязвимостей, раскритиковал проект, создавший при помощи AI клон продукта ScanCode, переписанный с Python на Rust (название клона не упоминается, но, судя по всем признакам, речь про проект Provenant). Утверждается, что в переписанном проекте нарушена торговая марка ScanCode и удалены упоминания об авторских правах и лицензиях. Претензии объясняются тем, что в переписанном клоне продолжено использование ключевых алгоритмов ScanCode, сохранена архитектура проекта и структура кода.</description>
+      <description>Компания Intel опубликовала выпуск проекта oidn 2.5 (Open Image Denoise), развивающего коллекцию фильтров для устранения шумов на изображениях, подготовленных с использованием систем рендеринга на основе трассировки лучей. Open Image Denoise развивается как часть более крупного проекта oneAPI Rendering Toolkit, нацеленного на разработку средств программной визуализации научных расчётов (SDVis (Software Defined Visualization), включающих библиотеку трассировки лучей Embree, систему фотореалистичной отрисовки GLuRay, платформу распределённой трассировки лучей OSPRay и систему программной растеризации OpenSWR. Код написан на языке С++ и опубликован под лицензией Apache 2.</description>
     </item>
     
     <item>
