@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 15:38:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2026 17:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Canonical опубликовал утилиту workshop для развёртывания окружений для разработки</title>
+      <title>Проблемы с соблюдением авторского права при переписывании ScanCode на Rust при помощи AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 02 Jun 2026 15:38:11 +0500</pubDate>
+      <pubDate>Tue, 02 Jun 2026 17:37:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Canonical представила инструментарий workshop, позволяющий одной командной быстро создавать в Ubuntu изолированные окружения для применения при разработке ПО и решения задач, связанных с машинным обучением и вовлечением AI-агентов. Начинка окружения определяется в одном файле конфигурации в формате YAML, который позволяет точно воспроизвести описанное окружение на любых компьютерах. Предполагается, что благодаря workshop разработчик может сосредоточиться на том, что он хочет получить, не тратя своё время на разбор зависимостей и настройку начинки.</description>
+      <description>Сопровождающий открытый инструментарий ScanCode Toolkit, предназначенный для сканирования кода на предмет пересечений с чужими авторскими правами, выявления используемых лицензий и обнаружения неисправленных уязвимостей, раскритиковал проект, создавший при помощи AI клон продукта ScanCode, переписанный с Python на Rust (название клона не упоминается, но, судя по всем признакам, речь про проект Provenant). Утверждается, что в переписанном проекте нарушена торговая марка ScanCode и удалены упоминания об авторских правах и лицензиях. Претензии объясняются тем, что в переписанном клоне продолжено использование ключевых алгоритмов ScanCode, сохранена архитектура проекта и структура кода.</description>
     </item>
     
     <item>
