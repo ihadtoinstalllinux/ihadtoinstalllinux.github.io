@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Vim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/vim/</link>
+    <description>Recent content in Vim on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 00:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Первый выпуск редактора Vim Classic, продолжающего развитие ветки Vim 8.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Дрю ДеВолт (Drew DeVault), автор пользовательского окружения Sway, почтового клиента Aerc, языка программирования Hare и платформы совместной разработки SourceHut, опубликовал первый выпуск Vim Classic, форка текстового редактора Vim 8.2, продолжающего сопровождение прошлой ветки. В качестве причин создания форка указано непринятие политики Vim в отношении использования AI. По задумке Дрю ДеВолта, Vim Classic 8.3 можно рассматривать как то, как мог бы выглядеть выпуск Vim 8.3, если бы разработчики Vim не создали ветку Vim 9 с новым скриптовым языком Vim9 Script, имеющим синтаксис, близкий к JavaScript, TypeScript и Java.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
