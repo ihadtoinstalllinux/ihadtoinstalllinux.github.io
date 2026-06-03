@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 09:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 10:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Ubuntu Sway Remix 26.04 LTS</title>
+      <title>Расширение системной памяти через подкачку в видеопамяти NVIDIA</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 03 Jun 2026 09:38:03 +0500</pubDate>
+      <pubDate>Wed, 03 Jun 2026 10:38:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 26.04 LTS, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 26.04, созданной с оглядкой как на опытных пользователей GNU/Linux, так и новичков, желающих попробовать окружение мозаичных оконных менеджеров без необходимости в их долгой настройке. Для загрузки подготовлены сборки для архитектур amd64, arm64 и компьютеров Raspberry Pi.
-https://www.opennet.ru/opennews/art.shtml?num=65610</description>
+      <description>Опубликован инструментарий nbd-vram, позволяющий разместить область подкачки в видеопамяти графической карты NVIDIA. Подобный манёвр даёт возможность виртуально увеличить размер памяти в системе, работающей на ноутбуках с впаянной нерасширяемой оперативной памятью и GPU NVIDIA. Код написан на языке Си и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=65612</description>
     </item>
     
     <item>
