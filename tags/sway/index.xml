@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Sway on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sway/</link>
+    <description>Recent content in Sway on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 09:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 09:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sway/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск дистрибутива Ubuntu Sway Remix 26.04 LTS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Доступен выпуск дистрибутива Ubuntu Sway Remix 26.04 LTS, предоставляющего преднастроенный и готовый к использованию рабочий стол на основе мозаичного композитного менеджера Sway. Дистрибутив является неофициальной редакцией Ubuntu 26.04, созданной с оглядкой как на опытных пользователей GNU/Linux, так и новичков, желающих попробовать окружение мозаичных оконных менеджеров без необходимости в их долгой настройке. Для загрузки подготовлены сборки для архитектур amd64, arm64 и компьютеров Raspberry Pi.
 https://www.opennet.ru/opennews/art.shtml?num=65610</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
