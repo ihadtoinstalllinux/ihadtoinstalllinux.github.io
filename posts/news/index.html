@@ -5,9 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Выпуск фильтрующего прокси Privoxy 4.2.0 | iHADtoinstalllinux</title>
-<meta name="keywords" content="Privoxy" />
-<meta name="description" content="Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить необходимые пользователю произвольные изменения в web-страницы. Privoxy поддерживает установку как на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2&#43;. Готовые сборки подготовлены для Linux (deb) и Windows.">
+<title>Уязвимость в libinput, позволяющая повысить свои привилегии в системе | iHADtoinstalllinux</title>
+<meta name="keywords" content="libinput" />
+<meta name="description" content="В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.
+https://www.opennet.ru/opennews/art.shtml?num=65615">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +58,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Выпуск фильтрующего прокси Privoxy 4.2.0" />
-<meta property="og:description" content="Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить необходимые пользователю произвольные изменения в web-страницы. Privoxy поддерживает установку как на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2&#43;. Готовые сборки подготовлены для Linux (deb) и Windows." />
+</noscript><meta property="og:title" content="Уязвимость в libinput, позволяющая повысить свои привилегии в системе" />
+<meta property="og:description" content="В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.
+https://www.opennet.ru/opennews/art.shtml?num=65615" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-06-04T11:37:51&#43;05:00" />
-<meta property="article:modified_time" content="2026-06-04T11:37:51&#43;05:00" />
+<meta property="article:published_time" content="2026-06-04T12:37:19&#43;05:00" />
+<meta property="article:modified_time" content="2026-06-04T12:37:19&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Выпуск фильтрующего прокси Privoxy 4.2.0"/>
-<meta name="twitter:description" content="Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить необходимые пользователю произвольные изменения в web-страницы. Privoxy поддерживает установку как на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2&#43;. Готовые сборки подготовлены для Linux (deb) и Windows."/>
+<meta name="twitter:title" content="Уязвимость в libinput, позволяющая повысить свои привилегии в системе"/>
+<meta name="twitter:description" content="В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.
+https://www.opennet.ru/opennews/art.shtml?num=65615"/>
 
 
 <script type="application/ld+json">
@@ -83,7 +86,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Выпуск фильтрующего прокси Privoxy 4.2.0",
+      "name": "Уязвимость в libinput, позволяющая повысить свои привилегии в системе",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +96,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Выпуск фильтрующего прокси Privoxy 4.2.0",
-  "name": "Выпуск фильтрующего прокси Privoxy 4.2.0",
-  "description": "Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить необходимые пользователю произвольные изменения в web-страницы. Privoxy поддерживает установку как на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2+. Готовые сборки подготовлены для Linux (deb) и Windows.",
+  "headline": "Уязвимость в libinput, позволяющая повысить свои привилегии в системе",
+  "name": "Уязвимость в libinput, позволяющая повысить свои привилегии в системе",
+  "description": "В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.\nhttps://www.opennet.ru/opennews/art.shtml?num=65615",
   "keywords": [
-    "Privoxy"
+    "libinput"
   ],
-  "articleBody": "Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить необходимые пользователю произвольные изменения в web-страницы. Privoxy поддерживает установку как на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2+. Готовые сборки подготовлены для Linux (deb) и Windows.\nhttps://www.opennet.ru/opennews/art.shtml?num=65607\n",
-  "wordCount" : "78",
+  "articleBody": "В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.\nhttps://www.opennet.ru/opennews/art.shtml?num=65615\n",
+  "wordCount" : "47",
   "inLanguage": "en",
-  "datePublished": "2026-06-04T11:37:51+05:00",
-  "dateModified": "2026-06-04T11:37:51+05:00",
+  "datePublished": "2026-06-04T12:37:19+05:00",
+  "dateModified": "2026-06-04T12:37:19+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,21 +198,21 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Выпуск фильтрующего прокси Privoxy 4.2.0
+      Уязвимость в libinput, позволяющая повысить свои привилегии в системе
     </h1>
-    <div class="post-meta"><span title='2026-06-04 11:37:51 +0500 +05'>June 4, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-06-04 12:37:19 +0500 +05'>June 4, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Опубликован релиз прокси-сервера Privoxy 4.2.0, предназначенного для создания персональных фильтров web-контента. При помощи Privoxy можно вырезать рекламные вставки, отбрасывать отслеживающие Cookie, удалять всплывающие диалоги, блокировать загрузку стороннего JavaScript-кода и вносить  необходимые пользователю произвольные изменения  в web-страницы. Privoxy поддерживает установку как  на локальные системы отдельных пользователей, так и на серверы для создания централизованной инфраструктуры фильтрации контента  в локальной сети. Код проекта написан на языке Си и распространяется под лицензией GPLv2+. Готовые сборки подготовлены для Linux (deb) и Windows.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65607">https://www.opennet.ru/opennews/art.shtml?num=65607</a></p>
+  <div class="post-content"><p>В библиотеке libinput, предоставляющей унифицированный стек ввода для Wayland и X.Org Server, выявлена уязвимость (CVE не назначен), позволяющая добиться выполнения кода с правами root через подключение локальным пользователем виртуального устройства ввода, сэмулированного в пользовательском пространстве через uinput или uhid. Проблема устранена в выпусках 1.31.3 и 1.30.4.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65615">https://www.opennet.ru/opennews/art.shtml?num=65615</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/privoxy/">Privoxy</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/libinput/">libinput</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
