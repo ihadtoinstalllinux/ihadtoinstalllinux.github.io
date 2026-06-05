@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Chrome on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/chrome/</link>
+    <description>Recent content in Chrome on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:38:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2026 02:38:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Chrome устранено 429 уязвимостей, а в Android - 124</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Google внесла изменения в объявление о выпуске Chrome 149, в котором раскрыла сведения об устранении 429 уязвимостей. 22 уязвимости отмечены как критические, а 87 - как опасные. Критические проблемы позволяют обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, упомянуто только, что большая часть критических проблем вызвана переполнением буфера или обращением к уже освобождённой памяти в компонентах ANGLE, Ozone, Chromecast, Chromoting, GFX и процессе для взаимодействия с GPU.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
