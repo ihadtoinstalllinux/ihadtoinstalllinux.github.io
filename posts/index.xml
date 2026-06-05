@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 21:37:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2026 01:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компания Alibaba опубликовала инструментарий Open Code Review для рецензирования кода</title>
+      <title>Доступен Emscripten 6.0, компилятор из C/C&#43;&#43; в WebAssembly </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 05 Jun 2026 21:37:33 +0500</pubDate>
+      <pubDate>Sat, 06 Jun 2026 01:37:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Alibaba, одна из крупнейших китайских IT-компаний, опубликовала открытую платформу Open Code Review с реализацией гибридной архитектуры рецензирования, сочетающей строгие методы проверки с гибкими возможностями больших языковых моделей. Проект основан на коде применяемой в Alibaba внутренней системы рецензирования изменений, написан на языке Go и распространяется под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=65623</description>
+      <description>Опубликован выпуск инструментария Emscripten 6.0, позволяющего компилировать код на C/C++ и других языках, для которых имеются фронтэнды на базе LLVM, в универсальный низкоуровневый промежуточный код WebAssembly. Полученный результат можно использовать для интеграции с JavaScript-проектами, запуска в web-браузере, использования в Node.js или создания обособленных многоплатформенных приложений, запускаемых при помощи wasm runtime. Код проекта распространяется под лицензией MIT. В компиляторе используются наработки проекта LLVM, а для генерации WebAssembly и оптимизации задействована библиотека Binaryen.</description>
     </item>
     
     <item>

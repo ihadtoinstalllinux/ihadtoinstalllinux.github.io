@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>C on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/c/</link>
+    <description>Recent content in C on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 01:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2026 01:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступен Emscripten 6.0, компилятор из C/C&#43;&#43; в WebAssembly </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован выпуск инструментария Emscripten 6.0, позволяющего компилировать код на C/C++ и других языках, для которых имеются фронтэнды на базе LLVM, в универсальный низкоуровневый промежуточный код WebAssembly. Полученный результат можно использовать для интеграции с JavaScript-проектами, запуска в web-браузере, использования в Node.js или создания обособленных многоплатформенных приложений, запускаемых при помощи wasm runtime. Код проекта распространяется под лицензией MIT. В компиляторе используются наработки проекта LLVM, а для генерации WebAssembly и оптимизации задействована библиотека Binaryen.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
