@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>OutWiker on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/outwiker/</link>
+    <description>Recent content in OutWiker on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 12:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/outwiker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск программы для ведения заметок OutWiker 4.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Спустя почти два года с момента выхода прошлой стабильной версии, опубликован выпуск программы для хранения заметок OutWiker 4.0. Особенностью программы является то, что заметки хранятся в виде каталогов с текстовыми файлами, к каждой заметке можно прикреплять произвольное количество файлов, программа позволяет писать заметки с использованием различных нотаций: HTML, вики, Markdown (если установлен соответствующий плагин). Также с помощью плагинов можно добавить возможность размещения на викистраницах формул в формате LaTeX и вставки блока кода с раскраской ключевых слов для различных языков программирования.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
