@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 22:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2026 00:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз системы самодостаточных пакетов Flatpak 1.18.0</title>
+      <title>Для ОС Redox портирована среда рабочего стола Xfce и реализован планировщик задач EEVDF</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 08 Jun 2026 22:37:27 +0500</pubDate>
+      <pubDate>Tue, 09 Jun 2026 00:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После полутора лет разработки опубликована новая стабильная ветка инструментария Flatpak 1.18, предоставляющего систему для сборки самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и выполняемых в специальном контейнере, изолирующем приложение от остальной системы. Поддержка выполнения Flatpak-пакетов обеспечена для Fedora, CentOS, Debian, Arch Linux, Gentoo, Linux Mint, Alt Linux и Ubuntu. Пакеты с Flatpak включены в репозиторий Fedora и поддерживаются в штатных программах управления приложениями GNOME и KDE.
-https://www.opennet.ru/opennews/art.shtml?num=65642</description>
+      <description>Разработчики операционной системы Redox, написанной с использованием языка Rust и концепции микроядра, опубликовали отчёт о развитии проекта за май. Из достижений отмечено успешное портирование среды рабочего стола Xfce, работа которой в Redox отмечена, как более стабильная, чем порт MATE, в котором имеются нерешённые проблемы с файловым менеджером Caja.
+https://www.opennet.ru/opennews/art.shtml?num=65643</description>
     </item>
     
     <item>
