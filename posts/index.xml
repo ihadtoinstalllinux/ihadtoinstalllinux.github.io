@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jun 2026 22:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Объявлены победители 29 конкурса по написанию запутанного кода на языке Си</title>
+      <title>Релиз системы самодостаточных пакетов Flatpak 1.18.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 08 Jun 2026 18:37:16 +0500</pubDate>
+      <pubDate>Mon, 08 Jun 2026 22:37:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликованы исходные тексты работ, победивших в двадцать девятом конкурсе IOCCC (International Obfuscated C Code Contest), участникам которого предлагалось подготовить наиболее запутанный и трудноразбираемый код на языке Си. Участвующие в конкурсе работы, с одной стороны, должны препятствовать анализу кода и пониманию сути решаемой задачи, но, с другой стороны, код должен быть интересен и чем-то примечателен (работы могут быть необычно оформлены или выделять неожиданные стороны языка Си). Размер файла с кодом программы не должен превышать 4993 байтa, а чистый код не должен превышать 2503 байта после обработки утилитой iocccsize.</description>
+      <description>После полутора лет разработки опубликована новая стабильная ветка инструментария Flatpak 1.18, предоставляющего систему для сборки самодостаточных пакетов, не привязанных к конкретным дистрибутивам Linux и выполняемых в специальном контейнере, изолирующем приложение от остальной системы. Поддержка выполнения Flatpak-пакетов обеспечена для Fedora, CentOS, Debian, Arch Linux, Gentoo, Linux Mint, Alt Linux и Ubuntu. Пакеты с Flatpak включены в репозиторий Fedora и поддерживаются в штатных программах управления приложениями GNOME и KDE.
+https://www.opennet.ru/opennews/art.shtml?num=65642</description>
     </item>
     
     <item>
