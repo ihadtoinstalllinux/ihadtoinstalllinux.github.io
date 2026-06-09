@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2026 12:37:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление Chrome 149.0.7827.102 с устранением 17 критических уязвимстей</title>
+      <title>Возрождение разработки Ubuntu MATE после ухода основателя проекта</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 09 Jun 2026 11:37:45 +0500</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:37:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google сформировала обновление Chrome 149.0.7827.102 с исправлением 74 уязвимостей, из которых 17 помечены как критические. С учётом проблем, исправленных неделю назад, в этом месяце в Chrome устранено 39 критических уязвимостей, что больше, чем за последние 10 лет существования проекта. Критические проблемы позволяют обойти все уровни защиты браузера и выполнить код в системе за пределами sandbox-окружения. Детали пока не раскрываются, известно лишь, что уязвимости вызваны обращением к памяти после её освобождения (use-after-free) в компонентах и API Ozone, Aura, File Input, TabStrip, Bluetooth, Gamepad, Autofill, Views, Printing, Compositing, Web Apps и Proxy.</description>
+      <description>Томас Уорд (Thomas Ward), лидер проекта Lubuntu и член технического совета Ubuntu, объявил о формировании новой команды разработчиков дистрибутива Ubuntu MATE, которая взяла в свои руки сопровождение проекта после ухода его основателя. Формально отдельный релиз Ubuntu MATE 26.04 выпущен не будет, но пакеты с рабочим столом MATE для Ubuntu 26.04 продолжают поставляться и поддерживаться в надлежащем виде. Новая команда разработчиков приступила к разгребанию и исправлению ошибок, накопившихся за несколько лет стагнации проекта, а также работает над обновлением MATE до ветки 1.</description>
     </item>
     
     <item>
