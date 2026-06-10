@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2026 20:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в процессорах ARM, позволяющая обойти изоляцию виртуальных машин</title>
+      <title>Первый стабильный выпуск открытого офисного пакета Euro-Office</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 10 Jun 2026 17:37:42 +0500</pubDate>
+      <pubDate>Wed, 10 Jun 2026 20:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания ARM раскрыла информацию об уязвимости (CVE-2025-10263) в своих процессорах, позволяющей осуществить запись в ресурсы, принадлежащих более высокому уровню исключений (Exception Level), что потенциально позволяет добиться повышения привилегий в системе. В контексте гипервизора Xen уязвимость даёт возможность из гостевой системы осуществить запись в память, принадлежащую гипервизору.
-https://www.opennet.ru/opennews/art.shtml?num=65660</description>
+      <description>Опубликован первый стабильный выпуск проекта Euro-Office, развивающего платформу для совместного редактирования документов, электронных таблиц и презентаций. В основе Euro-Office лежит серверный компонент DocumentServer, предоставляющий online-редакторы, открываемые на клиентских системах в браузере. Проект является форком кодовой базы продукта ONLYOFFICE DocumentServer и полностью повторяет его функциональность. Как и исходный продукт Euro-Office распространяется под лицензией AGPLv3. Готовые сборки сформированы для архитектур x86_64 и ARM64 в форматах deb и rpm.
+https://www.opennet.ru/opennews/art.shtml?num=65662</description>
     </item>
     
     <item>
