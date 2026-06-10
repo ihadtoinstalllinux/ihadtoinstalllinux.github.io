@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 10:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2026 12:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз минималистичного дистрибутива Alpine Linux 3.24</title>
+      <title>Lets Encrypt добавил в пользовательское соглашение запрет на выдачу сертификатов для стран под санкциями США</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 10 Jun 2026 10:38:10 +0500</pubDate>
+      <pubDate>Wed, 10 Jun 2026 12:37:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен релиз Alpine Linux 3.24, минималистичного дистрибутива, построенного на базе системной библиотеки Musl и набора утилит BusyBox. Дистрибутив отличается повышенными требованиями к обеспечению безопасности и собран с защитой SSP (Stack Smashing Protection). В качестве системы инициализации используется OpenRC, для управления пакетами применяется собственный пакетный менеджер apk. Alpine применяется для формирования официальных образов контейнеров Docker и используется в проекте PostmarketOS. Загрузочные iso-образы (x86_64, x86, armhf, aarch64, armv7, ppc64le, s390x, riscv64 и loongarch64) подготовлены в шести вариантах: стандартном (352 МБ), загружаемом по сети (374 МБ), расширенном (1 ГБ), для виртуальных машин (66 MB), minirootfs (4 MB) и для гипервизора Xen (1 ГБ).</description>
+      <description>Некоммерческий удостоверяющий центр Let&amp;rsquo;s Encrypt, контролируемый сообществом и предоставляющий сертификаты безвозмездно всем желающим, внёс изменение в пользовательское соглашение, определяющее права и обязанности получателей сертификатов. В секцию с условиями запроса и использования сертификатов добавлен пункт, не допускающий выдачу сертификатов для физических лиц и организаций, постоянно проживающих или зарегистрированных в странах или на территориях, на которые распространяются полномасштабные (comprehensive) санкции США.
+https://www.opennet.ru/opennews/art.shtml?num=65656</description>
     </item>
     
     <item>
