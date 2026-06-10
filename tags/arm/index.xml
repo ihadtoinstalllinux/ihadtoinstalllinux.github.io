@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>ARM on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/arm/</link>
+    <description>Recent content in ARM on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2026 17:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/arm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Уязвимость в процессорах ARM, позволяющая обойти изоляцию виртуальных машин</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания ARM раскрыла информацию об уязвимости (CVE-2025-10263) в своих процессорах, позволяющей осуществить запись в ресурсы, принадлежащих более высокому уровню исключений (Exception Level), что потенциально позволяет добиться повышения привилегий в системе. В контексте гипервизора Xen уязвимость даёт возможность из гостевой системы осуществить запись в память, принадлежащую гипервизору.
 https://www.opennet.ru/opennews/art.shtml?num=65660</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 15:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2026 17:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Первый выпуск операционной системы GentleOS с ретро GUI для винтажных ПК </title>
+      <title>Уязвимость в процессорах ARM, позволяющая обойти изоляцию виртуальных машин</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 10 Jun 2026 15:37:45 +0500</pubDate>
+      <pubDate>Wed, 10 Jun 2026 17:37:42 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован первый выпуск GentleOS, операционной системы для старых 32-разрядных ПК и ноутбуков. Проект развивается энтузиастом в качестве хобби и нацелен на предоставление простой платформы для любителей ретро-техники с классическим графическим интерфейсом. Поддерживается работа на компьютерах с CPU i386, 4 МБ ОЗУ и видеокартой VGA с разрешением 640x480. Код проекта написан на языке Си и распространяется под лицензией GPLv2. Для запуска сформирован дисковый образ размером 8 МБ, и образ для записи на дискету размером 1.</description>
+      <description>Компания ARM раскрыла информацию об уязвимости (CVE-2025-10263) в своих процессорах, позволяющей осуществить запись в ресурсы, принадлежащих более высокому уровню исключений (Exception Level), что потенциально позволяет добиться повышения привилегий в системе. В контексте гипервизора Xen уязвимость даёт возможность из гостевой системы осуществить запись в память, принадлежащую гипервизору.
+https://www.opennet.ru/opennews/art.shtml?num=65660</description>
     </item>
     
     <item>
