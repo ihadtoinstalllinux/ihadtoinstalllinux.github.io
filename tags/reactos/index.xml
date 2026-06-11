@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>ReactOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/reactos/</link>
+    <description>Recent content in ReactOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 01:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 01:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/reactos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проект ReactOS достиг возможности запуска игр Half-Life и Unreal Tournament 2004</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Разработчики открытой операционной системы ReactOS, нацеленной на обеспечение совместимости с программами и драйверами Microsoft Windows, объявили достижении возможности запуска игры Half-Life. Запуск был осуществлён в ReactOS, установленном на реальном оборудовании - ПК Dell OptiPlex 990 c CPU Intel Core i5-2400, 1 ГБ ОЗУ и видеокартой NVIDIA GeForce 8400 GS. За несколько дней до этого в ReactOS удалось запустить игру Unreal Tournament 2004.
 https://www.opennet.ru/opennews/art.shtml?num=65665</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
