@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 02:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 03:37:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в phpBB, позволяющая получить доступ к любому аккаунту без аутентификации</title>
+      <title>Выпуск X-сервера yserver 1.0.0, написанного на Rust и пригодного для запуска MATE, Xfce и Cinnamon</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 12 Jun 2026 02:37:39 +0500</pubDate>
+      <pubDate>Fri, 12 Jun 2026 03:37:23 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В свободном движке для создания форумов phpBB выявлена уязвимость, позволяющая через отправку одного HTTP-запроса подключиться к сеансу любого пользователя форума. Уязвимость проявляется в конфигурации phpBB по умолчанию. Проблема устранена в версии phpBB 3.3.17.
-https://www.opennet.ru/opennews/art.shtml?num=65667</description>
+      <description>Опубликован первый значительный выпуск X11-сервера yserver, написанного с нуля на языке Rust и поддерживающего актуальные расширения протокола X11. Проект не ставит перед собой цель повторить все возможности Xorg Server и ограничивается только функциональностью, необходимой для запуска современных сред рабочего стола, оконных менеджеров, приложений и графических библиотек (GTK, Qt, SDL, GLFW). Из протестированных окружений отмечены MATE, Xfce и Cinnamon, а также оконные менеджеры FVWM3, e16 и wmaker. Код проекта распространяется под лицензией MIT.</description>
     </item>
     
     <item>
