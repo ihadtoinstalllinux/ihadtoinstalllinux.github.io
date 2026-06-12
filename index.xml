@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 01:37:22 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Chrome 151 будет удалён обходной путь для установки uBlock Origin</title>
+      <title>Выпуск дистрибутива Proxmox Mail Gateway 9.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 12 Jun 2026 20:37:38 +0500</pubDate>
+      <pubDate>Sat, 13 Jun 2026 01:37:22 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В намеченном на 30 июня выпуске Chrome 150 будет удалена поддержка флага kExtensionManifestV2Disabled, позволявшего вернуть возможность установки из каталога Chrome Web Store дополнений, использующих вторую версию манифеста Chrome. Позавчера из которой базы Chromium, на базе которой формируется выпуск Chrome 151, запланированный на 28 июля, дополнительно был удалён код с реализацией параметра AllowLegacyMV2Extensions, позволявшего вручную в режиме разработчика загружать дополнения на базе второй версии манифеста. За несколько дней до этого из кодовой базы Chromium также были удалены параметры kExtensionManifestV2Unsupported и ExtensionManifestV2Availability, которые около года назад были объявлены неподдерживаемыми.</description>
+      <description>Компания Proxmox, известная разработкой дистрибутива Proxmox Virtual Environment для развертывания инфраструктур виртуальных серверов, представила релиз дистрибутива Proxmox Mail Gateway 9.1, который преподносится как готовое решение для быстрого создания системы контроля за почтовым трафиком и защиты внутреннего почтового сервера.
+https://www.opennet.ru/opennews/art.shtml?num=65676</description>
     </item>
     
     <item>
