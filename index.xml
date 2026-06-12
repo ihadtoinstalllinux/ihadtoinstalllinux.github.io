@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 13:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системы шифрования дисковых разделов VeraCrypt 1.26.29</title>
+      <title>Атакующие скомпрометировали 469 пакетов в репозитории AUR</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:47 +0500</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После года разработки опубликован выпуск проекта VeraCrypt 1.26.29, развивающего форк системы шифрования дисковых разделов TrueCrypt, прекратившей своё существование. VeraCrypt примечателен заменой используемого в TrueCrypt алгоритма RIPEMD-160 на SHA-512 и SHA-256, увеличением числа итераций хэширования, упрощением процесса сборки для Linux и macOS, устранением проблем, выявленных в процессе аудита исходных текстов TrueCrypt. Разработанный проектом VeraCrypt код распространяется под лицензией Apache 2.0, а заимствования из TrueCrypt продолжают поставляться под лицензией TrueCrypt License 3.0. Готовые сборки формируются для Linux, FreeBSD, Windows и macOS.</description>
+      <description>Зафиксирована массовая компрометация пакетов в репозитории AUR (Arch User Repository), применяемом в Arch Linux для распространения приложений от сторонних разработчиков. Атакующие получили контроль над 469 пакетами и смогли внедрить в них вредоносный код для кражи паролей и ключей доступ с систем пользователей. Среди прочего, вредоносный код был интегрирован в поставляемый через AUR пакет ALVR, популярный у любителей компьютерных игр.
+https://www.opennet.ru/opennews/art.shtml?num=65670</description>
     </item>
     
     <item>
