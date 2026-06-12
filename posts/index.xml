@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 13:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 20:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атакующие скомпрометировали 469 пакетов в репозитории AUR</title>
+      <title>В Chrome 151 будет удалён обходной путь для установки uBlock Origin</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 12 Jun 2026 13:38:12 +0500</pubDate>
+      <pubDate>Fri, 12 Jun 2026 20:37:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Зафиксирована массовая компрометация пакетов в репозитории AUR (Arch User Repository), применяемом в Arch Linux для распространения приложений от сторонних разработчиков. Атакующие получили контроль над 469 пакетами и смогли внедрить в них вредоносный код для кражи паролей и ключей доступ с систем пользователей. Среди прочего, вредоносный код был интегрирован в поставляемый через AUR пакет ALVR, популярный у любителей компьютерных игр.
-https://www.opennet.ru/opennews/art.shtml?num=65670</description>
+      <description>В намеченном на 30 июня выпуске Chrome 150 будет удалена поддержка флага kExtensionManifestV2Disabled, позволявшего вернуть возможность установки из каталога Chrome Web Store дополнений, использующих вторую версию манифеста Chrome. Позавчера из которой базы Chromium, на базе которой формируется выпуск Chrome 151, запланированный на 28 июля, дополнительно был удалён код с реализацией параметра AllowLegacyMV2Extensions, позволявшего вручную в режиме разработчика загружать дополнения на базе второй версии манифеста. За несколько дней до этого из кодовой базы Chromium также были удалены параметры kExtensionManifestV2Unsupported и ExtensionManifestV2Availability, которые около года назад были объявлены неподдерживаемыми.</description>
     </item>
     
     <item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Origin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/origin/</link>
+    <description>Recent content in Origin on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 20:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/origin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Chrome 151 будет удалён обходной путь для установки uBlock Origin</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>В намеченном на 30 июня выпуске Chrome 150 будет удалена поддержка флага kExtensionManifestV2Disabled, позволявшего вернуть возможность установки из каталога Chrome Web Store дополнений, использующих вторую версию манифеста Chrome. Позавчера из которой базы Chromium, на базе которой формируется выпуск Chrome 151, запланированный на 28 июля, дополнительно был удалён код с реализацией параметра AllowLegacyMV2Extensions, позволявшего вручную в режиме разработчика загружать дополнения на базе второй версии манифеста. За несколько дней до этого из кодовой базы Chromium также были удалены параметры kExtensionManifestV2Unsupported и ExtensionManifestV2Availability, которые около года назад были объявлены неподдерживаемыми.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
