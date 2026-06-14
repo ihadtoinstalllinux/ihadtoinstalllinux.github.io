@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:37:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 17:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Истекает время жизни сертификата, которым заверен загрузчик для UEFI Secure Boot в дистрибутивах Linux</title>
+      <title>В AUR осуществлена подстановка вредоносного кода ещё в 54 пакета</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 14 Jun 2026 12:37:50 +0500</pubDate>
+      <pubDate>Sun, 14 Jun 2026 17:37:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики Fedora Linux прояснили ситуацию, связанную с истечением в конце июня срока действия сертификата Microsoft, применяемого для заверения цифровой подписью прослойки Shim, используемой для верифицированной загрузки дистрибутивов Linux в режиме UEFI Secure Boot. Переход на новый сертификат должен пройти незаметно для пользователей так как фактически завершение времени жизни сертификата приведёт лишь к невозможности его использования для создания новых подписей. Во время загрузки UEFI Secure Boot срок действия сертификата не проверяется и имеет значение только отзыв скомпрометированных сертификатов.</description>
+      <description>Несмотря на меры, предпринятые разработчиками Arch Linux, деятельность по подстановке вредоносного кода в репозитории AUR (Arch User Repository) не остановлена. Несколько часов назад вредносный код подставлен ещё в 54 пакета, оставшихся без сопровождающих (история отмены вредоносных правок). В отличие от позавчерашних атак, вместо пакетного менеджера npm для установки вредоносных зависимостей на этот раз задействована платформа bun. Для обхода реализованных фильтров в функцию post_install вставляется обфусцированная строка, в которой вызывается команда &amp;ldquo;bun add&amp;rdquo; для установки пакетов с вредоносным кодом, осуществляющим сканирование и отправку на внешний сервер ключей, токенов и учётных данных.</description>
     </item>
     
     <item>

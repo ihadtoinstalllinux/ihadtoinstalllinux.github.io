@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>AUR on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/aur/</link>
+    <description>Recent content in AUR on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 17:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 17:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/aur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В AUR осуществлена подстановка вредоносного кода ещё в 54 пакета</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Несмотря на меры, предпринятые разработчиками Arch Linux, деятельность по подстановке вредоносного кода в репозитории AUR (Arch User Repository) не остановлена. Несколько часов назад вредносный код подставлен ещё в 54 пакета, оставшихся без сопровождающих (история отмены вредоносных правок). В отличие от позавчерашних атак, вместо пакетного менеджера npm для установки вредоносных зависимостей на этот раз задействована платформа bun. Для обхода реализованных фильтров в функцию post_install вставляется обфусцированная строка, в которой вызывается команда &amp;ldquo;bun add&amp;rdquo; для установки пакетов с вредоносным кодом, осуществляющим сканирование и отправку на внешний сервер ключей, токенов и учётных данных.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
