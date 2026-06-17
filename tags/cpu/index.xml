@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>CPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cpu/</link>
+    <description>Recent content in CPU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 15:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 15:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>При переводе Firefox на zlib-rs разработчики натолкнулись на ошибку в CPU Intel</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Организация Trifecta Tech Foundation, развивающая такие проекты, как ntpd-rs, sudo-rs, zlib-rs и bzip2-rs, рассказала о переходе Firefox на использование библиотеки zlib-rs, написанной на языке Rust, для сжатия и распаковки c использованием метода gzip. Кроме защиты от проблем, вызванных ошибками при работе с памятью, переход с zlib на zlib-rs привёл к заметному повышению производительности - в проведённых тестах ускорение составило от 3.3 до 32.5 раз при единичных операция декодирвоания и от 2.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
