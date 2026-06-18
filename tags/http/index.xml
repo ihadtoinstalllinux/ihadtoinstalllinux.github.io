@@ -6,15 +6,15 @@
     <description>Recent content in HTTP on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2026 11:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление nginx 1.31.2 с устранением уязвимостей, эксплуатируемых через HTTP/3, HTTP2 и gRPC</title>
+      <title>Стандартизирован HTTP-метод QUERY, комбинирующий возможности GET и POST</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 18 Jun 2026 01:37:30 +0500</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Сформирован выпуск основной ветки nginx 1.31.2, в рамках которой продолжается развитие новых возможностей, а также выпуск параллельно поддерживаемой стабильной ветки nginx 1.30.3, в которую вносятся только изменения, связанные с устранением серьёзных ошибок и уязвимостей. В обновлениях устранено 3 уязвимости.
-https://www.opennet.ru/opennews/art.shtml?num=65712</description>
+      <description>Инженерный комитет IETF (Internet Engineering Task Force), занимающегося развитием протоколов и архитектуры сети Интернет, придал HTTP-методу QUERY статус &amp;ldquo;Предложенного стандарта&amp;rdquo; и опубликовал связанную с ним спецификацию RFC 10008. Метод QUERY по способу отправки данных на сервер повторяет метод POST, но отличается от него ориентацией не на запись данных и изменение состояния, а на формирование запросов на чтение.
+https://www.opennet.ru/opennews/art.shtml?num=65713</description>
     </item>
     
   </channel>
