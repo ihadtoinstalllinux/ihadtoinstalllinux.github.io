@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:37:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2026 19:38:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Исправление критической уязвимости в JCE, дополнении для CMS Joomla</title>
+      <title>Обновление Firefox 152.0.1 с устранением новых сбоев на CPU Intel Raptor Lake</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 19 Jun 2026 01:37:43 +0500</pubDate>
+      <pubDate>Fri, 19 Jun 2026 19:38:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В JCE (Joomla Content Editor), одном из старейших и популярнейших расширений в экосистеме Joomla, устранена критическая уязвимость (CVE-2026-48907), позволяющая импортировать свой профиль без аутентификации. Атакующий может использовать уязвимость для размещения профиля, отключающего проверку MIME-типов и реализующего загрузку PHP-скриптов на сервер. Зафиксировано использование уязвимости злоумышленниками для установки webshell, предоставляющего удалённый доступ к системе.
-https://www.opennet.ru/opennews/art.shtml?num=65715</description>
+      <description>Доступен корректирующий выпуск Firefox 152.0.1, в котором устранены проблемы, приводившие к аварийным завершениям на системах с процессорами Intel на базе микроархитектуры Raptor Lake. Проблема возникла из-за ошибки в CPU, приводящей к неверной обработке инструкций, генерируемых для функций кэширования промежуточного представления кода в JIT-компиляторе, написанном на C++. Примечательно, что месяц назад похожие проблемы с CPU Intel Raptor Lake были исправлены в выпуске Firefox 151.0.1. Прошлые проблемы проявлялись из-за неверной обработки процессорами Intel Raptor Lake инструкции &amp;ldquo;mov byte ptr [rsi + rdi + 1], ch&amp;rdquo;, генерируемой для кода библиотеки zlib-rs на языке Rust.</description>
     </item>
     
     <item>
