@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 11:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 13:37:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск PorteuX 2.7, дистрибутива на основе Slackware </title>
+      <title>Выпуск системного менеджера systemd 261 и форка liberated-systemd 261</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 21 Jun 2026 11:37:47 +0500</pubDate>
+      <pubDate>Sun, 21 Jun 2026 13:37:33 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск дистрибутива PorteuX 2.7, основанного на Slackware и развиваемого под впечатлением от проектов Slax и Porteus. Из особенностей.
-https://www.opennet.ru/opennews/art.shtml?num=65735</description>
+      <description>После трёх месяцев разработки доступен релиз системного менеджера systemd 261. Ключевые изменения: подготовка к поддержке API для верификации возраста, поддержка подсистем Kexec Handover и Live Update Orchestration для перезапуска без потери состояния, подсистема IMDS (Instance Metadata Service), функциональность для защиты загрузки на системах без физического TPM (Trusted Platform Module), компонент systemd-sysinstall с реализацией инсталлятора.
+https://www.opennet.ru/opennews/art.shtml?num=65732</description>
     </item>
     
     <item>
