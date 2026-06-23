@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>GIMP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gimp/</link>
+    <description>Recent content in GIMP on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 11:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подготовлен Flatpak-пакет с графическим редактором GIMP 0.54, выпущенным в 1996 году</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Для желающих оценить в работе ранние версии графического редактора GIMP подготовлен пакет в формате Flatpak с выпуском GIMP 0.54.1, опубликованным 30 лет назад. Пакет пригоден для запуска в современных 64-разрядных дистрибутивах, использующих Wayland (GIMP запускается через xwayland). GIMP 0.54.1 был последним выпуском, построенным с использованием библиотеки Motif. В последующих выпусках код был переписан с использованием собственного тулкита GTK. Версия GIMP 0.54 также примечательна тем, что именно в ней Ларри Юинг (Larry Ewing) нарисовал пингвина Tux, ставшего талисманом Linux.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
