@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:38:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 14:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компания Valve выпустила игровую приставку Steam Machine на базе Linux</title>
+      <title>Canonical предоставит для систем ARM64 обновления ядра, не требующие перезагрузки</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 23 Jun 2026 12:38:13 +0500</pubDate>
+      <pubDate>Tue, 23 Jun 2026 14:37:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Valve объявила о начале приёма заказов на игровую приставку Steam Machine, поставляемую с Linux-дистрибутивом SteamOS. Первая партия по предзаказам будет отправлена 29 июня. Подготовлены четыре комплектации: Steam Machine 512GB ($1049), Steam Machine 512GB + Steam Controller ($1128), Steam Machine 2TB ($1349) и Steam Machine 2TB + Steam Controller ($1428).
-https://www.opennet.ru/opennews/art.shtml?num=65745</description>
+      <description>Компания Canonical объявила о расширении сервиса Livepatch на системы с Ubuntu 26.04 LTS и Ubuntu Core 26, использующие процессоры на базе архитектуры ARM64. Ранее Live-патчи распространялись только для архитектуры x86_64, так как в ядре Linux для архитектуры ARM64 отсутствовала поддержка надёжных трассировок стека (CONFIG_HAVE_RELIABLE_STACKTRACE) для выявления активности, связанной с обработкой прерываний, а в инструментарии objtool и kpatch отсутствовали полноценные возможности для оценки состояния до и после применения патча. На реализацию проекта и переработку инфраструктуры для использования live-патчей на системах ARM64 было потрачено три года.</description>
     </item>
     
     <item>
