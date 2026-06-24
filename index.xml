@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 01:37:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 02:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск минималистичного набора системных утилит Toybox 0.8.14</title>
+      <title>Проект nginx опубликовал JavaScript-модуль njs 1.0.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 25 Jun 2026 01:37:50 +0500</pubDate>
+      <pubDate>Thu, 25 Jun 2026 02:37:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз набора системных утилит Toybox 0.8.14, оптимизированного для минимального потребления системных ресурсов. По аналогии с BusyBox все утилиты набора доступны через один исполняемый файл. Проект развивается бывшим мэйнтейнером BusyBox, написан на языке Си и распространяется под лицензией 0BSD. Целью создания Toybox является предоставление производителям возможности использования минималистичного набора стандартных утилит без открытия исходных текстов модифицированных компонентов. По возможностям Toybox пока отстаёт от BusyBox, но уже реализовано 319 базовых команд (236 полностью и 83 частично) из 395 запланированных.</description>
+      <description>Опубликован выпуск njs 1.0.0, модуля для интеграции интерпретатора языка JavaScript в http-сервер nginx. Njs позволяет использовать сценарии JavaScript в файлах конфигурации для расширения возможностей nginx. Скрипты могут использоваться для определения расширенной логики обработки запросов, формирования конфигурации, динамической генерации ответов, модификации запроса/ответа или быстрого создания заглушек с решением проблем в web-приложениях. Код проекта написан на Си и распространяется под лицензией BSD.
+https://www.opennet.ru/opennews/art.shtml?num=65761</description>
     </item>
     
     <item>
