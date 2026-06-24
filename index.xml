@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 18:37:31 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jun 2026 21:38:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступна среда рабочего стола COSMIC 1.1.0</title>
+      <title>Однострочное изменение в GCC привело к ускорению на 12% в одном тесте и замедлению на 14% в другом</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 24 Jun 2026 18:37:31 +0500</pubDate>
+      <pubDate>Wed, 24 Jun 2026 21:38:13 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала выпуск среды рабочего стола COSMIC 1.1.0. Пакеты с COSMIC 1.1.0 доступны в дистрибутиве Pop!_OS 24.04 и в ближайшее время ожидаются в Fedora, NixOS, Arch Linux, openSUSE, Aeyrin OS, Redox и CachyOS.
-https://www.opennet.ru/opennews/art.shtml?num=65756</description>
+      <description>Инженер из компании Intel внёс в набор компиляторов GCC однострочное изменение, увеличивающее вес неверного предсказания ветвления на процессорах x86. Изменение позволило повысить производительность генерируемого кода при прохождении теста 544.nab_r на 12.7% при включении в оптимизаций &amp;ldquo;-O2 -mtune=graniterapids&amp;rdquo; для CPU Intel Granite Rapids/Xeon 6 и на 12.1% при включении в оптимизаций &amp;ldquo;-O2 -mtune=znver5&amp;rdquo; на CPU AMD Zen5.
+https://www.opennet.ru/opennews/art.shtml?num=65757</description>
     </item>
     
     <item>
