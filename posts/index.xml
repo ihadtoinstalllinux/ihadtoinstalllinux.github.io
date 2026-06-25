@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 13:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Fedora вводит обязательную двухфакторную аутентификацию для привилегированных сопровождающих</title>
+      <title>Доступен дистрибутив KaOS 2026.06, перешедший с systemd на систему инициализации Dinit</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 25 Jun 2026 12:37:55 +0500</pubDate>
+      <pubDate>Thu, 25 Jun 2026 13:38:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Комитет FESCo (Fedora Engineering Steering Committee), отвечающий за техническую часть разработки Fedora Linux, принял решение о введении обязательной двухфакторной аутентификации для всех участников из группы provenpackager, имеющих право коммита в репозитории, в котором осуществляется сопровождение и разработка пакетов. В отличие от участников, имеющих доступ к разработке конкретных пакетов, члены группы provenpackager могут вносить изменения в любые пакеты, не являясь их сопровождающими или владельцами. Отношение к применению двухфакторной аутентификации, которое до сих пор носило рекомендательный харакетр, было пересмотрено после инцидента с захватом учётной записи одного из разработчиков и осуществления действий от его имени.</description>
+      <description>Опубликован выпуск KaOS 2026.06, дистрибутива с непрерывной моделью обновления, нацеленного на предоставление рабочего стола c приложениями на основе Qt. Из специфичных особенностей оформления можно отметить размещение вертикальной панели в правой стороне экрана. Дистрибутив развивается с оглядкой на Arch Linux, но поддерживает собственный независимый репозиторий, насчитывающий более 1500 пакетов, а также предлагает ряд собственных графических утилит. В качестве файловой системы по умолчанию применяется XFS. Для инициализации и управления сервисами применяется Dinit. Сборки публикуются для систем x86_64 (4.</description>
     </item>
     
     <item>
