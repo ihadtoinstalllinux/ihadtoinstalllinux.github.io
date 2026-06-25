@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 13:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 15:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен дистрибутив KaOS 2026.06, перешедший с systemd на систему инициализации Dinit</title>
+      <title>Первый выпуск QSOE, операционной системы в стиле QNX с двумя заменяемыми микроядрами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 25 Jun 2026 13:38:05 +0500</pubDate>
+      <pubDate>Thu, 25 Jun 2026 15:37:52 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск KaOS 2026.06, дистрибутива с непрерывной моделью обновления, нацеленного на предоставление рабочего стола c приложениями на основе Qt. Из специфичных особенностей оформления можно отметить размещение вертикальной панели в правой стороне экрана. Дистрибутив развивается с оглядкой на Arch Linux, но поддерживает собственный независимый репозиторий, насчитывающий более 1500 пакетов, а также предлагает ряд собственных графических утилит. В качестве файловой системы по умолчанию применяется XFS. Для инициализации и управления сервисами применяется Dinit. Сборки публикуются для систем x86_64 (4.</description>
+      <description>Представлен первый релиз операционной системы QSOE, спроектированной в стиле QNX и поставляемой с двумя заменяемыми микроядрами &amp;ldquo;Skimmer&amp;rdquo; и &amp;ldquo;seL4&amp;rdquo;. На уровне ядра выполняются только система распределения ресурсов, механизм синхронного обмена сообщениями (QNX IPC) и минималистичное ядро, а все остальные компоненты, реализованы в пользовательском пространстве. Поддерживается работа на 64-разрядных CPU с архитектурой RISC-V. ОС протестирована на плате SiFive HiFive Unmatched и в QEMU. Код проекта написан на языке Си и распространяется под лицензией Apache 2.</description>
     </item>
     
     <item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>QNX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qnx/</link>
+    <description>Recent content in QNX on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 15:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qnx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Первый выпуск QSOE, операционной системы в стиле QNX с двумя заменяемыми микроядрами</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлен первый релиз операционной системы QSOE, спроектированной в стиле QNX и поставляемой с двумя заменяемыми микроядрами &amp;ldquo;Skimmer&amp;rdquo; и &amp;ldquo;seL4&amp;rdquo;. На уровне ядра выполняются только система распределения ресурсов, механизм синхронного обмена сообщениями (QNX IPC) и минималистичное ядро, а все остальные компоненты, реализованы в пользовательском пространстве. Поддерживается работа на 64-разрядных CPU с архитектурой RISC-V. ОС протестирована на плате SiFive HiFive Unmatched и в QEMU. Код проекта написан на языке Си и распространяется под лицензией Apache 2.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
