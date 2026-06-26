@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Firefox on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/firefox/</link>
+    <description>Recent content in Firefox on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 10:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firefox 152.0.3 с устранением регрессии в 152.0.2, приводящей к зависанию</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Сформировано экстренное корректирующее обновление Firefox 152.0.3, в котором устранена ошибка, приводящая к зависанию при запуске и бесконтрольному потреблению оперативной памяти (~10 ГБ сразу после запуска) в конфигурациях с установленными языковыми пакетами. Сбой проявляется только выпуске Firefox 152.0.2 и вызван регрессией, возникшей из-за некорректного исправления в версии 152.0.2 ошибки, приводившей к несоответствию локали в виджетах на новой вкладке после изменения языка в настройках. В версии 152.0.2 регрессия привела к зацикленной пепегенерации кэша локализации при каждом запросе во время формирования содержимого страницы новой вкладки при активном языковом пакете.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
