@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 12:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 22:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск DXVK 3.0, реализации Direct3D 8/9/10/11 поверх API Vulkan</title>
+      <title>Проект Akrites для координации оперативного устранения уязвимостей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 26 Jun 2026 12:37:58 +0500</pubDate>
+      <pubDate>Fri, 26 Jun 2026 22:38:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск прослойки DXVK 3.0, предоставляющей реализацию DXGI (DirectX Graphics Infrastructure), Direct3D 8, 9, 10 и 11, работающую через трансляцию вызовов в API Vulkan. Для использования DXVK требуется наличие драйверов с поддержкой API Vulkan 1.4, таких как NVIDIA 575.51.02, Mesa AMD RADV 25.0, NVIDIA 25.1 и Intel ANV 25.1. DXVK может применяться для запуска 3D-приложений и игр в Linux при помощи Wine, выступая в качестве более высокопроизводительной альтернативы встроенных в Wine реализаций Direct3D, работающих поверх OpenGL.</description>
+      <description>Анонсирован проект Akrites для координации исправления уязвимостей и раскрытия информации об уязвимостях в критически важном открытом ПО.
+https://www.opennet.ru/opennews/art.shtml?num=65782</description>
     </item>
     
     <item>
