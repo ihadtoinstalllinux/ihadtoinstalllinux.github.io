@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 12:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jun 2026 16:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен композитный сервер Nourish 1.0.0</title>
+      <title>Раскрыты эксплоиты для 23 неисправленных уязвимостей в FFmpeg, VLC, Firefox, Docker, PHP, OpenVPN, nmap, libssh2, nghttp2 и 7zip</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 28 Jun 2026 12:37:35 +0500</pubDate>
+      <pubDate>Sun, 28 Jun 2026 16:38:05 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз композитного сервера Nourish 1.0.0, использующего для размещения окон безразмерное рабочее пространтво, не ограниченное границами экрана, по которому можно произвольно перемещаться, панорамировать, приближать/отдалять окна без потери читаемости содержимого. Для отрисовки используется графический API Vulkan с возможностью отката на OpenGL. В композитном сервере задействован протокол Wayland и расширение fractional-scale для избежания размытия содержимого при масштабировании окон. Возможна работа на системах с видеокартами NVIDIA, Intel и AMD, поддерживаемых в Mesa Код проекта написан на языке Rust и распространяется под лицензиями MIT и Apache 2.</description>
+      <description>Анонимный исследователь безопасности опубликовал в открытом доступе прототипы 23 эксплоитов, в которых задействованы ещё не исправленные (0-day) уязвимости в таких проектах, как FFmpeg, VLC, Firefox, Docker, PHP, OpenVPN, nmap, libssh2, nghttp2, 7zip, Ghidra, Gitea, c-ares, Floci, Flowise, ImageMagick, Lunar Client, MyBB, objdump и RustDesk. Уязвимости были выявлены в результате fuzzing-тестирования проектов с привлечением AI-модели GPT-5.5-3-Codex-Spark. Утверждается, что эксплоиты, за исключением эксплоита к RustDesk, были написаны вручную, но вся сопроводительная документация к ним сгенерирована через AI.</description>
     </item>
     
     <item>
