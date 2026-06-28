@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 16:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 01:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Раскрыты эксплоиты для 23 неисправленных уязвимостей в FFmpeg, VLC, Firefox, Docker, PHP, OpenVPN, nmap, libssh2, nghttp2 и 7zip</title>
+      <title>Автор LuaJIT вернулся к разработке и планирует выпуск LuaJIT 3.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 28 Jun 2026 16:38:05 +0500</pubDate>
+      <pubDate>Mon, 29 Jun 2026 01:37:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Анонимный исследователь безопасности опубликовал в открытом доступе прототипы 23 эксплоитов, в которых задействованы ещё не исправленные (0-day) уязвимости в таких проектах, как FFmpeg, VLC, Firefox, Docker, PHP, OpenVPN, nmap, libssh2, nghttp2, 7zip, Ghidra, Gitea, c-ares, Floci, Flowise, ImageMagick, Lunar Client, MyBB, objdump и RustDesk. Уязвимости были выявлены в результате fuzzing-тестирования проектов с привлечением AI-модели GPT-5.5-3-Codex-Spark. Утверждается, что эксплоиты, за исключением эксплоита к RustDesk, были написаны вручную, но вся сопроводительная документация к ним сгенерирована через AI.</description>
+      <description>Майкл Полл (Mike Pall), создатель JIT-компилятора LuaJIT, отошедший от активной разработки проекта в 2015 году и ограничивавшийся с тех пор редким сопровождением ветки 2.1, вернулся к активной работе над проектом и опубликовал план синтаксических расширений будущей ветки LuaJIT 3.0.
+https://www.opennet.ru/opennews/art.shtml?num=65795</description>
     </item>
     
     <item>
