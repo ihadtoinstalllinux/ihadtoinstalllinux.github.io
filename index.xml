@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 00:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз античит-инструментария TLAC 2.0</title>
+      <title>Проблемы с удалением protestware из Debian-пакета xsnow</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 29 Jun 2026 17:38:09 +0500</pubDate>
+      <pubDate>Tue, 30 Jun 2026 00:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск проекта TLAC 2.0 (Tuncor Local Anti-Cheat), развивающего открытую античит-систему для Linux, работающую в пространстве пользователя. Для выявления вмешательства в выполнение игровых процессов в TLAC применяется сканирование типовых шаблонов читов в памяти процесса при помощи ptrace и procfs. Поддерживаются такие возможности как поиск по маскам, контроль целостности по хэшам SHA256, аппаратная блокировка при помощи HWID и хранение настроек в формате JSON. Код написан на языке Rust с использованием асинхронного фреймворка Tokio для IPC и распространяется под лицензией MIT.</description>
+      <description>В приложение xsnow, реализующее эффект падающего снега на рабочем столе, осуществлена подстановка скрытого изменения, с вероятностью 2% показывающего украинский флаг. Для пользователей с русской локалью вероятность показа флага увеличивается до 30%. Подобная активность присутствует и в Debian-пакете xsnow, поставляемом в репозитории Debian 13.
+https://www.opennet.ru/opennews/art.shtml?num=65803</description>
     </item>
     
     <item>
