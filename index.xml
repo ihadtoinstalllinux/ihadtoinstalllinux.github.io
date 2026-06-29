@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:37:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 17:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Slackel 9.0 </title>
+      <title>Релиз античит-инструментария TLAC 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 29 Jun 2026 16:37:25 +0500</pubDate>
+      <pubDate>Mon, 29 Jun 2026 17:38:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск дистрибутива Slackel 9.0, построенного на наработках проектов Slackware и Salix, и полностью совместимого с предлагаемыми в них репозиториями. Ключевым отличием Slackel является использование постоянно обновляемой ветки Slackware-Current. Графическое окружение основано на среде рабочего стола MATE. Размер загрузочного образа, способного работать в Live-режиме, 4.2 ГБ (i386 и x86_64). Поддерживается установка на внешние USB-накопители с возможностью сохранения изменений на том же накопителе и обновления пакетов.
-https://www.opennet.ru/opennews/art.shtml?num=65799</description>
+      <description>Доступен выпуск проекта TLAC 2.0 (Tuncor Local Anti-Cheat), развивающего открытую античит-систему для Linux, работающую в пространстве пользователя. Для выявления вмешательства в выполнение игровых процессов в TLAC применяется сканирование типовых шаблонов читов в памяти процесса при помощи ptrace и procfs. Поддерживаются такие возможности как поиск по маскам, контроль целостности по хэшам SHA256, аппаратная блокировка при помощи HWID и хранение настроек в формате JSON. Код написан на языке Rust с использованием асинхронного фреймворка Tokio для IPC и распространяется под лицензией MIT.</description>
     </item>
     
     <item>
