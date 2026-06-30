@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 14:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Новые версии Wine 11.12 и Wine-staging 11.12 </title>
+      <title>Выпуск Git 2.55 c включением по умолчанию поддержки Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 30 Jun 2026 10:38:05 +0500</pubDate>
+      <pubDate>Tue, 30 Jun 2026 14:37:34 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.12. С момента выпуска 11.11 было закрыто 27 отчётов об ошибках и внесено 228 изменений.
-https://www.opennet.ru/opennews/art.shtml?num=65807</description>
+      <description>Представлен релиз распределенной системы управления исходными текстами Git 2.55. Среди ключевых изменений: включение по умолчанию сборки с Rust, реализация для Linux процесса fsmonitor, новая стратегия переупаковки инкрементального MIDX-индекса, команда &amp;ldquo;git history fixup&amp;rdquo; для исправления коммита, оптимизация генерации битовых карт доступности объектов, поддержка параллельного выполнения hook-ов, команда &amp;ldquo;git format-rev&amp;rdquo;. Код Git распространяется под лицензией GPLv2+.
+https://www.opennet.ru/opennews/art.shtml?num=65808</description>
     </item>
     
     <item>
