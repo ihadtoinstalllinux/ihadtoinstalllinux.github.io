@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:38:05 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 01:37:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Система трассировки лучей, реализованная на языке SQL</title>
+      <title>В мобильной платформе ALT Mobile появилась поддержка смартфонов OnePlus 6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 02 Jul 2026 00:38:05 +0500</pubDate>
+      <pubDate>Thu, 02 Jul 2026 01:37:21 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Алексей Миловидов, сооснователь СУБД ClickHouse, при содействии AI-ассистента Claude опубликовал систему трассировки лучей, реализованную целиком на языке SQL. Рендеринг с симуляцией освещения на базе трассировки путей реализован в виде одного SQL-запроса без пользовательских функций (UDF) и без подключения внешнего кода. Для вывода графики используется возможность СУБД ClickHouse, сохранять результат запросов в формате PNG. Полноценно проект работоспособен при запуске в СУБД ClickHouse, но с отдельными ошибками и в 33 раза медленнее может работать в СУБД CedarDB.</description>
+      <description>В мобильной платформе ALT Mobile (&amp;ldquo;Альт Мобильный&amp;rdquo;), построенной на пакетной базе репозитория Сизиф и поставляемой с GNOME-оболочкой для смартфонов Phosh, реализована поддержка смартфонов OnePlus 6 и OnePlus 6T, построенных на SoC Qualcomm Snapdragon 845. Весь исходный код проекта открыт - от профиля сборки до пакетов, входящих в дистрибутив. Для загрузки сформирован системный образ для OnePlus 6/6T и образы с загрузчиком U-Boot (OnePlus 6, OnePlus 6T).
+https://www.opennet.ru/opennews/art.shtml?num=65821</description>
     </item>
     
     <item>
