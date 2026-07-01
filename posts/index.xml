@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 12:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск VirtualBox 7.2.12 с устранением проблемы, приводящей к зависанию хостовой системы</title>
+      <title>Второй альфа-выпуск мессенджера Pidgin 3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 01 Jul 2026 11:37:30 +0500</pubDate>
+      <pubDate>Wed, 01 Jul 2026 12:37:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.12, в котором представлено 3 изменения. В дополнениях для хост-окружений с Linux устранена проблема, приводившая к сбою на уровне ядра Linux с переводом ядра в состояние Panic или зависанию системы при запуске виртуальной машины. Зависание проявляется при использовании VirtualBox 7.2.10 у пользователей Debian 13, Arch Linux, Linux Mint, Fedora 44 и других дистрибутивов, в которых при загрузке модуля kvm выставляется опция &amp;ldquo;enable_virt_at_load=0&amp;rdquo;.</description>
+      <description>Представлен второй альфа-выпуск клиента для мгновенного обмена сообщениями Pidgin 3.0 (2.96). Выпуск отмечен как ещё не готовый для повседневного применения. Сборки подготовлены в формате Flatpak и размещены в beta-репозитории на Flathub.
+https://www.opennet.ru/opennews/art.shtml?num=65816</description>
     </item>
     
     <item>
