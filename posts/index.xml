@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 12:37:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива ArchBang Linux 010726</title>
+      <title>В Fedora 45 намерены включить защиту на основе теневого стека</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 02 Jul 2026 11:37:41 +0500</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:37:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз легковесного Linux-дистрибутива ArchBang 010726, основанного на наработках Arch Linux и предоставляющего интерфейс пользователя на базе композитного менеджера MangoWM. Дистрибутив предлагает непрерывный цикл выпуска обновлений, позволяющий всегда работать с самыми последними версиями программ из репозиториев Arch Linux. Размер iso-образа 1.4 ГБ.
-https://www.opennet.ru/opennews/art.shtml?num=65824</description>
+      <description>В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C++), clang (C, C++) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux.</description>
     </item>
     
     <item>
