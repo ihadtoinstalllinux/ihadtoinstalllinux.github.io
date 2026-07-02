@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>В Fedora 45 намерены включить защиту на основе теневого стека | iHADtoinstalllinux</title>
-<meta name="keywords" content="Fedora" />
-<meta name="description" content="В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C&#43;&#43;), clang (C, C&#43;&#43;) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux.">
+<title>Linux портирован для игровых приставок Sega MegaDrive | iHADtoinstalllinux</title>
+<meta name="keywords" content="Linux, Sega, MegaDrive" />
+<meta name="description" content="Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с Sega Master System. Загрузка Linux на приставке реализована при использовании картриджей Mega EverDrive &ldquo;Core&rdquo; и &ldquo;Pro&rdquo;, позволяющих запускать игры с SD-карты и оснащённые USB-портом.">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +57,16 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="В Fedora 45 намерены включить защиту на основе теневого стека" />
-<meta property="og:description" content="В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C&#43;&#43;), clang (C, C&#43;&#43;) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux." />
+</noscript><meta property="og:title" content="Linux портирован для игровых приставок Sega MegaDrive" />
+<meta property="og:description" content="Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с Sega Master System. Загрузка Linux на приставке реализована при использовании картриджей Mega EverDrive &ldquo;Core&rdquo; и &ldquo;Pro&rdquo;, позволяющих запускать игры с SD-карты и оснащённые USB-портом." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-07-02T12:37:50&#43;05:00" />
-<meta property="article:modified_time" content="2026-07-02T12:37:50&#43;05:00" />
+<meta property="article:published_time" content="2026-07-02T13:37:23&#43;05:00" />
+<meta property="article:modified_time" content="2026-07-02T13:37:23&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="В Fedora 45 намерены включить защиту на основе теневого стека"/>
-<meta name="twitter:description" content="В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C&#43;&#43;), clang (C, C&#43;&#43;) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux."/>
+<meta name="twitter:title" content="Linux портирован для игровых приставок Sega MegaDrive"/>
+<meta name="twitter:description" content="Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с Sega Master System. Загрузка Linux на приставке реализована при использовании картриджей Mega EverDrive &ldquo;Core&rdquo; и &ldquo;Pro&rdquo;, позволяющих запускать игры с SD-карты и оснащённые USB-портом."/>
 
 
 <script type="application/ld+json">
@@ -83,7 +83,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "В Fedora 45 намерены включить защиту на основе теневого стека",
+      "name": "Linux портирован для игровых приставок Sega MegaDrive",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +93,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "В Fedora 45 намерены включить защиту на основе теневого стека",
-  "name": "В Fedora 45 намерены включить защиту на основе теневого стека",
-  "description": "В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C++), clang (C, C++) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux.",
+  "headline": "Linux портирован для игровых приставок Sega MegaDrive",
+  "name": "Linux портирован для игровых приставок Sega MegaDrive",
+  "description": "Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с Sega Master System. Загрузка Linux на приставке реализована при использовании картриджей Mega EverDrive \u0026ldquo;Core\u0026rdquo; и \u0026ldquo;Pro\u0026rdquo;, позволяющих запускать игры с SD-карты и оснащённые USB-портом.",
   "keywords": [
-    "Fedora"
+    "Linux", "Sega", "MegaDrive"
   ],
-  "articleBody": "В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C++), clang (C, C++) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux. Инициатором включения теневого стека в Fedora является Арджун Шанкар (Arjun Shankar) из компании Red Hat, сопровождающий пакеты с glibc в Fedora и RHEL.\nhttps://www.opennet.ru/opennews/art.shtml?num=65825\n",
-  "wordCount" : "98",
+  "articleBody": "Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с Sega Master System. Загрузка Linux на приставке реализована при использовании картриджей Mega EverDrive “Core” и “Pro”, позволяющих запускать игры с SD-карты и оснащённые USB-портом.\nhttps://www.opennet.ru/opennews/art.shtml?num=65826\n",
+  "wordCount" : "74",
   "inLanguage": "en",
-  "datePublished": "2026-07-02T12:37:50+05:00",
-  "dateModified": "2026-07-02T12:37:50+05:00",
+  "datePublished": "2026-07-02T13:37:23+05:00",
+  "dateModified": "2026-07-02T13:37:23+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,21 +195,23 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      В Fedora 45 намерены включить защиту на основе теневого стека
+      Linux портирован для игровых приставок Sega MegaDrive
     </h1>
-    <div class="post-meta"><span title='2026-07-02 12:37:50 +0500 +05'>July 2, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-07-02 13:37:23 +0500 +05'>July 2, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>В выпуске Fedora Linux 45, намеченном на осень 2026 года, на системах x86_64 планируют   по умолчанию включить использование теневого стека (shadow stack) для блокирования работы эксплоитов, перезаписывающих адрес возврата функций в случае переполнения буфера в стеке. Защиту намерены активировать для всех приложений и библиотек, собранных при помощи компиляторов gcc (C, C++), clang (C, C++) и rustc (Rust). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux. Инициатором включения теневого стека в Fedora является Арджун Шанкар (Arjun Shankar) из компании Red Hat, сопровождающий пакеты с glibc в Fedora и RHEL.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65825">https://www.opennet.ru/opennews/art.shtml?num=65825</a></p>
+  <div class="post-content"><p>Опубликован первый выпуск проекта LinuxMD, развивающего порт Linux для игровых приставок Sega MegaDrive, выпущенных в 1988 году. Приставки были оснащены 72 Кб ОЗУ и поставлялись с двумя процессорами: Motorola 68000 (7.6 МГц, 16-разрядный АЛУ c 32-разрядной адресацией) для основных вычислений и Zilog Z80 (3.58 МГц, 8-разрядный) для совместимости с  Sega Master System. Загрузка  Linux на приставке реализована при использовании картриджей Mega EverDrive &ldquo;Core&rdquo; и &ldquo;Pro&rdquo;, позволяющих запускать игры с SD-карты и оснащённые USB-портом.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65826">https://www.opennet.ru/opennews/art.shtml?num=65826</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/fedora/">Fedora</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/linux/">Linux</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/sega/">Sega</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/megadrive/">MegaDrive</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
