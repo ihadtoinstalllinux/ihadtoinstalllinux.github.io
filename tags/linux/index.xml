@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 18:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 18:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Компания Qualcomm опубликовала дистрибутив Qualcomm Linux 2.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Qualcomm представила Linux-дистрибутив Qualcomm Linux 2.0, предоставляющий программный стек, оптимизированный для IoT-платформ Qualcomm Dragonwing. Проект реализует унифицированный дистрибутив, позволяющий быстро создавать решения для различных SoC Qualcomm, таких как QCS5430, QCS6490, IQ-8275, IQ-9075 и IQ-615. В качестве основы в Qualcomm Linux задействован инструментарий и мета-пакеты от проектов Yocto и OpenEmbedded, дополненные патчами, драйверами, прошивками, пакетами и файлами конфигурации для поддержки специфичных аппаратных блоков, применяемых в чипах Qualcomm.
 https://www.opennet.ru/opennews/art.shtml?num=65828</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
