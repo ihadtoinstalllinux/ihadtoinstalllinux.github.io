@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 02:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 10:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В игровом движке Godot запретят приём изменений, сгенерированных при помощи AI </title>
+      <title>Выпуск утилиты для проверки целостности файлов Precizer 0.16.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 02 Jul 2026 02:37:15 +0500</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:38:09 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация Godot Foundation анонсировала ужесточение правил приёма изменений в открытый игровой движок Godot. При разработке Godot решено полностью запретить использование автономных AI-агентов или вайб-кодинга, а также генерации значительных фрагментов кода при помощи AI. Весь код должен создаваться человеком, а использование AI допускается лишь для выполнения рутинных операций при разработке, таких как автодополнение кода и поиск/замена). В случае задействования AI при написании кода, требуется раскрытие этой информации в обсуждении pull-запроса.
-https://www.opennet.ru/opennews/art.shtml?num=65819</description>
+      <description>Опубликован выпуск Precizer 0.16.0, консольной утилиты Precizer, предназначенной для проверки целостности больших деревьев файлов и выявления расхождений после синхронизации данных. Код проекта написан на языке Си и распространяется под лицензией GPLv3. Готовые сборки ранее были доступны для Linux и macOS, а ключевым изменением нового выпуска стала экспериментальная поддержка Windows.
+https://www.opennet.ru/opennews/art.shtml?num=65823</description>
     </item>
     
     <item>
