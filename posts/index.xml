@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 01:38:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Регрессия в ядре Linux 7.0, существенно снижающая производительность приложений, использующих AMD ROCm</title>
+      <title>Линус Торвальдс поддержал право использовать AI-инструменты при разработке ядра</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Jul 2026 00:37:30 +0500</pubDate>
+      <pubDate>Fri, 17 Jul 2026 01:38:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Инженеры из компании Canonical предупредили о наличии регрессий в предстоящем обновлении пакета с ядром 7.0.0-28.28, которое будет доставлено пользователям Ubuntu 26.04 и Ubuntu 24.04. Регрессия проявляется при использовании драйвера amdgpu и приводит к существенному снижению производительности некоторых приложений, использующих стек AMD ROCm. Например, из-за регрессии время выполнения модели Stable Diffusion XL (SDXL) при помощи ComfyUI замедлилась в 42 раза (с 9 секунд до 388 секунд).
-https://www.opennet.ru/opennews/art.shtml?num=65916</description>
+      <description>Линус Торвальдс прокомментировал попытки обсудить запрет на применение AI-инструментов в разработке ядра Linux. Официальная позиция в том, что ядро Linux, как проект, не против использования AI. AI рассматривается как инструмент, упрощающий работу над кодом, такой же как и любые другие инструменты. Использование AI личное дело каждого разработчика и фактором при приёме изменений является качество кода, а не то, какие инструменты использовались для создания этого кода.
+https://www.opennet.ru/opennews/art.shtml?num=65913</description>
     </item>
     
     <item>
