@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 00:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива для создания межсетевых экранов OPNsense 26.7</title>
+      <title>Регрессия в ядре Linux 7.0, существенно снижающая производительность приложений, использующих AMD ROCm</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 16 Jul 2026 22:37:35 +0500</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:37:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз дистрибутива для создания межсетевых экранов OPNsense 26.7, который в 2015 году отделился от проекта pfSense с целью разработки полностью открытого дистрибутива, который мог бы обладать функциональностью на уровне коммерческих решений для развёртывания межсетевых экранов и сетевых шлюзов. В отличие от pfSense проект позиционируется как неподконтрольный одной компании, развиваемый при непосредственном участии сообщества и обладающий полностью прозрачным процессом разработки, а также предоставляющий возможность использования любых своих наработок в сторонних продуктах, в том числе коммерческих.</description>
+      <description>Инженеры из компании Canonical предупредили о наличии регрессий в предстоящем обновлении пакета с ядром 7.0.0-28.28, которое будет доставлено пользователям Ubuntu 26.04 и Ubuntu 24.04. Регрессия проявляется при использовании драйвера amdgpu и приводит к существенному снижению производительности некоторых приложений, использующих стек AMD ROCm. Например, из-за регрессии время выполнения модели Stable Diffusion XL (SDXL) при помощи ComfyUI замедлилась в 42 раза (с 9 секунд до 388 секунд).
+https://www.opennet.ru/opennews/art.shtml?num=65916</description>
     </item>
     
     <item>
