@@ -5,10 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии | iHADtoinstalllinux</title>
-<meta name="keywords" content="PuTTY" />
-<meta name="description" content="Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.
-https://www.opennet.ru/opennews/art.shtml?num=65918">
+<title>OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang | iHADtoinstalllinux</title>
+<meta name="keywords" content="OpenBSD, Loongson, Clang" />
+<meta name="description" content="Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.
+https://www.opennet.ru/opennews/art.shtml?num=65919">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -58,18 +58,18 @@ https://www.opennet.ru/opennews/art.shtml?num=65918">
         }
 
     </style>
-</noscript><meta property="og:title" content="Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии" />
-<meta property="og:description" content="Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.
-https://www.opennet.ru/opennews/art.shtml?num=65918" />
+</noscript><meta property="og:title" content="OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang" />
+<meta property="og:description" content="Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.
+https://www.opennet.ru/opennews/art.shtml?num=65919" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-07-17T10:37:29&#43;05:00" />
-<meta property="article:modified_time" content="2026-07-17T10:37:29&#43;05:00" />
+<meta property="article:published_time" content="2026-07-17T11:38:07&#43;05:00" />
+<meta property="article:modified_time" content="2026-07-17T11:38:07&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии"/>
-<meta name="twitter:description" content="Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.
-https://www.opennet.ru/opennews/art.shtml?num=65918"/>
+<meta name="twitter:title" content="OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang"/>
+<meta name="twitter:description" content="Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.
+https://www.opennet.ru/opennews/art.shtml?num=65919"/>
 
 
 <script type="application/ld+json">
@@ -86,7 +86,7 @@ https://www.opennet.ru/opennews/art.shtml?num=65918"/>
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии",
+      "name": "OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -96,17 +96,17 @@ https://www.opennet.ru/opennews/art.shtml?num=65918"/>
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии",
-  "name": "Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии",
-  "description": "Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.\nhttps://www.opennet.ru/opennews/art.shtml?num=65918",
+  "headline": "OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang",
+  "name": "OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang",
+  "description": "Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.\nhttps://www.opennet.ru/opennews/art.shtml?num=65919",
   "keywords": [
-    "PuTTY"
+    "OpenBSD", "Loongson", "Clang"
   ],
-  "articleBody": "Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.\nhttps://www.opennet.ru/opennews/art.shtml?num=65918\n",
-  "wordCount" : "50",
+  "articleBody": "Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.\nhttps://www.opennet.ru/opennews/art.shtml?num=65919\n",
+  "wordCount" : "65",
   "inLanguage": "en",
-  "datePublished": "2026-07-17T10:37:29+05:00",
-  "dateModified": "2026-07-17T10:37:29+05:00",
+  "datePublished": "2026-07-17T11:38:07+05:00",
+  "dateModified": "2026-07-17T11:38:07+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -198,21 +198,23 @@ https://www.opennet.ru/opennews/art.shtml?num=65918"/>
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии
+      OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang
     </h1>
-    <div class="post-meta"><span title='2026-07-17 10:37:29 +0500 +05'>July 17, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-07-17 11:38:07 +0500 +05'>July 17, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными  из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65918">https://www.opennet.ru/opennews/art.shtml?num=65918</a></p>
+  <div class="post-content"><p>Из OpenBSD удалена поддержка платформы Loongson,  добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с  использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=65919">https://www.opennet.ru/opennews/art.shtml?num=65919</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/putty/">PuTTY</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/openbsd/">OpenBSD</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/loongson/">Loongson</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/clang/">Clang</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">

@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 10:37:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 11:38:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Альтернативная расширенная сборка PuTTY, поддерживающая файловые сессии</title>
+      <title>OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Jul 2026 10:37:29 +0500</pubDate>
+      <pubDate>Fri, 17 Jul 2026 11:38:07 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликована альтернативная сборка SSH-клиента PuTTY 0.84, дополненная некоторыми возможностями, перенесёнными из форка KiTTY, разработка которого была прекращена три года назад. Перенос функциональности из KiTTY в актуальную кодовую базу PuTTY практически полностью был реализован с помощью ChatGPT/Codex. Изменения касаются только интерфейса и удобства использования, без вмешательства в основную логику PuTTY.
-https://www.opennet.ru/opennews/art.shtml?num=65918</description>
+      <description>Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.
+https://www.opennet.ru/opennews/art.shtml?num=65919</description>
     </item>
     
     <item>
