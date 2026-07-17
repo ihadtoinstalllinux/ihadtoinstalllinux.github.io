@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:38:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 12:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenBSD прекратил поддержку аппаратной платформы Loongson из-за регресии в Clang</title>
+      <title>Выпуск драйвера SpliX 2.0.2 для лазерных принтеров Samsung, Xerox и HP</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Jul 2026 11:38:07 +0500</pubDate>
+      <pubDate>Fri, 17 Jul 2026 12:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Из OpenBSD удалена поддержка платформы Loongson, добавленной в 2010 году для MIPS-совместимых китайских процессоров Loongson 2E и 2F. В качестве причины удаления отмечаются проблемы со сборкой для платформы mips64el в новых версиях компилятора Clang. После попытки выполнить самосборку clang 22 (сборка кода clang 22 с использованием компилятора clang 22) стали возникать аварийным завершения, которые не проявлялись при сборке clang 22 при помощи clang 19.
-https://www.opennet.ru/opennews/art.shtml?num=65919</description>
+      <description>После более двух лет со времени прошлого выпуска сформирован релиз проекта SpliX 2.0.2, развивающего интегрируемый с сервером печати CUPS драйвер для лазерных принтеров от компаний Samsung, Xerox и HP, поддерживающих язык описания страниц SPL (Samsung Printer Language), при использовании которого обработка документа перед печатью производится на пользовательском компьютере, а на принтер отправляется финальный макет. Поддерживаются совместимые с SPL2 и SPLc принтеры, к которым относятся почти все дешёвые лазерные принтеры Samsung и некоторые модели принтеров Xerox, Dell, Lexmark, HP и Toshiba, построенные на технологиях Samsung.</description>
     </item>
     
     <item>
