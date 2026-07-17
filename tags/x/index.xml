@@ -6,15 +6,15 @@
     <description>Recent content in X on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 16:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 01:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/x/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Представлены X-сервер Frame и рабочий стол CHasm, написанные на ассемблере</title>
+      <title>Илон Маск анонсировал открытие кода социальной сети X</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Jul 2026 16:38:06 +0500</pubDate>
+      <pubDate>Sat, 18 Jul 2026 01:38:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Frame развивает новый X-сервер, написанный целиком на ассемблере NASM для архитектуры x86_64 и предназначенный для работы в Linux без внешних зависимостей. Взаимодействие с ядром Linux, включая интерфейсы DRM/KMS и evdev, осуществляется напрямую через системные вызовы, без привлечения библиотек, таких как libc, Mesa и FreeType. Код Frame распространяется как общественное достояние. Разработка ведётся с привлечением AI-ассистента Claude Code.
-https://www.opennet.ru/opennews/art.shtml?num=65922</description>
+      <description>Илон Маск объявил, что после завершения рецензирования безопасности кодовой базы весь исходный код социальной сети X (Twitter), без исключений, будет опубликован в форме открытого проекта. Для подтверждения, что в инфраструктуре X используется именно тот открытый код, что был опубликован, будут привлечены сторонние проверяющие. По мнению Илона, полное доверие достижимо только при условии полной прозрачности процессов.
+https://www.opennet.ru/opennews/art.shtml?num=65924</description>
     </item>
     
   </channel>
