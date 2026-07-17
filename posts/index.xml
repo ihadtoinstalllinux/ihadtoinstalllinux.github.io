@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 13:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 16:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен Wayland 1.26</title>
+      <title>Представлены X-сервер Frame и рабочий стол CHasm, написанные на ассемблере</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 17 Jul 2026 13:37:37 +0500</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:38:06 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После четырёх месяцев разработки представлен стабильный релиз протокола, механизма межпроцессного взаимодействия и библиотек Wayland 1.26. Ветка 1.26 обратно совместима на уровне API и ABI с выпусками 1.x и содержит в основном исправления ошибок и незначительные обновления протокола. Наработки проекта распространяются под лицензией MIT. Эталонный композитный сервер Weston, предоставляющий код и рабочие примеры для использования Wayland в десктоп-окружениях и встраиваемых решениях, развивается в рамках отдельного цикла разработки.
-https://www.opennet.ru/opennews/art.shtml?num=65920</description>
+      <description>Проект Frame развивает новый X-сервер, написанный целиком на ассемблере NASM для архитектуры x86_64 и предназначенный для работы в Linux без внешних зависимостей. Взаимодействие с ядром Linux, включая интерфейсы DRM/KMS и evdev, осуществляется напрямую через системные вызовы, без привлечения библиотек, таких как libc, Mesa и FreeType. Код Frame распространяется как общественное достояние. Разработка ведётся с привлечением AI-ассистента Claude Code.
+https://www.opennet.ru/opennews/art.shtml?num=65922</description>
     </item>
     
     <item>
