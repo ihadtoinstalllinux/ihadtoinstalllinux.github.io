@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 02:37:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Возобновлена работа над ОС NextBSD, сочетающей технологии FreeBSD и macOS</title>
+      <title>Опубликован исходный код мессенджера MeetVap</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 19 Jul 2026 20:38:10 +0500</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:37:56 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Началась работа над возрождённым проектом NextBSD, нацеленным на создание операционной системы, использующей технологии macOS, такие как системный менеджер launchd, механизм межпроцессного взаимодействия Mach IPC и библиотека диспетчеризации параллельного выполнения задач libdispatch, поверх современной кодовой базы FreeBSD. Новая реализация создаётся заново, не используя кодовую базу старого проекта NextBSD, прекратившего существование 10 лет назад, но цели и реализуемые идеи у проектов совпадают.
-https://www.opennet.ru/opennews/art.shtml?num=65928</description>
+      <description>Опубликован исходный код MeetVap, кроссплатформенного мессенджера с клиентами для Android, iOS и Web. Помимо клиентских компонентов также открыта и серверная часть. Проект ориентирован на обеспечение конфиденциальности пользователей. Сообщения не хранятся на сервере после доставки, регистрация не требует номера телефона или адреса электронной почты. Поддерживаются личные и групповые чаты, голосовые и видеозвонки, обмен файлами, голосовыми сообщениями и геопозицией. Код доступен под лицензией AGPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=65933</description>
     </item>
     
     <item>
