@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>wiyci on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wiyci/</link>
+    <description>Recent content in wiyci on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 10:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wiyci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Доступен wiyci - сервис по анализу логов сборки пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Запущен сервис wiyci (The World Is Your CI) от автора проекта Repology. Сервис агрегирует логи сборки свободных проектов, находит в них индикаторы проблем, включая предупреждения компилятора и сломанные тесты, и представляет результат в виде, напоминающем интерфейс систем непрерывной интеграции. Идея в том, что сборка пакетов настоящих дистрибутивов покрывает большее разнообразие окружений, нежели обычные CI (которые, кроме того, используются не всеми проектами) и может выявить больше проблем, и закрыть слепое пятно в экосистеме СПО.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
