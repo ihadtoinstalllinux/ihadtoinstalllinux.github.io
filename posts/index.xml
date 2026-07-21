@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2026 15:37:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ОС NetBSD портирована на системы с процессорами Motorola 68000</title>
+      <title>Релиз сетевого конфигуратора NetworkManager 1.58.0 с поддержкой CLAT и GENEVE</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 21 Jul 2026 13:37:47 +0500</pubDate>
+      <pubDate>Tue, 21 Jul 2026 15:37:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики операционной системы NetBSD представили новый порт hb68k, в котором реализована поддержка систем на базе процессоров Motorola 680x0, разработанных в 1979 году. В настоящее время подобные процессоры продолжают использоваться в конструкторах для самостоятельной домашней сборки компьютеров и обучения проектированию электронных устройств. Порт также может оказаться полезен любителям ретро систем, например, можно отметить недавние инициативы по запуску Linux на игровых приставках Atari Jaguar и Sega MegaDrive, оснащённых CPU Motorola 68000.
-https://www.opennet.ru/opennews/art.shtml?num=65942</description>
+      <description>Опубликован стабильный релиз интерфейса для упрощения настройки параметров сети - NetworkManager 1.58.0. Плагины для поддержки VPN (Libreswan, OpenConnect, Openswan, SSTP и др.) развиваются в рамках собственных циклов разработки.
+https://www.opennet.ru/opennews/art.shtml?num=65943</description>
     </item>
     
     <item>
