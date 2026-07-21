@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>GNOME on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gnome/</link>
+    <description>Recent content in GNOME on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:37:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2026 11:37:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Изменения в отслеживании проблем с безопасностью в GNOME</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Майкл Катанзаро (Michael Catanzaro), с 2020 года отвечающий за отслеживание проблем с безопасностью в проекте GNOME, объявил о сокращении срока раскрытия информации об уязвимостях с 90 до 30 дней. Заявлено, что открытие публичного доступа к информации об уязвимости через 30 дней после получения отчёта является разумным компромиссом, с учётом того, что в большинстве случаев сопровождающие либо устраняют проблему за 1-3 недели, либо вообще не обращают на неё внимания. Изменение вступит в силу 1 августа и объясняется существенным ростом числа отчётов об уязвимостях, созданных при помощи AI-ассистентов.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
