@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:37:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 12:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В ходе тестирования автономный AI-агент OpenAI без явной указки взломал инфраструктуру Hugging Face</title>
+      <title>Выпуск VirtualBox 7.2.14</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 22 Jul 2026 11:37:51 +0500</pubDate>
+      <pubDate>Wed, 22 Jul 2026 12:37:52 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания OpenAI опубликовала сведения об инциденте, который привёл к взлому инфраструктуры платформы Hugging Face и получению доступа к учётным данным некоторых сервисов. Инцидент произошёл в ходе тестирования возможностей автономного AI-агента находить уязвимости и проводить комплексные атаки для достижения общей цели (тест ExploitGym). При тестировании использовались как существующая модель GPT‑5.6 Sol, так и более функциональная предварительная версия новой модели OpenAI, у которых были отключены механизмы, ограничивающие использование для проведения кибератак.
-https://www.opennet.ru/opennews/art.shtml?num=65947</description>
+      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.14, в котором представлено 7 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=65949</description>
     </item>
     
     <item>
