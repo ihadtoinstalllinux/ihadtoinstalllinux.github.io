@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:38:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 16:37:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в WordPress, позволяющие удалённо выполнить код на сервере</title>
+      <title>432 отчёта об уязвимостях в ядре Linux. Локальная root-уязвимость Frag Gap</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 22 Jul 2026 14:38:13 +0500</pubDate>
+      <pubDate>Wed, 22 Jul 2026 16:37:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В системе управления web-контентом WordPress, которая по приблизительной оценке используется на 500 миллионах сайтах, выявлены две уязвимости, которые в комбинации позволяют получить полный доступ к панели администратора и выполнить код с привилегиями web-сервера через отправку внешнего запроса без прохождения аутентификации. Уязвимости, которым присвоено кодовое имя wp2shell, присутствуют в основной кодовой базе WordPress и не привязаны к темам оформления или плагинам, - для атаки достаточно, чтобы сайт на базе WordPress был доступен для внешних запросов.</description>
+      <description>За сутки в списке рассылки linux-cve-announce опубликовано 432 новых отчёта об уязвимостях в ядре Linux, которым присвоены CVE-идентификаторы. Из общей массы можно выделить уязвимость Frag Gap, для которой подготовлен рабочий эксплоит, позволяющий непривилегированному локальному пользователю получить права root в системе.
+https://www.opennet.ru/opennews/art.shtml?num=65952</description>
     </item>
     
     <item>
