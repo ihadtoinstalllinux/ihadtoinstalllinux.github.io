@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 16:37:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 00:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>432 отчёта об уязвимостях в ядре Linux. Локальная root-уязвимость Frag Gap</title>
+      <title>В репозитории PyPI введён запрет на изменение релизов спустя 14 дней после публикации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 22 Jul 2026 16:37:51 +0500</pubDate>
+      <pubDate>Thu, 23 Jul 2026 00:37:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>За сутки в списке рассылки linux-cve-announce опубликовано 432 новых отчёта об уязвимостях в ядре Linux, которым присвоены CVE-идентификаторы. Из общей массы можно выделить уязвимость Frag Gap, для которой подготовлен рабочий эксплоит, позволяющий непривилегированному локальному пользователю получить права root в системе.
-https://www.opennet.ru/opennews/art.shtml?num=65952</description>
+      <description>Разработчики репозитория Python-пакетов PyPI (Python Package Index) запретили загрузку новых файлов в релизы, с момента публикации которых прошло более 14 дней. Предполагается, что запрет позволит предотвратить внесение вредоносных изменений в уже опубликованные релизы в случае утечки токенов доступа или компрометации процессов публикации пакетов в PyPI.
+https://www.opennet.ru/opennews/art.shtml?num=65958</description>
     </item>
     
     <item>
