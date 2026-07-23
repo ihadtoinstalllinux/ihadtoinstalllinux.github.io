@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:38:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 23:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Клон SQLite на Rust, воссозданный AI на основе спецификаций</title>
+      <title>Дерево портов FreeBSD временно заморожено из-за добавления в порты слишком большого файла</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 23 Jul 2026 17:38:15 +0500</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:37:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Cursor опубликовала исходный код minisqlite, реализации СУБД SQLite, воссозданной на языке Rust и успешно проходящей официальный набор тестов sqllogictest от проекта SQLite. Проект подготовлен в ходе эксперимента, в котором проверялась эффективность работы AI-моделей GPT-5.5, Grok 4.5, Opus 4.8 и Fable 5, по воссозданию SQLite только на основе официального 835-страничного руководства, без доступа к оригинальному коду, интернету, наборам тестов и исполняемому файлу SQLite. Основная идея эксперимента - использование подробной спецификации в качестве промпта для создания сложного продукта.</description>
+      <description>Разработчики FreeBSD объявили о решении временно заморозить репозиторий с деревом портов в связи с инцидентом, вызванным помещением в порты бинарного файла, размером 150 МБ. Данная операция привела к нарушению зеркалирования портов на GitHub из-за превышения ограничения на максимальный размер файла, которое на GitHub составляет 100 МБ. Для проведения чистки и удаления из истории репозитория бинарных данных с сомнительной лицензией введена заморозка от внесения изменений, которая продолжается уже около двух суток. Информация о том, как подобный файл был помещён в дерево портов пока не приводится, но утверждается, что нет оснований считать репозиторий скомпрометированным.</description>
     </item>
     
     <item>
