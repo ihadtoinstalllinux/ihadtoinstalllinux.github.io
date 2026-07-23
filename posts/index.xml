@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:37:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 14:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Fedora 45 намерены задействовать web-интерфейс для удалённой установки атомарных редакций</title>
+      <title>Выпуск среды рабочего стола COSMIC 1.4.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 23 Jul 2026 13:37:57 +0500</pubDate>
+      <pubDate>Thu, 23 Jul 2026 14:37:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В выпуске Fedora Linux 45, намеченном на осень 2026 года, планируют реализовать возможность использования web-интерфейса Anaconda WebUI для удалённого управления установкой атомарно обновляемых образов Fedora Atomic Desktop (Silverblue, Kinoite и т.п.). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux. В случае утверждения изменения, пользователи смогут загрузить Fedora на целевой системе с опцией &amp;ldquo;inst.webui.remote&amp;rdquo; и управлять установкой через web-браузер на другом компьютере с аутентификацией по PIN-коду и шифрованием трафика.</description>
+      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала выпуск среды рабочего стола COSMIC 1.4.0. Пакеты с COSMIC 1.4.0 доступны в дистрибутиве Pop!_OS 24.04 и в ближайшее время ожидаются в Fedora, NixOS, Arch Linux, openSUSE, Aeyrin OS, Redox и CachyOS. Код написан на языке Rust и распространяется под лицензиями GPLv3 (приложения) и MPL-2.0 (библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=65961</description>
     </item>
     
     <item>
