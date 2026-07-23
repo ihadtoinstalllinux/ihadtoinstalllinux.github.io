@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 14:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 17:38:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск среды рабочего стола COSMIC 1.4.0</title>
+      <title>Клон SQLite на Rust, воссозданный AI на основе спецификаций</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 23 Jul 2026 14:37:55 +0500</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:38:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала выпуск среды рабочего стола COSMIC 1.4.0. Пакеты с COSMIC 1.4.0 доступны в дистрибутиве Pop!_OS 24.04 и в ближайшее время ожидаются в Fedora, NixOS, Arch Linux, openSUSE, Aeyrin OS, Redox и CachyOS. Код написан на языке Rust и распространяется под лицензиями GPLv3 (приложения) и MPL-2.0 (библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=65961</description>
+      <description>Компания Cursor опубликовала исходный код minisqlite, реализации СУБД SQLite, воссозданной на языке Rust и успешно проходящей официальный набор тестов sqllogictest от проекта SQLite. Проект подготовлен в ходе эксперимента, в котором проверялась эффективность работы AI-моделей GPT-5.5, Grok 4.5, Opus 4.8 и Fable 5, по воссозданию SQLite только на основе официального 835-страничного руководства, без доступа к оригинальному коду, интернету, наборам тестов и исполняемому файлу SQLite. Основная идея эксперимента - использование подробной спецификации в качестве промпта для создания сложного продукта.</description>
     </item>
     
     <item>
