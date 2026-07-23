@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 23:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jul 2026 01:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Дерево портов FreeBSD временно заморожено из-за добавления в порты слишком большого файла</title>
+      <title>Выпуск дистрибутива Альт Рабочая станция 11.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 23 Jul 2026 23:37:38 +0500</pubDate>
+      <pubDate>Fri, 24 Jul 2026 01:37:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики FreeBSD объявили о решении временно заморозить репозиторий с деревом портов в связи с инцидентом, вызванным помещением в порты бинарного файла, размером 150 МБ. Данная операция привела к нарушению зеркалирования портов на GitHub из-за превышения ограничения на максимальный размер файла, которое на GitHub составляет 100 МБ. Для проведения чистки и удаления из истории репозитория бинарных данных с сомнительной лицензией введена заморозка от внесения изменений, которая продолжается уже около двух суток. Информация о том, как подобный файл был помещён в дерево портов пока не приводится, но утверждается, что нет оснований считать репозиторий скомпрометированным.</description>
+      <description>Опубликовано обновление дистрибутива Linux &amp;ldquo;Альт Рабочая станция 11.2&amp;rdquo;, предлагающего среду рабочего стола GNOME и ориентированного для работы в офисе и дома. Сборки подготовлены для архитектур x86_64 и aarch64, и построены на 11 платформе ALT. Для загрузки сформирован установочный iso-образ (8.2 ГБ).
+https://www.opennet.ru/opennews/art.shtml?num=65967</description>
     </item>
     
     <item>
