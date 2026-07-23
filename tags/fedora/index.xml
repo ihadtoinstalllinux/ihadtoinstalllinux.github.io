@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Fedora on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/fedora/</link>
+    <description>Recent content in Fedora on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:37:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 13:37:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В Fedora 45 намерены задействовать web-интерфейс для удалённой установки атомарных редакций</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>В выпуске Fedora Linux 45, намеченном на осень 2026 года, планируют реализовать возможность использования web-интерфейса Anaconda WebUI для удалённого управления установкой атомарно обновляемых образов Fedora Atomic Desktop (Silverblue, Kinoite и т.п.). План пока не утверждён комитетом FESCo (Fedora Engineering Steering Committee), отвечающим за техническую часть разработки Fedora Linux. В случае утверждения изменения, пользователи смогут загрузить Fedora на целевой системе с опцией &amp;ldquo;inst.webui.remote&amp;rdquo; и управлять установкой через web-браузер на другом компьютере с аутентификацией по PIN-коду и шифрованием трафика.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
