@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>AI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ai/</link>
+    <description>Recent content in AI on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 02:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 02:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проект Debian проводит общее голосование о допустимости применения AI при разработке</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Проект Debian объявил о проведении общего голосования (GR, general resolution) разработчиков по вопросу использования больших языковых моделей и AI-инструментов в процессе разработки дистрибутива. Право голоса имеют около тысячи разработчиков, участвующих в сопровождении пакетов и поддержании инфраструктуры Debian. Рассматриваемый вопрос охватывает только применение AI в Debian (работа над пакетами, разрабатываемыми в Debian проектами, web-ресурсами, переводами, документацией и сообщениями в официальной переписке) и не затрагивает использующие AI upstream-проекты, поставку связанных с AI пакетов и принятие патчей, созданных в upstream-проектах при помощи AI.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
