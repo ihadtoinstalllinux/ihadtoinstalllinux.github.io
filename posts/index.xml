@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 02:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 10:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Debian проводит общее голосование о допустимости применения AI при разработке</title>
+      <title>Выпуск среды запуска WASM-4-игр W4ME Station и прошивки WiPhone Lab для кнопочных телефонов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 26 Jul 2026 02:37:42 +0500</pubDate>
+      <pubDate>Sun, 26 Jul 2026 10:37:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Debian объявил о проведении общего голосования (GR, general resolution) разработчиков по вопросу использования больших языковых моделей и AI-инструментов в процессе разработки дистрибутива. Право голоса имеют около тысячи разработчиков, участвующих в сопровождении пакетов и поддержании инфраструктуры Debian. Рассматриваемый вопрос охватывает только применение AI в Debian (работа над пакетами, разрабатываемыми в Debian проектами, web-ресурсами, переводами, документацией и сообщениями в официальной переписке) и не затрагивает использующие AI upstream-проекты, поставку связанных с AI пакетов и принятие патчей, созданных в upstream-проектах при помощи AI.</description>
+      <description>Доступен первый публичный выпуск W4ME Station, среды выполнения для запуска неизменённых игровых картриджей WASM-4 на устройствах с поддержкой CLDC 1.1 и MIDP 2.0, таких как кнопочные телефоны середины 2000-х годов. Код написан на языке Java, сохраняет совместимость с Java 1.3 и распространяется под лицензией MIT. В поставку включены 13 игр и демонстрационных картриджей, среди которых Sokoban, Wasm Wars, Watris, Glowfish Chess, Duck Maze, Rubido, Untangle и Plasma Cube. Сформированы две сборки - полная (275 КБ) с поддержкой просмотра файлов через JSR-75 и базовая сборка для устройств без API FileConnection.</description>
     </item>
     
     <item>
