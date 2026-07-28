@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:38:13 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 16:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск интегрированного набора интернет-приложений SeaMonkey 2.53.24</title>
+      <title>Выпуск smolvm 1.7, инструментария для создания запускаемых виртуальных машин</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 28 Jul 2026 15:38:13 +0500</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск набора интернет-приложений SeaMonkey 2.53.24, объединяющего в одном продукте web-браузер, почтовый клиент, клиент NNTP-конференций, систему агрегации новостных лент (RSS/Atom) и WYSIWYG-редактор html-страниц Composer. В форме предустановленных дополнений предлагаются IRC-клиент ChatZilla, набор средств для web-разработчиков DOM Inspector и календарь-планировщик Lightning. В новый выпуск перенесены исправления и изменения из актуальной кодовой базы Firefox (SeaMonkey 2.53 основан на браузерном движке Firefox 60.8 с портированием связанных с безопасностью исправлений и некоторых улучшений из актуальных веток Firefox).</description>
+      <description>Доступен выпуск инструментария smolvm 1.7, позволяющего изолировать выполнение Linux-приложений в отдельных быстрозапускаемых виртуальных машинах. Smolvm даёт возможность упаковать приложение в образ виртуальной машины &amp;ldquo;smolmachine&amp;rdquo; или самодостаточный исполняемый файл, включающей все необходимые зависимости, который затем можно запускать на любых хостах с той же архитектурой CPU. Упакованные подобным образом приложения выполняются в отдельной виртуальной машине со своим ядром. При запуске в Linux используется гипервизора KVM, в macOS - Hypervisor.framework, а в Windows - Windows Hypervisor Platform.</description>
     </item>
     
     <item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>smolvm on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/smolvm/</link>
+    <description>Recent content in smolvm on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 16:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/smolvm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск smolvm 1.7, инструментария для создания запускаемых виртуальных машин</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Доступен выпуск инструментария smolvm 1.7, позволяющего изолировать выполнение Linux-приложений в отдельных быстрозапускаемых виртуальных машинах. Smolvm даёт возможность упаковать приложение в образ виртуальной машины &amp;ldquo;smolmachine&amp;rdquo; или самодостаточный исполняемый файл, включающей все необходимые зависимости, который затем можно запускать на любых хостах с той же архитектурой CPU. Упакованные подобным образом приложения выполняются в отдельной виртуальной машине со своим ядром. При запуске в Linux используется гипервизора KVM, в macOS - Hypervisor.framework, а в Windows - Windows Hypervisor Platform.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
