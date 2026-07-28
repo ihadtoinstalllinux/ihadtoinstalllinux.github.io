@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 17:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск smolvm 1.7, инструментария для создания запускаемых виртуальных машин</title>
+      <title>В ночных сборках доступен для тестирования новый интерфейс Firefox</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 28 Jul 2026 16:37:16 +0500</pubDate>
+      <pubDate>Tue, 28 Jul 2026 17:37:49 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск инструментария smolvm 1.7, позволяющего изолировать выполнение Linux-приложений в отдельных быстрозапускаемых виртуальных машинах. Smolvm даёт возможность упаковать приложение в образ виртуальной машины &amp;ldquo;smolmachine&amp;rdquo; или самодостаточный исполняемый файл, включающей все необходимые зависимости, который затем можно запускать на любых хостах с той же архитектурой CPU. Упакованные подобным образом приложения выполняются в отдельной виртуальной машине со своим ядром. При запуске в Linux используется гипервизора KVM, в macOS - Hypervisor.framework, а в Windows - Windows Hypervisor Platform.</description>
+      <description>В ночных сборках Firefox доступен для тестирования новый интерфейс пользователя, выполненной в рамках проекта Nova. Основные изменения.
+https://www.opennet.ru/opennews/art.shtml?num=65992</description>
     </item>
     
     <item>
