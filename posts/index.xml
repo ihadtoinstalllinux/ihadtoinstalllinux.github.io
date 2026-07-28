@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 23:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 14:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В промежуточных выпусках Ubuntu 26.04 LTS будут поставляться новые версии стека виртуализации</title>
+      <title>Использование GPU для ускорения обработки сетевых пакетов в ядре Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 27 Jul 2026 23:37:40 +0500</pubDate>
+      <pubDate>Tue, 28 Jul 2026 14:37:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Canonical объявила о решении поставлять новые версии компонентов стека виртуализизации в будущих промежуточных выпусках Ubuntu 26.04 LTS. Поставка будет налажена по аналогии с тем как в прошлых LTS-веках поставлялись новые версии ядра Linux и графического стека, перенесённые из обычных релизов Ubuntu, выпущенных после LTS-версии. Обновления будут выпускаться для пакетов qemu-hwe (гипервизор и эмулятор), libvirt-hwe (инструментарий для управления виртуализацией), edk2-hwe (OVMF-прошивка) и seabios-hwe (для совместимости с BIOS) каждые 6 месяцев в течение первых двух лет жизненного цикла LTS-ветки.</description>
+      <description>Для обсуждения разработчиками ядра Linux опубликован набор патчей c реализацией механизма KNOD, позволяющего использовать GPU AMD для ускорения обработки сетевых пакетов. KNOD взаимодействует с GPU напрямую, без обращения к фреймворкам в пространстве пользователя, таким как AMD ROCm и NVIDIA CUDA, самостоятельно управляет очередями GPU и выполняет JIT-компиляцию BPF-программ обработки пакетов для выполнения на GPU. Пакеты для обработки перенаправляются из памяти сетевого адаптера в GPU с использованием DMA и Device Memory TCP.</description>
     </item>
     
     <item>

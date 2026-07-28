@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>GPU on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/gpu/</link>
+    <description>Recent content in GPU on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 14:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 14:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Использование GPU для ускорения обработки сетевых пакетов в ядре Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Для обсуждения разработчиками ядра Linux опубликован набор патчей c реализацией механизма KNOD, позволяющего использовать GPU AMD для ускорения обработки сетевых пакетов. KNOD взаимодействует с GPU напрямую, без обращения к фреймворкам в пространстве пользователя, таким как AMD ROCm и NVIDIA CUDA, самостоятельно управляет очередями GPU и выполняет JIT-компиляцию BPF-программ обработки пакетов для выполнения на GPU. Пакеты для обработки перенаправляются из памяти сетевого адаптера в GPU с использованием DMA и Device Memory TCP.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
