@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2026 12:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск оптимизатора энергопотребления и производительности auto-cpufreq 3.1</title>
+      <title>В гипервизоре Xen устранено 12 уязвимостей, потенциально позволяющие обойти изоляцию гостевой системы</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 29 Jul 2026 11:38:00 +0500</pubDate>
+      <pubDate>Wed, 29 Jul 2026 12:38:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз утилиты auto-cpufreq 3.1.0, предназначенной для автоматической оптимизации скорости работы CPU и энергопотребления в системе. Утилита отслеживает состояние аккумулятора ноутбука, нагрузку на CPU, температуру CPU и активность в системе, и в зависимости от ситуации и выбранных опций динамически активирует режимы энергосбережения или высокой производительности. Поддерживается работа на устройствах с процессорами Intel, AMD и ARM. Для управления может использоваться графический интерфейс на базе GTK или консольная утилита. Код написан на языке Python и распространяется под лицензией LGPLv3.</description>
+      <description>Опубликованы патчи с устранением в гипервизоре Xen 20 уязвимостей, из которых 12 не исключают возможность эксплуатации для нарушения изоляции гостевой системы и выполнения кода на стороне хост-окружения. Остальные проблемы дают возможность инициировать отказ в обслуживании или приводят к утечке памяти. Наиболее серьёзные проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=65995</description>
     </item>
     
     <item>
