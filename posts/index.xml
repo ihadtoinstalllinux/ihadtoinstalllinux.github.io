@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 01:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В Chrome развивают возможность исправления ошибок без перезапуска браузера</title>
+      <title>Huawei пытается добавить в Mesa полупроприетатрный Vulkan-драйвер к своим GPU</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 01 Aug 2026 00:37:59 +0500</pubDate>
+      <pubDate>Sat, 01 Aug 2026 01:37:45 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google сообщила о намерении реализовать в Chrome механизм динамического применения патчей, позволяющий устранять уязвимости без необходимости полного перезапуска браузера. Идея в том чтобы вносить изменения на лету в исполняемые файлы и последовательно заменять дочерние процессы, такие как процессы отрисовки и взаимодействия с GPU.
-https://www.opennet.ru/opennews/art.shtml?num=66006</description>
+      <description>Представитель компании Huawei сообщил о желании передать в состав Mesa новый драйвер к развиваемому данной компанией GPU. Проблема в том, что компания Huawei намерена лишь частично открыть проект - код Vulkan-драйвера на базе Mesa Vulkan Runtime и низкоуровневые компоненты, использующие промежуточное представление NIR, решено открыть, но бэкенд для трансляции промежуточного представления NIR в машинный код GPU хотят поставлять в виде бинарного блоба, что бы не раскрывать информацию об архитектуре набор команд GPU (GPU ISA).</description>
     </item>
     
     <item>
