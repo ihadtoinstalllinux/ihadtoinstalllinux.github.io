@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 00:37:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 01:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Valhalla будет включён в основную ветку JDK</title>
+      <title>Релиз операционной системы NetBSD 11.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 02 Aug 2026 00:37:28 +0500</pubDate>
+      <pubDate>Sun, 02 Aug 2026 01:37:42 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Лоис Фолтан (Lois Foltan) из компании Oracle подтвердила, что реализация предложения JEP 401 (&amp;ldquo;Value Classes and Objects&amp;rdquo;) будет интегрирована в основной репозиторий OpenJDK и запланирована для включение в релиз JDK 28, намеченный на март 2027 года, в качестве отключённой по умолчанию экспериментальной функции.
-https://www.opennet.ru/opennews/art.shtml?num=66010</description>
+      <description>Представлен релиз операционной системы NetBSD 11.0, поддерживающей 61 системную архитектуру и 16 семейств CPU. Помимо переносимости и поддержки большого числа аппаратных платформ, операционная система NetBSD предлагает такие возможности, как гипервизор NVMM, межсетевой экран NPF, пакетный менеджер pkgin, репозиторий пакетов pkgsrc, механизм контроля целостности veriexec, режим W^X (страницы памяти не могут быть одновременно доступны на запись и исполнение), поддержка ФС ZFS, система шифрования дисков cgd. Установочные образы (640 МБ) подготовлены для 59 архитектур (пропущены epoc32 и ia64).</description>
     </item>
     
     <item>
