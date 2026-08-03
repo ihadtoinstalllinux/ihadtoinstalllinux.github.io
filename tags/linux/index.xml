@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 02:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2026 02:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google опубликовал официальные Linux-сборки Chrome для архитектуры ARM64 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Google начала публикацию официальных сборок Chrome для Linux-систем на базе архитектуры ARM64. Сборки доступны в пакетах deb и rpm. Ранее официальные сборки Chrome для Linux публиковались только для архитектуры x86_64, а для архитектуры ARM64 были доступны только сторонние сборки Chromium, предлагаемые дистрибутивами. Официальная версия Chrome отличается поддержкой подключения к учётной записи в Google, интеграцией сервисов Google, синхронизацией данных между устройствами, упрощённой установкой дополнений из каталога Chrome Web Store, возможностью включения расширенного режима защиты и поставкой CDM-модуля (Content Decryption Module) Widevine для просмотра медиаконтента, защищённого авторскими правами (DRM), в таких сервисах, как Netflix, Spotify и Disney+.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
