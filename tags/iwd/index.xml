@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>iwd on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/iwd/</link>
+    <description>Recent content in iwd on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 11:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/iwd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Переполнение буфера в iwd, эксплуатируемое через Wi-Fi</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>В фоновм процессе iwd, применяемом для организации подключения Linux-систем к беспроводной сети, выявлена уязвимость (CVE не назначен), приводящая к переполнению буфера при обработке специально оформленного беспроводного запроса (802.11k), не требующего аутентификации в сетях с WPA2 без PMF. Доступен прототип эксплоита.
 https://www.opennet.ru/opennews/art.shtml?num=66015</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

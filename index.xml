@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 10:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 11:37:41 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Kakehashi развивает инструментарий для запуска исполняемых файлов macOS в Linux</title>
+      <title>Переполнение буфера в iwd, эксплуатируемое через Wi-Fi</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 03 Aug 2026 10:37:55 +0500</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:37:41 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В рамках проекта Kakehashi ведётся разработка транслятора, позволяющего выполнять исполняемые файлы macOS в формате Mach-O, собранные для архитектуры ARM64, в Linux-системах с архитектурой ARM64. Код из macOS выполняется нативно без JIT-компиляции и эмуляции, используя только подмену системных вызовов для libSystem и обработку исключений. Основной целью проекта является обеспечение возможности запуска в Linux утилит командной строки, собранных для macOS. Код написан на языке Rust и распространяется под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=66014</description>
+      <description>В фоновм процессе iwd, применяемом для организации подключения Linux-систем к беспроводной сети, выявлена уязвимость (CVE не назначен), приводящая к переполнению буфера при обработке специально оформленного беспроводного запроса (802.11k), не требующего аутентификации в сетях с WPA2 без PMF. Доступен прототип эксплоита.
+https://www.opennet.ru/opennews/art.shtml?num=66015</description>
     </item>
     
     <item>
