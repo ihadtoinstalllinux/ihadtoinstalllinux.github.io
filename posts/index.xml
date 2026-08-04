@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2026 12:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>54 из 55 выявленных через AI уязвимостей в SQLite оказались фиктивными </title>
+      <title>Релиз эмулятора терминала Shitty</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 04 Aug 2026 11:37:48 +0500</pubDate>
+      <pubDate>Tue, 04 Aug 2026 12:37:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из компании JFrog проанализировали опубликованные на днях 55 отчётов об уязвимостях в SQLite. На основании данных отчётов организация MITRE присвоила всем проблемам CVE-идентификаторы. Три проблемы получили статус критических, а самой опасной уязвимости (CVE-2026-51302) компания Red Hat присвоила в своих базах уровень 10 из 10, а SUSE - 9.8 из 10. Детальное изучение заявленных ошибок показало, что 54 из 55 уязвимостей, включая отмеченную критическую проблему, являются фикциями и вызваны галлюцинациями AI-модели.</description>
+      <description>Опубликован первый релиз эмулятора терминала Shitty, позиционируемого автором как &amp;ldquo;серьёзный эмулятор терминала с глупым названием&amp;rdquo;. Проект написан на C++23 (сbundled libstd, требующей -std=c++26) и распространяется под двойной лицензией MIT и GPL-3.0. Поддерживаются macOS и Linux. При разработке используется AI-ассистент.
+https://www.opennet.ru/opennews/art.shtml?num=66020</description>
     </item>
     
     <item>
