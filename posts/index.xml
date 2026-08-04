@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 12:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2026 13:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз эмулятора терминала Shitty</title>
+      <title>Выпуск Prismriver Lyrics 1.0.0, инструментария для поиска текстов песен</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 04 Aug 2026 12:37:55 +0500</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован первый релиз эмулятора терминала Shitty, позиционируемого автором как &amp;ldquo;серьёзный эмулятор терминала с глупым названием&amp;rdquo;. Проект написан на C++23 (сbundled libstd, требующей -std=c++26) и распространяется под двойной лицензией MIT и GPL-3.0. Поддерживаются macOS и Linux. При разработке используется AI-ассистент.
-https://www.opennet.ru/opennews/art.shtml?num=66020</description>
+      <description>Вышла первая версия проекта Prismriver Lyrics, развивающего набор инструментов для поиска текстов песен из различных источников. Проект включает два пакета, построенных на общем движке поиска: консольной утилиты prismriver-lyrics и текстового интерфейса prismriver-lyrics-tui на базе фреймворка Textual. Программа prismriver-lyrics-tui отслеживает состояние плеера через MPRIS, автоматически запускает поиск при смене трека и подсвечивает текущую строку для синхронизированных по времени (LRC) текстов. Код написан на Python и распространяется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66027</description>
     </item>
     
     <item>
