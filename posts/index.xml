@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 01:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Prismriver Lyrics 1.0.0, инструментария для поиска текстов песен</title>
+      <title>Новый червь ChainDrop поразил более 400 NPM-пакетов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 04 Aug 2026 13:37:16 +0500</pubDate>
+      <pubDate>Wed, 05 Aug 2026 01:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Вышла первая версия проекта Prismriver Lyrics, развивающего набор инструментов для поиска текстов песен из различных источников. Проект включает два пакета, построенных на общем движке поиска: консольной утилиты prismriver-lyrics и текстового интерфейса prismriver-lyrics-tui на базе фреймворка Textual. Программа prismriver-lyrics-tui отслеживает состояние плеера через MPRIS, автоматически запускает поиск при смене трека и подсвечивает текущую строку для синхронизированных по времени (LRC) текстов. Код написан на Python и распространяется под лицензией MIT.
-https://www.opennet.ru/opennews/art.shtml?num=66027</description>
+      <description>Зафиксирована массовая атака на пакеты в репозитории NPM, проводимая с использованием нового самораспространяющегося червя ChainDrop, подставляющего вредоносное ПО в зависимости. В результате атаки опубликовано 2212 вредоносных выпусков для 444 пакетов. Наиболее популярные из скомпрометированных пакетов keyv, flat-cache и file-entry-cache насчитывают 154, 149.9 и 147.6 миллионов загрузок в неделю.
+https://www.opennet.ru/opennews/art.shtml?num=66030</description>
     </item>
     
     <item>
