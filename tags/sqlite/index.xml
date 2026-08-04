@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>SQLite on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/sqlite/</link>
+    <description>Recent content in SQLite on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2026 11:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>54 из 55 выявленных через AI уязвимостей в SQLite оказались фиктивными </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Исследователи из компании JFrog проанализировали опубликованные на днях 55 отчётов об уязвимостях в SQLite. На основании данных отчётов организация MITRE присвоила всем проблемам CVE-идентификаторы. Три проблемы получили статус критических, а самой опасной уязвимости (CVE-2026-51302) компания Red Hat присвоила в своих базах уровень 10 из 10, а SUSE - 9.8 из 10. Детальное изучение заявленных ошибок показало, что 54 из 55 уязвимостей, включая отмеченную критическую проблему, являются фикциями и вызваны галлюцинациями AI-модели.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
