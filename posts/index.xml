@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:35:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Aug 2026 13:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Rust утвердил правила в отношении использования AI-инструментов</title>
+      <title>Выпуск uutils 0.10, варианта GNU Coreutils на языке Rust </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 06 Aug 2026 11:35:16 +0500</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:38:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики языка программирования Rust утвердили правила применения AI-ассистентов в проекте. За отдельными исключениями, правила запрещают передачу кода, сгенерированного через AI, но разрешают использование AI для анализа, изучения, рецензирования и проверки кода. Правила распространяются только на основной репозиторий rust-lang/rust, и отдельно утверждаются командами разработчиков субмодулей, подветок и зависимостей из каталога crates.io.
-https://www.opennet.ru/opennews/art.shtml?num=66036</description>
+      <description>Опубликован выпуск проекта uutils coreutils 0.10.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
+https://www.opennet.ru/opennews/art.shtml?num=66037</description>
     </item>
     
     <item>
