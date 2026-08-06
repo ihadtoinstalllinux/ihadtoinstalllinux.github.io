@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 02:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 03:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Gotcha 0.4.10, платформы мониторинга ошибок и производительности</title>
+      <title>Опубликован mount-tui, интерфейс для монтирования дисков и SMB-ресурсов в Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 07 Aug 2026 02:37:52 +0500</pubDate>
+      <pubDate>Fri, 07 Aug 2026 03:37:49 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск платформы мониторинга Gotcha 0.4.10, объединяющей средства отслеживания ошибок, распределённые трейсы, метрики, профили производительности и мониторинг доступности с публичными статус-страницами. Проект написан на Go и распространяется под лицензией Apache-2.0.
-https://www.opennet.ru/opennews/art.shtml?num=66041</description>
+      <description>Опубликован проект mount-tui, развивающий интерактивный текстовый интерфейс для просмотра и монтирования локальных блочных устройств, а также подключения сетевых ресурсов по протоколу SMB/CIFS. Программа написана на языке Rust с использованием библиотек Ratatui и Crossterm. Код написан на языке Rust и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=66039</description>
     </item>
     
     <item>
