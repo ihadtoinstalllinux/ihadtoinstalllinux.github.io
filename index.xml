@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 09:36:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован mount-tui, интерфейс для монтирования дисков и SMB-ресурсов в Linux</title>
+      <title>Опубликован дисплейный менеджер LightDM 1.33.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 07 Aug 2026 03:37:49 +0500</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:36:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован проект mount-tui, развивающий интерактивный текстовый интерфейс для просмотра и монтирования локальных блочных устройств, а также подключения сетевых ресурсов по протоколу SMB/CIFS. Программа написана на языке Rust с использованием библиотек Ratatui и Crossterm. Код написан на языке Rust и распространяется под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=66039</description>
+      <description>Разработчики Ubuntu опубликовали выпуск дисплейного менеджера LightDM 1.33.0, который применяется в Linux Mint, Lubuntu, Xubuntu и Ubuntu MATE. LightDM предоставляет фоновый процесс для запуска дисплейных серверов и модулей с графическим интерфейсом для входа в систему, а также организации аутентификации пользователей через PAM и удалённого подключения к рабочему столу. Проект не привязан к конкретным средам рабочего стола и протоколам (X11, Wayland) и примечателен низким потреблением памяти. Код написан на языке Си и распространяется под лицензией GPL.</description>
     </item>
     
     <item>
