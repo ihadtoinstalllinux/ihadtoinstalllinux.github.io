@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 12:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Zapscape - уязвимость в гипервизоре KVM, позволяющая получить root-доступ к хост-системе</title>
+      <title>TONTOU - атака на CPU Intel и AMD, позволяющая обойти защиту от уязвимостей Spectre v2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 07 Aug 2026 11:37:19 +0500</pubDate>
+      <pubDate>Fri, 07 Aug 2026 12:37:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Раскрыта информация об уязвимости (CVE-2026-64561) в гипервизоре KVM, позволяющей получить доступ с правами root к хост-окружению при наличии доступа с правами root в гостевой системе. Проблема также может применяться для локального повышения своих привилегий при наличии доступа к устройству /dev/kvm (например, в RHEL подобный доступ предоставляется всем пользователям). Для загрузки доступен прототип экспоита. Проблеме присвоено кодовое имя Zapscape.
-https://www.opennet.ru/opennews/art.shtml?num=66044</description>
+      <description>Исследователи из массачусетского технологического института выявили технику атаки TONTOU (Time-of-Neutralization to Time-of-Use), предлагающую новый способ эксплуатации микроархитектурных уязвимостей класса Spectre v2. Уязвимость даёт возможность определить содержимое памяти ядра при выполнении эксплоита в пространстве пользователя. Код для блокирования эксплуатации уязвимости принят в состав ядра Linux 5 августа и включён в состав выпусков 7.1.7, 6.18.43, 6.18.43, 6.12.102, 6.6.149, 6.1.181, 5.15.214 и 5.10.263.
+https://www.opennet.ru/opennews/art.shtml?num=66045</description>
     </item>
     
     <item>
