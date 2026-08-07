@@ -184,14 +184,15 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Запрет на приём AI-патчей в раздел drivers/staging ядра Linux 
+    <h2>Zapscape - уязвимость в гипервизоре KVM, позволяющая получить root-доступ к хост-системе
     </h2>
   </header>
   <section class="entry-content">
-    <p>Грег Кроа-Хартман (Greg Kroah-Hartman), отвечающий за поддержку стабильной и “staging” веток ядра Linux, объявил о прекращении приёма в раздел drivers/staging патчей, подготовленных с использованием AI-инструментов. Отмечается, что подобные автоматически генерируемые патчи противоречат основной идее использования подсистемы drivers/staging как учебной площадки для новых разработчиков ядра. Код в drivers/staging изначально позиционируется как проблемный (TAINT_CRAP) и сопровождающие намеренно не проводят автоматизированную чистку, чтобы дать начинающим разработчикам развивать навык самостоятельного решения мелких проблем в ядре....</p>
+    <p>Раскрыта информация об уязвимости (CVE-2026-64561) в гипервизоре KVM, позволяющей получить доступ с правами root к хост-окружению при наличии доступа с правами root в гостевой системе. Проблема также может применяться для локального повышения своих привилегий при наличии доступа к устройству /dev/kvm (например, в RHEL подобный доступ предоставляется всем пользователям). Для загрузки доступен прототип экспоита. Проблеме присвоено кодовое имя Zapscape.
+https://www.opennet.ru/opennews/art.shtml?num=66044</p>
   </section>
-  <footer class="entry-footer"><span title='2026-08-07 10:37:45 +0500 +05'>August 7, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Запрет на приём AI-патчей в раздел drivers/staging ядра Linux " href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2026-08-07 11:37:19 +0500 +05'>August 7, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Zapscape - уязвимость в гипервизоре KVM, позволяющая получить root-доступ к хост-системе" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 

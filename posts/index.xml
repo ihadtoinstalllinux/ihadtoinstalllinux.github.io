@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 11:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Запрет на приём AI-патчей в раздел drivers/staging ядра Linux </title>
+      <title>Zapscape - уязвимость в гипервизоре KVM, позволяющая получить root-доступ к хост-системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 07 Aug 2026 10:37:45 +0500</pubDate>
+      <pubDate>Fri, 07 Aug 2026 11:37:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Грег Кроа-Хартман (Greg Kroah-Hartman), отвечающий за поддержку стабильной и &amp;ldquo;staging&amp;rdquo; веток ядра Linux, объявил о прекращении приёма в раздел drivers/staging патчей, подготовленных с использованием AI-инструментов. Отмечается, что подобные автоматически генерируемые патчи противоречат основной идее использования подсистемы drivers/staging как учебной площадки для новых разработчиков ядра. Код в drivers/staging изначально позиционируется как проблемный (TAINT_CRAP) и сопровождающие намеренно не проводят автоматизированную чистку, чтобы дать начинающим разработчикам развивать навык самостоятельного решения мелких проблем в ядре.</description>
+      <description>Раскрыта информация об уязвимости (CVE-2026-64561) в гипервизоре KVM, позволяющей получить доступ с правами root к хост-окружению при наличии доступа с правами root в гостевой системе. Проблема также может применяться для локального повышения своих привилегий при наличии доступа к устройству /dev/kvm (например, в RHEL подобный доступ предоставляется всем пользователям). Для загрузки доступен прототип экспоита. Проблеме присвоено кодовое имя Zapscape.
+https://www.opennet.ru/opennews/art.shtml?num=66044</description>
     </item>
     
     <item>
