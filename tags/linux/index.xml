@@ -6,15 +6,14 @@
     <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Aug 2026 01:37:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз ядра Linux 7.2</title>
+      <title>Возобновлена разработка планировщика задач MuQSS и набора патчей -ck для ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 17 Aug 2026 10:38:12 +0500</pubDate>
+      <pubDate>Tue, 18 Aug 2026 01:37:14 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 7.2. Среди наиболее заметных изменений: механизм потоковой передачи данных USB4STREAM, оптимизации производительности btrfs, xfs и ext4, продолжение удаления кода для поддержки CPU i486, возможность создания вложенных планировщиков SCHED_EXT, снижено потребление памяти в подсистеме подкачки, ускорены неименованные каналы, поддержка расширений Intel MBEC и AMD GMET в KVM, удаление протокола AppleTalk, начальная поддержка HDMI 2.1 FRL в драйвере AMDGPU.
-https://www.opennet.ru/opennews/art.shtml?num=65937</description>
+      <description>Кон Коливас (Con Kolivas) возобновил работу над планировщиком задач MuQSS (Multiple Queue Skiplist Scheduler) и набором патчей &amp;ldquo;-ck для ядра Linux, нацеленных на повышение отзывчивости и интерактивности при выполнении пользовательских задач и игр. Разработка данных проектов была прекращена в 2021 году из-за потери мотивации и нехватки времени. Теперь Кон вернулся к прежней деятельности и выпустил набор патчей ck и планировщик MuQSS для ядра Linux 7.2. Отмечается, что вопрос нехватки времени удалось решить благодаря применению AI-инструментов, которые упростили разработку и адаптацию изменений к новому ядру.</description>
     </item>
     
   </channel>
