@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:37:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 02:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск VirtualBox 7.2.16</title>
+      <title>Открыт код компилятора для языка программирования Mojo</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 19 Aug 2026 01:37:21 +0500</pubDate>
+      <pubDate>Wed, 19 Aug 2026 02:37:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.16, в котором представлено 9 изменений.
-https://www.opennet.ru/opennews/art.shtml?num=66091</description>
+      <description>Разработчики языка программирования Mojo открыли исходный код компилятора и сопутствующего инструментария, необходимого для сборки проектов на языке Mojo. Код открыт под лицензией Apache 2.0 c исключениями от проекта LLVM, допускающими смешивание с кодом под лицензией GPLv2. Ранее в открытом доступе находился только код стандартной библиотеки, а код компилятора обещали открыть после стабилизации внутренней архитектуры, что было достигнуто в опубликованном на прошлой неделе релизе Mojo 1.0. Изменения от сторонних участников в кодовую базу компилятора пока не принимаются, но возможность передачи изменений планируют реализовать до конца года.</description>
     </item>
     
     <item>
