@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 21:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проект SoLo развивает загрузчик системных so-библиотек для полностью статических Linux-программ</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован проект SoLo, позволяющий полностью статическим Linux-программам, собранным с musl, загружать через dlopen() установленные в системе glibc-библиотеки, в первую очередь GPU-драйверы. Обычно статическая сборка несовместима с драйверами Vulkan и OpenGL, которые дистрибутивы поставляют в виде разделяемых библиотек, собранных с glibc. SoLo снимает это ограничение при помощи встроенного в исполняемый файл загрузчика ELF и прослойки, транслирующей вызовы glibc в musl-рантайм процесса — сам glibc в процесс не загружается, второго libc в процессе не появляется.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
