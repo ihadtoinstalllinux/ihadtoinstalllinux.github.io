@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 23:37:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект SoLo развивает загрузчик системных so-библиотек для полностью статических Linux-программ</title>
+      <title>Релиз пакетного менеджера RPM 6.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 20 Aug 2026 21:37:26 +0500</pubDate>
+      <pubDate>Thu, 20 Aug 2026 23:37:21 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован проект SoLo, позволяющий полностью статическим Linux-программам, собранным с musl, загружать через dlopen() установленные в системе glibc-библиотеки, в первую очередь GPU-драйверы. Обычно статическая сборка несовместима с драйверами Vulkan и OpenGL, которые дистрибутивы поставляют в виде разделяемых библиотек, собранных с glibc. SoLo снимает это ограничение при помощи встроенного в исполняемый файл загрузчика ELF и прослойки, транслирующей вызовы glibc в musl-рантайм процесса — сам glibc в процесс не загружается, второго libc в процессе не появляется.</description>
+      <description>Опубликован релиз пакетного менеджера RPM 6.1, который будет задействован в выпуске дистрибутива Fedora Linux 45. Проект развивается компанией Red Hat и используется в таких дистрибутивах, как RHEL, Fedora, SUSE, openSUSE, ALT Linux, Rosa Linux, OpenMandriva, Mageia, PCLinuxOS и Tizen. Код проекта распространяется под лицензиями GPLv2 и LGPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=66106</description>
     </item>
     
     <item>
