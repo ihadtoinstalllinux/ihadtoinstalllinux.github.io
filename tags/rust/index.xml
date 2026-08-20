@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Rust on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/rust/</link>
+    <description>Recent content in Rust on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:37:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 12:37:43 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Компания Canonical представила проект по разработке транслятора с Си на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Canonical анонсировала проект, развиваемый совместной с Бристольским университетом и нацеленный на разработку инструментария для автоматической трансляции кода с языка Си на Rust. Проект ориентирован на перевод больших репозиториев, содержащих сотни тысяч строк кода на Си, в безопасное (без unsafe-операций) и легко сопровождаемое представление на языке Rust. Canonical профинансирует работу исследователей над проектом в течение 3 лет. Развиваемая технология будет опробована для перевода на Rust пакетов AppArmor и snap-confine, чтобы проверить применимость метода к реальным системным компонентам.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
