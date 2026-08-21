@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 23:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца</title>
+      <title>Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 21 Aug 2026 02:38:09 +0500</pubDate>
+      <pubDate>Fri, 21 Aug 2026 23:37:32 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=66108</description>
+      <description>Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66111</description>
     </item>
     
     <item>

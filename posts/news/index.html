@@ -5,10 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца | iHADtoinstalllinux</title>
-<meta name="keywords" content="Rust, arrayref" />
-<meta name="description" content="Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=66108">
+<title>Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust | iHADtoinstalllinux</title>
+<meta name="keywords" content="JavaScript, Bun, Zig, Rust" />
+<meta name="description" content="Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66111">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -58,18 +58,18 @@ https://www.opennet.ru/opennews/art.shtml?num=66108">
         }
 
     </style>
-</noscript><meta property="og:title" content="Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца" />
-<meta property="og:description" content="Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=66108" />
+</noscript><meta property="og:title" content="Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust" />
+<meta property="og:description" content="Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66111" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-08-21T02:38:09&#43;05:00" />
-<meta property="article:modified_time" content="2026-08-21T02:38:09&#43;05:00" />
+<meta property="article:published_time" content="2026-08-21T23:37:32&#43;05:00" />
+<meta property="article:modified_time" content="2026-08-21T23:37:32&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца"/>
-<meta name="twitter:description" content="Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=66108"/>
+<meta name="twitter:title" content="Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust"/>
+<meta name="twitter:description" content="Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66111"/>
 
 
 <script type="application/ld+json">
@@ -86,7 +86,7 @@ https://www.opennet.ru/opennews/art.shtml?num=66108"/>
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца",
+      "name": "Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -96,17 +96,17 @@ https://www.opennet.ru/opennews/art.shtml?num=66108"/>
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца",
-  "name": "Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца",
-  "description": "Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).\nhttps://www.opennet.ru/opennews/art.shtml?num=66108",
+  "headline": "Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust",
+  "name": "Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust",
+  "description": "Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.\nhttps://www.opennet.ru/opennews/art.shtml?num=66111",
   "keywords": [
-    "Rust", "arrayref"
+    "JavaScript", "Bun", "Zig", "Rust"
   ],
-  "articleBody": "Опубликован релиз языка программирования Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).\nhttps://www.opennet.ru/opennews/art.shtml?num=66108\n",
-  "wordCount" : "54",
+  "articleBody": "Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.\nhttps://www.opennet.ru/opennews/art.shtml?num=66111\n",
+  "wordCount" : "50",
   "inLanguage": "en",
-  "datePublished": "2026-08-21T02:38:09+05:00",
-  "dateModified": "2026-08-21T02:38:09+05:00",
+  "datePublished": "2026-08-21T23:37:32+05:00",
+  "dateModified": "2026-08-21T23:37:32+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -198,22 +198,24 @@ https://www.opennet.ru/opennews/art.shtml?num=66108"/>
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Выпуск Rust 1.98.0. Компрометация пакета arrayref, насчитывающего 53 млн загрузок за 3 месяца
+      Релиз серверной JavaScript-платформы Bun 1.4, переписанной с Zig на Rust
     </h1>
-    <div class="post-meta"><span title='2026-08-21 02:38:09 +0500 +05'>August 21, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-08-21 23:37:32 +0500 +05'>August 21, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Опубликован релиз языка программирования  Rust 1.98, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66108">https://www.opennet.ru/opennews/art.shtml?num=66108</a></p>
+  <div class="post-content"><p>Представлен выпуск платформы Bun 1.4, предназначенной для обособленного выполнения приложений, написанных на языках JavaScript и TypeScript, и нацеленной на использование в качестве прозрачной замены платформы Node.js. Ветка 1.4 примечательная переводом кодовой базы с языка Zig на язык Rust, осуществлённым с использованием AI-инструментов Claude. Код продолжает распространяться под лицензией MIT.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66111">https://www.opennet.ru/opennews/art.shtml?num=66111</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/javascript/">JavaScript</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/bun/">Bun</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/zig/">Zig</a></li>
       <li><a href="https://ihadtoinstalllinux.github.io/tags/rust/">Rust</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/arrayref/">arrayref</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
