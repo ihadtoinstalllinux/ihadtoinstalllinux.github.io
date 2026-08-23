@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>KolibriOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/kolibrios/</link>
+    <description>Recent content in KolibriOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 02:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 02:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/kolibrios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подготовлен RDP-клиент для KolibriOS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Опубликован RDPClient для операционной системы KolibriOS, написанной на ассемблере. В качестве инструментария кросс-компиляции использовался Kos-32 на базе GCC-5.4.0. Для реализации шифрованного канала задействована статически скомпонованная библиотека BearSSL. Учитывая ограничения самой KolibriOS и её инструментария, разработка велась на языке Си с обращением к системным вызовам напрямую. При разработке использовался AI-ассистент Claude.
 https://www.opennet.ru/opennews/art.shtml?num=66104</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
