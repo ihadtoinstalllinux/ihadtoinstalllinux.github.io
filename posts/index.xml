@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 02:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 13:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Подготовлен RDP-клиент для KolibriOS</title>
+      <title>Выпуск PorteuX 2.8, дистрибутива на основе Slackware </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 24 Aug 2026 02:37:39 +0500</pubDate>
+      <pubDate>Mon, 24 Aug 2026 13:38:10 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован RDPClient для операционной системы KolibriOS, написанной на ассемблере. В качестве инструментария кросс-компиляции использовался Kos-32 на базе GCC-5.4.0. Для реализации шифрованного канала задействована статически скомпонованная библиотека BearSSL. Учитывая ограничения самой KolibriOS и её инструментария, разработка велась на языке Си с обращением к системным вызовам напрямую. При разработке использовался AI-ассистент Claude.
-https://www.opennet.ru/opennews/art.shtml?num=66104</description>
+      <description>Опубликована новая версия дистрибутива PorteuX 2.8, основанного на Slackware и развиваемого под впечатлением от проектов Slax и Porteus. Из особенностей PorteuX отмечается наличие преднастроенных окружений на базе рабочих столов Cinnamon, COSMIC, GNOME, KDE, LXDE, LXQt, MATE и Xfce, включение аппаратного ускорения обработки мультимедийных файлов на GPU Intel, AMD и NVIDIA, загрузка в Live-режиме за 3 секунды, системный образ в режиме только для чтения с доустановкой приложений из каталога PorteuX App Store, поддержка отката установки обновлений, режим загрузки в ОЗУ (copy2ram) и возможность загрузки по сети.</description>
     </item>
     
     <item>
