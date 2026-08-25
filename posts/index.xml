@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 10:37:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выполнена формальная верификация безопасности микроядра seL4 для архитектуры AArch64</title>
+      <title>В CPython реализована официальная поддержка архитектуры RISC-V</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 25 Aug 2026 00:37:34 +0500</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:37:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Завершена работа над математической формальной верификацией надёжности и безопасности работы микроядра seL4 на системах с архитектурой набора команд AArch64. Верификация сводится к математическому доказательству корректности работы seL4, которое свидетельствует о полном соответствии заданным на формальном языке спецификациям. Доказательство надёжности позволяет использовать seL4 в критически важных системах на базе процессоров ARM64, требующих повышенного уровня безопасности и гарантирующих отсутствие сбоев.
-https://www.opennet.ru/opennews/art.shtml?num=66127</description>
+      <description>Разработчики языка программирования Python объявили о реализации официальной поддержки архитектуры RISC-V в кодовой базе CPython, эталонной реализации языка программирования Python. Для архитектуры RISC-V заявлен третий уровень поддержки, подразумевающий рабочую сборку и сопровождение как минимум одним участником из Core Team, но без гарантированного времени рассмотрения сбоев и без блокирования публикации релиза в случае наличия серьёзных проблем.
+https://www.opennet.ru/opennews/art.shtml?num=66129</description>
     </item>
     
     <item>
