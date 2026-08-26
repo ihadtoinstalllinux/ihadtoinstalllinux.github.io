@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>Haiku on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/haiku/</link>
+    <description>Recent content in Haiku on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 02:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 02:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Шестой бета-выпуск операционной системы Haiku R1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>После двух лет разработки и спустя неделю после того как проекту исполнилось 25 лет опубликован шестой бета-выпуск операционной системы Haiku R1. Изначально проект был создан как реакция на закрытие ОС BeOS и развивался под именем OpenBeOS, но был переименован в 2004 году из-за претензий, связанных с использованием в названии торговой марки BeOS. Для оценки работы нового выпуска подготовлено несколько загрузочных Live-образов (x86_64, x86 1.4 ГБ). Исходные тексты большей части ОС Haiku распространяются под свободной лицензией MIT, исключение составляют некоторые библиотеки, медиа-кодеки и компоненты, заимствованные из других проектов.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
