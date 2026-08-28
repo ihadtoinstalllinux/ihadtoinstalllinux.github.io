@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 10:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз набора компиляторов LLVM 23</title>
+      <title>Обновление дистрибутива Ubuntu 26.04.1 LTS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 28 Aug 2026 00:38:01 +0500</pubDate>
+      <pubDate>Fri, 28 Aug 2026 10:37:32 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После шести месяцев разработки представлен релиз проекта LLVM 23.1.0, развивающего инструментарий (компиляторы, оптимизаторы и генераторы кода), компилирующий программы в промежуточный биткод RISC-подобных виртуальных инструкций (низкоуровневая виртуальная машина с многоуровневой системой оптимизаций). Сгенерированный псевдокод может быть преобразован в машинный код для заданной целевой платформы или использован JIT-компилятором для формирования машинных инструкций непосредственно во время выполнения программы. На базе технологий LLVM проектом развивается компилятор Clang, поддерживающий языки программирования C, C++ и Objective-C.</description>
+      <description>Компания Canonical представила первый корректирующий выпуск дистрибутива Ubuntu 26.04.1 LTS, в который включены обновления для нескольких сотен пакетов, связанные с устранением уязвимостей и проблем, влияющих на стабильность. В новой версии также исправлены ошибки в инсталляторе и загрузчике. Релиз Ubuntu 26.04.1 ознаменовал прохождение базовой стабилизации LTS-выпуска - пользователям прошлой LTS-ветки Ubuntu 24.04 теперь будет предложено осуществить обновление до ветки 26.04.
+https://www.opennet.ru/opennews/art.shtml?num=66156</description>
     </item>
     
     <item>
