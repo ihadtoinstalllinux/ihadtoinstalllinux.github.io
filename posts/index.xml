@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 22:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Linux и FreeBSD, позволяющие получить root-доступ в системе</title>
+      <title>Дистрибутив Artix вернулся с XLibre на X.Org Server</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 28 Aug 2026 14:37:42 +0500</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:38:03 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Во FreeBSD устранено 8 уязвимостей, который дают возможность повысить свои привилегии в системе. Уязвимости устранены в обновлениях FreeBSD 15.1-RELEASE-p3, FreeBSD 15.0-RELEASE-p13 и 14.4-RELEASE-p9.
-https://www.opennet.ru/opennews/art.shtml?num=66158</description>
+      <description>Разработчики дистрибутива Artix Linux объявили о прекращении поддержки XLibre и возвращении сборок на использование X.Org Server, начиная с выпуска Artix 2026.08. Пакеты XLibre больше не будут распространяться и на уже установленных системах будут заменены на пакеты с X.Org Server. Artix был одним из первых проектов, полностью перешедших на XLibre. Дистрибутив основан на пакетной базе Arch Linux и примечателен использованием вместо systemd системных менеджеров openrc, runit, dinit и s6, на выбор пользователя.</description>
     </item>
     
     <item>
