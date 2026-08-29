@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>openKylin on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/openkylin/</link>
+    <description>Recent content in openKylin on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 15:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/openkylin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск дистрибутива openKylin 3.0, развиваемого крупнейшими китайскими компаниями</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован выпуск Linux-дистрибутива openKylin 3.0, развиваемого Китайской электронной корпорацией при участии нескольких сотен различных китайских организаций, образовательных учреждений, исследовательских центров, производителей программного обеспечения и оборудования. Дистрибутив развивает собственную, независимую от других дистрибутивов, пакетную базу. Разработка ведётся под открытыми лицензиями (в основном GPLv3) в репозиториях, размещённых на gitee.com. Готовые установочные сборки сформированы для архитектур X86_64 (8 ГБ), ARM64 (6.7 ГБ), Loong64 (4.3 ГБ) и RISC-V (5 ГБ) в вариантах для серверов и десктоп-систем.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
