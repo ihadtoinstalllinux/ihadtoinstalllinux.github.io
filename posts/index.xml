@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 19:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 11:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>98% запросов к git.kernel.org формируют боты, создавая огромную паразитную нагрузку</title>
+      <title>Выпуск операционной системы ReactOS 0.4.16</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 29 Aug 2026 19:37:37 +0500</pubDate>
+      <pubDate>Sun, 30 Aug 2026 11:37:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Константин Рябцев, администратор инфраструктуры kernel.org, опубликовал результаты анализа трафика сервиса git.kernel.org, позволяющего просматривать содержимое git-репозиториев проектов, связанных с разработкой ядра Linux. Ежедневно сервис обрабатывает около 6 млн запросов информации о коммитах, из которых 66% приходятся на ботов, которых удаётся блокировать при помощи системы Anubis. 33% запросов проходят проверку системы Anubis, разрешающей вход только после подбора на языке JavaScript значения, хэш SHA-256 от которого в сочетании с выданной сервером строкой содержит определённое число лидирующих нулей (данная задача требует ресурсов CPU для решения, но не требует ресурсов для проверки).</description>
+      <description>После полутора лет разработки представлен релиз операционной системы ReactOS 0.4.16, нацеленной на обеспечение совместимости с программами и драйверами Microsoft Windows, а также предлагающий оформление в стиле Windows. Операционная система находится на альфа-стадии разработки. Для загрузки подготовлен загрузочный ISO-образ (198 МБ). Код проекта распространяется под лицензиями GPLv2 и LGPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=66178</description>
     </item>
     
     <item>
