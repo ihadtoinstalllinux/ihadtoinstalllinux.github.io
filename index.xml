@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 17:38:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект FreeCORE продолжил развитие дистрибутива TrueNAS CORE</title>
+      <title>Выпуск свободного видеоредактора OpenShot 4.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 31 Aug 2026 12:37:38 +0500</pubDate>
+      <pubDate>Mon, 31 Aug 2026 17:38:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован первый выпуск проекта FreeCORE, развивающего дистрибутив для быстрого развёртывания сетевого хранилища (NAS, Network-Attached Storage) на технологиях FreeBSD и OpenZFS. FreeCORE создан как форк кодовой базы дистрибутива TrueNAS CORE (потомок FreeNAS), в 2024 году переведённого в режим сопровождения, ограниченного исправлением ошибок и проблем с безопасностью. Развитие TrueNAS CORE было прекращено компанией iXsystems в пользу редакции TrueNAS SCALE, в которой используется ядро Linux и пакетная база Debian.
-https://www.opennet.ru/opennews/art.shtml?num=66180</description>
+      <description>Представлен выпуск свободной системы нелинейного видеомонтажа OpenShot 4.0.0. Код проекта поставляется под лицензией GPLv3: интерфейс реализован на языке Python и библиотеке Qt, а ядра обработки видео (libopenshot) и звука (libopenshot-audio) написаны на C++ и используют возможности пакета FFmpeg. Готовые сборки подготовлены для Linux (AppImage), Windows и macOS. Одновременно опубликования версии базовых библиотек libopenshot 1.0.0 и libopenshot-audio 1.0.0.
+https://www.opennet.ru/opennews/art.shtml?num=66182</description>
     </item>
     
     <item>
