@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>RouterOS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/routeros/</link>
+    <description>Recent content in RouterOS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 17:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/routeros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Уязвимости в MikroTik RouterOS, допускающие удалённый доступ по SSH без аутенитификации</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>В операционной системе RouterOS, применяемой в маршрутизаторах MikroTik, выявлено 6 уязвимостей. Комбинация двух из них позволяет удалённо получить полный контроль над устройствами с правами администратора при условии его доступности по SSH. Зафиксированы факты эксплуатации отмеченных уязвимостей. Патчи от Mikrotick доступны с 3 сентября (RouterOS 7.25 beta 3, 7.24.2, 7.23.4, 6.49.21) и вероятно атакующие смогли определить суть уязвимостей по этим патчам.
 https://www.opennet.ru/opennews/art.shtml?num=66224</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
