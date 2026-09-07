@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:37:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 10:37:40 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Началось альфа-тестирование Slackware 16.0 </title>
+      <title>Выпуск Gotcha 1.0, платформы мониторинга ошибок и производительности</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 06 Sep 2026 20:37:33 +0500</pubDate>
+      <pubDate>Mon, 07 Sep 2026 10:37:40 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Спустя четыре с половиной года с момента прошлого выпуска Патрик Фолькердинг (Patrick Volkerding) объявил о начале альфа-тестирования дистрибутива Slackware 16.0. Проект развивается с 1993 года и является старейшим из ныне существующих дистрибутивов. Особенностями дистрибутива являются отсутствие усложнений и простая система инициализации, что делает Slackware интересным решением для изучения работы Unix-подобных систем, проведения экспериментов и знакомства с Linux. Для загрузки.
-https://www.opennet.ru/opennews/art.shtml?num=66219</description>
+      <description>Опубликован выпуск Gotcha 1.0 - self-hosted-платформы мониторинга, объединяющей отслеживание ошибок, распределённые трейсы, метрики, профили, логи, мониторинг доступности с публичными статус-страницами и мониторинг хостов. Проект написан на Go и распространяется под лицензией Apache-2.0. Приём данных совместим с протоколом Sentry SDK и OTLP, данные хранятся в PostgreSQL и ClickHouse. Минимальные требования - 2 vCPU и 2 ГБ ОЗУ. Интерфейс, шаблоны писем и документация доступны на русском и английском языках.
+https://www.opennet.ru/opennews/art.shtml?num=66220</description>
     </item>
     
     <item>
