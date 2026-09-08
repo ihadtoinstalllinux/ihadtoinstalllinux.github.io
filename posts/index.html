@@ -154,15 +154,14 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Релиз FreeBSD 14.5
+    <h2>Уязвимость в ОС Qubes, позволяющая обойти изоляцию и выполнить код на уровне Dom0
     </h2>
   </header>
   <section class="entry-content">
-    <p>После шести месяцев разработки сформирован релиз FreeBSD 14.5. Установочные образы подготовлены для архитектур amd64, i386, aarch64, armv7, powerpc, powerpc64 и riscv64. Дополнительно подготовлены сборки для систем виртуализации (QCOW2, VHD, VMDK, raw) и облачных окружений Amazon EC2, Google Compute Engine и Vagrant.
-https://www.opennet.ru/opennews/art.shtml?num=66230</p>
+    <p>Опубликована информация об уязвимости в операционной системе Qubes, использующей гипервизор для строгой изоляции приложений и компонентов ОС (каждый класс приложений и системные сервисы работают в отдельных виртуальных машинах). В случае если атакующий скомпрометирует одну из виртуальных машин, уязвимость позволяет обойти изоляцию, добиться выполнения произвольных команд на стороне хостового окружения (Dom0) и получить контроль над всей операционной системой. Проблема проявляется при использовании пользователем утилиты “qvm-copy-to-vm” для копирования файла из хостового окружения в подконтрольную атакующему виртуальную машину....</p>
   </section>
-  <footer class="entry-footer"><span title='2026-09-08 13:37:20 +0500 +05'>September 8, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Релиз FreeBSD 14.5" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2026-09-08 16:37:48 +0500 +05'>September 8, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в ОС Qubes, позволяющая обойти изоляцию и выполнить код на уровне Dom0" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
