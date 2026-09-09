@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 12:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в ОС Qubes, позволяющая обойти изоляцию и выполнить код на уровне Dom0</title>
+      <title>Релиз языка программирования Nim 2.2.12 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 08 Sep 2026 16:37:48 +0500</pubDate>
+      <pubDate>Wed, 09 Sep 2026 12:38:10 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликована информация об уязвимости в операционной системе Qubes, использующей гипервизор для строгой изоляции приложений и компонентов ОС (каждый класс приложений и системные сервисы работают в отдельных виртуальных машинах). В случае если атакующий скомпрометирует одну из виртуальных машин, уязвимость позволяет обойти изоляцию, добиться выполнения произвольных команд на стороне хостового окружения (Dom0) и получить контроль над всей операционной системой. Проблема проявляется при использовании пользователем утилиты &amp;ldquo;qvm-copy-to-vm&amp;rdquo; для копирования файла из хостового окружения в подконтрольную атакующему виртуальную машину.</description>
+      <description>После четырёх месяцев разработки представлен релиз языка системного программирования Nim 2.2.12. Nim – статически типизированный компилируемый язык программирования с синтаксисом, вдохновлённым Python, и возможностями метапрограммирования на уровне Lisp. Язык компилируется в C, C++ и JavaScript, обеспечивая производительность на уровне C при выразительности высокоуровневых языков. Код проекта поставляется под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66237</description>
     </item>
     
     <item>
