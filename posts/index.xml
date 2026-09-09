@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 13:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз языка программирования Nim 2.2.12 </title>
+      <title>Бета-выпуск MiDesktop, форка KDE 1 для современных систем </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 09 Sep 2026 12:38:10 +0500</pubDate>
+      <pubDate>Wed, 09 Sep 2026 13:38:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После четырёх месяцев разработки представлен релиз языка системного программирования Nim 2.2.12. Nim – статически типизированный компилируемый язык программирования с синтаксисом, вдохновлённым Python, и возможностями метапрограммирования на уровне Lisp. Язык компилируется в C, C++ и JavaScript, обеспечивая производительность на уровне C при выразительности высокоуровневых языков. Код проекта поставляется под лицензией MIT.
-https://www.opennet.ru/opennews/art.shtml?num=66237</description>
+      <description>Представлен первый бета-выпуск проекта MiDesktop, развивающего форк среды рабочего стола KDE 1.1.2, адаптированный для работы на современных системах. Для решения проблем и избавления от ограничений лицензии, специфичных для ветки Qt 1, кодовая база KDE 1 портирована на фреймворк Osiris, развивающий актуализированный форк Qt 2.3.2. Код MiDesktop распространяется под лицензией GPLv2. Готовые сборки сформированы для Debian 13 и Ubuntu 24.04.
+https://www.opennet.ru/opennews/art.shtml?num=66238</description>
     </item>
     
     <item>
