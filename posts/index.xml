@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 19:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Бета-выпуск MiDesktop, форка KDE 1 для современных систем </title>
+      <title>18 уязвимостей в ядре Linux c эксплоитами для получения прав root в системе</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 09 Sep 2026 13:38:04 +0500</pubDate>
+      <pubDate>Wed, 09 Sep 2026 19:37:19 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен первый бета-выпуск проекта MiDesktop, развивающего форк среды рабочего стола KDE 1.1.2, адаптированный для работы на современных системах. Для решения проблем и избавления от ограничений лицензии, специфичных для ветки Qt 1, кодовая база KDE 1 портирована на фреймворк Osiris, развивающий актуализированный форк Qt 2.3.2. Код MiDesktop распространяется под лицензией GPLv2. Готовые сборки сформированы для Debian 13 и Ubuntu 24.04.
-https://www.opennet.ru/opennews/art.shtml?num=66238</description>
+      <description>Исследователи из компании Nebula Security раскрыли сведения о 18 уязвимостях в ядре Linux и подготовили для них эксплоиты, позволяющие непривилегированному локальному пользователю получить права root в системе. Уязвимости устранены в различных весенних и летних обновления ядра ядра. Выявленные проблемы.
+https://www.opennet.ru/opennews/art.shtml?num=66239</description>
     </item>
     
     <item>
