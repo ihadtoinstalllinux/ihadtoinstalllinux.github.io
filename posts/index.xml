@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:38:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 15:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Для FreeBSD развивают новый системный менеджер rcd</title>
+      <title>Выпуск медиасервера Jellyfin 1.12</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 10 Sep 2026 12:38:07 +0500</pubDate>
+      <pubDate>Thu, 10 Sep 2026 15:37:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Батист Даруссен (Baptiste Daroussin), член FreeBSD Core Team и автор пакетного менеджера pkg, развивает новый системный менеджер для FreeBSD - rcd. Системный менеджер rcd вызывается init-процессом вместо /etc/rc, читает файлы конфигурации сервисов (/etc/rcd.d/*.ucl), строит дерево зависимостей и запускает сервисы по возможности параллельно друг с другом, после чего отслеживает работу сервисов и при необходимости их перезапускает.
-https://www.opennet.ru/opennews/art.shtml?num=66245</description>
+      <description>Представлен релиз проекта Jellyfin 1.12, позволяющего развернуть на собственном сервере систему мультимедийного вещания для трансляции имеющегося контента на устройства пользователей. Проект основан в 2018 году как форк медиасеврера Emby, продолживший развитие открытой кодовой базы после перехода Emby на проприератную модель разработки. Код Jellyfin написан на языке C# с использованием платформы .NET и распространяется под лицензией GPLv2. Предоставляются клиентские программы для ПК, мобильных устройств телевизоров, телеприставок и игровых контроллеров, а также web-интерфейс для настройки медиасервера, организации online-вещания и управления мультимедийной коллекцией.</description>
     </item>
     
     <item>
