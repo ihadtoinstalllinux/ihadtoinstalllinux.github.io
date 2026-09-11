@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 17:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Sep 2026 18:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступна операционная система реального времени RT-Thread 5.3</title>
+      <title>Выпуск ESP-KVM 0.45.0, открытой прошивки IP-KVM на базе ESP32-P4</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 11 Sep 2026 17:37:27 +0500</pubDate>
+      <pubDate>Fri, 11 Sep 2026 18:38:10 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск RT-Thread 5.3, операционной системы реального времени (RTOS) для устройств интернета-вещей. Система развивается с 2006 года сообществом китайских разработчиков и в настоящее время портирована для 155 плат, чипов и микроконтроллеров на базе архитектур x86, ARM, MIPS, С-SKY, Xtensa, ARC и RISC-V. Минималистичная сборка RT-Thread (Nano) требует для работы всего 3 КБ Flash и 1.2 КБ ОЗУ. Для IoT-устройств, сильно не ограниченных в ресурсах, предлагается полнофункциональная версия, поддерживающая управление пакетами, конфигураторы, сетевой стек, пакеты с реализацией графического интерфейса, системы голосового управления, СУБД, сетевых сервисов и движков для выполнения скриптов.</description>
+      <description>Опубликован выпуск проекта ESP-KVM, развивающего открытую прошивку, которая превращает отладочную плату на микроконтроллере ESP32-P4 в полноценный IP-KVM - устройство, дающее доступ к экрану, клавиатуре и мыши удалённого компьютера через браузер. В отличие от средств удалённого рабочего стола, на управляемой машине ничего не устанавливается и от её операционной системы ничего не требуется: устройство подключается к видеовыходу и USB-порту и работает, когда компьютер показывает интерфейс BIOS, грузится, стоит с пустым диском или выключен.</description>
     </item>
     
     <item>
