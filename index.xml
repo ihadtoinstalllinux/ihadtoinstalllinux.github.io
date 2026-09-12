@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2026 10:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск ESP-KVM 0.45.0, открытой прошивки IP-KVM на базе ESP32-P4</title>
+      <title>Выпуск OpenRGB 1.0, инструментария для управления RGB-подсветкой</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 11 Sep 2026 18:38:10 +0500</pubDate>
+      <pubDate>Sat, 12 Sep 2026 10:37:30 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта ESP-KVM, развивающего открытую прошивку, которая превращает отладочную плату на микроконтроллере ESP32-P4 в полноценный IP-KVM - устройство, дающее доступ к экрану, клавиатуре и мыши удалённого компьютера через браузер. В отличие от средств удалённого рабочего стола, на управляемой машине ничего не устанавливается и от её операционной системы ничего не требуется: устройство подключается к видеовыходу и USB-порту и работает, когда компьютер показывает интерфейс BIOS, грузится, стоит с пустым диском или выключен.</description>
+      <description>Опубликован релиз проекта OpenRGB 1.0, развивающего инструментарий для управления RGB-подсветкой компонентов ПК и периферийных устройств. Код написан на C/C++ и распространяется под лицензией GPLv2. Готовые сборки в ближайшие часы будут сформированы для Linux (deb, rpm, appimage, flatpak), macOS и Windows. При обновлении необходимо пересоздать профили и установить заново плагины.
+https://www.opennet.ru/opennews/art.shtml?num=66258</description>
     </item>
     
     <item>
