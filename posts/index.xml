@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2026 23:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск ESP-KVM 0.51.0, открытой прошивки IP-KVM , с записью экрана на microSD</title>
+      <title>Стабильный выпуск СУБД MariaDB 13.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 18 Sep 2026 06:37:47 +0500</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:37:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск ESP-KVM 0.51.2, открытой прошивки, превращающей плату на микроконтроллере ESP32-P4 в IP-KVM с доступом к экрану, клавиатуре и мыши удалённого компьютера через браузер, без установки агента на управляемую машину. Код написан на языке Си и распространяется под лицензией Apache 2.0. Основное изменение выпуска - запись происходящего на экране цели на карту microSD самого устройства.
-https://www.opennet.ru/opennews/art.shtml?num=66301</description>
+      <description>Представлен выпуск СУБД MariaDB 12.0.2, который отмечен как первый стабильный релиз ветки 13.0. Ветка MariaDB 13.0 отнесена к промежуточным выпускам (rolling), продолжающим постепенное развитие функциональности и сопровождаемым до стабильного релиза следующей ветки. Одновременно доступен выпуск MariaDB 13.1.1, имеющий статус кандидата в релизы.
+https://www.opennet.ru/opennews/art.shtml?num=66303</description>
     </item>
     
     <item>
