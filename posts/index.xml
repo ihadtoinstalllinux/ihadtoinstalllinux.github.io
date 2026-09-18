@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2026 00:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Стабильный выпуск СУБД MariaDB 13.0</title>
+      <title>Опубликована библиотека управления памятью jemalloc 5.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 18 Sep 2026 23:37:35 +0500</pubDate>
+      <pubDate>Sat, 19 Sep 2026 00:37:15 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск СУБД MariaDB 12.0.2, который отмечен как первый стабильный релиз ветки 13.0. Ветка MariaDB 13.0 отнесена к промежуточным выпускам (rolling), продолжающим постепенное развитие функциональности и сопровождаемым до стабильного релиза следующей ветки. Одновременно доступен выпуск MariaDB 13.1.1, имеющий статус кандидата в релизы.
-https://www.opennet.ru/opennews/art.shtml?num=66303</description>
+      <description>Представлен релиз библиотеки управления памятью jemalloc 5.4.0, предлагающей альтернативную реализацию функций malloc, оптимизированную для снижения фрагментации и работы на многопроцессорных системах. Для решения проблем с блокировками на многоядерных системах в jemalloc для каждого ядра CPU используется своя изолированная область распределения памяти, что позволяет добиться линейной масштабируемости при росте числа потоков.
+https://www.opennet.ru/opennews/art.shtml?num=66304</description>
     </item>
     
     <item>
