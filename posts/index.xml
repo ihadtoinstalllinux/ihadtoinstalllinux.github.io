@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2026 17:37:55 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована библиотека управления памятью jemalloc 5.3</title>
+      <title>Новые версии Wine 11.18 и Wine-staging 11.18 </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 19 Sep 2026 00:37:15 +0500</pubDate>
+      <pubDate>Sat, 19 Sep 2026 17:37:55 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз библиотеки управления памятью jemalloc 5.4.0, предлагающей альтернативную реализацию функций malloc, оптимизированную для снижения фрагментации и работы на многопроцессорных системах. Для решения проблем с блокировками на многоядерных системах в jemalloc для каждого ядра CPU используется своя изолированная область распределения памяти, что позволяет добиться линейной масштабируемости при росте числа потоков.
-https://www.opennet.ru/opennews/art.shtml?num=66304</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.18. С момента выпуска 11.17 был закрыто 44 отчёта об ошибках и внесено 380 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=66307</description>
     </item>
     
     <item>
