@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2026 14:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск системного менеджера systemd 262</title>
+      <title>Первый выпуск scan, библиотеки разбора текста для C&#43;&#43; с построением конечного автомата при компиляции</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 23 Sep 2026 13:37:44 +0500</pubDate>
+      <pubDate>Wed, 23 Sep 2026 14:38:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После трёх месяцев разработки доступен релиз системного менеджера systemd 262. В новой версии реализовано встраивание в процесс минимального набора unit-файлов, обеспечена поддержка сборки со статическим связыванием, проведена интеграция c dm-clone для клонирования блочных устройств, добавлено ведение БД установленных файлов в systemd-sysupdate и обеспечена криптографическая верификация отчётов systemd-report.
-https://www.opennet.ru/opennews/art.shtml?num=66326</description>
+      <description>Опубликован первый выпуск библиотеки scan.
+https://www.opennet.ru/opennews/art.shtml?num=66327</description>
     </item>
     
     <item>
