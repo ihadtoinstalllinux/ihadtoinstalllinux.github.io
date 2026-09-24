@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Qualcomm on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qualcomm/</link>
+    <description>Recent content in Qualcomm on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2026 15:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qualcomm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qualcomm реализует поддержку чипов Snapdragon X2 в Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Qualcomm объявила о передаче в основной состав ядра Linux изменений, обеспечивающих поддержку устройств на чипах Snapdragon X2, оснащённых CPU Qualcomm Oryon (6-18 ядер в зависимости от модели), AI-ускорителем Hexagon (80 TOPS) и GPU Adreno X2-90. Среди прочего будет подготовлен FastRPC-драйвер для NPU Hexagon и добавлена поддержка новых GPU Adreno в Mesa-драйверы Freedreno, Turnip и Rusticl.
 https://www.opennet.ru/opennews/art.shtml?num=66334</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2026 15:37:47 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Chrome 154</title>
+      <title>Qualcomm реализует поддержку чипов Snapdragon X2 в Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 24 Sep 2026 13:37:49 +0500</pubDate>
+      <pubDate>Thu, 24 Sep 2026 15:37:47 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Google опубликовала релиз web-браузера Chrome 154. Одновременно доступен стабильный выпуск свободного проекта Chromium, выступающего основой Chrome. Браузер Chrome отличается от Chromium использованием логотипов Google, наличием системы отправки уведомлений в случае краха, модулями для воспроизведения защищённого от копирования видеоконтента (DRM), системой автоматической установки обновлений, постоянным включением Sandbox-изоляции, поставкой ключей к Google API и передачей RLZ-параметров при поиске. Для тех, кому необходимо больше времени на обновление, отдельно поддерживается ветка Extended Stable, сопровождаемая 8 недель.</description>
+      <description>Компания Qualcomm объявила о передаче в основной состав ядра Linux изменений, обеспечивающих поддержку устройств на чипах Snapdragon X2, оснащённых CPU Qualcomm Oryon (6-18 ядер в зависимости от модели), AI-ускорителем Hexagon (80 TOPS) и GPU Adreno X2-90. Среди прочего будет подготовлен FastRPC-драйвер для NPU Hexagon и добавлена поддержка новых GPU Adreno в Mesa-драйверы Freedreno, Turnip и Rusticl.
+https://www.opennet.ru/opennews/art.shtml?num=66334</description>
     </item>
     
     <item>
