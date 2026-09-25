@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:38:06 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2026 12:37:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск среды рабочего стола COSMIC 1.9.0</title>
+      <title>Атаки по сторонним каналам через механизм отслеживания изменений в ФС</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 25 Sep 2026 01:38:06 +0500</pubDate>
+      <pubDate>Fri, 25 Sep 2026 12:37:51 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания System76, разрабатывающая Linux-дистрибутив Pop!_OS, опубликовала выпуск среды рабочего стола COSMIC 1.9.0. Пакеты с COSMIC 1.9.0 доступны в дистрибутиве Pop!_OS 24.04 и в ближайшее время ожидаются в Fedora, NixOS, Arch Linux, openSUSE, Aeyrin OS, Redox и CachyOS. Код написан на языке Rust и распространяется под лицензиями GPLv3 (приложения) и MPL-2.0 (библиотеки).
-https://www.opennet.ru/opennews/art.shtml?num=66339</description>
+      <description>Исследователи из Грацского технического университета (Австрия) выявили серию атак по сторонним каналам (PDF), осуществляемых через механизмы отслеживания изменений в файловой системе. Атаки позволяют отслеживать активность других пользователей на основе анализа событий об обращении к файлам и каталогам через такие API, как inotify в Linux, FileObserver в Android, ReadDirectoryChangesW в Windows и File System Events в macOS. Полученные сведения могут использоваться для воссоздания информации, вводимой пользователем с клавиатуры, для определения открываемых сайтов или для организации clickjacking-атак, осуществляющих наложение содержимого на активное окно в момент перед кликом.</description>
     </item>
     
     <item>
