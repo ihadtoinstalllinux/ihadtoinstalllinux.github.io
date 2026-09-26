@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>virtio on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/virtio/</link>
+    <description>Recent content in virtio on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2026 11:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/virtio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>virtio-nvgpu - модуль для предоставления доступа к GPU NVIDIA из виртуальных машин KVM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Проект virtio-nvgpu развивает virtio-устройство, позволяющее получить доступ к GPU NVIDIA из гостевых систем, запущенных под управлением гипервизора KVM, с минимальной потерей производительности. В состав входит модуль ядра, загружаемый в гостевой системе и virtio-устройство, выполняемое на стороне хост-окружения. Код модуля ядра написан на языке Си и распространяется под лицензией GPLv2, а код virtio-устройства написан на Rust и распространяется под лицензией Apache 2.0.
 https://www.opennet.ru/opennews/art.shtml?num=66344</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

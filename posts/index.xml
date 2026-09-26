@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:37:28 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2026 11:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован менеджер установки приложений F-Droid 2.0</title>
+      <title>virtio-nvgpu - модуль для предоставления доступа к GPU NVIDIA из виртуальных машин KVM</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 25 Sep 2026 17:37:28 +0500</pubDate>
+      <pubDate>Sat, 26 Sep 2026 11:37:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект F-Droid, развивающий каталог открытых приложений для Android, опубликовал официальное мобильное приложение F-Droid 2.0, в котором задействовано современно оформление в стиле Material Design, переписаны ключевые компоненты, переработана система разделения приложений на категории, упрощены процессы поиска и установки приложений, но при этом сохранены привычные методы работы. Код проекта распространяется под лицензией GPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=66343</description>
+      <description>Проект virtio-nvgpu развивает virtio-устройство, позволяющее получить доступ к GPU NVIDIA из гостевых систем, запущенных под управлением гипервизора KVM, с минимальной потерей производительности. В состав входит модуль ядра, загружаемый в гостевой системе и virtio-устройство, выполняемое на стороне хост-окружения. Код модуля ядра написан на языке Си и распространяется под лицензией GPLv2, а код virtio-устройства написан на Rust и распространяется под лицензией Apache 2.0.
+https://www.opennet.ru/opennews/art.shtml?num=66344</description>
     </item>
     
     <item>
