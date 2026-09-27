@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:37:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2026 10:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Coreboot 26.09, открытой альтернативы проприетарным прошивкам </title>
+      <title>Первый выпуск osu!cpp, неофициального клиента для игры osu! на C&#43;&#43;23 и Skia</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 26 Sep 2026 13:37:24 +0500</pubDate>
+      <pubDate>Sun, 27 Sep 2026 10:37:32 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск проекта CoreBoot 26.09, разрабатывающего свободную альтернативу проприетарным прошивкам и BIOS. Код проекта распространяется под лицензией GPLv2. В состав новой версии включено 1251 изменение, подготовленное при участии 112 разработчиков, из которых 28 впервые приняли участие в разработке.
-https://www.opennet.ru/opennews/art.shtml?num=66346</description>
+      <description>Опубликован первый выпуск osu-cpp, неофициального клиента ритм-игры osu!, написанного на C++23 в виде модулей и использующего для отрисовки библиотеку Skia. Код распространяется под лицензией AGPLv3. Клиент собирается для Linux (обычная сборка, Flatpak, Nix, Guix), для браузера (WebAssembly), для Android и для Ubuntu Touch. Браузерную версию можно запустить без установки. Вместе с клиентом под лицензией AGPLv3 развиваются библиотеки для построения графического интерфейса skiff и skiff-widgets.
+https://www.opennet.ru/opennews/art.shtml?num=66333</description>
     </item>
     
     <item>
