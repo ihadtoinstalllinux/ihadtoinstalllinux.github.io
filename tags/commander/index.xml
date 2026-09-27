@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Commander on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/commander/</link>
+    <description>Recent content in Commander on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2026 11:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/commander/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выпуск M-Commander 6.1.0, форка файлового менеджера Midnight Commander</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Опубликован выпуск консольного двухпанельного файлового менеджера M-Commander 6.1.0, развивающегося как ответвление от GNU Midnight Commander, расширенное поддержкой панельных плагинов, загружаемых во время работы. Через плагины в панелях открываются архивы, внешние хранилища (FTP, SFTP, Samba, S3), репозитории Git, контейнеры Docker, ресурсы Kubernetes, базы MongoDB и SQLite. Subshell-механизм заменён на встроенный PTY-терминал mcterm. Код написан на языках C и Lua и распространяется под лицензией GPLv3+. Готовые пакеты сформированы для Debian 13, Ubuntu 24.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
