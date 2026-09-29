@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2026 23:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Метод атаки, значительно сокращающий ресурсы для подделки цифровых подписей RSA</title>
+      <title>Microsoft опубликовал WSL 3.0 с поддержкой запуска Linux-контейнеров в Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 29 Sep 2026 16:37:34 +0500</pubDate>
+      <pubDate>Tue, 29 Sep 2026 23:37:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из Калифорнийского университета в Сан-Диего разработали усовершенствованную технику атаки на алгоритм RSA, позволяющую подделывать цифровые подписи без факторизации лежащих в основе RSA простых чисел и без необходимости восстановления закрытого ключа. Ресурсы, необходимые для совершения атаки на 1024-разрядный ключ RSA, оценены в 1380 лет вычислений на одном процессором ядре, что на имеющемся университетском кластере позволило за 5 месяцев определить параметры, необходимые для формирования фиктивных RSA-подписие (в эксперименте не использовались AI-ускорители и GPU, при их применении время вычислений может существенно сократиться).</description>
+      <description>Компания Microsoft представила релиз инструментария WSL 3.0 (Windows Subsystem for Linux), позволяющего запускать Linux-приложения в Windows. Новая ветка примечательна реализацией возможности для запуска Linux-контейнеров в Windows и переходом на использование ядра Linux 6.18. Код применяемых в WSL утилит командной строки, фоновых процессов для Linux-окружений, сервисов для запуска контейнеров и виртуальной машины, а также графического стека wslg открыт под лицензией MIT. Изменения для ядра Linux поставляются под лицензией GPLv2.
+https://www.opennet.ru/opennews/art.shtml?num=66369</description>
     </item>
     
     <item>

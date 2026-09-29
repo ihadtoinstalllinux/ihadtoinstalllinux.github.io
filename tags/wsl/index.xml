@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>WSL on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2026 23:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft опубликовал WSL 3.0 с поддержкой запуска Linux-контейнеров в Windows</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Компания Microsoft представила релиз инструментария WSL 3.0 (Windows Subsystem for Linux), позволяющего запускать Linux-приложения в Windows. Новая ветка примечательна реализацией возможности для запуска Linux-контейнеров в Windows и переходом на использование ядра Linux 6.18. Код применяемых в WSL утилит командной строки, фоновых процессов для Linux-окружений, сервисов для запуска контейнеров и виртуальной машины, а также графического стека wslg открыт под лицензией MIT. Изменения для ядра Linux поставляются под лицензией GPLv2.
 https://www.opennet.ru/opennews/art.shtml?num=66369</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
