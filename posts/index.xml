@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 14:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2026 15:37:59 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск инсталлятора Archinstall 4.5, применяемого в дистрибутиве Arch Linux</title>
+      <title>Опубликован легковесный дистрибутив antiX 26.1</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 30 Sep 2026 14:37:20 +0500</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:37:59 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск инсталлятора Archinstall 4.5, который с 2021 года в качестве опции входит в состав установочных iso-образов Arch Linux. Archinstall работает в консольном режиме и может использоваться вместо предлагаемого по умолчанию ручного режима установки дистрибутива. Код Archinstall написан на языке Python и распространяется под лицензией GPLv3.
-https://www.opennet.ru/opennews/art.shtml?num=66372</description>
+      <description>Представлен легковесный Live-дистрибутив AntiX 26.1, построенный на пакетной базе Debian 13 и нацеленный на установку на устаревшее оборудование. Выпуск поставляется без системного менеджера systemd и с eudev вместо udev. Для использования доступны 5 систем инициализации: runit (по умолчанию), sysVinit, dinit, s6-rc и s6-66. Базовое пользовательское окружение сформировано при помощи оконного менеджера IceWM и файлового менеджера zzzFM, но дополнительно в поставку включены fluxbox, jwm и herbstluftwm. В полной сборке предложено ядро Linux 6.</description>
     </item>
     
     <item>
