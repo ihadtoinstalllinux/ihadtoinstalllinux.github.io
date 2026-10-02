@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>DXVK on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dxvk/</link>
+    <description>Recent content in DXVK on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2026 12:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dxvk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проект Argon Forge опубликовал оптимизированные сборки Mesa, Gamescope, DXVK, VKD3D-Proton и Wine</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,18 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Представлен проект Argon Forge, в рамках которого формируются оптимизированные сборки ключевых компонентов графического стека Linux: Mesa, Gamescope, DXVK, VKD3D-Proton и Wine. Сборки распространяются через APT-репозитории, размещённые на GitHub Pages, и ориентированы на процессоры с поддержкой AVX2 (x86-64-v3) и AVX-512 (x86-64-v4). Проект нацелен на пользователей дистрибутивов Devuan 6 &amp;ldquo;Excalibur&amp;rdquo; и Debian 13 &amp;ldquo;Trixie&amp;rdquo;, желающих получить максимум производительности от графического стека в играх. Пакеты используют библиотечную базу этих выпусков и не предназначены для установки на более старые версии дистрибутивов.</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
