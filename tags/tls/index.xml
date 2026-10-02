@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>TLS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/tls/</link>
+    <description>Recent content in TLS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2026 16:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/tls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare создаёт удостоверяющий центр для бесплатной раздачи TLS-сертификатов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Cloudflare анонсировала создание собственного удостоверяющего центра, нацеленного на предоставление бесплатных TLS-сертификатов, использующих криптоалгоритмы, стойкие к подбору на квантовом компьютере. Одновременно объявлено о покупке удостоверяющего центра GlobalSign, который станет базисом для реализации задуманного проекта и позволит сразу выпускать сертификаты, для которых обеспечен максимальных охват устройств, благодаря присутствию GlobalSign в существующих списках корневых сертификатов. Помимо этого компания Cloudflare подала заявки на включение собственного корневого сертификата в списки корневых сертификатов, поддерживаемые Google, Apple, Microsoft и Mozilla.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
