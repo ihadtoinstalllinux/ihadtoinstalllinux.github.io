@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2026 13:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован порт файлового менеджера DOS Navigator на Free Pascal</title>
+      <title>Новые версии Wine 11.19, Wine-staging 11.19 и D7VK 2.3</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 03 Oct 2026 12:38:01 +0500</pubDate>
+      <pubDate>Sat, 03 Oct 2026 13:37:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Подготовлен порт файлового менеджера DOS Navigator, переделанный для сборки с использованием компилятора Free Pascal. На данный момент поддерживается сборка под DOS и Linux. Уже работает отображение панелей, просмотрщик, редактор, выполнение команд, базовые операции с файлами и встроенная игра Тетрис. Для обеспечения лицензионной чистоты в процессе портирования удалены все следы кода оригинальной библиотеки Turbo Vision от Borland (вместо неё используется переписанная на Pascal современная Си-версия tvision). Кодировка внутри пока однобайтная из-за ограничений исходной архитектуры (в Necromancer DOS Navigator та же проблема).</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.19. С момента выпуска 11.18 был закрыто 23 отчёта об ошибках и внесено 358 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=66387</description>
     </item>
     
     <item>
