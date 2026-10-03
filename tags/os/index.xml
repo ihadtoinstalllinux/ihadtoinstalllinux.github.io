@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>OS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/os/</link>
+    <description>Recent content in OS on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 01:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2026 01:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проекты Pop!_OS и COSMIC запретили приём изменений, созданных через AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -15,16 +15,6 @@
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания System76 внесла в правила приёма pull-запросов для среды рабочего стола COSMIC и в соглашение об участии в разработке дистрибутива Linux-дистрибутива Pop!_OS требования, запрещающие передачу в изменениях или сообщениях о проблемах содержимого, сгенерированного с использованием AI-инструментов. Запрет касается кода, комментариев и текстовых описаний. Вначале в правилах было упомянуто о допустимости использования AI для проведения исследований, тестирования и других похожих задач, но затем это примечание было удалено.
 https://www.opennet.ru/opennews/art.shtml?num=66392</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>

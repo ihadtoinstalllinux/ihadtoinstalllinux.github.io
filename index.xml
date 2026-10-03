@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2026 01:37:17 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление ОС Qubes 4.3.2, использующей виртуализацию для изоляции приложений</title>
+      <title>Проекты Pop!_OS и COSMIC запретили приём изменений, созданных через AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 03 Oct 2026 17:38:01 +0500</pubDate>
+      <pubDate>Sun, 04 Oct 2026 01:37:17 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен выпуск операционной системы Qubes 4.3.2, реализующей идею использования гипервизора для строгой изоляции приложений и компонентов ОС (каждый класс приложений и системные сервисы работают в отдельных виртуальных машинах). Для работы рекомендуется система с 16 Гб ОЗУ (минимум - 6 Гб) и 64-разрядным CPU Intel или AMD с поддержкой технологий VT-x c EPT/AMD-v c RVI и VT-d или AMD IOMMU, желательно наличие GPU Intel (GPU NVIDIA и AMD недостаточно хорошо протестированы). Размер установочного образа - 8 ГБ (x86_64).</description>
+      <description>Компания System76 внесла в правила приёма pull-запросов для среды рабочего стола COSMIC и в соглашение об участии в разработке дистрибутива Linux-дистрибутива Pop!_OS требования, запрещающие передачу в изменениях или сообщениях о проблемах содержимого, сгенерированного с использованием AI-инструментов. Запрет касается кода, комментариев и текстовых описаний. Вначале в правилах было упомянуто о допустимости использования AI для проведения исследований, тестирования и других похожих задач, но затем это примечание было удалено.
+https://www.opennet.ru/opennews/art.shtml?num=66392</description>
     </item>
     
     <item>
