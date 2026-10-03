@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 02:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2026 03:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск языка программирования Zig 0.17.0</title>
+      <title>Создана среда, позволяющая собирать С&#43;&#43; приложения для Windows, Linux, macOS в браузере</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 04 Oct 2026 02:38:02 +0500</pubDate>
+      <pubDate>Sun, 04 Oct 2026 03:37:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После пяти месяцев разработки опубликован выпуск языка программирования Zig 0.17.0, развиваемого в качестве современной замены языка Си. В Zig пытаются сохранить простоту, гибкость использования и предсказуемость кодогенерации языка Си, при этом добавляя новшества для более эргономичной и безопасной разработки. Zig предоставляет возможности метапрограммирования (выполнения кода во время компиляции) и современную систему типов, созданную с огладкой на обеспечение безопасности и производительности (опциональные типы вместо нулевых указателей, выравнивание по адресу как часть типа, целочисленные типы с размерностью от 0 до 65535 бит, кортежи и т.</description>
+      <description>Группа энтузиастов создала SDK Xenolith, позволяющий собирать полноценные настольные приложения прямо в браузере. Система позволяет кросс-компилировать графические приложения с любой из поддерживаемых систем на любую другую. Одной из поддерживаемых систем является WebAssembly, потому приложения можно собирать для браузера, и собирать в браузере для любой другой платформы. Исходный код проекта написан на C++ и доступен под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66384</description>
     </item>
     
     <item>
