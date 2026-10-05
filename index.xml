@@ -6,15 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2026 12:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Rocky Linux анонсировал OpenCourant, форк OpenRadioss</title>
+      <title>Тео де Раадт предложил изменения для ограничения доступа к ФС через функцию openat</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 05 Oct 2026 01:38:01 +0500</pubDate>
+      <pubDate>Mon, 05 Oct 2026 12:37:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Некоммерческая организация Rocky Enterprise Software Foundation, курирующая разработку дистрибутива Rocky Linux, объявила о создании проекта OpenCourant, который продолжит развитие открытой кодовой базы платформы OpenRadioss после её трансформации в проприетарный продукт. Код проекта продолжит развиваться под лицензией APGLv3 силами сообщества и под управлением некоммерческого фонда, не зависящего от отдельных поставщиков. Для участия в работе над форком приглашаются разработчики, вовлечённые в работу над проектом OpenRadioss до его закрытия.
-https://www.opennet.ru/opennews/art.shtml?num=66400</description>
+      <description>Тео де Раадт предложил включить в OpenBSD новый механизм для уменьшения поверхности атаки, реализованный через расширение возможностей системного вызова openat. Патчи с реализацией дополнительных флагов для openat и open, ограничивающих возможность перехода к верхним каталогам через &amp;ldquo;/..&amp;rdquo; и обращения по абсолютным путям, подготовлены для ядра, libc, а также некоторых приложений из базовой системы. Изменения пока не включены в состав OpenBSD-current и находятся на стадии обсуждения среди разработчиков.
+https://www.opennet.ru/opennews/art.shtml?num=66401</description>
     </item>
     
     <item>
