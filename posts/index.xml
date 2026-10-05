@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2026 15:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск Phosh 0.58, GNOME-окружения для смартфонов</title>
+      <title>Инженер из NVIDIA протестировал уровень задержек при использовании Wayland и X.Org</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 05 Oct 2026 14:37:37 +0500</pubDate>
+      <pubDate>Mon, 05 Oct 2026 15:38:10 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз Phosh 0.58, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и используется в postmarketOS, Mobian, ALT Mobile, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру. Наработки проекта распространяются под лицензией GPLv3+.</description>
+      <description>Камиль Лысик (Kamil Łysik), работающий в компании NVIDIA, выступил на конференции XDC 2026 с докладом, в котором рассказал о результатах тестирования задержек вывода информации в окружениях GNOME 49.7 (mutter) и KDE 6.7.4 (kwin) при использовании X.Org Server и Wayland. Задействованный в исследовании код опубликован под лицензией MIT.
+https://www.opennet.ru/opennews/art.shtml?num=66396</description>
     </item>
     
     <item>

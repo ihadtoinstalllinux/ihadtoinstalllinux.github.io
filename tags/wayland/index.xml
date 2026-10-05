@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/</link>
-    <description>Recent content on iHADtoinstalllinux</description>
+    <title>Wayland on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wayland/</link>
+    <description>Recent content in Wayland on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2026 15:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Инженер из NVIDIA протестировал уровень задержек при использовании Wayland и X.Org</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -16,18 +16,6 @@
       <description>Камиль Лысик (Kamil Łysik), работающий в компании NVIDIA, выступил на конференции XDC 2026 с докладом, в котором рассказал о результатах тестирования задержек вывода информации в окружениях GNOME 49.7 (mutter) и KDE 6.7.4 (kwin) при использовании X.Org Server и Wayland. Задействованный в исследовании код опубликован под лицензией MIT.
 https://www.opennet.ru/opennews/art.shtml?num=66396</description>
     </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
