@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on iHADtoinstalllinux</title>
-    <link>https://ihadtoinstalllinux.github.io/posts/</link>
-    <description>Recent content in Posts on iHADtoinstalllinux</description>
+    <title>GitHub on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/github/</link>
+    <description>Recent content in GitHub on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 17:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В GitHub выявлено 543 тысячи оставленных в репозиториях действующих токенов, ключей и паролей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
       <description>Компания Truffle Security опубликовала результаты анализа утечек учётных данных в репозиториях, размещённых на GitHub. В результате сканирования 224 млн репозиториев, насчитывающих 58 миллиардов файлов, было выявлено 543 тысячи уникальных учётных данных (токенов, ключей и паролей), продолжающих действовать. Действующие учётные данные оставались в репозиториях как минимум год, так как в исследовании использовался срез состояния GitHub от 7 августа прошлого года, а проверка актуальности учётных данных, реализованная через пробные обращения к API, сетевым сервисам и хостам, была выполнена в конце июля нынешнего года.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://ihadtoinstalllinux.github.io/posts/about/</link>
-      <pubDate>Wed, 19 Jan 2022 08:41:37 +0500</pubDate>
-      
-      <guid>https://ihadtoinstalllinux.github.io/posts/about/</guid>
-      <description>vk: https://vk.com/ihadtoinstalllinux
-telegram: https://t.me/ihadtoinstalllinux</description>
     </item>
     
   </channel>
