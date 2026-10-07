@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 14:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликованы сборки Raspberry Pi OS для ноутбуков и ПК на базе архитектуры x86_64</title>
+      <title>Компрометация регистраторов 3 доменных зон, позволила получить TLS-сертификаты к сервисам Google</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 07 Oct 2026 00:38:01 +0500</pubDate>
+      <pubDate>Wed, 07 Oct 2026 14:37:52 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Raspberry Pi опубликовал новую версию дистрибутива Raspberry Pi OS 2026-10-06 (Raspbian) и объявил о формировании Live-сборки (2.6 ГБ), предназначенной для установки на компьютеры c процессорами на базе архитектуры x86_64. Как и сборки для ARM-плат Raspberry Pi новый вариант построен на пакетной базе Debian 13. Помимо загрузки с USB-носителей версия для ПК включает инсталлятор Calamares, позволяющий установить систему на стационарный жёсткий диск или SSD.
-https://www.opennet.ru/opennews/art.shtml?num=66413</description>
+      <description>Компания Google сообщила об инциденте, в результате которого атакующим удалось получить TLS-сертификаты для отдельных доменов Google (например, google.as), онлайн-сервисов и крупных компаний в зонах &amp;ldquo;.gh&amp;rdquo;, &amp;ldquo;.sl&amp;rdquo; и &amp;ldquo;.as&amp;rdquo;. Атака совершена через компрометацию регистраторов национальных доменных зон верхнего уровня - &amp;ldquo;.gh&amp;rdquo; (Гана), &amp;ldquo;.sl&amp;rdquo; (Сьерра-Леоне) и &amp;ldquo;.as&amp;rdquo; (Американское Самоа), что позволило заменить DNS-серверы для доменов в этих зонах и перенаправить запросы на серверы злоумышленников. Перенаправив трафик, атакующие смогли подтвердить владение доменами и получить TLS-сертификаты, так как после изменения данных в DNS проверочные запросы от удостоверяющих центров были отправлены не на реальные, а на подменённые хосты и обработаны на них.</description>
     </item>
     
     <item>
