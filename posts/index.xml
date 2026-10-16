@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:38:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2026 03:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована мобильная платформа Ubuntu Touch 24.04-2.1</title>
+      <title>Разработчик Firefox провёл сравнительное тестирование форматов JPEG XL и AVIF</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 17 Oct 2026 02:38:11 +0500</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлена прошивка Ubuntu Touch 24.04-2.1, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
-https://www.opennet.ru/opennews/art.shtml?num=66494</description>
+      <description>Джейк Арчибальд (Jake Archibald), участвующий в разработке Firefox, провёл исследование, в котором сравнил форматы JPEG XL и AVIF, используя стандартный кодек libavif, стандартный кодек libjxl и новый кодек jixel, написанный на Rust и задействованный в Firefox и Chrome. Форматы тестировались в одинаковых условиях, которые включали кодирование с потерями, а для анализа результатов использовались показатели SSIMULACRA2, определяющие степень отличия от исходного изображения без потерь. В большинстве тестов формат AVIF показал лучшие результаты и при аналогичном уровне качества позволял создавать файлы меньшего размера, которые требовали меньше процессорного времени для сжатия и распаковки.</description>
     </item>
     
     <item>
