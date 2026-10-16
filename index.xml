@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:38:14 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2026 01:37:38 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PwnEscape - уязвимости в сетевом стеке ядре Linux, позволяющая обойти изоляцию гипервизоров и контейнеров</title>
+      <title>Проект GNOME представил предварительный выпуск GNOME OS для обычных пользователей</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 16 Oct 2026 16:38:14 +0500</pubDate>
+      <pubDate>Sat, 17 Oct 2026 01:37:38 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В ядре Linux выявлена критическая уязвимость (CVE-2026-99999, PwnEscape) в стеке IPv4, позволяющая получить доступ к памяти хост-окружения из гостевой системы. При эксплуатации уязвимости пользователь гостевой системы может выполнить код с правами ядра на стороне хост-окружения. Эксплуатация уязвимости продемонстрирована в окружении на базе гипервизора KVM, но так как уязвимость вызвана ошибкой не в гипервизоре, а в механизме обработки сетевых пакетов ядром Linux, потенциально эксплоит может быть адаптирован и для других гипервизоров и механизмов изоляции, в которых используется штатный сетевой стек Linux.</description>
+      <description>Проект GNOME начал формирование сборок дистрибутива &amp;ldquo;GNOME OS Preview&amp;rdquo;, основанных на последнем стабильном релизе GNOME 51.1 и предназначенных для ознакомления обычными пользователями. До этого публиковались только ночные сборки GNOME OS, основанные на срезе находящейся в разработке кодовой базы GNOME из Git и ориентированные на применение разработчиками и тестировщиками проекта. Размер предлагаемого для загрузки iso-образа 3.7 ГБ.
+https://www.opennet.ru/opennews/art.shtml?num=66491</description>
     </item>
     
     <item>
