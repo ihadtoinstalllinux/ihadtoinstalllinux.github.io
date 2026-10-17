@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2026 11:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработчик Firefox провёл сравнительное тестирование форматов JPEG XL и AVIF</title>
+      <title>Выпуск OpenRGB 1.1, инструментария для управления RGB-подсветкой</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 17 Oct 2026 03:38:12 +0500</pubDate>
+      <pubDate>Sat, 17 Oct 2026 11:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Джейк Арчибальд (Jake Archibald), участвующий в разработке Firefox, провёл исследование, в котором сравнил форматы JPEG XL и AVIF, используя стандартный кодек libavif, стандартный кодек libjxl и новый кодек jixel, написанный на Rust и задействованный в Firefox и Chrome. Форматы тестировались в одинаковых условиях, которые включали кодирование с потерями, а для анализа результатов использовались показатели SSIMULACRA2, определяющие степень отличия от исходного изображения без потерь. В большинстве тестов формат AVIF показал лучшие результаты и при аналогичном уровне качества позволял создавать файлы меньшего размера, которые требовали меньше процессорного времени для сжатия и распаковки.</description>
+      <description>После месяца разработки опубликован релиз проекта OpenRGB 1.1, развивающего инструментарий для управления RGB-подсветкой компонентов ПК и периферийных устройств. Код написан на C/C++ и распространяется под лицензией GPLv2. Готовые сборки сформированы для Linux (deb, rpm, appimage, flatpak), macOS и Windows.
+https://www.opennet.ru/opennews/art.shtml?num=66495</description>
     </item>
     
     <item>
