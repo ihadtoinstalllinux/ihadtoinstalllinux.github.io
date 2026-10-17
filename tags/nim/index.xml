@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/nim/</link>
+    <description>Recent content in Nim on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2026 12:37:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/nim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В компиляторе Nimony для будущего Nim 3.0 реализованы самокомпиляция и JavaScript-бэкенд</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 17 Oct 2026 12:37:36 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Андреас Румпф (Andreas Rumpf, Araq), автор языка программирования Nim, опубликовал серию отчётов о прогрессе разработки компилятора Nimony, создаваемого как основа для будущего релиза Nim 3.0. На данный момент уже доступен восьмой отчёт. Ключевое достижение последнего времени - переход к самокомпиляции: весь стек инструментов, включая фронтенд, прослойку (middle-end), оптимизатор и бэкенд, теперь может быть собран самим Nimony. Дополнительно реализованы JavaScript-бэкенд, поддержка всех четырёх актуальных режимов управления памятью и работа на платформе FreeBSD.</description>
+    </item>
+    
+  </channel>
+</rss>

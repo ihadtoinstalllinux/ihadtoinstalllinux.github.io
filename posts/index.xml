@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2026 12:37:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск OpenRGB 1.1, инструментария для управления RGB-подсветкой</title>
+      <title>В компиляторе Nimony для будущего Nim 3.0 реализованы самокомпиляция и JavaScript-бэкенд</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 17 Oct 2026 11:37:58 +0500</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:37:36 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После месяца разработки опубликован релиз проекта OpenRGB 1.1, развивающего инструментарий для управления RGB-подсветкой компонентов ПК и периферийных устройств. Код написан на C/C++ и распространяется под лицензией GPLv2. Готовые сборки сформированы для Linux (deb, rpm, appimage, flatpak), macOS и Windows.
-https://www.opennet.ru/opennews/art.shtml?num=66495</description>
+      <description>Андреас Румпф (Andreas Rumpf, Araq), автор языка программирования Nim, опубликовал серию отчётов о прогрессе разработки компилятора Nimony, создаваемого как основа для будущего релиза Nim 3.0. На данный момент уже доступен восьмой отчёт. Ключевое достижение последнего времени - переход к самокомпиляции: весь стек инструментов, включая фронтенд, прослойку (middle-end), оптимизатор и бэкенд, теперь может быть собран самим Nimony. Дополнительно реализованы JavaScript-бэкенд, поддержка всех четырёх актуальных режимов управления памятью и работа на платформе FreeBSD.</description>
     </item>
     
     <item>
