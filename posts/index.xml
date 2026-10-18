@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:37:21 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2026 13:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI-модель Claude воссоздала формирование seed-параметров стандартных эллиптических кривых ECDSA</title>
+      <title>В Gentoo намерены прекратить поставку Chromium из-за трудности сопровождения</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 17 Oct 2026 15:37:21 +0500</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:37:34 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Anthropic объявила об успешном определении происхождения исходных seed-параметров, задающих форму эллиптических кривых ECDSA P-192, P-224, P-256, P-384 и P-521, стандартизированных Национальным институтом стандартов и технологий США (NIST). Воссозданный AI-моделью Claude алгоритм генерации seed-параметров опровергает популярную конспирологическую теорию о том, что исходные параметры для стандартизированных эллиптических кривых были специально подобраны для оставления слабых мест, компрометирующих алгоритмы цифровой подписи ECDSA.
-https://www.opennet.ru/opennews/art.shtml?num=66497</description>
+      <description>Сопровождающий пакет (ebuild) Chromium в Gentoo Linux объявил о скором удалении пакета из репозитория из-за слишком больших трудозатрат на сопровождение. Упоминается, что сопровождающий не имеет возможности продолжать поддерживать пакет на должном уровне после сокращения цикла публикации релизов Chrome. Если в ближайшие дни не найдётся доброволец, готовый взять на себя сопровождение Chromium в Gentoo, то 24 октября пакет www-client/chromium перестанет быть доступен для установки.
+https://www.opennet.ru/opennews/art.shtml?num=66489</description>
     </item>
     
     <item>
