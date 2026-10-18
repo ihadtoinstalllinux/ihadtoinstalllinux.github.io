@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NTFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ntfs/</link>
+    <description>Recent content in NTFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Oct 2026 02:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В ReactOS появилась возможность установки на NTFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Mon, 19 Oct 2026 02:37:53 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Развиваемый проектом ReactOS драйвер файловой системы NTFS достиг уровня, позволяющего устанавливать и использовать ReactOS на разделах NTFS. Помимо этого добавлена возможность форматирования разделов в NTFS с обеспечением совместимости с Windows. Нереализованными остаются кэширование, журналирование и механизмы безопасности NTFS, что может негативно влиять на производительность и ограничивает возможности восстановления ФС после сбоев.
+https://www.opennet.ru/opennews/art.shtml?num=66501</description>
+    </item>
+    
+  </channel>
+</rss>
