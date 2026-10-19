@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qt on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/qt/</link>
+    <description>Recent content in Qt on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2026 01:38:10 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/qt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NotQuiteRSS - развитие QuiteRSS с поддержкой Qt 6 и без встроенного браузера</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Tue, 20 Oct 2026 01:38:10 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Проект NotQuiteRSS развивает ответвление от RSS/Atom-агрегатора QuiteRSS, созданное для модернизации приложения с сохранением привычного интерфейса. Проект ориентирован на пользователей, которым нужен самостоятельный настольный инструмент для чтения новостных лент и хранения новостей локально. Код написан на C++ с использованием Qt Widgets и распространяется под лицензией GPLv3. При разработке применяются AI-инструменты. Сборки формируются для Linux (AppImage), Windows и macOS.
+https://www.opennet.ru/opennews/art.shtml?num=66502</description>
+    </item>
+    
+  </channel>
+</rss>
