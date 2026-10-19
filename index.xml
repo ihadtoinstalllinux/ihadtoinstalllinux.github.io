@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2026 15:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз ядра Linux 7.3</title>
+      <title>Выпуск OpenWrt 25.12.6</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 19 Oct 2026 12:38:01 +0500</pubDate>
+      <pubDate>Mon, 19 Oct 2026 15:37:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После двух месяцев разработки Линус Торвальдс представил релиз ядра Linux 7.3. Среди наиболее заметных изменений: механизм изоляции ФС на базе псевдо-ФС failfs и системного вызова fchroot(), поддержка создания вложенных планировщиков SCHED_EXT, BPF-обработчики запуска исполняемых файлов, альтернативные потоки данных в NTFS3, оптимизации производительности FUSE, Btrfs и Ext4, поддержка Apple Time Machine в ksmbd, удаление ФС EFS и FreeVxFS, режим прямого доступа к блочным устройствам, улучшение обработки нехватки видеопамяти, отслеживание обращений к памяти гостевой системы через userfaultfd, сжатие правил AppArmor, ограничение доступа к AF_ALG, поддержка чипов Apple M3.</description>
+      <description>Представлен выпуск дистрибутива OpenWrt 25.12.6, развиваемого для сетевых устройств, таких как маршрутизаторы, коммутаторы и точки доступа. OpenWrt поддерживает более 2200 устройств и предлагает систему сборки, упрощающую кросс-компиляцию и создание собственных сборок. Подобные сборки позволяют формировать готовые прошивки с желаемым набором предустановленных пакетов, оптимизированные под конкретные задачи. Готовые сборки опубликованы для 41 целевой платформы.
+https://www.opennet.ru/opennews/art.shtml?num=66504</description>
     </item>
     
     <item>
