@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Terraphim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/terraphim/</link>
+    <description>Recent content in Terraphim on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2026 00:37:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/terraphim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraphim - приватный локальный AI-ассистент и поисковый движок по графам знаний</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Tue, 20 Oct 2026 00:37:29 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Представлен Terraphim, приватный AI-ассистент и движок поиска по графам знаний, работающий целиком на устройстве пользователя. Проект написан на Rust и компилируется в WebAssembly: индексация, поиск и обход графа выполняются локально, без облака, без телеметрии и без отправки данных наружу. Код открыт под лицензией Apache 2.0. Разработка ведётся с 2023 года, последний год с привлечением AI.
+https://www.opennet.ru/opennews/art.shtml?num=66505</description>
+    </item>
+    
+  </channel>
+</rss>
