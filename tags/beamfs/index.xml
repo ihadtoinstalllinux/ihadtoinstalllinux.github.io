@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BeamFS on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/beamfs/</link>
+    <description>Recent content in BeamFS on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2026 19:37:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/beamfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для ядра Linux реализованы новые файловые системы BeamFS, XMFS и MeshXFS</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Tue, 20 Oct 2026 19:37:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Для обсуждения в списке рассылки разработчиков ядра Linux опубликованы патчи с реализацией файловой системы BeamFS, использующей кодирование Рида - Соломона для определения и восстановления повреждённых данных по месту в конфигурациях с одним накопителем. Основными областями применения BeamFS называются бортовые компьютеры спутников, оборудование в кабинетах лучевой терапии и прочие системы, работающие в условиях повышенной радиации, для которых возвращение искажённых данных более критично, чем невозможность прочитать информацию.
+https://www.opennet.ru/opennews/art.shtml?num=66510</description>
+    </item>
+    
+  </channel>
+</rss>
