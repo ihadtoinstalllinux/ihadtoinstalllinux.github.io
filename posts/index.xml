@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Oct 2026 11:38:03 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Компрометация ключей удостоверяющего центра eMudhra, позволившая получить TLS-сертификаты для любых сайтов</title>
+      <title>Уязвимость в PHP, потенциально позволяющая скомпрометировать любой PHP-сайт</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 21 Oct 2026 01:38:09 +0500</pubDate>
+      <pubDate>Wed, 21 Oct 2026 11:38:03 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Mozilla предупредила о компрометации закрытых ключей, связанных с восемью промежуточными (вторичными) корневыми сертификатами удостоверяющего центра eMudhra. Скомпрометированные ключи позволяли выпустить поддельные TLS-сертификаты для любого сайта, воспринимаемые как заслуживающие доверия во всех браузерах, и использовать их для перехвата или модификации транзитного трафика.
-https://www.opennet.ru/opennews/art.shtml?num=66515</description>
+      <description>Разработчики PHP анонсировали публикацию сегодня в 17:00 (MSK) экстренных корректирующих выпусков (8.5.12, 8.4.27, 8.3.36 и 8.2.35), в которых будут устранены две критические уязвимости. Всем администраторам серверов с PHP рекомендовано незамедлительно установить исправления на своих системах, сразу после их выпуска. Официально детали будут раскрыты только после появления исправлений, но судя по появившейся в открытом доступе информации, речь про уязвимости CVE-2026-109618 и CVE-2026-109619, потенциально позволяющие удалённо выполнить свой код на любом web-сервере, выполняющем PHP-скрипты в конфигурации по умолчанию.</description>
     </item>
     
     <item>
