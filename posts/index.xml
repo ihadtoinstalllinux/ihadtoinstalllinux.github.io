@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Oct 2026 14:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опрос сопровождающих показал, что 25% pull-запросов являются AI-слопом</title>
+      <title>Проект LiberNT развивает форк ReactOS, нацеленный на совместимость с Windows 11</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 21 Oct 2026 13:37:49 +0500</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:38:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Организация Linux Foundation подвела итоги опроса 234 сопровождающих и разработчиков открытых проектов, оценивающего влияние AI-инструментов на разработку. 59% опрошенных сопровождающих отметили увеличение числа присылаемых изменений, но около 25% присылаемых pull-запросов признаны низкокачественным AI-слопом. Если рассматривать только крупные проекты, то рост числа изменений отметили 69% опрошенных, а доля AI-слопа среди pull-запросов оценена в 31%.
-https://www.opennet.ru/opennews/art.shtml?num=66517</description>
+      <description>В рамках проекта LiberNT создан форк операционной системы ReactOS, нацеленный на достижение совместимости с приложениями и драйверами для Windows 11 24H2, стилизацию внешнего вида под современные Windows и поддержку 64-разрядных аппаратных платформ, включая системы на базе архитектур ARM64, PowerPC и RISC-V 64. Отличительной особенностью форка также является активное использование AI-инструментов при разработке. Собственные наработки LiberNT распространяются под лицензией GPLv3, но код заимствованный из ReactOS продолжает поставляться под лицензией GPLv2+. Основные загрузочные сборки сформированы для систем x86_64 и ARM64, дополнительно публикуются экспериментальные сборки для PowerPC и RISC-V 64 (Banana Pi BPI-F3).</description>
     </item>
     
     <item>
