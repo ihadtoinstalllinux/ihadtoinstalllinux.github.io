@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PHP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/php/</link>
+    <description>Recent content in PHP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2026 11:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Нарушения эмбарго и затягивание разработки патчей в ходе устранения уязвимостей в PHP</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Thu, 22 Oct 2026 11:37:37 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Разработчики PHP опубликовали отчёт о проблемах, возникших в процессе устранения исправленных вчера критических уязвимостей в PHP. Информация об уязвимости, возникающей при исчерпании доступной памяти, была получена в ходе внешнего аудита ещё в 2024 году, но была воспринята лишь как теоретическая возможность совершения атаки. Исправление затянулось из-за проблем с достижением консенсуса среди разработчиков PHP о способе устранения уязвимости. Рассматривалось несколько конкурирующих предложений о решении проблемы, каждое из которых имело свои минусы. Приходилось выбирать между нарушением обратной совместимости, появлением новых векторов для атак, вызывающих отказ в обслуживании, и необходимостью внесения изменений во множество сторонних дополнений.</description>
+    </item>
+    
+  </channel>
+</rss>

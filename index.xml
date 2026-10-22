@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:37:52 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2026 11:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск пользовательского окружения Dux Shell 2.0</title>
+      <title>Нарушения эмбарго и затягивание разработки патчей в ходе устранения уязвимостей в PHP</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 22 Oct 2026 01:37:52 +0500</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:37:37 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз пользовательского окружения Dux Shell 2.0, поддерживающего работу поверх композитных серверов niri, Hyprland, Sway, MangoWC, labwc, Scroll, Aqueous и Miracle WM. Это первый выпуск после переименования проекта DankMaterialShell (DMS) в Dux Shell. Новое имя проще, созвучно с пингвином Tux и не включает в часть названия чужого бренда. Dux Shell развивает набор сочетающихся между собой компонентов для формирования рабочего стола, таких как панель задач, переключатель виртуальных рабочих столов, интерфейс навигации по установленным приложениям и конфигуратор.</description>
+      <description>Разработчики PHP опубликовали отчёт о проблемах, возникших в процессе устранения исправленных вчера критических уязвимостей в PHP. Информация об уязвимости, возникающей при исчерпании доступной памяти, была получена в ходе внешнего аудита ещё в 2024 году, но была воспринята лишь как теоретическая возможность совершения атаки. Исправление затянулось из-за проблем с достижением консенсуса среди разработчиков PHP о способе устранения уязвимости. Рассматривалось несколько конкурирующих предложений о решении проблемы, каждое из которых имело свои минусы. Приходилось выбирать между нарушением обратной совместимости, появлением новых векторов для атак, вызывающих отказ в обслуживании, и необходимостью внесения изменений во множество сторонних дополнений.</description>
     </item>
     
     <item>
