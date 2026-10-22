@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 16:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2026 23:37:50 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликован сетевой стек F-Stack 2.0, работающий в пользовательском пространстве</title>
+      <title>Релиз менеджера паролей KeePassXC 2.8</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 22 Oct 2026 16:38:12 +0500</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:37:50 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Состоялся релиз проекта F-Stack 2.0, развивающего редакцию сетевого стека FreeBSD, адаптированную для обособленной работы в пользовательском пространстве в форме библиотеки. Проект создан крупнейшей в Китае телекоммуникационной компанией Tencent и используется в её продуктах и сервисах. Код написан на языке Си и распространяется под лицензией BSD. Поддерживается работа в Linux и FreeBSD. Проектом также поддерживаются переведённые на использование F-Stack редакции Nginx 1.28 и СУБД Redis 6.2.6, демонстрирующие производительность выше обычных сборок, работающих поверх системного сетевого стека.</description>
+      <description>Опубликован выпуск открытого кроссплатформенного менеджера паролей KeePassXC 2.8.0, предоставляющего средства для безопасного хранения обычных паролей, одноразовых паролей (TOTP), SSH-ключей и прочей информации, которую пользователь считает конфиденциальной. Данные могут храниться как в локальном зашифрованном хранилище, так и во внешних облачных хранилищах. Код проекта написан на языке C++ с использованием библиотеки Qt и распространяется под лицензиями GPLv2 и GPLv3. Готовые сборки подготовлены для Linux (AppImage, Flatpak, Ubuntu PPA, Snap), Windows и macOS.</description>
     </item>
     
     <item>
