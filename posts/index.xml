@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2026 16:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В PyPI-пакет и Docker-образ с LiteLLM подставлено вредоносное ПО</title>
+      <title>Опубликован сетевой стек F-Stack 2.0, работающий в пользовательском пространстве</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 22 Oct 2026 15:37:53 +0500</pubDate>
+      <pubDate>Thu, 22 Oct 2026 16:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Зафиксирована публикация в репозитории PyPI вредоносного выпуска библиотеки LiteLLM, насчитывающей 23 млн загрузок в неделю, а также подстановка вредоносного кода в официальный Docker-образ проекта. Это не первый подобный инцидент с LiteLLM - в марте этого года атакующие уже публиковали вредоносные выпуски после перехвата учётных данных сопровождающего. На этот раз атакующие разместили версию LiteLLM 1.107.0, в которую был встроен вредоносный код для организации удалённого выполнения команд, а также поиска и отправки учётных данных, ключей и токенов доступа.</description>
+      <description>Состоялся релиз проекта F-Stack 2.0, развивающего редакцию сетевого стека FreeBSD, адаптированную для обособленной работы в пользовательском пространстве в форме библиотеки. Проект создан крупнейшей в Китае телекоммуникационной компанией Tencent и используется в её продуктах и сервисах. Код написан на языке Си и распространяется под лицензией BSD. Поддерживается работа в Linux и FreeBSD. Проектом также поддерживаются переведённые на использование F-Stack редакции Nginx 1.28 и СУБД Redis 6.2.6, демонстрирующие производительность выше обычных сборок, работающих поверх системного сетевого стека.</description>
     </item>
     
     <item>
