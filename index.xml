@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2026 12:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Для уязвимостей PHP2Shell анонсирован первый эксплоит, обходящий рандомизацию адресов</title>
+      <title>Аnthropic развивает технику для формальной верификации существующего ПО при помощи AI</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 23 Oct 2026 11:37:15 +0500</pubDate>
+      <pubDate>Fri, 23 Oct 2026 12:37:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Исследователи из компании VulnCheck заявили о получении первого эксплоита для уязвимости PHP2Shell (CVE-2026-109618б), обходящего механизм рандомизации адресов (ASLR) на системах x86-64 с типовой конфигурацией PHP. Эксплоит позволяет атаковать системы с PHP 8.4.10-8.4.26 в конфигурации по умолчанию. Ранее трудность определения раскладки памяти в модуле mod_php мешала реализации эксплоита, позволяющего добиться выполнения кода на реальных системах. Для обхода ASLR в эксплоите задействована утечка информации об адресах в коде отображения информации об ошибках.</description>
+      <description>Компания Аnthropic представила результаты экспериментов по использованию AI-моделей для формальной верификации надёжности и безопасности уже существующих проектов. В ходе эксперимента при помощи AI-моделей для 123 открытых библиотек, протестированных в инфраструктуре OSS Fuzz, были сгенерированы математические доказательства отсутствия ошибок при работе с памятью.
+https://www.opennet.ru/opennews/art.shtml?num=66528</description>
     </item>
     
     <item>
