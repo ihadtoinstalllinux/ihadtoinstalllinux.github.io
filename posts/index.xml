@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:38:09 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2026 00:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск криптографических библиотек OpenSSL 4.1.0 и LibreSSL 4.4.0</title>
+      <title>Ещё одна уязвимость в PHP, в редких конфигурациях позволяющая удалённо выполнить код</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 23 Oct 2026 23:38:09 +0500</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:38:01 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован релиз библиотеки OpenSSL 4.1.0, предлагающей с реализацию протоколов TLS и различных алгоритмов шифрования. OpenSSL 4.1 отнесён к выпускам с обычным сроком поддержки, обновления для которых выпускаются в течение 13 месяцев. Поддержка LTS-ветки OpenSSL 3.5 продлится до апреля 2030 года. Код проекта распространяется под лицензией Apache 2.0.
-https://www.opennet.ru/opennews/art.shtml?num=66533</description>
+      <description>Разработчики проекта PHP предупредили о выявлении ещё одной уязвимости (CVE-2026-115560), которая потенциально может использоваться для удалённого выполнения кода на сервере при определённом редком сочетании нестандартных настроек (не в конфигурации по умолчанию) и выполняемого PHP-кода. Подробности о уязвимости намерены опубликовать после готовности очередных корректирующих выпусков PHP.
+https://www.opennet.ru/opennews/art.shtml?num=66534</description>
     </item>
     
     <item>

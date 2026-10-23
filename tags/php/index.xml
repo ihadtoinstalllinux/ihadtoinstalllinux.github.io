@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PHP on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/php/</link>
+    <description>Recent content in PHP on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2026 00:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ещё одна уязвимость в PHP, в редких конфигурациях позволяющая удалённо выполнить код</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 24 Oct 2026 00:38:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Разработчики проекта PHP предупредили о выявлении ещё одной уязвимости (CVE-2026-115560), которая потенциально может использоваться для удалённого выполнения кода на сервере при определённом редком сочетании нестандартных настроек (не в конфигурации по умолчанию) и выполняемого PHP-кода. Подробности о уязвимости намерены опубликовать после готовности очередных корректирующих выпусков PHP.
+https://www.opennet.ru/opennews/art.shtml?num=66534</description>
+    </item>
+    
+  </channel>
+</rss>
