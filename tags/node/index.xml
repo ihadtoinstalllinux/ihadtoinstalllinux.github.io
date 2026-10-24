@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Node on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/node/</link>
+    <description>Recent content in Node on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2026 21:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 24 Oct 2026 21:38:01 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и .</description>
+    </item>
+    
+  </channel>
+</rss>
