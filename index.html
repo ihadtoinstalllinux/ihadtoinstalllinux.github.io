@@ -184,14 +184,15 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты
+    <h2>В systemd добавлена возможность разработки компонентов на языке Rust
     </h2>
   </header>
   <section class="entry-content">
-    <p>В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и ....</p>
+    <p>В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме “no_std” (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.
+https://www.opennet.ru/opennews/art.shtml?num=66539</p>
   </section>
-  <footer class="entry-footer"><span title='2026-10-24 21:38:01 +0500 +05'>October 24, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2026-10-25 00:37:58 +0500 +05'>October 25, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to В systemd добавлена возможность разработки компонентов на языке Rust" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 

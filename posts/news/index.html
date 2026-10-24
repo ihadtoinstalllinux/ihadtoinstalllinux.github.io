@@ -5,9 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты | iHADtoinstalllinux</title>
-<meta name="keywords" content="Brotli, Node, JS, Bun, HTTP" />
-<meta name="description" content="В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и .">
+<title>В systemd добавлена возможность разработки компонентов на языке Rust | iHADtoinstalllinux</title>
+<meta name="keywords" content="systemd, Rust" />
+<meta name="description" content="В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме &ldquo;no_std&rdquo; (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.
+https://www.opennet.ru/opennews/art.shtml?num=66539">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +58,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты" />
-<meta property="og:description" content="В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и ." />
+</noscript><meta property="og:title" content="В systemd добавлена возможность разработки компонентов на языке Rust" />
+<meta property="og:description" content="В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме &ldquo;no_std&rdquo; (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.
+https://www.opennet.ru/opennews/art.shtml?num=66539" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-10-24T21:38:01&#43;05:00" />
-<meta property="article:modified_time" content="2026-10-24T21:38:01&#43;05:00" />
+<meta property="article:published_time" content="2026-10-25T00:37:58&#43;05:00" />
+<meta property="article:modified_time" content="2026-10-25T00:37:58&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты"/>
-<meta name="twitter:description" content="В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и ."/>
+<meta name="twitter:title" content="В systemd добавлена возможность разработки компонентов на языке Rust"/>
+<meta name="twitter:description" content="В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме &ldquo;no_std&rdquo; (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.
+https://www.opennet.ru/opennews/art.shtml?num=66539"/>
 
 
 <script type="application/ld+json">
@@ -83,7 +86,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты",
+      "name": "В systemd добавлена возможность разработки компонентов на языке Rust",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +96,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты",
-  "name": "Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты",
-  "description": "В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и .",
+  "headline": "В systemd добавлена возможность разработки компонентов на языке Rust",
+  "name": "В systemd добавлена возможность разработки компонентов на языке Rust",
+  "description": "В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме \u0026ldquo;no_std\u0026rdquo; (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.\nhttps://www.opennet.ru/opennews/art.shtml?num=66539",
   "keywords": [
-    "Brotli", "Node", "JS", "Bun", "HTTP"
+    "systemd", "Rust"
   ],
-  "articleBody": "В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и .NET и связанные с ними зависимости.\nhttps://www.opennet.ru/opennews/art.shtml?num=66537\n",
-  "wordCount" : "81",
+  "articleBody": "В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов, а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме “no_std” (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.\nhttps://www.opennet.ru/opennews/art.shtml?num=66539\n",
+  "wordCount" : "65",
   "inLanguage": "en",
-  "datePublished": "2026-10-24T21:38:01+05:00",
-  "dateModified": "2026-10-24T21:38:01+05:00",
+  "datePublished": "2026-10-25T00:37:58+05:00",
+  "dateModified": "2026-10-25T00:37:58+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,25 +198,22 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Критическая уязвимость в декодировщике Brotli, затрагивающая Node.JS,  Bun, браузеры, HTTP-клиенты и другие проекты
+      В systemd добавлена возможность разработки компонентов на языке Rust
     </h1>
-    <div class="post-meta"><span title='2026-10-24 21:38:01 +0500 +05'>October 24, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-10-25 00:37:58 +0500 +05'>October 25, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>В библиотеке с эталонной реализацией декодировщика формата сжатия данных Brotli выявлена  уязвимость (CVE-2026-111497, кодовые имена Broccoli2Shell и HTTP2Shell), приводящая к переполнению буфера при обработке специально оформленных сжатых данных. По данным Google уязвимость может использоваться для удалённого выполнения кода при атаке на проекты, использующие официальную реализацию декодировщика Brotli. Среди затрагиваемых уязвимостью проектов: Node.js, Bun, Envoy, Istio, web-браузеры, прокси-серверы, HTTP-клиенты, HTTP-серверы, архиваторы, прокси-серверы, UEFI-прошивки, просмотрщики JPEG XL, декодирующие контент библиотеки для Python, Ruby, Java, PHP и .NET  и связанные с ними зависимости.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66537">https://www.opennet.ru/opennews/art.shtml?num=66537</a></p>
+  <div class="post-content"><p>В кодовую базу системного менеджера systemd принято изменение, добавляющее возможность создания компонентов на языке Rust. Rust намерены использовать только для разработки новых компонентов,  а существующий код на языке Си переписывать на Rust не планируют. Пакетный менеджер cargo в процессе сборки не применяется, остаётся задействована только сборочная система Meson. Rust-код используется в режиме &ldquo;no_std&rdquo; (без стандартной библиотеки), разрешено использовать только библиотеки core, alloc и libc.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66539">https://www.opennet.ru/opennews/art.shtml?num=66539</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/brotli/">Brotli</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/node/">Node</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/js/">JS</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/bun/">Bun</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/http/">HTTP</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/systemd/">systemd</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/rust/">Rust</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
