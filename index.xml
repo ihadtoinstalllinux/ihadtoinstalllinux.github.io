@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2026 20:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск qBittorrent 5.3.0</title>
+      <title>Альфа-версия CusDeb OS, Windows-подобной ОС на базе Linux и пользовательского окружения ReactOS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 25 Oct 2026 13:37:20 +0500</pubDate>
+      <pubDate>Sun, 25 Oct 2026 20:38:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск торрент-клиента qBittorrent 5.3.0, написанного с использованием тулкита Qt и развиваемого в качестве открытой альтернативы µTorrent, приближенной к нему по интерфейсу и функциональности. Среди возможностей qBittorrent: интегрированный поисковый движок, возможность подписки на RSS, поддержка многих BEP-расширений, удалённое управление через web-интерфейс, режим последовательной загрузки в заданном порядке, расширенные настройки для торрентов, пиров и трекеров, планировщик пропускной способности и IP-фильтр, интерфейс для создания торрентов, поддержка UPnP и NAT-PMP. Код проекта написан на языке С++ и распространяется под лицензией GPLv2+.</description>
+      <description>Через полгода после публикации прототипа Windows-подобной операционной системы C:\\Deb сформирована первая альфа-версия проекта, получившего новое название - CusDeb OS. В отличие от прототипа, который представлял собой обычное Linux-окружение, стилизованное под Windows 95/98 с использованием PCManFM, LXPanel и других компонентов, CusDeb OS Alpha 1 предлагает полноценное классическое Win32-окружение, основанное на пользовательских компонентах ReactOS, работающих через Wine. Пользовательское окружение развивается как часть CusDeb OS под именем CDEX (CusDeb Desktop Environment X) и представляет собой редакцию оболочки ReactOS, адаптированную для работы без ядра данной операционной системы.</description>
     </item>
     
     <item>
