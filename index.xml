@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2026 15:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в Ruby, эксплуатируемая для удалённого выполнения кода в GitLab</title>
+      <title>Атака на AI-агенты через размещение файла AGENTS.md в каталоге с загрузками</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 26 Oct 2026 13:38:02 +0500</pubDate>
+      <pubDate>Mon, 26 Oct 2026 15:37:32 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликованы корректирующие выпуски языка программирования Ruby 3.3.13, 3.4.12 и 4.0.9, в которых устранена критическая уязвимость (CVE-2026-110264), приводящая к целочисленному переполнению при компиляции специально оформленных регулярных выражений. Уязвимость может использоваться для атаки на проекты, написанные на языке Ruby и использующие внешние данные в регулярных выражениях. Среди прочего, подтверждена возможность эксплуатации уязвимости для удалённого выполнения кода в платформе совместной разработки GitLab. Проблема дополнительно блокирована в обновлениях GitLab 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.</description>
+      <description>Исследователи из компании Forever Security, разбирая причины появления вредоносного ПО в системе одного из клиентов, выявили новый способ атаки на AI-агентов, основанный на том, что многие AI-агенты по умолчанию обрабатывают инструкции из файла AGENTS.md, размещённого в корне проекта, к работе над которым подключён агент. Атака проводится через размещение в каталоге ~/Downloads файла AGENTS.md или CLAUDE.md с инструкцией по установке вредоносного ПО (в рассмотренном случае устанавливался вредоносный npm-пакет &amp;ldquo;function-color&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=66551</description>
     </item>
     
     <item>
