@@ -5,10 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Опубликована мобильная платформа Ubuntu Touch 24.04-2.2 | iHADtoinstalllinux</title>
-<meta name="keywords" content="Ubuntu, Touch" />
-<meta name="description" content="Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
-https://www.opennet.ru/opennews/art.shtml?num=66547">
+<title>Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland | iHADtoinstalllinux</title>
+<meta name="keywords" content="CoW, FVWM, Wayland" />
+<meta name="description" content="Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC.">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -58,18 +57,16 @@ https://www.opennet.ru/opennews/art.shtml?num=66547">
         }
 
     </style>
-</noscript><meta property="og:title" content="Опубликована мобильная платформа Ubuntu Touch 24.04-2.2" />
-<meta property="og:description" content="Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
-https://www.opennet.ru/opennews/art.shtml?num=66547" />
+</noscript><meta property="og:title" content="Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland" />
+<meta property="og:description" content="Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-10-26T11:36:04&#43;05:00" />
-<meta property="article:modified_time" content="2026-10-26T11:36:04&#43;05:00" />
+<meta property="article:published_time" content="2026-10-26T12:37:39&#43;05:00" />
+<meta property="article:modified_time" content="2026-10-26T12:37:39&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Опубликована мобильная платформа Ubuntu Touch 24.04-2.2"/>
-<meta name="twitter:description" content="Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
-https://www.opennet.ru/opennews/art.shtml?num=66547"/>
+<meta name="twitter:title" content="Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland"/>
+<meta name="twitter:description" content="Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC."/>
 
 
 <script type="application/ld+json">
@@ -86,7 +83,7 @@ https://www.opennet.ru/opennews/art.shtml?num=66547"/>
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Опубликована мобильная платформа Ubuntu Touch 24.04-2.2",
+      "name": "Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -96,17 +93,17 @@ https://www.opennet.ru/opennews/art.shtml?num=66547"/>
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Опубликована мобильная платформа Ubuntu Touch 24.04-2.2",
-  "name": "Опубликована мобильная платформа Ubuntu Touch 24.04-2.2",
-  "description": "Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.\nhttps://www.opennet.ru/opennews/art.shtml?num=66547",
+  "headline": "Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland",
+  "name": "Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland",
+  "description": "Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC.",
   "keywords": [
-    "Ubuntu", "Touch"
+    "CoW", "FVWM", "Wayland"
   ],
-  "articleBody": "Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.\nhttps://www.opennet.ru/opennews/art.shtml?num=66547\n",
-  "wordCount" : "48",
+  "articleBody": "Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC. Сборки формируются для Arch Linux, Fedora и OpenBSD.\nhttps://www.opennet.ru/opennews/art.shtml?num=66548\n",
+  "wordCount" : "89",
   "inLanguage": "en",
-  "datePublished": "2026-10-26T11:36:04+05:00",
-  "dateModified": "2026-10-26T11:36:04+05:00",
+  "datePublished": "2026-10-26T12:37:39+05:00",
+  "dateModified": "2026-10-26T12:37:39+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -198,22 +195,23 @@ https://www.opennet.ru/opennews/art.shtml?num=66547"/>
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Опубликована мобильная платформа Ubuntu Touch 24.04-2.2
+      Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland
     </h1>
-    <div class="post-meta"><span title='2026-10-26 11:36:04 +0500 +05'>October 26, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-10-26 12:37:39 +0500 +05'>October 26, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical.  Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66547">https://www.opennet.ru/opennews/art.shtml?num=66547</a></p>
+  <div class="post-content"><p>Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM  и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC. Сборки формируются для  Arch Linux, Fedora и OpenBSD.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66548">https://www.opennet.ru/opennews/art.shtml?num=66548</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/ubuntu/">Ubuntu</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/touch/">Touch</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/cow/">CoW</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/fvwm/">FVWM</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/wayland/">Wayland</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">

@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:36:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2026 12:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Опубликована мобильная платформа Ubuntu Touch 24.04-2.2</title>
+      <title>Выпуск CoW 0.4, адаптации оконного менеджера FVWM для Wayland</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 26 Oct 2026 11:36:04 +0500</pubDate>
+      <pubDate>Mon, 26 Oct 2026 12:37:39 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлена прошивка Ubuntu Touch 24.04-2.2, продолжающая развитие ветки на пакетной базе Ubuntu 24.04. Прошивка развивается проектом UBports, взявшим в свои руки разработку мобильной платформы Ubuntu Touch, после того как от неё отстранилась компания Canonical. Проектом также развивается экспериментальный порт рабочего стола Unity 8, который переименован в Lomiri.
-https://www.opennet.ru/opennews/art.shtml?num=66547</description>
+      <description>Томас Адам (Thomas Adam), создатель оконного менеджера FVWM3, один из ключевых разработчиков FVWM и сопровождающий переносимую версию мультиплексора терминалов tmux, опубликовал проект CoW, нацеленный на создание стекового оконного менеджера в стиле FVWM и MWM, использующего протокол Wayland вместо X11. Из отличий отмечается более простой механизм настройки, в котором вместо усложнённого синтаксиса конфигурации задействован набор команд, похожих на команды tmux, применяемый как в файле конфигурации, так и в IPC-интерфейсе удалённого управления. Код написан на языке Си и распространяется под лицензией ISC.</description>
     </item>
     
     <item>
