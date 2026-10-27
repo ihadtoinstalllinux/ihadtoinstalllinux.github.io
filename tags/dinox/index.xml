@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DinoX on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/dinox/</link>
+    <description>Recent content in DinoX on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2026 14:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/dinox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск DinoX 2.3.2 кроссплатформенного клиента для XMPP/Jabber</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Tue, 27 Oct 2026 14:38:12 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Доступен выпуск проекта DinoX 2.3.2, развивающего кроссплатформенный форк открытого коммуникационного клиента Dino, использующего протокол XMPP. В отличие от приложений Psi, Gajim, Pidgin и MirandaNG в DinoX все актуальные для современного пользователя XEP-спецификации доступны из коробки, без необходимости изменения настроек и установки внешних плагинов. В DinoX также предложен более привычный массовому пользователю интерфейс, напоминающий большинство мессенджеров последнего десятилетия. Код написан на языке Vala (интерфейс на GTK) и распространяется под лицензий GPLv3.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2026 14:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Rust-библиотеках zip-rs и librsvg</title>
+      <title>Выпуск DinoX 2.3.2 кроссплатформенного клиента для XMPP/Jabber</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 27 Oct 2026 13:37:39 +0500</pubDate>
+      <pubDate>Tue, 27 Oct 2026 14:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В библиотеке zip-rs, написанной на языке Rust и насчитывающей около 10 млн загрузок в неделю, выявлена уязвимость (CVE-2026-115905), позволяющая создавать архивы, которые выглядят безобидными, но при распаковке из них извлекаются другие, изначально не показанные в списке, файлы. Файлы могут быть размещены в архиве вне структуры &amp;ldquo;Central Directory&amp;rdquo;, из-за чего при просмотре списка файлов показывается одно содержимое, но при распаковке через API ZipStreamReader извлекаются другие файлы. Проблеме присвоен уровень опасности 10 из 10.</description>
+      <description>Доступен выпуск проекта DinoX 2.3.2, развивающего кроссплатформенный форк открытого коммуникационного клиента Dino, использующего протокол XMPP. В отличие от приложений Psi, Gajim, Pidgin и MirandaNG в DinoX все актуальные для современного пользователя XEP-спецификации доступны из коробки, без необходимости изменения настроек и установки внешних плагинов. В DinoX также предложен более привычный массовому пользователю интерфейс, напоминающий большинство мессенджеров последнего десятилетия. Код написан на языке Vala (интерфейс на GTK) и распространяется под лицензий GPLv3.</description>
     </item>
     
     <item>
