@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2026 23:37:33 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Удалённая уязвимость в серверных UEFI-прошивках, эксплуатируемая через отправку ICMP-пакета</title>
+      <title>Выпуск GhostBSD 26.2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 28 Oct 2026 18:37:58 +0500</pubDate>
+      <pubDate>Wed, 28 Oct 2026 23:37:33 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В TianoCore EDK II (EFI Development Kit II), открытой эталонной реализации UEFI, применяемой в большинстве серверных материнских плат, устранена критическая уязвимость (CVE-2026-97631). Уязвимость присутствует в драйвере PXE и может быть эксплуатирована через отправку специально оформленных ICMP-пакетов во время сетевой загрузки в сетях IPv4 или IPv6. Атака не требует аутентификации и позволяет злоумышленнику выполнить свой код с привилегиями UEFI-прошивки на этапе до передачи управления операционной системе, что может быть использовано для обхода механизма верифицированной загрузки UEFI Secure Boot и подстановки вредоносных компонентов на этапе загрузки.</description>
+      <description>Представлен релиз десктоп-ориентированного дистрибутива GhostBSD 26.2, построенного на базе FreeBSD 15 и предлагающего сборки с пользовательскими окружениями Gershwin, MATE и Xfce. По умолчанию в GhostBSD применяется файловая система ZFS. Поддерживается как работа в Live-режиме, так и установка на жесткий диск (используется собственный инсталлятор ginstall, написанный на языке Python). Загрузочные образы сформированы для архитектуры x86_64.
+https://www.opennet.ru/opennews/art.shtml?num=66567</description>
     </item>
     
     <item>
