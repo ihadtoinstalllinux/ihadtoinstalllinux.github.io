@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:37:49 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2026 18:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Взлом сервера с модами, дополнениями и ресурсами для игрового движка Luanti</title>
+      <title>Удалённая уязвимость в серверных UEFI-прошивках, эксплуатируемая через отправку ICMP-пакета</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 28 Oct 2026 15:37:49 +0500</pubDate>
+      <pubDate>Wed, 28 Oct 2026 18:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики свободного игрового движка Luanti, позволяющего создавать игры в стиле Minecraft, объявили об инциденте, в результате которого атакующие получили доступ к серверу проекта, обслуживающему каталог content.luanti.org, через который производится загрузка модов, игр, дополнений, текстур и прочих ресурсов в экосистеме Luanti. В руки атакующих попали персональные данные, IP-адреса и хэши паролей (bcrypt) зарегистрированных пользователей. Атакующие также имели возможность вносить изменения в пакеты, распространяемые через каталог ContentDB.
-https://www.opennet.ru/opennews/art.shtml?num=66563</description>
+      <description>В TianoCore EDK II (EFI Development Kit II), открытой эталонной реализации UEFI, применяемой в большинстве серверных материнских плат, устранена критическая уязвимость (CVE-2026-97631). Уязвимость присутствует в драйвере PXE и может быть эксплуатирована через отправку специально оформленных ICMP-пакетов во время сетевой загрузки в сетях IPv4 или IPv6. Атака не требует аутентификации и позволяет злоумышленнику выполнить свой код с привилегиями UEFI-прошивки на этапе до передачи управления операционной системе, что может быть использовано для обхода механизма верифицированной загрузки UEFI Secure Boot и подстановки вредоносных компонентов на этапе загрузки.</description>
     </item>
     
     <item>
