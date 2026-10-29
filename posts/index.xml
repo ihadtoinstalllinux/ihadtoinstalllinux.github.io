@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:38:01 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2026 15:37:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Qwenputer - редакция AI-модели Qwen3.5, способная симулировать RISC-V CPU для выполнения кода на C и MicroPython</title>
+      <title>Возобновлена разработка Ubuntu Core Desktop, использующего только snap-пакеты</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 29 Oct 2026 12:38:01 +0500</pubDate>
+      <pubDate>Thu, 29 Oct 2026 15:37:29 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>В рамках проекта Qwenputer исследователи подготовили расширенный вариант AI-модели Qwen3.5-4B, в котором реализован встроенный симулятор полноценного 32-разрядного CPU на базе архитектуры RISC-V (RV32IM), поддерживающего расширение Zba и оснащённого сопроцессором bignum для арифметических операций с большими числами. Реализация ядра CPU скомпилирована в набор весов и интегрирована в большую языковую модель в виде 11 дополнительных слоёв трансформеров, добавленных перед основными слоями Qwen. Вычисления выполняются непосредственно в процессе прямого прохода (forward pass) нейросети, без подключения внешних инструментов или плагинов.</description>
+      <description>Джон Сигер (Jon Seager), вице-президент компании Canonical по инжинирингу и технический лидер проекта Ubuntu, объявил о возобновлении работы над проектом Ubuntu Core Desktop, развивающим альтернативную десктоп-редакцию Ubuntu, использующую наработки из платформы Ubuntu Core и применяющую пакеты в формате Snap вместо deb-пакетов.
+https://www.opennet.ru/opennews/art.shtml?num=66568</description>
     </item>
     
     <item>
