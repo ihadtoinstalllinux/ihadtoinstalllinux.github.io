@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2026 23:37:23 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атакующие смогли внедрить вредоносный код в официальное дополнение Claude Code к VS Code</title>
+      <title>AlpineBSD - дистрибутив с ядром NetBSD и системным окружением в стиле Alpine Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 Oct 2026 14:37:58 +0500</pubDate>
+      <pubDate>Fri, 30 Oct 2026 23:37:23 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Зафиксирована компрометация официального дополнения Claude Code для VS Code, поставляемого компанией Anthropic и насчитывающего 63 млн загрузок. Атакующим удалось разместить в каталоге Open-VSX релиз anthropic.claude-code@2.1.313, содержащий вредоносный код для удалённого доступа к системе пользователя. Публикация вредоносной версии пакета в репозитории Microsoft не подтверждена, но для него тоже сформирован отчёт c с предупреждением. В настоящее время проблемная версия удалена из репозитория Open-VSX и следом опубликован корректирующий релиз 2.1.314.
-https://www.opennet.ru/opennews/art.shtml?num=66577</description>
+      <description>Проект AlpineBSD развивает операционную систему, в которой поверх ядра NetBSD выполняется пользовательское окружение на основе наработок дистрибутива Alpine Linux. Помимо ядра из NetBSD в AlpineBSD задействована стандартная Си-библиотека libc и набор низкоуровневых утилит, таких как mount. Базовый набор утилит сформирован на основе инструментария BusyBox, а пакеты с приложениями по возможности используются из Alpine Linux. Для управления пакетами задействован пакетный менеджер apk, а в качестве системы инициализации используется s6, но в планах упоминается предоставление поддержки OpenRC в качестве альтернативы.</description>
     </item>
     
     <item>
