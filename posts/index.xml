@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2026 11:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск композитного сервера Hyprland 0.57</title>
+      <title>Удалённо эксплуатируемая уязвимость в TCP-стеке ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 29 Oct 2026 22:37:15 +0500</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:37:18 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Доступен композитный сервер Hyprland 0.57, использующий протокол Wayland. Проект ориентирован на мозаичную (tiling) компоновку окон, но поддерживает и классическое произвольное размещение окон, группировку окон в форме вкладок, псевдомозаичный режим и полноэкранное раскрытие окон. Код написан на языке С++ и распространяется под лицензией BSD.
-https://www.opennet.ru/opennews/art.shtml?num=66574</description>
+      <description>Компания Anthropic раскрыла информацию о критической уязвимости (CVE-2026-98432) в TCP-стеке ядра Linux, допускающей удалённое выполнение кода через отправку специально оформленных пакетов. Заявлено о создании рабочего эксплоита, позволяющего выполнить код на уровне ядра и удалённо получить права root в системе. Подготовленный эксплоит пригоден для атаки на системы с серверными процессами, принимающими соединения через сетевые сокеты, поддерживающие использование протокола MPTCP (Multipath TCP). Поддержка MPTCP может быть активирована в привязке к отдельным сетевым сокетам, что делается по умолчанию в стандартной библиотеке языка Go, начиная с версии Go 1.</description>
     </item>
     
     <item>
