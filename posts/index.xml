@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:37:18 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2026 14:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Удалённо эксплуатируемая уязвимость в TCP-стеке ядра Linux</title>
+      <title>Атакующие смогли внедрить вредоносный код в официальное дополнение Claude Code к VS Code</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 30 Oct 2026 11:37:18 +0500</pubDate>
+      <pubDate>Fri, 30 Oct 2026 14:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Anthropic раскрыла информацию о критической уязвимости (CVE-2026-98432) в TCP-стеке ядра Linux, допускающей удалённое выполнение кода через отправку специально оформленных пакетов. Заявлено о создании рабочего эксплоита, позволяющего выполнить код на уровне ядра и удалённо получить права root в системе. Подготовленный эксплоит пригоден для атаки на системы с серверными процессами, принимающими соединения через сетевые сокеты, поддерживающие использование протокола MPTCP (Multipath TCP). Поддержка MPTCP может быть активирована в привязке к отдельным сетевым сокетам, что делается по умолчанию в стандартной библиотеке языка Go, начиная с версии Go 1.</description>
+      <description>Зафиксирована компрометация официального дополнения Claude Code для VS Code, поставляемого компанией Anthropic и насчитывающего 63 млн загрузок. Атакующим удалось разместить в каталоге Open-VSX релиз anthropic.claude-code@2.1.313, содержащий вредоносный код для удалённого доступа к системе пользователя. Публикация вредоносной версии пакета в репозитории Microsoft не подтверждена, но для него тоже сформирован отчёт c с предупреждением. В настоящее время проблемная версия удалена из репозитория Open-VSX и следом опубликован корректирующий релиз 2.1.314.
+https://www.opennet.ru/opennews/art.shtml?num=66577</description>
     </item>
     
     <item>
