@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 21:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Genode опубликовал выпуск ОС общего назначения Sculpt OS 26.10</title>
+      <title>Выпуск пакета тестирования производительности ChimbaBenchCL 1.2, использующего OpenCL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 Oct 2026 13:37:53 +0500</pubDate>
+      <pubDate>Sat, 31 Oct 2026 21:38:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск проекта Sculpt 26.10, развивающего операционную систему на базе технологий Genode OS Framework, которая сможет быть использована обычными пользователями для выполнения повседневных задач. Исходные тексты проекта распространяются под лицензией AGPLv3. Для загрузки предлагается системный образ, размером 40 МБ, который можно использовать на ПК, смартфоне PinePhone и ноутбуке MNT Reform. Поддерживается работа на системах с процессорами и графической подсистемой Intel с включёнными расширениями VT-d и VT-x, а также на системах ARM с расширениями VMM.</description>
+      <description>Состоялся выпуск кроссплатформенного теста производительности ChimbaBenchCL 1.2, предназначенного для тестирования производительности видеокарт и процессоров с использованием API OpenCL. Проект написан на языке программирования C и распространяется под свободной лицензией MIT. Доступны предварительно скомпилированные исполняемые файлы для 64-битных (x86_64) операционных систем Linux (Glibc 2.7+), FreeBSD и Windows 7+. 32-битная (x86) версия доступна для Windows XP+ и Linux (Glibc 2.7+).
+https://www.opennet.ru/opennews/art.shtml?num=66582</description>
     </item>
     
     <item>
