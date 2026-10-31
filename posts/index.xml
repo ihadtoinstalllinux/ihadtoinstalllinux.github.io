@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2026 02:37:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Детали возможной атаки на GNU Savannah, позволявшей скомпрометировать репозитории Bash и Coreutils</title>
+      <title>Эксплуатируемая через SMS уязвимость в Android, приводящая к зацикленной перезагрузке</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 01 Nov 2026 00:38:12 +0500</pubDate>
+      <pubDate>Sun, 01 Nov 2026 02:37:25 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Hacktron раскрыла подробности демонстрационной атаки на хостинг свободного кода GNU Savannah, который продолжает использоваться для разработки некоторых инструментов GNU, включая Bash и Coreutils. В результате проведённого эксперимента удалось выполнить код на сервере GNU Savannah, получить на нём права root, заменить SSH-ключи сопровождающего Bash, выявить возможность внесения изменений в основной git-репозиторий проекта Bash и получить доступ к серверу с резервными копиями.
-https://www.opennet.ru/opennews/art.shtml?num=66585</description>
+      <description>Раскрыты детали и опубликован эксплоит для уязвимости (CVE-2026-58882) в платформе Android, позволяющей добиться зацикленной перезагрузки через отправку специально оформленного SMS-сообщения. Для устранения зацикленной перезагрузки требуется сброс к заводским настройкам или ручные манипуляции при помощи утилиты ADB. Уязвимость получила кодовое имя &amp;ldquo;SMS of Death&amp;rdquo; и устранена в октябрьском обновлении Android. Атака может быть совершена на любые телефоны, оснащённые Android 12-17. Обновление выпущено только для Android 14-17. Эксплуатирующее уязвимость SMS-сообщение обрабатывается как фоновое и не отображается на устройстве.</description>
     </item>
     
     <item>

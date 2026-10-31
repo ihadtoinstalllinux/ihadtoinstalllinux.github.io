@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/android/</link>
+    <description>Recent content in Android on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2026 02:37:25 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эксплуатируемая через SMS уязвимость в Android, приводящая к зацикленной перезагрузке</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sun, 01 Nov 2026 02:37:25 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Раскрыты детали и опубликован эксплоит для уязвимости (CVE-2026-58882) в платформе Android, позволяющей добиться зацикленной перезагрузки через отправку специально оформленного SMS-сообщения. Для устранения зацикленной перезагрузки требуется сброс к заводским настройкам или ручные манипуляции при помощи утилиты ADB. Уязвимость получила кодовое имя &amp;ldquo;SMS of Death&amp;rdquo; и устранена в октябрьском обновлении Android. Атака может быть совершена на любые телефоны, оснащённые Android 12-17. Обновление выпущено только для Android 14-17. Эксплуатирующее уязвимость SMS-сообщение обрабатывается как фоновое и не отображается на устройстве.</description>
+    </item>
+    
+  </channel>
+</rss>
