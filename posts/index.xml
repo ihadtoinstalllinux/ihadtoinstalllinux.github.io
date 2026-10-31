@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 22:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2026 00:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск пользовательского окружения Enlightenment 0.28 и библиотек EFL 1.29</title>
+      <title>Детали возможной атаки на GNU Savannah, позволявшей скомпрометировать репозитории Bash и Coreutils</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 Oct 2026 22:37:42 +0500</pubDate>
+      <pubDate>Sun, 01 Nov 2026 00:38:12 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После почти двух лет разработки состоялся релиз пользовательского окружения Enlightenment 0.28, которое базируется на наборе библиотек EFL (Enlightenment Foundation Library) и виджетах Elementary. Код написан на языке Си и распространяется под лицензией BSD.
-https://www.opennet.ru/opennews/art.shtml?num=66583</description>
+      <description>Компания Hacktron раскрыла подробности демонстрационной атаки на хостинг свободного кода GNU Savannah, который продолжает использоваться для разработки некоторых инструментов GNU, включая Bash и Coreutils. В результате проведённого эксперимента удалось выполнить код на сервере GNU Savannah, получить на нём права root, заменить SSH-ключи сопровождающего Bash, выявить возможность внесения изменений в основной git-репозиторий проекта Bash и получить доступ к серверу с резервными копиями.
+https://www.opennet.ru/opennews/art.shtml?num=66585</description>
     </item>
     
     <item>
