@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 10:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз Tor Browser 16.0</title>
+      <title>Новые версии Wine 11.21, Wine-staging 11.21 и D7VK 2.4. Реализация 3Dfx Glide поверх Vulkan</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 31 Oct 2026 01:37:26 +0500</pubDate>
+      <pubDate>Sat, 31 Oct 2026 10:38:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск специализированного браузера Tor Browser 16.0, в котором осуществлён переход на ESR-ветку Firefox 153. Браузер сосредоточен на обеспечении конфиденциальности и безопасности, весь трафик перенаправляется только через сеть Tor. Обратиться напрямую через штатное сетевое соединение текущей системы невозможно (в случае взлома браузера, атакующие могут получить доступ к системным параметрам сети, поэтому для полного блокирования возможных утечек следует использовать такие продукты, как Whonix). Сборки Tor Browser подготовлены для Linux, Android, Windows и macOS.</description>
+      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.21. С момента выпуска 11.20 был закрыто 20 отчётов об ошибках и внесено 260 изменений.
+https://www.opennet.ru/opennews/art.shtml?num=66580</description>
     </item>
     
     <item>
