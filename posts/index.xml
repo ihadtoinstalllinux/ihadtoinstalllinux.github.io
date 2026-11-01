@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2026 14:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атака на GitLab-сервер проекта Alpine Linux</title>
+      <title>В конфигурационных файлах curl случайно реализована полнота по Тьюрингу</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 01 Nov 2026 12:37:37 +0500</pubDate>
+      <pubDate>Sun, 01 Nov 2026 14:37:20 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики дистрибутива Alpine Linux раскрыли информацию о попытках взлома платформы совместной разработки gitlab.alpinelinux.org, на которой велась работа над пакетным менеджером APK, сборочными инструментами, компонентами инфраструктуры и сценариями сборки пакетов (aports). Атака была совершена через эксплуатацию уязвимости в платформе GitLab, вызванной целочисленным переполнением в движке регулярных выражений языка Ruby. Доказательств и следов успешного взлома найти не удалось, но так как полностью исключить успешную эксплуатацию уязвимости не представляется возможным, контейнер с GitLab был признан потенциально скомпрометированным и его содержимое полностью перестроено с нуля, а пользователей инициирована процедура смены паролей.</description>
+      <description>Выявлена возможность создания любых вычислимых функций при помощи конструкций в файлах конфигурации утилиты Curl. Данная особенность проявляется только в версиях Сurl с 8.12-8.16 и вызвана непреднамеренной реализацией полноты по Тьюрингу, позволяющей создавать машины Тьюринга, используя возможность извлекать байтовые диапазоны из значений переменных и неограниченную глубину вложенности при подключении внешних конфигурационных файлов.
+https://www.opennet.ru/opennews/art.shtml?num=66589</description>
     </item>
     
     <item>
