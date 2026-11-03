@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:37:36 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Nov 2026 00:37:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива Fedora Linux 45</title>
+      <title>Криптографический изолятор ITB с формальным доказательством надёжности</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 03 Nov 2026 19:37:36 +0500</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:37:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз дистрибутива Fedora Linux 45. Для загрузки подготовлены продукты Fedora Workstation, Fedora KDE Plasma Desktop, Fedora Server, Fedora IoT, Fedora CoreOS, Fedora Cloud Base, Fedora IoT Edition, Fedora Silverblue, Fedora Kinoite и Live-сборки, поставляемые в форме спинов c пользовательскими окружениями Xfce, MATE, Cinnamon, LXDE, Phosh, Miracle, LXQt, Budgie, Sway и Cosmic. Сборки сформированы для архитектур x86_64, Power64 и ARM64 (AArch64).
-https://www.opennet.ru/opennews/art.shtml?num=66607</description>
+      <description>Представлен проект ITB, развивающий симметричный криптографический изолятор, предназначенный для обёртывания стандартных псевдослучайных функций (PRF) и хэш-примитивов (AES, BLAKE2/3, Areion и других) в сцепленный комбинаторный и топологический барьер. В отличие от классических блочных и потоковых режимов шифрования, архитектура ITB нацелена на структурную изоляцию внутреннего примитива, препятствуя распространению дифференциальных и линейных характеристик, алгебраической линеаризации, а также прямых кодировок для решателей SAT/SMT и MILP через границы барьера. Код написан на языке Go с низкоуровневыми оптимизациями на ассемблере для архитектур x86_64 и ARM64 (Aarch64) и распространяется под лицензией Apache 2.</description>
     </item>
     
     <item>
