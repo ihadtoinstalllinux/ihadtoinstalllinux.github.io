@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>root on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/root/</link>
+    <description>Recent content in root on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2026 01:37:32 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>948 уязвимостей в ядре Linux с подтверждёнными эксплоитами для получения прав root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Fri, 06 Nov 2026 01:37:32 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Компания OpenAI раскрыла информацию о выявлении в ядре Linux 1724 уязвимостей, для 948 из которых удалось создать 1169 рабочих эксплоитов, позволяющих локальному пользователю получить root-доступ в системе, а для 291 уязвимости подготовить эксплоиты, приводящие к утечке информации. Затраты на анализ кода и генерацию эксплоитов при помощи AI-моделей GPT-5.5 и GPT-5.6 Cyber оценивается в 1.21 млн долларов, что составляет 1279 долларов за каждый эксплойт. Для сравнения вознаграждения на разработку одного подобного эксплоита на конкурсах Pwn2Own и TyphoonPWN составляет от $20000 до $70000 (рентабельность от 16 до 55 раз).</description>
+    </item>
+    
+  </channel>
+</rss>
