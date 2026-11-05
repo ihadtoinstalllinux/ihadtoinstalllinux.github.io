@@ -184,14 +184,14 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Доступна среда рабочего стола Cinnamon 6.8
+    <h2>SSHole - уязвимость, позволяющая подключиться по SSH без пароля в системах с Musl
     </h2>
   </header>
   <section class="entry-content">
-    <p>После 11 месяцев разработки сформирован релиз среды рабочего стола Cinnamon 6.8, в рамках которой сообществом разработчиков дистрибутива Linux Mint развивается форк оболочки GNOME Shell, файлового менеджера Nautilus и оконного менеджера Mutter, нацеленный на предоставление окружения в классическом стиле GNOME 2 с поддержкой удачных элементов взаимодействия из GNOME Shell. Cinnamon основывается на компонентах GNOME, но эти компоненты поставляются как периодически синхронизируемый форк, не связанный внешними зависимостями с GNOME. Новый выпуск Cinnamon будет предложен в дистрибутиве Linux Mint 27 (решено использовать год выпуска в нумерации), который планируется выпустить во второй половине декабря....</p>
+    <p>Разработчики OpenSSH опубликовали экстренное обновление OpenSSH 10.6p2, в котором добавлена защита от критической уязвимости (CVE не назначен), получившей кодовое имя “SSHole” и позволяющей обойти аутентификацию. В системах с библиотекой Musl уязвимость позволяет подключиться к пользователю, для которого не установлен пароль, введя любой пароль, содержащий больше чем 256 символов. Проблема затрагивает дистрибутивы Linux, использующие стандартную библиотеку musl, но не использующие PAM (Pluggable Authentication Modules), такие как OpenWRT, Alpine, Buildroot и Yocto. Особую опасность представляет то, что часто вход по паролю блокируется для пользователя root, что даёт возможность любому удалённо подключиться с правами администратора....</p>
   </section>
-  <footer class="entry-footer"><span title='2026-11-05 17:37:56 +0500 +05'>November 5, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Доступна среда рабочего стола Cinnamon 6.8" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2026-11-06 00:37:44 +0500 +05'>November 6, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to SSHole - уязвимость, позволяющая подключиться по SSH без пароля в системах с Musl" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
