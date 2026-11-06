@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>APT on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/apt/</link>
+    <description>Recent content in APT on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2026 19:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/apt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Fri, 06 Nov 2026 19:37:35 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22.</description>
+    </item>
+    
+  </channel>
+</rss>

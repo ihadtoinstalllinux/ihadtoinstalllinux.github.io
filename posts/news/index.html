@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple | iHADtoinstalllinux</title>
-<meta name="keywords" content="Fedora, Asahi, Remix, ARM, Apple" />
-<meta name="description" content="Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG.">
+<title>Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root | iHADtoinstalllinux</title>
+<meta name="keywords" content="APT, MITM, root" />
+<meta name="description" content="Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22.">
 <meta name="author" content="ihadtoinstalllinux">
 <link rel="canonical" href="https://ihadtoinstalllinux.github.io/posts/news/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
@@ -57,16 +57,16 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple" />
-<meta property="og:description" content="Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG." />
+</noscript><meta property="og:title" content="Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root" />
+<meta property="og:description" content="Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ihadtoinstalllinux.github.io/posts/news/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2026-11-06T15:37:29&#43;05:00" />
-<meta property="article:modified_time" content="2026-11-06T15:37:29&#43;05:00" />
+<meta property="article:published_time" content="2026-11-06T19:37:35&#43;05:00" />
+<meta property="article:modified_time" content="2026-11-06T19:37:35&#43;05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple"/>
-<meta name="twitter:description" content="Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG."/>
+<meta name="twitter:title" content="Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root"/>
+<meta name="twitter:description" content="Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22."/>
 
 
 <script type="application/ld+json">
@@ -83,7 +83,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple",
+      "name": "Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root",
       "item": "https://ihadtoinstalllinux.github.io/posts/news/"
     }
   ]
@@ -93,17 +93,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple",
-  "name": "Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple",
-  "description": "Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG.",
+  "headline": "Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root",
+  "name": "Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root",
+  "description": "Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22.",
   "keywords": [
-    "Fedora", "Asahi", "Remix", "ARM", "Apple"
+    "APT", "MITM", "root"
   ],
-  "articleBody": "Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG.\nhttps://www.opennet.ru/opennews/art.shtml?num=66631\n",
-  "wordCount" : "74",
+  "articleBody": "Опубликованы корректирующие выпуски инструментария для управления пакетами APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с Debian 12 и Ubuntu 22.04. Эксплуатация более старых версий возможна в случае выставления в параметр Acquire::Retries значения больше 0.\nhttps://www.opennet.ru/opennews/art.shtml?num=66632\n",
+  "wordCount" : "88",
   "inLanguage": "en",
-  "datePublished": "2026-11-06T15:37:29+05:00",
-  "dateModified": "2026-11-06T15:37:29+05:00",
+  "datePublished": "2026-11-06T19:37:35+05:00",
+  "dateModified": "2026-11-06T19:37:35+05:00",
   "author":{
     "@type": "Person",
     "name": "ihadtoinstalllinux"
@@ -195,25 +195,23 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://ihadtoinstalllinux.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://ihadtoinstalllinux.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
-      Опубликован Fedora Asahi Remix 45, дистрибутив для ARM-чипов Apple
+      Уязвимость в пакетном менеджере APT, позволяющая совершить MITM-атаку для получения прав root
     </h1>
-    <div class="post-meta"><span title='2026-11-06 15:37:29 +0500 +05'>November 6, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
+    <div class="post-meta"><span title='2026-11-06 19:37:35 +0500 +05'>November 6, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux
 
 </div>
   </header> 
-  <div class="post-content"><p>Опубликован дистрибутив Fedora Asahi Remix 45, предназначенный для установки на компьютеры Mac, оснащённые ARM-чипами, разработанными компанией Apple. Fedora Asahi Remix 45 основан на пакетной базе Fedora Linux 45 и оснащён инсталлятором  Calamares. Изначально дистрибутив Asahi Linux развивался на основе Arch Linux, но в 2023 году был переведён на пакетную базу Fedora, что позволило сфокусировать усилия на обратном инжиниринге и поддержке оборудования, а сборку готового к установке дистрибутива передать рабочей группе Fedora Asahi SIG.</p>
-<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66631">https://www.opennet.ru/opennews/art.shtml?num=66631</a></p>
+  <div class="post-content"><p>Опубликованы корректирующие выпуски инструментария для управления пакетами  APT, в которых устранена уязвимость (CVE-2026-109518), дающая возможность обойти проверку при  загрузке файлов и добиться выполнения своего кода с правами root. Всего сформировано 13 выпусков, охватывающих все сформированные за последние 10 лет ветки APT, начиная с 1.2.x. Обновления пакетов с устранением уязвимости также уже сформированы для различных версий Debian и Ubuntu. В конфигурации по умолчанию проблема затрагивает все выпуски начиная с  Debian 12 и Ubuntu 22.04. Эксплуатация более старых версий возможна в случае выставления в параметр Acquire::Retries значения больше 0.</p>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=66632">https://www.opennet.ru/opennews/art.shtml?num=66632</a></p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/fedora/">Fedora</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/asahi/">Asahi</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/remix/">Remix</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/arm/">ARM</a></li>
-      <li><a href="https://ihadtoinstalllinux.github.io/tags/apple/">Apple</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/apt/">APT</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/mitm/">MITM</a></li>
+      <li><a href="https://ihadtoinstalllinux.github.io/tags/root/">root</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://ihadtoinstalllinux.github.io/posts/about/">
