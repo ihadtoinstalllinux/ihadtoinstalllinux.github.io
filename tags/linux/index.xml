@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/linux/</link>
+    <description>Recent content in Linux on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2026 21:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Представлен kmorph для быстрого восстановления после сбоя или обновления ядра Linux</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sun, 08 Nov 2026 21:38:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Разработчики проекта Multikernel, позволяющего на одном физическом компьютере выполнять несколько независимых экземпляров ядра без гипервизора и виртуализации, представили инструментарий kmorph, реализующий средства для быстрого восстановления после аварийной остановки ядра Linux или для замены ядра в Live-режиме без полноценной перезагрузки. Проект развивает Конг Ванг (Cong Wang), сопровождающий подсистему управления трафиком (TC, Traffic Control) в ядре. Метод быстрого перезапуска основан на предварительной загрузке в память запасного ядра, которым подменяется основное рабочее ядро в случае сбоя или при необходимости замены ядра на новую версию.</description>
+    </item>
+    
+  </channel>
+</rss>

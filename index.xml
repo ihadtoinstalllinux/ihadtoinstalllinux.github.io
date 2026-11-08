@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:37:20 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Nov 2026 21:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доступен Emscripten 7.0, компилятор из C/C&#43;&#43; в WebAssembly </title>
+      <title>Представлен kmorph для быстрого восстановления после сбоя или обновления ядра Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 08 Nov 2026 13:37:20 +0500</pubDate>
+      <pubDate>Sun, 08 Nov 2026 21:38:00 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован выпуск инструментария Emscripten 7.0, позволяющего компилировать код на C/C++ и других языках, для которых имеются фронтэнды на базе LLVM, в универсальный низкоуровневый промежуточный код WebAssembly. Полученный результат можно использовать для интеграции с JavaScript-проектами, запуска в web-браузере, использования в Node.js или создания обособленных многоплатформенных приложений, запускаемых при помощи wasm runtime. Код проекта распространяется под лицензией MIT. В компиляторе используются наработки проекта LLVM, а для генерации WebAssembly и оптимизации задействована библиотека Binaryen.</description>
+      <description>Разработчики проекта Multikernel, позволяющего на одном физическом компьютере выполнять несколько независимых экземпляров ядра без гипервизора и виртуализации, представили инструментарий kmorph, реализующий средства для быстрого восстановления после аварийной остановки ядра Linux или для замены ядра в Live-режиме без полноценной перезагрузки. Проект развивает Конг Ванг (Cong Wang), сопровождающий подсистему управления трафиком (TC, Traffic Control) в ядре. Метод быстрого перезапуска основан на предварительной загрузке в память запасного ядра, которым подменяется основное рабочее ядро в случае сбоя или при необходимости замены ядра на новую версию.</description>
     </item>
     
     <item>
