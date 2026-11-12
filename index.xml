@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:38:07 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 13:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Обновление мобильной платформы ALT Mobile 11.0.1, построенной на технологиях GNOME</title>
+      <title>Уязвимость в Apache httpd, зксплуатируемая для удалённого выполнения кода через HTTP/2</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 12 Nov 2026 12:38:07 +0500</pubDate>
+      <pubDate>Thu, 12 Nov 2026 13:37:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Базальт СПО представила выпуск мобильной платформы ALT Mobile 11.0.1 (&amp;ldquo;Альт Мобильный&amp;rdquo;), предназначенной для смартфонов, планшетов и встраиваемых устройств с сенсорным экраном, таких как считыватели штрихкодов, контрольно-кассовые аппараты и терминалы сбора данных. Платформа построена на пакетной базе репозитория Сизиф (p11) и укомплектована графической оболочной Phosh, основанной на технологиях GNOME и использующей композитный сервер Phoc. Для загрузки подготовлены образы для архитектур x86_64 и ARM64, которые можно использовать для установки на устройства PinePhone, PinePhone Pro, OnePlus 6/6T, Nothing Phone, Xiaomi Pocophone F1, Xiaomi Redmi 4X, PineTab 2 и планшеты &amp;ldquo;MIG&amp;rdquo; (на архитектуре x86-64), а также для запуска в QEMU.</description>
+      <description>Опубликован релиз HTTP-сервера Apache 2.4.71, в котором устранена уязвимость (CVE-2026-119618) в модуле mod_http2, которой присвоен критический уровень опасности. Уязвимость позволяет удалённо выполнить свой код на сервере при отправке специально оформленного запроса по протоколу HTTP/2. Уязвимость проявляется начиная с версий Apache httpd 2.4.55 и также затрагивает отдельный модуль mod_h2, распространяемый через GitHub. Статус устранения уязвимостей в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Gentoo, Arch.
+https://www.opennet.ru/opennews/art.shtml?num=66673</description>
     </item>
     
     <item>
