@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:37:54 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 10:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Из-за сбоя недоступны более 20 сервисов Ubuntu, включая сайт проекта</title>
+      <title>Удостоверяющий центр eMudhra отозвал ещё 8 промежуточных корневых сертификатов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Wed, 11 Nov 2026 23:37:54 +0500</pubDate>
+      <pubDate>Thu, 12 Nov 2026 10:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Canonical предупредила пользователей о недоступности или нарушении нормальной работы некоторых сервисов и сайтов, связанных с Ubuntu, из-за сбоя в одном из датацентров, обслуживающих инфраструктуру проекта. Для оценки состояния работоспособности рекомендовано использовать страницу status.canonical.com. Зафиксирована недоступность сайтов ubuntu.com, canonical.com, launchpad.net и snapcraft.io, почтовых и DNS-серверов, сервисов ppa.launchpad.net.
-https://www.opennet.ru/opennews/art.shtml?num=66667</description>
+      <description>Компания eMudhra раскрыла дополнительные детали, связанные с инцидентом, в результате которого у восьми корневых сертификатов удостоверяющего центра оказались легко подбираемые закрытые ключи, имеющие всего 1 байт энтропии вместо 48. Помимо изначально выявленных проблемных промежуточных корневых сертификатов сообщается об отзыве ещё 8, но не из-за проблем с энтропией. Разбор показал, что источником проблем с энтропией стал созданный своими силами Python-скрипт, применяемый для переноса закрытых ключей между аппаратными хранилищами ключей (HSM) разных производителей.</description>
     </item>
     
     <item>
