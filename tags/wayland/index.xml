@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wayland on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/wayland/</link>
+    <description>Recent content in Wayland on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 00:37:51 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Для рабочего стола MATE опубликован композитный сервер Polo, использующий Wayland</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Fri, 13 Nov 2026 00:37:51 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Опубликован релиз композитного сервера Polo 1.0, созданного для запуска среды рабочего стола MATE и воссоздающего возможности штатного оконного менеджера Marco, но с использованием протокола Wayland вместо X11. Polo сочетает функции композитного сервера, оконного менеджера и менеджера сеансов. Код Polo написан на языках C и Vala с использованием библиотеки libweston и распространяется под лицензией GPLv3.
+https://www.opennet.ru/opennews/art.shtml?num=66676</description>
+    </item>
+    
+  </channel>
+</rss>
