@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 11:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Удостоверяющий центр eMudhra отозвал ещё 8 промежуточных корневых сертификатов</title>
+      <title>Первый выпуск 64-разрядной версии клиента Steam для Linux </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 12 Nov 2026 10:37:58 +0500</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:37:48 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания eMudhra раскрыла дополнительные детали, связанные с инцидентом, в результате которого у восьми корневых сертификатов удостоверяющего центра оказались легко подбираемые закрытые ключи, имеющие всего 1 байт энтропии вместо 48. Помимо изначально выявленных проблемных промежуточных корневых сертификатов сообщается об отзыве ещё 8, но не из-за проблем с энтропией. Разбор показал, что источником проблем с энтропией стал созданный своими силами Python-скрипт, применяемый для переноса закрытых ключей между аппаратными хранилищами ключей (HSM) разных производителей.</description>
+      <description>Компания Valve опубликовала ноябрьское обновление клиента сервиса доставки игр Steam для Linux. Выпуск примечателен формированием 64-разрядных сборок и переходом к выполнению клиента Steam внутри контейнера со Steam Runtime. Изменение существенно упрощает организацию работы Steam в дистрибутивах Linuх. До сих пор клиент Steam распространялся только в 32-разрядных сборках, что мешало дистрибутивам полностью прекратить поддержку 32-разрядных CPU и вынуждало специально для Steam поставлять необходимые 32-разрядные зависимости или упаковывать Steam в самодостаточные пакеты в форматах snap и flatpak.</description>
     </item>
     
     <item>
