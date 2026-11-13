@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2026 23:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Атаки на приложения, использующие ImageMagick в конфигурации по умолчанию</title>
+      <title>Выпуск Rust 1.100. Компилятор tsrs для TypeScript, оптимизатор компиляции rustd и ОС FTL</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 13 Nov 2026 15:37:34 +0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 23:37:27 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Координационный центр CERT (компьютерная группа реагирования на чрезвычайные ситуации), опубликовал предупреждение о выявлении уязвимостей, затрагивающих приложения и сайты, использующие библиотеку ImageMagick в конфигурации по умолчанию для обработки или преобразования изображений. Успешная эксплуатация позволяет атакующему читать и записывать файлы, насколько позволяют права доступа под которыми выполняется ImageMagick. Уязвимостям присвоено кодовое имя ImageTragick2, по аналогии с проблемой, выявленной в 2016 году.
-https://www.opennet.ru/opennews/art.shtml?num=66679</description>
+      <description>Опубликован релиз языка программирования Rust 1.100.0, основанного проектом Mozilla, но ныне развиваемого под покровительством независимой некоммерческой организации Rust Foundation. Язык сфокусирован на безопасной работе с памятью и предоставляет средства для достижения высокого параллелизма выполнения заданий, при этом обходясь без использования сборщика мусора и runtime (runtime сводится к базовой инициализации и сопровождению стандартной библиотеки).
+https://www.opennet.ru/opennews/art.shtml?num=66680</description>
     </item>
     
     <item>
