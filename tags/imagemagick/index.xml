@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ImageMagick on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/imagemagick/</link>
+    <description>Recent content in ImageMagick on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 15:37:34 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/imagemagick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Атаки на приложения, использующие ImageMagick в конфигурации по умолчанию</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Fri, 13 Nov 2026 15:37:34 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Координационный центр CERT (компьютерная группа реагирования на чрезвычайные ситуации), опубликовал предупреждение о выявлении уязвимостей, затрагивающих приложения и сайты, использующие библиотеку ImageMagick в конфигурации по умолчанию для обработки или преобразования изображений. Успешная эксплуатация позволяет атакующему читать и записывать файлы, насколько позволяют права доступа под которыми выполняется ImageMagick. Уязвимостям присвоено кодовое имя ImageTragick2, по аналогии с проблемой, выявленной в 2016 году.
+https://www.opennet.ru/opennews/art.shtml?num=66679</description>
+    </item>
+    
+  </channel>
+</rss>
