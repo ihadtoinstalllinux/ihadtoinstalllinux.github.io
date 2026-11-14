@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2026 16:37:56 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Компания Cloudflare открыла код web-браузера Kitesurf</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 14 Nov 2026 16:37:56 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Компания Cloudflare объявила об открытии исходного кода web-браузера Kitesurf, предназначенного для использования AI-агентами и ботами. Kitesurf поддерживает разбор HTML, применение CSS-стилей, запуск JavaScript и генерацию скриншотов, но при этом лишён усложнений и излишеств, созданных для людей и бесполезных для ботов. Избавление от таких возможностей, как идеальная отрисовка и поддержка расширений, позволили заметно снизить нагрузку на CPU и потребление памяти. Код написан на языках Rust и TypeScript и распространяется под лицензией Apache 2.</description>
+    </item>
+    
+  </channel>
+</rss>
