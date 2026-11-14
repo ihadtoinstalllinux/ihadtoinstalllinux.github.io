@@ -6,15 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:37:15 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2026 12:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Новые версии Wine 11.22 и Wine-staging 11.22</title>
+      <title>Выпуск UDisks 2.12.0, инструментария для управления дисками в Linux</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 14 Nov 2026 11:37:15 +0500</pubDate>
+      <pubDate>Sat, 14 Nov 2026 12:37:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.22. С момента выпуска 11.21 был закрыто 34 отчёта об ошибках и внесено 323 изменения.
-https://www.opennet.ru/opennews/art.shtml?num=66682</description>
+      <description>После двух лет разработки опубликован релиз пакета UDisks 2.12.0, включающего системный фоновый процесс, библиотеки и инструментарий для организации доступа и управления дисками, устройствами хранения и связанными с ними технологиями. UDisks предоставляет D-Bus API для работы с дисковыми разделами, настройки MD RAID, работы с блочными устройствами в файле (loop-монтирование), манипуляций с файловыми системами и т.п. Дополнительно поставляются модули для мониторинга и управления BTRFS, iSCSI, libStorageManagement, LVM2 и LVM Cache. Например, UDisks используется в приложениях GNOME для работы с дисковыми разделами и в различных графических конфигураторах.</description>
     </item>
     
     <item>
