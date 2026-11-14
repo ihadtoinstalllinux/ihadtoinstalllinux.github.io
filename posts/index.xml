@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:37:37 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2026 14:37:35 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Сформированы десктоп-сборки открытого офисного пакета Euro-Office</title>
+      <title>Обновление операционной системы MenuetOS 1.63, написанной на языке ассемблера</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 14 Nov 2026 13:37:37 +0500</pubDate>
+      <pubDate>Sat, 14 Nov 2026 14:37:35 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Nextcloud объявил о формировании десктоп-сборок офисного пакета Euro-Office (Euro-Office DesktopEditors) и варианта, распространяемой под именем Nextcloud Office Desktop. Euro-Office DesktopEditors позиционируется как формируемая сообществом сборка для тестирования и разработки, а Nextcloud Office Desktop преподносится как готовый для широкого использования продукт с репозиториями пакетов, интеграцией с Nextcloud Hub и технической поддержкой. В отличие от ранее доступной серверной версии Euro-Office, работа с которой осуществлялась через браузер, десктоп-сборки представляют собой самодостаточные приложения для рабочего стола, объединяющие клиентские и серверные компоненты.</description>
+      <description>Опубликован выпуск операционной системы MenuetOS 1.63.0, разработка ядра которой ведётся полностью на языке ассемблера. Сборки MenuetOS подготовлены для 64-разрядных систем x86 и могут быть запущены под управлением QEMU. Сборка системы занимает 1.4 МБ и сформирована в виде образа дискеты и iso-образа для записи на CD (поддерживается запуск в VirtualBox). Исходный код проекта Menuet64 распространяются под ограничивающей лицензией, требующей согласования любого использования в коммерческих целях, а Menuet32 - под лицензией GPL.</description>
     </item>
     
     <item>
