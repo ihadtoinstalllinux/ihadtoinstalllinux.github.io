@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:37:30 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2026 11:37:53 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Анонсирован смартфон Librem 5 v2 на базе архитектуры RISC-V</title>
+      <title>Выпуск Phosh 0.59, GNOME-окружения для смартфонов </title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 16 Nov 2026 16:37:30 +0500</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:37:53 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компании Purism анонсировала вторую версию смартофна Librem 5, выпускавшегося с 2020 года и нацеленного на предоставление пользователю полного контроля над устройством. Новая версия примечательна переходом на использование SoC SpacemiT K1 с 8-ядерным процессором с архитектурой RISC-V (Librem 5 поставлялся с SoC i.MX8M на базе архитектуры ARM64). Librem 5 v2 будет оснащён открытой прошивкой и Linux-дистрибутивом PureOS, признанным Фондом СПО полностью свободным. Пользовательское окружение построено на развиваемой проектом оболочке Phosh, основанной на технологиях GNOME и библиотеке GTK.</description>
+      <description>Опубликован релиз Phosh 0.59, экранной оболочки для мобильных устройств, основанной на технологиях GNOME и библиотеке GTK. Окружение изначально развивалось компанией Purism в качестве аналога GNOME Shell для смартфона Librem 5, но затем вошло в число неофициальных проектов GNOME и задействовано в Nura (postmarketOS), Mobian, ALT Mobile, Droidian, некоторых прошивках для устройств Pine64 и редакции Fedora для смартфонов. Phosh использует композитный сервер Phoc, работающий поверх Wayland, а также собственную экранную клавиатуру. Наработки проекта распространяются под лицензией GPLv3+.</description>
     </item>
     
     <item>
