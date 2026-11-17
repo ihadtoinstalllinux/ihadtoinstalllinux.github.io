@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:37:45 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2026 00:37:46 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Прекращена разработка Redict, консервативного форка СУБД Redis</title>
+      <title>Реализация самозагружающихся ZIP-архивов</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 17 Nov 2026 22:37:45 +0500</pubDate>
+      <pubDate>Wed, 18 Nov 2026 00:37:46 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Дрю ДеВолт (Drew DeVault), автор пользовательского окружения Sway, языка программирования Hare, почтового клиента Aerc и платформы совместной разработки SourceHut, объявил о переводе СУБД Redict в разряд устаревших. Сформированный год назад выпуск Redict 7.3.6 останется последним, больше обновлений публиковать не планируют. Redict был нацелен на консервативное сопровождение кодовой базы без наращивания функциональности (по мнению разработчиков Redis достиг зрелости и содержит все необходимые возможности) и примечателен.
-https://www.opennet.ru/opennews/art.shtml?num=66708</description>
+      <description>Давид Оберхолленцер (David Oberhollenzer), автор инструментария squashfs-tools-ng, предложил концепцию самозагружающихся ZIP-архивов. Проект представляет собой адаптацию механизма самораспаковывающихся ZIP-архивов для использования ZIP-файла в качестве загрузочного образа, не требующего отдельной распаковки для загрузки системы, размещённой в этом образе. При этом образ продолжает быть полноценным ZIP-архивом, который проходит проверку командой &amp;ldquo;unzip -t&amp;rdquo;.
+https://www.opennet.ru/opennews/art.shtml?num=66709</description>
     </item>
     
     <item>
