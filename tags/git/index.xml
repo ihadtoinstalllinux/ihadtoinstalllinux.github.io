@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/git/</link>
+    <description>Recent content in Git on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2026 16:37:42 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Домен Git-хостинга Codeberg заблокирован регистратором</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Wed, 18 Nov 2026 16:37:42 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Сопровождающие Git-хостинг Codeberg, построенный на свободной платформе совместной разработки Forgejo, сообщили о недоступности всех сервисов проекта из-за блокировки домена codeberg.org регистратором NameSilo. Домен переведён в состояние приостановки делегирования (clientHold). Точная причина приостановки делегирования сопровождающим Codeberg пока не ясна - в ответ на запрос служба поддержки регистратора перенаправила обращение службу безопасности (abuse team).
+https://www.opennet.ru/opennews/art.shtml?num=66713</description>
+    </item>
+    
+  </channel>
+</rss>
