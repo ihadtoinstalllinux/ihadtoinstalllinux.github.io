@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 19:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости в Ruby, допускающие удалённое выполнение кода</title>
+      <title>Релиз СУБД PostgreSQL 19</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 19 Nov 2026 13:38:00 +0500</pubDate>
+      <pubDate>Thu, 19 Nov 2026 19:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликованы корректирующие выпуски языка программирования Ruby 3.3.14, 3.4.13, 4.0.10, в которых устранено 7 уязвимостей (CVE не присвоены), для 6 из которых продемонстрированы прототипы эксплоитов для удалённого выполнения кода при атаке на некоторые проекты, написанные на языке Ruby (какие именно проекты пока не раскрывается). Уязвимости вызваны ошибками в движке регулярных выражений и функциях преобразования регистра символов, и проявляются в приложениях, использующих внешние данные внутри регулярных выражений или преобразующих регистр символов в полученных извне строках.</description>
+      <description>После года разработки опубликована новая стабильная ветка СУБД PostgreSQL 19. Обновления для новой ветки будут выходить в течение пяти лет до ноября 2031 года. Поддержка PostgreSQL 14.x, самой старой из поддерживаемых веток, прекращена в этом месяце. Релиз опубликован почти на два месяца позднее изначально намеченной даты из-за несвойственного прошлым выпускам потока сообщений об ошибках, выявленных благодаря анализу кода при помощи AI-инструментов.
+https://www.opennet.ru/opennews/art.shtml?num=66693</description>
     </item>
     
     <item>
