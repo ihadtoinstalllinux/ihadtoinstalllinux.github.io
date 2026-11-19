@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ruby on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ruby/</link>
+    <description>Recent content in Ruby on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2026 13:38:00 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимости в Ruby, допускающие удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Thu, 19 Nov 2026 13:38:00 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Опубликованы корректирующие выпуски языка программирования Ruby 3.3.14, 3.4.13, 4.0.10, в которых устранено 7 уязвимостей (CVE не присвоены), для 6 из которых продемонстрированы прототипы эксплоитов для удалённого выполнения кода при атаке на некоторые проекты, написанные на языке Ruby (какие именно проекты пока не раскрывается). Уязвимости вызваны ошибками в движке регулярных выражений и функциях преобразования регистра символов, и проявляются в приложениях, использующих внешние данные внутри регулярных выражений или преобразующих регистр символов в полученных извне строках.</description>
+    </item>
+    
+  </channel>
+</rss>
