@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 12:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск openMERC, открытого движка для игры Soldier of Fortune</title>
+      <title>Microsoft опубликовал стабильный выпуск дистрибутива Azure Linux 4.0</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 19 Nov 2026 11:37:16 +0500</pubDate>
+      <pubDate>Thu, 19 Nov 2026 12:38:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Опубликован openMERC, альтернативный открытый движок для шутера от первого лица Soldier of Fortune, выпущенного компанией Raven Software в 2000 году. Код написан на языках C/C++ c задействованием библиотеки SDL3 с использованием методологии чистой комнаты поверх кодовой базы Yamagi Quake II и распространяется под лицензией GPLv2. Для графики задействован OpenGL 3.2 (Linux-сборка требует драйвер с поддержкой OpenGL 3.3). Сборки движка подготовлены для Linux, Windows и macOS. Для запуска игры требуется установка pak-файлов из оригинальной игры Soldier of Fortune.</description>
+      <description>Компания Microsoft объявила о готовности первой стабильной версии дистрибутива Azure Linux 4.0, признанной готовой для широкого применения в виртуальных машинах и контейнерах. Поддерживается интеграция с WSL (Windows Subsystem for Linux), Azure Kubernetes Service, Azure App Service и Azure Cosmos DB. Ветка Azure Linux 4 преподносится как универсальное решение, оптимизированное для платформы Azure и пригодное для использования во всех связанных с ней сферах, от виртуальных машин и контейнеров до узлов в кластере Kubernetes и систем разработчиков.</description>
     </item>
     
     <item>
