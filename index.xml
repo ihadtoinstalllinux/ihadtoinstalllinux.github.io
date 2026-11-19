@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:38:12 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 11:37:16 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NGINX2Root - уязвимости в nginx, позволяющие выполнить код при использовании HTTP/2 или HTTP/3</title>
+      <title>Выпуск openMERC, открытого движка для игры Soldier of Fortune</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 19 Nov 2026 00:38:12 +0500</pubDate>
+      <pubDate>Thu, 19 Nov 2026 11:37:16 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Xint выявила пять уязвимостей в nginx, которым присвоено кодовое имя NGINX2Root. Наиболее опасная уязвимость (CVE-2026-123007) позволяет добиться выполнения кода с правами рабочего процесса, при приёме на сервере запросов с использованием протокола HTTP/2. Остальные 4 проблемы также допускают удалённое выполнение кода, но проявляются при наличии специфичных настроек или требуют особых условий для эксплуатации. Помимо этого, исследователями из Xint выявлена новая уязвимость в подсистеме SCTP ядра Linux, которая позволяет локальному пользователю получить привилегии root в системе и обойти изоляцию контейнеров.</description>
+      <description>Опубликован openMERC, альтернативный открытый движок для шутера от первого лица Soldier of Fortune, выпущенного компанией Raven Software в 2000 году. Код написан на языках C/C++ c задействованием библиотеки SDL3 с использованием методологии чистой комнаты поверх кодовой базы Yamagi Quake II и распространяется под лицензией GPLv2. Для графики задействован OpenGL 3.2 (Linux-сборка требует драйвер с поддержкой OpenGL 3.3). Сборки движка подготовлены для Linux, Windows и macOS. Для запуска игры требуется установка pak-файлов из оригинальной игры Soldier of Fortune.</description>
     </item>
     
     <item>
