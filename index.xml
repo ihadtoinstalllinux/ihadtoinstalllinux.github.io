@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:37:39 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2026 15:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск мультимедиа-пакета FFmpeg 9.1</title>
+      <title>Уязвимость в PHP, приводящая к отправке запроса без шифрования при использовании HTTPS</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 20 Nov 2026 14:37:39 +0500</pubDate>
+      <pubDate>Fri, 20 Nov 2026 15:38:08 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>После трёх месяцев разработки опубликован мультимедиа-пакет FFmpeg 9.1, включающий набор приложений и коллекцию библиотек для операций над различными мультимедиа-форматами (запись, преобразование и декодирование звуковых и видеоформатов). Пакет написан на языке Си и распространяется под лицензиями LGPL и GPL.
-https://www.opennet.ru/opennews/art.shtml?num=66726</description>
+      <description>Помимо 7 критических уязвимостей, приводящих к удалённому выполнению кода, в корректирующих выпусках PHP 8.5.13, 8.4.28, 8.3.37 и 8.2.36 устранена уязвимость CVE-2026-128064, приводящая к отправке запроса без шифрования при использовании потоковых функций, таких как file_get_contents() и fopen(), если в URL указана схема протокола с заглавной букой &amp;ldquo;S&amp;rdquo; (например, HTTPS://, httpS:// или FTPS://). Проблема вызвана тем, что при проверке корректности схемы регистр не учитывался, но для включения TLS проверялось наличие символа &amp;ldquo;s&amp;rdquo; в нижнем регистре в определённой позиции URL.</description>
     </item>
     
     <item>

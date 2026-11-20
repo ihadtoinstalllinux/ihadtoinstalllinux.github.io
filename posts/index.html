@@ -154,15 +154,14 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Выпуск мультимедиа-пакета FFmpeg 9.1
+    <h2>Уязвимость в PHP, приводящая к отправке запроса без шифрования при использовании HTTPS
     </h2>
   </header>
   <section class="entry-content">
-    <p>После трёх месяцев разработки опубликован мультимедиа-пакет FFmpeg 9.1, включающий набор приложений и коллекцию библиотек для операций над различными мультимедиа-форматами (запись, преобразование и декодирование звуковых и видеоформатов). Пакет написан на языке Си и распространяется под лицензиями LGPL и GPL.
-https://www.opennet.ru/opennews/art.shtml?num=66726</p>
+    <p>Помимо 7 критических уязвимостей, приводящих к удалённому выполнению кода, в корректирующих выпусках PHP 8.5.13, 8.4.28, 8.3.37 и 8.2.36 устранена уязвимость CVE-2026-128064, приводящая к отправке запроса без шифрования при использовании потоковых функций, таких как file_get_contents() и fopen(), если в URL указана схема протокола с заглавной букой “S” (например, HTTPS://, httpS:// или FTPS://). Проблема вызвана тем, что при проверке корректности схемы регистр не учитывался, но для включения TLS проверялось наличие символа “s” в нижнем регистре в определённой позиции URL....</p>
   </section>
-  <footer class="entry-footer"><span title='2026-11-20 14:37:39 +0500 +05'>November 20, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
-  <a class="entry-link" aria-label="post link to Выпуск мультимедиа-пакета FFmpeg 9.1" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
+  <footer class="entry-footer"><span title='2026-11-20 15:38:08 +0500 +05'>November 20, 2026</span>&nbsp;·&nbsp;ihadtoinstalllinux</footer>
+  <a class="entry-link" aria-label="post link to Уязвимость в PHP, приводящая к отправке запроса без шифрования при использовании HTTPS" href="https://ihadtoinstalllinux.github.io/posts/news/"></a>
 </article>
 
 <article class="post-entry"> 
