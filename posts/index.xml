@@ -6,14 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2026 16:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимость в PHP, приводящая к отправке запроса без шифрования при использовании HTTPS</title>
+      <title>Переполнение буфера в OpenSSL при работе с форматом Base64</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Fri, 20 Nov 2026 15:38:08 +0500</pubDate>
+      <pubDate>Fri, 20 Nov 2026 16:37:58 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Помимо 7 критических уязвимостей, приводящих к удалённому выполнению кода, в корректирующих выпусках PHP 8.5.13, 8.4.28, 8.3.37 и 8.2.36 устранена уязвимость CVE-2026-128064, приводящая к отправке запроса без шифрования при использовании потоковых функций, таких как file_get_contents() и fopen(), если в URL указана схема протокола с заглавной букой &amp;ldquo;S&amp;rdquo; (например, HTTPS://, httpS:// или FTPS://). Проблема вызвана тем, что при проверке корректности схемы регистр не учитывался, но для включения TLS проверялось наличие символа &amp;ldquo;s&amp;rdquo; в нижнем регистре в определённой позиции URL.</description>
+      <description>В криптографической библиотеке OpenSSL выявлена уязвимость (CVE-2026-121481), приводящая к переполнению буфера из-за целочисленного переполнения при обработке большого объёма данных в функции EVP_EncodeBlock(), предназначенной для кодирования в формате Base64. Исправление пока не принято в кодовую базу OpenSSL. Статус устранения уязвимости в дистрибутивах можно оценить на данных страницах: Debian, Ubuntu, SUSE, RHEL, Gentoo, Arch.
+https://www.opennet.ru/opennews/art.shtml?num=66728</description>
     </item>
     
     <item>
