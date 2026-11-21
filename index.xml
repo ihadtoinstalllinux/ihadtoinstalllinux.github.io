@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2026 01:37:26 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект Libreboot отменил полный запрет на код, созданный при помощи AI</title>
+      <title>Уязвимость в GnuPG GPGME, затрагивающая почтовые клиенты, Samba и Flatpak</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 21 Nov 2026 22:38:08 +0500</pubDate>
+      <pubDate>Sun, 22 Nov 2026 01:37:26 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Проект Libreboot, развивающий свободную загрузочную прошивку, объявил о пересмотре утверждённых в прошлом месяце правил, запрещавших любое применение AI-инструментов при разработке изменений. Указано, что разработчики Libreboot по-прежнему выступают против применения AI, но признают невозможность бороться против экспансии AI в одиночку, в условиях, когда проекты, от которых зависит Libreboot, такие как ядро Linux, CoreBoot и EDK2, допускают приём изменений, сгенерированных через AI. Признаётся, что без создания форков CoreBoot и EDK2 нереально избавиться от появления AI-кода, но у Libreboot нет ресурсов на выполнение подобной работы.</description>
+      <description>В развиваемой проектом GnuPG библиотеке GPGME (GnuPG Made Easy) выявлена критическая уязвимость (CVE-2026-129975), приводящая к утечке данных из памяти приложения, использующего GPGME, и потенциально к удалённому выполнению кода при обработке ключей OpenPGP, содержащих специально оформленный длинный идентификатор. Среди приложений, использующих GPGME: Samba, Flatpak, большинство почтовых клиентов, некоторые XMPP-клиенты, программы Gpg4win, GnuPG Desktop и GnuPG VS-Desktop.
+https://www.opennet.ru/opennews/art.shtml?num=66739</description>
     </item>
     
     <item>
