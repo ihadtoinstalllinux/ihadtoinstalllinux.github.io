@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:37:27 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2026 18:38:04 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amazon опубликовал AWS Emulator, эмулятор сервисов AWS</title>
+      <title>Выпуск Debian 13.8</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sat, 21 Nov 2026 13:37:27 +0500</pubDate>
+      <pubDate>Sat, 21 Nov 2026 18:38:04 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Компания Amazon представила инструментарий AWS Emulator, предназначенный для локального тестирования API AWS и запуска платформ непрерывной интеграции на своей системе, без обращения к облачной инфраструктуре AWS и без необходимости создания учётной записи в AWS. AWS Emulator позволяет работать с эмулируемыми ресурсами, вместо реальных ресурсов AWS, может использоваться как AWS API endpoint для AWS CLI и AWS SDK, теоретически совместим с утилитами Яндекс.Облако. Код эмулятора написан на языке Rust и распространяется в форме общественного достояния (CC0).</description>
+      <description>Сформировано восьмое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 122 обновления с устранением проблем со стабильностью и 150 обновлений с устранением уязвимостей. Из изменений в Debian 13.8 можно отметить обновление до свежих стабильных версий пакетов mariadb, openssl, thunderbird и rust.
+https://www.opennet.ru/opennews/art.shtml?num=66738</description>
     </item>
     
     <item>
