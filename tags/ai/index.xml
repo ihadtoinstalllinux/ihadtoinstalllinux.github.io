@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ai/</link>
+    <description>Recent content in AI on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2026 22:38:08 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проект Libreboot отменил полный запрет на код, созданный при помощи AI</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 21 Nov 2026 22:38:08 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Проект Libreboot, развивающий свободную загрузочную прошивку, объявил о пересмотре утверждённых в прошлом месяце правил, запрещавших любое применение AI-инструментов при разработке изменений. Указано, что разработчики Libreboot по-прежнему выступают против применения AI, но признают невозможность бороться против экспансии AI в одиночку, в условиях, когда проекты, от которых зависит Libreboot, такие как ядро Linux, CoreBoot и EDK2, допускают приём изменений, сгенерированных через AI. Признаётся, что без создания форков CoreBoot и EDK2 нереально избавиться от появления AI-кода, но у Libreboot нет ресурсов на выполнение подобной работы.</description>
+    </item>
+    
+  </channel>
+</rss>
