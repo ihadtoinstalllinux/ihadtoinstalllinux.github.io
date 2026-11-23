@@ -6,14 +6,15 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2026 23:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>XNU Linux для загрузки ядра и пользовательского окружения macOS в Linux</title>
+      <title>Уязвимости во FreeBSD, приводящие к повышению привилегий</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 23 Nov 2026 17:37:58 +0500</pubDate>
+      <pubDate>Mon, 23 Nov 2026 23:38:02 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Хэян Чжоу (Heyang Zhou), один из создателей платформы Deno Deploy, опубликовал проект XNU Linux, позволяющий собрать и загрузить ядро XNU в качестве модуля ядра Linux, и использовать его для выполнения пользовательского окружения macOS в Linux. XNU применяется в macOS, является частью открытого проекта Darwin и представляет собой гибридное ядро, сочетающее микроядро Mach, подсистемы ядра FreeBSD и C++ API IOKit для написания драйверов. Загрузив XNU как модуль ядра можно внутри Linux запустить штатное графическое окружение macOS, в котором будут выполняться приложения macOS, включая браузер Safari.</description>
+      <description>Во FreeBSD устранено 25 уязвимости, из которых две потенциально позволяет удалённо выполнить код с правами root в конфигурациях с NFS и bsnmpd, а 14 дают возможность повысить свои привилегии в системе. Уязвимости устранены в обновлениях FreeBSD 15.1-RELEASE-p7, 14.4-RELEASE-p13 и 14.5-RELEASE-p4.
+https://www.opennet.ru/opennews/art.shtml?num=66750</description>
     </item>
     
     <item>
