@@ -6,15 +6,15 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:37:58 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2026 13:37:29 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск дистрибутива CachyOS 261122 с поддержкой Easy Anti Cheat 2</title>
+      <title>Выпуск uutils 0.13, варианта GNU Coreutils на языке Rust. Уязвимость в uutils</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Sun, 22 Nov 2026 21:37:58 +0500</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:37:29 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен выпуск дистрибутива CachyOS 261122, основанного на пакетной базе Arch Linux, применяющего непрерывную модель доставки обновлений и пользующегося популярностью у любителей компьютерных игр. По данным сервиса ProtonDB проект CachyOS является самым популярным дистрибутивом Linux (доля 21.1%), применяемым геймерами.
-https://www.opennet.ru/opennews/art.shtml?num=66745</description>
+      <description>Опубликован выпуск проекта uutils coreutils 0.13.0 (Rust Coreutils), развивающего аналог пакета GNU Coreutils, написанный на языке Rust. В состав coreutils входит более ста утилит, включая sort, cat, chmod, chown, chroot, cp, date, dd, echo, hostname, id, ln и ls. Целью проекта является создание кроссплатформенной альтернативной реализации Coreutils, среди прочего способной работать на платформах Windows, Redox и Fuchsia.
+https://www.opennet.ru/opennews/art.shtml?num=66746</description>
     </item>
     
     <item>
