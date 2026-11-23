@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ladybird on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/ladybird/</link>
+    <description>Recent content in Ladybird on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2026 00:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/ladybird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Независимый браузер Ladybird перешёл на стадию альфа-тестирования</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Tue, 24 Nov 2026 00:37:44 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Представлен первый альфа-выпуск web-браузера Ladybird, развивающего собственный движок, независимый от других проектов, и предлагающего интерфейс на основе Qt. Продукт соответствует концепции &amp;ldquo;только браузер и ничего лишнего&amp;rdquo;. На данной стадии браузер уже пригоден для работы с большинством сайтов, включая Twitch, Gmail и YouTube, но пока полностью не избавлен от ошибок и проблем при просмотре некоторых сайтов. Код проекта написан на языках C++ и Rust и распространяется под лицензией BSD. Готовые сборки сформированы для Linux (Flatpak, deb, rpm) и macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,15 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:38:02 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2026 00:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Уязвимости во FreeBSD, приводящие к повышению привилегий</title>
+      <title>Независимый браузер Ladybird перешёл на стадию альфа-тестирования</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Mon, 23 Nov 2026 23:38:02 +0500</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:37:44 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Во FreeBSD устранено 25 уязвимости, из которых две потенциально позволяет удалённо выполнить код с правами root в конфигурациях с NFS и bsnmpd, а 14 дают возможность повысить свои привилегии в системе. Уязвимости устранены в обновлениях FreeBSD 15.1-RELEASE-p7, 14.4-RELEASE-p13 и 14.5-RELEASE-p4.
-https://www.opennet.ru/opennews/art.shtml?num=66750</description>
+      <description>Представлен первый альфа-выпуск web-браузера Ladybird, развивающего собственный движок, независимый от других проектов, и предлагающего интерфейс на основе Qt. Продукт соответствует концепции &amp;ldquo;только браузер и ничего лишнего&amp;rdquo;. На данной стадии браузер уже пригоден для работы с большинством сайтов, включая Twitch, Gmail и YouTube, но пока полностью не избавлен от ошибок и проблем при просмотре некоторых сайтов. Код проекта написан на языках C++ и Rust и распространяется под лицензией BSD. Готовые сборки сформированы для Linux (Flatpak, deb, rpm) и macOS.</description>
     </item>
     
     <item>
