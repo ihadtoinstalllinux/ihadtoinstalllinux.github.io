@@ -6,14 +6,14 @@
     <description>Recent content in Posts on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:37:48 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2026 12:38:11 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Релиз дистрибутива Manjaro Linux 27.0</title>
+      <title>Прошивки для превращения плат ESP8266 и ESP32 в аналоговую радиостанцию</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Tue, 24 Nov 2026 11:37:48 +0500</pubDate>
+      <pubDate>Tue, 24 Nov 2026 12:38:11 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Представлен релиз дистрибутива Manjaro Linux 27.0, построенного на основе Arch Linux и ориентированного на начинающих пользователей. Дистрибутив примечателен наличием упрощённого и дружественного пользователю процесса установки, поддержкой автоматического определения оборудования и установки необходимых для его работы драйверов. Manjaro поставляется в виде live-сборок с графическими окружениями KDE, GNOME и Xfce, формируемых для архитектуры x86_64 и различных плат на базе процессоров ARM (в настоящее время сборки ещё недоступны). При участии сообщества дополнительно развиваются сборки с Budgie, Cinnamon, Sway, COSMIC, Deepin, LXQt и i3.</description>
+      <description>Проект ESP-AnalogRadio развивает набор открытых прошивок для микроконтроллеров ESP8266 и ESP32 Classic/C5/C6, использующих встроенный радиочастотный модуль (RF), штатно применяемый для Wi-Fi и Bluetooth, для генерации и приёма аналоговых радиосигналов с амплитудной (AM), частотной (FM) и однополосной (SSB) модуляцией в диапазонах 2.4 ГГц и 5 ГГц. В FM-режиме реализована поддержка стереозвука. Поскольку сигнал передаётся на частотах Wi-Fi, приём невозможен на бытовые AM/FM радиоприёмники и для демодуляции требуется SDR-устройство с поддержкой диапазонов 2.</description>
     </item>
     
     <item>
