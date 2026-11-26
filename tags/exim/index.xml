@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exim on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/exim/</link>
+    <description>Recent content in Exim on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2026 12:37:57 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/exim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Уязвимость в Exim, допускающая удалённое выполнение кода</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Thu, 26 Nov 2026 12:37:57 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Опубликован корректирующий выпуск почтового сервера Exim 4.100.2, в котором устранена уязвимость (CVE не назначен), приводящая к переполнению буфера при декодировании специально оформленных заголовков. Не исключается эксплуатация уязвимости для удалённого выполнения кода с правами root. Проблема проявляется начиная с версии Exim 4.100.
+https://www.opennet.ru/opennews/art.shtml?num=66772</description>
+    </item>
+    
+  </channel>
+</rss>
