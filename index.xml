@@ -6,14 +6,14 @@
     <description>Recent content on iHADtoinstalllinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:37:44 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2026 11:37:24 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>В инсталляторе Agama, применяемом в SUSE и openSUSE, появится AI-режим установки</title>
+      <title>Взлом инфраструктуры 1Password привёл к утечке данных о пользователях</title>
       <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
-      <pubDate>Thu, 26 Nov 2026 00:37:44 +0500</pubDate>
+      <pubDate>Thu, 26 Nov 2026 11:37:24 +0500</pubDate>
       
       <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
-      <description>Разработчики инсталлятора Agama, применяемого в SUSE и openSUSE, объявили о добавлении MCP-сервера (Model Context Protocol), при помощи которого AI-ассистенты смогут управлять процессом установки. Через протокол MCP AI-агенты получат доступ к информации об оборудовании, возможностям для подготовки и проверки конфигурации, а также к инструментам отслеживания и управления процессом установки. По умолчанию MCP-сервер будет отключён и процесс работы пользователей, не применяющих AI, останется без изменений. Средства для интеграции с AI-ассистентами будут добавлены в следующем выпуске Agama 26, а до его публикации AI-режим можно опробовать в предварительных ночных сборках.</description>
+      <description>Раскрыты сведения об атаке на инфраструктуру менеджера паролей 1Password, в результате которой злоумышленникам удалось получить доступ к нескольким серверам проекта и скопировать данные об учётных записях клиентов, включая имена, email и служебные метаданные, используемые при подключении к сервису. Утверждается, что данные о сохранённых паролях и криптоключах не пострадали, так как они зашифрованы паролями и ключами, известными только пользователю. Для продолжения работы пользователям 1Password не требуется выполнять какие-либо действия, а получение на email запросов с предложением инициировать процесс восстановления доступа или смены пароля следует воспринимать как фишинг.</description>
     </item>
     
     <item>
