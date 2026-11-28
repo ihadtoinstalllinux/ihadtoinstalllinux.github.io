@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unkernel on iHADtoinstalllinux</title>
+    <link>https://ihadtoinstalllinux.github.io/tags/unkernel/</link>
+    <description>Recent content in Unkernel on iHADtoinstalllinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2026 16:37:19 +0500</lastBuildDate><atom:link href="https://ihadtoinstalllinux.github.io/tags/unkernel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ядро Unkernel и инструментарий Tabernetes для запуска в браузере Linux-контейнеров и узлов кластера Kubernetes</title>
+      <link>https://ihadtoinstalllinux.github.io/posts/news/</link>
+      <pubDate>Sat, 28 Nov 2026 16:37:19 +0500</pubDate>
+      
+      <guid>https://ihadtoinstalllinux.github.io/posts/news/</guid>
+      <description>Проект Tabernetes подготовил инструментарий для создания кластера Kubernetes, узлы для запуска изолированных контейнеров в котором выполняются во вкладках web-браузеров энтузиастов, готовых предоставить свои вычислительные ресурсы. В качестве примера введён в строй демонстрационный кластер, для создания узла в котором достаточно нажать на ссылку или отсканировать QR-код на смартфоне. Для выполнения контейнеров с Linux в web-браузере создан OCI runtime tabc, похожий на runc. В качестве ядра Linux задействована WebAssembly-сборка ядра 7.3 от проекта unkernel.</description>
+    </item>
+    
+  </channel>
+</rss>
